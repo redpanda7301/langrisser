@@ -824,3 +824,97 @@ function openForm97() {
 function closeForm97() {
   document.getElementById("myForm97").style.display = "none";
 }
+function openForm98() {
+  document.getElementById("myForm98").style.display = "block";
+}
+
+function closeForm98() {
+  document.getElementById("myForm98").style.display = "none";
+}
+function openForm99() {
+  document.getElementById("myForm99").style.display = "block";
+}
+
+function closeForm99() {
+  document.getElementById("myForm99").style.display = "none";
+}
+
+function openForm100() {
+  document.getElementById("myForm100").style.display = "block";
+}
+
+function closeForm100() {
+  document.getElementById("myForm100").style.display = "none";
+}
+
+function openForm101() {
+  document.getElementById("myForm101").style.display = "block";
+}
+
+function closeForm101() {
+  document.getElementById("myForm101").style.display = "none";
+}
+
+function openForm102() {
+  document.getElementById("myForm102").style.display = "block";
+}
+
+function closeForm102() {
+  document.getElementById("myForm102").style.display = "none";
+}
+
+function openForm103() {
+  document.getElementById("myForm103").style.display = "block";
+}
+
+function closeForm103() {
+  document.getElementById("myForm103").style.display = "none";
+}
+
+function openForm104() {
+  document.getElementById("myForm104").style.display = "block";
+}
+
+function closeForm104() {
+  document.getElementById("myForm104").style.display = "none";
+}
+
+function openForm105() {
+  document.getElementById("myForm105").style.display = "block";
+}
+
+function closeForm105() {
+  document.getElementById("myForm105").style.display = "none";
+}
+
+function openForm106() {
+  document.getElementById("myForm106").style.display = "block";
+}
+
+function closeForm106() {
+  document.getElementById("myForm106").style.display = "none";
+}
+
+function openForm107() {
+  document.getElementById("myForm107").style.display = "block";
+}
+
+function closeForm107() {
+  document.getElementById("myForm107").style.display = "none";
+}
+
+function openForm108() {
+  document.getElementById("myForm108").style.display = "block";
+}
+
+function closeForm108() {
+  document.getElementById("myForm108").style.display = "none";
+}
+
+function openForm109() {
+  document.getElementById("myForm109").style.display = "block";
+}
+
+function closeForm109() {
+  document.getElementById("myForm109").style.display = "none";
+}
