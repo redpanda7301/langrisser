@@ -1682,7 +1682,7 @@ table tr td.td_rank img { width: 15%; margin: 3px;}
 /* Banner */
 
 	#banner-wrapper {
-		background: #c8d2bc url(images/bg1.png);
+		background: #c8d2bc url(images/bg4.png);
 		padding: 2em 0;
 	}
 
@@ -1691,7 +1691,7 @@ table tr td.td_rank img { width: 15%; margin: 3px;}
 		width: 100%;
 		padding: 6em 0;
 		border-radius: 10px;
-		background-image: url(bg/bg3.jpg);
+		background-image: url(bg/bg4.png);
 		background-size: cover;
 				box-shadow: inset 0 0 0 20px #fff;
 	}
@@ -2050,7 +2050,7 @@ table tr td.td_rank img { width: 15%; margin: 3px;}
 		/* Banner */
 
 			#banner-wrapper {
-				background: #000000 url(images/bg1.png);
+				background: #000000 url(images/bg4.png);
 				padding: 20px 0;
 			}
 

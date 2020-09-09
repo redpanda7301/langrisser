@@ -918,3 +918,26 @@ function openForm109() {
 function closeForm109() {
   document.getElementById("myForm109").style.display = "none";
 }
+
+function openForm110() {
+  document.getElementById("myForm110").style.display = "block";
+}
+function closeForm110() {
+  document.getElementById("myForm110").style.display = "none";
+}
+
+function openForm111() {
+  document.getElementById("myForm111").style.display = "block";
+}
+
+function closeForm111() {
+  document.getElementById("myForm111").style.display = "none";
+}
+
+function openForm112() {
+  document.getElementById("myForm112").style.display = "block";
+}
+
+function closeForm112() {
+  document.getElementById("myForm112").style.display = "none";
+}
