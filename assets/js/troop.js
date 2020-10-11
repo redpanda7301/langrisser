@@ -941,3 +941,27 @@ function openForm112() {
 function closeForm112() {
   document.getElementById("myForm112").style.display = "none";
 }
+
+function openForm113() {
+  document.getElementById("myForm113").style.display = "block";
+}
+
+function closeForm113() {
+  document.getElementById("myForm113").style.display = "none";
+}
+
+function openForm114() {
+  document.getElementById("myForm114").style.display = "block";
+}
+
+function closeForm114() {
+  document.getElementById("myForm114").style.display = "none";
+}
+
+function openForm115() {
+  document.getElementById("myForm115").style.display = "block";
+}
+
+function closeForm115() {
+  document.getElementById("myForm115").style.display = "none";
+}
