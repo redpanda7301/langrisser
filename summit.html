@@ -62,9 +62,12 @@
 										<li><a href="img/stage/2.png"><img src="img/stage/2.png" alt="서밋맵" /></a></li>
 										<li><a href="img/stage/3.png"><img src="img/stage/3.png" alt="서밋맵" /></a></li>
 										<li><a href="img/stage/4.png"><img src="img/stage/4.png" alt="서밋맵" /></a></li>
+									</ul>
+									<ul>
 										<li><a href="img/stage/5.png"><img src="img/stage/5.png" alt="서밋맵" /></a></li>
 										<li><a href="img/stage/6.png"><img src="img/stage/6.png" alt="서밋맵" /></a></li>
 										<li><a href="img/stage/7.png"><img src="img/stage/7.png" alt="서밋맵" /></a></li>
+										<li><a href="img/stage/1.png"><img src="img/stage/1.png" alt="서밋맵" /></a></li>
 									</ul>
 								</div>
 							</div>
@@ -104,17 +107,17 @@
 			});
 		
 			//Slide Gallery 슬라이딩 초기화
-			jQuery(".list_wrap").width("700"*parseInt(jQuery(".list_wrap ul").size())+"px");
+			jQuery(".list_wrap").width("600"*parseInt(jQuery(".list_wrap ul").size())+"px");
 			jQuery(".list_wrap ul:last").prependTo(".list_wrap");
-			jQuery(".list_wrap").css("margin-left","-700px");
+			jQuery(".list_wrap").css("margin-left","-600px");
 		
 			//Silde Gallery의 prev버튼
 			jQuery("button.btn_prev").click(function() {
 				jQuery(".list_wrap").animate({
-					marginLeft:"+=700px"
+					marginLeft:"+=600px"
 				},"swing",function() {
 					jQuery(".list_wrap ul:last").prependTo(".list_wrap");
-					jQuery(".list_wrap").css("margin-left","-700px");
+					jQuery(".list_wrap").css("margin-left","-600px");
 					jQuery(".list_wrap ul li").removeClass();
 				});
 			});
@@ -122,10 +125,10 @@
 			//Silde Gallery의 next버튼
 			jQuery("button.btn_next").click(function() {
 				jQuery(".list_wrap").animate({
-					marginLeft:"-=700px"
+					marginLeft:"-=600px"
 				},"swing",function() {
 					jQuery(".list_wrap ul:first").appendTo(".list_wrap");
-					jQuery(".list_wrap").css("margin-left","-700px");
+					jQuery(".list_wrap").css("margin-left","-600px");
 					jQuery(".list_wrap ul li").removeClass();
 				});
 			});

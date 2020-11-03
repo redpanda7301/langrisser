@@ -1,9 +1,9 @@
 	body {padding:0px; margin:0px; line-height:1}
-	.photo_gallery {position:relative; width:800px; padding:20px 4px; }
-	.photo_gallery p.photo_img {width:696px; height:447px; border:2px solid #CFC1C0; margin:0px auto 20px auto}
-	.photo_gallery p.photo_img img {width:696px; height:447px}
-	.photo_gallery .photo_list {width:700px; overflow:hidden; margin-left:49px}
-	.photo_gallery .photo_list .list_wrap ul {width:700px; list-style:none; padding:0px; margin:0px; float:left}
+	.photo_gallery {position:relative; width:700px; padding:20px 4px; }
+	.photo_gallery p.photo_img {width:596px; height:447px; border:2px solid #CFC1C0; margin:0px auto 20px auto}
+	.photo_gallery p.photo_img img {width:596px; height:447px}
+	.photo_gallery .photo_list {width:600px; overflow:hidden; margin-left:49px}
+	.photo_gallery .photo_list .list_wrap ul {width:600px; list-style:none; padding:0px; margin:0px; float:left}
 	.photo_gallery .photo_list .list_wrap ul li {float:left; width:140px; line-height:0; padding:0px 5px}
 	.photo_gallery .photo_list .list_wrap ul li a img {width:136px; height:102px; vertical-align:middle; border:2px solid #CFC1C0}
 	.photo_gallery .photo_list .list_wrap ul li.active a img {border:2px solid #DE3838}
