@@ -965,3 +965,18 @@ function openForm115() {
 function closeForm115() {
   document.getElementById("myForm115").style.display = "none";
 }
+function openForm116() {
+  document.getElementById("myForm116").style.display = "block";
+}
+
+function closeForm116() {
+  document.getElementById("myForm116").style.display = "none";
+}
+
+function openForm117() {
+  document.getElementById("myForm117").style.display = "block";
+}
+
+function closeForm117() {
+  document.getElementById("myForm117").style.display = "none";
+}
