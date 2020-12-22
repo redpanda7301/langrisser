@@ -70,6 +70,7 @@
 			.table4 {
 				width:500px;
 				border-collapse: collapse;
+				border-left:1px solid #444444;
 				margin:5px;
 			}
 			.table4 td:hover{
@@ -78,6 +79,8 @@
 			.table4 tr, .table4 td{
 				padding:5px;
 				text-align:center;
+				border-top: 1px solid #444444;
+				border-right: 1px solid #444444;
 				border-bottom: 1px solid #444444;
 			}
 			.table5{
@@ -93,6 +96,7 @@
 			.table6 {
 				width:600px;
 				border-collapse: collapse;
+				border-left:1px solid #444444;
 				margin:5px;
 			}
 			.table6 td:hover{
@@ -101,6 +105,8 @@
 			.table6 tr, .table4 td{
 				padding:5px;
 				text-align:center;
+				border-top: 1px solid #444444;
+				border-right: 1px solid #444444;
 				border-bottom: 1px solid #444444;
 			}
 			.div1{
@@ -195,7 +201,6 @@
 					var value = checkbox.val();
 					var array = value.split(',');
 					var checkId = value.substr(0,1);
-					var resultCount = 8;
 
 					if(checkbox.prop('checked')){
 						checkbox.prop("checked", false);
@@ -233,7 +238,9 @@
 					var value = checkbox.val();
 					var array = value.split(',');
 					var checkId = value.substr(0,1);
-					var resultCount = 8;
+					var resultCount1 = 8;
+					var resultCount2 = 12;
+
 
 					if(checkId == 'm'){
 						if($(this).prop('checked')){
@@ -259,16 +266,29 @@
 						if($(this).prop('checked')){
 							for(var i=0;i<array.length;i++){
 								var temp = array[i].split('-');
-								//var result = Number($("#"+temp[0]).val()) + Number(temp[1]) ;
-								var result = Number($("#"+temp[0]).val()) + Number(resultCount) ;
+								var temp2 = temp[0].substring(1,2);
+								var result = 0;
+								if(temp2 == 1){
+									result = Number($("#"+temp[0]).val()) + Number(resultCount1);	
+								} else if(temp2 == 2){
+									result = Number($("#"+temp[0]).val()) + Number(resultCount2);
+								}
+
 								$("#"+temp[0]).val(result);
 								$("#"+temp[0]).css('background','#99ccff');
 							} 
 						} else {
 							for(var i=0;i<array.length;i++){
 								var temp = array[i].split('-');
-								//var result = Number($("#"+temp[0]).val()) - Number(temp[1]) ;
-								var result = Number($("#"+temp[0]).val()) - Number(resultCount) ;
+								var temp2 = temp[0].substring(1,2);
+								var result = 0;
+
+								if(temp2 == 1){
+									Number($("#"+temp[0]).val()) - Number(resultCount1);
+								} else if(temp2 == 2){
+									Number($("#"+temp[0]).val()) - Number(resultCount2);
+								}
+
 								$("#"+temp[0]).val(result);
 								if($("#"+temp[0]).val() == 0){
 									$("#"+temp[0]).css('background','#ffffff');
@@ -539,7 +559,7 @@
 								<td rowspan="4"><img src="https://redpanda7301.github.io/langrisser/img/card/%EB%A7%A4%ED%8A%9C%EA%B8%B0%EB%B3%91.png"><br>매튜(기병)</td>
 								<td></td>
 								<td>
-									<img src="https://patchwiki.biligame.com/images/langrisser/thumb/f/fc/jvrkladf2uzk19xagee4pjk2d2v7nun.png/96px-%E6%88%98%E5%A3%AB.png"><br>
+									<img src="https://redpanda7301.github.io/langrisser/img/classlist/swordman_1.png"><br>
 									견습 파이터<br>
 									<input type="checkbox" value="m11-1">
 								</td>
@@ -588,7 +608,7 @@
 								<td rowspan="4"><img src="https://redpanda7301.github.io/langrisser/img/card/%EB%A7%A4%ED%8A%9C%EB%B9%84%EB%B3%91.png"><br>매튜(비병)</td>
 								<td></td>
 								<td>
-									<img src="https://patchwiki.biligame.com/images/langrisser/thumb/f/fc/jvrkladf2uzk19xagee4pjk2d2v7nun.png/96px-%E6%88%98%E5%A3%AB.png"><br>
+									<img src="https://redpanda7301.github.io/langrisser/img/classlist/swordman_1.png"><br>
 									견습 파이터<br>
 									<input type="checkbox" value="m11-1">
 								</td>
@@ -637,7 +657,7 @@
 								<td rowspan="4"><img src="https://redpanda7301.github.io/langrisser/img/card/%EB%A7%A4%ED%8A%9C%EA%B6%81%EB%B3%91.png"><br>매튜(궁병)</td>
 								<td></td>
 								<td>
-									<img src="https://patchwiki.biligame.com/images/langrisser/thumb/f/fc/jvrkladf2uzk19xagee4pjk2d2v7nun.png/96px-%E6%88%98%E5%A3%AB.png"><br>
+									<img src="https://redpanda7301.github.io/langrisser/img/classlist/swordman_1.png"><br>
 									견습 파이터<br>
 									<input type="checkbox" value="m11-1">
 								</td>
@@ -731,11 +751,12 @@
 								</td>
 								<td></td>
 							</tr>
+							<!-- 아멜다 -->
 							<tr>
 								<td rowspan="4"><img src="https://redpanda7301.github.io/langrisser/img/card/%EC%95%84%EB%A9%9C%EB%8B%A4.png"><br>아멜다</td>
 								<td></td>
 								<td>
-									<img src="https://patchwiki.biligame.com/images/langrisser/thumb/1/17/lzrcihgvqhb8elzbulx4nmt6t3rmj55.png/89px-%E4%BF%AE%E5%A5%B3.png"><br>
+									<img src="https://redpanda7301.github.io/langrisser/img/classlist/monk_1.png"><br>
 									견습 시스터<br>
 									<input type="checkbox" value="m14-1">
 								</td>
@@ -780,11 +801,12 @@
 								</td>
 								<td></td>
 							</tr>
+							<!-- 그레니어 -->
 							<tr>
 								<td rowspan="4"><img src="https://redpanda7301.github.io/langrisser/img/card/%EA%B7%B8%EB%A0%88%EB%8B%88%EC%96%B4%EC%B4%88%EC%A0%88.png"><br>그레니어</td>
 								<td></td>
 								<td>
-									<img src="https://patchwiki.biligame.com/images/langrisser/thumb/2/2e/s3mqes5whz80yly7gt43kwz1tj7o3v1.png/95px-%E5%A3%AB%E5%AE%98.png"><br>
+									<img src="https://redpanda7301.github.io/langrisser/img/classlist/lancer_1.png"><br>
 									견습 서전트<br>
 									<input type="checkbox" value="m12-1">
 								</td>	
@@ -6269,7 +6291,7 @@
 						</colgroup>
 						<thead>
 							<tr>
-								<th>열쇠/골드</th>
+								<th>열쇠<br>골드</th>
 								<th><img src="https://redpanda7301.github.io/langrisser/img/item/엔열쇠.png" title="순박한 마음의 열쇠"><br>순박한</th>
 								<th><img src="https://redpanda7301.github.io/langrisser/img/item/알열쇠.png" title="순수한 마음의 열쇠"><br>순수한</th>
 								<th><img src="https://redpanda7301.github.io/langrisser/img/item/스알열쇠.png" title="빛나는 마음의 열쇠"><br>빛나는</th>
@@ -7403,8 +7425,8 @@
 
 			<table style="margin-top: 10px;">
 				<tr>	
-					<td>오타 및 수정사항 : 레이갈드 제국/어쿄</td>
-					<td>최종 작업일자 : 2020-12-21</td>
+					<td>오타 및 수정사항 : 레이갈드 제국-어쿄</td>
+					<td>최종 작업일자 : 2020-12-22</td>
 				</tr>
 			</table>
 		</div>
