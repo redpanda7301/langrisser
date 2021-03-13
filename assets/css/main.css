@@ -1682,16 +1682,17 @@ table tr td.td_rank img { width: 15%; margin: 3px;}
 /* Banner */
 
 	#banner-wrapper {
-		background: #c8d2bc url(images/bg1.png);
+		background: #c8d2bc url(images/bg_origin_원본.png);
 		padding: 2em 0;
 	}
 
 	#banner {
 		position: relative;
 		width: 100%;
+		height: auto !important;
 		padding: 6em 0;
 		border-radius: 10px;
-		background-image: url(bg/bg_origin.png);
+		background-image: url(bg/bg_origin_원본.png);
 		background-size: cover;
 				box-shadow: inset 0 0 0 20px #fff;
 	}
