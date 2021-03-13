@@ -1778,7 +1778,7 @@ table tr td.td_rank img { width: 15%; margin: 3px;}
 		/* Banner */
 
 			#banner {
-				width: 100%;
+				max-width: 100%;
 				padding: 5em 0;
 			}
 
