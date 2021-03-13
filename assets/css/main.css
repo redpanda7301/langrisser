@@ -1688,8 +1688,7 @@ table tr td.td_rank img { width: 15%; margin: 3px;}
 
 	#banner {
 		position: relative;
-		width: 100%;
-		height: auto !important;
+		max-width: 100%;
 		padding: 6em 0;
 		border-radius: 10px;
 		background-image: url(bg/bg_origin_원본.png);
