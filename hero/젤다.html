@@ -48,31 +48,33 @@
 			  <img src="../img/full/젤다/1.png" style="width:100%">
 			  <div class="text">기본</div>
 			</div>
-
+			
 			<div class="mySlides fade">
-			  <img src="../img/full/젤다/2.png" style="width:100%">
+			   <img src="../img/full/젤다/2.png" style="width:100%">
+			  <div class="text">빛의 메아리</div>
+			</div>
+			
+			<div class="mySlides fade">
+			  <img src="../img/full/젤다/3.png" style="width:100%">
 			  <div class="text">한정판매</div>
 			</div>
 
 			<div class="mySlides fade">
-			   <img src="../img/full/젤다/3.png" style="width:100%">
+			   <img src="../img/full/젤다/4.png" style="width:100%">
 			  <div class="text">형귀스킨</div>
 			</div>
 			
 			<div class="mySlides fade">
-			   <img src="../img/full/젤다/4.png" style="width:100%">
+			   <img src="../img/full/젤다/5.png" style="width:100%">
 			  <div class="text">한정판매</div>
 			</div>
 			
 			<div class="mySlides fade">
-			   <img src="../img/full/젤다/5.png" style="width:100%">
+			   <img src="../img/full/젤다/6.png" style="width:100%">
 			  <div class="text">이벤트</div>
 			</div>
 			
-			<div class="mySlides fade">
-			   <img src="../img/full/젤다/6.png" style="width:100%">
-			  <div class="text">빛의 메아리</div>
-			</div>
+
 
 			<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 			<a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -107,7 +109,7 @@
 					</tr>
 					<tr>
 						<th>세력</th>
-						<td colspan="3"><img src="../img/group/4.png"/><img src="../img/group/8.png"/><img src="../img/group/10.png"/></td>
+						<td colspan="3"><img src="../img/group/4.png" width="32" height="32" /><img src="../img/group/8.png" width="32" height="32" /><img src="../img/group/10.png" width="32" height="32" /></td>
 					</tr>
 					<tr>
 						<th>생명</th>
@@ -200,8 +202,30 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<th>클래스</th>
-						<td>쉐도우<img src="../img/troop/Icon_Occupation_Assassin.png" width="35px"/></td>
+						<th rowspan="2">클래스</th>
+						<td colspan="3">쉐도우<img src="../img/troop/Icon_Occupation_Assassin.png" width="35px"/></td>
+						<tr>
+							<td colspan="4">
+								<div class="class1">
+									<img src="../img/SD/젤다/1/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/젤다/2/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/젤다/3/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/젤다/4/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/젤다/5/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/젤다/6/1.png" style="width:22%; height:131px">
+								</div>
+							</td>
+						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -277,8 +301,30 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<th>클래스</th>
-						<td>디스오더<img src="../img/troop/Icon_Occupation_Monster.png" width="35px"/></td>
+						<th rowspan="2">클래스</th>
+						<td colspan="3">디스오더<img src="../img/troop/Icon_Occupation_Monster.png" width="35px"/></td>
+						<tr>
+							<td colspan="4">
+								<div class="class2">
+									<img src="../img/SD/젤다/1/2.png" style="width:22%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/젤다/2/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/젤다/3/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/젤다/4/2.png" style="width:22%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/젤다/5/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/젤다/6/1.png" style="width:22%; height:131px">
+								</div>
+							</td>
+						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -1055,17 +1101,23 @@ function currentSlide(n) {
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
+  var sd1 = document.getElementsByClassName("class1");
+  var sd2 = document.getElementsByClassName("class2");
+  //var dots = document.getElementsByClassName("dot");
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+      slides[i].style.display = "none";
+	  sd1[i].style.display = "none";
+	  sd2[i].style.display = "none";
   }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+// for (i = 0; i < dots.length; i++) {
+//      dots[i].className = dots[i].className.replace(" active", "");
+//  }
+  slides[slideIndex-1].style.display = "block";
+  sd1[slideIndex-1].style.display = "block";
+  sd2[slideIndex-1].style.display = "block";
+  //dots[slideIndex-1].className += " active";
 }
 </script>
 <script>

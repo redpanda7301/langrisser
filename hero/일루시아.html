@@ -153,9 +153,11 @@
 		<tr>
 			<th><img src="../img/equip/일루시아.png" width="100px" /></th>
 			<td>방어, 마방 +<font color="red">5</font>%,
-			</br>피격으로 전투 진입 전 자신에게 '수중' 효과 부여, 지속 <font color="red">1</font>행동, 
-			</br>물에 있을 시 주위 <font color="red">1</font>바퀴 범위 내 아군에게 모든 공격 호위
-			</br>자신에게 발동하는 '수중'효과는 발동후 <font color="red">2</font>턴후 재발동가능.</td>
+				</br><b>피격으로 전투 진입 전 자신에게 '<font color="blue">수중</font>' 효과 부여</b>, 
+				</br>지속 <font color="red">1</font>행동, 
+				</br><b>물에 있을 시 주위 <font color="red">1</font>바퀴 범위 내 아군에게 모든 공격 <font color="blue">호위</font></b>
+				</br><b>자신에게 발동하는 '<font color="blue">수중</font>'효과는 발동후 <font color="red">2</font>턴후 재발동가능</b>
+			</td>
 		</tr>
 	<tr>
 							
@@ -189,8 +191,21 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<th>클래스</th>
-						<td>로열가디언<img src="../img/troop/Icon_Occupation_Marines.png" width="35px"/></td>
+						<th rowspan="2">클래스</th>
+						<td colspan="3">로열가디언<img src="../img/troop/Icon_Occupation_Marines.png" width="35px"/></td>
+						<tr>
+							<td colspan="4">
+								<div class="class1">
+									<img src="../img/SD/일루시아/1/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/일루시아/2/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/일루시아/3/1.png" style="width:22%; height:131px">
+								</div>
+							</td>
+						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -265,8 +280,21 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<th>클래스</th>
-						<td>서펜트 마스터<img src="../img/troop/Icon_Occupation_Water.png" width="35px"/></td>
+						<th rowspan="2">클래스</th>
+						<td colspan="3">서펜트 마스터<img src="../img/troop/Icon_Occupation_Water.png" width="35px"/></td>
+						<tr>
+							<td colspan="4">
+								<div class="class2">
+									<img src="../img/SD/일루시아/1/2.png" style="width:22%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/일루시아/2/2.png" style="width:22%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/일루시아/3/2.png" style="width:22%; height:131px">
+								</div>
+							</td>
+						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -990,17 +1018,23 @@ function currentSlide(n) {
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
+  var sd1 = document.getElementsByClassName("class1");
+  var sd2 = document.getElementsByClassName("class2");
+  //var dots = document.getElementsByClassName("dot");
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+      slides[i].style.display = "none";
+	  sd1[i].style.display = "none";
+	  sd2[i].style.display = "none";
   }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+// for (i = 0; i < dots.length; i++) {
+//      dots[i].className = dots[i].className.replace(" active", "");
+//  }
+  slides[slideIndex-1].style.display = "block";
+  sd1[slideIndex-1].style.display = "block";
+  sd2[slideIndex-1].style.display = "block";
+  //dots[slideIndex-1].className += " active";
 }
 </script>
 <script>

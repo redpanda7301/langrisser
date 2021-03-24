@@ -157,9 +157,10 @@
 					<tr>
 						<th><img src="../img/equip/크리스.png" width="100px" /></th>
 						<td>생명<font color="red">+5%</font>, 마방<font color="red">+5%</font>. 
-						</br>피해를 입힌 뒤 행동 종료 시, 
-						</br>고유 스킬로 부여하는 랜덤한 버프가 1가지 추가.
-						</br>마물 격파 후 재행동 1회 (쿨 2행동)</td>
+						</br><b>피해를 입힌 뒤 행동 종료 시</b>, 
+						</br><b><font color="blue">고유 스킬</font>로 부여하는 랜덤한 버프가 <font color="red">1</font>가지 추가</b>.
+						</br><b>마물 격파 후 재행동 <font color="red">1<font>회</b> 
+						</br>쿨타임 <font color="red">2</font>턴</td>
 					</tr>		
 		<tr>
 					<th colspan="2">용병</th>
@@ -195,8 +196,24 @@
 					</colgroup>
 					<tr>
 						<tr>
-						<th>클래스</th>
+						<th rowspan="2">클래스</th>
 						<td colspan="3" >발키리<img src="../img/troop/Icon_Occupation_Monk.png" width="35px"/></td>
+						<tr>
+							<td colspan="4">
+								<div class="class1">
+									<img src="../img/SD/크리스/1/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/크리스/2/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/크리스/3/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/크리스/4/1.png" style="width:22%; height:131px">
+								</div>
+							</td>
+						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -271,8 +288,24 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<th>클래스</th>
+						<th rowspan="2">클래스</th>
 						<td colspan="3" >프린세스<img src="../img/troop/Icon_Occupation_Monk.png" width="35px"/></td>
+						<tr>
+							<td colspan="4">
+								<div class="class2">
+									<img src="../img/SD/크리스/1/2.png" style="width:22%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/크리스/2/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/크리스/3/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/크리스/4/1.png" style="width:22%; height:131px">
+								</div>
+							</td>
+						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -1092,17 +1125,23 @@ function currentSlide(n) {
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
+  var sd1 = document.getElementsByClassName("class1");
+  var sd2 = document.getElementsByClassName("class2");
+  //var dots = document.getElementsByClassName("dot");
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+      slides[i].style.display = "none";
+	  sd1[i].style.display = "none";
+	  sd2[i].style.display = "none";
   }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+// for (i = 0; i < dots.length; i++) {
+//      dots[i].className = dots[i].className.replace(" active", "");
+//  }
+  slides[slideIndex-1].style.display = "block";
+  sd1[slideIndex-1].style.display = "block";
+  sd2[slideIndex-1].style.display = "block";
+  //dots[slideIndex-1].className += " active";
 }
 </script>
 <script>

@@ -59,7 +59,7 @@
 			  <div class="text">형귀 스킨</div>
 			</div>
 			<div class="mySlides fade">
-			  <img src="../img/full/시그마/4.png" style="width:100%">
+			  <img src="../img/full/시그마/sp.png" style="width:100%">
 			  <div class="text">SP 각성</div>
 			</div>			
 			
@@ -200,8 +200,24 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<th>클래스</th>
+						<th rowspan="2">클래스</th>
 						<td colspan="3" >배틀 마스터<img src="../img/troop/Icon_Occupation_Infantryman.png" width="35px"/></td>
+						<tr>
+							<td colspan="4">
+								<div class="class1">
+									<img src="../img/SD/시그마/1/1.png" style="width:30%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/시그마/2/1.png" style="width:30%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/시그마/3/1.png" style="width:30%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/시그마/sp/1.png" style="width:30%; height:131px">
+								</div>
+							</td>
+						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -274,8 +290,24 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<th>클래스</th>
+						<th rowspan="2">클래스</th>
 						<td colspan="3" >초월자의 칼날<img src="../img/troop/Icon_Occupation_AssassinSP.png" width="35px"/></td>
+						<tr>
+							<td colspan="4">
+								<div class="sp">
+									<img src="../img/SD/시그마/1/2.png" style="width:30%; height:131px">
+								</div>
+								<div class="sp">
+									<img src="../img/SD/시그마/2/2.png" style="width:30%; height:131px">
+								</div>
+								<div class="sp">
+									<img src="../img/SD/시그마/3/2.png" style="width:30%; height:131px">
+								</div>
+								<div class="sp">
+									<img src="../img/SD/시그마/sp/2.png" style="width:30%; height:131px">
+								</div>
+							</td>
+						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -349,8 +381,24 @@
 						<col width="20%">
 						<col width="*">
 					</colgroup>
-					<th>클래스</th>
+					<th rowspan="2">클래스</th>
 						<td colspan="3" >레인저<img src="../img/troop/Icon_Occupation_Archer.png" width="35px"/></td>
+						<tr>
+							<td colspan="4">
+								<div class="class2">
+									<img src="../img/SD/시그마/1/3.png" style="width:30%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/시그마/2/3.png" style="width:30%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/시그마/3/3.png" style="width:30%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/시그마/sp/3.png" style="width:30%; height:131px">
+								</div>
+							</td>
+						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -1278,17 +1326,26 @@ function currentSlide(n) {
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
+  var sd1 = document.getElementsByClassName("class1");
+  var sd2 = document.getElementsByClassName("class2");
+  var sd3 = document.getElementsByClassName("sp");  
+  //var dots = document.getElementsByClassName("dot");
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+      slides[i].style.display = "none";
+	  sd1[i].style.display = "none";
+	  sd2[i].style.display = "none";
+	  sd3[i].style.display = "none";
   }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+// for (i = 0; i < dots.length; i++) {
+//      dots[i].className = dots[i].className.replace(" active", "");
+//  }
+  slides[slideIndex-1].style.display = "block";
+  sd1[slideIndex-1].style.display = "block";
+  sd2[slideIndex-1].style.display = "block";
+  sd3[slideIndex-1].style.display = "block";  
+  //dots[slideIndex-1].className += " active";
 }
 </script>
 <script>

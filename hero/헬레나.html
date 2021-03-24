@@ -43,22 +43,21 @@
 				</div>
 		<div id="page-wrapper">
 			<div class="slideshow-container">
-
+			
 			<div class="mySlides fade">
 			  <img src="../img/full/헬레나/1.png" style="width:100%">
-			  </div>
-			  <div class="text">기본 </div>
+			  <div class="text">기본</div>
 			</div>
-
+			
 			<div class="mySlides fade">
 			  <img src="../img/full/헬레나/2.png" style="width:100%">
+			  <div class="text">빛의 메아리</div>
 			</div>
 			
 			<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 			<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
+			
 			</div>
-
 			<!-- Main -->
 				<div id="main">
 					<div class="container">
@@ -73,7 +72,7 @@
 						<col width="25%">
 						<col width="*">
 					</colgroup>
-										<tr>
+					<tr>
 						<th>이름</th>
 						<td colspan="3" >헬레나</td>
 					</tr>
@@ -183,8 +182,18 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<th>클래스</th>
+						<th rowspan="2">클래스</th>
 						<td colspan="3" >스트라이크 마스터<img src="../img/troop/Icon_Occupation_Cavalry.png" width="35px"/></td>
+						<tr>
+							<td colspan="4">
+								<div class="class1">
+									<img src="../img/SD/헬레나/1/1.png" style="width:22%; height:131px">
+								</div>
+								<div class="class1">
+									<img src="../img/SD/헬레나/2/1.png" style="width:22%; height:131px">
+								</div>
+							</td>
+						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -248,6 +257,7 @@
 							</div>
 
 							<div class="col-6 col-12-medium">
+																
 <div class="view_title">클래스 최종 능력치(70레벨 호감도4,5 10레벨)</div>
 								<section>
 									<table border="0" cellpadding="0" cellspacing="1">
@@ -258,8 +268,18 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<th>클래스</th>
-						<td colspan="3" >로열나이트<img src="../img/troop/Icon_Occupation_Cavalry.png" width="35px"/></td>
+						<th rowspan="2">클래스</th>
+						<td colspan="3" >로열 나이트<img src="../img/troop/Icon_Occupation_Cavalry.png" width="35px"/></td>
+						<tr>
+							<td colspan="4">
+								<div class="class2">
+									<img src="../img/SD/헬레나/1/2.png" style="width:22%; height:131px">
+								</div>
+								<div class="class2">
+									<img src="../img/SD/헬레나/2/1.png" style="width:22%; height:131px">
+								</div>
+							</td>
+						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -317,11 +337,6 @@
 						<th>마음의유대7</th>
 						<td class="td_left" colspan="3" >생명비율이 자신보다 높은 상대에게 공격하여 전투진입시 입히는피해 +10%</td>
 					</tr>
-					<!--
-					<tr>
-						<td class="td_left" colspan="4" ><img src="../img/full/헬레나/SD/2_1.png" style="width:30%"></td>
-					</tr>
-					-->
 				</table>
 								</section>
 
@@ -402,8 +417,7 @@
 					<colgroup>
 						<col width="22%">
 						<col width="*">
-					</colgroup>
-						<div class="view_title">그랜드나이트 : 공격+12, 생명+48</div>
+					</colgroup>						
 						<tr>
 						<th>T1</th>
 						<td class="td_rank">
@@ -1054,17 +1068,24 @@ function currentSlide(n) {
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
+  var sd1 = document.getElementsByClassName("class1");
+  var sd2 = document.getElementsByClassName("class2");
+  //var dots = document.getElementsByClassName("dot");
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+      slides[i].style.display = "none";
+	  sd1[i].style.display = "none";
+	  sd2[i].style.display = "none";
   }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+// for (i = 0; i < dots.length; i++) {
+//      dots[i].className = dots[i].className.replace(" active", "");
+//  }
+  -->
+  slides[slideIndex-1].style.display = "block";
+  sd1[slideIndex-1].style.display = "block";
+  sd2[slideIndex-1].style.display = "block";   
+  //dots[slideIndex-1].className += " active";
 }
 </script>
 <script>

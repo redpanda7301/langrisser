@@ -195,11 +195,18 @@
 									<col width="20%">
 									<col width="*">
 								</colgroup>
-                                <th>클래스</th>
-                                <td colspan="3">
-                                    핏빛 꿈의 주인                                    
-									<img src="../img/troop/Icon_Occupation_Assassin.png" width="35px" />
-                                </td>
+                                <th rowspan="2">클래스</th>
+									<td colspan="3">핏빛 꿈의 주인 <img src="../img/troop/Icon_Occupation_Assassin.png" width="35px" /></td>
+									<tr>
+										<td colspan="4">
+											<div class="class1">
+												<img src="../img/SD/팟시르/1/1.png" style="width:22%; height:131px">
+											</div>
+											<div class="class1">
+												<img src="../img/SD/팟시르/2/1.png" style="width:22%; height:131px">
+											</div>
+										</td>
+									</tr>
                                 </tr>
 								<tr>
 									<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -273,11 +280,18 @@
 									<col width="*">
 								</colgroup>
                                 <tr>
-                                    <th>클래스</th>
-                                    <td colspan="3">
-                                        꿈을 쫓는 자
-                                        <img src="../img/troop/Icon_Occupation_Monster.png" width="35px" />
-                                    </td>
+                                    <th rowspan="2">클래스</th>
+                                    <td colspan="3">꿈을 쫓는 자 <img src="../img/troop/Icon_Occupation_Monster.png" width="35px" /></td>
+									<tr>
+										<td colspan="4">
+											<div class="class2">
+												<img src="../img/SD/팟시르/1/2.png" style="width:22%; height:131px">
+											</div>
+											<div class="class2">
+												<img src="../img/SD/팟시르/2/1.png" style="width:22%; height:131px">
+											</div>
+										</td>
+									</tr>
                                 </tr>
 								<tr>
 									<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
@@ -913,21 +927,27 @@
             showSlides(slideIndex = n);
         }
 
-        function showSlides(n) {
-            var i;
-            var slides = document.getElementsByClassName("mySlides");
-            var dots = document.getElementsByClassName("dot");
-            if (n > slides.length) { slideIndex = 1 }
-            if (n < 1) { slideIndex = slides.length }
-            for (i = 0; i < slides.length; i++) {
-                slides[i].style.display = "none";
-            }
-            for (i = 0; i < dots.length; i++) {
-                dots[i].className = dots[i].className.replace(" active", "");
-            }
-            slides[slideIndex - 1].style.display = "block";
-            dots[slideIndex - 1].className += " active";
-        }
+		function showSlides(n) {
+			var i;
+			var slides = document.getElementsByClassName("mySlides");
+			var sd1 = document.getElementsByClassName("class1");
+			var sd2 = document.getElementsByClassName("class2");
+			//var dots = document.getElementsByClassName("dot");
+			if (n > slides.length) {slideIndex = 1}    
+			if (n < 1) {slideIndex = slides.length}
+			for (i = 0; i < slides.length; i++) {
+				slides[i].style.display = "none";
+				sd1[i].style.display = "none";
+				sd2[i].style.display = "none";
+			}
+			// for (i = 0; i < dots.length; i++) {
+			//      dots[i].className = dots[i].className.replace(" active", "");
+			//  }
+			slides[slideIndex-1].style.display = "block";
+			sd1[slideIndex-1].style.display = "block";
+			sd2[slideIndex-1].style.display = "block";
+			//dots[slideIndex-1].className += " active";
+		}
     </script>
     <script>
         $(document).ready(function () {
