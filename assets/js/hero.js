@@ -20,6 +20,7 @@ function searchName(){
     w3RemoveClass(x[i], "show");
     if (x[i].className.indexOf(strName) > -1) w3AddClass(x[i], "show");
   }
+  document.getElementById("hero_name").value = "";
 }
 
 function w3AddClass(element, name) {
