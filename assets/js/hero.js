@@ -9,6 +9,19 @@ function filterSelection(c) {
   }
 }
 
+function searchName(){
+  var x, i;
+  var strName = document.getElementById("hero_name").value;
+  var regExp = /[ \{\}\[\]\/?.,;:|\)*~`!^\-_+┼<>@\#$%&\ '\"\\(\=]/gi;
+  strName = strName.replace(regExp, "");
+  x = document.getElementsByClassName("filterDiv");
+  if (strName == "all") strName = "";  
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(strName) > -1) w3AddClass(x[i], "show");
+  }
+}
+
 function w3AddClass(element, name) {
   var i, arr1, arr2;
   arr1 = element.className.split(" ");
