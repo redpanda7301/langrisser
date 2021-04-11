@@ -48,6 +48,13 @@ function openForm() {
 function closeForm() {
   document.getElementById("myForm").style.display = "none";
 }
+function openForm0() {
+  document.getElementById("myForm0").style.display = "block";
+}
+
+function closeForm0() {
+  document.getElementById("myForm0").style.display = "none";
+}
 
 function openForm1() {
   document.getElementById("myForm1").style.display = "block";
