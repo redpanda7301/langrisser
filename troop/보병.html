@@ -68,6 +68,11 @@
 </table>
 </section>
 <div class="view_title">능력치</div>
+<div id="myBtnContainer">
+	<button class="btn active" onclick="filterSelection('all')">모두 보기</button>
+	<button class="btn" onclick="filterSelection('aaaa')">보병</button>
+	<button class="btn" onclick="filterSelection('kkkk')">훈련</button>
+</div>
 <img class="filterDiv kkkk" onclick="openForm0()" src="../img/troop/Status/0_기초공격훈련.png" width="100px"/>
 <div class="chat-popup" id="myForm0">
   <form class="form-container">
@@ -631,7 +636,7 @@
 								<tr>
 									<th><img src="../img/troop/Status/3_종합생존훈련.png" width="110px"/></th>
 									<td>
-										종합,핵심 생존 훈련, 생명력 <font color ="red">+1</font>%(→<font color ="red">+40</font>%)
+										종합,핵심 생존 훈련, 생명력 <font color ="red">+1</font>%(→<font color ="red">+50</font>%)
 									</td>
 								</tr>
 							</table>

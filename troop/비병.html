@@ -46,6 +46,8 @@
 			<div class="container">
 				<div class="row main-row">
 					<div class="col-12">
+
+
 							<section>
 							<h2>아이콘설명</h2>
 <table border="0" cellpadding="0" cellspacing="1">
@@ -67,7 +69,12 @@
 <td>물이동
 </table>
 </section>
-
+<div id="myBtnContainer">
+	<button class="btn active" onclick="filterSelection('all')">모두 보기</button>
+	<button class="btn" onclick="filterSelection('dddd')">비병</button>
+	<button class="btn" onclick="filterSelection('eeee')">수병</button>
+	<button class="btn" onclick="filterSelection('kkkk')">훈련</button>
+</div>
 <div class="view_title">능력치</div>
 <img class="filterDiv kkkk" onclick="openForm0()" src="../img/troop/Status/0_기초공격훈련.png" width="100px"/>
 <div class="chat-popup" id="myForm0">
@@ -1684,7 +1691,7 @@
     <button type="button" class="btn cancel" onclick="closeForm8()">Close</button>
   </form>
 </div>
-<img class="filterDiv kkkk aaaa" onclick="openForm9_1()" src="../img/troop/Status/9_1_비병마스터리.png"  width="100px"/>
+<img class="filterDiv kkkk dddd" onclick="openForm9_1()" src="../img/troop/Status/9_1_비병마스터리.png"  width="100px"/>
 <div class="chat-popup" id="myForm9_1">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm9_1()">Close</button>
@@ -1792,7 +1799,7 @@
     <button type="button" class="btn cancel" onclick="closeForm9_1()">Close</button>
   </form>
 </div>
-<img class="filterDiv kkkk aaaa" onclick="openForm9_2()" src="../img/troop/Status/9_2_수병마스터리.png"  width="100px"/>
+<img class="filterDiv kkkk eeee" onclick="openForm9_2()" src="../img/troop/Status/9_2_수병마스터리.png"  width="100px"/>
 <div class="chat-popup" id="myForm9_2">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm9_2()">Close</button>
@@ -1905,10 +1912,10 @@
 <div class="col-6 col-12-medium">
 <section>
 <div class="view_title">1티어 용병</div>
-<img class="filterDiv aaaa" onclick="openForm10_1()" src="../img/troop/비병_수병/비병/병종/10_1_히포그리프.png"/>
-<img class="filterDiv aaaa" onclick="openForm10_2()" src="../img/troop/비병_수병/수병/병종/10_2_머맨.png"/>
+<img class="filterDiv dddd" onclick="openForm10_1()" src="../img/troop/비병_수병/비병/병종/10_1_히포그리프.png"/>
+<img class="filterDiv eeee" onclick="openForm10_2()" src="../img/troop/비병_수병/수병/병종/10_2_머맨.png"/>
 <div class="view_title">2티어 용병</div>
-<img class="filterDiv aaaa" onclick="openForm11_1()" src="../img/troop/비병_수병/비병/병종/11_1_그리폰.png"/>
+<img class="filterDiv dddd" onclick="openForm11_1()" src="../img/troop/비병_수병/비병/병종/11_1_그리폰.png"/>
 <div class="chat-popup" id="myForm11_1">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm11_1()">Close</button>
@@ -2069,7 +2076,7 @@
     <button type="button" class="btn cancel" onclick="closeForm11_1()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm12_1()" src="../img/troop/비병_수병/비병/병종/12_1_페가수스.png"/>
+<img class="filterDiv dddd" onclick="openForm12_1()" src="../img/troop/비병_수병/비병/병종/12_1_페가수스.png"/>
 <div class="chat-popup" id="myForm12_1">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm12_1()">Close</button>
@@ -2230,7 +2237,7 @@
     <button type="button" class="btn cancel" onclick="closeForm12_1()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm13_1()" src="../img/troop/비병_수병/비병/병종/13_1_그렘린.png"/>
+<img class="filterDiv dddd" onclick="openForm13_1()" src="../img/troop/비병_수병/비병/병종/13_1_그렘린.png"/>
 <div class="chat-popup" id="myForm13_1">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm13_1()">Close</button>
@@ -2391,7 +2398,7 @@
     <button type="button" class="btn cancel" onclick="closeForm13_1()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm11_2()" src="../img/troop/비병_수병/수병/병종/11_2_마스터머맨.png"/>
+<img class="filterDiv eeee" onclick="openForm11_2()" src="../img/troop/비병_수병/수병/병종/11_2_마스터머맨.png"/>
 <div class="chat-popup" id="myForm11_2">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm11_2()">Close</button>
@@ -2552,7 +2559,7 @@
     <button type="button" class="btn cancel" onclick="closeForm11_2()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm12_2()" src="../img/troop/비병_수병/수병/병종/12_2_랍스터.png"/>
+<img class="filterDiv eeee" onclick="openForm12_2()" src="../img/troop/비병_수병/수병/병종/12_2_랍스터.png"/>
 <div class="chat-popup" id="myForm12_2">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm12_2()">Close</button>
@@ -2715,7 +2722,10 @@
   </form>
 </div>
 <div class="view_title">3티어 용병</div>
-<img class="filterDiv aaaa" onclick="openForm14_1()" src="../img/troop/비병_수병/비병/병종/14_1_로열그리폰.png"/>
+
+<!-----------------------------------------------비병---------------------------------------------------->
+
+<img class="filterDiv dddd" onclick="openForm14_1()" src="../img/troop/비병_수병/비병/병종/14_1_로열그리폰.png"/>
 <div class="chat-popup" id="myForm14_1">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm14_1()">Close</button>
@@ -2901,7 +2911,7 @@
     <button type="button" class="btn cancel" onclick="closeForm14_1()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm15_1()" src="../img/troop/비병_수병/비병/병종/15_1_뱀파이어배트.png"/>
+<img class="filterDiv dddd" onclick="openForm15_1()" src="../img/troop/비병_수병/비병/병종/15_1_뱀파이어배트.png"/>
 <div class="chat-popup" id="myForm15_1">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm15_1()">Close</button>
@@ -3081,7 +3091,7 @@
     <button type="button" class="btn cancel" onclick="closeForm15_1()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm16_1()" src="../img/troop/비병_수병/비병/병종/16_1_홀리페가수스.png"/>
+<img class="filterDiv dddd" onclick="openForm16_1()" src="../img/troop/비병_수병/비병/병종/16_1_홀리페가수스.png"/>
 <div class="chat-popup" id="myForm16_1">
 <form class="form-container">
 <button type="button" class="btn cancel" onclick="closeForm16_1()">Close</button>
@@ -3260,7 +3270,7 @@
     <button type="button" class="btn cancel" onclick="closeForm16_1()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm17_1()" src="../img/troop/비병_수병/비병/병종/17_1_천사.png"/>
+<img class="filterDiv dddd" onclick="openForm17_1()" src="../img/troop/비병_수병/비병/병종/17_1_천사.png"/>
 <div class="chat-popup" id="myForm17_1">
 <form class="form-container">
 <button type="button" class="btn cancel" onclick="closeForm17_1()">Close</button>
@@ -3429,7 +3439,7 @@
     <button type="button" class="btn cancel" onclick="closeForm17_1()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm18_1()" src="../img/troop/비병_수병/비병/병종/18_1_가고일.png"/>
+<img class="filterDiv dddd" onclick="openForm18_1()" src="../img/troop/비병_수병/비병/병종/18_1_가고일.png"/>
 <div class="chat-popup" id="myForm18_1">
 <form class="form-container">
 <button type="button" class="btn cancel" onclick="closeForm18_1()">Close</button>
@@ -3608,7 +3618,7 @@
     <button type="button" class="btn cancel" onclick="closeForm18_1()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm19_1()" src="../img/troop/비병_수병/비병/병종/19_1_아이언엔젤.png"/>
+<img class="filterDiv dddd" onclick="openForm19_1()" src="../img/troop/비병_수병/비병/병종/19_1_아이언엔젤.png"/>
 <div class="chat-popup" id="myForm19_1">
 <form class="form-container">
 <button type="button" class="btn cancel" onclick="closeForm19_1()">Close</button>
@@ -3783,7 +3793,7 @@
     <button type="button" class="btn cancel" onclick="closeForm19_1()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm20_1()" src="../img/troop/비병_수병/비병/병종/20_1_용의후예.png"/>
+<img class="filterDiv dddd" onclick="openForm20_1()" src="../img/troop/비병_수병/비병/병종/20_1_용의후예.png"/>
 <div class="chat-popup" id="myForm20_1">
 <form class="form-container">
 <button type="button" class="btn cancel" onclick="closeForm20_1()">Close</button>
@@ -3963,7 +3973,7 @@
 </br>
 <!-----------------------------------------------------수병-------------------------------------------------->
 
-<img class="filterDiv aaaa" onclick="openForm13_2()" src="../img/troop/비병_수병/수병/병종/13_2_머맨로드.png"/>
+<img class="filterDiv eeee" onclick="openForm13_2()" src="../img/troop/비병_수병/수병/병종/13_2_머맨로드.png"/>
 <div class="chat-popup" id="myForm13_2">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm13_2()">Close</button>
@@ -4137,7 +4147,7 @@
     <button type="button" class="btn cancel" onclick="closeForm13_2()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm14_2()" src="../img/troop/비병_수병/수병/병종/14_2_리자드맨.png"/>
+<img class="filterDiv eeee" onclick="openForm14_2()" src="../img/troop/비병_수병/수병/병종/14_2_리자드맨.png"/>
 <div class="chat-popup" id="myForm14_2">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm14_2()">Close</button>
@@ -4307,7 +4317,7 @@
     <button type="button" class="btn cancel" onclick="closeForm14_2()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm15_2()" src="../img/troop/비병_수병/수병/병종/15_2_거대랍스터.png"/>
+<img class="filterDiv eeee" onclick="openForm15_2()" src="../img/troop/비병_수병/수병/병종/15_2_거대랍스터.png"/>
 <div class="chat-popup" id="myForm15_2">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm15_2()">Close</button>
@@ -4477,7 +4487,7 @@
     <button type="button" class="btn cancel" onclick="closeForm15_2()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm16_2()" src="../img/troop/비병_수병/수병/병종/16_2_리바이어선.png"/>
+<img class="filterDiv eeee" onclick="openForm16_2()" src="../img/troop/비병_수병/수병/병종/16_2_리바이어선.png"/>
 <div class="chat-popup" id="myForm16_2">
 <form class="form-container">
 <button type="button" class="btn cancel" onclick="closeForm16_2()">Close</button>
@@ -4652,7 +4662,7 @@
     <button type="button" class="btn cancel" onclick="closeForm16_2()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm17_2()" src="../img/troop/비병_수병/수병/병종/17_2_파도의정령.png"/>
+<img class="filterDiv eeee" onclick="openForm17_2()" src="../img/troop/비병_수병/수병/병종/17_2_파도의정령.png"/>
 <div class="chat-popup" id="myForm17_2">
 <form class="form-container">
 <button type="button" class="btn cancel" onclick="closeForm17_2()">Close</button>
@@ -4824,7 +4834,7 @@
     <button type="button" class="btn cancel" onclick="closeForm17_2()">Close</button>
   </form>
 </div>
-<img class="filterDiv aaaa" onclick="openForm18_2()" src="../img/troop/비병_수병/수병/병종/18_2_심해해적.png"/>
+<img class="filterDiv eeee" onclick="openForm18_2()" src="../img/troop/비병_수병/수병/병종/18_2_심해해적.png"/>
 <div class="chat-popup" id="myForm18_2">
 <form class="form-container">
 <button type="button" class="btn cancel" onclick="closeForm18_2()">Close</button>
@@ -4998,7 +5008,7 @@
 <!-----------------------------------------------------공용 패시브----------------------------------------------------------->
 
 <div class="view_title">패시브</div>
-<img class="filterDiv kkkk aaaa" onclick="openForm21()" src="../img/troop/비병_수병/패시브/21_선제타격.png" width="100px"/>
+<img class="filterDiv kkkk dddd eeee" onclick="openForm21()" src="../img/troop/비병_수병/패시브/21_선제타격.png" width="100px"/>
 <div class="chat-popup" id="myForm21">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm21()">Close</button>
@@ -5099,7 +5109,7 @@
   </form>
 </div>
 
-<img class="filterDiv kkkk aaaa" onclick="openForm22()" src="../img/troop/비병_수병/패시브/22_공해기습.png" width="100px"/>
+<img class="filterDiv kkkk dddd eeee" onclick="openForm22()" src="../img/troop/비병_수병/패시브/22_공해기습.png" width="100px"/>
 <div class="chat-popup" id="myForm22">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm22()">Close</button>
@@ -5202,7 +5212,7 @@
 
 <!-----------------------------------------------------비병 패시브----------------------------------------------------------->
 
-<img class="filterDiv kkkk aaaa" onclick="openForm23_1()" src="../img/troop/비병_수병/비병/패시브/23_1_곡예비행.png" width="100px"/>
+<img class="filterDiv kkkk dddd" onclick="openForm23_1()" src="../img/troop/비병_수병/비병/패시브/23_1_곡예비행.png" width="100px"/>
 <div class="chat-popup" id="myForm23_1">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm23_1()">Close</button>
@@ -5312,7 +5322,7 @@
   </form>
 </div>
 
-<img class="filterDiv kkkk aaaa" onclick="openForm24_1()" src="../img/troop/비병_수병/비병/패시브/24_1_육공연계.png" width="100px"/>
+<img class="filterDiv kkkk dddd" onclick="openForm24_1()" src="../img/troop/비병_수병/비병/패시브/24_1_육공연계.png" width="100px"/>
 <div class="chat-popup" id="myForm24_1">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm24_1()">Close</button>
@@ -5423,7 +5433,7 @@
 </div>
 <!-----------------------------------------------------수병 패시브----------------------------------------------------------->
 
-<img class="filterDiv kkkk aaaa" onclick="openForm23_2()" src="../img/troop/비병_수병/수병/패시브/23_2_수상전강화.png" width="100px"/>
+<img class="filterDiv kkkk eeee" onclick="openForm23_2()" src="../img/troop/비병_수병/수병/패시브/23_2_수상전강화.png" width="100px"/>
 <div class="chat-popup" id="myForm23_2">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm23_2()">Close</button>
@@ -5533,7 +5543,7 @@
   </form>
 </div>
 
-<img class="filterDiv kkkk aaaa" onclick="openForm24_2()" src="../img/troop/비병_수병/수병/패시브/24_2_물의정령의가호.png" width="100px"/>
+<img class="filterDiv kkkk eeee" onclick="openForm24_2()" src="../img/troop/비병_수병/수병/패시브/24_2_물의정령의가호.png" width="100px"/>
 <div class="chat-popup" id="myForm24_2">
   <form class="form-container">
   <button type="button" class="btn cancel" onclick="closeForm24_2()">Close</button>
