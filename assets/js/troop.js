@@ -987,3 +987,987 @@ function openForm117() {
 function closeForm117() {
   document.getElementById("myForm117").style.display = "none";
 }
+
+//병종 구분_1
+function openForm_1() {
+  document.getElementById("myForm_1").style.display = "block";
+}
+
+function closeForm_1() {
+  document.getElementById("myForm_1").style.display = "none";
+}
+function openForm0_1() {
+  document.getElementById("myForm0_1").style.display = "block";
+}
+
+function closeForm0_1() {
+  document.getElementById("myForm0_1").style.display = "none";
+}
+
+function openForm1_1() {
+  document.getElementById("myForm1_1").style.display = "block";
+}
+
+function closeForm1_1() {
+  document.getElementById("myForm1_1").style.display = "none";
+}
+
+function openForm2_1() {
+  document.getElementById("myForm2_1").style.display = "block";
+}
+
+function closeForm2_1() {
+  document.getElementById("myForm2_1").style.display = "none";
+}
+
+function openForm3_1() {
+  document.getElementById("myForm3_1").style.display = "block";
+}
+
+function closeForm3_1() {
+  document.getElementById("myForm3_1").style.display = "none";
+}
+
+function openForm4_1() {
+  document.getElementById("myForm4_1").style.display = "block";
+}
+
+function closeForm4_1() {
+  document.getElementById("myForm4_1").style.display = "none";
+}
+
+function openForm5_1() {
+  document.getElementById("myForm5_1").style.display = "block";
+}
+
+function closeForm5_1() {
+  document.getElementById("myForm5_1").style.display = "none";
+}
+
+function openForm6_1() {
+  document.getElementById("myForm6_1").style.display = "block";
+}
+
+function closeForm6_1() {
+  document.getElementById("myForm6_1").style.display = "none";
+}
+
+function openForm7_1() {
+  document.getElementById("myForm7_1").style.display = "block";
+}
+
+function closeForm7_1() {
+  document.getElementById("myForm7_1").style.display = "none";
+}
+
+function openForm8_1() {
+  document.getElementById("myForm8_1").style.display = "block";
+}
+
+function closeForm8_1() {
+  document.getElementById("myForm8_1").style.display = "none";
+}
+
+function openForm9_1() {
+  document.getElementById("myForm9_1").style.display = "block";
+}
+
+function closeForm9_1() {
+  document.getElementById("myForm9_1").style.display = "none";
+}
+
+function openForm10_1() {
+  document.getElementById("myForm10_1").style.display = "block";
+}
+
+function closeForm10_1() {
+  document.getElementById("myForm10_1").style.display = "none";
+}
+
+function openForm11_1() {
+  document.getElementById("myForm11_1").style.display = "block";
+}
+
+function closeForm11_1() {
+  document.getElementById("myForm11_1").style.display = "none";
+}
+
+function openForm12_1() {
+  document.getElementById("myForm12_1").style.display = "block";
+}
+
+function closeForm12_1() {
+  document.getElementById("myForm12_1").style.display = "none";
+}
+
+function openForm13_1() {
+  document.getElementById("myForm13_1").style.display = "block";
+}
+
+function closeForm13_1() {
+  document.getElementById("myForm13_1").style.display = "none";
+}
+
+function openForm14_1() {
+  document.getElementById("myForm14_1").style.display = "block";
+}
+
+function closeForm14_1() {
+  document.getElementById("myForm14_1").style.display = "none";
+}
+
+function openForm15_1() {
+  document.getElementById("myForm15_1").style.display = "block";
+}
+
+function closeForm15_1() {
+  document.getElementById("myForm15_1").style.display = "none";
+}
+
+function openForm16_1() {
+  document.getElementById("myForm16_1").style.display = "block";
+}
+
+function closeForm16_1() {
+  document.getElementById("myForm16_1").style.display = "none";
+}
+
+function openForm17_1() {
+  document.getElementById("myForm17_1").style.display = "block";
+}
+
+function closeForm17_1() {
+  document.getElementById("myForm17_1").style.display = "none";
+}
+
+function openForm18_1() {
+  document.getElementById("myForm18_1").style.display = "block";
+}
+
+function closeForm18_1() {
+  document.getElementById("myForm18_1").style.display = "none";
+}
+
+function openForm19_1() {
+  document.getElementById("myForm19_1").style.display = "block";
+}
+
+function closeForm19_1() {
+  document.getElementById("myForm19_1").style.display = "none";
+}
+
+function openForm20_1() {
+  document.getElementById("myForm20_1").style.display = "block";
+}
+
+function closeForm20_1() {
+  document.getElementById("myForm20_1").style.display = "none";
+}
+
+function openForm21_1() {
+  document.getElementById("myForm21_1").style.display = "block";
+}
+
+function closeForm21_1() {
+  document.getElementById("myForm21_1").style.display = "none";
+}
+
+function openForm22_1() {
+  document.getElementById("myForm22_1").style.display = "block";
+}
+
+function closeForm22_1() {
+  document.getElementById("myForm22_1").style.display = "none";
+}
+
+function openForm23_1() {
+  document.getElementById("myForm23_1").style.display = "block";
+}
+
+function closeForm23_1() {
+  document.getElementById("myForm23_1").style.display = "none";
+}
+
+function openForm24_1() {
+  document.getElementById("myForm24_1").style.display = "block";
+}
+
+function closeForm24_1() {
+  document.getElementById("myForm24_1").style.display = "none";
+}
+
+function openForm25_1() {
+  document.getElementById("myForm25_1").style.display = "block";
+}
+
+function closeForm25_1() {
+  document.getElementById("myForm25_1").style.display = "none";
+}
+
+function openForm26_1() {
+  document.getElementById("myForm26_1").style.display = "block";
+}
+
+function closeForm26_1() {
+  document.getElementById("myForm26_1").style.display = "none";
+}
+
+function openForm27_1() {
+  document.getElementById("myForm27_1").style.display = "block";
+}
+
+function closeForm27_1() {
+  document.getElementById("myForm27_1").style.display = "none";
+}
+
+function openForm28_1() {
+  document.getElementById("myForm28_1").style.display = "block";
+}
+
+function closeForm28_1() {
+  document.getElementById("myForm28_1").style.display = "none";
+}
+
+function openForm29_1() {
+  document.getElementById("myForm29_1").style.display = "block";
+}
+
+function closeForm29_1() {
+  document.getElementById("myForm29_1").style.display = "none";
+}
+
+function openForm30_1() {
+  document.getElementById("myForm30_1").style.display = "block";
+}
+
+function closeForm30_1() {
+  document.getElementById("myForm30_1").style.display = "none";
+}
+
+function openForm31_1() {
+  document.getElementById("myForm31_1").style.display = "block";
+}
+
+function closeForm31_1() {
+  document.getElementById("myForm31_1").style.display = "none";
+}
+
+function openForm32_1() {
+  document.getElementById("myForm32_1").style.display = "block";
+}
+
+function closeForm32_1() {
+  document.getElementById("myForm32_1").style.display = "none";
+}
+
+function openForm33_1() {
+  document.getElementById("myForm33_1").style.display = "block";
+}
+
+function closeForm33_1() {
+  document.getElementById("myForm33_1").style.display = "none";
+}
+
+function openForm34_1() {
+  document.getElementById("myForm34_1").style.display = "block";
+}
+
+function closeForm34_1() {
+  document.getElementById("myForm34_1").style.display = "none";
+}
+
+function openForm35_1() {
+  document.getElementById("myForm35_1").style.display = "block";
+}
+
+function closeForm35_1() {
+  document.getElementById("myForm35_1").style.display = "none";
+}
+
+function openForm36_1() {
+  document.getElementById("myForm36_1").style.display = "block";
+}
+
+function closeForm36_1() {
+  document.getElementById("myForm36_1").style.display = "none";
+}
+
+function openForm37_1() {
+  document.getElementById("myForm37_1").style.display = "block";
+}
+
+function closeForm37_1() {
+  document.getElementById("myForm37_1").style.display = "none";
+}
+
+function openForm38_1() {
+  document.getElementById("myForm38_1").style.display = "block";
+}
+
+function closeForm38_1() {
+  document.getElementById("myForm38_1").style.display = "none";
+}
+
+function openForm39_1() {
+  document.getElementById("myForm39_1").style.display = "block";
+}
+
+function closeForm39_1() {
+  document.getElementById("myForm39_1").style.display = "none";
+}
+
+function openForm40_1() {
+  document.getElementById("myForm40_1").style.display = "block";
+}
+
+function closeForm40_1() {
+  document.getElementById("myForm40_1").style.display = "none";
+}
+
+function openForm41_1() {
+  document.getElementById("myForm41_1").style.display = "block";
+}
+
+function closeForm41_1() {
+  document.getElementById("myForm41_1").style.display = "none";
+}
+
+function openForm42_1() {
+  document.getElementById("myForm42_1").style.display = "block";
+}
+
+function closeForm42_1() {
+  document.getElementById("myForm42_1").style.display = "none";
+}
+
+function openForm43_1() {
+  document.getElementById("myForm43_1").style.display = "block";
+}
+
+function closeForm43_1() {
+  document.getElementById("myForm43_1").style.display = "none";
+}
+
+function openForm44_1() {
+  document.getElementById("myForm44_1").style.display = "block";
+}
+
+function closeForm44_1() {
+  document.getElementById("myForm44_1").style.display = "none";
+}
+
+function openForm45_1() {
+  document.getElementById("myForm45_1").style.display = "block";
+}
+
+function closeForm45_1() {
+  document.getElementById("myForm45_1").style.display = "none";
+}
+
+function openForm46_1() {
+  document.getElementById("myForm46_1").style.display = "block";
+}
+
+function closeForm46_1() {
+  document.getElementById("myForm46_1").style.display = "none";
+}
+
+function openForm47_1() {
+  document.getElementById("myForm47_1").style.display = "block";
+}
+
+function closeForm47_1() {
+  document.getElementById("myForm47_1").style.display = "none";
+}
+
+function openForm48_1() {
+  document.getElementById("myForm48_1").style.display = "block";
+}
+
+function closeForm48_1() {
+  document.getElementById("myForm48_1").style.display = "none";
+}
+
+function openForm49_1() {
+  document.getElementById("myForm49_1").style.display = "block";
+}
+
+function closeForm49_1() {
+  document.getElementById("myForm49_1").style.display = "none";
+}
+
+function openForm50_1() {
+  document.getElementById("myForm50_1").style.display = "block";
+}
+
+function closeForm50_1() {
+  document.getElementById("myForm50_1").style.display = "none";
+}
+
+function openForm51_1() {
+  document.getElementById("myForm51_1").style.display = "block";
+}
+
+function closeForm51_1() {
+  document.getElementById("myForm51_1").style.display = "none";
+}
+
+function openForm52_1() {
+  document.getElementById("myForm52_1").style.display = "block";
+}
+
+function closeForm52_1() {
+  document.getElementById("myForm52_1").style.display = "none";
+}
+
+function openForm53_1() {
+  document.getElementById("myForm53_1").style.display = "block";
+}
+
+function closeForm53_1() {
+  document.getElementById("myForm53_1").style.display = "none";
+}
+
+function openForm54_1() {
+  document.getElementById("myForm54_1").style.display = "block";
+}
+
+function closeForm54_1() {
+  document.getElementById("myForm54_1").style.display = "none";
+}
+
+function openForm55_1() {
+  document.getElementById("myForm55_1").style.display = "block";
+}
+
+function closeForm55_1() {
+  document.getElementById("myForm55_1").style.display = "none";
+}
+
+function openForm56_1() {
+  document.getElementById("myForm56_1").style.display = "block";
+}
+
+function closeForm56_1() {
+  document.getElementById("myForm56_1").style.display = "none";
+}
+
+function openForm57_1() {
+  document.getElementById("myForm57_1").style.display = "block";
+}
+
+function closeForm57_1() {
+  document.getElementById("myForm57_1").style.display = "none";
+}
+
+function openForm58_1() {
+  document.getElementById("myForm58_1").style.display = "block";
+}
+
+function closeForm58_1() {
+  document.getElementById("myForm58_1").style.display = "none";
+}
+
+function openForm59_1() {
+  document.getElementById("myForm59_1").style.display = "block";
+}
+
+function closeForm59_1() {
+  document.getElementById("myForm59_1").style.display = "none";
+}
+
+function openForm60_1() {
+  document.getElementById("myForm60_1").style.display = "block";
+}
+
+//병종 구분_2
+function openForm_2() {
+  document.getElementById("myForm_2").style.display = "block";
+}
+
+function closeForm_2() {
+  document.getElementById("myForm_2").style.display = "none";
+}
+function openForm0_2() {
+  document.getElementById("myForm0_2").style.display = "block";
+}
+
+function closeForm0_2() {
+  document.getElementById("myForm0_2").style.display = "none";
+}
+
+function openForm1_2() {
+  document.getElementById("myForm1_2").style.display = "block";
+}
+
+function closeForm1_2() {
+  document.getElementById("myForm1_2").style.display = "none";
+}
+
+function openForm2_2() {
+  document.getElementById("myForm2_2").style.display = "block";
+}
+
+function closeForm2_2() {
+  document.getElementById("myForm2_2").style.display = "none";
+}
+
+function openForm3_2() {
+  document.getElementById("myForm3_2").style.display = "block";
+}
+
+function closeForm3_2() {
+  document.getElementById("myForm3_2").style.display = "none";
+}
+
+function openForm4_2() {
+  document.getElementById("myForm4_2").style.display = "block";
+}
+
+function closeForm4_2() {
+  document.getElementById("myForm4_2").style.display = "none";
+}
+
+function openForm5_2() {
+  document.getElementById("myForm5_2").style.display = "block";
+}
+
+function closeForm5_2() {
+  document.getElementById("myForm5_2").style.display = "none";
+}
+
+function openForm6_2() {
+  document.getElementById("myForm6_2").style.display = "block";
+}
+
+function closeForm6_2() {
+  document.getElementById("myForm6_2").style.display = "none";
+}
+
+function openForm7_2() {
+  document.getElementById("myForm7_2").style.display = "block";
+}
+
+function closeForm7_2() {
+  document.getElementById("myForm7_2").style.display = "none";
+}
+
+function openForm8_2() {
+  document.getElementById("myForm8_2").style.display = "block";
+}
+
+function closeForm8_2() {
+  document.getElementById("myForm8_2").style.display = "none";
+}
+
+function openForm9_2() {
+  document.getElementById("myForm9_2").style.display = "block";
+}
+
+function closeForm9_2() {
+  document.getElementById("myForm9_2").style.display = "none";
+}
+
+function openForm10_2() {
+  document.getElementById("myForm10_2").style.display = "block";
+}
+
+function closeForm10_2() {
+  document.getElementById("myForm10_2").style.display = "none";
+}
+
+function openForm11_2() {
+  document.getElementById("myForm11_2").style.display = "block";
+}
+
+function closeForm11_2() {
+  document.getElementById("myForm11_2").style.display = "none";
+}
+
+function openForm12_2() {
+  document.getElementById("myForm12_2").style.display = "block";
+}
+
+function closeForm12_2() {
+  document.getElementById("myForm12_2").style.display = "none";
+}
+
+function openForm13_2() {
+  document.getElementById("myForm13_2").style.display = "block";
+}
+
+function closeForm13_2() {
+  document.getElementById("myForm13_2").style.display = "none";
+}
+
+function openForm14_2() {
+  document.getElementById("myForm14_2").style.display = "block";
+}
+
+function closeForm14_2() {
+  document.getElementById("myForm14_2").style.display = "none";
+}
+
+function openForm15_2() {
+  document.getElementById("myForm15_2").style.display = "block";
+}
+
+function closeForm15_2() {
+  document.getElementById("myForm15_2").style.display = "none";
+}
+
+function openForm16_2() {
+  document.getElementById("myForm16_2").style.display = "block";
+}
+
+function closeForm16_2() {
+  document.getElementById("myForm16_2").style.display = "none";
+}
+
+function openForm17_2() {
+  document.getElementById("myForm17_2").style.display = "block";
+}
+
+function closeForm17_2() {
+  document.getElementById("myForm17_2").style.display = "none";
+}
+
+function openForm18_2() {
+  document.getElementById("myForm18_2").style.display = "block";
+}
+
+function closeForm18_2() {
+  document.getElementById("myForm18_2").style.display = "none";
+}
+
+function openForm19_2() {
+  document.getElementById("myForm19_2").style.display = "block";
+}
+
+function closeForm19_2() {
+  document.getElementById("myForm19_2").style.display = "none";
+}
+
+function openForm20_2() {
+  document.getElementById("myForm20_2").style.display = "block";
+}
+
+function closeForm20_2() {
+  document.getElementById("myForm20_2").style.display = "none";
+}
+
+function openForm21_2() {
+  document.getElementById("myForm21_2").style.display = "block";
+}
+
+function closeForm21_2() {
+  document.getElementById("myForm21_2").style.display = "none";
+}
+
+function openForm22_2() {
+  document.getElementById("myForm22_2").style.display = "block";
+}
+
+function closeForm22_2() {
+  document.getElementById("myForm22_2").style.display = "none";
+}
+
+function openForm23_2() {
+  document.getElementById("myForm23_2").style.display = "block";
+}
+
+function closeForm23_2() {
+  document.getElementById("myForm23_2").style.display = "none";
+}
+
+function openForm24_2() {
+  document.getElementById("myForm24_2").style.display = "block";
+}
+
+function closeForm24_2() {
+  document.getElementById("myForm24_2").style.display = "none";
+}
+
+function openForm25_2() {
+  document.getElementById("myForm25_2").style.display = "block";
+}
+
+function closeForm25_2() {
+  document.getElementById("myForm25_2").style.display = "none";
+}
+
+function openForm26_2() {
+  document.getElementById("myForm26_2").style.display = "block";
+}
+
+function closeForm26_2() {
+  document.getElementById("myForm26_2").style.display = "none";
+}
+
+function openForm27_2() {
+  document.getElementById("myForm27_2").style.display = "block";
+}
+
+function closeForm27_2() {
+  document.getElementById("myForm27_2").style.display = "none";
+}
+
+function openForm28_2() {
+  document.getElementById("myForm28_2").style.display = "block";
+}
+
+function closeForm28_2() {
+  document.getElementById("myForm28_2").style.display = "none";
+}
+
+function openForm29_2() {
+  document.getElementById("myForm29_2").style.display = "block";
+}
+
+function closeForm29_2() {
+  document.getElementById("myForm29_2").style.display = "none";
+}
+
+function openForm30_2() {
+  document.getElementById("myForm30_2").style.display = "block";
+}
+
+function closeForm30_2() {
+  document.getElementById("myForm30_2").style.display = "none";
+}
+
+function openForm31_2() {
+  document.getElementById("myForm31_2").style.display = "block";
+}
+
+function closeForm31_2() {
+  document.getElementById("myForm31_2").style.display = "none";
+}
+
+function openForm32_2() {
+  document.getElementById("myForm32_2").style.display = "block";
+}
+
+function closeForm32_2() {
+  document.getElementById("myForm32_2").style.display = "none";
+}
+
+function openForm33_2() {
+  document.getElementById("myForm33_2").style.display = "block";
+}
+
+function closeForm33_2() {
+  document.getElementById("myForm33_2").style.display = "none";
+}
+
+function openForm34_2() {
+  document.getElementById("myForm34_2").style.display = "block";
+}
+
+function closeForm34_2() {
+  document.getElementById("myForm34_2").style.display = "none";
+}
+
+function openForm35_2() {
+  document.getElementById("myForm35_2").style.display = "block";
+}
+
+function closeForm35_2() {
+  document.getElementById("myForm35_2").style.display = "none";
+}
+
+function openForm36_2() {
+  document.getElementById("myForm36_2").style.display = "block";
+}
+
+function closeForm36_2() {
+  document.getElementById("myForm36_2").style.display = "none";
+}
+
+function openForm37_2() {
+  document.getElementById("myForm37_2").style.display = "block";
+}
+
+function closeForm37_2() {
+  document.getElementById("myForm37_2").style.display = "none";
+}
+
+function openForm38_2() {
+  document.getElementById("myForm38_2").style.display = "block";
+}
+
+function closeForm38_2() {
+  document.getElementById("myForm38_2").style.display = "none";
+}
+
+function openForm39_2() {
+  document.getElementById("myForm39_2").style.display = "block";
+}
+
+function closeForm39_2() {
+  document.getElementById("myForm39_2").style.display = "none";
+}
+
+function openForm40_2() {
+  document.getElementById("myForm40_2").style.display = "block";
+}
+
+function closeForm40_2() {
+  document.getElementById("myForm40_2").style.display = "none";
+}
+
+function openForm41_2() {
+  document.getElementById("myForm41_2").style.display = "block";
+}
+
+function closeForm41_2() {
+  document.getElementById("myForm41_2").style.display = "none";
+}
+
+function openForm42_2() {
+  document.getElementById("myForm42_2").style.display = "block";
+}
+
+function closeForm42_2() {
+  document.getElementById("myForm42_2").style.display = "none";
+}
+
+function openForm43_2() {
+  document.getElementById("myForm43_2").style.display = "block";
+}
+
+function closeForm43_2() {
+  document.getElementById("myForm43_2").style.display = "none";
+}
+
+function openForm44_2() {
+  document.getElementById("myForm44_2").style.display = "block";
+}
+
+function closeForm44_2() {
+  document.getElementById("myForm44_2").style.display = "none";
+}
+
+function openForm45_2() {
+  document.getElementById("myForm45_2").style.display = "block";
+}
+
+function closeForm45_2() {
+  document.getElementById("myForm45_2").style.display = "none";
+}
+
+function openForm46_2() {
+  document.getElementById("myForm46_2").style.display = "block";
+}
+
+function closeForm46_2() {
+  document.getElementById("myForm46_2").style.display = "none";
+}
+
+function openForm47_2() {
+  document.getElementById("myForm47_2").style.display = "block";
+}
+
+function closeForm47_2() {
+  document.getElementById("myForm47_2").style.display = "none";
+}
+
+function openForm48_2() {
+  document.getElementById("myForm48_2").style.display = "block";
+}
+
+function closeForm48_2() {
+  document.getElementById("myForm48_2").style.display = "none";
+}
+
+function openForm49_2() {
+  document.getElementById("myForm49_2").style.display = "block";
+}
+
+function closeForm49_2() {
+  document.getElementById("myForm49_2").style.display = "none";
+}
+
+function openForm50_2() {
+  document.getElementById("myForm50_2").style.display = "block";
+}
+
+function closeForm50_2() {
+  document.getElementById("myForm50_2").style.display = "none";
+}
+
+function openForm51_2() {
+  document.getElementById("myForm51_2").style.display = "block";
+}
+
+function closeForm51_2() {
+  document.getElementById("myForm51_2").style.display = "none";
+}
+
+function openForm52_2() {
+  document.getElementById("myForm52_2").style.display = "block";
+}
+
+function closeForm52_2() {
+  document.getElementById("myForm52_2").style.display = "none";
+}
+
+function openForm53_2() {
+  document.getElementById("myForm53_2").style.display = "block";
+}
+
+function closeForm53_2() {
+  document.getElementById("myForm53_2").style.display = "none";
+}
+
+function openForm54_2() {
+  document.getElementById("myForm54_2").style.display = "block";
+}
+
+function closeForm54_2() {
+  document.getElementById("myForm54_2").style.display = "none";
+}
+
+function openForm55_2() {
+  document.getElementById("myForm55_2").style.display = "block";
+}
+
+function closeForm55_2() {
+  document.getElementById("myForm55_2").style.display = "none";
+}
+
+function openForm56_2() {
+  document.getElementById("myForm56_2").style.display = "block";
+}
+
+function closeForm56_2() {
+  document.getElementById("myForm56_2").style.display = "none";
+}
+
+function openForm57_2() {
+  document.getElementById("myForm57_2").style.display = "block";
+}
+
+function closeForm57_2() {
+  document.getElementById("myForm57_2").style.display = "none";
+}
+
+function openForm58_2() {
+  document.getElementById("myForm58_2").style.display = "block";
+}
+
+function closeForm58_2() {
+  document.getElementById("myForm58_2").style.display = "none";
+}
+
+function openForm59_2() {
+  document.getElementById("myForm59_2").style.display = "block";
+}
+
+function closeForm59_2() {
+  document.getElementById("myForm59_2").style.display = "none";
+}
+
+function openForm60_2() {
+  document.getElementById("myForm60_2").style.display = "block";
+}
