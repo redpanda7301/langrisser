@@ -382,7 +382,7 @@ var data = [
                 "CoolTime": 0, // 0 - 해당사항 없음
                 "Distance": 2, // 0 - 자신, 1 ~ - 사거리
                 "Range": 1, // 1 - 단일, 2~98 - 범위, 99 - 맵전체
-                "IconImageUrl": "/img/skills/17.png",
+                "IconImageUrl": "../img/skills/17.png",
                 "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.</br>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
                 "Animation": null
             },
@@ -394,7 +394,7 @@ var data = [
                 "CoolTime": 1, // 0 - 해당사항 없음
                 "Distance": 3, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 1, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Skill_ATKup.png",
+                "IconImageUrl": "../img/skills/Skill_ATKup.png",
                 "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및</br> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
                 "Animation": null
             },
@@ -406,7 +406,7 @@ var data = [
                 "CoolTime": 1, // 0 - 해당사항 없음
                 "Distance": 3, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 3, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/23.png",
+                "IconImageUrl": "../img/skills/23.png",
                 "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.</br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
                 "Animation": null
             },
@@ -418,7 +418,7 @@ var data = [
                 "CoolTime": 5, // 0 - 해당사항 없음
                 "Distance": 3, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 4, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Skill_ClearCD.png",
+                "IconImageUrl": "../img/skills/Skill_ClearCD.png",
                 "Desc": "[지원]액티브 스킬, 범위 내 모든 아군의 모든 스킬 쿨타임 -3턴.</br>그리고 사용자 지력 3배의 생명을 회복시킨다.",
                 "Animation": null
             },
@@ -430,7 +430,7 @@ var data = [
                 "CoolTime": 1, // 0 - 해당사항 없음
                 "Distance": 2, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 1, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Skill_Heal2.png",
+                "IconImageUrl": "../img/skills/Skill_Heal2.png",
                 "Desc": "[지원]액티브 스킬, 단일 아군 부대에게 전투 후 생명을 10% 회복하게한다. 2턴지속.",
                 "Animation": null
             },
@@ -442,7 +442,7 @@ var data = [
                 "CoolTime": 3, // 0 - 해당사항 없음
                 "Distance": 3, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 3, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Skill_ThunderCrash.png",
+                "IconImageUrl": "../img/skills/Skill_ThunderCrash.png",
                 "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.</br>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
                 "Animation": null
             },
@@ -454,7 +454,7 @@ var data = [
                 "CoolTime": 0, // 0 - 해당사항 없음
                 "Distance": 0, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 0, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Passive_AtkBuf5.png",
+                "IconImageUrl": "../img/skills/Passive_AtkBuf5.png",
                 "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
                 "Animation": null
             },
@@ -466,7 +466,7 @@ var data = [
                 "CoolTime": 1, // 0 - 해당사항 없음
                 "Distance": 2, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 1, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/19.png",
+                "IconImageUrl": "../img/skills/19.png",
                 "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.</br>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.</br>회복량은 사용자 지력의 4배.",
                 "Animation": null
             },
@@ -478,7 +478,7 @@ var data = [
                 "CoolTime": 2, // 0 - 해당사항 없음
                 "Distance": 3, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 3, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Skill_MassMDefKup.png",
+                "IconImageUrl": "../img/skills/Skill_MassMDefKup.png",
                 "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,</br>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
                 "Animation": null
             }
