@@ -533,9 +533,9 @@ var data = [
                 "CoolTime": 5, // 0 - 해당사항 없음
                 "Distance": 0, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 1, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/Super/Skill_Super36.png",
+                "IconImageUrl": "../img/Super/Skill_Super36.png",
                 "Desc": "[지원] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.</br>회복량은 사용자 지력의 3배. 동시에 [조롱] 획득.<br>[조롱]: \"행동 종료시, 주위 4칸 이내 2기 적군에게 1개의 디버프 부여\", 2턴 지속.",
-                "Animation": "/img/Super/아멜다.gif"
+                "Animation": "../img/Super/아멜다.gif"
             }
         ],
         "Bio": [
