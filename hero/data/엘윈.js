@@ -489,7 +489,7 @@ var data = [
                 "Name": "개방",
                 "Materials": [
                     {
-                        "MaterialImgUrl": "/item/AlterEgo_Elwin.png",
+                        "MaterialImgUrl": "../img/item/AlterEgo_Elwin.png",
                         "Amount": 1
                     }
                 ],
@@ -499,19 +499,19 @@ var data = [
                 "Name": "1단계 재료",
                 "Materials": [
                     {
-                        "MaterialImgUrl": "/item/오락기.png",
+                        "MaterialImgUrl": "../img/item/오락기.png",
                         "Amount": 40
                     },
                     {
-                        "MaterialImgUrl": "/classup/rank8-1.png",
+                        "MaterialImgUrl": "../img/classup/rank8-1.png",
                         "Amount": 30
                     },
                     {
-                        "MaterialImgUrl": "/classup/rank7-1.png",
+                        "MaterialImgUrl": "../img/classup/rank7-1.png",
                         "Amount": 40
                     },
                     {
-                        "MaterialImgUrl": "/classup/rank6-1.png",
+                        "MaterialImgUrl": "../img/classup/rank6-1.png",
                         "Amount": 50
                     }
                 ],
@@ -526,19 +526,19 @@ var data = [
                 "Name": "2단계 재료",
                 "Materials": [
                     {
-                        "MaterialImgUrl": "/item/오락기.png",
+                        "MaterialImgUrl": "../img/item/오락기.png",
                         "Amount": 40
                     },
                     {
-                        "MaterialImgUrl": "/item/쓰알열쇠.png",
+                        "MaterialImgUrl": "../img/item/쓰알열쇠.png",
                         "Amount": 30
                     },
                     {
-                        "MaterialImgUrl": "/item/스알열쇠.png",
+                        "MaterialImgUrl": "../img/item/스알열쇠.png",
                         "Amount": 40
                     },
                     {
-                        "MaterialImgUrl": "/item/알열쇠.png",
+                        "MaterialImgUrl": "../img/item/알열쇠.png",
                         "Amount": 50
                     }
                 ],
@@ -553,11 +553,11 @@ var data = [
                 "Name": "3단계 재료",
                 "Materials": [
                     {
-                        "MaterialImgUrl": "/item/오락기.png",
+                        "MaterialImgUrl": "../img/item/오락기.png",
                         "Amount": 40
                     },
                     {
-                        "MaterialImgUrl": "/item/룬스톤.png",
+                        "MaterialImgUrl": "../img/item/룬스톤.png",
                         "Amount": 2
                     }
                 ],
@@ -577,19 +577,19 @@ var data = [
                 "Name": "4단계 재료",
                 "Materials": [
                     {
-                        "MaterialImgUrl": "/item/오락기.png",
+                        "MaterialImgUrl": "../img/item/오락기.png",
                         "Amount": 40
                     },
                     {
-                        "MaterialImgUrl": "/heart/h1.png",
+                        "MaterialImgUrl": "../img/heart/h1.png",
                         "Amount": 60
                     },
                     {
-                        "MaterialImgUrl": "/heart/h1-1.png",
+                        "MaterialImgUrl": "../img/heart/h1-1.png",
                         "Amount": 30
                     },
                     {
-                        "MaterialImgUrl": "/heart/x.png",
+                        "MaterialImgUrl": "../img/heart/x.png",
                         "Amount": 12
                     }
                 ],
@@ -604,15 +604,15 @@ var data = [
                 "Name": "5단계 재료",
                 "Materials": [
                     {
-                        "MaterialImgUrl": "/item/오락기.png",
+                        "MaterialImgUrl": "../img/item/오락기.png",
                         "Amount": 40
                     },
                     {
-                        "MaterialImgUrl": "/item/Awaken_MoonBrillance.png",
+                        "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.png",
                         "Amount": 5
                     },
                     {
-                        "MaterialImgUrl": "/item/Awaken_Stardust.png",
+                        "MaterialImgUrl": "../img/item/Awaken_Stardust.png",
                         "Amount": 5
                     }
                 ],
@@ -627,19 +627,19 @@ var data = [
                 "Name": "6단계 재료",
                 "Materials": [
                     {
-                        "MaterialImgUrl": "/item/Item_MemoryEssence.png",
+                        "MaterialImgUrl": "../img/item/Item_MemoryEssence.png",
                         "Amount": 600
                     },
                     {
-                        "MaterialImgUrl": "/stone/StoneA_Rider1.png",
+                        "MaterialImgUrl": "../img/stone/StoneA_Rider1.png",
                         "Amount": 5
                     },
                     {
-                        "MaterialImgUrl": "/stone/StoneA_Rider2.png",
+                        "MaterialImgUrl": "../img/stone/StoneA_Rider2.png",
                         "Amount": 5
                     },
                     {
-                        "MaterialImgUrl": "/stone/StoneA_Rider4.png",
+                        "MaterialImgUrl": "../img/stone/StoneA_Rider4.png",
                         "Amount": 5
                     }
                 ],
@@ -665,7 +665,7 @@ var data = [
                 "CoolTime": 2, // 0 - 해당사항 없음
                 "Distance": 1, // 0 - 자신, 1 ~ - 사거리
                 "Range": 1, // 1 - 단일, 2~98 - 범위, 99 - 맵전체
-                "IconImageUrl": "/img/skills/1.png",
+                "IconImageUrl": "../img/skills/1.png",
                 "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.</br>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
                 "Animation": null
             },
@@ -677,7 +677,7 @@ var data = [
                 "CoolTime": 0, // 0 - 해당사항 없음
                 "Distance": 0, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 0, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Passive_Cancel.png",
+                "IconImageUrl": "../img/skills/Passive_Cancel.png",
                 "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.</br>2턴 지속, 치명타 발생 시 반드시 발동.",
                 "Animation": null
             },
@@ -689,7 +689,7 @@ var data = [
                 "CoolTime": 2, // 0 - 해당사항 없음
                 "Distance": 1, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 1, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/36.png",
+                "IconImageUrl": "../img/skills/36.png",
                 "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.</br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
                 "Animation": null
             },
@@ -701,7 +701,7 @@ var data = [
                 "CoolTime": 3, // 0 - 해당사항 없음
                 "Distance": 0, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 99, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/SuperBuff_Light2.png",
+                "IconImageUrl": "../img/skills/SuperBuff_Light2.png",
                 "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의</br>공격, 방어 능력치가 크게 상승하고</br>생명이 80% 이상일 경우 전투 중 주는 피해량 +15%, 4턴 지속.</br>(이효과는 다른 초절강화 스킬과 중첩불가)",
                 "Animation": null
             },
@@ -713,7 +713,7 @@ var data = [
                 "CoolTime": 5, // 0 - 해당사항 없음
                 "Distance": 1, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 1, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Skill_SwordSoul.png",
+                "IconImageUrl": "../img/skills/Skill_SwordSoul.png",
                 "Desc": "[물리 피해] 단일 적군을 공격하여 1.8배 피해를 준다.</br>전투 전 적 부대의 버프 5개 제거 및 적 부대에게 '치료 방해' 부여, 2턴 지속</br>이 효과는 제거되지 않는다.",
                 "Animation": null
             },
@@ -725,7 +725,7 @@ var data = [
                 "CoolTime": 0, // 0 - 해당사항 없음
                 "Distance": 0, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 0, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Passive_BreakDef.png",
+                "IconImageUrl": "../img/skills/Passive_BreakDef.png",
                 "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
                 "Animation": null
             },
@@ -737,7 +737,7 @@ var data = [
                 "CoolTime": 0, // 0 - 해당사항 없음
                 "Distance": 0, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 0, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Passive_Barb.png",
+                "IconImageUrl": "../img/skills/Passive_Barb.png",
                 "Desc": "[패시브]근접 공격을 받아 전투 진입시 전투 후 부대 생명이 50%이상이라면 [미늘]을 발동한다:</br>전투 종료 후 적 부대에게 영웅 방어 2.5배만큼의 [고정 피해]를 준다.",
                 "Animation": null
             },
@@ -749,7 +749,7 @@ var data = [
                 "CoolTime": 5, // 0 - 해당사항 없음
                 "Distance": 1, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 1, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Skill_Support.png",
+                "IconImageUrl": "../img/skills/Skill_Support.png",
                 "Desc": "[물리 피해] 단일 적군을 공격하여 1.7배 피해를 준다.</br>전투 전 공격의 20%가 방어에 추가되며, 적 부대에게 '모든 패시브 스킬을 무효화한다'부여,2턴 지속,</br>이 효과는 제거되지 않는다.",
                 "Animation": null
             },
@@ -761,7 +761,7 @@ var data = [
                 "CoolTime": 0, // 0 - 해당사항 없음
                 "Distance": 0, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 0, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/Passive_AtkBuf1.png",
+                "IconImageUrl": "../img/skills/Passive_AtkBuf1.png",
                 "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 +12%.",
                 "Animation": null
             },
@@ -773,7 +773,7 @@ var data = [
                 "CoolTime": 4, // 0 - 해당사항 없음
                 "Distance": 0, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 1, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/sp/엘윈/1.png",
+                "IconImageUrl": "../img/skills/sp/엘윈/1.png",
                 "Desc": "[액티브] 자신에게 '전설의 빛' 효과 부여 :</br>엘윈 전용 장비 효과 발동 확률을 <font color=\"red\">100%</font>로 조절, 지속 1행동 및 '면역' 효과, 지속 2행동,</br>사용 후 재행동 <font color=\"red\">3</font>칸 가능,부대가 혼합 병종이 아닐 경우 <font color=\"red\">4</font>칸 재행동</br>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
                 "Animation": null
             },
@@ -785,7 +785,7 @@ var data = [
                 "CoolTime": 0, // 0 - 해당사항 없음
                 "Distance": 0, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 0, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/sp/엘윈/2.png",
+                "IconImageUrl": "../img/skills/sp/엘윈/2.png",
                 "Desc": "[패시브]아군 퇴각 시 부대 생명 <font color=\"red\">20%</font> 회복 및 고독한 강자 효과 획득.<br>피격으로 전투 진입 전 생명 회복 <font color=\"red\">30%</font>,<br>전투 후 피해량 <font color=\"red\">30%</font> 수치만큼 생명 회복, 지속 <font color=\"red\">1</font>행동",
                 "Animation": null
             }

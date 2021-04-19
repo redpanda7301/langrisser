@@ -425,7 +425,7 @@ var data = [
                 "CoolTime": 0, // 0 - 해당사항 없음
                 "Distance": 2, // 0 - 자신, 1 ~ - 사거리
                 "Range": 1, // 1 - 단일, 2~98 - 범위, 99 - 맵전체
-                "IconImageUrl": "/img/skills/17.png",
+                "IconImageUrl": "../img/skills/17.png",
                 "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.</br>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
                 "Animation": null
             },
@@ -437,7 +437,7 @@ var data = [
                 "CoolTime": 1, // 0 - 해당사항 없음
                 "Distance": 3, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 1, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/18.png",
+                "IconImageUrl": "../img/skills/18.png",
                 "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및</br>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
                 "Animation": null
             },
@@ -449,7 +449,7 @@ var data = [
                 "CoolTime": 1, // 0 - 해당사항 없음
                 "Distance": 2, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 1, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/19.png",
+                "IconImageUrl": "../img/skills/19.png",
                 "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.</br>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.</br>회복량은 사용자 지력의 4배.",
                 "Animation": null
             },
@@ -461,7 +461,7 @@ var data = [
                 "CoolTime": 3, // 0 - 해당사항 없음
                 "Distance": 3, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 3, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/20.png",
+                "IconImageUrl": "../img/skills/20.png",
                 "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.</br>'비병'과 전투 시 더 큰 피해를 준다.</br>적군의 공격, 지력 -20%, 2턴 지속.",
                 "Animation": null
             },
@@ -473,7 +473,7 @@ var data = [
                 "CoolTime": 5, // 0 - 해당사항 없음
                 "Distance": 3, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 3, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/21.png",
+                "IconImageUrl": "../img/skills/21.png",
                 "Desc": "[마법 피해] 0.3배의 광역 피해를 주고</br>범위 내 적군의 버프를 1개 제거하며 무작위 디버프를 1개 부여한다.",
                 "Animation": null
             },
@@ -485,7 +485,7 @@ var data = [
                 "CoolTime": 0, // 0 - 해당사항 없음
                 "Distance": 0, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 0, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/22.png",
+                "IconImageUrl": "../img/skills/22.png",
                 "Desc": "[패시브] 부대 생명이 90%이상일 시 지력, 마방 +10%.",
                 "Animation": null
             },
@@ -497,7 +497,7 @@ var data = [
                 "CoolTime": 1, // 0 - 해당사항 없음
                 "Distance": 3, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 3, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/23.png",
+                "IconImageUrl": "../img/skills/23.png",
                 "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.</br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
                 "Animation": null
             },
@@ -509,7 +509,7 @@ var data = [
                 "CoolTime": 5, // 0 - 해당사항 없음
                 "Distance": 5, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 98, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/24.png",
+                "IconImageUrl": "../img/skills/24.png",
                 "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.</br>'마물'과 전투 시 더 큰 피해를 입힌다. 버프를 1개 제거한다.",
                 "Animation": null
             },
@@ -521,7 +521,7 @@ var data = [
                 "CoolTime": 1, // 0 - 해당사항 없음
                 "Distance": 3, // 0 - 자신 / 해당사항 없음, 1 ~ - 사거리
                 "Range": 1, // 0 - 해당사항 없음, 1 - 단일, 2~97 - 범위, 98 - 직선, 99 - 맵전체
-                "IconImageUrl": "/img/skills/25.png",
+                "IconImageUrl": "../img/skills/25.png",
                 "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 </br>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
                 "Animation": null
             },
