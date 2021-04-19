@@ -28,6 +28,14 @@ function setMobileMenu() {
 	});
 }
 
+function setCurrentMenu(currentMenu) {
+	$("#header nav a").removeClass("current-page-item");
+
+	if ($("#" + currentMenu).length) {
+		$("#" + currentMenu).addClass("current-page-item");
+	}
+}
+
 window.addEventListener('load', function() {
 	var allElements = document.getElementsByTagName('*');
 	Array.prototype.forEach.call(allElements, function(el) {
@@ -37,8 +45,9 @@ window.addEventListener('load', function() {
 			xhttp.onreadystatechange = function () {
 				if (this.readyState == 4 && this.status == 200) {
 					el.outerHTML = this.responseText;
-					if (includePath == "/includes/header.html") {
+					if (includePath == "../includes/header.html") {
 						setMobileMenu();
+						setCurrentMenu(currentMenu);
 					}
 				}
 			};
