@@ -55,18 +55,18 @@
             
             $(document).ready(function () {                
                 var heroName = getParameterByName("name");
-                if (heroName !== null) {
-                    var fileref = document.createElement("script");
-                    fileref.setAttribute("type","text/javascript");
-                    fileref.setAttribute("src", "../hero/data/" + heroName + ".js");
-                    document.getElementsByTagName("head")[0].appendChild(fileref);
+                if (heroName !== null) {                    
+                    $.getScript("../hero/data/" + heroName + ".js")
+                        .done(function( script, textStatus ) {
+                            initPage();
+                        });                    
                 }
                 else {
                     location.href = "../hero.html";
-                }             
+                }
             });
 
-            window.onload = function() {
+            function initPage() {
                 var skinTemplate = _.template($("#skin-slideshow-template").html());
                 var basicInfoTemplate = _.template($("#basic-info-template").html());
                 var talentSoldierInfoTemplate = _.template($("#talent-soldier-info-template").html());
