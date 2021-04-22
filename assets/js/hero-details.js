@@ -83,69 +83,6 @@ function getParameterByName(name, url = window.location.href) {
     return decodeURIComponent(results[2].replace(/\+/g, ' '));
 }
 
-function getCoolTime(time) {
-    if (time === -1) {
-        return "X";
-    }
-    else {
-        return time + "턴";
-    }
-}
-
-function getSkillType(type) {
-    if (type === 1) {
-        return "물리피해";
-    }
-    else if (type === 2) {
-        return "마법피해";
-    }
-    else if (type === 3) {
-        return "초절강화";
-    }
-    else if (type === 4) {
-        return "지원";
-    }
-    else if (type === 5) {
-        return "치료";
-    }
-    else if (type === 6) {
-        return "액티브";
-    }
-    else if (type === 7) {
-        return "소환";
-    }
-    else {
-        return "";
-    }
-}
-
-function getDistance(distance) {
-    if (distance === 0) {
-        return "자신";
-    }
-    else if (distance === -1) {
-        return "구조체";
-    }
-    else if (distance > 0) {
-        return distance + "칸";
-    }
-}
-
-function getRange(range) {
-    if (range === 1) {
-        return "단일";
-    }
-    else if (range === 98) {
-        return "직선";
-    }
-    else if (range === 99) {
-        return "맵전체";
-    }
-    else if (range > 1) {
-        return range + "칸";
-    }
-}
-
 function plusSlides(n) {
     showSlides(slideIndex += n);
 }
