@@ -327,7 +327,7 @@
             <%
               var counter = 0;
               var colNum = 6;
-              _.each(ClassUp, function(classUp) {
+              _.each(ClassUp, function(classUp) {                
                 if (ClassUp.length > 6 && counter >= 2) {
                     colNum = 4;
                 }
@@ -354,6 +354,11 @@
                         <%});%>                        
                     </table>
                 </section>
+                <%
+                    if (ClassUp.length == 5 && counter == 0) {
+                        counter = 1;
+                    }
+                %>
             <%if (counter % 2 == 1 || counter == ClassUp.length) {%>   
             </div>
             <%}%>
