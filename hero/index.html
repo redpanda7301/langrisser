@@ -155,6 +155,7 @@
                         <tr><td><img src="../img/ability/<%=SPTalent[0].Icon%>" width="100px" height="90px" /></td><th><input id="input-5" name="input-5" value="6" class="rating-loading"></th>
                         <tr><td colspan="2"><span id="sp-caption"></span></td></tr>
                         <%}%>
+                        <% if (Equip != null) {%>
                         <tr>
                             <th colspan="2"><%=Equip.Name%></th>
                         </tr>
@@ -168,6 +169,7 @@
                                 <%=Equip.Ability%>
                             </td>
                         </tr>
+                        <%}%>
                         <tr>
                             <th colspan="2">용병</th>
                         <tr>
@@ -403,7 +405,7 @@
                 <section>
                     <div class="view_title">스킬 정보</div>
                     <%_.each(Skills, function(skill) {%>
-                    <%if (skill.IsPassive != true) {%>
+                    <%if (skill.IsPassive == true) {%>
                     <table border="0" cellpadding="0" cellspacing="1">
                         <colgroup>
                             <col width="22%">
@@ -412,19 +414,89 @@
                             <col width="*">
                         </colgroup>
                         <tr>
-                            <td colspan="4"><b><font color="#0070c0"><%=skill.Name%>(COST <%=skill.Cost%>)</font></b></td>
+                            <td colspan="4"><b><font color="#0070c0"><%=skill.Name%><%if (skill.Cost != null) {%>(<%=skill.Cost%>)<%}%></font></b></td>
                         </tr>
                         <tr>
                             <th>유형</th>
-                            <td><%=getSkillType(skill.Type)%></td>
+                            <td>패시브</td>
+                        </tr>
+                        <tr>
+                            <th><img src="<%=skill.IconImageUrl%>" width="100" /></th>
+                            <td colspan="3">
+                                <%=skill.Desc%>
+                            </td>
+                        </tr>
+                    </table>
+                    <%} else if (skill.IsStrategySkill) {%>
+                    <table border="0" cellpadding="0" cellspacing="1">
+                        <colgroup>
+                            <col width="22%">
+                            <col width="28%">
+                            <col width="22%">
+                            <col width="*">
+                        </colgroup>
+                        <tr>
+                            <td colspan="4"><b><font color="#0070c0"><%=skill.Name%><%if (skill.Cost != null) {%>(<%=skill.Cost%>)<%}%></font></b></td>
+                        </tr>
+                        <tr>
+                            <th>유형</th>
+                            <td><%=skill.Type%></td>                            
+                            <th>사거리</th>
+                            <td><%=skill.Distance%></td>                            
+                        </tr>
+                        <tr>
+                            <th><img src="<%=skill.IconImageUrl%>" width="100" /></th>
+                            <td colspan="3">
+                                <%=skill.Desc%>
+                            </td>
+                        </tr>                        
+                    </table>                   
+                    <%} else if (skill.IsSummonSkill) {%>
+                    <table border="0" cellpadding="0" cellspacing="1">
+                        <colgroup>
+                            <col width="22%">
+                            <col width="28%">
+                            <col width="22%">
+                            <col width="*">
+                        </colgroup>
+                        <tr>
+                            <td colspan="4"><b><font color="#0070c0"><%=skill.Name%><%if (skill.Cost != null) {%>(<%=skill.Cost%>)<%}%></font></b></td>
+                        </tr>
+                        <tr>
+                            <th>유형</th>
+                            <td><%=skill.Type%></td>                            
                             <th>쿨타임</th>
-                            <td><%=skill.CoolTime%>턴</td>
+                            <td><%=skill.CoolTime%></td>
+                        </tr>
+                        <tr>
+                            <th><img src="<%=skill.IconImageUrl%>" width="100" /></th>
+                            <td colspan="3">
+                                <%=skill.Desc%>
+                            </td>
+                        </tr>                        
+                    </table>
+                    <%} else {%>
+                    <table border="0" cellpadding="0" cellspacing="1">
+                        <colgroup>
+                            <col width="22%">
+                            <col width="28%">
+                            <col width="22%">
+                            <col width="*">
+                        </colgroup>
+                        <tr>
+                            <td colspan="4"><b><font color="#0070c0"><%=skill.Name%><%if (skill.Cost != null) {%>(<%=skill.Cost%>)<%}%></font></b></td>
+                        </tr>
+                        <tr>
+                            <th>유형</th>
+                            <td><%=skill.Type%></td>
+                            <th>쿨타임</th>
+                            <td><%=skill.CoolTime%></td>
                         </tr>
                         <tr>
                             <th>사거리</th>
-                            <td><%=getDistance(skill.Distance)%></td>
+                            <td><%=skill.Distance%></td>
                             <th>범위</th>
-                            <td><%=getRange(skill.Range)%></td>
+                            <td><%=skill.Range%></td>
                         </tr>
                         <tr>
                             <th><img src="<%=skill.IconImageUrl%>" width="100" /></th>
@@ -438,36 +510,15 @@
                         </tr>
                         <%}%>
                     </table>
-                    <%} else {%>
-                    <table border="0" cellpadding="0" cellspacing="1">
-                        <colgroup>
-                            <col width="22%">
-                            <col width="28%">
-                            <col width="22%">
-                            <col width="*">
-                        </colgroup>
-                        <tr>
-                            <td colspan="4"><b><font color="#0070c0"><%=skill.Name%>(COST <%=skill.Cost%>)</font></b></td>
-                        </tr>
-                        <tr>
-                            <th>유형</th>
-                            <td>패시브</td>
-                        </tr>
-                        <tr>
-                            <th><img src="<%=skill.IconImageUrl%>" width="100" /></th>
-                            <td colspan="3">
-                                <%=skill.Desc%>
-                            </td>
-                        </tr>
-                    </table>
                     <%}%>
                     <%});%>
                 </section>
             </div>
         </script>
 
-        <!-- Bio Info -->
+        <!-- Bio Info -->        
         <script type="text/html" id="bio-info-template">
+            <%if (Bio != null) {%>
             <div class="col-12">
                 <section>
                     <div class="view_title">생애</div>
@@ -487,10 +538,12 @@
                     </table>
                 </section>
             </div>
+            <%}%>
         </script>
 
         <!-- Performance Info -->
         <script type="text/html" id="performance-info-template">
+            <%if (Performance != null) {%>
             <div class="col-12">
                 <section>
                     <div class="view_title">대사</div>
@@ -510,6 +563,7 @@
                     </table>
                 </section>
             </div>
+            <%}%>
         </script>
     </body>
 </html>

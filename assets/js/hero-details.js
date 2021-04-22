@@ -83,6 +83,15 @@ function getParameterByName(name, url = window.location.href) {
     return decodeURIComponent(results[2].replace(/\+/g, ' '));
 }
 
+function getCoolTime(time) {
+    if (time === -1) {
+        return "X";
+    }
+    else {
+        return time + "턴";
+    }
+}
+
 function getSkillType(type) {
     if (type === 1) {
         return "물리피해";
@@ -99,6 +108,12 @@ function getSkillType(type) {
     else if (type === 5) {
         return "치료";
     }
+    else if (type === 6) {
+        return "액티브";
+    }
+    else if (type === 7) {
+        return "소환";
+    }
     else {
         return "";
     }
@@ -107,6 +122,9 @@ function getSkillType(type) {
 function getDistance(distance) {
     if (distance === 0) {
         return "자신";
+    }
+    else if (distance === -1) {
+        return "구조체";
     }
     else if (distance > 0) {
         return distance + "칸";
