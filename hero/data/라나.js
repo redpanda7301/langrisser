@@ -114,7 +114,7 @@
           "ImageUrl": "라나/3/1.png"
         },
         {
-          "ImageUrl": "라나/4/2.png"
+          "ImageUrl": "라나/4/1.png"
         },
         {
           "ImageUrl": "라나/5/1.png"

@@ -69,7 +69,15 @@
   ],
   "SPTalent": null,
   "Equip": null,
-  "Soldiers": [],
+  "Soldiers": [
+	44,
+	13,
+	0,
+	17,
+	43,
+	14,
+	11
+  ],
   "Jobs": [
     {
       "Name": "심판의 위광",
