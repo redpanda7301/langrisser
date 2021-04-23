@@ -46,12 +46,12 @@
 			<div class="slideshow-container">
 
 			<div class="mySlides fade">
-			  <img src="../img/full/요슈아/1.png" style="width:100%">
+			  <img src="../img/full/사쿠라/1.png" style="width:100%">
 			  <div class="text">기본</div>
 			</div>
 			
 			<div class="mySlides fade">
-			  <img src="../img/full/요슈아/2.png" style="width:100%">
+			  <img src="../img/full/사쿠라/2.png" style="width:100%">
 			  <div class="text">빛의 메아리</div>
 			</div>
 			
@@ -76,54 +76,54 @@
 					</colgroup>
 					<tr>
 						<th>이름</th>
-						<td colspan="3" >요슈아</td>
+						<td colspan="3" >신구지 사쿠라</td>
 					</tr>
 					<tr>
 						<th>CV</th>
-						<td colspan="3" >사이가 미츠키</td>
+						<td colspan="3" >요코야마 치사</td>
 					</tr>
 					<tr>
 						<th>희귀도</th>
 						<td colspan="3"><img src="../img/type/0.png" /></td></tr>
 					<tr>
 						<th>세력</th>
-						<td colspan="3"><img src="../img/group/8.png" width="32" height="32" /><img src="../img/group/5.png" width="32" height="32" /><img src="../img/group/9.png" width="32" height="32" /></td>
+						<td colspan="3"><img src="../img/group/2.png" width="32" height="32" /><img src="../img/group/0.png" width="32" height="32" /><img src="../img/group/9.png" width="32" height="32" /></td>
 					</tr>
 					<tr>
 						<th>생명</th>
 						<td>+20%</td>
 						<th>공격</th>
-						<td>+40%</td>
+						<td>+35%</td>
 					</tr>
 					<tr>
 						<th>방어</th>
-						<td>+10%</td>
+						<td>+25%</td>
 						<th>마방</th>
-						<td>+30%</td>
+						<td>+20%</td>
 					</tr>
 					<tr>
 						<th >획득법</th>
-						<td colspan="3" class="td_left">한정 콜라보 소환</td>
+						<td colspan="3" class="td_left">콜라보 한정소환</td>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Spirit1.png" width="32" height="32" /></th>
-						<td colspan="3" >요슈아 레벨30 도달</td>
+						<td colspan="3" >신구지 사쿠라 레벨 30 달성</td>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Spirit2.png" width="32" height="32" /></th>
-						<td colspan="3" >요슈아를 사용하여 시공의 균열[정예]3-1 클리어</td>
+						<td colspan="3" >신구지 사쿠라를 출전시켜 시공의 균열 3-1[정예] 클리어</td>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Spirit3.png" width="32" height="32" /></th>
-						<td colspan="3" >요슈아가 쉐도우로 전직</td>
+						<td colspan="3" >신구지 사쿠라를 사쿠라 전용 광무로 전직</td>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Spirit4.png" width="32" height="32" /></th>
-						<td colspan="3" >요슈아가 칠흑의 송곳니로 전직</td>
+						<td colspan="3" >신구지 사쿠라를 파사의 혈통으로 전직</td>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_pink.png" width="32" height="32" /></th>
-						<td colspan="3" >생명+700, 방어+40, 마방+40</td>
+						<td colspan="3" >생명+700, 방어+50, 마방+40</td>
 					</tr>
 				</table>
 								</section>
@@ -134,20 +134,20 @@
 
 								<section>
 <table>
-<tr><th colspan="2">고유기술 : 어둠의 소년</th></tr>
-<tr><td><img src="../img/ability/61.png" width="100px" height="90px"/></td><th><input id="input-4" name="input-4" value="6" class="rating-loading"></th>
+<tr><th colspan="2">고유기술 : 영검 아라타카</th></tr>
+<tr><td><img src="../img/ability/70.png" width="100px" height="90px"/></td><th><input id="input-4" name="input-4" value="6" class="rating-loading"></th>
     <tr><td colspan="2"><span id="kv-caption"></span></td></tr>
 	<tr>
 					<th colspan="2">용병</th>
 					<tr>
 					<td colspan="2">
-						<span><img src="../img/troop/7.png"/></span>
-						<span><img src="../img/troop/8.png"/></span>
-						<span><img src="../img/troop/9.png"/></span>
-						<span><img src="../img/troop/12.png"/></span>
-						<span><img src="../img/troop/13.png"/></span>
-						<span><img src="../img/troop/32.png"/></span>
-						<span><img src="../img/troop/35.png"/></span>
+						<span><img src="../img/troop/3.png"/></span>
+						<span><img src="../img/troop/4.png"/></span>
+						<span><img src="../img/troop/31.png"/></span>
+						<span><img src="../img/troop/33.png"/></span>
+						<span><img src="../img/troop/56.png"/></span>
+						<span><img src="../img/troop/60.png"/></span>
+						<span><img src="../img/troop/75.png"/></span>
 					</td>
 				</tr>
 </table>
@@ -169,74 +169,67 @@
 					<tr>
 						<tr>
 						<th rowspan="2">클래스</th>
-						<td colspan="3" >쉐도우<img src="../img/troop/Icon_Occupation_Assassin.png" width="35px"/></td>
-					    <tr>
+						<td colspan="3" >파사의 혈통<img src="../img/troop/Icon_Occupation_Infantryman.png" width="35px"/></td>
+						<tr>
 							<td colspan="4">
 								<div class="class1">
-									<img src="../img/SD/요슈아/1/1.png" style=" height:131px">
+									<img src="../img/SD/사쿠라/1/1.png" style=" height:131px">
 								</div>
 								<div class="class1">
-									<img src="../img/SD/요슈아/2/1.png" style=" height:131px">
+									<img src="../img/SD/사쿠라/2/1.png" style=" height:131px">
 								</div>
 							</td>
 						</tr>
 					</tr>
 					<tr>
-						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
-						<td>2</td>
-						<th><img src="../img/Icon/Move_Walk.png"  width="30px"/></th>
-						<td>3</td>
-					</tr>
-
-					<tr>
 						<th>생명</th>
 						<td class="td_graph" colspan="3" >
-							<span class="graph_bg"><em class="graph_line bg_hp" style="width: 64%;"></em></span>
-							<strong class="graph_point col_olive">3819</strong>
+							<span class="graph_bg"><em class="graph_line bg_hp" style="width: 74%;"></em></span>
+							<strong class="graph_point col_olive">4487</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>공격</th>
 						<td class="td_graph" colspan="3" >
-							<span class="graph_bg"><em class="graph_line bg_atk" style="width: 83%;"></em></span>
-							<strong class="graph_point col_orange">540</strong>
+							<span class="graph_bg"><em class="graph_line bg_atk" style="width: 93%;"></em></span>
+							<strong class="graph_point col_orange">609</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>지력</th>
 						<td class="td_graph" colspan="3" >
-							<span class="graph_bg"><em class="graph_line bg_matk" style="width: 40%;"></em></span>
-							<strong class="graph_point col_blue">240</strong>
+							<span class="graph_bg"><em class="graph_line bg_matk" style="width: 47%;"></em></span>
+							<strong class="graph_point col_blue">283</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>방어</th>
 						<td class="td_graph" colspan="3" >
-							<span class="graph_bg"><em class="graph_line bg_def" style="width: 63%;"></em></span>
-							<strong class="graph_point col_yellow">283</strong>
+							<span class="graph_bg"><em class="graph_line bg_def" style="width: 68%;"></em></span>
+							<strong class="graph_point col_yellow">307</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>마방</th>
 						<td class="td_graph" colspan="3" >
-							<span class="graph_bg"><em class="graph_line bg_mdef" style="width: 58%;"></em></span>
-							<strong class="graph_point col_purple">260</strong>
+							<span class="graph_bg"><em class="graph_line bg_mdef" style="width: 59%;"></em></span>
+							<strong class="graph_point col_purple">266</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>기술</th>
 						<td class="td_graph" colspan="3" >
-							<span class="graph_bg"><em class="graph_line bg_cri" style="width: 96%;"></em></span>
-							<strong class="graph_point col_purple">336</strong>
+							<span class="graph_bg"><em class="graph_line bg_cri" style="width: 71%;"></em></span>
+							<strong class="graph_point col_purple">251</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>마음의유대4</th>
-						<td class="td_left" colspan="3" >생명이 100%일때 받는피해 -10%</td>
+						<td class="td_left" colspan="3" >근접공격을 받아 전투시, 받는 물리피해 -10%</td>
 					</tr>
 					<tr>
 						<th>마음의유대7</th>
-						<td class="td_left" colspan="3" >생명이 100%일때 입히는피해 +10%</td>
+						<td class="td_left" colspan="3" >근접공격을 받아 전투시, 입히는피해 +10%</td>
 					</tr>
 					</table>
 								</section>
@@ -256,73 +249,74 @@
 					</colgroup>
 					<tr>
 						<th rowspan="2">클래스</th>
-						<td colspan="3" >칠흑의 송곳니<img src="../img/troop/Icon_Occupation_Monster.png" width="35px"/></td>
-					    <tr>
+						<td colspan="3" >사쿠라 전용 광무<img src="../img/troop/Icon_Occupation_Cavalry.png" width="35px"/></td>
+						<tr>
 							<td colspan="4">
 								<div class="class2">
-									<img src="../img/SD/요슈아/1/2.png" style=" height:131px">
+									<img src="../img/SD/사쿠라/1/2.png" style=" height:131px">
 								</div>
 								<div class="class2">
-									<img src="../img/SD/요슈아/2/1.png" style=" height:131px">
+									<img src="../img/SD/사쿠라/2/1.png" style=" height:131px">
 								</div>
 							</td>
 						</tr>
 					</tr>
 					<tr>
 						<th><img src="../img/Icon/Icon_Range.png"  width="30px"/></th>
-						<td>2</td>
+						<td>1</td>
 						<th><img src="../img/Icon/Move_Walk.png"  width="30px"/></th>
-						<td>3</td>
+						<td>4</td>
 					</tr>					
 					<tr>
 						<th>생명</th>
 						<td class="td_graph" colspan="3" >
-							<span class="graph_bg"><em class="graph_line bg_hp" style="width: 64%;"></em></span>
-							<strong class="graph_point col_olive">3819</strong>
+							<span class="graph_bg"><em class="graph_line bg_hp" style="width: 74%;"></em></span>
+							<strong class="graph_point col_olive">4487</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>공격</th>
 						<td class="td_graph" colspan="3" >
 							<span class="graph_bg"><em class="graph_line bg_atk" style="width: 88%;"></em></span>
-							<strong class="graph_point col_orange">569</strong>
+							<strong class="graph_point col_orange">578</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>지력</th>
 						<td class="td_graph" colspan="3" >
-							<span class="graph_bg"><em class="graph_line bg_matk" style="width: 40%;"></em></span>
-							<strong class="graph_point col_blue">240</strong>
+							<span class="graph_bg"><em class="graph_line bg_matk" style="width: 42%;"></em></span>
+							<strong class="graph_point col_blue">257</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>방어</th>
 						<td class="td_graph" colspan="3" >
-							<span class="graph_bg"><em class="graph_line bg_def" style="width: 66%;"></em></span>
-							<strong class="graph_point col_yellow">295</strong>
+							<span class="graph_bg"><em class="graph_line bg_def" style="width: 68%;"></em></span>
+							<strong class="graph_point col_yellow">307</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>마방</th>
 						<td class="td_graph" colspan="3" >
-							<span class="graph_bg"><em class="graph_line bg_mdef" style="width: 62%;"></em></span>
-							<strong class="graph_point col_purple">281</strong>
+							<span class="graph_bg"><em class="graph_line bg_mdef" style="width: 59%;"></em></span>
+							<strong class="graph_point col_purple">266</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>기술</th>
 						<td class="td_graph" colspan="3" >
-							<span class="graph_bg"><em class="graph_line bg_cri" style="width: 66%;"></em></span>
-							<strong class="graph_point col_purple">231</strong>
+							<span class="graph_bg"><em class="graph_line bg_cri" style="width: 41%;"></em></span>
+							<strong class="graph_point col_purple">144</strong>
 						</td>
 					</tr>
 					<tr>
 						<th>마음의유대4</th>
-						<td class="td_left" colspan="3" >생명이 100%일때 치명타공격을 받을확률 -10%</td>
+						<td class="td_left" colspan="3" >부대생명이 50%미만시 받는피해 -10%</td>
 					</tr>
 					<tr>
 						<th>마음의유대7</th>
-						<td class="td_left" colspan="3" >생명이 100%일때 치명타확률 +10%</td>
+						<td class="td_left" colspan="3" >부대 생명 비율이 자신보다 높은 적을
+						</br>공격할 경우 전투 진입 후 입히는피해+10%</td>
 					</tr>
 				</table>
 								</section>
@@ -340,33 +334,33 @@
 				<tr>
 					<th>중앙2~10순서</th>
 					<td class="td_rank">
-						<img src="../img/heart/h4.png">
-						<img src="../img/heart/h1.png">
-						<img src="../img/heart/h3.png">
 						<img src="../img/heart/h2.png">
-						<img src="../img/heart/h4-1.png">
-						<img src="../img/heart/h1-1.png">
-						<img src="../img/heart/h3-1.png">
+						<img src="../img/heart/h3.png">
+						<img src="../img/heart/h1.png">
+						<img src="../img/heart/h4.png">
 						<img src="../img/heart/h2-1.png">
+						<img src="../img/heart/h3-1.png">
+						<img src="../img/heart/h1-1.png">
+						<img src="../img/heart/h4-1.png">
 						<img src="../img/heart/x.png">
 					</td>
 				</tr>
 				<tr>
 					<th>유대</th>
 					<td class="td_rank">
-						<img src="../img/heart/6.png">
-						<img src="../img/heart/6-1.png">
-						<img src="../img/heart/6-2.png">
-						<img src="../img/heart/6-3.png">
-						<img src="../img/heart/6-4.png">
+						<img src="../img/heart/2.png">
+						<img src="../img/heart/2-1.png">
+						<img src="../img/heart/2-2.png">
+						<img src="../img/heart/2-3.png">
+						<img src="../img/heart/2-4.png">
 					</td>
 				</tr>
 				<tr>
 					<th>각성</th>
 					<td class="td_rank">
-						<img src="../img/classup/ranka3.png">
+						<img src="../img/classup/ranka2.png">
 						<img src="../img/classup/ranka6.png">
-						<img src="../img/classup/ranka3-1.png">
+						<img src="../img/classup/ranka2-1.png">
 						<img src="../img/classup/ranka6-1.png">
 					</td>
 				</tr>
@@ -380,17 +374,17 @@
 						<col width="22%">
 						<col width="*">
 					</colgroup>
-						<div class="view_title">밴디트 : 공격+5, 기술+6</div>
+						<div class="view_title">파이터 : 공격+9, 생명+36</div>
 						<tr>
 						<th>T1</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank1-2.png">
+							<img src="../img/classup/rank1-1.png">
 						</td>
 						</tr>
 						<tr>
 						<th>T2</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank1-2.png">
+							<img src="../img/classup/rank1-1.png">
 						</td>
 						</tr>
 						</table>
@@ -403,31 +397,31 @@
 						<col width="22%">
 						<col width="*">
 					</colgroup>
-						<div class="view_title">집행자 : 공격+12, 기술+5</div>
+						<div class="view_title">파마사 : 공격+12, 기술+5</div>
 						<tr>
 					<th>T1</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank2-6.png">
-							<img src="../img/classup/rank1-2.png">
+							<img src="../img/classup/rank2-1.png">
 							<img src="../img/classup/rank1-1.png">
+							<img src="../img/classup/rank1-2.png">
 						</td>
 						</tr>
 						<tr>
 						<th>T2</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank3-2.png">
 							<img src="../img/classup/rank3-1.png">
-							<img src="../img/classup/rank2-3.png">
-							<img src="../img/classup/rank2-6.png">
+							<img src="../img/classup/rank3-6.png">
+							<img src="../img/classup/rank2-1.png">
+							<img src="../img/classup/rank2-2.png">
 						</td>
 						</tr>
 						<tr>
 						<th>T3</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank4-3.png">
 							<img src="../img/classup/rank4-1.png">
-							<img src="../img/classup/rank3-2.png">
+							<img src="../img/classup/rank4-2.png">
 							<img src="../img/classup/rank3-1.png">
+							<img src="../img/classup/rank3-6.png">
 						</td>
 						</tr>
 						</table>
@@ -438,41 +432,41 @@
 						<col width="22%">
 						<col width="*">
 					</colgroup>
-						<div class="view_title">칠흑의송곳니 : 공격+25, 방어+10, 기술+10</div>
+						<div class="view_title">파사의 혈통 : 공격+25, 생명+90, 방어+10</div>
 						<tr>
 						<th>T1</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank5-2.png">
 							<img src="../img/classup/rank5-1.png">
-							<img src="../img/classup/rank4-3.png">
+							<img src="../img/classup/rank5-2.png">
 							<img src="../img/classup/rank4-1.png">
+							<img src="../img/classup/rank4-3.png">
 						</td>
 						</tr>
 						<tr>
 						<th>T2</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank6-4.png">
+							<img src="../img/classup/rank6-1.png">
 							<img src="../img/classup/rank6-3.png">
-							<img src="../img/classup/rank5-2.png">
 							<img src="../img/classup/rank5-1.png">
+							<img src="../img/classup/rank5-2.png">
 						</td>
 						</tr>
 						<tr>
 						<th>T3</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank7-3.png">
-							<img src="../img/classup/rank7-6.png">
-							<img src="../img/classup/rank6-4.png">
+							<img src="../img/classup/rank7-2.png">
+							<img src="../img/classup/rank7-4.png">
+							<img src="../img/classup/rank6-1.png">
 							<img src="../img/classup/rank6-3.png">
 						</td>
 						</tr>
 						<tr>
 						<th>T4</th>
 						<td class="td_rank">
+							<img src="../img/classup/rank8-1.png">
 							<img src="../img/classup/rank8-5.png">
-							<img src="../img/classup/rank8-9.png">
-							<img src="../img/classup/rank7-3.png">
-							<img src="../img/classup/rank7-6.png">
+							<img src="../img/classup/rank7-2.png">
+							<img src="../img/classup/rank7-4.png">
 						</td>
 						</tr>
 						</table>
@@ -485,31 +479,31 @@
 						<col width="22%">
 						<col width="*">
 					</colgroup>
-						<div class="view_title">닌자 : 기술+8, 공격+7</div>
+						<div class="view_title">광무 : 공격+12, 생명+48</div>
 						<tr>
 						<th>T1</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank2-6.png">
-							<img src="../img/classup/rank1-2.png">
+							<img src="../img/classup/rank2-3.png">
+							<img src="../img/classup/rank1-3.png">
 							<img src="../img/classup/rank1-1.png">
 						</td>
 						</tr>
 						<tr>
 						<th>T2</th>
 						<td class="td_rank">
+							<img src="../img/classup/rank3-3.png">
 							<img src="../img/classup/rank3-2.png">
-							<img src="../img/classup/rank3-1.png">
 							<img src="../img/classup/rank2-3.png">
-							<img src="../img/classup/rank2-6.png">
+							<img src="../img/classup/rank2-1.png">
 						</td>
 						</tr>
 						<tr>
 						<th>T3</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank4-3.png">
+							<img src="../img/classup/rank4-6.png">
 							<img src="../img/classup/rank4-1.png">
+							<img src="../img/classup/rank3-3.png">
 							<img src="../img/classup/rank3-2.png">
-							<img src="../img/classup/rank3-1.png">
 						</td>
 						</tr>
 						</table>
@@ -520,42 +514,42 @@
 						<col width="22%">
 						<col width="*">
 					</colgroup>
-						<div class="view_title">쉐도우 : 공격+25, 생명+90, 기술+10</div>
+						<div class="view_title">사쿠라 전용 광무 : 생명+150, 방어+10, 공격+15</div>
 						
 						<tr>
 						<th>T1</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank5-2.png">
+							<img src="../img/classup/rank5-3.png">
 							<img src="../img/classup/rank5-1.png">
-							<img src="../img/classup/rank4-3.png">
+							<img src="../img/classup/rank4-6.png">
 							<img src="../img/classup/rank4-1.png">
 						</td>
 						</tr>
 						<tr>
 						<th>T2</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank6-4.png">
-							<img src="../img/classup/rank6-3.png">
-							<img src="../img/classup/rank5-2.png">
+							<img src="../img/classup/rank6-6.png">
+							<img src="../img/classup/rank6-2.png">
+							<img src="../img/classup/rank5-3.png">
 							<img src="../img/classup/rank5-1.png">
 						</td>
 						</tr>
 						<tr>
 						<th>T3</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank7-3.png">
-							<img src="../img/classup/rank7-6.png">
-							<img src="../img/classup/rank6-4.png">
-							<img src="../img/classup/rank6-3.png">
+							<img src="../img/classup/rank7-7.png">
+							<img src="../img/classup/rank7-1.png">
+							<img src="../img/classup/rank6-6.png">
+							<img src="../img/classup/rank6-2.png">
 						</td>
 						</tr>
 						<tr>
 						<th>T4</th>
 						<td class="td_rank">
-							<img src="../img/classup/rank8-8.png">
-							<img src="../img/classup/rank8-5.png">
-							<img src="../img/classup/rank7-3.png">
-							<img src="../img/classup/rank7-6.png">
+							<img src="../img/classup/rank8-7.png">
+							<img src="../img/classup/rank8-3.png">
+							<img src="../img/classup/rank7-7.png">
+							<img src="../img/classup/rank7-1.png">
 						</td>
 						</tr>
 				</table>
@@ -573,7 +567,26 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<td colspan="4"><b><font color="#0070c0">쌍연격(COST 1)</font></b></td>
+						<td colspan="4"><b><font color="#0070c0">사투(COST 1)</font></b></td>
+					</tr>
+					<tr>
+						<th>유형</th>
+						<td>패시브</td>
+					</tr>
+					<tr>
+						<th><img src="../img/skills/Passive_AtkBuf6.png" width="100" /></th>
+						<td colspan="3">전투 진입 시 부대 공격, 기술 <font color="red">+12%</font>, 방어, 마방 <font color="red">-7%</font>.</td>
+					</tr>
+				</table>
+				<table border="0" cellpadding="0" cellspacing="1">
+					<colgroup>
+						<col width="22%">
+						<col width="28%">
+						<col width="22%">
+						<col width="*">
+					</colgroup>
+					<tr>
+						<td colspan="4"><b><font color="#0070c0">힘의 외침(COST 2)</font></b></td>
 					</tr>
 					<tr>
 						<th>유형</th>
@@ -583,35 +596,14 @@
 					</tr>
 					<tr>
 						<th>사거리</th>
-						<td>2칸</td>
+						<td>1칸</td>
 						<th>범위</th>
 						<td>단일</td>
 					</tr>
-					</tr>
 					<tr>
-						<th><img src="../img/skills/Skill_DoubleAttack.png" width="100" /></th>
-						<td colspan="3">[물리 피해]단일 적군을 공격하여 1배 전투 피해를 입힌다.
-						</br>40%확률로 2번 공격.</td>
-					</tr>
-				</table>
-				<table border="0" cellpadding="0" cellspacing="1">
-					<colgroup>
-						<col width="22%">
-						<col width="28%">
-						<col width="22%">
-						<col width="*">
-					</colgroup>
-					<tr>
-						<td colspan="4"><b><font color="#0070c0">무자비(COST 2)</font></b></td>
-					</tr>
-					<tr>
-						<th>유형</th>
-						<td>패시브</td>
-					</tr>
-					<tr>
-						<th><img src="../img/skills/Passive_Ass3.png" width="100" /></th>
-						<td colspan="3">[패시브]치명타 피해량 +20%. 전투 중 치명타가 발생한 경우
-						</br>전투 종료 후 받는 모든 피해량 -30%, 1턴 지속.</td>
+						<th><img src="../img/skills/36.png" width="100" /></th>
+						<td colspan="3">[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.
+						</br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.</td>
 					</tr>
 				</table>
 				<table border="0" cellpadding="0" cellspacing="1">
@@ -622,166 +614,13 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<td colspan="4"><b><font color="#0070c0">야전(COST 1)</font></b></td>
-					</tr>
-					<tr>
-						<th>유형</th>
-						<td>패시브</td>
-					</tr>
-					<tr>
-						<th><img src="../img/skills/10.png" width="100" /></th>
-						<td colspan="3">[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.
-						</br>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.</td>
-					</tr>
-				</table>
-				<table border="0" cellpadding="0" cellspacing="1">
-					<colgroup>
-						<col width="22%">
-						<col width="28%">
-						<col width="22%">
-						<col width="*">
-					</colgroup>
-					<tr>
-						<td colspan="4"><b><font color="#0070c0">별이 머무는 곳(COST 2)</font></b></td>
-					</tr>
-					<tr>
-						<th>유형</th>
-						<td>초절강화</td>
-						<th>쿨타임</th>
-						<td>3턴</td>
-					</tr>
-					<tr>
-						<th>사거리</th>
-						<td>자신</td>
-						<th>범위</th>
-						<td>맵전체</td>
-					</tr>
-					<tr>
-						<th><img src="../img/skills/Skill_StarLocation.png" width="100" /></th>
-						<td colspan="3">[초절강화] 액티브 스킬, 범위 내 모든 '시공의 중심' 아군의 
-						</br>공격, 방어 능력치가 크게 상승하고 범위 스킬 피해+20%,
-						</br>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)</td>
-					</tr>
-				</table>
-				<table border="0" cellpadding="0" cellspacing="1">
-					<colgroup>
-						<col width="22%">
-						<col width="28%">
-						<col width="22%">
-						<col width="*">
-					</colgroup>
-					<tr>
-						<td colspan="4"><b><font color="#0070c0">마안(COST 2)</font></b></td>
+						<td colspan="4"><b><font color="#0070c0">앵화방신(COST 2)</font></b></td>
 					</tr>
 					<tr>
 						<th>유형</th>
 						<td>물리 피해</td>
 						<th>쿨타임</th>
 						<td>3턴</td>
-					</tr>
-					<tr>
-						<th>사거리</th>
-						<td>3칸</td>
-						<th>범위</th>
-						<td>3칸</td>
-					</tr>
-					<tr>
-						<th><img src="../img/skills/Skill_MagicEye.png" width="100" /></th>
-						<td colspan="3">[물리 피해]치명타 확률 +10%. 범위 내 다수의 적군을 공격하여 0.3배 범위 피해를 입힌다.
-						</br>랜덤으로 1개 디버프 시전.'마법사'와 전투 시 더 큰 피해를 준다.</td>
-					</tr>
-				</table>
-				<table border="0" cellpadding="0" cellspacing="1">
-					<colgroup>
-						<col width="22%">
-						<col width="28%">
-						<col width="22%">
-						<col width="*">
-					</colgroup>
-					<tr>
-						<td colspan="4"><b><font color="#0070c0">절영(COST 2)</font></b></td>
-					</tr>
-					<tr>
-						<th>유형</th>
-						<td>물리 피해</td>
-						<th>쿨타임</th>
-						<td>2턴</td>
-					</tr>
-					<tr>
-						<th>사거리</th>
-						<td>6칸</td>
-						<th>범위</th>
-						<td>직선</td>
-					</tr>
-					<tr>
-						<th><img src="../img/skills/Skill_Shadow2.png" width="100" /></th>
-						<td colspan="3">[물리 피해]치명타 확률 +15%. 라인에 있는 적을 모두 관통하며
-						</br>0.35배의 범위 피해를 입힌다. 동시에 적의 2개 버프를 제거한다.</td>
-					</tr>
-				</table>
-				<table border="0" cellpadding="0" cellspacing="1">
-					<colgroup>
-						<col width="22%">
-						<col width="28%">
-						<col width="22%">
-						<col width="*">
-					</colgroup>
-					<tr>
-						<td colspan="4"><b><font color="#0070c0">은폐(COST 1)</font></b></td>
-					</tr>
-					<tr>
-						<th>유형</th>
-						<td>패시브</td>
-					</tr>
-					<tr>
-						<th><img src="../img/skills/Passive_Hide.png" width="100" /></th>
-						<td colspan="3">[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.</td>
-					</tr>
-				</table>
-				<table border="0" cellpadding="0" cellspacing="1">
-					<colgroup>
-						<col width="22%">
-						<col width="28%">
-						<col width="22%">
-						<col width="*">
-					</colgroup>
-					<tr>
-						<td colspan="4"><b><font color="#0070c0">환영기습(COST 2)</font></b></td>
-					</tr>
-					<tr>
-						<th>유형</th>
-						<td>물리 피해</td>
-						<th>쿨타임</th>
-						<td>5턴</td>
-					</tr>
-					<tr>
-						<th>사거리</th>
-						<td>자신</td>
-						<th>범위</th>
-						<td>4칸</td>
-					</tr>
-					<tr>
-						<th><img src="../img/skills/Skill_PhantomAttack.png" width="100" /></th>
-						<td colspan="3">[물리 피해]치명타 확률 +30%. 주위 4칸 내 모든 적군에게
-						</br>03배 범위 피해를 입힌다.'마법사'와 전투 시 더 큰 피해를 준다.
-						</br>전투 후 재이동 3칸 가능.</td>
-					</tr>
-				</table>
-				<table border="0" cellpadding="0" cellspacing="1">
-					<colgroup>
-						<col width="22%">
-						<col width="28%">
-						<col width="22%">
-						<col width="*">
-					</colgroup>
-					<tr>
-						<td colspan="4"><b><font color="#0070c0">진-칠흑의 송곳니(COST 3)</font></b></td>
-					</tr>
-					<tr>
-						<th>유형</th>
-						<td>물리 피해</td>
-						<th>쿨타임</th>
-						<td>5턴</td>
 					</tr>
 					<tr>
 						<th>사거리</th>
@@ -790,17 +629,159 @@
 						<td>직선</td>
 					</tr>
 					<tr>
-						<th><img src="../img/Super/Skill_Super41.png" width="100" /></th>
-						<td colspan="3">[물리피해]치명타확률 +30%.
-						<br>3칸 직선상의 모든 적에게 0.3배의 범위피해를 준다.
-						<br>법사에게 특효. 치명타발생시 1개의 랜덤한 디버프 부여,
-						<br>공격시, 기술 사거리의 가장먼곳으로 이동.
-						<br>공격후 3칸 재이동 가능.</td>
+						<th><img src="../img/skills/37.png" width="100" /></th>
+						<td colspan="3">[물리 피해] 직선상의 모든 적을 공격하여 0.3배의 범위피해를 주며,[유혈]효과를 부여한다.
+						</br>[유혈]: 행동 종료시 공격자의 공격 2배의 [고정피해], 2턴지속.</td>
+					</tr>
+				</table>
+				<table border="0" cellpadding="0" cellspacing="1">
+					<colgroup>
+						<col width="22%">
+						<col width="28%">
+						<col width="22%">
+						<col width="*">
+					</colgroup>
+					<tr>
+						<td colspan="4"><b><font color="#0070c0">태양광(COST 1)</font></b></td>
 					</tr>
 					<tr>
-						<td colspan="4"><img src="../img/Super/요슈아.gif" width="70%"/></td>
+						<th>유형</th>
+						<td>패시브</td>
 					</tr>
-					</table>
+					<tr>
+						<th><img src="../img/skills/1.png" width="100" /></th>
+						<td colspan="3">[패시브]근접 공격으로 전투 진입 시 전투 후 30% 확률로 
+						</br>이번 전투에서 준 피해량 30%의 생명을 회복한다</td>
+					</tr>
+				</table>
+				<table border="0" cellpadding="0" cellspacing="1">
+					<colgroup>
+						<col width="22%">
+						<col width="28%">
+						<col width="22%">
+						<col width="*">
+					</colgroup>
+					<tr>
+						<td colspan="4"><b><font color="#0070c0">혈전(COST 1)</font></b></td>
+					</tr>
+					<tr>
+						<th>유형</th>
+						<td>패시브</td>
+					</tr>
+					<tr>
+						<th><img src="../img/skills/Passive_AtkBuf3.png" width="100" /></th>
+						<td colspan="3">[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color="red">+10%</font>.</td>
+					</tr>
+				</table>
+				<table border="0" cellpadding="0" cellspacing="1">
+					<colgroup>
+						<col width="22%">
+						<col width="28%">
+						<col width="22%">
+						<col width="*">
+					</colgroup>
+					<tr>
+						<td colspan="4"><b><font color="#0070c0">맹렬한 돌격(COST 2)</font></b></td>
+					</tr>
+					<tr>
+						<th>유형</th>
+						<td>물리 피해</td>
+						<th>쿨타임</th>
+						<td>2턴</td>
+					</tr>
+					<tr>
+						<th>사거리</th>
+						<td>1칸</td>
+						<th>범위</th>
+						<td>단일</td>
+					</tr>
+					<tr>
+						<th><img src="../img/skills/39.png" width="100" /></th>
+						<td colspan="3">[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.
+						</br>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.</td>
+					</tr>
+				</table>
+				<table border="0" cellpadding="0" cellspacing="1">
+					<colgroup>
+						<col width="22%">
+						<col width="28%">
+						<col width="22%">
+						<col width="*">
+					</colgroup>
+					<tr>
+						<td colspan="4"><b><font color="#0070c0">사수(COST 1)</font></b></td>
+					</tr>
+					<tr>
+						<th>유형</th>
+						<td>패시브</td>
+					</tr>
+					<tr>
+						<th><img src="../img/skills/Passive_DefBuf4.png" width="100" /></th>
+						<td colspan="3">[패시브]전투 진입 시 방어 <font color="red">+7%</font>.</td>
+					</tr>
+				</table>
+				<table border="0" cellpadding="0" cellspacing="1">
+					<colgroup>
+						<col width="22%">
+						<col width="28%">
+						<col width="22%">
+						<col width="*">
+					</colgroup>
+					<tr>
+						<td colspan="4"><b><font color="#0070c0">백화요란(COST 2)</font></b></td>
+					</tr>
+					<tr>
+						<th>유형</th>
+						<td>물리 피해</td>
+						<th>쿨타임</th>
+						<td>5턴</td>
+					</tr>
+					<tr>
+						<th>사거리</th>
+						<td>4칸</td>
+						<th>범위</th>
+						<td>직선</td>
+					</tr>
+					<tr>
+						<th><img src="../img/skills/38.png" width="100" /></th>
+						<td colspan="3">[물리 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.
+						</br>동시에 적군의 '기술-30%','받는피해+30%',[치료 반전] 효과를 부여.
+						</br>[치료 반전] : 모든 타인에게 주는 치료효과가 치료량의 30% 피해로 전환, 2턴 지속</td>
+					</tr>
+				</table>
+				<table border="0" cellpadding="0" cellspacing="1">
+					<colgroup>
+						<col width="22%">
+						<col width="28%">
+						<col width="22%">
+						<col width="*">
+					</colgroup>
+					<tr>
+						<td colspan="4"><b><font color="#0070c0">파사검정º앵화천승(COST 3)</font></b></td>
+					</tr>
+					<tr>
+						<th>유형</th>
+						<td>물리 피해</td>
+						<th>쿨타임</th>
+						<td>5턴</td>
+					</tr>
+					<tr>
+						<th>사거리</th>
+						<td>자신</td>
+						<th>범위</th>
+						<td>주위 2칸</td>
+					</tr>
+					<tr>
+						<th><img src="../img/skills/Skill_Super26.png" width="100" /></th>
+						<td colspan="3">[물리 피해]자신 주위 2칸 내 모든 적군에게 0.36배 범위 피해를 입히며
+						</br>적군에게 '치료 방해', 1턴 지속 및 [유혈]부여 :
+						</br>'행동 종료시 공격자의 공격 2배의 [고정피해]', 2턴 지속.
+						</br>적중한 적군 1명당 '영검 아라타카' 1중첩 획득(최대 2중첩 획득가능)</td>
+					</tr>
+					<tr>
+						<td colspan="4"><img src="../img/Super/사쿠라.gif" width="70%"/></td>
+					</tr>
+				</table>
 								</section>
 
 							</div>
@@ -814,33 +795,35 @@
 									</colgroup>
 									<tr>
 										<th>영웅소개</th>
-										<td>◆키/체중: 170cm / 65kg
-<br>◆출연: 영웅전설·하늘의 궤적 시리즈
-<br>◆소속: 우로보로스/유격사 협회
+										<td>◆키/몸무게: 155cm / 44kg
+<br>◆신체 사이즈: 82/56/81
+<br>◆출연: 사쿠라대전
+<br>◆소속: 제국화격단 화조
 									</tr>
 									<tr>
 										<th>영웅담1</th>
-										<td>유격사 협회의 정유격사, S급 유격사 카시우스의 양자. 쌍검을 사용하며, 차분한 성격과 뛰어난 머리로 이성에게 인기가 많다. 의붓 누나 에스텔이 가장 믿는 파트너이다.
-<br><font color=#DC143C><size=33><i>「나는... 과거의 나약한 자신과 마주하기 위해 여기에 왔어.」</i> </size></font>
+										<td>'제국화격단 화조' 단원. 검술의 달인으로 북진일도류의 전수자. 사용하는 검은 아버지의 유품인 '영검 아라타카'. 마족을 성불시키는 파사의 힘을 이어 받았다.
+'악을 섬멸하고 정의를 수호하겠습니다!'
 									</tr>
 									<tr>
 										<th>영웅담2</th>
-										<td>하멜 마을 출신으로, 하멜의 비극이 벌어졌을 때 가족을 잃고 그 충격으로 정신이 망가졌다. 그후 세뇌를 받고 '우로보로스'의 집행자 No.XIII '칠흑의 송곳니'가 되어 암살 임무를 수행한다. 어느날 암살에 실패한 그를 S급 유격사 카시우스가 데려가 양자로 삼았고, 그는 의붓 누나 에스텔과 함께 유격사 협회에 가입했다. 
-이후 두 사람은 함께 왕국을 여행하며 왕국의 내란을 해결했다. 요슈아는 에스텔에게 마음을 고백하려 하지만, '백면' 와이스맨이 나타나 요슈아가 세뇌됐다는 것과 오래전부터 카시우스의 정보를 보고해 왔음을 밝힌다. 모든 것을 기억해 낸 요슈아는 자신이 이곳에 있을 자격이 없다고 생각하고 어두운 밤 몰래 에스텔에게 마음을 전하고 사라진다.
+										<td>사쿠라의 아버지, 신구지 카즈마는 과거에 '제국 육군 대강마 부대'의 일원이었다. 강마전쟁 때 마신기를 사용하의 자신의 목숨을 대가로 강마를 봉인하였다. 사쿠라는 아버지의 뜻을 이어받아 강마와 싸우고 있다.
 									</tr>
 									<tr>
 										<th>영웅담3</th>
-										<td>이 때부터 '우로보로스'의 음모를 막기 위해 애쓰던 요슈아는 붉은 방주 '글로리어스'를 파괴하던 도중 에스텔과 재회하고, 다시 유격사에 합류해 함께 움직인다. 결국 부유성 전투에서 인공성흔의 속박에서 벗어난 요슈아는 에스텔과 함께 빛의 반지와 합체된 와이스맨을 무찌른다.
-<br><font color=#DC143C><size=33><i>「내가 굴레의 힘을 얕잡아 봤었나 봐... 예전의 나는 혼돈에 빠진 것처럼 아무것도 보지 못했어.」</i> </size></font>
+										<td>안젤리카의 '차원 소환술'로 엘사리아 대륙에 소환된 신구지 사쿠라는 동료들을 찾다가 마을 주민의 부탁을 받고 마물을 토벌하러 간다. 하지만 오히려 마물들에게 포위되어 위험한 상황에 처한 그때 '제국 화격단 화조' 대장 오오가미 이치로가 매튜 일행과 함께 나타나 그녀를 간신히 구출했다.
+오오가미 일행과 비공정으로 돌아온 사쿠라는 자신과 함께 동료인 칸자키 스미레와 아이리스, 찾고 있었던 마신기도 '검과 마법의 세계' 어딘가로 소환되었다는 것을 알게 되는데......
+<br><font color=#DC143C><size=33><i>「네! 전 오오가미 씨를 믿어요.」</i> </size></font>
 									</tr>
 									<tr>
 										<th>영웅담4</th>
-										<td>부유성 전투 이후, 에스텔과 대륙을 여행하며 '우로보로스'의 음모를 저지했다. 또한 집행자 '섬멸천사' 렌을 교화한 후, 그녀와 함께 생활하기 시작했다.
+										<td>칸자키 스미레와 아이리스까지 합류하고 마신기를 찾는 임무만이 남았을 때, 우려하던 일이 일어났다. 바로 흩어졌던 마신기가 한자리에 모인 것이다!
+아이바 일행은 마신기의 강력한 마력 증폭 작용으로 혼돈의 신 카오스를 부활시켜 세계를 암흑으로 뒤덮으려 했다. 하지만 조건 달성 실패로 부활은 수포로 돌아가고 강력한 키메라를 탄생시켰다. 위기의 순간, 오오가미 이치로와 동료들이 합체기로 키메라를 격퇴하고 일행을 탈출시켰다.
+마신기를 되찾고 세계를 구하기 위해 아멜다는 오오가미에게 합체기를 가르쳐달라고 부탁한다. 강력한 합체기를 익힌 매튜 일행은 키메라를 물리치는데 성공하고 제국화격단 화조는 마신기를 가지고 자신들의 세계로 돌아갈 수 있었다.
 									</tr>
 									<tr>
 										<th>영웅담5</th>
-										<td>소환된 요슈아는 여전히 쿨한 성격과 강력한 암살술로 전투에 나선다. 엘사리아 대륙에 자신만의 이야기를 남겼다.
- <br><font color=#DC143C><size=33><i>「더 이상 현실을 피해 도망치지 않을 거야. 너희들과 함께... 끝까지 함께 싸우겠어.」</i></size></font>
+										<td>소환된 신구지 사쿠라는 한 손에는 검을, 그리고 마음 속에 악을 소멸시키겠다는 강한 의지를 가지고 활약하며 엘사리아 대륙에 많은 일화를 남겼다.
 									</tr>
 								</table>
 								</section>
@@ -853,99 +836,103 @@
 									</colgroup>
 									<tr>
 										<th>「소환 - 등장대사」</th>
-										<td>요슈아, '칠흑의 송곳니'라고 불러도 상관없어.
+										<td>안녕하세요! 저는 제국화격단 화조의 신구지 사쿠라입니다! 저기... 당신이 새로 부임하신 단장님이신가요?
 									</tr>
 									<tr>
 										<th>「전투 - 전직1」</th>
-										<td>이 힘, 이용하게 해줄게.
+										<td>검의 길은 마음의 길! 검은 마음 먹기에 따라 빛을 발하는 물건이지요!
 									</tr>
 									<tr>
 										<th>「전투 - 전직2」</th>
-										<td>집행자로서의 힘, 완전히 되찾은 것 같다.
+										<td>영검 아라타카를 능숙하게 사용할 수 있게 되었습니다.
 									</tr>
 									<tr>
 										<th>「전투 - 스킬시전1」</th>
-										<td>받아라!
+										<td>파사검정・앵화방신!
 									</tr>
 									<tr>
 										<th>「전투 - 스킬시전2」</th>
-										<td>임무를 수행한다.
+										<td>파사검정・백화요란!
 									</tr>
 									<tr>
 										<th>「전투 - 선택1」</th>
-										<td>그 말이라면 듣고 있어.
+										<td>제국화격단・화조, 출격합니다!
 									</tr>
 									<tr>
 										<th>「전투 - 선택2」</th>
-										<td>그럼, 타겟은?
+										<td>악을 섬멸하고 정의를 수호한다!
 									</tr>
 									<tr>
 										<th>「전투 - 전투불능」</th>
-										<td>에스텔...
+										<td>죄송합니다, 먼저 후퇴하겠습니다...
 									</tr>
 									<tr>
 										<th>「대화 - 친밀도1」</th>
-										<td>이런 텅 빈 인형 같은 내가 무엇을 더 바라는 거야...
+										<td>성검 군단이라... 어딘지 화조와 닮은 구석이 있네요.
 									</tr>
 									<tr>
 										<th>「대화 - 친밀도2」</th>
-										<td>하모니카...? 의외로 잘 부는구나. 그런데 미안하지만, 오늘은 그럴 기분이 아니야.
+										<td>제국화조단은 평화를위해 목숨을 걸고 싸울 겁니다!
 									</tr>
 									<tr>
 										<th>「대화 - 친밀도3」</th>
-										<td>같이 지내는 이유? 난 일반적으로 상대방에게 달려있지, 특히 너희들처럼 착한 사람은 좀처럼 가만둘 수 없어...
+										<td>어떤 세계라 하더라도 저는 정의의 검을 휘두를 겁니다!
 									</tr>
 									<tr>
 										<th>「대화 - 친밀도4」</th>
-										<td>사람과의 인연이라... 내가 잘못 본 거일지도 몰라... 예전의 나에게는 보이지 않던 힘을.
+										<td>아버지는 그 자신을 바쳐 제도를 지키셨습니다... 저는 더 이상 그 누구의 희생도 원하지 않습니다!
 									</tr>
 									<tr>
 										<th>「대화 - 친밀도5」</th>
-										<td>난 더 이상 도망치지 않을 거야. 너희들과 함께... 끝까지 함께 싸우겠어!
+										<td>지금 이 만남의 기쁨을 가슴에 새기겠습니다. 벚꽃이 다시 피는 날, 다시 만나요.
 									</tr>
 									<tr>
 										<th>「대화 - 일상1」</th>
-										<td>나는... 과거의 나약한 자신과 마주하기 위해 여기에 왔어.
+										<td>엘사리아 대륙에도 벚꽃이 가득 피는 곳이 있습니까?
 									</tr>
 									<tr>
 										<th>「대화 - 기쁨」</th>
-										<td>하하... 누군가와 있었던 일을 생각하면 왠지 얼굴에 웃음 짓게 돼.
+										<td>저는 믿어요. 사람을 사랑하는 마음은 어떠한 난관도 이겨낼 수 있다는 사실을요!
 									</tr>
 									<tr>
 										<th>「대화 - 분노」</th>
-										<td>동료, 가족이 있으면 사람은 무력한 존재가 아니야!
+										<td>지휘관, 나가서 싸웁시다! 여기서 머뭇대다간 미래를 잃게 될 겁니다!
 									</tr>
 									<tr>
 										<th>「대화 - 슬픔」</th>
-										<td>죽이거나 죽거나, 빼앗거나 빼앗기거나―― 난 더 이상 그런 생활은 지겨워.
+										<td>화조 대원들은 지금쯤 뭘 하고 있을까? 제도가 그립다.
+									</tr>
+									<tr>
+										<th>「대화 - 수줍음」</th>
+										<td>지휘관에게 하고 싶은 이야기가 많았는데, 막상 얼굴을 보면 무슨 말을 해야 할 지 잘 모르겠습니다.
 									</tr>
 									<tr>
 										<th>「상호작용 - 대사1」</th>
-										<td>인생은 누군가가 부여한 게 아니야, 그건 사람이 노력해서 발굴해내는 보물이라고 생각해.
+										<td>헤어짐은 언제나 괴롭네요... 하지만 언젠가는 다시 만날 수 있겠지요?
 									</tr>
 									<tr>
 										<th>「상호작용 - 대사2」</th>
-										<td>끝없는 어둠 속에서도 인간은 우정과 신뢰라는 등불로 앞길을 밝힐 수 있어.
+										<td>이 땅에도 곧 봄이 오겠군요. 새로운 꽃을, 새로운 기쁨을, 그리고 새로운 기대를 가지고 올 봄이 말이에요!
 									</tr>
 									<tr>
 										<th>「상호작용 - 대사3」</th>
-										<td>별이 머무는 곳... 내가 좋아하는 곡이야. 너도 듣고 싶어?
+										<td>지켜야 할 것은 자신의 힘으로 지키고 싶어요. 이건 제게 가장 소중한 분이 해준 말이에요. 저도, 그러고 싶습니다.
 									</tr>
 									<tr>
 										<th>「상호작용 - 호감1」</th>
-										<td>혹시 괜찮다면 언제라도 부탁하길 바래, 한 사람의 친구로서.
+										<td>지휘관, 당신과 만나서 정말 다행이었습니다.
 									</tr>
 									<tr>
 										<th>「상호작용 - 반감1」</th>
-										<td>그 더러운 손으로 에스텔을 건드리면... 절대 가만두지 않겠어...
+										<td>저기... 그게 무슨 뜻입니까?
 									</tr>
 									<tr>
 										<th>「상호작용 - 특수1」</th>
-										<td>기회가 있다면, 다시 보자!
+										<td>벚꽃이 필 무렵에 다시 만나요.
 									</tr>
 									<tr>
 										<th>「상호작용 - 특수2」</th>
-										<td>안녕.
+										<td>저는 이만.
 									</tr>
 								</table>	
 								</section>
@@ -1017,10 +1004,10 @@ $(document).ready(function(){
 		starCaptions: {
 		1: '1성',
 		2: '2성',
-		3: '치명타 확률 <font color="red">+10%</font>. <br>치명타 입힌 후 적군에게 1회 [고정 피해]를 입힌다. <br>(피해량은 영웅 공격의 <font color="red">1</font>배)',
-		4: '치명타 확률 <font color="red">+13%</font>. <br>치명타 입힌 후 적군에게 1회 [고정 피해]를 입힌다. <br>(피해량은 영웅 공격의 <font color="red">1.3</font>배)',
-		5: '치명타 확률 <font color="red">+16%</font>. <br>치명타 입힌 후 적군에게 1회 [고정 피해]를 입힌다. <br>(피해량은 영웅 공격의 <font color="red">1.6</font>배)',
-		6: '치명타 확률 <font color="red">+20%</font>. <br>치명타 입힌 후 적군에게 1회 [고정 피해]를 입힌다. <br>(피해량은 영웅 공격의 <font color="red">2</font>배)'
+		3: '적군 처치 후, 생명 외 모든 속성 <font color="red">+5%</font>,<br> 중첩 가능, 최대 <font color="red">4</font>회 중첩 가능.(제거 불가)<br>전투 진입 시 보유 기술이 적군보다 높으면 적군보다 먼저 공격.',
+		4: '적군 처치 후, 생명 외 모든 속성 <font color="red">+6%</font>,<br> 중첩 가능, 최대 <font color="red">4</font>회 중첩 가능.(제거 불가)<br>전투 진입 시 보유 기술이 적군보다 높으면 적군보다 먼저 공격.',
+		5: '적군 처치 후, 생명 외 모든 속성 <font color="red">+8%</font>,<br> 중첩 가능, 최대 <font color="red">4</font>회 중첩 가능.(제거 불가)<br>전투 진입 시 보유 기술이 적군보다 높으면 적군보다 먼저 공격.',
+		6: '적군 처치 후, 생명 외 모든 속성 <font color="red">+10%</font>,<br> 중첩 가능, 최대 <font color="red">4</font>회 중첩 가능.(제거 불가)<br>전투 진입 시 보유 기술이 적군보다 높으면 적군보다 먼저 공격.'
 		},
 		starCaptionClasses: {1: 'text-info', 2: 'text-info', 3: 'text-info', 4: 'text-info', 5: 'text-info', 6: 'text-info'},
 		filledStar: '<img src="../img/Icon/Icon_StarGold.png" width="35">',
