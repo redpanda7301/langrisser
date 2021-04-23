@@ -5,9 +5,12 @@ $(document).ready(function () {
     var heroName = getParameterByName("name");
     if (heroName !== null) {                    
         $.getScript("../hero/data/" + heroName + ".js")
-            .done(function( script, textStatus ) {
+            .done(function() {
                 initPage();
-            });                    
+            })
+            .fail(function() {
+                location.href = "../hero.html";
+            });
     }
     else {
         location.href = "../hero.html";
