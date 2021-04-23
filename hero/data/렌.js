@@ -321,128 +321,236 @@
   "Skills": [
     {
       "Name": "암영의 창",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ShadowSpear.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'승려'에게 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "빙결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'창병'에게 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "컬래머티 슬로우",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "7칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "7칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DisasterThrow.png",
       "Desc": "[마법 피해]라인에 있는 모든 적군을 관통하며 0.33배 범위 피해를 입힌다.<br>랜덤으로 2개 디버프 시전.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "파이어볼",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Fireball.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'보병'에게 더큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "노화",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_JamAtk.png",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br>적에게 '강화 방해'부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "다크 매터",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DarkSubstance.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>적군이 주는 치료 효과-100%, 2턴 지속.(제거 불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "윈드 커터",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_WindStrike.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'비병'에게 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "레 라난데스",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Annihilation.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br>적군이 3개 이상 디버프를 소지 시 이번 공격에서 적의 마방 -100%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "파텔=마텔",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "마법 피해",
-      "CoolTime": "4턴",
-      "Distance": "6칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "6칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super16.png",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.3배의 범위 피해를 입히며, 1칸 후퇴 시킨다.<br>적중한 적군의 방어와 마방 속성중 높은 속성 -30%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1577881516198.gif"
     }
   ],

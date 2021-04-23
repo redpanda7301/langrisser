@@ -372,142 +372,226 @@
   "Skills": [
     {
       "Name": "힘의 외침",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/36.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "태양광",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/1.png",
       "Desc": "[패시브]근접 공격으로 전투 진입 시 전투 후 30% 확률로 <br>이번 전투에서 준 피해량 30%의 생명을 회복한다",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "열풍재기",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Ares1.png",
       "Desc": "[패시브] 치명타확률 +10%. 피해를 입힌후 만약 [약진] 효과가 있을 경우<br>4칸 재이동 가능.(재이동 효과를 획득후 1턴 이후 재발동)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "바람의 분노",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/8.png",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br>모든 목표에게 랜덤으로 디버프 시전.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "뇌광",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "증원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.png",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "전생의 예언",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "초절강화",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "맵전체",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵전체"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Ares3.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '랑그릿사 전생' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br>주위 3칸내 적군 1명당 입히는피해 +5%(최대 20%),<br>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "위풍 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Ares2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.4배의 전투 피해를 준다.<br>전투 진입 전 적군의 강화버프 3개 제거 하며 자신 주위 2칸 범위내 적군 1명당 치명타피해+8%(최대32%).<br>적군을 격파할 경우 쿨타임 -3",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "레지스트",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "1턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/25.png",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "당돌한 허리케인",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super17.png",
       "Desc": "[지원] 액티브 스킬. 사용시 [사이클론],공격+20%,[바람의 기운],[증원] 획득, 2턴 지속.<br>[사이클론] :  피해를 입힌후 주위 2바퀴내 모든 적군을 이동<br>주위 1칸내 적군에게 0.15배의 범위 피해,<br>[바람의 기운]공격 전 매 이동 1칸당 물리피해증가 5%(최대 25%),<br>[증원]행동 종료 시 자신 부대 생명 20% 회복,<br>[약진] 효과가 있을경우 4칸 이동가능, 1턴 지속.<br>사용후 재행동 가능, 재행동 이동력은 스킬 사용 후 남은 이동력 +4 ,직선 이동만 가능.",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1577881446079.gif"
     }
   ],

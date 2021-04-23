@@ -283,100 +283,184 @@
   "Skills": [
     {
       "Name": "힐",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "치료",
-      "CoolTime": "0턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "0턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/17.png",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "재생",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Heal2.png",
       "Desc": "[지원]액티브 스킬, 단일 아군 부대에게 전투 후 생명을 10% 회복하게한다. 2턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "광역 실드",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.png",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "제거",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Extend.png",
       "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 생명 회복.<br>회복량은 시전자 지력의 1.5배, 3개 디버프 제거.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "광역 마방",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.png",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강화",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "1턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ATKup.png",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "해골 소환",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Skeleton02.png",
       "Desc": "해골 부대를 1개 소환한다.",
+      "SubSkills": null,
       "Animation": null
     }
   ],

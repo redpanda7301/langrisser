@@ -398,142 +398,226 @@
   "Skills": [
     {
       "Name": "썬더",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ThunderBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'기병'에게 더큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "성언",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/19.png",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br>회복량은 사용자 지력의 4배.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "어둠의 낫",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마방 지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_MDefBuf.png",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마력 진동",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "3칸",
-      "Range": "4칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MagicVibration.png",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br>'마법사'와 '승려'에게 더 큰 피해를 주며 적군 마방 -30%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "파사",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_BreakEvil.png",
       "Desc": "[마법 피해]치명타율+15%, 범위 내 모든 적에게 0.3배의 광격 피해를 주고<br>적이 가진 버프 1개를 제거한다.'마물'에게 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "헌신",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Dedication.png",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "복음",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Bless.png",
       "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br>모든 디버프에 면역. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "명상",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/22.png",
       "Desc": "[패시브] 부대 생명이 90%이상일 시 지력, 마방 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "초마도 공간",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "5칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "5칸"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_SpectralEcho.png",
       "Desc": "[마법피해] 자신 주위 5칸 범위의 모든 적군에게 0.3배의 범위 피해를 입힌다.<br>적과의 거리가 가까울수록 피해량이 증가. 거리가 감소할때 마다 피해량 +10%(최대 50%)<br>및 적군에게 [마력 여파] 디버프 5개부여.<br>[마력 여파] : 행동 종료시 레이첼 지력의 0.5배의 [고정피해]. 중첩가능하며 지속 2회합.",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1579554883081.gif"
     }
   ],

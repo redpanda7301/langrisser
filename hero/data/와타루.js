@@ -322,142 +322,238 @@
   "Skills": [
     {
       "Name": "등룡검",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Wataru/0.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배 피해를 준다.<br>전투 전 상대 버프 <font color=\"red\">3</font>개 제거",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "바람칼날",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/0.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "무기 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.png",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "힘의 외침",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/36.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 지휘",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/2.png",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "좋은 기회다, 와타루",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Wataru/1.png",
       "Desc": "[액티브]목표에게 <b><font color=\"blue\">이동 불가 및 호위 불가 상태 부여</font></b> 지속 <font color=\"red\">1</font>턴, <br>사용 후 <font color=\"red\">2</font>칸 재행동 가능 <br><b>해당 스킬은 버프 지속시간을 소모하지 않음.</b>,<br>목표 영웅의 <b>현재 생명수치가 와타루보다 높을 경우</b> 해당 효과는 <b><font color=\"blue\">해제 불가</font></b>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "비룡권",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Wataru/2.png",
       "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.2</font>배 피해, 근접 병사 대동시 병사도 함께 공격. <br>목표 이동력 <font color=\"red\">-2</font>, <b><font color=\"blue\">호위 불가</font></b> 상태 부여, 지속 <font color=\"red\">2</font>행동. <br><b>해당 스킬은 근접 패널티 무효화</b>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "풍아탄",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "4칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Wataru/3.png",
       "Desc": "[액티브]위치 이동 효과, <b>자신을 목표 곁으로 이동</b>시키고 재행동 <font color=\"red\">3</font>칸 <br>(<b>위치 이동 효과는 면역 불가</b>)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "검혼",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_SwordSoul.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.8배 피해를 준다.<br>전투 전 적 부대의 버프 5개 제거 및 적 부대에게 '치료 방해' 부여, 2턴 지속<br>이 효과는 제거되지 않는다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "필살, 등룡검!",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "4턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/와타루.png",
       "Desc": "[물리피해] 단일 개체 <font color=\"red\">1.9</font>배 피해. 전투 전 버프 <font color=\"red\">5</font>개 제거, <br>목표 이동력이 <font color=\"red\">1</font>칸 이하일 경우 기절하며 피해 <font color=\"red\">+20</font>% 및 <b>부활 불가</b> (<b>부활 불가 효과는 아레나에서만 발동</b>). <br>적을 퇴각시킬 경우 자신에게 <font color=\"red\">기진맥진</font> 효과 부여 : <br>주는 피해 <font color=\"red\">-30</font>%, 행동 종료 시 부대 생명 <font color=\"red\">30</font>% 회복, 지속 <font color=\"red\">1</font>행동. <br><b>기진맥진 효과는 면역 및 제거 불가</b>",
+      "SubSkills": null,
       "Animation": "../img/Super/와타루.gif"
     }
   ],

@@ -368,170 +368,242 @@
   "Skills": [
     {
       "Name": "질풍 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br>전투 전 부대의 방어, 마방 +30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "격돌",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Punch.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "재이동",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/13.png",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br>남은 이동력이 있을 경우 공격 후 재이동 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "돌진",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightSuper.png",
       "Desc": "[패시브]공격 전 이동거리 1칸마다 공격+5% (최대 +15%).",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "진형파괴",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash3.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "장갑 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.png",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방패벽",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Parry.png",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "응수",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Parry.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>공격을 받을 시 공격의 7%를 방어에 추가한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraDefDown.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "장막의 계략",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "액티브",
-      "CoolTime": "-",
-      "Distance": "-",
-      "Range": "-",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "-"
+        },
+        {
+          "Label": "범위",
+          "Value": "-"
+        }
+      ],
       "IconImageUrl": "../img/Super/에마링크_1.png",
       "Desc": "[액티브] 이하 스킬중 택일하여 사용<br> 자신에게 <b><font color=\"blue\">초절 강화</font>의 특수 효과가 있을 경우</b> 사용 후 <font color=\"red\">3</font>칸 재행동 <br><b>(해당 재행동은 버프 지속 시간을 소모하지 않음)</b>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "장막의 그림자",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": null,
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/에마링크_2.png",
       "Desc": "[액티브] 단일 부대에 <font color=\"blue\">장막의 그림자</font> 효과 부여 : <br>[지휘] <b>인접한 모든 적 이동력 -1 및 호위 불가</b>,<br>지속 <font color=\"red\">2</font>행동",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "반계",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": null,
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/에마링크_3.png",
       "Desc": "[액티브] 단일 부대에 <font color=\"blue\">반계</font> 효과 부여 : <br><b>전투 진입 전 자신에게 걸린 디버프</b> <font color=\"red\">4</font>개 제거,<br>제거하는 디버프 <font color=\"red\">1</font>개당 생명 <font color=\"red\">15</font>% 회복, <br>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>",
+      "SubSkills": null,
       "Animation": "../img/Super/에마링크.gif"
     }
   ],

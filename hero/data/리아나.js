@@ -392,128 +392,224 @@
   "Skills": [
     {
       "Name": "힐",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "치료",
-      "CoolTime": "0턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "0턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/17.png",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "어게인",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_NewTurn.png",
       "Desc": "[지원]액티브 스킬, 행동을 마친 아군 1부대를 다시 행동할 수 있게 하며<br>사용자 지력 2배의 생명을 회복시킨다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "윈드 커터",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_WindStrike.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'비병'에게 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "광역 실드",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.png",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "홀리 힐",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "치료",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "6칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "6칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_HealSuper.png",
       "Desc": "[지원]광범위 부대에게 지력 4배만큼 생명을 회복한다.<br>그리고 행동 종료 시 생명을 20% 회복한다. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "빙결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'창병'에게 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "명상",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/22.png",
       "Desc": "[패시브] 부대 생명이 90%이상일 시 지력, 마방 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "천공사수 소환",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": true,
       "Cost": "COST 2",
-      "Type": "소환",
-      "CoolTime": "4턴",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "소환"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_SkyArcher01.png",
-      "Desc": "3칸",
+      "Desc": "[소환] 천공사수 1기 소환",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "복음",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Bless.png",
       "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br>모든 디버프에 면역. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     }
   ],

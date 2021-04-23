@@ -632,156 +632,216 @@
   "Skills": [
     {
       "Name": "미늘",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Barb.png",
       "Desc": "[패시브]근접 공격을 받아 전투 진입시 전투 후 부대 생명이 50%이상이라면 [미늘]을 발동한다:<br>전투 종료 후 적 부대에게 영웅 방어 2.5배만큼의 [고정 피해]를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "수호",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/26.png",
       "Desc": "[패시브]받는 물리 피해량 -5%,<br>근접한 아군 부대가 물리 공격을 받을 시 대신하여 전투에 진입한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "창진",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_BitterlyHit.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "희망의 힘",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "초절강화",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "맵 전체",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵 전체"
+        }
+      ],
       "IconImageUrl": "../img/skills/SuperBuff_Origin1.png",
       "Desc": "[초절강화] 액티브 스킬. 범위 내 모든 '빛의 기원' 아군의 공격, 방어 능력치가 크게<br>상승하고 4턴 지속. (이 효과는 다른 초절강화 스킬과 중첩불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방패벽",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Parry.png",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강인함",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf1.png",
       "Desc": "[패시브]공격을 받아 전투 진입 전 자신 방어 <font color=\"red\">+5%</font>, <font color=\"red\">1턴</font> 지속. 중첩 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강철 장미",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_IronRose.png",
       "Desc": "[패시브]근접한 아군을 대신해 마법 공격을 받는다.<br>[액티브]호위 범위 2칸으로 상승. 받는 마법 피해-20%,<br>[강철 장미]효과 부여:'마방'의 0.8배로 '방어'대체,<br>전투 종료 후 적에게 영웅 마방의 2.5배 [고정 피해]를 입힌다. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "헌신",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Dedication.png",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "광역 실드",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.png",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "SP : 가시 결정",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/sp/프레아/1.png",
       "Desc": "[패시브]피격으로 전투 전투 진입 후 적에게 프레아 방어 + 마방 <font color=\"red\">1</font>배 수치의 고정피해,<br>적이 혼합 부대일 경우 해당 고정 피해는 면역 불가",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "SP : 장미 채찍",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "6칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "6칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/sp/프레아/2.png",
       "Desc": "[패시브] 인접한 아군이 받는 모든 공격 호위<br>[액티브]직선 상 적에게 0.1배 물리 피해 및 프레아 방어 + 마방 <font color=\"red\">1</font>배 수치의 고정피해.<br>적이 혼합 부대일 경우 해당 고정 피해는 면역 불가.<br>호위 범위가 2칸으로 확장 및 '장미의 진(혹은 장미 진형)' 효과 부여 :<br>(전투 후 가시 결정의 고정 피해가 반드시 발동, 지속 2행동)",
+      "SubSkills": null,
       "Animation": null
     }
   ],

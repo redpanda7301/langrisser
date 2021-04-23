@@ -331,128 +331,200 @@
   "Skills": [
     {
       "Name": "쌍연격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DoubleAttack.png",
       "Desc": "[물리 피해]단일 적군을 공격하여 1배 전투 피해를 입힌다.<br>40%확률로 2번 공격.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "무자비",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Ass3.png",
       "Desc": "[패시브]치명타 피해량 +20%. 전투 중 치명타가 발생한 경우<br>전투 종료 후 받는 모든 피해량 -30%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "야전",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/10.png",
       "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "별이 머무는 곳",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "초절강화",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "맵전체",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵전체"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_StarLocation.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '시공의 중심' 아군의 <br>공격, 방어 능력치가 크게 상승하고 범위 스킬 피해+20%,<br>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마안",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MagicEye.png",
       "Desc": "[물리 피해]치명타 확률 +10%. 범위 내 다수의 적군을 공격하여 0.3배 범위 피해를 입힌다.<br>랜덤으로 1개 디버프 시전.'마법사'와 전투 시 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "절영",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "6칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "6칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Shadow2.png",
       "Desc": "[물리 피해]치명타 확률 +15%. 라인에 있는 적을 모두 관통하며<br>0.35배의 범위 피해를 입힌다. 동시에 적의 2개 버프를 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "은폐",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Hide.png",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "환영기습",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "4칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_PhantomAttack.png",
       "Desc": "[물리 피해]치명타 확률 +30%. 주위 4칸 내 모든 적군에게<br>03배 범위 피해를 입힌다.'마법사'와 전투 시 더 큰 피해를 준다.<br>전투 후 재이동 3칸 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "진-칠흑의 송곳니",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "5칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "5칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super41.png",
       "Desc": "[물리피해]치명타확률 +30%.<br>3칸 직선상의 모든 적에게 0.3배의 범위피해를 준다.<br>법사에게 특효. 치명타발생시 1개의 랜덤한 디버프 부여,<br>공격시, 기술 사거리의 가장먼곳으로 이동.<br>공격후 3칸 재이동 가능.",
+      "SubSkills": null,
       "Animation": "../img/Super/요슈아.gif"
     }
   ],

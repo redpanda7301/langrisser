@@ -362,128 +362,176 @@
   "Skills": [
     {
       "Name": "징벌",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash.png",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br>근접병사를 휴대할 경우 병사도 같이 공격한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어막 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef2.png",
       "Desc": "[패시브]전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방  <font color=\"red\">-25%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강인함",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf1.png",
       "Desc": "[패시브]공격을 받아 전투 진입 전 자신 방어 <font color=\"red\">+5%</font>, <font color=\"red\">1턴</font> 지속. 중첩 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "헌신",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Dedication.png",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "신성한 제재",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_HolyJudgement.png",
       "Desc": "[마법 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br>전투 진입 전, 해당 적 부대의 버프 <font color=\"red\">5</font>개를 제거한다.<br>또한 적에게 '재행동 불가'와 '버프 불가'를 부여한다. (<font color=\"red\">2</font>턴 지속) (제거 불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "신앙",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Belief.png",
       "Desc": "[패시브] 공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br>전투 후 가장 생명이 적은 다른 아군 생명 회복, 회복량은 자신 지력의 <font color=\"red\">2</font>배.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사수",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.png",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "신의 위엄",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Pledge.png",
       "Desc": "[마법 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br>전투 진입 전, 적에게 자신의 지력 <font color=\"red\">2</font>배만큼 '고정 피해'를 주고, <br>자신의 지력 <font color=\"red\">2</font>배만큼 생명을 회복한다. (<font color=\"red\">2</font>턴 지속)<br>전투 진입 전, '신의 위엄'을 발동한다.<br>(신의 위엄: 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 이동력 <font color=\"red\">-3</font>) 또한 '호위 불가'를 부여한다. (<font color=\"red\">1</font>턴 지속)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "눈부신 성검",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "마법피해",
-      "CoolTime": "4턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/유리아.png",
       "Desc": "<br>[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <br><b>전투 전 자신에게 걸린 모든 <font color=\"blue\">디버프 제거</font> 및 생명 <font color=\"red\">30</font>% 회복</b>' 및<br><b>적 버프 <font color=\"red\">2</font>개 제거</b>, <br><b>만약 적이 이동력 <font color=\"red\">3</font>칸 미만이나 '기절' 상태일 경우 추가 <font color=\"red\">3</font>개 제거</b><br><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br><b>적을 격파 시 해당 스킬 쿨타임 <font color=\"red\">-3</font></b><br><b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
+      "SubSkills": null,
       "Animation": "../img/Super/유리아.gif"
     }
   ],

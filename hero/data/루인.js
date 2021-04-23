@@ -282,100 +282,124 @@
   "Skills": [
     {
       "Name": "힘의 외침",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/36.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "간파",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Cancel.png",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br>2턴 지속, 치명타 발생 시 반드시 발동.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "전투 함성",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Snarl.png",
       "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br>공격, 방어 -10%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 지휘",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.png",
       "Desc": "[지휘] 주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "태양 베기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/1.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "수호",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/26.png",
       "Desc": "[패시브]받는 물리 피해량 -5%,<br>근접한 아군 부대가 물리 공격을 받을 시 대신하여 전투에 진입한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "폭풍",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.png",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br>전투 중 받는 피해량-30%.",
+      "SubSkills": null,
       "Animation": null
     }
   ],

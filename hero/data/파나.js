@@ -386,128 +386,188 @@
   "Skills": [
     {
       "Name": "화살비",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ArrowRain.png",
       "Desc": "[물리 피해]범위 내 모든 적에게 0.3배의 범위 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다, 버프 1개 제거. 전투 후 3칸 재이동 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "광역 강화",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.png",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "조준",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_TakeAim.png",
       "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 대지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.png",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "다리 저격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.png",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다.<br>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "풍압",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_FlyWind.png",
       "Desc": "[패시브]다른 부대에게 피해를 준 후 주위 2칸 내 적에게 0.1배의 광역 피해를 주고<br>50%의 확률로 각 대상에게 무작위 디버프를 부여한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사수",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.png",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "바람의 분노",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/8.png",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br>모든 목표에게 랜덤으로 디버프 시전.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "증원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.png",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "SubSkills": null,
       "Animation": null
     }
   ],

@@ -323,128 +323,200 @@
   "Skills": [
     {
       "Name": "어둠의 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Ashram1.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 피해를 준다.<br>전투 진입전 적군의 '공격,지력' -20%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "폭풍",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.png",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br>전투 중 받는 피해량-30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "맹렬한 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/39.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "무기 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.png",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "절육",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "-",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Ashram2.png",
       "Desc": "[패시브]사망 시 부활 및 생명 20% 회복. 효과가 발동 후 [역습]으로 전환<br>[물리피해] 단일 적군을 공격하여 1.5배의 피해.전투 진입전 [어둠의 영역]버프 획득:<br>주변 3칸내 모든 적군의 '공격', '방어' -10%,'치명타를 받을확률' +10%, 2턴 지속.<br>사용 후 [역습]으로 전환",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "증원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.png",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "용의 숨결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "2칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "2칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DragonSuper.png",
       "Desc": "[물리 피해]주위 2칸 내 모든 적군에게 0.36배 범위 피해를 입힌다.<br>모든 목표에게 랜덤 디버프를 시전, 전투 후 [바람 타기]시전:<br>생명 50%이상으로 전투 진입 시 받는 피해 -15%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "역습",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Ashram3.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.7배 피해를 준다.<br>전투진입전 [바람타기] 효과 획득, 2턴 지속.<br>적군을 격파시 '절육'으로 전환",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "피로물든 살육",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리피해",
-      "CoolTime": "-",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/아슈람.png",
       "Desc": "[물리피해]단일 개체 <font color=\"red\">1.7</font>배 피해, 전투 진입 전 '[<b><font color=\"blue\">바람타기</font></b>]' 효과 획득, 지속 <font color=\"red\">2</font>턴<br>스킬 사용 후 <b>해당 스킬 피해 영구 감소 <font color=\"red\">15</font>% (최대 <font color=\"red\">30</font>%)</b><br>전투 후 <b><font color=\"blue\">재이동</font></b> <font color=\"red\">3</font>칸 기회, 해당 스킬은 '<b><font color=\"blue\">절육</font></b>'으로 변환",
+      "SubSkills": null,
       "Animation": "../img/Super/아슈람.gif"
     }
   ],

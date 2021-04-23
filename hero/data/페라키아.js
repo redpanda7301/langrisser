@@ -367,142 +367,190 @@
   "Skills": [
     {
       "Name": "약탈",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash3.png",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "증원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.png",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "선회",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Swirling.png",
       "Desc": "[물리 피해]1.2배의 피해를 준다.<br>만약 호위를 받지 않은 상태라면 전투 후 목표와 위치를 바꾼다.<br>동시에 자신이 받는 모든 피해 -20%, 지속 1턴.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "연막",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Ass2.png",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraAtkDown.png",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 모든 적 부대 공격, 지력 -15%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "트릭스터",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_TrickStep.png",
       "Desc": "[패시브]치명타 확률+10%.<br>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "진격",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf2.png",
       "Desc": "[패시브]전투 진입 시 자신 부대 공격 +7%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "다리 저격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.png",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다.<br>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마방 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.png",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 마방 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마음의 악마",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "4칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super42.png",
       "Desc": "[물리 피해]직선상 단일 적군에게 0.2배의 물리피해를 주고<br>자신의 영웅병종과 적군 영웅의 병종을 변환한다.<br>적군의 [병종변환]효과는 2회의 피해를 입은후 제거된다, 3턴 지속.<br>(해당 효과는 제거불가하며, 병종변화는 병종간 상성에만 영향을 준다.)",
+      "SubSkills": null,
       "Animation": "../img/Super/페라키아.gif"
     }
   ],

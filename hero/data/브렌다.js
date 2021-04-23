@@ -376,142 +376,214 @@
   "Skills": [
     {
       "Name": "질풍 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br>전투 전 부대의 방어, 마방 +30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "무기 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.png",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "관통",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/43.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br>전투 후, 적 방어 -30%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.png",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 방어 +15% 및<br>면역: '방어, 마방 감소','치료 방해', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "정면일격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Support.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.7배 피해를 준다.<br>전투 전 공격의 20%가 방어에 추가되며, 적 부대에게 '모든 패시브 스킬을 무효화한다'부여,2턴 지속,<br>이 효과는 제거되지 않는다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "재이동",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/13.png",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br>남은 이동력이 있을 경우 공격 후 재이동 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강습",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/5.png",
       "Desc": "[지원]액티브 스킬, 공격 +20%, 1턴 지속.<br>사용 후 3칸 추가 이동 및 재공격 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "흑요돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Brenda.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.1배의 피해를 주고, 2칸 밀어낸다.<br>공격 전 이동거리 1칸마다 주는 피해량 +20%(최대 +60%).<br>전투 진입 전 적군에게 [상처 저주]부여, 1턴 지속.(제거불가)<br>[상처 저주]: 받는 치유량의 20%가 피해로 변환",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "은폐",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Hide.png",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "풍화절영",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "지원",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/브렌다.png",
       "Desc": "[패시브] 범위 피해에 피격시, 고유패시브 스택 1개씩 중첩<br>스킬 사용시 공격력 증가 20%, 주는피해증가 10% 버프 휙득.<br>스킬 사용시 적 통과가능 및 파공, 파갑 패시브 효과 휙득. 2턴간 지속<br>고유패시브 1스택 획득. 3칸의 재이동 및 재공격 가능 (각성기 사용후, 자버프의 지속시간이 감소되지않는다.)",
+      "SubSkills": null,
       "Animation": "../img/Super/브렌다.gif"
     }
   ],

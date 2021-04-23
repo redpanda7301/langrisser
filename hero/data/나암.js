@@ -387,128 +387,176 @@
   "Skills": [
     {
       "Name": "우회",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/11.png",
       "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "조준",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_TakeAim.png",
       "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "저격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/14.png",
       "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br>'비병'과 전투 시 더큰 피해를 준다.<br>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "치명",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_CriBuf.png",
       "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "신의 사수",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash.png",
       "Desc": "[물리 피해] 단일 적을 1.3배 피해로 공격,<br>'비병'과 전투 시 더큰 피해를 준다.<br>전투 전 피해 +30%, 전투 후 적에게 버프 불가 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마방 지휘",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.png",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 마방 +15%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "배수의 진",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.png",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "질주",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/15.png",
       "Desc": "[지원]액티브 스킬, 범위 내 모든 아군의 이동력 +1.<br>공격, 지력 +20% 및 면역: '이동력 감소', '패시브 무효화', 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.png",
       "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     }
   ],

@@ -382,142 +382,214 @@
   "Skills": [
     {
       "Name": "마신의 가호",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DevilGuard.png",
       "Desc": "[패시브]근접한 아군을 대신해 마법 공격을 받는다.<br>행동 종료 시 이번 턴에 피해를 입혔을 경우 자신 부대의 생명 30%회복.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사이펀",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_HolyStrike.png",
       "Desc": "[마법 피해]단일 적군에게 1.5배로 공격.<br>전투 후 피해의 30%만큼 생명 회복.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마신의 수호",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MagicGuard.png",
       "Desc": "[패시브]주위 아군을 대신해 마법 공격을 받는다.<br>호위 범위 2칸으로 상승, 2칸 간격인 원거리 마법 공격에 대해 반격을 한다. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "피의 역류",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_BloodBackset.png",
       "Desc": "[패시브]전투 진입 시 부대가 받는 피해 15%를 반사.<br>전투 후 기타 아군의 생명을 최대 생명에 따라 회복.<br>(해당 비율은 반사한 피해의 50%).",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "블러드 댄스",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "2칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "2칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_BloodDance.png",
       "Desc": "[마법 피해]주위 2칸 내 모든 적군에게 1회 0.1배의 범위 피해를 입힌다.<br>행동 종료 후 한번 더 현재 영웅 생명의 50%[고정 피해]를<br>입히며 영웅 자신도 동일한 생명을 손실한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "하트 어택",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_BreakMDef.png",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br>적에게 받는 마법 피해량 +20%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "배수의 진",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.png",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사신의 손길",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "4칸",
-      "Range": "1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DeathTouch.png",
       "Desc": "[마법 피해]전장에서 단일 적군에게 0.2배의 마법 피해를 입힌다.<br>적군에게 '치료를 시전할 시 치료량의 35%가 피해로 전환'을 시전,<br>2턴 지속.(제거 불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "봉인",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_JamMute.png",
       "Desc": "[패시브]적에게 피해를 줬을 경우 50%확률로 적에게 '침묵' 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "분노한 피의 파도",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "마법 피해",
-      "CoolTime": "4턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/Super/리스틸.png",
       "Desc": "[마법 피해]<b>범위내 적에게 <font color=\"red\">0.3</font>배 피해 및 <br><font color=\"blue\">치료</font>를 시전할 시 치료 효과를 <font color=\"red\">35</font>% 수치 피해로 반전 효과 부여,</b><br><b>지속 <font color=\"red\">1</font>행동, 해제 불가</b><br><b>명중한 모든 지형에 『<font color=\"blue\">피의 늪</font>』 효과 <font color=\"red\">1</font>턴 부여</b> :<br><b>해당 지형으로 위치한 적이 행동 종료 시 <font color=\"purple\">고유 스킬</font>과 동일한 『<font color=\"blue\">상처 저주</font>』 효과 부여</b>",
+      "SubSkills": null,
       "Animation": "../img/Super/리스틸.gif"
     }
   ],

@@ -378,142 +378,178 @@
   "Skills": [
     {
       "Name": "헤비 어택",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Thump.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "반격",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/42.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>공격을 받을 시, 공격 +12%",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "철완",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_IronHand.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br>[응수]효과 획득, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "명경",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_SwordSpirit.png",
       "Desc": "[패시브]받는 치료 효과 +15%.<br>근접 공격을 받아 전투 진입 시 공격,방어 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강철 투구",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Helmet.png",
       "Desc": "[패시브] 원거리 공격을 받을 시 <font color=\"#DC143C\">25%</font>확률로 부대가 받는 모든 피해 <font color=\"#DC143C\">-50%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "검기",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DoubleAttack.png",
       "Desc": "[패시브]공격하여 전투 후 주위 1칸 범위 내 모든 적군에게 0.1배 범위 피해를 입힌다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "모두의 의지",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Solidarity.png",
       "Desc": "[패시브] 주위 <font color=\"red\">2</font>칸 내 아군이 <font color=\"red\">1</font>명씩 있을 경우, 방어, 마방 <font color=\"red\">+5%</font>, 최대 <font color=\"red\">+15%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "기술 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraDexDown.png",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 기술 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "기술 지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DexBuf5.png",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 기술 +20% 및<br>면역:'치료 반전','재행동 불가', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "도검난무",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리피해",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "2바퀴",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "2바퀴"
+        }
+      ],
       "IconImageUrl": "../img/Super/베티.png",
       "Desc": "[패시브] 범위 스킬로 인해 사망 시 부활 (매 전장에서 최대 <font color=\"red\">3</font>회 발동),<br>고유 스킬 범위 내에 있는 아군 <font color=\"red\">1</font>명이 피격당할 시 <br>공격자 및 그 주위 <font color=\"red\">3</font>칸 범위 내 적 <font color=\"red\">2</font>명에게 '피해 <font color=\"red\">-15</font>%' 디버프 부여,지속 <font color=\"red\">1</font>행동<br>[물리피해] 주위 2바퀴 범위 내 적에게 <font color=\"red\">0.3</font>배 피해 및 고정피해 (베티 공격 <font color=\"red\">1</font>배 수치),<br>치료 불가 효과 부여, 지속 <font color=\"red\">2</font>행동",
+      "SubSkills": null,
       "Animation": "../img/Super/베티.gif"
     }
   ],

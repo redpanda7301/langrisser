@@ -320,128 +320,188 @@
   "Skills": [
     {
       "Name": "호위",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Guard.png",
       "Desc": "[액티브] 액티브 스킬, 근접한 <font color=\"red\">2</font>칸 내 아군이 물리 공격을 받을 시 대신 전투에 진입한다. <font color=\"red\">2</font>턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사투",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf6.png",
       "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "검무",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_SwordDance.png",
       "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 대지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Again.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "차원도",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Kazuma2.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br>전투 전, 적 버프<font color=\"red\">2</font>개를 무작위 디버프로 변환.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "건강제일",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Kazuma1.png",
       "Desc": "[패시브] 치명적 피해를 입을 경우 사망하지 않고 생명 <font color=\"red\">10%</font> 회복.<br>이 효과는 최대 <font color=\"red\">1</font>회만 발동 가능.<br>[액티브] 주위 <font color=\"red\">2</font>칸 내 아군을 대신하여 물리 피해를 받는다.<br>동시에 [건강] 이 발동 (건강: 공격의 <font color=\"red\">0.6</font>배 수치를 방어로 전환) (2턴 지속)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사수",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.png",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방패벽",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Parry.png",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "영검 변형",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/카즈마.png",
       "Desc": "[액티브]자신에게 '<font color=\"blue\">영검 이도류</font>', '<font color=\"blue\">영능 수리검</font>' 효과 부여<br>영검 이도류 : 피해 <font color=\"red\">+20</font>%, <b>근접 일반 공격시 영웅 공격</b> <font color=\"red\">2</font>회<br>영능 수리검 : <b>부대 일반 공격 사거리</b> <font color=\"red\">+1</font><br>지속 <font color=\"red\">2</font>행동, <b>해제 불가, 면역 불가</b>",
+      "SubSkills": null,
       "Animation": "../img/Super/카즈마.gif"
     }
   ],

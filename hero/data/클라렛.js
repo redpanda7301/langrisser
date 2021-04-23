@@ -388,142 +388,202 @@
   "Skills": [
     {
       "Name": "바람의 분노",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/8.png",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br>모든 목표에게 랜덤으로 디버프 시전.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "구급",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "치료",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_PHeal2.png",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "바람의 기운",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_FollowingWind.png",
       "Desc": "[패시브]공격 전 매 이동 1칸당 물리피해증가 5%(최대 25%)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "제압",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf1.png",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 +12%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "번개의 일섬",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "4턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_FlySuper2.png",
       "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br>적 부대 격퇴 시, 해당 스킬의 쿨타임 <font color=\"red\">-3</font>.<br>적 부대를 격퇴하지 못할 경우, 재행동할 수 있으며 [사기 저하] 효과를 받는다.<br>(사기 저하: 주는 피해량 <font color=\"red\">-50%</font>.) (<font color=\"red\">1</font>턴 지속)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "힘의 외침",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/36.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "역경",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Adversity.png",
       "Desc": "[패시브] 부대 생명 <font color=\"red\">70%</font>이하일 때 공격, 방어 <font color=\"red\">+10%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "전술 지휘",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.png",
       "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +20%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "폭풍",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.png",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br>전투 중 받는 피해량-30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "천둥의 강습",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Super48.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.<br>전투후 적군에게 \"강화불가\",\"패시브사용불가\"부여, 2턴 지속.(제거불가)<br>적 부대 격퇴 시, 해당 스킬의 쿨타임 -3.<br>[사기 저하]의 영향을 받지않고 있을시, 고유스킬[방랑하는 왕녀]의 증가되는<br>이동력 효과에 이동력 1마다 '입히는피해+5%, 전투후 적군의 버프제거 1개' 추가.<br>(최대 입히는피해+20%, 전투후 적군의 버프제거 4개)",
+      "SubSkills": null,
       "Animation": "../img/Super/클라렛.gif"
     }
   ],

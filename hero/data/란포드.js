@@ -389,142 +389,214 @@
   "Skills": [
     {
       "Name": "투창",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Javelin.png",
       "Desc": "[물리 피해]단일 적에게 0.8배 피해를 입힘.<br>공격 전 이동거리 1칸마다 피해 +20%(최대 +60%).<br>전투 후 재이동 +2칸, 근접 병사를 휴대 시 병사도 동시에 공격 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "폭풍",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.png",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br>전투 중 받는 피해량-30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "힘의 외침",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/36.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "심안",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Eye.png",
       "Desc": "[패시브]치명타율 +15%. 전투 진입 시 치명타가 발생한다면 전투 후<br>적 부대의 모든 패시브 스킬의 효과를 무효화한다. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "연섬",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DoubleCrash.png",
       "Desc": "[물리 피해]단일 적에게 1.4배 피해를 입힘, 치명타 확률 +20%.<br>적군을 소멸할 경우 해당 스킬의 쿨타임 -4.<br>전투 전 적에게 [고정 피해]를 입힘: 치명타 발생 시 전투 후 한번 더 [고정 피해]를 입힘.<br>(고정 피해는 영웅 공격의 1배)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사수",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.png",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "조커전술",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "초절강화",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "맵전체",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵전체"
+        }
+      ],
       "IconImageUrl": "../img/skills/SuperBuff_WisdomAndCourage2.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '전략의 대가' 아군의 <br>공격, 방어 능력치가 크게 상승하고 자신이 [혼합 부대]<br>(영웅과 병종이 다름)일 시 전투 중 추가 피해 +15%, 4턴 지속.<br>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "기사도",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightSoul.png",
       "Desc": "[지원]액티브 스킬, 자신 부대의 공격+30%, 동시에 [면역]과 [폭풍]효과 부여, 2턴 지속.<br>사용 후 추가로 3칸 이동할 수 있고 공격이 가능하다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "장갑 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.png",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "속전속결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super46.png",
       "Desc": "[지휘]고유기술 범위내의 모든[혼합부대]는 능력치감소 속성에 면역.<br>[물리 피해]단일 적에게 1.6배 피해를 입힘, 치명타 확률 +20%.<br>전투전 적군의 2개 버프 제거.<br>적 부대 격퇴시, 해당 스킬의 쿨타임 -4,<br>적 부대를 격퇴하지 못하고 치명타가 발생한 경우, 해당 스킬의 쿨타임 -3.",
+      "SubSkills": null,
       "Animation": "../img/Super/란포드.gif"
     }
   ],

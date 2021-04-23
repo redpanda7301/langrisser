@@ -376,156 +376,240 @@
   "Skills": [
     {
       "Name": "파이어볼",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Fireball.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'보병'에게 더큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마방 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.png",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 마방 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "턴언데드",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash2.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "가속 지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_SPDBuf1.png",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 이동력+1 및<br>면역:'이동력 저하','치료 반전', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "불기둥",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Noemi2.png",
       "Desc": "[마법 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br>'보병'에게 더큰 피해를 준다. 전투 후 공격한 지형 및 주위 1칸 지형에 2턴 동안<br>[잔불]부여 : 적군 부대가 이 위치로 이동하여 행동종료시 최대생명의 15%의 [고정피해]",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "빙결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'창병'에게 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마력 봉합",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Noemi1.png",
       "Desc": "[패시브]행동종료시, [위험범위]내에 있는 무작위 적군 1명에게<br>'[마법 흔적] : \"노에미에게 받는 피해 +5%\", 3턴 지속' 부여. 최대 3중첩.<br>[마법 흔적]을 가진 적군에게 공격하여 전투진입시 전투후 입힌 피해의 <br>20%만큼의 생명회복 후 [마법 흔적]1개 감소",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "프리즈 스피어",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Noemi4.png",
       "Desc": "[마법 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br>'창병'에게 더큰 피해를 준다. 전투 후 공격한 지형에 2턴 동안<br>[얼음땅]부여 : 적군 부대가 이 위치로 이동하여 행동종료시 '이동력-2', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마물 거미 소환",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "5턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Noemi3.png",
       "Desc": "마물 거미 부대를 1개 소환한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "거미줄(마물 거미 스킬)",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": null,
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Cobweb.png",
       "Desc": "[패시브]공격하여 전투진입전 75%확률로 적군의 이동력-2,<br>마방 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "이능력 로브",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "지원",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super34.png",
       "Desc": "[지원] 액티브 스킬. 사용후 자신의 부대가 공격하여 전투진입시 2회 동안<br>\"받는피해 -20%, 입히는피해 +20%.\" 동시에 \"부대의 사거리+2,<br>행동종료시 자신의 지력 1.5배의 생명회복, 디버프 1개 제거.\"(제거불가)",
+      "SubSkills": null,
       "Animation": "../img/Super/노에미.gif"
     }
   ],

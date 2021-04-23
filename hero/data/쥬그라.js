@@ -468,170 +468,254 @@
   "Skills": [
     {
       "Name": "성수의 보호",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Shelter.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 모든 공격을 받는다.<br>공격을 받아 전투 진입 전 30%확률로 적의 1개 버프를 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraDefDown.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "구급",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "치료",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_PHeal2.png",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "성수의 인장",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "초절강화",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "맵전체",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵전체"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Beasts.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 기원' 아군의 <br>공격, 방어 능력치가 크게 상승하고 부대의 남은 생명 비율이 <br>상대보다 높을 경우 공격으로 전투 진입 시 입히는 피해량+15%, 4턴 지속.<br>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "야수의 공포",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Deterrence.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 전 [야수의공포]효과를 부여한다:'마방'과 '방어'의 40% 수치를 '공격'에 더하고,<br>1칸 범위로 근접한 모든 적에게 '이동 불가','호위 불가' 효과를 부여한다. 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "바다의 수호",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_SeaGuard.png",
       "Desc": "[패시브]근접한 아군을 대신해 물리 공격을 받는다.<br>물 속에 있으면 '방어'의 1.4배 수치로 '공격'을 대체한다.<br>[액티브]호위 범위가 2칸으로 늘어나며, '파도 타기'효과를 획득한다:<br>자신이 있는 지형을 '물 속'으로 취급한다. 2턴 지속",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "경계",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.png",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "서리 숨결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "4칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_FrostBreath.png",
       "Desc": "[물리 피해]자신 범위 4칸 내 모든 적군에게 0.25배 피해를 입힌다.<br>처해 있는 지형을 '물 속'으로 취급, 2턴 지속.<br>턴 종료 시 [파도타기] 시전: 자신이 처해 있는 지형을 '물 속'으로 취급, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "전투 함성",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Snarl.png",
       "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br>공격, 방어 -10%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "용의 방벽",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DragonShield.png",
       "Desc": "[패시브]근접한 아군을 대신해 마법 공격을 받는다.<br>[액티브]호위 범위가 2칸으로 늘어나며 '용의 방벽'효과를 획득한다:<br>'마방'의 1.4배 수치로 '공격'을 대체하며, 주위 2칸 내 모든 아군에게<br>'고정 피해'면역 효과를 부여한다. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마방 지휘",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.png",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 마방 +15%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "성수의 찬가",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "8턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "8턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super5.png",
       "Desc": "[물리피해] 스킬 사용 지점으로 순간이동하며<br><b>(위치 이동 범위는 쥬그라 위치 기준으로 3칸)</b><br>자신에게 [바다의 수호], [용의 방벽]의 사용효과 효과 획득,<br>[야수의 공포] 의 이동불가 및 호위불가 효과를 얻는다.<br>이후 [서리 숨결]을 시전",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1579538481233.gif"
     }
   ],

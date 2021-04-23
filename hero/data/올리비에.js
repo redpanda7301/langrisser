@@ -320,128 +320,200 @@
   "Skills": [
     {
       "Name": "조준",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_TakeAim.png",
       "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "하울링 불릿",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_RoaringBomb.png",
       "Desc": "[물리 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br>적군의 입히는 피해 -20%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "저격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/14.png",
       "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br>'비병'과 전투 시 더큰 피해를 준다.<br>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "진격",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf2.png",
       "Desc": "[패시브]전투 진입 시 자신 부대 공격 +7%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "해피 트리거",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Inspire.png",
       "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대 생명 30%회복, 이동력+1,<br>재생 버프 시전, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 대지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Again.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "장갑 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.png",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "레퀴엠 하츠",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "5칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "5칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Requiem.png",
       "Desc": "[물리 피해]자신 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br>적군의 치명타 확률 -30%, 재이동 불가, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "하울릿 불릿2",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "3칸",
-      "Range": "4칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
       "IconImageUrl": "../img/Super/올리비에.png",
       "Desc": "[물리피해] 범위 내 적에게 <font color=\"red\">0.38</font>배 피해 및 <br>적에게 '피해 <font color=\"red\">-20</font>%' '받는 피해 <font color=\"red\">+20</font>%' 효과 부여, 지속 <font color=\"red\">2</font>행동<br> <font color=\"red\">15</font>% 확률로 명중된 적 영웅의 <b><font color=\"blue\">일반 공격 봉인</font></b>, 지속 <font color=\"red\">1</font>턴 <b>(해제 불가)</b>",
+      "SubSkills": null,
       "Animation": "../img/Super/올리비에.gif"
     }
   ],

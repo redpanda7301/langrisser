@@ -331,128 +331,176 @@
   "Skills": [
     {
       "Name": "방패 공격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ShieldStrike.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 피해를 준다.<br>전투 진입 전 적 부대를 1턴 동안 '기절'시킨다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "저지",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Parry.png",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 30%확률로 발동, 받는 물리 피해량 <font color=\"#DC143C\">-30%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "예리코의 벽",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Albedo2.png",
       "Desc": "[액티브]2칸 범위내 아군을 대신해 모든 공격을 받는다.<br>방어+20%, 치명타를 받을 확률 -20%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "전투 함성",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Snarl.png",
       "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br>공격, 방어 -10%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "검은 방패",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Albedo1.png",
       "Desc": "[패시브]공격을 받아 전투진입시, 전투후 적에게 고정피해를 준다.<br>(피해량은 영웅방어의 1.5배)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraAtkDown.png",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 모든 적 부대 공격, 지력 -15%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강인함",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf1.png",
       "Desc": "[패시브]공격을 받아 전투 진입 전 자신 방어 <font color=\"red\">+5%</font>, <font color=\"red\">1턴</font> 지속. 중첩 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "칠흑의 욕망",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "4턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Albedo3.png",
       "Desc": "[패시브]보유중인 디버프 1개마다 행동종료시,[칠흑의 욕망]의 쿨타임 -2.<br>[물리 피해]단일 적군을 공격하여 1.4배의 피해를 입힌다.<br>전투 진입전 \"방어\"의 1.6배로 공격을 대체하고,<br>동시에 자신의 디버프 3개 제거, 제거된 디버프 1개마다<br>입히는 피해 +10%, 전투후 제거한 디버프를 적군에게 부여.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "신의 갑주 - 헤르메스",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "액티브",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Albedo4.png",
       "Desc": "[패시브]면역 \"기절\", 사망시 부활 및 생명 20%회복. 최대 1회 가능.<br>[액티브]2칸 범위내 아군을 대신해 모든 공격을 받는다.<br>[신의 갑옷] 효과 : \"받는 치명타확률 -30%, 공격을 받아 전투 진입시 30%확률로 발동,<br>부대가 받는 모든피해 -50%\", 3턴 지속.<br>([신의 갑옷]은 면역 및 제거 불가)",
+      "SubSkills": null,
       "Animation": "../img/Super/알베도.gif"
     }
   ],

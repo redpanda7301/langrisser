@@ -378,142 +378,202 @@
   "Skills": [
     {
       "Name": "음속검",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "물리 피해",
-      "CoolTime": "1턴",
-      "Distance": "6칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "6칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Lainforce1.png",
       "Desc": "[물리 피해] 라인에 있는 모든 적을 관통하며 0.18배 범위 피해를 입힌다.<br>치명타 발생시 스킬 쿨타임 -1턴.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "트릭스터",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_TrickStep.png",
       "Desc": "[패시브]치명타 확률+10%.<br>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "바람 칼날",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/0.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "치명",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_CriBuf.png",
       "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "월식",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "4칸",
-      "Range": "2칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "2칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Lainforce3.png",
       "Desc": "[물리 피해] 스킬 사용 지점으로 순간이동 하며 <br>주위 2칸 범위의 모든 적에게 0.3배의 피해 및 강화버프를 1개 강탈한다.<br>치명타 발생시 강력한 디버프 1개 부여.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "무자비",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Ass3.png",
       "Desc": "[패시브]치명타 피해량 +20%. 전투 중 치명타가 발생한 경우<br>전투 종료 후 받는 모든 피해량 -30%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "전술 지휘",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.png",
       "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "별 가르기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "7칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "7칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Lainforce2.png",
       "Desc": "[물리 피해] 라인에 있는 모든 적을 관통하며 0.33배 범위 피해를 입힌다.<br>공격 중 스킬의 가장 먼 사거리로 이동하며<br>2명 이상의 적에게 적중 시 적중당한 적의 위치를 랜덤하게 변경한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "군단 정비",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BothBuf1.png",
       "Desc": "[패시브]부대 생명이 90% 이상일 시 공격,방어 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "태양",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "4칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Super14.png",
       "Desc": "[물리 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.2배 범위 피해를 입히고,<br>[연소] 부여: 행동종료시 레인폴스의 공격 1배의 [고정피해],중첩가능, 2턴 지속.<br>공격시 기술사거리의 가장 먼 위치로 이동한다.<br>2명 이상 적중시 [전송]발동: 적중한 적군의 위치를 서로바꾸며 [연소]추가부여.<br>3명 이상 적중시 쿨타임 초기화 및 [연소]추가부여",
+      "SubSkills": null,
       "Animation": "../img/Super/레인폴스.gif"
     }
   ],

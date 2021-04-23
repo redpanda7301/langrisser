@@ -37,10 +37,47 @@
     }
   ],
   "HeartFetter": "생명+400, 방어+30, 마방+40",
-  "Talent": null,
+  "Talent": [
+    {
+      "Name": "천우황녀",
+      "Icon": "Gift_Meropeni.png",
+      "Abilities": [
+        {
+          "Desc": "1성"
+        },
+        {
+          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 내에 아군이 있을 경우 지력 마방 <font color=\"red\">+10%</font>.<br>다른 영웅이 멜파니을 호위할 경우 전투 전 멜파니의 지력 <font color=\"red\">3</font>배만큼의 생명을 회복."
+        },
+        {
+          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 내에 아군이 있을 경우 지력 마방 <font color=\"red\">+12%</font>.<br>다른 영웅이 멜파니을 호위할 경우 전투 전 멜파니의 지력 <font color=\"red\">3</font>배만큼의 생명을 회복."
+        },
+        {
+          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 내에 아군이 있을 경우 지력 마방 <font color=\"red\">+14%</font>.<br>다른 영웅이 멜파니을 호위할 경우 전투 전 멜파니의 지력 <font color=\"red\">3</font>배만큼의 생명을 회복."
+        },
+        {
+          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 내에 아군이 있을 경우 지력 마방 <font color=\"red\">+17%</font>.<br>다른 영웅이 멜파니을 호위할 경우 전투 전 멜파니의 지력 <font color=\"red\">3</font>배만큼의 생명을 회복."
+        },
+        {
+          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 내에 아군이 있을 경우 지력 마방 <font color=\"red\">+20%</font>.<br>다른 영웅이 멜파니을 호위할 경우 전투 전 멜파니의 지력 <font color=\"red\">3</font>배만큼의 생명을 회복."
+        }
+      ]
+    }
+  ],
   "SPTalent": null,
-  "Equip": null,
-  "Soldiers": [],
+  "Equip": {
+    "Name": "활기찬 소환사(지팡이)",
+    "Stats": "생명 437,지력 107",
+    "Icon": "멜파니.png",
+    "Ability": "치료효과 (<font color=\"red\">+3, +6, +9, +12, +15</font>)%<br>[지휘] <b>인접 아군에게 '<font color=\"blue\">상처 저주</font>' '<font color=\"blue\">치료 불가</font>' 면역 효과</b> 부여<br>"
+  },
+  "Soldiers": [
+    17,
+    44,
+    0,
+    4,
+    2,
+    15
+  ],
   "Jobs": [
     {
       "Name": "위저드",
@@ -288,114 +325,210 @@
   "Skills": [
     {
       "Name": "힐",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "치료",
-      "CoolTime": "0턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "0턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/17.png",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "프로텍션",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "1턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/18.png",
       "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "빙결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'창병'에게 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "광역 마방",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.png",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "아이스",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_IceCrash.png",
       "Desc": "[마법 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br>'창병'에게 더 큰 피해를 준다. 적군 이동력 -1칸, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "턴언데드",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash2.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "친위대 임명",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Meropeni1.png",
       "Desc": "[액티브]단일부대의 공격, 지력, 방어 + 20%, 2턴 지속 및 <br>[호위]부여 : \"2칸내의 아군이 물리공격을 받을시 대신하여 공격을 받는다.\" 2턴 지속,<br>동시에 시전자의 지력3배의 생명 회복.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "복음",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Bless.png",
       "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br>모든 디버프에 면역. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     }
   ],

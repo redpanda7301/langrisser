@@ -331,128 +331,212 @@
   "Skills": [
     {
       "Name": "단풍 베기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "2칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "2칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Rean4.png",
       "Desc": "[물리 피해]범위내 다수의 적군에게 0.1배의 범위피해를 입힌다.<br>[귀신화]상태일경우 '멸 단풍베기'로 변환.<br>[멸 단풍베기]: 기술 범위+1, 피해계수 0.15배. 50%확률로 적군에게 디버프 1개 부여.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "힘의 외침",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/36.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "호영참",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "5칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "5칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Rean3.png",
       "Desc": "[물리 피해]1줄 직선상의 모든 적군에게 0.2배의 범위피해를 입힌다.<br>50%확률로 적군에게 디버프 1개 부여.<br>[귀신화]상태일경우 '멸 호영참'으로 변환.<br>[멸 호영참]: 기술 범위+1, 피해계수 0.3배. 100%확률로 적군에게 디버프 1개 부여.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "일섬",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "1턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_SwordCrash3.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배 피해를 준다. 치명타율 +20%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "명경",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_SwordSpirit.png",
       "Desc": "[패시브]받는 치료 효과 +15%.<br>근접 공격을 받아 전투 진입 시 공격,방어 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "신기합일",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "변신",
-      "CoolTime": "10턴",
-      "Distance": "자신",
-      "Range": "자신",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "변신"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "10턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "자신"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Rean1.png",
       "Desc": "[변신]스킬 사용후 모든 기술의 쿨타임 -1턴.(신기합일포함)<br>[귀신화] 상태 진입 : \"입히는피해 +30%, 받는피해-30%, 이동력+1,<br>동시에 적에게 피해를 입힌후 디버프 1개 부여\", 3턴 지속.<br>이미 [귀신화]일 경우 버프지속 +3턴.<br>[귀신화]상태 종료후 스킬사용불가 2턴 지속.<br>(해당 스킬로 인한 모든 효과는 제거 및 면역 불가 : 스킬사용후, 행동 종료시<br>자신이 보유중인 모든 강화버프 효과의 지속시간이 감소하지않음).",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "심안",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Eye.png",
       "Desc": "[패시브]치명타율 +15%. 전투 진입 시 치명타가 발생한다면 전투 후<br>적 부대의 모든 패시브 스킬의 효과를 무효화한다. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "질풍 º개",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Rean2.png",
       "Desc": "[물리 피해]범위내 다수의 적군에게 0.2배의 범위피해를 입히고<br>50% 확률로 디버프 1개 부여.<br>[귀신화]상태일경우 '이질풍'로 변환.<br>[이질풍]: 기술 범위+1, 피해계수 0.3배. 100%확률로 적군에게 디버프 1개 부여.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "푸른 화염의 태도",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "6턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "6턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Super28.png",
       "Desc": "[물리 피해]범위내 다수의 적군에게 0.3배의 범위피해를 입히고<br>50% 확률로 디버프 1개 부여 및 2개의 [작열] 부여, 2턴 지속.<br>[작열] : 행동종료시 린의 공력력 1배의 [고정피해] 중첩가능.<br>[귀신화]상태일경우 '종언의태도 효'로 변환.<br>[종언의태도 효]: 기술 범위+1, 피해계수 0.36배. 100%확률로 적군에게 디버프 1개 부여.<br>[귀신화]상태에서 부여된 [작열]효과의 고정피해는 면역불가.",
+      "SubSkills": null,
       "Animation": "../img/Super/린.gif"
     }
   ],

@@ -283,100 +283,160 @@
   "Skills": [
     {
       "Name": "물의 창",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_WaterCrash.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>물 속에 있을 경우 2배의 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "체인 훅",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "4칸",
-      "Range": "1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ChainHook.png",
       "Desc": "[물리 피해]전장 위 단일 적에게 0.25배의 물리 피해를 주고 자신의 곁으로 끌어온다.<br>동시에 대상의 이동력-2, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "혈전",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf3.png",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "파도 타기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_WaterControl.png",
       "Desc": "[지원]사용 후 이동 시 통과하는 모든 지형을 '물 속'으로 취급한다.2턴 지속.<br>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "구급",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "치료",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_PHeal2.png",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "재이동",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/13.png",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br>남은 이동력이 있을 경우 공격 후 재이동 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "맹렬한 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/39.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
+      "SubSkills": null,
       "Animation": null
     }
   ],

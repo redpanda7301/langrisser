@@ -321,128 +321,200 @@
   "Skills": [
     {
       "Name": "선풍륜",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "주위 1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "주위 1칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Whirlwind.png",
       "Desc": "[물리 피해]주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br>[금강] 버프 시전, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "금강",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Stiffness.png",
       "Desc": "[패시브]입히는 모든 피해 +10%, 공격의 10%를 방어에 증가.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "성원",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "6턴",
-      "Distance": "자신",
-      "Range": "6칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "6턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "6칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Cheer.png",
       "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대<br>공격,지력,방어,마방,기술 +10.66%, 6턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방패벽",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Parry.png",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "관통",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/43.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br>전투 후, 적 방어 -30%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "염사곤",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "5칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "5칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_StrandedStick.png",
       "Desc": "[물리 피해]라인에 있는 모든 적을 관통하며 0.4배 범위 피해를 입힌다.<br>[금강]버프 시전, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "간파",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Cancel.png",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br>2턴 지속, 치명타 발생 시 반드시 발동.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "봉황열파",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Phoenix.png",
       "Desc": "[물리 피해]주위 2칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br>시전 전 자신의 모든 디버프 제거, 전투 후 생명 100%회복.<br>[금강],[모든 디버프 면역] 시전, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "각성스킬",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "지원",
-      "CoolTime": "6턴",
-      "Distance": "자신",
-      "Range": "6칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "6턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "6칸"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super2.png",
       "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대 생명 30%회복 및<br>공격,지력,방어,마방,기술 +12.66%,'이동력'+1, 6턴 지속.",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1569929979605.gif"
     }
   ],

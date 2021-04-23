@@ -322,128 +322,176 @@
   "Skills": [
     {
       "Name": "지탄",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Toguro1.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.3배의 피해를 준다.<br>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br>대상을 2칸 밀쳐내며, '공격','기술' -20%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "폭풍",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.png",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br>전투 중 받는 피해량-30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraDefDown.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "진격",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf2.png",
       "Desc": "[패시브]전투 진입 시 자신 부대 공격 +7%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "120%",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "변신",
-      "CoolTime": "6턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "변신"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "6턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Toguro3.png",
       "Desc": "[변신] 사용후 3칸 이동 및 공격 가능.[120%상태] 획득<br>[120%상태]: 생명 제외 모든 능력치 +20%(초절 강화효과와 중복불가.)<br>공격 전 이동 1칸당 공격 +5%(최대 15%), 사망 시 부활 및 생명 20% 회복.<br>(120%상태 효과중 최대 1회 발동) 공격 후 재이동 5칸, 지속 2턴.<br>[120%상태]종료 후 생명 -90%(해당 효과는 면역 및 제거 불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "하압!",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Toguro4.png",
       "Desc": "[패시브]전투 진입시 30% 확률로 발동. 적군의 부대사거리 -1.<br>(해당 효과 발동 후 2턴 이후 재발동 가능)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "질풍 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br>전투 전 부대의 방어, 마방 +30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "경계",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.png",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "폭육강체",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super37.png",
       "Desc": "[물리피해] 단일적군을 공격해 1배의 피해를 준다. 공격전 이동한 1칸당 피해상승 20%(최대 60%)<br>피해를 입힌후 적군 2칸 후퇴. 만약 적군 후퇴위치에 적의 아군이 존재하거나 진입불가 지형이면 기절 부여 1턴 지속.<br>만약 본 스킬로 적군 처치시 쿨타임 -4.<br>전투후 [전투의지] 버프 : 전투진입 전, 영웅의 공격 1배만큼의 생명 회복. 지속 2턴.<br>만약 [120% 상태]일 경우 회복량은 공격의 1.5배로 변경.",
+      "SubSkills": null,
       "Animation": "../img/Super/도구로.gif"
     }
   ],

@@ -40,10 +40,51 @@
     }
   ],
   "HeartFetter": "생명+550, 방어+40, 마방+60",
-  "Talent": null,
+  "Talent": [
+    {
+      "Name": "월하의 서약",
+      "Icon": "55.png",
+      "Abilities": [
+        {
+          "Desc": "1성"
+        },
+        {
+          "Desc": "2성"
+        },
+        {
+          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br>원거리 공격 후 아군에게 제리올&레이라 <br>공격+지력의 <font color=\"red\">0.5</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">10%</font>만큼 회복<br> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>턴 지속."
+        },
+        {
+          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br>원거리 공격 후 아군에게 제리올&레이라 <br>공격+지력의 <font color=\"red\">0.8</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">15%</font>만큼 회복<br> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>턴 지속."
+        },
+        {
+          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br>원거리 공격 후 아군에게 제리올&레이라 <br>공격+지력의 <font color=\"red\">1.1</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">20%</font>만큼 회복<br> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>턴 지속."
+        },
+        {
+          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br>원거리 공격 후 아군에게 제리올&레이라 <br>공격+지력의 <font color=\"red\">1.5</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">30%</font>만큼 회복<br> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>턴 지속."
+        }
+      ]
+    }
+  ],
   "SPTalent": null,
-  "Equip": null,
-  "Soldiers": [],
+  "Equip": {
+    "Name": "같은 마음의 수호(망치)",
+    "Stats": "공격 85,지력 85",
+    "Icon": "제리올.png",
+    "Ability": "공격, 지력(<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br>영웅 통상 공격 사거리 <font color=\"red\">+1</font>,<br><b>선공으로 전투 진입 시</b>, <b>전투 후 생명이 가장 낮은 아군 <font color=\"blue\">회복</font></b>, <br><b>회복량은 술자의 공격+지력 <font color=\"red\">1</font>배</b> 수치<br><b>재행동 발동 시, 자신에게 걸린 버프의 지속 시간이 소모되지 않음</b>"
+  },
+  "Soldiers": [
+    5,
+    13,
+    43,
+    44,
+    46,
+    56,
+    63,
+    65,
+    66,
+    70
+  ],
   "Jobs": [
     {
       "Name": "다크 나이트",
@@ -297,129 +338,201 @@
   "Skills": [
     {
       "Name": "질풍 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br>전투 전 부대의 방어, 마방 +30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "재이동",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/13.png",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br>남은 이동력이 있을 경우 공격 후 재이동 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마무술",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MagicAttack.png",
       "Desc": "[지원]'마무'시전: 영웅이 입히는 모든 물리 피해를 마법 피해로 취급.<br>공격의 10%를 지력에 추가, 4턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "맹렬한 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/39.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 지휘",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/2.png",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "증폭술",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_PhysicalAttack.png",
       "Desc": "[지원]'증폭'시전: 영웅이 입히는 모든 물리 피해를 마법 피해로 취급.<br>지력의 10%를 공격에 추가, 4턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "성언",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/19.png",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br>회복량은 사용자 지력의 4배.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "명상",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/22.png",
       "Desc": "[패시브] 부대 생명이 90%이상일 시 지력, 마방 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "레이라의 축복",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "변신",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "변신"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Blessing2.png",
       "Desc": "[레이라의 축복]<br>레이라가 자신의 힘을 제리올이랑 합체하여 다크 나이트로 변신하며 '고급 증폭술'획득<br>영웅이 입히는 모든 피해를 물리 피해로 간주하고 지력의 50% 수치를 공격에 추가. 지속 2회합<br>사용후 3칸 이동가능하며 다시 공격 할 수 있다.<br>지속 2회합이 끝나면 [제리올의 호위]로 변경<br>해당 스킬은 면역 및 해제 불가",
-      "Animation": null
+      "SubSkills": null,
+      "Animation": "../img/Super/mmexport1579538555323.gif"
     }
   ],
   "Bio": [

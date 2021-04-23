@@ -340,128 +340,200 @@
   "Skills": [
     {
       "Name": "썬더",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ThunderBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'기병'에게 더큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.png",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 방어 +15% 및<br>면역: '방어, 마방 감소','치료 방해', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공정한 빛",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MOTT3.png",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.2배의 광역 피해를 주며<br>명중한 지형에 [눈부신 빛]부여, 2턴 지속.<br>:\"적군의 이동 방식이 [비행], [기마], [야전]의 경우 이동시 소모되는 이동력 소모+1<br>아군의 이동방식이 [보행], [수병]인 경우 이 해당 지형에서 전투후 2칸 재이동 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "초월 구현화",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "초절강화",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "맵전체",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵전체"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MOTT2.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '초월 영역' 아군의 <br>공격, 방어 능력치가 크게 상승하고 원거리 피해 +12%,<br>피해를 입히지 않고 행동종료시 약화효과 1개 제거, 4턴 지속.<br>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "뇌룡의 숨결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "5칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "5칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ThundeRay2.png",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br>'기병'과 전투 시 더 큰 피해를 입힌다. 적군의 방어 -20%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "턴언데드",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash2.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "불굴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_NerverDie.png",
       "Desc": "[패시브]사망 시 부활 및 생명 20%회복. 최대 1회 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "역전의 기억",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MOTT1.png",
       "Desc": "[패시브] 주위 2칸 내 영웅의 직업이 [보병],[창병],[기병]의<br>아군이 공격하여 전투진입시 입히는 피해 +12%, 받는피해 -12%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "고요한 숨결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "5칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "5칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super38.png",
       "Desc": "[지휘]주위 2칸내 모든 아군이 받는 치명타 확률 - 30%,<br>받는 원거리피해 -15%, 받는 치료효과 +15%.<br>[마법피해]3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입히고,<br>2칸 후퇴 시킨다. 동시에 명중한 모든 지형에 [눈부신 빛] 2턴 부여<br>:\"적 부대의 이동 방식이 [비행], [기마], [야전]의 경우 이동시 소모되는 이동력 소모+1<br>아군의 이동방식이 [보행], [수병]인 경우 이 지형에서 전투후 2칸 재이동 가능.",
+      "SubSkills": null,
       "Animation": "../img/Super/세계수의현자.gif"
     }
   ],

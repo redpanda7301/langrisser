@@ -40,10 +40,44 @@
     }
   ],
   "HeartFetter": "생명+600, 방어+30, 마방+40",
-  "Talent": null,
+  "Talent": [
+    {
+      "Name": "그림자 매혹",
+      "Icon": "Gift_Patsyr.png",
+      "Abilities": [
+        {
+          "Desc": "1성"
+        },
+        {
+          "Desc": "2성"
+        },
+        {
+          "Desc": "\\여성이 아닌 영웅\\과 전투 시 지력 <font color=\"red\">+15%</font> 받는 피해 <font color=\"red\">-15%</font><br>선공으로 피해를 입힐 경우 목표에게 \\피로\\효과 부여<br>\\피로\\ : 피격 치명타 확률 +20% 지속 3행동 중첩 가능 2중첩 된 상태로 행동 종료 시 해당 효과는 \\최면\\으로 대체<br>\\최면\\ : 기절 피격 치명타 확률 +50% 지속 1행동 (최면 효과는 1번 피격시 사라짐 쿨 3행동)"
+        },
+        {
+          "Desc": "\\여성이 아닌 영웅\\과 전투 시 지력 <font color=\"red\">+20%</font> 받는 피해 <font color=\"red\">-20%</font><br>선공으로 피해를 입힐 경우 목표에게 \\피로\\효과 부여<br>\\피로\\ : 피격 치명타 확률 +20% 지속 3행동 중첩 가능 2중첩 된 상태로 행동 종료 시 해당 효과는 \\최면\\으로 대체<br>\\최면\\ : 기절 피격 치명타 확률 +50% 지속 1행동 (최면 효과는 1번 피격시 사라짐 쿨 3행동)"
+        },
+        {
+          "Desc": "\\여성이 아닌 영웅\\과 전투 시 지력 <font color=\"red\">+25%</font> 받는 피해 <font color=\"red\">-25%</font><br>선공으로 피해를 입힐 경우 목표에게 \\피로\\효과 부여<br>\\피로\\ : 피격 치명타 확률 +20% 지속 3행동 중첩 가능 2중첩 된 상태로 행동 종료 시 해당 효과는 \\최면\\으로 대체<br>\\최면\\ : 기절 피격 치명타 확률 +50% 지속 1행동 (최면 효과는 1번 피격시 사라짐 쿨 3행동)"
+        },
+        {
+          "Desc": "\\여성이 아닌 영웅\\과 전투 시 지력 <font color=\"red\">+30%</font> 받는 피해 <font color=\"red\">-30%</font><br>선공으로 피해를 입힐 경우 목표에게 \\피로\\효과 부여<br>\\피로\\ : 피격 치명타 확률 +20% 지속 3행동 중첩 가능 2중첩 된 상태로 행동 종료 시 해당 효과는 \\최면\\으로 대체<br>\\최면\\ : 기절 피격 치명타 확률 +50% 지속 1행동 (최면 효과는 1번 피격시 사라짐 쿨 3행동)"
+        }
+      ]
+    }
+  ],
   "SPTalent": null,
   "Equip": null,
-  "Soldiers": [],
+  "Soldiers": [
+    43,
+    22,
+    13,
+    7,
+    26,
+    15,
+    45,
+    62
+  ],
   "Jobs": [
     {
       "Name": "핏빛 꿈의 주인",
@@ -328,128 +362,212 @@
   "Skills": [
     {
       "Name": "파이어볼",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Fireball.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.                                        <br>'보병'에게 더큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "썬더",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ThunderBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'기병'에게 더큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "망각",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_JamMove.png",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마방 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.png",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 마방 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "어둠의 낫",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.                                        <br>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "매혹",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Patsyr1.png",
       "Desc": "[마법 피해]전장에 있는 단일 개체 0.1배, 목표가 '여성이 아닌 영웅'일 경우 다음 턴 기절,                                        <br>목표 행동 종료 시 주위 1바퀴 범위 다른 아군에게 고정피해 (목표의 남은 생명력 25% 수치, 해당 효과는 해제 불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "꿈 탐식",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Patsyr2.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.                                        <br>목표가 '여성이 아닌 영웅'일 경우 피해 +20% 및 호위 무시",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "몽마의 입맞춤",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Patsyr3.png",
       "Desc": "[패시브]'여성이 아닌 영웅'과 교전해 전투에 들어갈 경우,                                        <br>전투 후 해당 전투에서 입힌 피해량 30% 수치로 생명 회복",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "파멸의 그림자 저주",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "마법피해",
-      "CoolTime": "4턴",
-      "Distance": "6칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "6칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/Super/팟시르.png",
       "Desc": "[패시브]팟시르 사망 시, 전장에 있는 적군 중 모든 '여성이 아닌 영웅'에게 '패시브 봉인' 효과 부여 (해제 불가)                                        <br>마법피해. 3줄 직선 상 적에게 0.1배, 대상이 '방어 지형이 아닌 지형'에 위치해 있을 경우 추가                                         <br>고정 피해 (지력 2배 수치, 면역 불가), '그림자 저주' 효과 부여                                        <br>그림자 저주 : '방어 지형이 아닌 지형'에서 행동 종료 시 고정 피해 (지력 1.5배 수치),                                        <br>면역 불가, 지속 2행동 (그림자 저주 효과는 해제 불가)",
+      "SubSkills": null,
       "Animation": "../img/Super/팟시르.gif"
     }
   ],

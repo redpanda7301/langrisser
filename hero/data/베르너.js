@@ -361,143 +361,246 @@
   "Skills": [
     {
       "Name": "격돌",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Punch.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br>대상을 <font color=\"red\">2</font>칸 밀쳐내며 이동력 <font color=\"red\">-2</font>, '호위 불가'부여, <font color=\"red\">1</font>턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "맹렬한 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/39.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "경계",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.png",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "질풍 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br>전투 전 부대의 방어, 마방 +30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "질주",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/15.png",
       "Desc": "[지원]액티브 스킬, 범위 내 모든 아군의 이동력 +1.<br>공격, 지력 +20% 및 면역: '이동력 감소', '패시브 무효화', 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "드리프트",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Wagner/1.png",
       "Desc": "[패시브] 선공 시 받는 피해 <font color=\"#DC143C\">-10</font>%. <br>전투 후 직선으로 재이동 가능, 이동 거리는 남은 이동력 <font color=\"#DC143C\">+2</font> 쿨타임 <font color=\"#DC143C\">2</font>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "신속한 습격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Wagner/2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.2</font>배의 피해를 준다.<br>공격 전 이동거리 <font color=\"red\">1</font>칸마다 주는 피해량 <font color=\"#DC143C\">+3%</font> (최대 <font color=\"#DC143C\">+15%</font>)<br>이동거리가 <font color=\"#DC143C\">10</font>칸 이상일 경우 해당 공격은 <b><font color=\"blue\">호위 무시</font></b>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "간파",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Cancel.png",
       "Desc": "[패시브]치명타율 <font color=\"#DC143C\">+10</font>%. <br>피해를 줄 때 <font color=\"#DC143C\">50</font>%의 확률로 적 부대의 <b><font color=\"blue\">패시브 스킬을 무효화</font></b>한다.<br><font color=\"#DC143C\">2</font>턴 지속, 치명타 발생 시 반드시 발동.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "기동 변형",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "변환",
-      "CoolTime": "-",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "변환"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/베르너.png",
       "Desc": "[액티브] 이하 스킬 중 <font color=\"red\">1</font>개 선택 및 이동력 <font color=\"red\">+1</font><br>생명을 제외한 모든 스탯 <font color=\"red\">+5</font>% (최대 <font color=\"red\">3</font>중첩, 해제 불가)<br>동시에 <font color=\"red\">1</font>가지 모드만 발동할 수 있으며, 모드 변형은 <b><font color=\"blue\">면역 및 제거 불가</font></b><br>액티브 스킬 사용 시 쿨타임 <font color=\"red\">3</font>턴으로 변경",
-      "Animation": null
+      "SubSkills": [
+        {
+          "Name": "<b><font color=\"#0070c0\">신속 모드</font></b>",
+          "Entries": null,
+          "IconImageUrl": null,
+          "Desc": "[지원][액티브] 호위 범위 자신 부대 이동력 <font color=\"red\">+3</font>칸, <br>전투 진입 전 이동 거리가 <font color=\"red\">4</font>칸 이상일 경우 <b><font color=\"blue\">선공</font></b>"
+        },
+        {
+          "Name": "<b><font color=\"#0070c0\">강습 모드</font></b>",
+          "Entries": null,
+          "IconImageUrl": null,
+          "Desc": "[지원] 자신 부대가 공격 전 이동한 거리 <font color=\"red\">1</font>칸 당 피해 <font color=\"red\">+3</font>% (최대 <font color=\"red\">15</font>%)"
+        },
+        {
+          "Name": "<b><font color=\"#0070c0\">방어 모드</font></b>",
+          "Entries": null,
+          "IconImageUrl": null,
+          "Desc": "[지원] 자신 부대가 받는 피해 <font color=\"red\">-15</font>%, <b><font color=\"blue\">위치 이동 면역</font></b>, 반격 피해 <font color=\"red\">+20</font>%, <br>행동 종료 시 부대 생명 <font color=\"red\">35</font>% 수치 생명 회복"
+        }
+      ],
+      "Animation": "../img/Super/베르너.gif"
     }
   ],
   "Bio": null,

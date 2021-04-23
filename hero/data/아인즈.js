@@ -342,129 +342,237 @@
   "Skills": [
     {
       "Name": "썬더",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ThunderBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'기병'에게 더큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "광휘록체",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Ains2.png",
       "Desc": "[패시브]공격을 받아 전투진입시 30%확률로 발동,적군의 입히는 피해 -90%(이 효과는 발동 후 2턴이 지나야 다시 발동)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "고급 텔레포트",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Ains3.png",
       "Desc": "[지원]액티브 스킬, 자신을 범위 안의 임의 1칸으로 이동시키고,<br>자신에게 \"받는피해 감소 -20%\" 및 \"행동종료시 생명력회복 20%\" 부여, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "추락하는 천공",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "5칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "5칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Ains4.png",
       "Desc": "[마법 피해]자신 주위 5칸 내 모든 적군에게 0.32배의 범위 피해를 입힌다.<br>[비병]과 전투 시 더 큰 피해를 준다. 목표의 이동력이 높을 수록 입히는 피해 증가<br>이동력 1마다 입히는 피해 +5%(최대 +25%)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "어둠의 낫",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "현단",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Ains1.png",
       "Desc": "[마법 피해]단일 적군을 공격하여 1.5배의 피해를 입힌다.<br>치명타확률 +15%, 먼저 공격한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마방 지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_MDefBuf.png",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "블랙홀",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "3칸",
-      "Range": "4칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DarkHole.png",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br>각 부대에게 무작위 디버프를 2개씩 부여한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "별에 소원을Wish upon a star",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "선택",
-      "CoolTime": "[액티브]아래 3가지 소원중 1가지 소원을 선택 가능(이 스킬로 얻은 강화효과는 제거불가)",
-      "Distance": "불사의몸",
-      "Range": "[지원]부대의 최대생명력 +15% 및 생명력회복 100%(제거불가, 전장중 사용 1회 제한)",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "선택"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Ains5_1.png",
-      "Desc": "<b><font color=\"#0070c0\">비행</font></b>",
-      "Animation": null
+      "Desc": "[액티브]아래 3가지 소원중 1가지 소원을 선택 가능<br>(이 스킬로 얻은 강화효과는 제거불가)",
+      "SubSkills": [
+        {
+          "Name": "<b><font color=\"#0070c0\">불사의몸</font></b>",
+          "Entries": null,
+          "IconImageUrl": "../img/skills/Skill_Ains5_3.png",
+          "Desc": "[지원]부대의 최대생명력 +15% 및 생명력회복 100%<br>(제거불가, 전장중 사용 1회 제한)"
+        },
+        {
+          "Name": "<b><font color=\"#0070c0\">비행</font></b>",
+          "Entries": null,
+          "IconImageUrl": "../img/skills/Skill_Ains5_2.png",
+          "Desc": "[지원]이동력+1, 부대의 이동방식이 '비행'으로 변한다.<br>(제거불가, 전장중 사용 1회 제한)"
+        },
+        {
+          "Name": "<b><font color=\"#0070c0\">천지개변</font></b>",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "마법 피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "3턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "3칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "4칸"
+            }
+          ],
+          "IconImageUrl": "../img/skills/Skill_Ains5_4.png",
+          "Desc": "[마법피해]범위 내의 다수의 적군에게 0.3배의 범위피해를 입힌다.<br>적이 방어지형이 아니라면 2개의 강화효과를 약화효과로 변환한다.<br>별에 소원을 쿨타임을 3턴으로 바꾼다."
+        }
+      ],
+      "Animation": "../img/Super/아인즈.gif"
     }
   ],
   "Bio": null,

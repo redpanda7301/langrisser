@@ -194,7 +194,7 @@
             <div class="col-<%=colNum%> col-12-medium">
                 <section>
                     <div class="view_title">클래스 최종 능력치(70레벨 호감도4,5 10레벨)</div>
-                    <table border="0" cellpadding="0" cellspacing="1">
+                    <table border="0" cellpadding="0" cellspacing="1"<%if (colNum == 12) {%> style="width: 50%; margin: auto;"<%}%>>
                         <colgroup>
                             <col width="20%">
                             <col width="30%">
@@ -410,7 +410,6 @@
                 <section>
                     <div class="view_title">스킬 정보</div>
                     <%_.each(Skills, function(skill) {%>
-                    <%if (skill.IsPassive == true) {%>
                     <table border="0" cellpadding="0" cellspacing="1">
                         <colgroup>
                             <col width="22%">
@@ -421,101 +420,111 @@
                         <tr>
                             <td colspan="4"><b><font color="#0070c0"><%=skill.Name%><%if (skill.Cost != null) {%>(<%=skill.Cost%>)<%}%></font></b></td>
                         </tr>
+                        <%
+                           var counter = 0;
+                           _.each(skill.Entries, function(entry) {                               
+                        %>
+                        <%if (counter % 2 == 0) {%>                     
                         <tr>
-                            <th>유형</th>
-                            <td>패시브</td>
+                        <%}%>
+                        <%if (skill.Entries.length == 1) {%>
+                            <th colspan="2"><%=entry.Label%></th>
+                            <td colspan="2"><%=entry.Value%></td>
+                        <%} else {%>
+                            <th><%=entry.Label%></th>
+                            <td><%=entry.Value%></td>
+                        <%}%>                                                        
+                        <%if (counter % 2 == 1 || counter == entry.length) {%>
                         </tr>
+                        <%}%>
+                        <%counter++;%>
+                        <%});%>                        
                         <tr>
                             <th><img src="<%=skill.IconImageUrl%>" width="100" /></th>
-                            <td colspan="3">
+                            <td colspan="3">                                
+                                <%if (skill.SubSkills != null) {%>
+                                <div style="padding: 10px 0;">
+                                    <%=skill.Desc%>
+                                </div>
+                                <table style="border-top: 1px;">
+                                <%_.each(skill.SubSkills, function(subSkill) {%>
+                                <tr>
+                                    <td colspan="4"><b><font color="#0070c0"><%=subSkill.Name%></font></b></td>
+                                </tr>
+                                <%
+                                var subCounter = 0;
+                                _.each(subSkill.Entries, function(entry) {
+                                %>
+                                <%if (subCounter % 2 == 0) {%>                     
+                                <tr>
+                                <%}%>
+                                <%if (subSkill.Entries.length == 1) {%>
+                                    <th colspan="2"><%=entry.Label%></th>
+                                    <td colspan="2"><%=entry.Value%></td>
+                                <%} else {%>
+                                    <th><%=entry.Label%></th>
+                                    <td><%=entry.Value%></td>
+                                <%}%>                          
+                                <%if (subCounter % 2 == 1 || subCounter == entry.length) {%>
+                                </tr>
+                                <%}%>
+                                <%subCounter++;%>
+                                <%});%>
+                                <tr>
+                                    <%if (subSkill.IconImageUrl != null) {%>
+                                    <th><img src="<%=subSkill.IconImageUrl%>" width="100" /></th>                            
+                                    <td colspan="3"><%=subSkill.Desc%></td>
+                                    <%} else {%>
+                                    <td colspan="4"><%=subSkill.Desc%></td>
+                                    <%}%>
+                                </tr>
+                                <%});%>
+                                </table>
+                                <%} else {%>
                                 <%=skill.Desc%>
+                                <%}%>
                             </td>
                         </tr>
-                    </table>
-                    <%} else if (skill.IsStrategySkill) {%>
-                    <table border="0" cellpadding="0" cellspacing="1">
-                        <colgroup>
-                            <col width="22%">
-                            <col width="28%">
-                            <col width="22%">
-                            <col width="*">
-                        </colgroup>
+                        <!-- <%if (skill.SubSkills != null) {%>
+                        <%_.each(skill.SubSkills, function(subSkill) {%>
                         <tr>
-                            <td colspan="4"><b><font color="#0070c0"><%=skill.Name%><%if (skill.Cost != null) {%>(<%=skill.Cost%>)<%}%></font></b></td>
+						    <td colspan="4"><b><font color="#0070c0"><%=subSkill.Name%></font></b></td>
+					    </tr>
+                        <%
+                        var subCounter = 0;
+                        _.each(subSkill.Entries, function(entry) {
+                        %>
+                        <%if (subCounter % 2 == 0) {%>                     
+                        <tr>
+                        <%}%>
+                        <%if (subSkill.Entries.length == 1) {%>
+                            <th colspan="2"><%=entry.Label%></th>
+                            <td colspan="2"><%=entry.Value%></td>
+                        <%} else {%>
+                            <th><%=entry.Label%></th>
+                            <td><%=entry.Value%></td>
+                        <%}%>                          
+                        <%if (subCounter % 2 == 1 || subCounter == entry.length) {%>
                         </tr>
-                        <tr>
-                            <th>유형</th>
-                            <td><%=skill.Type%></td>                            
-                            <th>사거리</th>
-                            <td><%=skill.Distance%></td>                            
-                        </tr>
-                        <tr>
-                            <th><img src="<%=skill.IconImageUrl%>" width="100" /></th>
-                            <td colspan="3">
-                                <%=skill.Desc%>
-                            </td>
-                        </tr>                        
-                    </table>                   
-                    <%} else if (skill.IsSummonSkill) {%>
-                    <table border="0" cellpadding="0" cellspacing="1">
-                        <colgroup>
-                            <col width="22%">
-                            <col width="28%">
-                            <col width="22%">
-                            <col width="*">
-                        </colgroup>
-                        <tr>
-                            <td colspan="4"><b><font color="#0070c0"><%=skill.Name%><%if (skill.Cost != null) {%>(<%=skill.Cost%>)<%}%></font></b></td>
-                        </tr>
-                        <tr>
-                            <th>유형</th>
-                            <td><%=skill.Type%></td>                            
-                            <th>쿨타임</th>
-                            <td><%=skill.CoolTime%></td>
-                        </tr>
-                        <tr>
-                            <th><img src="<%=skill.IconImageUrl%>" width="100" /></th>
-                            <td colspan="3">
-                                <%=skill.Desc%>
-                            </td>
-                        </tr>                        
-                    </table>
-                    <%} else {%>
-                    <table border="0" cellpadding="0" cellspacing="1">
-                        <colgroup>
-                            <col width="22%">
-                            <col width="28%">
-                            <col width="22%">
-                            <col width="*">
-                        </colgroup>
-                        <tr>
-                            <td colspan="4"><b><font color="#0070c0"><%=skill.Name%><%if (skill.Cost != null) {%>(<%=skill.Cost%>)<%}%></font></b></td>
-                        </tr>
-                        <tr>
-                            <th>유형</th>
-                            <td><%=skill.Type%></td>
-                            <th>쿨타임</th>
-                            <td><%=skill.CoolTime%></td>
-                        </tr>
-                        <tr>
-                            <th>사거리</th>
-                            <td><%=skill.Distance%></td>
-                            <th>범위</th>
-                            <td><%=skill.Range%></td>
-                        </tr>
-                        <tr>
-                            <th><img src="<%=skill.IconImageUrl%>" width="100" /></th>
-                            <td colspan="3">
-                                <%=skill.Desc%>
-                            </td>
-                        </tr>
+                        <%}%>
+                        <%subCounter++;%>
+                        <%});%>
+					    <tr>
+                            <%if (subSkill.IconImageUrl != null) {%>
+						    <th><img src="<%=subSkill.IconImageUrl%>" width="100" /></th>                            
+						    <td colspan="3"><%=subSkill.Desc%></td>
+                            <%} else {%>
+                            <td colspan="4"><%=subSkill.Desc%></td>
+                            <%}%>
+					    </tr>
+                        <%});%>
+                        <%}%> -->
                         <%if (skill.Animation != null) {%>
                         <tr>
-                            <td colspan="4"><img src="<%=skill.Animation%>" width="70%"/></td>
+                            <td colspan="4"><img src="<%=skill.Animation%>" width="70%" /></td>
                         </tr>
                         <%}%>
                     </table>
-                    <%}%>
                     <%});%>
                 </section>
             </div>

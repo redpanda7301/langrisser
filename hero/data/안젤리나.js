@@ -398,142 +398,214 @@
   "Skills": [
     {
       "Name": "뇌광",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "고월",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_LonelyMoon.png",
       "Desc": "[패시브]근접 전투 진입 시 영웅이 받는 피해 -20%.<br>행동 종료 시 자신의 병사가 모두 죽었다면 재행동 가능. 3턴 후 재시전 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "파도 타기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_WaterControl.png",
       "Desc": "[지원]사용 후 이동 시 통과하는 모든 지형을 '물 속'으로 취급한다.2턴 지속.<br>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "교체",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Replace.png",
       "Desc": "[지원]액티브 스킬, 아군 한 명을 자신의 위치와 바꾼다.<br>사용 후 2칸 재이동, 공격 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraAtkDown.png",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 모든 적 부대 공격, 지력 -15%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 지휘",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/2.png",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "격돌",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Punch.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "용의 숨결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "2칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "2칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DragonSuper.png",
       "Desc": "[물리 피해]주위 2칸 내 모든 적군에게 0.36배 범위 피해를 입힌다.<br>모든 목표에게 랜덤 디버프를 시전, 전투 후 [바람 타기]시전:<br>생명 50%이상으로 전투 진입 시 받는 피해 -15%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 대지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.png",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "각성스킬",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "3칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super10.png",
       "Desc": "[물리피해] 3칸 직선내 모든 적군에게 0.2배의 범위 피해를 주며, 3칸 후퇴 시킨다.<br>자신이 '수중' 지형일 경우, 20%의 확률으로 적군에게 [빙결]효과 부여, 지속 1회합.<br>스킬이 3명이상의 적군에게 적중할 경우 1회 재행동 가능하다.<br>(재행동 효과는 매 회합마다 1회만 발동)",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1579538475963.gif"
     }
   ],

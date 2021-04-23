@@ -280,100 +280,148 @@
   "Skills": [
     {
       "Name": "철벽수비",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_IronBody.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 2칸으로 늘어나며 치명타 피격확률 -20%,<br>[전력 찌르기]효과 획득: 방어의 1.6배로 공격을 대체, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강인함",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf1.png",
       "Desc": "[패시브]공격을 받아 전투 진입 전 자신 방어 <font color=\"red\">+5%</font>, <font color=\"red\">1턴</font> 지속. 중첩 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "전력 찌르기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_SpearCrash1.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "증원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.png",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "관통",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/43.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br>전투 후, 적 방어 -30%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방패 공격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ShieldStrike.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 피해를 준다.<br>전투 진입 전 적 부대를 1턴 동안 '기절'시킨다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "간파",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Cancel.png",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br>2턴 지속, 치명타 발생 시 반드시 발동.",
+      "SubSkills": null,
       "Animation": null
     }
   ],

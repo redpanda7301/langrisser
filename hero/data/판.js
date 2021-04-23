@@ -331,114 +331,174 @@
   "Skills": [
     {
       "Name": "자유의 검",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Parn2.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배의 피해.<br>전투 진입전 적군에게 '모든 패시브 스킬의 효과를 무효화' 효과 부여, 지속 1행동.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사수",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.png",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "힘의 외침",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/36.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "태양광",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/1.png",
       "Desc": "[패시브]근접 공격으로 전투 진입 시 전투 후 30% 확률로 <br>이번 전투에서 준 피해량 30%의 생명을 회복한다",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "철벽",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefUp.png",
       "Desc": "[패시브]부대 생명 90% 이상일시 방어, 마방 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "신앙의 영광",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Parn1.png",
       "Desc": "[지원]액티브 스킬, 생명력 50% 회복 및 [신앙의 영광] 획득<br>[신앙의 영광] : 전투 진입전 이동한 1칸마다 생명이외 모든 능력치 상승 5%(최대 25%), 지속 1행동. 사용후 재행동 가능.<br>재행동시 이동력은 기술 사용전 사용한 이동력은 제외되며, 직선이동만 가능하다.<br>(기술 사용시 자신의 버프효과의 지속 시간은 감소하지 않는다.)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "격돌",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Punch.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "진형파괴",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash3.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
+      "SubSkills": null,
       "Animation": null
     }
   ],

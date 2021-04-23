@@ -372,142 +372,226 @@
   "Skills": [
     {
       "Name": "제거",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Extend.png",
       "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 생명 회복.<br>회복량은 시전자 지력의 1.5배, 3개 디버프 제거.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강화",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "1턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ATKup.png",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "매스 힐",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "치료",
-      "CoolTime": "1턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/23.png",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 대지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.png",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "전략적 철수",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "5턴",
-      "Distance": "4칸",
-      "Range": "4칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_TacticalEvacuation.png",
       "Desc": "[지원]액티브 스킬, 범위 내 생명이 100% 미만인 아군 부대를 자신의<br>옆으로 이동시켜 시전자 지력의 3배만큼 생명 회복.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "진영 재정비",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "4칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Rally.png",
       "Desc": "[지원]액티브 스킬,행동이 끝나고 병사가 전멸한 아군 부대 1개에게<br>재행동을 부여하고 시전자 지력의 5배만큼 생명 회복.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "배수의 진",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.png",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "광역 강화",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.png",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사수",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/35.png",
       "Desc": "[패시브]전투 진입 시 방어+7%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "대담한 책략",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "지원",
-      "CoolTime": "15턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "15턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super6.png",
       "Desc": "[지원]액티브 스킬, 영웅의 남은 체력 99%를 소모하여, 영웅의 고유기술중 [영웅사망]효과를 발동.<br>동시에 자신을 제외한 모든 아군에게 입히는피해 +15%, 받는피해 -15%, 3턴 지속.",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1579423861368.gif"
     }
   ],

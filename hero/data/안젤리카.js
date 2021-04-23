@@ -374,170 +374,278 @@
   "Skills": [
     {
       "Name": "자유의지",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": true,
       "Cost": "COST 1",
-      "Type": "소환",
-      "CoolTime": "4턴",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "소환"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Angelica1.png",
-      "Desc": "2칸",
+      "Desc": "[소환]액티브 스킬, 대상의 병사를 모두 파괴하고,<br>병사의 속성과 동일한 기계소환수를 자신 주변에 소환한다",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "썬더 미사일",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "6칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "6칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ThundeRay.png",
       "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br>'기병'과 전투 시 더큰 피해를 입힌다. 적군의 방어력 -20%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "윈드 커터",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_WindStrike.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'비병'에게 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "구조 핫라인",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "초절강화",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "맵 전체",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵 전체"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_StarLocation2.png",
       "Desc": "[초절강화] 액티브 스킬. 범위 내 모든 '시공의 중심' 아군의 공격, 방어 능력치가 크게<br>상승하고 4턴 지속. (이 효과는 다른 초절강화 스킬과 중첩불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "프리즈 미사일",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "6칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "6칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_FrostRay.png",
       "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br>'창병'과 전투 시 더큰 피해를 입힌다. 적군의 이동력 -1, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "광역 강화",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.png",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "무기 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.png",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "매스 힐",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "치료",
-      "CoolTime": "1턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/23.png",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "시스템 재구성",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "변환",
-      "CoolTime": "-",
-      "Distance": "-",
-      "Range": "-",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "변환"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "-"
+        },
+        {
+          "Label": "범위",
+          "Value": "-"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Angelica2.png",
       "Desc": "액티브 스킬. 아래 3가지중 하나를 선택하여 사용한다",
+      "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "재구성 - 보병(시스템 재구성에서 선택)",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
+      "Name": "지원",
       "Cost": null,
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Angelica3.png",
       "Desc": "아군  <font color=\"red\">1</font>명 부대 생명 <font color=\"red\">100%</font> 회복 및 모든 디버프 제거, <br>목표는 '갑옷 파괴' 스킬 획득, 지속 <font color=\"red\">2</font>행동 :<br>전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%, <font color=\"red\">1</font>턴 지속.<br><font color=\"red\">영웅</font> 병종을 보병으로 변경, 지속 <font color=\"red\">1</font>행동",
+      "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "재구성 - 창병(시스템 재구성에서 선택)",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
+      "Name": "지원",
       "Cost": null,
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Angelica4.png",
       "Desc": "아군  <font color=\"red\">1</font>명 부대 생명 <font color=\"red\">100%</font> 회복 및 모든 디버프 제거, <br>목표는 '재생' 스킬 획득, 지속 <font color=\"red\">2</font>행동 :<br>전투 후 생명을 <font color=\"red\">10</font>% 회복한다. 2턴지속<br><font color=\"red\">영웅</font> 병종을 창병으로 변경, 지속 <font color=\"red\">1</font>행동",
+      "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "재구성 - 기병(시스템 재구성에서 선택)",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
+      "Name": "지원",
       "Cost": null,
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Angelica5.png",
       "Desc": "아군  <font color=\"red\">1</font>명 부대 생명 <font color=\"red\">100%</font> 회복 및 모든 디버프 제거, <br>목표는 '폭풍' 스킬 획득, 지속 <font color=\"red\">2</font>행동 :<br>공격하여 전투 진입 시 부대 생명이 <font color=\"red\">80</font>% 이상이라면 <br>전투 중 받는 피해량 <font color=\"red\">-30</font>%.<br><font color=\"red\">영웅</font> 병종을 기병으로 변경, 지속 <font color=\"red\">1</font>행동",
+      "SubSkills": null,
       "Animation": null
     }
   ],

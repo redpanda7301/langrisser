@@ -331,128 +331,212 @@
   "Skills": [
     {
       "Name": "빙결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다<br>'창병'에게 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어막 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.png",
       "Desc": "[패시브]전투 진입전 50% 확률로<br>적 마방 -25%, 지속 1행동",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 대지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.png",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "찬란한 제국의 수정",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "초절강화",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "맵전체",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵전체"
+        }
+      ],
       "IconImageUrl": "../img/skills/Rozenciel/1.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '제국의 빛' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br>선공으로 전투 진입시 주는 피해량 +12% 및 <br>피격으로 전투 진입전 적 버프 1개 제거, 4턴 지속.<br>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "빙룡의 숨결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "5칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "5칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_FrostRay2.png",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br>'창병'와 전투 시 더 큰 피해를 입힌다. 적군의 이동력 -1, 2턴 지속",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "수정 치유술",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "치료",
-      "CoolTime": "-",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Rozenciel/2.png",
       "Desc": "[액티브] 단일 개체 지력 3배 수치 치료 및 '수정 치유' 효과 부여 :<br>피격 후 로젠실 지력 1.5배 수치 생명 회복, 지속 2행동",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "집단 수정 치유",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "치료",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Rozenciel/3.png",
       "Desc": "[액티브]범위 내 아군에게 지력 3배 수치 치료 및 '수정 치유' 효과 부여 : <br>피격 후 로젠실 지력 1.5배 수치 생명 회복, 지속 2행동",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "기적",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "3칸",
-      "Range": "4칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_PalCrash.png",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들이 주는 피해량 +15%, 받는 피해량-15%, 2턴 지속.<br>그리고 사용자 지력 3배의 생명을 회복시킨다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "수정 결계",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "변신",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "4칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "변신"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
       "IconImageUrl": "../img/Super/로젠실.png",
       "Desc": "[변신] 대규모 범위 내 다수의 부대 생명을 로젠실 지력 3배 수치로 회복 및 <br>'수정 치유' 효과 획득<br>([수정 치유] : 피격으로 피해를 입은 후 로젠실 지력 1.5배 수치로 생명 회복, 지속 2행동 )<br>사용 후 '수정 결인' 상태 진입 :<br>([수정 결인] :공격 및 스킬 사용 불가, 스스로 이동 및 위치 변경 불가, <br>치유량 +20%, 받는 피해량 -20%, 고유 스킬 지휘 효과 범위 +1, 1회 부활, <br>행동 종료 시 자신의 고유 스킬 범위 안에 있는 다른 아군을<br>로젠실 지력 2배 수치만큼 회복 및 '수정 장벽' 2개 효과 부여, 지속 2행동<br>수정 결인의 효과는 해제 불가 및 면역 불가, 해당 스킬 지속 시간 동안 불굴 효과는 최대 1회 발동)",
+      "SubSkills": null,
       "Animation": "../img/Super/로젠실.gif"
     }
   ],

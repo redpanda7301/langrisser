@@ -660,170 +660,254 @@
   "Skills": [
     {
       "Name": "뇌광",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "군단 정비",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BothBuf1.png",
       "Desc": "[패시브]부대 생명이 90% 이상일 시 공격,방어 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "증원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.png",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "바람의 분노",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/8.png",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br>모든 목표에게 랜덤으로 디버프 시전.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "섬뢰",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_FlySuper.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.6배의 전투 피해를 준다.<br>전투 후 [질풍],[바람타기]효과 획득, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "은폐",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Hide.png",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "그림자 습격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/6.png",
       "Desc": "[물리 피해] 호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "연막",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Ass2.png",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "구급",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "치료",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_PHeal2.png",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "SP : 질주",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/sp/쉐리/1.png",
       "Desc": "[패시브]부대 이동 <font color=\"red\">+2</font>,<br><b>자신이 혼합 부대일 경우 행동 종료 시 부대 생명 <font color=\"red\">30</font>% 회복</b>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "SP : 성스러운 번개",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/sp/쉐리/2.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 주고,<br><b>적을 <font color=\"red\">2</font>칸 밀친다.</b><br><b>전투 후 피해량 <font color=\"red\">20</font>% 수치로 생명 회복 및 적에게 패시브 봉인 부여</b><br>지속 <font color=\"red\">1</font>행동",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "굉음의 일섬",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "2칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "2칸"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super1.png",
       "Desc": "[물리피해] 단일 적군을 공격하여 1.6배의 물리피해를 입힌다.<br>전투후 입힌 피해량의 100% 만큼 생명력을 회복.<br>이 스킬로 적을 처치 시 스킬 쿨타임 -4.<br>처지 하지 못할 경우 적군에게 [기절] 부여, 지속 1회합(제거불가)",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1579538543983.gif"
     }
   ],

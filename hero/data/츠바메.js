@@ -377,142 +377,202 @@
   "Skills": [
     {
       "Name": "그림자 습격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/6.png",
       "Desc": "[물리 피해] 호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "백스탭",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DorsalThorns.png",
       "Desc": "[패시브]공격하여 전투 진입 시 적 부대 생명이 100%일 경우<br>전투 전 영웅 공격 2배의 고정 피해를 1회 입힘.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "연막",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Ass2.png",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "플래쉬",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Tsubame1.png",
       "Desc": "[패시브]부대의 생명이 90%이상일때, 전투진입전 적군보다 기술이 높으면 선제 공격.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "그림자 훔치기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "7칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "7칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Tsubame2.png",
       "Desc": "[액티브]스킬 사거리의 가장 먼곳으로 이동하며,<br>이동경로 상의 모든 적군의 강화효과를 1개씩 훔쳐온다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "다리 저격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.png",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다.<br>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "속보",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Pirotess1.png",
       "Desc": "[지원]사용 후 자신 부대의 '기술'+30%, 2턴지속.<br>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "야전",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/10.png",
       "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraDefDown.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "신속하고 은밀한 살기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "4턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super44.png",
       "Desc": "[물리피해]호위를 무시하고 단일 적 부대를 공격해 1.4배의 피해를 준다.<br>치명률 상승 +20%, 적군을 격파시 전투후 2칸 재이동.<br>행동종료시, 주위 2칸내 적군이 없으면 [은닉]효과:<br>\"적군의 보통공격과 스킬공격의 대상이 되지않는다. 1턴 지속(제거불가,<br>피해를 받거나 입힌후 또는 주위 1칸내 적군이 있을시 효과해제)\"",
+      "SubSkills": null,
       "Animation": "../img/Super/츠바메.gif"
     }
   ],

@@ -377,156 +377,216 @@
   "Skills": [
     {
       "Name": "전력 찌르기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_SpearCrash1.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "수호",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/26.png",
       "Desc": "[패시브]받는 물리 피해량 -5%,<br>근접한 아군 부대가 물리 공격을 받을 시 대신하여 전투에 진입한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.png",
       "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "철벽수비",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_IronBody.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 2칸으로 늘어나며 치명타 피격확률 -20%,<br>[전력 찌르기]효과 획득: 방어의 1.6배로 공격을 대체, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방패벽",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Parry.png",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "배수의 진",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.png",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraAtkDown.png",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 모든 적 부대 공격, 지력 -15%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "전투 함성",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Snarl.png",
       "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br>공격, 방어 -10%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "전력 찌르기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_SpearCrash1.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "관통",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/43.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br>전투 후, 적 방어 -30%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "염룡의 혼",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "액티브",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/발가스.png",
       "Desc": "[패시브]근접한 아군을 대신해 <b>물리 피해</b>를 받는다.<br> 고유 스킬 <font color=\"blue\">불굴</font> 효과 발동 후 [<font color=\"blue\">굳건함</font>] 효과 획득 : <br>[<font color=\"blue\">굳건함</font>]: <b>전장에 아군이 있을 경우</b> 생명 <font color=\"red\">30</font>% 수치로 <font color=\"blue\">부활</font><br><b>단, 부대 최대 생명 <font color=\"red\">-35</font>% 감소</b>(패널티)<br>(<b>해제 불가, 면역 불가, 굳건함의 <font color=\"blue\">불굴</font> 효과는 전장에서 최대 <font color=\"red\">2</font>회 발동</b>)<br>[액티브]호위 범위가 <font color=\"red\">3</font>칸으로 증가, 받는 치명타 확률 <font color=\"red\">-30</font>%, <br>'<font color=\"blue\">치료 불가 면역</font>' 효과 부여, '<font color=\"blue\">전력 찌르기</font>' 효과 획득, <br>지속 <font color=\"red\">3</font>행동, <b>상술된 모든 효과는 제거 불가</b>",
+      "SubSkills": null,
       "Animation": "../img/Super/발가스.gif"
     }
   ],

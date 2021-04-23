@@ -357,128 +357,176 @@
   "Skills": [
     {
       "Name": "제압 사격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash5.png",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.25배 피해를 입힌다.<br>자신이 처해 있는 지형이 방어 지형일 시 전투 전 1회 고정 피해를 입힌다.<br>(피해량은 영웅 공격의 1배).",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사수",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.png",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "자연의 가호",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Nature.png",
       "Desc": "[패시브]'숲','산지','초원'지형에서 근접 피해 감면효과에영향을 받지않으며,<br>근접전투 진입시, 받는피해감소 -20%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "질풍 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br>전투 전 부대의 방어, 마방 +30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "우회",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/11.png",
       "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "전술 지휘",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.png",
       "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.png",
       "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "비취 화살",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash6.png",
       "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br>'비병'에게 더 큰 피해를 준다.<br>전투 진입 전, 자신의 디버프를 최대 <font color=\"red\">3</font>개 제거한다.<br>디버프를 <font color=\"red\">1</font>개 제거할 때마다 주는 피해량<font color=\"red\">+10%</font>.<br>전투 후, 제거한 디버프를 모두 적에게 부여한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "바람을 가르는 비취 화살",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super45.png",
       "Desc": "[물리 피해]단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br>'비병'에게 더 큰 피해를 준다.<br>전투 전 적군의 버프 2개를 디버프로 전환시키며,<br>전환된 디버프 1개당 입히는피해 +20%.<br>전투후, 자신의 지형을 \"숲\"지형으로 간주한다. 1턴 지속.",
+      "SubSkills": null,
       "Animation": "../img/Super/엘라스타.gif"
     }
   ],

@@ -321,128 +321,200 @@
   "Skills": [
     {
       "Name": "슈트룸 런처",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "5칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "5칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Arianrhod1.png",
       "Desc": "[물리피해]1줄 직선상의 모든적에게 0.25배의 물리피해를 입힌다.<br>공격시 기술의 사거리 가장 먼곳으로 이동.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "관통",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/43.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br>전투 후, 적 방어 -30%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "패기",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Empire.png",
       "Desc": "[패시브]근접 공격으로 전투 진입전 상대가 보유한 버프 1개 제거 및<br>상대 부대 방어-20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공정한 대결",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Fair.png",
       "Desc": "[패시브]부대 생명 90% 이상에서 자신의 방어가 적군보다 방어가 높을 경우 선제 공격한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "알트룸 세이버",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "2칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Arianrhod2.png",
       "Desc": "[물리피해]3줄 직선상의 모든적에게 0.35배의 물리피해를 입힌다.<br>동시에 적군을 2칸 후퇴 시킨다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "역경",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Adversity.png",
       "Desc": "[패시브] 부대 생명 <font color=\"red\">70%</font>이하일 때 공격, 방어 <font color=\"red\">+10%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "앙그리아 해머",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "2칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "2칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Arianrhod3.png",
       "Desc": "[물리피해]자신 주위 2칸 범위내 모든 적군에게 0.35배 범위 피해를 준다.<br>동시에 적군에게 \"입히는피해 -20%\", 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "심판",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Trial.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.2배</font>의 피해를 준다.<br>전투 진입 전 자신 부대의 방어, 마방 <font color=\"red\">+30%</font>, <font color=\"red\">2턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "그랜드 크로스",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "6턴",
-      "Distance": "자신",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "6턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Super29.png",
       "Desc": "[물리 피해]자신 주위 2칸 범위내 모든 적군에게 0.44배 범위 피해를 준다.<br>동시에 적군의 버프 3개 제거 및 물리장벽, 마법장벽 획득, 3턴 지속.<br>[물리장벽] : \"버프 보유후 물리피해를 처음 받을때, 받는피해 -90%(3턴내 재발동 불가).\"<br>[마법장벽] : \"버프 보유후 마법피해를 처음 받을때, 받는피해 -90%(3턴내 재발동 불가).\"",
+      "SubSkills": null,
       "Animation": "../img/Super/아리안로드.gif"
     }
   ],

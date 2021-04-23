@@ -618,212 +618,368 @@
   "Skills": [
     {
       "Name": "파이어볼",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Fireball.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'보병'에게 더큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "썬더",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ThunderBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'기병'에게 더큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "텔레포트",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Teleport.png",
       "Desc": "[지원]액티브 스킬, 아군 1부대를 범위 안의 임의 1칸으로 이동시킨다.<b>(텔레포트 범위는 대상을 기준으로 7칸)</b><br>(유저의 부대에게만 쓸 수 있다.)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "썬더스톰",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ThunderCrash.png",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "메테오",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "3칸",
-      "Range": "4칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Metro.png",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br>'보병'에게 더 큰 피해를 준다.<br>적은 다음 행동 종료 시 생명의 20%를 잃는다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "턴언데드",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash2.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "레지스트",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "1턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/25.png",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "망각",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_JamMove.png",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강화",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "1턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ATKup.png",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "SP : 마도 통달",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/sp/헤인/1.png",
       "Desc": "[패시브]<font color=\"blue\">마도의 극의</font>(<b>각성기</b>) 피해 <font color=\"red\">+50</font>%, <br>지력 <font color=\"red\">1</font>배 수치 고정 피해 추가<br>[액티브] 자신 부대에 '<font color=\"blue\">마법 장벽</font>' 부여 : '<b>처음 받는 마법 피해 <font color=\"red\">-30</font>%</b>',<br>지속 <font color=\"red\">3</font>행동,<br>사용 후 <font color=\"red\">2</font>칸 재행동. <br><b>해당 스킬은 버프 지속 시간을 소모하지 않음</b>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "비법 마도서",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "변환",
-      "CoolTime": "1턴",
-      "Distance": "-",
-      "Range": "-",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "변환"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "-"
+        },
+        {
+          "Label": "범위",
+          "Value": "-"
+        }
+      ],
       "IconImageUrl": "../img/skills/sp/헤인/2.png",
       "Desc": "[액티브] 아래 3가지중 하나를 선택하여 사용한다.<br>사거리, 범위는 인게임 실장되면 수정예정",
+      "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "운명",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
-      "Cost": "죽음(COST 화염 4개",
-      "Type": "마법피해",
-      "CoolTime": "-",
-      "Distance": "3칸",
-      "Range": "4칸",
+      "Name": "마법피해",
+      "Cost": null,
+      "Entries": [
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/sp/헤인/3.png",
       "Desc": "[마법피해] 0.38배 범위 피해, <b>보병에게 더 큰 데미지 준다</b><br>명중한 적은 다음 턴 행동 종료 시 지력 <font color=\"red\">1</font>배 수치의 <b>고정 피해</b>를 받음",
+      "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "분노의 번개",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
-      "Cost": "COST 번개 4개",
-      "Type": "마법피해",
-      "CoolTime": "-",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Name": "마법피해",
+      "Cost": null,
+      "Entries": [
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/sp/헤인/4.png",
       "Desc": "[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <b>기병에게 더 큰 데미지 준다</b><br>전투 진입 전 병사 사거리 <font color=\"red\">+1</font>,<br>적 방어 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">2</font>행동",
+      "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "비전 텔레포트",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
-      "Cost": "COST 화염 2개,번개 2개",
-      "Type": "지원",
-      "CoolTime": "-",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Name": "지원",
+      "Cost": null,
+      "Entries": [
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/sp/헤인/5.png",
       "Desc": "<font color=\"red\">1</font>개의 아군 부대를 텔레포트 및 피해 <font color=\"red\">+10</font>%, 지속 <font color=\"red\">1</font>행동. <br><b>(텔레포트 범위는 대상을 기준으로 7칸)</b> <br><b>(유저의 부대에게만 쓸 수 있다.)</b>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마도의 극의",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "2칸",
-      "Range": "2칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "2칸"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super15.png",
       "Desc": "[마법피해] 범위내 모든 적군에게 0.2배의 범위 피해를 입히며,<br>공격 범위내 모든 지형에 [마도폐허]를 부여한다.<br>[마도폐허] : 적군이 해당 위치로 이동할 경우 적군에게 이동력-2, 지속 1회합<br>헤인의 고유기 [지식 전승]의 중첩이 많을 수록 기술의 사거리및 효과범위 증가<br>(최대 사거리 4, 최대범위 4까지 증가 가능.)",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1579360811624.gif"
     }
   ],

@@ -387,142 +387,214 @@
   "Skills": [
     {
       "Name": "진형파괴",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash3.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "재이동",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/13.png",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br>남은 이동력이 있을 경우 공격 후 재이동 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "창진",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_BitterlyHit.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강철 투구",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Helmet.png",
       "Desc": "[패시브] 원거리 공격을 받을 시 <font color=\"#DC143C\">25%</font>확률로 부대가 받는 모든 피해 <font color=\"#DC143C\">-50%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "불굴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_NerverDie.png",
       "Desc": "[패시브]사망 시 부활 및 생명 20%회복. 최대 1회 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "반격",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_CounterAttack.png",
       "Desc": "[패시브]주위 아군을 대신해 물리 공격을 받는다.<br>공격을 받아 전투 진입 시 공격 +12%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "찬란한 전설",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "초절강화",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "맵전체",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵전체"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Crystal.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '전설의 저편' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br>상성관계가 없는 부대와 교전 시 추가 피해 +15%,<br>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "고요",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Static.png",
       "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br>[지휘]주위 2칸 내 모든 아군이 받는 치명타 확률 -30%, 받는 원거리 피해 -15%.<br>[액티브]호위 범위 2칸으로 상승, 지휘 범위 3칸으로 상승. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "태양 베기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/1.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "명경지수",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "액티브",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super9.png",
       "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다. 위치 이동 면역.<br>[지휘]주위 2칸 내 모든 아군이 받는 치명타 확률 -30%, 받는 원거리 피해 -15%, 받는 치료 효과 +15%.<br>[액티브]호위 범위 2칸으로 상승, 지휘 범위 3칸으로 상승,<br>주위 2칸 범위내 모든 적군의 '재이동 불가', 3턴 지속.",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1579538468402.gif"
     }
   ],

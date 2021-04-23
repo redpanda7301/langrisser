@@ -376,142 +376,190 @@
   "Skills": [
     {
       "Name": "냉혈",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Coldblood.png",
       "Desc": "[지원]사용 후 자신 부대 치명타율, 치명타 피해량 <font color=\"red\">+15%</font>, <font color=\"red\">2턴</font> 지속.<br>사용 후 추가로 <font color=\"red\">2칸</font> 이동할 수 있고 다시 공격할 수 있다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "치명",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_CriBuf.png",
       "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "회심의 일격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash5.png",
       "Desc": "단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br>전투 진입 전, <font color=\"red\">1</font>칸 이동할 때마다 기술 <font color=\"red\">+10%</font>. (최대 <font color=\"red\">30%</font> 중첩 가능)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "연막",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Ass2.png",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "기습",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_AurpriseAttack.png",
       "Desc": "[패시브] 자신의 기술이 적의 기술보다 <font color=\"red\">2</font>배 이상 높을 때, 공격 시 호위를 무시한다.<br><font color=\"red\">3</font>배 이상 높을 때, 영웅에게 직접 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "역경",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Adversity.png",
       "Desc": "[패시브] 부대 생명 <font color=\"red\">70%</font>이하일 때 공격, 방어 <font color=\"red\">+10%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "경계",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.png",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "급소 저격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash7.png",
       "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br>적에게 디버프가 부여된 경우, 공격 전에 적의 방어를 <font color=\"red\">20%</font> 무시한다.<br>또한 공격 후, 스킬 쿨타임 <font color=\"red\">-2</font>턴.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraDefDown.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "고독한 습격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/오메가.png",
       "Desc": "[지원] 사용 후 부대 치명타 확률 및 치명타 피해 <font color=\"red\">+15</font>%, <br>영웅 스킬 사거리 <font color=\"red\">+1</font>, 지속 <font color=\"red\">2</font>턴<br>사용 후 <font color=\"blue\">재행동</font> 가능,<br>이동력은 스킬 사용 시점 잔여 이동력 <font color=\"red\">+2</font>,<b>직선으로만 이동 가능</b><br>(해당 스킬로 인한 재행동은 버프 지속 시간을 소모하지 않음)",
+      "SubSkills": null,
       "Animation": "../img/Super/오메가.gif"
     }
   ],

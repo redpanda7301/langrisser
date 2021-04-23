@@ -368,142 +368,214 @@
   "Skills": [
     {
       "Name": "바람의 분노",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/8.png",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br>모든 목표에게 랜덤으로 디버프 시전.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "뇌광",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "바람 타기",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_FlyControl.png",
       "Desc": "[패시브]생명이 50% 이상인 경우 전투 진입시 받는 모든 피해량 -15%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "제국 질풍",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "초절강화",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "맵 전체",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵 전체"
+        }
+      ],
       "IconImageUrl": "../img/skills/SuperBuff_Empire1.png",
       "Desc": "[초절강화] 액티브 스킬. 범위 내 모든 '제국의 빛' 아군의 공격, 방어 능력치가 크게<br>상승하고 4턴 지속. (이 효과는 다른 초절강화 스킬과 중첩불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 위협",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AuraDefDown.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "격돌",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Punch.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 지휘",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/2.png",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "돌진",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightSuper.png",
       "Desc": "[패시브]공격 전 이동거리 1칸마다 공격+5% (최대 +15%).",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "구급",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "치료",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_PHeal2.png",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "용맹한 기사의 강력한 일격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/란스.png",
       "Desc": "[패시브]<b>영웅 직업이 비병이나 기병인 부대와 교전 시 전투 진입 전</b> 부대 생명 <font color=\"red\">20</font>% 회복<br>[물리피해] 단일적군을 공격해 1.5배의 피해를 준다.<br><b>자신이 혼합 부대일 경우 전투 후</b> 『<font color=\"blue\">바람타기</font>』 및 『<font color=\"blue\">이동시 지형 제한을 받지 않음</font>』 효과 획득<br>지속 <font color=\"red\">2</font>턴<br><b>이 스킬로 적군을 격파시</b> 쿨타임 <font color=\"red\">-3</font>턴.",
+      "SubSkills": null,
       "Animation": "../img/Super/란스.gif"
     }
   ],

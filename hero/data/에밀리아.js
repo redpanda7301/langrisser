@@ -376,142 +376,190 @@
   "Skills": [
     {
       "Name": "성스러운 수호",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Emilia1.png",
       "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br>[액티브]호위 범위가 2칸으로 증가, [성스러운 수호]효과를 얻는다:<br>'마방'의 1.6배로 공격을 대신한다. 2칸 원거리공격에 대한 반격가능, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공정한 대결",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Fair.png",
       "Desc": "[패시브]부대 생명 90% 이상에서 자신의 방어가 적군보다 방어가 높을 경우 선제 공격한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "성스러운 방패",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_HolyShield.png",
       "Desc": "[패시브]전투 진입 시 마방 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강철 투구",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Helmet.png",
       "Desc": "[패시브] 원거리 공격을 받을 시 <font color=\"#DC143C\">25%</font>확률로 부대가 받는 모든 피해 <font color=\"#DC143C\">-50%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "무기 파괴",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Emilia2.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.5배 피해를 준다.<br>전투 후, 적에게 '주는 피해량' -20% 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어 대지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.png",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "헌신",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Dedication.png",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "정의",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Emilia3.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 진입 전[성스러운 수호]효과를 획득한다:<br>마방의 1.6배만큼의 수치로 공격을 대체한다,2칸 원거리공격 반격가능. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "마방 지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_MDefBuf.png",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "하늘의 성역",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "액티브",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Super31.png",
       "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br>불굴 효과 발동후 영웅의 생명 100%회복 및 [용장의신력] 획득, 3턴 지속.<br>[용장의신력]: \"부대 체력이 높을수록 받는 물리 피해량이 최대 30% 감소.<br>[지휘]주변 2칸이내 모든 아군이 받는 치명타피해 -30%, 고정피해 -20%.<br>[액티브]호위 범위가 2칸으로 증가,지휘 범위 3칸으로 상승,[고급 성스러운 수호]효과를 얻는다:<br>[고급 성스러운 수호]:'마방'의 1.6배로 공격을 대신한다.<br>2칸 원거리공격에 대한 반격가능, 4턴 지속.(해당 효과는 제거불가)",
+      "SubSkills": null,
       "Animation": "../img/Super/에밀리아.gif"
     }
   ],

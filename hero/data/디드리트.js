@@ -331,128 +331,200 @@
   "Skills": [
     {
       "Name": "윈드 커터",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_WindStrike.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'비병'에게 더 큰 피해를 준다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "복음",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Bless.png",
       "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br>모든 디버프에 면역. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어막 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef2.png",
       "Desc": "[패시브]전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방  <font color=\"red\">-25%</font>, <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "가속 지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_SPDBuf1.png",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 이동력+1 및<br>면역:'이동력 저하','치료 반전', 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "기적의 바다",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "5칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "5칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Deedlit2.png",
       "Desc": "[지원]액티브 스킬,범위 내 모든 아군의 최대 2개 약화효과 제거,<br>시전자의 지력 2배만큼의 생명력 회복, 모든 기술의 쿨타임 -1,<br>'입히는피해 +15%', 2턴 지속",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "바람 베기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Deedlit3.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br>근접병사를 휴대할 경우 병사도 같이 공격한다.<br>전투전 적군의 버프를 1개 제거하며,'공격,지력' -20%, 1턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "배수의 진",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.png",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "엘프의 숨결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Deedlit1.png",
       "Desc": "[마법 피해]단일 적군을 공격하여 1.6배의 피해를 입힌다.<br>근접병사를 휴대할 경우 병사도 같이 공격한다.<br>전투전[엘프의 숲]: [지휘] 주변 2칸 범위내 모든 아군이 통과하는 지형을<br>숲으로 간주하며, 지형에 따른 이동력 감소 효과를 받지 않는다.<br>또한 행동종료시 생명력 30% 회복, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "정령의 춤",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "마법 피해",
-      "CoolTime": "6턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "6턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super47.png",
       "Desc": "[패시브]행동종료시, 인접한 아군 1명에게 모든 디버프 면역 부여, 1턴 지속.<br>[마법 피해]단일 적군을 공격하여 1.6배의 피해를 입힌다.<br>근접병사를 휴대할 경우 병사도 같이 공격한다.<br>전투전 [엘프의 춤]: \"이동시 통과 하는 지형을 숲으로 간주하며, <br>지형에 따른 이동력 감소 효과를 받지 않는다.<br>또한 행동종료시 생명력 30% 회복\", 3턴 지속.<br>전투후 3칸 재이동 가능.<br>(이 기술은 근접 피해감면 효과 영향을 받지않음)",
+      "SubSkills": null,
       "Animation": "../img/Super/디드리트.gif"
     }
   ],

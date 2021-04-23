@@ -331,198 +331,330 @@
   "Skills": [
     {
       "Name": "창병 소환(고유 스킬)",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": true,
       "Cost": null,
-      "Type": "용병 소환",
-      "CoolTime": "2턴",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "용병 소환"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        }
+      ],
       "IconImageUrl": "../img/skills/WhiteSisi/0_1.png",
       "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br>해당 용병은 스킬은 <font color=\"blue\">저지, 창진</font>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "보병 소환(고유 스킬)",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": true,
       "Cost": null,
-      "Type": "용병 소환",
-      "CoolTime": "2턴",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "용병 소환"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        }
+      ],
       "IconImageUrl": "../img/skills/WhiteSisi/0_2.png",
       "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br>해당 용병은 스킬은 <font color=\"blue\">힘의 외침, 공격 지휘</font>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "기병 소환(고유 스킬)",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": true,
       "Cost": null,
-      "Type": "용병 소환",
-      "CoolTime": "2턴",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "용병 소환"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        }
+      ],
       "IconImageUrl": "../img/skills/WhiteSisi/0_3.png",
       "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br>해당 용병은 스킬은 <font color=\"blue\">맹렬한 돌격, 폭풍</font>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "힐",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "치료",
-      "CoolTime": "0턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "0턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/17.png",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "현상금",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "액티브",
-      "CoolTime": "-",
-      "Distance": "맵전체",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "맵전체"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/WhiteSisi/1.png",
       "Desc": "[액티브]적에게 받는 피해 +10% 부여, <b>해제 불가,면역 불가</b><br>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">2</font>개 소모",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "매스 힐",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "치료",
-      "CoolTime": "1턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/23.png",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "경계",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.png",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "격려",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "-",
-      "Distance": "자신",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/WhiteSisi/2.png",
       "Desc": "[액티브]범위 내 부대 생명 회복 (지력 <font color=\"red\">2</font>배), 디버프 <font color=\"red\">1</font>개 제거, 이동력 <font color=\"red\">+1</font>, <br><font color=\"blue\">이동력 저하 면역</font> 효과 부여, 지속 <font color=\"red\">2</font>행동, <br><b>소환수에겐 추가로</b> 주는 피해 <font color=\"red\">+20</font>% 효과 부여, 지속 <font color=\"red\">2</font>행동,<br>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">3</font>개 소모",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "성언",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/19.png",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br>회복량은 사용자 지력의 4배.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "광역 강화",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.png",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "해산",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "-",
-      "Distance": "4칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/WhiteSisi/3.png",
       "Desc": "[액티브]적 <font color=\"red\">1</font>부대의 <b>모든 병사를 바로 해산 시킴.</b>,<br>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">3</font>개 소모. <b>면역 불가</b>",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "상업 전쟁의 모략",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "액티브",
-      "CoolTime": "-",
-      "Distance": "-",
-      "Range": "-",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "-"
+        },
+        {
+          "Label": "범위",
+          "Value": "-"
+        }
+      ],
       "IconImageUrl": "../img/Super/화이트시시_0.png",
       "Desc": "[패시브] 전장에 있는 소환수 사망 시 전쟁 자금 1개 획득 <br>[액티브]하기 스킬중 선택",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "올인(상업 전쟁의 모략에서 선택)",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": null,
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/화이트시시_1.png",
       "Desc": "[액티브] 목표 부대 생명 100% 회복 및 '공격 지력' '방어' +30%, '피해 +10%' 부여, 지속 <font color=\"red\">1</font>행동<br>해당 부대가 <b>이미 행동 종료한 경우</b> <font color=\"blue\">재행동</font><br><b>해당 스킬을 사용 후 <font color=\"blue\">상업 전쟁의 모략</font>은 쿨 2턴으로 조정</b><br>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">5</font>개 소모",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "장기투자(상업 전쟁의 모략에서 선택)",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": null,
-      "Type": "지원",
-      "CoolTime": "-",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/화이트시시_2.png",
       "Desc": "[액티브] 아군 <font color=\"red\">1</font>개 부대 생명 회복 (지력 <font color=\"red\">2</font>배 수치) 및 '<font color=\"blue\">투자</font>' 효과 부여 : <br><b>턴 시작 시</b> 랜덤한 버프 <font color=\"red\">1</font>개 획득, <br><b>격파하는 적 <font color=\"red\">1</font>명 당</b> 화이트 시시가 「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">2</font>개 획득, 지속 <font color=\"red\">3</font>행동, <br>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">1</font>개 소모. <b>해제 불가,면역 불가</b>",
+      "SubSkills": null,
       "Animation": "../img/Super/화이트시시.gif"
     }
   ],

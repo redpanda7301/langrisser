@@ -388,142 +388,226 @@
   "Skills": [
     {
       "Name": "태양 베기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/1.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "저지",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Parry.png",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 30%확률로 발동, 받는 물리 피해량 <font color=\"#DC143C\">-30%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "신의 수호",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_PalGuard.png",
       "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br>[액티브]호위 범위가 2칸으로 증가, 치명타를 받을 확률 -20%, 그리고<br>[신의 수호]효과를 얻는다 : '마방'+'방어'의 1배의 수치로<br>공격을 대신한다. 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "심판",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Trial.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.2배</font>의 피해를 준다.<br>전투 진입 전 자신 부대의 방어, 마방 <font color=\"red\">+30%</font>, <font color=\"red\">2턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "헌신",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Dedication.png",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "명경",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_SwordSpirit.png",
       "Desc": "[패시브]받는 치료 효과 +15%.<br>근접 공격을 받아 전투 진입 시 공격,방어 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "정의의 심판",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "초절강화",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "맵전체",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵전체"
+        }
+      ],
       "IconImageUrl": "../img/skills/SuperBuff_Light1.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br>공격을 받을 시 주는 피해량+20%, 4턴 지속.<br>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "강렬한 태양",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "4턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_SwordSuper.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br>전투 전 [신의 수호]효과를 획득한다:<br>마방+방어의 1배만큼의 수치로 공격을 대체한다. 2턴 지속.<br>전투 후 가한 피해량 50%만큼의 생명을 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "창진",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "액티브",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_BitterlyHit.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "정의의 대결",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "4턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super13.png",
       "Desc": "[패시브] 근접한 아군을 대신해 모든 공격을 받는다.<br>[액티브] 단일 적군 한명을 자신 주위 1칸내 가까운 곳으로 텔레포트 시키며, [고급 신의 수호]획득<br>[고급 신의 수호] : '마방' + '방어'의 1배의 수치로<br>공격을 대체, 호위 범위가 2칸으로 증가, 4회합 지속.(해제불가)<br>이후 목표대상에게 1.2배의 물리피해를 입힌다.<br>전투후 [정의의 대결] 효과 획득.<br>[정의의 대결] : 자신 주위 1칸 범위내 모든 적군의 이동력 -3, 호위불가, 지속 2회합",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1577881419460.gif"
     }
   ],

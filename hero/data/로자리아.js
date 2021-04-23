@@ -372,142 +372,218 @@
   "Skills": [
     {
       "Name": "맹렬한 돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/39.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "폭풍",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.png",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br>전투 중 받는 피해량-30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "기사도",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
-      "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Name": "지원",
+      "Cost": null,
+      "Entries": [
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightSoul.png",
       "Desc": "[지원]액티브 스킬, 자신 부대의 공격+30%, 동시에 [면역],[폭풍],[증원]효과 부여, 2턴 지속.<br>사용 후 추가로 3칸 이동할 수 있고 공격이 가능하다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사수",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.png",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "일기당천",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_Assault.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.7배의 피해를 준다.<br>전투 후 상대의 이동력 -2 및 '호위 불가'부여, 2턴 지속, 이 효과는 제거되지 않는다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "비호",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "수호의 검 (COST 1",
-      "Type": "액티브",
-      "CoolTime": "3턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Rozalia1.png",
       "Desc": "[액티브]사용후, 목표지형에 [비호의 검]:<br>본 지형은 [지휘] 주위 1칸 범위내의 모든 아군의 생명을 제외한 모든 속성 +10%, 3턴 지속.<br>(로자리아가 [신앙] 1개를 보유중이면 지휘 범위 2칸으로 상승,<br>[신앙] 3개를 보유중이면 \"공격하여 전투진입시, 전투후 입힌 피해의 20%만큼의 생명회복\" 지휘 효과추가.)<br>로자리아가 [신앙]을 보유중일시, 사용후 3칸 재이동 및 공격가능.<br>(기술 사용 시 자신이 보유중인 강화상태의 지속턴수가 감소하지않으며,<br>[비호의 검]이외의 다른 영웅의 지형효과로 제거할수 없음.)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "은색의 창",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Rozalia2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 피해를 준다.<br>'마물'에게 더 큰 피해를 준다.<br>근접병사를 휴대할 경우 병사도 같이 공격한다.(본 스킬은 근접 피해감면효과에 영향을 받지 않는다.)<br>[비호의 검] 효과범위에서 공격할 경우 공격후 3칸 재이동 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "성결한 분노",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "2칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "2칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Rozalia3.png",
       "Desc": "[물리 피해] 주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br>동시에 강화버프 2개 제거, [비호의 검] 효과범위에서 공격할 경우 공격후 3칸 재이동 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "진격",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf2.png",
       "Desc": "[패시브]전투 진입 시 공격 <font color=\"red\">+7%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "라스트 저지먼트",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super33.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.6배의 피해를 준다.<br>전투진입전 적군이 위치한 지형에 [비호의 검]부여, 3턴 지속.<br>([비호의 검]: 이 지형은 [지휘] 주위 1칸내 모든 아군의 생명제외 모든 속성+10%)<br>전투 진입전 적군부대의 사거리 -1, 1턴 지속. 제거 불가.<br>자신이 [비호의 검] 효과 범위내에 있을경우, 전투 후 3칸 재이동 가능.<br>로자리아가 [신앙] 1개 보유시 [비호의 검] 지휘 범위 2칸,<br>[신앙] 3개 보유시 [비호의 검] 지휘 효과 추가 \"공격하여 전투진입후, 입힌피해량의 20%만큼 생명 회복.\"",
+      "SubSkills": null,
       "Animation": "../img/Super/로자리아.gif"
     }
   ],

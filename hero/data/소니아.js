@@ -379,142 +379,202 @@
   "Skills": [
     {
       "Name": "강습",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/5.png",
       "Desc": "[지원]액티브 스킬, 공격 +20%, 1턴 지속.<br>사용 후 3칸 추가 이동 및 재공격 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "폭풍",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.png",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br>전투 중 받는 피해량-30%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "돌격",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "혈전",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf3.png",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "진형파괴",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "1칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash3.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "광역 실드",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "2턴",
-      "Distance": "3칸",
-      "Range": "3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.png",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "무기 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.png",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "공격 대지원",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Again.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "야전",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/10.png",
       "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "혼돈의 나선",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "5턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/Skill_Super8.png",
       "Desc": "[물리피해] 단일 적군을 공격하여 1.6배의 피해를 입힌다.근접병사를 휴대할 경우 병사도 같이 공격.<br>적군의 방어가 마방보다 낮을 시, 전투 진입전 지력의 70% 수치 만큼 공격에 추가<br>적군의 방어가 마방보다 높을 시, 전투 진입전 공격의 70% 수치 만큼 지력에 추가하며 마법피해공격<br>동시에 적군에게 [상처 저주] 효과 부여 : 받는 치유량의 20%가 피해로 변환. 지속 2회합<br>적군이 [승병]일 경우 전투진입전 '스킬 사거리-1', 지속 1회합. (해제불가)",
+      "SubSkills": null,
       "Animation": "../img/Super/mmexport1579247236806.gif"
     }
   ],

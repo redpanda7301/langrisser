@@ -347,128 +347,224 @@
   "Skills": [
     {
       "Name": "어둠의 낫",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "시카의 피",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Aka1.png",
       "Desc": "[지원]사용 후 자신의 공격과 지력 중 낮은 능력치를 50%만큼 상승, 3턴 지속.<br>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "사망의 포효",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "늑대혼",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "늑대혼"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Aka3.png",
       "Desc": "[지원]전장에 [늑대혼]이 있을시 사용가능<br>늑대혼을 소멸시키며 늑대혼 주변 3칸 이내 모든 적군에게 0.2배의 물리범위 피해를 입힌다.<br>이후 0.2배의 마법범위 피해도 입힌다. 또한, 약화효과 2개 부여",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "레지스트",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "1턴",
-      "Distance": "3칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/25.png",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "야만성 폭발",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Aka4.png",
       "Desc": "[지원]전장에 [늑대혼]이 있을시 사용가능<br>늑대혼을 소멸시키며, 1개의 아군 부대를 늑대 영혼의 위치로 순간이동,<br>이미 행동종료된 경우일 경우, 재행동 가능(플레이어 유닛에게만 사용가능)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "야성의 힘",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "지원",
-      "CoolTime": "3턴",
-      "Distance": "늑대혼",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "늑대혼"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Aka2.png",
       "Desc": "[지원]전장에 [늑대혼]이 있을시 사용가능<br>늑대혼을 소멸시키며 자신주위 3칸이내 모든 아군에게<br>'이동력+2','공격,지력 +30%' 부여, 2턴 지속",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "철벽",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_DefUp.png",
       "Desc": "[패시브]부대 생명 90% 이상일시 방어, 마방 +10%.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "투창",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Javelin.png",
       "Desc": "[물리 피해]단일 적에게 0.8배 피해를 입힘.<br>공격 전 이동거리 1칸마다 피해 +20%(최대 +60%).<br>전투 후 재이동 +2칸, 근접 병사를 휴대 시 병사도 동시에 공격 가능.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "영혼의 전율",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/Super/아카야.png",
       "Desc": "[물리피해] 단일 적군을 공격하여 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br><b>적의 방어, 마방 <font color=\"red\">20</font>% 무시,</b><br><b>자신의 지력이 공격력 보다 높을 경우 해당 공격은 <font color=\"blue\">마법 피해</font>로 간주</b>.<br>근접병사를 휴대할 경우 병사도 같이 공격.<b>(해당 스킬은 근접전 패널티 무시)</b><br><b><font color=\"blue\">전투 후 재이동</font></b> <font color=\"red\">2</font>칸 및 목표 위치에 <br>'<font color=\"purple\">공포의 토템</font>' 설치:<br>[지형 효과 지휘] <b><font color=\"red\">4</font>칸 범위 내 모든 적</b>의 공격 방어 -10%, <br><b>턴 시작 시 랜덤한 <font color=\"red\">2</font>개의 <font color=\"blue\">디버프</font></b> 부여, <br>지속 <font color=\"red\">2</font>행동",
+      "SubSkills": null,
       "Animation": "../img/Super/아카야.gif"
     }
   ],

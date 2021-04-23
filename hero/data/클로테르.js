@@ -330,128 +330,216 @@
   "Skills": [
     {
       "Name": "염화술",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "1턴",
-      "Distance": "2칸",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Clotaire/1.png",
       "Desc": "[마법 피해]단일 개체 1.5배 피해, 대 보병 특효,<br>근접전 병사 대동 시 병사도 함께 공격, 해당 스킬은 근접전 패널티 무효화.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "방어막 파괴",
-      "IsPassive": true,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "",
-      "CoolTime": "",
-      "Distance": "",
-      "Range": "",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.png",
       "Desc": "[패시브]전투 진입전 50% 확률로<br>적 마방 -25%, 지속 1행동",
+      "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "화염 수정술",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
-      "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Name": "지원",
+      "Cost": null,
+      "Entries": [
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Clotaire/2.png",
       "Desc": "[지원]공격의 15% 수치만큼 지력 증가,지속 4행동, 사용 후 재행동 2칸,<br>스킬 사용 후 해당 행동은 자신에게 걸린 버프 지속 시간이 감소하지 않음.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "작열의 공간",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "자신",
-      "Range": "주위 3칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "주위 3칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Clotaire/3.png",
       "Desc": "[마법피해]주위 3바퀴 범위 내 적에게 0.33 피해. 대 보병 특효 및 적에게 '작열' 효과 부여<br>다음 턴 행동 종료 시 공격자 지력 <font color=\"red\">2</font>배 수치 고정피해, 지속 2행동",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "메테오",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "마법 피해",
-      "CoolTime": "5턴",
-      "Distance": "3칸",
-      "Range": "4칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/Skill_Metro.png",
       "Desc": "[마법피해]범위 내 0.36배 피해. 대 보병 특효. 적에게 다음 턴 행동 종료 시 최대 생명 <font color=\"red\">20%</font> 수치 고정피해 부여.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "불태우기",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 1",
-      "Type": "지원",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "단일",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
       "IconImageUrl": "../img/skills/Clotaire/4.png",
       "Desc": "[지원]지원. 부대에 '불태우기' 효과 부여 : <br>선공으로 피해를 입힌 후 고정피해. 피해 수치는 클로테르 지력 + 공격 1배 수치,지속 4행동. 사용 후 2칸 재행동,   <br>스킬 사용 후 해당 행동은 자신에게 걸린 버프 지속 시간이 감소하지 않음",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "염살참",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "3턴",
-      "Distance": "5칸",
-      "Range": "직선",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "5칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
       "IconImageUrl": "../img/skills/Clotaire/5.png",
       "Desc": "[물리 피해]1줄 직선 상 적에게 0.3배 피해. 대 보병 특효. 적에게 소각 효과 부여 : <br>다음 턴 행동 종료 시 클로테르 공격 + 지력 1배 수치 고정피해. 지속 2행동 (해제 불가)",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "검무",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 2",
-      "Type": "물리 피해",
-      "CoolTime": "2턴",
-      "Distance": "자신",
-      "Range": "1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
       "IconImageUrl": "../img/skills/4.png",
       "Desc": "[물리 피해] 주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.",
+      "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "화염환상",
-      "IsPassive": false,
-      "IsStrategySkill": false,
-      "IsSummonSkill": false,
       "Cost": "COST 3",
-      "Type": "액티브",
-      "CoolTime": "4턴",
-      "Distance": "자신",
-      "Range": "1칸",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
       "IconImageUrl": "../img/Super/클로테르.png",
       "Desc": "[패시브] 한 번의 공격으로 2명 이상의 적에게 피해를 입힐 경우 공격 후 지휘 효과 획득 :<br>주위 3칸 범위 내에 있는 모든 아군이 '파멸의 화염 문장' 효과를 가진 <br>적에게 공격 받아 전투 진입 시 부대 사거리 +1, 지속 2행동<br>[액티브]아래 스킬 중 하나를 선택 사용<br>1)화염 파멸<br>[물리피해] 단일 개체 1.8배 피해, 전투 전 적 버프 5개 제거<br>목표에게 '파멸의 화염 문장'이 있을 경우 해당 공격은 호위 무시 및 '화염 환상'의 쿨을 4행동으로 변경<br>2)화염 파한<br>[마법피해] 3줄 직선 상 적에게 0.36배 피해, 대 보병 특효<br>적에게 받는 고정 피해 +20% 및 '소각' 효과 부여<br>소각 : 다음 행동 종료 시 클로테르의 공격 + 지력 1배 수치의 고정피해, 지속 2행동 및 <br>화염환상의 쿨을 4행동으로 변경, 화염 파한의 모든 효과는 해제 불가",
+      "SubSkills": null,
       "Animation": "../img/Super/클로테르.gif"
     }
   ],
