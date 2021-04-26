@@ -22,9 +22,13 @@
     9
   ],
   "HP": 15,
+  "SPHP": 0,
   "Attk": 35,
+  "SPAttk": 0,
   "Def": 30,
+  "SPDef": 0,
   "MagicDef": 15,
+  "SPMagicDef": 0,
   "HowToGet": "콜라보 이벤트, 6성 희귀도 상승",
   "Fetters": [
     {

@@ -35,16 +35,20 @@
   "Rank": [
     0
   ],
-  "SP": false,
+  "SP": true,
   "Groups": [
     1,
     5,
     8
   ],
-  "HP": 0,
-  "Attk": 0,
-  "Def": 0,
-  "MagicDef": 0,
+  "HP": 10,
+  "SPHP": 15,
+  "Attk": 20,
+  "SPAttk": 30,
+  "Def": 35,
+  "SPDef": 30,
+  "MagicDef": 35,
+  "SPMagicDef": 25,
   "HowToGet": "영웅 소환",
   "Fetters": [
     {

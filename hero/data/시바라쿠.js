@@ -17,9 +17,13 @@
     9
   ],
   "HP": 15,
+  "SPHP": 0,
   "Attk": 40,
+  "SPAttk": 0,
   "Def": 25,
+  "SPDef": 0,
   "MagicDef": 15,
+  "SPMagicDef": 0,
   "HowToGet": "한정 콜라보 이벤트",
   "Fetters": [
     {

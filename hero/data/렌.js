@@ -18,9 +18,13 @@
     9
   ],
   "HP": 25,
+  "SPHP": 0,
   "Attk": 30,
+  "SPAttk": 0,
   "Def": 20,
+  "SPDef": 0,
   "MagicDef": 25,
+  "SPMagicDef": 0,
   "HowToGet": "한정 콜라보 소환",
   "Fetters": [
     {

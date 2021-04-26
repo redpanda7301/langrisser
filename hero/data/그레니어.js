@@ -21,9 +21,13 @@
     1
   ],
   "HP": 20,
+  "SPHP": 0,
   "Attk": 30,
+  "SPAttk": 0,
   "Def": 35,
+  "SPDef": 0,
   "MagicDef": 10,
+  "SPMagicDef": 0,
   "HowToGet": "기본지급",
   "Fetters": [
     {

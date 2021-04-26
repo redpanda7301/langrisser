@@ -18,9 +18,13 @@
     7
   ],
   "HP": 15,
+  "SPHP": 0,
   "Attk": 10,
+  "SPAttk": 0,
   "Def": 35,
+  "SPDef": 0,
   "MagicDef": 35,
+  "SPMagicDef": 0,
   "HowToGet": "메인 시나리오, 시공의균열 보상",
   "Fetters": [
     {

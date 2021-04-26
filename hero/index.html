@@ -106,16 +106,36 @@
                             </td>
                         </tr>
                         <tr>
+                            <%if (SPHP > 0) {%>
+                            <th>생명<br />(SP각성)</th>
+                            <td>+<%=HP%>%<br />(+<%=SPHP%>%)</td>
+                            <%} else {%>
                             <th>생명</th>
                             <td>+<%=HP%>%</td>
+                            <%}%>
+                            <%if (SPAttk > 0) {%>
+                            <th>공격<br />(SP각성)</th>
+                            <td>+<%=Attk%>%<br />(+<%=SPAttk%>%)</td>                                
+                            <%} else {%>
                             <th>공격</th>
                             <td>+<%=Attk%>%</td>
+                            <%}%>                            
                         </tr>
                         <tr>
+                            <%if (SPDef > 0) {%>
+                            <th>방어<br />(SP각성)</th>
+                            <td>+<%=Def%>%<br />(+<%=SPDef%>%)</td>
+                            <%} else {%>
                             <th>방어</th>
-                            <td>+<%=Def%>%</td>
+                            <td>+<%=Def%>%</td>    
+                            <%}%>                            
+                            <%if (SPMagicDef > 0) {%>
+                            <th>마방<br />(SP각성)</th>
+                            <td>+<%=MagicDef%>%<br />(+<%=SPMagicDef%>%)</td>
+                            <%} else {%>
                             <th>마방</th>
                             <td>+<%=MagicDef%>%</td>
+                            <%}%>                            
                         </tr>
                         <tr>
                             <th>획득법</th>

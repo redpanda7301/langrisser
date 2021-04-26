@@ -30,9 +30,13 @@
     7
   ],
   "HP": 30,
-  "Attk": 0,
-  "Def": 0,
-  "MagicDef": 0,
+  "SPHP": 0,
+  "Attk": 40,
+  "SPAttk": 35,
+  "Def": 10,
+  "SPDef": 20,
+  "MagicDef": 20,
+  "SPMagicDef": 15,
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
