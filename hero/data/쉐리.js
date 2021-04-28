@@ -902,11 +902,11 @@
         },
         {
           "Label": "사거리",
-          "Value": "자신"
+          "Value": "단일"
         },
         {
           "Label": "범위",
-          "Value": "2칸"
+          "Value": "1칸"
         }
       ],
       "IconImageUrl": "../img/Super/Skill_Super1.png",
