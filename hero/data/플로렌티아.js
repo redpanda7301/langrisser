@@ -8,6 +8,10 @@
     {
       "ImageUrl": "플로렌티아/2.png",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "플로렌티아/3.png",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "플로렌티아",
@@ -72,7 +76,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "제국의 보물(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "플로렌티아.png",
+    "Ability": "생명, 마방 <font color=\"red\">+5</font>%</br><b>병사가 받는 피해<font color=\"red\">-10</font>%</b></br><b>매 전투 시작 시 혹은 아군 사망 시</b></br><font color=\"scarlet\">모략</font><font color=\"red\">1</font>개 획득"
+  },
   "Soldiers": [
     0,
     4,
@@ -92,6 +101,9 @@
         },
         {
           "ImageUrl": "플로렌티아/2/1.png"
+        },
+		{
+          "ImageUrl": "플로렌티아/3/1.png"
         }
       ],
       "AttkRange": 2,
@@ -121,6 +133,9 @@
         },
         {
           "ImageUrl": "플로렌티아/2/1.png"
+        },
+		{
+          "ImageUrl": "플로렌티아/3/1.png"
         }
       ],
       "AttkRange": 2,

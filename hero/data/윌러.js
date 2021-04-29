@@ -75,7 +75,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "은하수 제독(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "윌러.png",
+    "Ability": "생명 <font color=\"red\">+10</font>%</br><b>영웅의 생명이 <font color=\"red\">50</font>% 이하일 경우</b></br><font color=\"blue\">고정 피해면역</font></br><b>스킬 사용 후 <font color=\"red\">50</font>% 확률로</b></br>해당 스킬 쿨타임<font color=\"red\">-2</font>턴"
+  },
   "Soldiers": [
     0,
     1,

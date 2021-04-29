@@ -16,6 +16,10 @@
     {
       "ImageUrl": "리코리스/3.png",
       "Desc": "형귀뽑기"
+    },
+    {
+      "ImageUrl": "리코리스/4.png",
+      "Desc": "한정판매"
     }
   ],
   "Name": "리코리스",
@@ -111,6 +115,9 @@
         },
         {
           "ImageUrl": "리코리스/3/1.png"
+        },
+        {
+          "ImageUrl": "리코리스/4/1.png"
         }
       ],
       "AttkRange": 2,
@@ -146,6 +153,9 @@
         },
         {
           "ImageUrl": "리코리스/3/2.png"
+        },
+        {
+          "ImageUrl": "리코리스/4/2.png"
         }
       ],
       "AttkRange": 2,
