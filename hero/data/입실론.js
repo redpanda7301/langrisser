@@ -140,7 +140,7 @@
       "MagicDefRate": 66,
       "Skill": 251,
       "SkillRate": 71,
-      "HeartFetterBouns1": "<b>선공으로 전투 진입 시</b><br/> 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "<b>선공으로 전투 진입 시</b><br/> 부대가 받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "<b>마법 공격을 받아 전투 진입시</b><br/> 주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
@@ -172,7 +172,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "마검의 사자 : 공격력+9, 마방",
+      "ClassTitle": "마검의 사자 : 공격력+9, 마방+4",
       "Tiers": [
         {
           "Name": "T1",
@@ -357,7 +357,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Epsilon/1.png",
-      "Desc": "[물리 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.3배</font>의 피해를 준다.<br><b>전투 진입 전 이동 <font color=\"red\">1</font>칸</b> 당 <br/>받는 피해 <font color=\"red\">-5</font>% (최대 <font color=\"red\">-20</font>%)",
+      "Desc": "[물리 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.3배</font>의 피해를 준다.<br><b>(디메리트)전투 진입 전 이동 <font color=\"red\">1</font>칸</b> 당 <br/>주는 피해 <font color=\"red\">-5</font>% (최대 <font color=\"red\">-20</font>%)",
       "SubSkills": null,
       "Animation": null
     },
@@ -463,7 +463,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Epsilon/4.png",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '메테오 스트라이크' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br/><b>전투 진입 전 적에게 피격 치명타 확률, 피격 치명타 피해</b> <font color=\"red\">+12</font>%,<br/>(이효과는 다른 초절강화 스킬과 중첩불가) <br/><b>적 부대 처치 후</b> <font color=\"blue\">반격 피해량</font><font color=\"red\">+25</font>% 효과 획득<br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '메테오 스트라이크' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br/><b>전투 진입 전 적에게 피격 치명타 확률, 피격 치명타 피해</b> <font color=\"red\">+12</font>%, <br/><b>적 부대 처치 후</b> <font color=\"blue\">반격 피해량</font><font color=\"red\">+25</font>% 효과 획득<br/>지속 <font color=\"red\">1</font>턴",
       "SubSkills": null,
       "Animation": null
     },
