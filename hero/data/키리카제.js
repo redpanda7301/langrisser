@@ -554,6 +554,32 @@
       "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다.<br>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
+    },
+	{
+      "Name": "코테츠의 극의",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/Super/키리카제.png",
+      "Desc": "[패시브]<b>전투 진입 전 자신의 기술이 적보다 높을 경우 영웅이 받는 물리 피해</b><font color=\"red\">-30</font>%<br/>[물리 피해] 단일 적 부대를 공격할때<br/>치명타 확률, 치명타 피해<font color=\"red\">+20</font>%, <font color=\"red\">1.6</font>배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/><b>해당 스킬은 근접전 패널티의 영향을 받지 않는다.</b>",
+      "SubSkills": null,
+      "Animation": "../img/Super/키리카제.gif"
     }
   ],
   "Bio": [

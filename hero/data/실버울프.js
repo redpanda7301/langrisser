@@ -552,6 +552,32 @@
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
+    },
+	{
+      "Name": "코테츠의 극의",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/Super/실버울프.png",
+      "Desc": "[물리 피해] <b>단일 적 부대를 공격할때 호위를 무시하고</b> <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>전투 진입 전 자신에게</b> 이동력 <font color=\"red\">+1</font>, 기술 <font color=\"red\">+30</font>%, 받는 피해 <font color=\"red\">-20</font>% 효과를 부여한다.<br/>지속 <font color=\"red\">2</font>턴<br/><b>치명타 발동시</b> 해당 스킬 쿨타임<font color=\"red\">-1</font>",
+      "SubSkills": null,
+      "Animation": "../img/Super/실버울프.gif"
     }
   ],
   "Bio": [
