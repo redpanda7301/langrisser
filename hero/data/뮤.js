@@ -84,7 +84,7 @@
   ],
   "Jobs": [
     {
-      "Name": "대마법사",
+      "Name": "주술사",
       "Icon": "Icon_Occupation_Magician.png",
       "SD": [
         {
@@ -186,79 +186,7 @@
         }
       ]
     },
-    {
-      "ClassTitle": "주술사 : 생명+48, 지력+12",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank2-4",
-            "rank1-5",
-            "rank1-4"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank3-5",
-            "rank3-4",
-            "rank2-4",
-            "rank2-5"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank4-4",
-            "rank4-5",
-            "rank3-5",
-            "rank3-4"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "대마법사 : 생명+90, 마방+10, 지력+25",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank5-5",
-            "rank5-4",
-            "rank4-4",
-            "rank4-5"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank6-7",
-            "rank6-4",
-            "rank5-5",
-            "rank5-4"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank7-6",
-            "rank7-5",
-            "rank6-7",
-            "rank6-4"
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-            "rank8-4",
-            "rank8-9",
-            "rank7-3",
-            "rank7-4"
-          ]
-        }
-      ]
-    },
-    {
+	{
       "ClassTitle": "나무 소통자 : 마방+8, 지력+7",
       "Tiers": [
         {
@@ -326,6 +254,78 @@
             "rank8-4",
             "rank7-5",
             "rank7-6"
+          ]
+        }
+      ]
+    },
+	{
+      "ClassTitle": "대마법사 : 생명+48, 지력+12",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-4",
+            "rank1-5",
+            "rank1-4"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank3-5",
+            "rank3-4",
+            "rank2-4",
+            "rank2-5"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-4",
+            "rank4-5",
+            "rank3-5",
+            "rank3-4"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "주술사 : 생명+90, 마방+10, 지력+25",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank5-5",
+            "rank5-4",
+            "rank4-4",
+            "rank4-5"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank6-7",
+            "rank6-4",
+            "rank5-5",
+            "rank5-4"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank7-6",
+            "rank7-5",
+            "rank6-7",
+            "rank6-4"
+          ]
+        },
+        {
+          "Name": "T4",
+          "Materials": [
+            "rank8-4",
+            "rank8-9",
+            "rank7-3",
+            "rank7-4"
           ]
         }
       ]

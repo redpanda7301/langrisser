@@ -172,29 +172,29 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "마검의 사자 : 지력+9, 기술+4-수정필요-",
+      "ClassTitle": "마검의 사자 : 공격력+9, 마방",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
-            "rank1-2"
+            "rank1-1"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank1-2"
+            "rank1-1"
           ]
         }
       ]
     },
     {
-      "ClassTitle": "검투사 : 지력+12, 기술+5-수정필요-",
+      "ClassTitle": "검투사 : 공격력+12, 기술+5",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
-            "rank2-6",
+            "rank2-1",
             "rank1-2",
             "rank1-1"
           ]
@@ -202,10 +202,82 @@
         {
           "Name": "T2",
           "Materials": [
+            "rank3-6",
+            "rank3-1",
+            "rank2-2",
+            "rank2-1"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-2",
+            "rank4-1",
+            "rank3-6",
+            "rank3-1"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "검투 대장 : 생명+90, 공격+25, 방어+10",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank5-2",
+            "rank5-1",
+            "rank4-3",
+            "rank4-1"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank6-3",
+            "rank6-1",
+            "rank5-2",
+            "rank5-1"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank7-4",
+            "rank7-2",
+            "rank6-3",
+            "rank6-1"
+          ]
+        },
+        {
+          "Name": "T4",
+          "Materials": [
+            "rank8-2",
+            "rank8-1",
+            "rank7-4",
+            "rank7-2"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "마검의 소체 : 생명+48, 공격+12",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-6",
+            "rank1-1",
+            "rank1-4"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
             "rank3-2",
             "rank3-1",
-            "rank2-3",
-            "rank2-6"
+            "rank2-6",
+            "rank2-2"
           ]
         },
         {
@@ -220,86 +292,14 @@
       ]
     },
     {
-      "ClassTitle": "검투 대장 : 생명+90, 지력+15, 기술+10-수정필요-",
+      "ClassTitle": "궁극의 소체 : 생명+90, 공격+25, 방어+10,",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
-            "rank5-4",
-            "rank5-5",
-            "rank4-5",
-            "rank4-4"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank6-8",
-            "rank6-7",
-            "rank5-4",
-            "rank5-5"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank7-5",
-            "rank7-6",
-            "rank6-8",
-            "rank6-7"
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-            "rank8-6",
-            "rank8-4",
-            "rank7-5",
-            "rank7-6"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "마검의 소체 : 마방+8, 기술+5-수정필요-",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank2-1",
-            "rank1-1",
-            "rank1-4"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank3-1",
-            "rank3-4",
-            "rank2-1",
-            "rank2-5"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank4-1",
-            "rank4-5",
-            "rank3-1",
-            "rank3-4"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "궁극의 소체 : 지력+15, 마방+16, 기술+10,",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank5-6",
+            "rank5-2",
             "rank5-1",
-            "rank4-2",
+            "rank4-3",
             "rank4-1"
           ]
         },
@@ -308,26 +308,26 @@
           "Materials": [
             "rank6-2",
             "rank6-1",
-            "rank5-6",
+            "rank5-2",
             "rank5-1"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank7-2",
+            "rank7-3",
             "rank7-1",
-            "rank6-2",
+            "rank6-3",
             "rank6-1"
           ]
         },
         {
           "Name": "T4",
           "Materials": [
+            "rank8-3",
             "rank8-2",
-            "rank8-1",
-            "rank7-2",
-            "rank7-1"
+            "rank7-4",
+            "rank7-3"
           ]
         }
       ]
