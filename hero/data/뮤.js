@@ -84,40 +84,11 @@
   ],
   "Jobs": [
     {
-      "Name": "주술사",
-      "Icon": "Icon_Occupation_Magician.png",
-      "SD": [
-        {
-          "ImageUrl": "뮤/1/1.png"
-        },
-        {
-          "ImageUrl": "뮤/2/1.png"
-        }
-      ],
-      "AttkRange": 2,
-      "Move": 3,
-      "MoveType": "Walk",
-      "HP": 3401,
-      "HPRate": 57,
-      "Attk": 256,
-      "AttkRate": 39,
-      "Int": 554,
-      "IntRate": 92,
-      "Def": 237,
-      "DefRate": 52,
-      "MagicDef": 401,
-      "MagicDefRate": 90,
-      "Skill": 96,
-      "SkillRate": 27,
-      "HeartFetterBouns1": "<b><font color=\"green\">숲</font>,<font color=\"green\">초원</font>에 있을시</b><br/> <b>부대가 받는 마법피해</b> <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b><font color=\"green\">숲</font>,<font color=\"green\">초원</font>에 있을시</b><br/> <b>주는 피해량</b> <font color=\"red\">+10</font>%"
-    },
-    {
       "Name": "나무 현자",
       "Icon": "Icon_Occupation_Monk.png",
       "SD": [
         {
-          "ImageUrl": "뮤/1/2.png"
+          "ImageUrl": "뮤/1/1.png"
         },
         {
           "ImageUrl": "뮤/2/1.png"
@@ -140,6 +111,35 @@
       "SkillRate": 27,
       "HeartFetterBouns1": "<b>부대의 생명이 <font color=\"red\">80</font>% 이상일 때</b><br/>받는 치명타 확률 -10%",
       "HeartFetterBouns2": "치유 효과 <font color=\"red\">+10</font>%"
+    },
+	{
+      "Name": "주술사",
+      "Icon": "Icon_Occupation_Magician.png",
+      "SD": [
+        {
+          "ImageUrl": "뮤/1/2.png"
+        },
+        {
+          "ImageUrl": "뮤/2/1.png"
+        }
+      ],
+      "AttkRange": 2,
+      "Move": 3,
+      "MoveType": "Walk",
+      "HP": 3401,
+      "HPRate": 57,
+      "Attk": 256,
+      "AttkRate": 39,
+      "Int": 554,
+      "IntRate": 92,
+      "Def": 237,
+      "DefRate": 52,
+      "MagicDef": 401,
+      "MagicDefRate": 90,
+      "Skill": 96,
+      "SkillRate": 27,
+      "HeartFetterBouns1": "<b><font color=\"green\">숲</font>,<font color=\"green\">초원</font>에 있을시</b><br/> <b>부대가 받는 마법피해</b> <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b><font color=\"green\">숲</font>,<font color=\"green\">초원</font>에 있을시</b><br/> <b>주는 피해량</b> <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
