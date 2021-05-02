@@ -378,7 +378,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/17172.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17172.png",
       "Desc": "[패시브]치명타율 +15%. 전투 진입 시 치명타가 발생한다면 전투 후<br>적 부대의 모든 패시브 스킬의 효과를 무효화한다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -404,7 +404,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/0.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/0.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -430,7 +430,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/36.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -456,7 +456,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_SwordCrash3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordCrash3.png",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배 피해를 준다. 치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
@@ -470,7 +470,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_CriBuf.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_CriBuf.png",
       "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -484,7 +484,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Ass1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass1.png",
       "Desc": "[패시브]전투 중 치명타가 발생한 경우<br>전투 후 적에게 [고정 피해]를 준다.(피해량은 영웅 공격의 2배)",
       "SubSkills": null,
       "Animation": null
@@ -510,7 +510,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_BladeCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash2.png",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br>치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
@@ -524,7 +524,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_AtkBuf6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.png",
       "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -550,7 +550,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_ArrowCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.png",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다.<br>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -576,10 +576,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/키리카제.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/Super/키리카제.png",
       "Desc": "[패시브]<b>전투 진입 전 자신의 기술이 적보다 높을 경우 영웅이 받는 물리 피해</b><font color=\"red\">-30</font>%<br/>[물리 피해] 단일 적 부대를 공격할때<br/>치명타 확률, 치명타 피해<font color=\"red\">+20</font>%, <font color=\"red\">1.6</font>배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/><b>해당 스킬은 근접전 패널티의 영향을 받지 않는다.</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/키리카제.gif"
+      "Animation": "https://storage.googleapis.com/langmosheet-data/img/Super/키리카제.gif"
     }
   ],
   "Bio": [

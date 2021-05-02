@@ -356,7 +356,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Epsilon/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Epsilon/1.png",
       "Desc": "[물리 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.3배</font>의 피해를 준다.<br><b>(디메리트)전투 진입 전 이동 <font color=\"red\">1</font>칸</b> 당 <br/>주는 피해 <font color=\"red\">-5</font>% (최대 <font color=\"red\">-20</font>%)",
       "SubSkills": null,
       "Animation": null
@@ -382,7 +382,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Thump.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -396,7 +396,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Epsilon/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Epsilon/2.png",
       "Desc": "[패시브]<b>주위 <font color=\"red\">2</font>칸 범위 내 아군이 없고</b>,<br/><b>해당 턴에 피해를 입히지 않고 행동 종료 시</b><br/><font color=\"blue\">그림자 회피</font> 효과 획득 : <br/><b>부대 생명이 <font color=\"red\">100</font>%일 시</b><br/><b>적의 일반 공격 및 단일 스킬 목표로 지정불가</b><br/>지속 <font color=\"red\">1</font>턴, 쿨타임 <font color=\"red\">1</font>턴",
       "SubSkills": null,
       "Animation": null
@@ -422,7 +422,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Epsilon/3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Epsilon/3.png",
       "Desc": "[물리 피해] 단일 부대에게<font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>이동하지 않은 상태에서 전투 진입시</b><br/><b>해당 공격은 <font color=\"blue\">호위 무시</font>하고</b><br/><b>적 부대를 처치 후</b> 재이동 <font color=\"red\">+2</font>칸</b><br/><b><font color = \"blue\">해당 스킬은 근접전 패널티 영향을 받지 않는다</font></b>",
       "SubSkills": null,
       "Animation": null
@@ -436,7 +436,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_SPDBuf1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_SPDBuf1.png",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 이동력+1 및<br>면역:'이동력 저하','치료 반전', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -462,7 +462,7 @@
           "Value": "맵 전체"
         }
       ],
-      "IconImageUrl": "../img/skills/Epsilon/4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Epsilon/4.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '메테오 스트라이크' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br/><b>전투 진입 전 적에게 피격 치명타 확률, 피격 치명타 피해</b> <font color=\"red\">+12</font>%, <br/><b>적 부대 처치 후</b> <font color=\"blue\">반격 피해량</font><font color=\"red\">+25</font>% 효과 획득<br/>지속 <font color=\"red\">1</font>턴",
       "SubSkills": null,
       "Animation": null
@@ -488,7 +488,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -514,10 +514,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/입실론.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/Super/입실론.png",
       "Desc": "[패시브]<b>전장에 있는 부대가 <font color=\"red\">사망</font>할 때마다</b><br/> <font color=\"blue\">도살</font> 효과 획득 및 <font color=\"orange\">흉성의 마검</font> 쿨타임 <font color=\"red\">-1</font>턴,<br/><font color=\"blue\">도살</font> : 공격 <font color=\"red\">+5</font>%(최대 <font color=\"red\">4</font>중첩),<br/> [물리 피해]<b>단일 적 부대를 공격할때 호위를 무시하고</b><br/>치명타 확률<font color=\"red\">+30</font>%, <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>해당 스킬로 적 격파 시</b><br/>'<font color=\"blue\">도살</font>' <font color=\"red\">1</font>스택 획득",
       "SubSkills": null,
-      "Animation": "../img/Super/입실론.gif"
+      "Animation": "https://storage.googleapis.com/langmosheet-data/img/Super/입실론.gif"
     }
   ],
   "Bio": null,
