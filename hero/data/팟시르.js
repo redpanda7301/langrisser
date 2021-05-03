@@ -97,35 +97,6 @@
       "AttkRange": 2,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4034,
-      "HPRate": 65,
-      "Attk": 262,
-      "AttkRate": 33,
-      "Int": 579,
-      "IntRate": 84,
-      "Def": 293,
-      "DefRate": 55,
-      "MagicDef": 354,
-      "MagicDefRate": 93,
-      "Skill": 125,
-      "SkillRate": 40,
-      "HeartFetterBouns1": "공격받아 전투 진입시, 받는물리피해감소 10%",
-      "HeartFetterBouns2": "부대 생명력이 80% 이상일시, 전투진입후 피해증가 10%"
-    },
-    {
-      "Name": "꿈을 쫓는 자",
-      "Icon": "Icon_Occupation_Monster.png",
-      "SD": [
-        {
-          "ImageUrl": "팟시르/1/2.png"
-        },
-        {
-          "ImageUrl": "팟시르/2/1.png"
-        }
-      ],
-      "AttkRange": 2,
-      "Move": 3,
-      "MoveType": "Walk",
       "HP": 3731,
       "HPRate": 60,
       "Attk": 290,
@@ -140,6 +111,35 @@
       "SkillRate": 33,
       "HeartFetterBouns1": "받는 범위피해감소 10%",
       "HeartFetterBouns2": "공격하여 전투 진입시, 피해증가 10%"
+    },
+    {
+      "Name": "꿈을 쫓는 자",
+      "Icon": "Icon_Occupation_Monster.png",
+      "SD": [
+        {
+          "ImageUrl": "팟시르/1/2.png"
+        },
+        {
+          "ImageUrl": "팟시르/2/1.png"
+        }
+      ],
+	  "AttkRange": 2,
+      "Move": 3,
+      "MoveType": "Walk",
+      "HP": 4034,
+      "HPRate": 65,
+      "Attk": 262,
+      "AttkRate": 33,
+      "Int": 579,
+      "IntRate": 84,
+      "Def": 293,
+      "DefRate": 55,
+      "MagicDef": 354,
+      "MagicDefRate": 93,
+      "Skill": 125,
+      "SkillRate": 40,
+	  "HeartFetterBouns1": "공격받아 전투 진입시, 받는물리피해감소 10%",
+      "HeartFetterBouns2": "부대 생명력이 80% 이상일시, 전투진입후 피해증가 10%"
     }
   ],
   "Materials": {
