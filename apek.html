@@ -15,26 +15,25 @@
 		
 		</head>
 	<body>
-		<div id="page-wrapper">
-
-			<!-- Header -->
-				<div id="header-wrapper">
+		<div id="header-wrapper">
 					<div class="container">
 						<div class="row">
 							<div class="col-12">
 
 								<header id="header">
-									<h1><a href="index.html" id="logo">랑그릿사 모바일</a></h1>
+									<h1><a href="index.html" id="logo" >랑그릿사 모바일</a></h1>
 									<nav id="nav">
-										<a href="../hero.html">영웅</a>
-										<a href="../troop.html">용병</a>
+										<a href="hero.html">영웅</a>
+										<a href="https://docs.google.com/spreadsheets/d/1RZFY2N3RU-vctduO_Tg2e4RVoZvJAAveiMgPnW6VTQg/edit?usp=sharing" target="_blank">장비</a>
+										<a href="troop.html">용병</a>
 										<a href="https://docs.google.com/spreadsheets/d/1RdQWMqvq-Da_9fCVR3zo3bMwrcW6PDoKFB5wHWW6Mgk/edit?usp=sharing" target="_blank">배너표</a>
 										<div class="dropdown">
-										  <button onclick="myFunction()" class="dropbtn">비경&이벤트</button>
+										  <button onclick="myFunction()" class="dropbtn">업데이트&비경&이벤트</button>
 										  <div id="myDropdown" class="dropdown-content">
-											<a href="../event1.html">시공</a>
-											<a href="../event2.html">비경</a>
-											<a href="../event.html">이벤트</a>
+											<a href="schedule.html">업데이트표</a>
+											<a href="event1.html">시공</a>
+											<a href="event2.html">비경</a>
+											<a href="event.html">이벤트</a>
 										  </div>
 										</div>
 									</nav>
@@ -45,32 +44,25 @@
 					</div>
 				</div>
 
-			<!-- Main -->
 				<div id="main">
 					<div class="container">
-						<div class="photo_gallery">
-							<p class="photo_img">
-								<img src="https://storage.googleapis.com/langmosheet-data/img/stage/1.png" alt="서밋맵" />
-							</p>
-							<button class="btn_prev">prev</button>
-							<button class="btn_next">next</button>
-							<div class="photo_list">
-								<div class="list_wrap">
-									<ul>
-										<li><a href="https://storage.googleapis.com/langmosheet-data/img/stage/1.png"><img src="https://storage.googleapis.com/langmosheet-data/img/stage/1.png" alt="서밋맵" /></a></li>
-										<li><a href="https://storage.googleapis.com/langmosheet-data/img/stage/2.png"><img src="https://storage.googleapis.com/langmosheet-data/img/stage/2.png" alt="서밋맵" /></a></li>
-										<li><a href="https://storage.googleapis.com/langmosheet-data/img/stage/3.png"><img src="https://storage.googleapis.com/langmosheet-data/img/stage/3.png" alt="서밋맵" /></a></li>
-										<li><a href="https://storage.googleapis.com/langmosheet-data/img/stage/4.png"><img src="https://storage.googleapis.com/langmosheet-data/img/stage/4.png" alt="서밋맵" /></a></li>
-									</ul>
-									<ul>
-										<li><a href="https://storage.googleapis.com/langmosheet-data/img/stage/5.png"><img src="https://storage.googleapis.com/langmosheet-data/img/stage/5.png" alt="서밋맵" /></a></li>
-										<li><a href="https://storage.googleapis.com/langmosheet-data/img/stage/6.png"><img src="https://storage.googleapis.com/langmosheet-data/img/stage/6.png" alt="서밋맵" /></a></li>
-										<li><a href="https://storage.googleapis.com/langmosheet-data/img/stage/7.png"><img src="https://storage.googleapis.com/langmosheet-data/img/stage/7.png" alt="서밋맵" /></a></li>
-										<li><a href="https://storage.googleapis.com/langmosheet-data/img/stage/1.png"><img src="https://storage.googleapis.com/langmosheet-data/img/stage/1.png" alt="서밋맵" /></a></li>
-									</ul>
-								</div>
-							</div>
+						<!--하단에 참조 추가시 asset/js/apek.js 추가할것-->
+						<div>
+						<select id='ddlStageList'>
+							<option value="">- 선택 -</option>
+							<option value="계류비곡" selected>계류비곡</option>
+							<option value="눈덮인벌판">눈덮인벌판</option>
+							<option value="눈물의산길">눈물의산길</option>
+							<option value="분쟁의평원">분쟁의평원</option>
+							<option value="사막의눈">사막의눈</option>
+							<option value="서풍초소">서풍초소</option>
+							<option value="용광동굴">용광동굴</option>
+							<option value="트윈브릿지파도">트윈브릿지파도</option>
+							<option value="파쇄단애">파쇄단애</option>
+							<option value="하늘정원">하늘정원</option>														
+						</select>
 						</div>
+						<img id="imgStage" src="#"  style="padding: 20px;">
 					</div>
 				</div>
 
@@ -95,6 +87,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/apek.js"></script>
 			<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
 		<script type="text/javascript">
 		jQuery(document).ready(function() {

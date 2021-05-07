@@ -642,10 +642,10 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/Super/보젤_1.png",
+      "IconImageUrl": "../img/Super/보젤_1.png",
       "Desc": "[마법 피해]자신 주위 <font color=\"red\">5</font>칸 범위 내 적에게 </br><font color=\"red\">0.33</font>배 피해를 주고 랜덤한 디버프 <font color=\"red\">2</font>개를 부여한다.<br/><b>적에게 피해를 입힌 후 다음에 해당 스킬 시전 시</b><br/> 피해 계수 <font color=\"red\">+0.05</font> 및 랜덤 디버프 부여 <font color=\"red\">1</font>개 추가, 쿨타임 <font color=\"red\">+1</font>,</br>최대 계수 증가 <font color=\"red\">+0.1</font>증가, 추가 랜덤 디버프 갯수 <font color=\"red\">+2</font>, 쿨타임<font color=\"red\">+2</font>",
       "SubSkills": null,
-      "Animation": "https://storage.googleapis.com/langmosheet-data/img/Super/보젤.gif"
+      "Animation": "../img/Super/보젤.gif"
     }
   ],
   "Bio": [

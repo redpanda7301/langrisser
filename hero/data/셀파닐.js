@@ -616,10 +616,10 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/Super/셀파닐.png",
+      "IconImageUrl": "../img/Super/셀파닐.png",
       "Desc": "[마법피해]치명타 확률 <font color=\"red\">+60</font>%,<br>자신 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <font color=\"red\">0.38</font>배 피해 및 버프 <font color=\"red\">2</font>개 제거 <br>대 마물 특효<br>명중한 적이 마물일 경우 기절, 지속 <font color=\"red\">1</font>행동,<br>명중한 적이 <font color=\"red\">3</font>명 이상일 경우 쿨타임 <font color=\"red\">-1</font>, 해당 스킬로 적을 격파했을 경우 추가 쿨타임 <font color=\"red\">-1</font>",
       "SubSkills": null,
-      "Animation": "https://storage.googleapis.com/langmosheet-data/img/Super/셀파닐.gif"
+      "Animation": "../img/Super/셀파닐.gif"
     }
   ],
   "Bio": [
