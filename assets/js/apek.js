@@ -5,72 +5,24 @@
 */
 
 (function($) {
-
-	var $window = $(window),
-		$body = $('body');
-
-	// Breakpoints.
-		breakpoints({
-			xlarge:  [ '1281px',  '1680px' ],
-			large:   [ '981px',   '1280px' ],
-			medium:  [ '737px',   '980px'  ],
-			small:   [ null,      '736px'  ]
-		});
-
-	// Nav.
-
-		// Title Bar.
-			$(
-				'<div id="titleBar">' +
-					'<a href="#navPanel" class="toggle"></a>' +
-					'<span class="title">' + $('#logo').html() + '</span>' +
-				'</div>'
-			)
-				.appendTo($body);
-
-		// Navigation Panel.
-			$(
-				'<div id="navPanel">' +
-					'<nav>' +
-						$('#nav').navList() +
-					'</nav>' +
-				'</div>'
-			)
-				.appendTo($body)
-				.panel({
-					delay: 500,
-					hideOnClick: true,
-					hideOnSwipe: true,
-					resetScroll: true,
-					resetForms: true,
-					side: 'left',
-					target: $body,
-					visibleClass: 'navPanel-visible'
-				});
-
+	
 })(jQuery);
-
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
-function myFunction() {
-  document.getElementById("myDropdown").classList.toggle("show");
-}
-
-// Close the dropdown if the user clicks outside of it
-window.onclick = function(event) {
-  if (!event.target.matches('.dropbtn')) {
-    var dropdowns = document.getElementsByClassName("dropdown-content");
-    var i;
-    for (i = 0; i < dropdowns.length; i++) {
-      var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
-      }
-    }
-  }
-}
 const select = document.querySelector('#ddlStageList');
 const img = document.querySelector('#imgStage');
 select.addEventListener('change', (e) => {
-    img.src = `./img/stage/${e.target.value}.png`
+	img.src = `./img/stage/${e.target.value}.png`
+	var imgStage = document.getElementById("imgStage").style.visibility="visible";
+	var oImgWidth = $(this).width();
+    var oImgHeight = $(this).height();
+	img.style ='max-width:'+oImgWidth+'px', 'max-height:'+oImgHeight+'px','width:100%','height:100%'
+	//$(this).css({
+	//	'max-width':oImgWidth+'px',
+	//	'max-height':oImgHeight+'px',
+	//	'width':'100%',
+	//	'height':'100%'
+	//});
+	//$(window).resize(function(){
+	//
+	//}).resize();
 })
+
