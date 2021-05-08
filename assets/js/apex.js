@@ -15,14 +15,5 @@ select.addEventListener('change', (e) => {
 	var oImgWidth = $(this).width();
     var oImgHeight = $(this).height();
 	img.style ='max-width:'+oImgWidth+'px', 'max-height:'+oImgHeight+'px','width:100%','height:100%'
-	//$(this).css({
-	//	'max-width':oImgWidth+'px',
-	//	'max-height':oImgHeight+'px',
-	//	'width':'100%',
-	//	'height':'100%'
-	//});
-	//$(window).resize(function(){
-	//
-	//}).resize();
 })
 
