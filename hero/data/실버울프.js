@@ -554,7 +554,7 @@
       "Animation": null
     },
 	{
-      "Name": "코테츠의 극의",
+      "Name": "무영풍뢰파",
       "Cost": "COST 3",
       "Entries": [
         {

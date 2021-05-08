@@ -73,7 +73,7 @@
   "SPTalent": null,
   "Equip": null,
   "Soldiers": [
-    31,
+    36,
     60,
     52,
     56,
@@ -589,7 +589,7 @@
           "Name": "<b><font color=\"#0070c0\">신속 모드</font></b>",
           "Entries": null,
           "IconImageUrl": null,
-          "Desc": "[지원][액티브] 호위 범위 자신 부대 이동력 <font color=\"red\">+3</font>칸, <br>전투 진입 전 이동 거리가 <font color=\"red\">4</font>칸 이상일 경우 <b><font color=\"blue\">선공</font></b>"
+          "Desc": "[지원][액티브]자신 부대 이동력 <font color=\"red\">+3</font>칸, <br>전투 진입 전 이동 거리가 <font color=\"red\">4</font>칸 이상일 경우 <b><font color=\"blue\">선공</font></b>"
         },
         {
           "Name": "<b><font color=\"#0070c0\">강습 모드</font></b>",
