@@ -73,7 +73,7 @@
   "SPTalent": null,
   "Equip": null,
   "Soldiers": [
-    36,
+    35,
     60,
     52,
     56,
@@ -583,7 +583,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/베르너.png",
-      "Desc": "[액티브] 이하 스킬 중 <font color=\"red\">1</font>개 선택 및 이동력 <font color=\"red\">+1</font><br>생명을 제외한 모든 스탯 <font color=\"red\">+5</font>% (최대 <font color=\"red\">3</font>중첩, 해제 불가)<br>동시에 <font color=\"red\">1</font>가지 모드만 발동할 수 있으며, 모드 변형은 <b><font color=\"blue\">면역 및 제거 불가</font></b><br>액티브 스킬 사용 시 쿨타임 <font color=\"red\">3</font>턴으로 변경",
+      "Desc": "[액티브] 이하 스킬 중 <font color=\"red\">1</font>개 선택 및 이동력 <font color=\"red\">+1</font><br>생명을 제외한 모든 스탯 <font color=\"red\">+5</font>% (최대 <font color=\"red\">3</font>중첩, 해제 불가)<br>동시에 <font color=\"red\">1</font>가지 모드만 발동할 수 있으며, 모드 변형은 <b><font color=\"blue\">면역 및 제거 불가</font>",
       "SubSkills": [
         {
           "Name": "<b><font color=\"#0070c0\">신속 모드</font></b>",
