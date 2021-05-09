@@ -16,4 +16,3 @@ select.addEventListener('change', (e) => {
     var oImgHeight = $(this).height();
 	img.style ='max-width:'+oImgWidth+'px', 'max-height:'+oImgHeight+'px','width:100%','height:100%'
 })
-

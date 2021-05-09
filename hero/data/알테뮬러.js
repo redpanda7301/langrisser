@@ -148,11 +148,11 @@
         {
           "ImageUrl": "알테뮬러/4/1.png"
         },
-        {
-          "ImageUrl": "알테뮬러/5/1.png"
+	    {
+          "ImageUrl": "알테뮬러/sp/1.png"
         },
         {
-          "ImageUrl": "알테뮬러/sp/1.png"
+          "ImageUrl": "알테뮬러/5/1.png"
         }
       ],
       "AttkRange": 1,
@@ -188,12 +188,12 @@
         },
         {
           "ImageUrl": "알테뮬러/4/2.png"
+        },		
+        {
+          "ImageUrl": "알테뮬러/sp/1.png"
         },
         {
           "ImageUrl": "알테뮬러/5/2.png"
-        },
-        {
-          "ImageUrl": "알테뮬러/sp/2.png"
         }
       ],
       "AttkRange": 1,
@@ -231,10 +231,10 @@
           "ImageUrl": "알테뮬러/4/3.png"
         },
         {
-          "ImageUrl": "알테뮬러/5/3.png"
+          "ImageUrl": "알테뮬러/sp/1.png"
         },
         {
-          "ImageUrl": "알테뮬러/sp/3.png"
+          "ImageUrl": "알테뮬러/5/3.png"
         }
       ],
       "AttkRange": 1,
