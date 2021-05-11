@@ -113,8 +113,8 @@
       "MagicDefRate": 43,
       "Skill": 81,
       "SkillRate": 23,
-      "HeartFetterBouns1": "받는 범위피해 -10%",
-      "HeartFetterBouns2": "공격을 받아 전투 진입시 입히는피해 +10%"
+      "HeartFetterBouns1": "<b>받는 범위피해</b> <font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>공격을 받아 진입시 주는 피해</b> <font color =\"red\">+10</font>%"
     },
     {
       "Name": "가디언 마스터",
@@ -130,20 +130,20 @@
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 1,
-      "HPRate": 0,
-      "Attk": 3,
-      "AttkRate": 0,
-      "Int": 4914,
-      "IntRate": 81,
-      "Def": 465,
-      "DefRate": 71,
-      "MagicDef": 244,
-      "MagicDefRate": 40,
-      "Skill": 390,
-      "SkillRate": 86,
-      "HeartFetterBouns1": "<span class=\"graph_bg\"><em class=\"graph_line bg_mdef\" style=\"width: 59%;\"></em></span><strong class=\"graph_point col_purple\">268</strong>",
-      "HeartFetterBouns2": "<span class=\"graph_bg\"><em class=\"graph_line bg_cri\" style=\"width: 26%;\"></em></span><strong class=\"graph_point col_purple\">94</strong>"
+      "HP": 4914,
+      "HPRate": 81,
+      "Attk": 465,
+      "AttkRate": 71,
+      "Int": 244,
+      "IntRate": 40,
+      "Def": 390,
+      "DefRate": 86,
+      "MagicDef": 268,
+      "MagicDefRate": 59,
+      "Skill": 94,
+      "SkillRate": 26,
+      "HeartFetterBouns1": "<b>공격하여 전투 진입시 <font color =\"blue\">받는</font> 피해</b> <font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>공격하여 전투 진입시 <font color =\"blue\">주는</font> 피해</b> <font color =\"red\">+10</font>%"
     }
   ],
   "Materials": {
