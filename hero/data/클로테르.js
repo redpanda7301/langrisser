@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "지력의 <font color=\"red\">10</font> % 수치만큼 공격력 증가<br> 적에게 피해를 입힌 후 파멸의 화염 문장 부여 <br> 클로테르에게 피해를 받을 시 방어 마방 <font color=\"red\">+10</font> %<br>피격 치명타 확률 <font color=\"red\">-10</font> % 및 부활 효과 무효화 지속 <font color=\"red\">2</font> 행동 <br>  (부활 효과 무효화 효과는 아레나에서만 활성화 광역기 사용시에도 화염 문장 발동)"
-        },
-        {
-          "Desc": "지력의 <font color=\"red\">13</font> % 수치만큼 공격력 증가<br> 적에게 피해를 입힌 후 파멸의 화염 문장 부여 <br> 클로테르에게 피해를 받을 시 방어 마방 <font color=\"red\">+13</font> %<br>피격 치명타 확률 <font color=\"red\">-13</font> % 및 부활 효과 무효화 지속 <font color=\"red\">2</font> 행동 <br>  (부활 효과 무효화 효과는 아레나에서만 활성화 광역기 사용시에도 화염 문장 발동)"
-        },
-        {
-          "Desc": "지력의 <font color=\"red\">16</font> % 수치만큼 공격력 증가<br> 적에게 피해를 입힌 후 파멸의 화염 문장 부여 <br> 클로테르에게 피해를 받을 시 방어 마방 <font color=\"red\">+16</font> %<br>피격 치명타 확률 <font color=\"red\">-16</font> % 및 부활 효과 무효화 지속 <font color=\"red\">2</font> 행동 <br>  (부활 효과 무효화 효과는 아레나에서만 활성화 광역기 사용시에도 화염 문장 발동)"
-        },
-        {
-          "Desc": "지력의 <font color=\"red\">20</font> % 수치만큼 공격력 증가<br> 적에게 피해를 입힌 후 파멸의 화염 문장 부여 <br> 클로테르에게 피해를 받을 시 방어 마방 <font color=\"red\">+20</font> %<br>피격 치명타 확률 <font color=\"red\">+20</font> % 및 부활 효과 무효화 지속 <font color=\"red\">2</font> 행동 <br>  (부활 효과 무효화 효과는 아레나에서만 활성화 광역기 사용시에도 화염 문장 발동)"
+          "Desc": "<b>지력의 <font color=\"red\">10</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 화염 문장</font></b> 부여 <br><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">+10</font> %<br/>피격 치명타 확률 <font color=\"red\">-10</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
+        },                                                                                                                                                                                                                                                                                                                                                                            
+        {                                                                                                                                                                                                                                                                                                                                                                             
+          "Desc": "<b>지력의 <font color=\"red\">13</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 화염 문장</font></b> 부여 <br><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">+13</font> %<br/>피격 치명타 확률 <font color=\"red\">-13</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
+        },                                                                                                                                                                                                                                                                                                                                                                            
+        {                                                                                                                                                                                                                                                                                                                                                                             
+          "Desc": "<b>지력의 <font color=\"red\">16</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 화염 문장</font></b> 부여 <br><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">+16</font> %<br/>피격 치명타 확률 <font color=\"red\">-16</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
+        },                                                                                                                                                                                                                                                                                                                                                                            
+        {                                                                                                                                                                                                                                                                                                                                                                             
+          "Desc": "<b>지력의 <font color=\"red\">20</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 화염 문장</font></b> 부여 <br><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">+20</font> %<br/>피격 치명타 확률 <font color=\"red\">+20</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
         }
       ]
     }
