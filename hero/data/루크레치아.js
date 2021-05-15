@@ -654,7 +654,7 @@
       "Animation": null
     },
     {
-      "Name": "불결한 충격",
+      "Name": "부정한 충격",
       "Cost": "COST 3",
       "Entries": [
         {
