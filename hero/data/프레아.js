@@ -65,19 +65,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "치명타 피격 확률 <font color=\"red\">-10%</font><br> 전투 진입 전 자신의 생명이 <font color=\"red\">100%</font> 이상일 경우 <br>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
+          "Desc": "치명타 피격 확률 <font color=\"red\">-10%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">100%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
         },
         {
-          "Desc": "치명타 피격 확률 <font color=\"red\">-20%</font><br> 전투 진입 전 자신의 생명이 <font color=\"red\">90%</font> 이상일 경우 <br>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
+          "Desc": "치명타 피격 확률 <font color=\"red\">-20%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">90%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
         },
         {
-          "Desc": "치명타 피격 확률 <font color=\"red\">-30%</font><br> 전투 진입 전 자신의 생명이 <font color=\"red\">80%</font> 이상일 경우 <br>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
+          "Desc": "치명타 피격 확률 <font color=\"red\">-30%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">80%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
         },
         {
-          "Desc": "치명타 피격 확률 <font color=\"red\">-40%</font><br> 전투 진입 전 자신의 생명이 <font color=\"red\">70%</font> 이상일 경우 <br>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
+          "Desc": "치명타 피격 확률 <font color=\"red\">-40%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">70%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
         },
         {
-          "Desc": "치명타 피격 확률 <font color=\"red\">-50%</font><br> 전투 진입 전 자신의 생명이 <font color=\"red\">50%</font> 이상일 경우 <br>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
+          "Desc": "치명타 피격 확률 <font color=\"red\">-50%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">50%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
         }
       ]
     }
@@ -91,19 +91,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-5%</font>  받는 치명타확률 <font color=\"red\">-15%</font> <br> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">50%</font>  확률로 <br> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
+          "Desc": "받는 피해 <font color=\"red\">-5%</font>  받는 치명타확률 <font color=\"red\">-15%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">50%</font>  확률로 <br/> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br/> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-7%</font>  받는 치명타확률 <font color=\"red\">-18%</font> <br> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">60%</font>  확률로 <br> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
+          "Desc": "받는 피해 <font color=\"red\">-7%</font>  받는 치명타확률 <font color=\"red\">-18%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">60%</font>  확률로 <br/> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br/> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-9%</font>  받는 치명타확률 <font color=\"red\">-22%</font> <br> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">70%</font>  확률로 <br> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
+          "Desc": "받는 피해 <font color=\"red\">-9%</font>  받는 치명타확률 <font color=\"red\">-22%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">70%</font>  확률로 <br/> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br/> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-12%</font> 받는 치명타확률 <font color=\"red\">-26%</font> <br> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">80%</font>  확률로 <br> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
+          "Desc": "받는 피해 <font color=\"red\">-12%</font> 받는 치명타확률 <font color=\"red\">-26%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">80%</font>  확률로 <br/> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br/> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-15%</font> 받는 치명타확률 <font color=\"red\">-30%</font> <br> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">100%</font> 확률로 <br> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
+          "Desc": "받는 피해 <font color=\"red\">-15%</font> 받는 치명타확률 <font color=\"red\">-30%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">100%</font> 확률로 <br/> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br/> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
         }
       ]
     }
@@ -112,7 +112,7 @@
     "Name": "가시 왕관(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "프레아.png",
-    "Ability": "마방 +10%<br>공격을 받아 전투 진입전 적군에게 고정피해를 입힌다.피해량은 영웅 마방의 2배 데미지"
+    "Ability": "마방 +10%<br/>공격을 받아 전투 진입전 적군에게 고정피해를 입힌다.피해량은 영웅 마방의 2배 데미지"
   },
   "Soldiers": [
     4,
@@ -161,8 +161,8 @@
       "MagicDefRate": 46,
       "Skill": 81,
       "SkillRate": 23,
-      "HeartFetterBouns1": "공격받아 전투 진입시 <br>받는 물리피해 -10%",
-      "HeartFetterBouns2": "공격하여 전투 진입시 <br>병사가 입히는피해 +20%"
+      "HeartFetterBouns1": "공격받아 전투 진입시 <br/>받는 물리피해 -10%",
+      "HeartFetterBouns2": "공격하여 전투 진입시 <br/>병사가 입히는피해 +20%"
     },
     {
       "Name": "장미 여왕",
@@ -199,8 +199,8 @@
       "MagicDefRate": 74,
       "Skill": 92,
       "SkillRate": 26,
-      "HeartFetterBouns1": "부대 생명 80% 초과 시 <br>전투 진입 후 받는 피해 -10%",
-      "HeartFetterBouns2": "부대 생명 80% 초과 시<br>병사 피해 +20%"
+      "HeartFetterBouns1": "부대 생명 80% 초과 시 <br/>전투 진입 후 받는 피해 -10%",
+      "HeartFetterBouns2": "부대 생명 80% 초과 시<br/>병사 피해 +20%"
     },
     {
       "Name": "발키리",
@@ -625,7 +625,7 @@
     {
       "Name": "6단계 미션",
       "Materials": [],
-      "Desc": "프레아를 출전시켜서 영원의 신전 발키리 70 클리어<br>(쉐리 SP 업데이트 후 65레벨 발키리 클리어로 하향조정, 업데이트 당일 클라이언트 데이터 재확인 필요)"
+      "Desc": "프레아를 출전시켜서 영원의 신전 발키리 70 클리어<br/>(쉐리 SP 업데이트 후 65레벨 발키리 클리어로 하향조정, 업데이트 당일 클라이언트 데이터 재확인 필요)"
     },
     {
       "Name": "",
@@ -644,7 +644,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Barb.png",
-      "Desc": "[패시브]근접 공격을 받아 전투 진입시 전투 후 부대 생명이 50%이상이라면 [미늘]을 발동한다:<br>전투 종료 후 적 부대에게 영웅 방어 2.5배만큼의 [고정 피해]를 준다.",
+      "Desc": "[패시브]근접 공격을 받아 전투 진입시 전투 후 부대 생명이 50%이상이라면 [미늘]을 발동한다:<br/>전투 종료 후 적 부대에게 영웅 방어 2.5배만큼의 [고정 피해]를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -658,7 +658,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/26.png",
-      "Desc": "[패시브]받는 물리 피해량 -5%,<br>근접한 아군 부대가 물리 공격을 받을 시 대신하여 전투에 진입한다.",
+      "Desc": "[패시브]받는 물리 피해량 -5%,<br/>근접한 아군 부대가 물리 공격을 받을 시 대신하여 전투에 진입한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -684,7 +684,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BitterlyHit.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br/>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -710,7 +710,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/SuperBuff_Origin1.png",
-      "Desc": "[초절강화] 액티브 스킬. 범위 내 모든 '빛의 기원' 아군의 공격, 방어 능력치가 크게<br>상승하고 4턴 지속. (이 효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬. 범위 내 모든 '빛의 기원' 아군의 공격, 방어 능력치가 크게<br/>상승하고 4턴 지속. (이 효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -764,7 +764,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IronRose.png",
-      "Desc": "[패시브]근접한 아군을 대신해 마법 공격을 받는다.<br>[액티브]호위 범위 2칸으로 상승. 받는 마법 피해-20%,<br>[강철 장미]효과 부여:'마방'의 0.8배로 '방어'대체,<br>전투 종료 후 적에게 영웅 마방의 2.5배 [고정 피해]를 입힌다. 2턴 지속.",
+      "Desc": "[패시브]근접한 아군을 대신해 마법 공격을 받는다.<br/>[액티브]호위 범위 2칸으로 상승. 받는 마법 피해-20%,<br/>[강철 장미]효과 부여:'마방'의 0.8배로 '방어'대체,<br/>전투 종료 후 적에게 영웅 마방의 2.5배 [고정 피해]를 입힌다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -778,7 +778,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Dedication.png",
-      "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
+      "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br/>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -804,12 +804,12 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "SP : 수정가시",
+      "Name": "SP : 수정 가시",
       "Cost": "COST 1",
       "Entries": [
         {
@@ -818,7 +818,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/프레아/1.png",
-      "Desc": "[패시브]피격으로 전투 전투 진입 후 적에게 프레아 방어 + 마방 <font color=\"red\">1</font>배 수치의 고정피해,<br>적이 혼합 부대일 경우 해당 고정 피해는 면역 불가",
+      "Desc": "[패시브]피격으로 전투 전투 진입 후 적에게 프레아 방어 + 마방 <font color=\"red\">1</font>배 수치의 고정피해,<br/><b>적이 혼합 부대일 경우 해당 고정 피해는 <font color=\"red\">면역 불가</font></b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -844,7 +844,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/프레아/2.png",
-      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 호위<br>[액티브]직선 상 적에게 0.1배 물리 피해 및 프레아 방어 + 마방 <font color=\"red\">1</font>배 수치의 고정피해.<br>적이 혼합 부대일 경우 해당 고정 피해는 면역 불가.<br>호위 범위가 2칸으로 확장 및 '장미덩쿨' 효과 부여 :<br>(지속 2행동)",
+      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>[액티브]직선 상 적에게 <font color=\"red\">0.1</font>배 물리 피해 및 프레아 방어 + 마방 <font color=\"red\">1</font>배 수치의 <b>고정피해</b>.<br/><b>적이 혼합 부대일 경우 해당 고정 피해는 <font color=\"red\">면역 불가</font></b>.<br/>호위 범위가 2칸으로 확장 및 '<font color=\"blue\">장미 덩쿨</font>' 효과 부여 :<br/> 전투 후 '<font color=\"blue\">수정 가시</font>의 '<font color=\"blue\">고정 피해</font> 효과가 반드시 발동한다. <br/><font color=\"red\">2</font>턴지속)",
       "SubSkills": null,
       "Animation": null
     }
@@ -852,11 +852,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：164cm / 51kg<br>◆신체 사이즈：85/56/89<br>◆출연：랑그릿사III<br>◆소속：바랄 왕국"
+      "Desc": "◆키/몸무게：164cm / 51kg<br/>◆신체 사이즈：85/56/89<br/>◆출연：랑그릿사III<br/>◆소속：바랄 왕국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "고대 바랄 왕국의 공주이자 바랄 군대의 지휘관. 다른 평범한 공주와는 다르게 프레아는 항상 군대를 이끌고 앞장서 싸우곤 했다. 남성 전사에게도 지지 않는 검술 실력과 완력, 타고난 운동 신경까지 겸비한 노력가.전쟁 중 아버지의 명령으로 어쩔 수 없이 라카스 독립군에 맞서 디하르트와 싸운다.<br><font color=\"#DC143C\"><size=33><i>「왜 또 너야!? 디하르트, 꼭 나와 싸워야겠어!?」</i>  </size=33></font>"
+      "Desc": "고대 바랄 왕국의 공주이자 바랄 군대의 지휘관. 다른 평범한 공주와는 다르게 프레아는 항상 군대를 이끌고 앞장서 싸우곤 했다. 남성 전사에게도 지지 않는 검술 실력과 완력, 타고난 운동 신경까지 겸비한 노력가.전쟁 중 아버지의 명령으로 어쩔 수 없이 라카스 독립군에 맞서 디하르트와 싸운다.<br/><font color=\"#DC143C\"><size=33><i>「왜 또 너야!? 디하르트, 꼭 나와 싸워야겠어!?」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -872,7 +872,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "현대에 소환되어 옛 마족이 부활했다는 소식을 들었지만 이미 벌어진 일은 어쩔 수 없다는 심정이다.<br><font color=\"#DC143C\"><size=33><i>「어둠과 혼란이 대륙을 감싸고 있습니다. 이 모든 것을 막을 수 있다면 목숨도 바칠 수 있어요!」</i>  </size=33></font>"
+      "Desc": "현대에 소환되어 옛 마족이 부활했다는 소식을 들었지만 이미 벌어진 일은 어쩔 수 없다는 심정이다.<br/><font color=\"#DC143C\"><size=33><i>「어둠과 혼란이 대륙을 감싸고 있습니다. 이 모든 것을 막을 수 있다면 목숨도 바칠 수 있어요!」</i>  </size=33></font>"
     }
   ],
   "Performance": [
