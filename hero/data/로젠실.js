@@ -57,16 +57,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "받는 범위 피해 <font color=\"red\">-10%</font><br><b>아군에게 스킬 사용 시 디버프 <font color=\"red\">1</font>개 제거 및 <font color=\"red\">1</font>개의 수정 장벽 효과 부여</b> <br> 수정 장벽 : 디버프 1개 면역 누적 가능 최대 5중첩 해제 불가. <br><b>주위 <font color=\"red\">1</font> 칸 안에 있는 모든 아군이 행동 종료 시</b> <br> 로젠실 지력 <font color=\"red\">1</font> 배 수치 생명 회복 및 수정 장벽 1개 획득"
+          "Desc": "받는 범위 피해 <font color=\"red\">-10%</font><br/><b>아군에게 스킬 사용 시 <font color=\"red\">디버프</font> <font color=\"red\">1</font>개 제거 및 <font color=\"red\">1</font>개의 <font color=\"blue\">수정 장벽</font> 효과 부여:</b> <br/><font color=\"red\">디버프</font> 1개 면역 누적 가능 최대 <font color=\"red\">5</font>중첩 <b>해제 불가</b>. <br/><b>주위 <font color=\"red\">1</font> 칸 안에 있는 모든 아군이 행동 종료 시</b> <br/> 로젠실 지력 <font color=\"red\">1</font> 배 수치 생명 회복 및 <font color=\"blue\">수정 장벽</font> 1개 획득"
         },
         {
-          "Desc": "받는 범위 피해 <font color=\"red\">-15%</font><br><b>아군에게 스킬 사용 시 디버프 <font color=\"red\">1</font>개 제거 및 <font color=\"red\">2</font>개의 수정 장벽 효과 부여</b> <br> 수정 장벽 : 디버프 1개 면역 누적 가능 최대 5중첩 해제 불가. <br><b>주위 <font color=\"red\">2</font> 칸 안에 있는 모든 아군이 행동 종료 시</b> <br> 로젠실 지력 <font color=\"red\">1.5</font> 배 수치 생명 회복 및 수정 장벽 1개 획득"
+          "Desc": "받는 범위 피해 <font color=\"red\">-15%</font><br/><b>아군에게 스킬 사용 시 <font color=\"red\">디버프</font> <font color=\"red\">1</font>개 제거 및 <font color=\"red\">2</font>개의 <font color=\"blue\">수정 장벽</font> 효과 부여:</b> <br/><font color=\"red\">디버프</font> 1개 면역 누적 가능 최대 <font color=\"red\">5</font>중첩 <b>해제 불가</b>. <br/><b>주위 <font color=\"red\">2</font> 칸 안에 있는 모든 아군이 행동 종료 시</b> <br/> 로젠실 지력 <font color=\"red\">1.5</font> 배 수치 생명 회복 및 <font color=\"blue\">수정 장벽</font> 1개 획득"
         },
         {
-          "Desc": "받는 범위 피해 <font color=\"red\">-20%</font><br><b>아군에게 스킬 사용 시 디버프 <font color=\"red\">1</font>개 제거 및 <font color=\"red\">2</font>개의 수정 장벽 효과 부여</b> <br> 수정 장벽 : 디버프 1개 면역 누적 가능 최대 5중첩 해제 불가. <br><b>주위 <font color=\"red\">2</font> 칸 안에 있는 모든 아군이 행동 종료 시</b> <br> 로젠실 지력 <font color=\"red\">2</font> 배 수치 생명 회복 및 수정 장벽 1개 획득"
+          "Desc": "받는 범위 피해 <font color=\"red\">-20%</font><br/><b>아군에게 스킬 사용 시 <font color=\"red\">디버프</font> <font color=\"red\">1</font>개 제거 및 <font color=\"red\">2</font>개의 <font color=\"blue\">수정 장벽</font> 효과 부여:</b> <br/><font color=\"red\">디버프</font> 1개 면역 누적 가능 최대 <font color=\"red\">5</font>중첩 <b>해제 불가</b>. <br/><b>주위 <font color=\"red\">2</font> 칸 안에 있는 모든 아군이 행동 종료 시</b> <br/> 로젠실 지력 <font color=\"red\">2</font> 배 수치 생명 회복 및 <font color=\"blue\">수정 장벽</font> 1개 획득"
         },
         {
-          "Desc": "받는 범위 피해 <font color=\"red\">-25%</font><br><b>아군에게 스킬 사용 시 디버프 <font color=\"red\">1</font>개 제거 및 <font color=\"red\">3</font>개의 수정 장벽 효과 부여</b> <br> 수정 장벽 : 디버프 1개 면역 누적 가능 최대 5중첩 해제 불가. <br><b>주위 <font color=\"red\">3</font> 칸 안에 있는 모든 아군이 행동 종료 시</b> <br> 로젠실 지력 <font color=\"red\">2.5</font> 배 수치 생명 회복 및 수정 장벽 1개 획득"
+          "Desc": "받는 범위 피해 <font color=\"red\">-25%</font><br/><b>아군에게 스킬 사용 시 <font color=\"red\">디버프</font> <font color=\"red\">1</font>개 제거 및 <font color=\"red\">3</font>개의 <font color=\"blue\">수정 장벽</font> 효과 부여:</b> <br/><font color=\"red\">디버프</font> 1개 면역 누적 가능 최대 <font color=\"red\">5</font>중첩 <b>해제 불가</b>. <br/><b>주위 <font color=\"red\">3</font> 칸 안에 있는 모든 아군이 행동 종료 시</b> <br/> 로젠실 지력 <font color=\"red\">2.5</font> 배 수치 생명 회복 및 <font color=\"blue\">수정 장벽</font> 1개 획득"
         }
       ]
     }
@@ -355,7 +355,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다<br>'창병'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -369,7 +369,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.png",
-      "Desc": "[패시브]전투 진입전 50% 확률로<br>적 마방 -25%, 지속 1행동",
+      "Desc": "[패시브]전투 진입전 50% 확률로<br/>적 마방 -25%, 지속 1행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -383,7 +383,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.png",
-      "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -409,7 +409,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Rozenciel/1.png",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '제국의 빛' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br>선공으로 전투 진입시 주는 피해량 +12% 및 <br>피격으로 전투 진입전 적 버프 1개 제거, 4턴 지속.<br>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '제국의 빛' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>선공으로 전투 진입시 주는 피해량 <font color=\"red\">+12</font></b>% 및 <br/><b>피격으로 전투 진입전 적 버프 <font color=\"red\">1</font>개 제거</b>, <font color=\"red\">4</font>턴 지속.<br/>",
       "SubSkills": null,
       "Animation": null
     },
@@ -435,7 +435,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FrostRay2.png",
-      "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br>'창병'와 전투 시 더 큰 피해를 입힌다. 적군의 이동력 -1, 2턴 지속",
+      "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'창병'와 전투 시 더 큰 피해를 입힌다. 적군의 이동력 -1, 2턴 지속",
       "SubSkills": null,
       "Animation": null
     },
@@ -461,7 +461,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Rozenciel/2.png",
-      "Desc": "[액티브] 단일 개체 지력 3배 수치 치료 및 '수정 치유' 효과 부여 :<br>피격 후 로젠실 지력 1.5배 수치 생명 회복, 지속 2행동",
+      "Desc": "[액티브] <b>단일 개체</b> 지력 <font color=\"red\">3</font>배 수치 치료 및 '<font color=\"blue\">수정 치유</font>' 효과 부여 :<br/>피격 후 로젠실 지력 <font color=\"red\">1.5</font>배 수치 생명 회복, 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -487,7 +487,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Rozenciel/3.png",
-      "Desc": "[액티브]범위 내 아군에게 지력 3배 수치 치료 및 '수정 치유' 효과 부여 : <br>피격 후 로젠실 지력 1.5배 수치 생명 회복, 지속 2행동",
+      "Desc": "[액티브]<b>범위 내 아군에게</b> 지력 <font color=\"red\">3</font>배 수치 치료 및 '<font color=\"blue\">수정 치유</font>' 효과 부여 : <br/><b>피격 후</b> 로젠실 지력 <font color=\"red\">1.5</font>배 수치 생명 회복, 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -513,7 +513,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_PalCrash.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들이 주는 피해량 +15%, 받는 피해량-15%, 2턴 지속.<br>그리고 사용자 지력 3배의 생명을 회복시킨다.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들이 주는 피해량 +15%, 받는 피해량-15%, 2턴 지속.<br/>그리고 사용자 지력 3배의 생명을 회복시킨다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -539,7 +539,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/로젠실.png",
-      "Desc": "[변신] 대규모 범위 내 다수의 부대 생명을 로젠실 지력 3배 수치로 회복 및 <br>'수정 치유' 효과 획득<br>([수정 치유] : 피격으로 피해를 입은 후 로젠실 지력 1.5배 수치로 생명 회복, 지속 2행동 )<br>사용 후 '수정 결인' 상태 진입 :<br>([수정 결인] :공격 및 스킬 사용 불가, 스스로 이동 및 위치 변경 불가, <br>치유량 +20%, 받는 피해량 -20%, 고유 스킬 지휘 효과 범위 +1, 1회 부활, <br>행동 종료 시 자신의 고유 스킬 범위 안에 있는 다른 아군을<br>로젠실 지력 2배 수치만큼 회복 및 '수정 장벽' 2개 효과 부여, 지속 2행동<br>수정 결인의 효과는 해제 불가 및 면역 불가, 해당 스킬 지속 시간 동안 불굴 효과는 최대 1회 발동)",
+      "Desc": "[변신]<b>대규모 범위 내 다수의 부대 생명을 로젠실 지력 <font color=\"red\">3</font>배 수치로 회복</b> 및 <br/>'<font color=\"blue\">수정 치유</font>' 효과 획득:<br/><b>피격으로 피해를 입은 후</b> 로젠실 지력 <font color=\"red\">1.5</font>배 수치로 생명 회복, 지속 <font color=\"red\">2</font>행동<br/>사용 후 '<font color=\"blue\">수정 결인</font>' 상태 진입 :<br/><b><font color=\"red\">공격 및 스킬 사용 불가 및 스스로 이동 및 위치 변경 불가</font>(디메리트)</b>, <br/>치유량 <font color=\"red\">+20</font>%, 받는 피해량 <font color=\"red\">-20</font>%, <b><font color=\"purple\">고유 스킬</font> 지휘 효과 범위</b> <font color=\"red\">+1</font>, <font color=\"red\">1</font>회 부활, <br/><b>행동 종료 시 자신의 <font color=\"purple\">고유 스킬</font> 범위 안에 있는 다른 아군을</b><br/>로젠실 지력 <font color=\"red\">2</font>배 수치만큼 회복 및 '<font color=\"blue\">수정 장벽</font>' <font color=\"red\">2</font>개 효과 부여, 지속 <font color=\"red\">2</font>행동<br/>'<font color=\"blue\">수정 결인</font>'의 효과는 <b>해제 불가 및 면역 불가</b>, <br/><b>해당 스킬 지속 시간 동안 <font color=\"blue\">불굴</font> 효과</b>는 최대 <font color=\"red\">1</font>회 발동)",
       "SubSkills": null,
       "Animation": "../img/Super/로젠실.gif"
     }
