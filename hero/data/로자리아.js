@@ -415,9 +415,17 @@
       "Animation": null
     },
     {
-      "Name": "지원",
-      "Cost": null,
+      "Name": "기사도",
+      "Cost": "COST 2",
       "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
         {
           "Label": "사거리",
           "Value": "자신"
