@@ -84,26 +84,26 @@
   ],
   "SPTalent": [
     {
-      "Name": "만개한 장미",
+      "Name": "블루밍 로즈",
       "Icon": "SP_Gift_Freya.png",
       "Abilities": [
         {
           "Desc": "1성"
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-5%</font>  받는 치명타확률 <font color=\"red\">-15%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">50%</font>  확률로 <br/> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br/> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
+          "Desc": "받는 피해 <font color=\"red\">-5%</font>  받는 치명타율 <font color=\"red\">-15%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">50%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-7%</font>  받는 치명타확률 <font color=\"red\">-18%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">60%</font>  확률로 <br/> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br/> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
+          "Desc": "받는 피해 <font color=\"red\">-7%</font>  받는 치명타율 <font color=\"red\">-18%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">60%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-9%</font>  받는 치명타확률 <font color=\"red\">-22%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">70%</font>  확률로 <br/> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br/> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
+          "Desc": "받는 피해 <font color=\"red\">-9%</font>  받는 치명타율 <font color=\"red\">-22%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">70%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-12%</font> 받는 치명타확률 <font color=\"red\">-26%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">80%</font>  확률로 <br/> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br/> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
+          "Desc": "받는 피해 <font color=\"red\">-12%</font> 받는 치명타율 <font color=\"red\">-26%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">80%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-15%</font> 받는 치명타확률 <font color=\"red\">-30%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">100%</font> 확률로 <br/> 프레아의 방어+마방 1배 수치의 고정피해 받음 <br/> 적이 혼합 부대일 경우 해당 피해는 면역 불가."
+          "Desc": "받는 피해 <font color=\"red\">-15%</font> 받는 치명타율 <font color=\"red\">-30%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">100%</font> 확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         }
       ]
     }
