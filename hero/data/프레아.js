@@ -91,19 +91,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-5%</font>  받는 치명타율 <font color=\"red\">-15%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">50%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
+          "Desc": "받는 피해 <font color=\"red\">-5%</font>  받는 치명타율 <font color=\"red\">-15%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">50%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-7%</font>  받는 치명타율 <font color=\"red\">-18%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">60%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
+          "Desc": "받는 피해 <font color=\"red\">-7%</font>  받는 치명타율 <font color=\"red\">-18%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">60%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-9%</font>  받는 치명타율 <font color=\"red\">-22%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">70%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
+          "Desc": "받는 피해 <font color=\"red\">-9%</font>  받는 치명타율 <font color=\"red\">-22%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">70%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-12%</font> 받는 치명타율 <font color=\"red\">-26%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">80%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
+          "Desc": "받는 피해 <font color=\"red\">-12%</font> 받는 치명타율 <font color=\"red\">-26%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">80%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-15%</font> 받는 치명타율 <font color=\"red\">-30%</font> <br/> 주위 2칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">100%</font> 확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
+          "Desc": "받는 피해 <font color=\"red\">-15%</font> 받는 치명타율 <font color=\"red\">-30%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">100%</font> 확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         }
       ]
     }
@@ -112,7 +112,7 @@
     "Name": "가시 왕관(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "프레아.png",
-    "Ability": "마방 +10%<br/>공격을 받아 전투 진입전 적군에게 고정피해를 입힌다.피해량은 영웅 마방의 2배 데미지"
+    "Ability": "마방 +10%<br/><b>공격을 받아 전투 진입 전 적군에게 고정피해를 입힌다.</b><br/>피해량은 영웅 마방의 <font color=\"red\">2</font>배 데미지"
   },
   "Soldiers": [
     4,
@@ -161,11 +161,11 @@
       "MagicDefRate": 46,
       "Skill": 81,
       "SkillRate": 23,
-      "HeartFetterBouns1": "공격받아 전투 진입시 <br/>받는 물리피해 -10%",
-      "HeartFetterBouns2": "공격하여 전투 진입시 <br/>병사가 입히는피해 +20%"
+      "HeartFetterBouns1": "공격받아 전투 진입시 <br/>받는 물리피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "공격하여 전투 진입시 <br/>병사가 입히는피해 <font color=\"red\">+20</font>%"
     },
     {
-      "Name": "장미 여왕",
+      "Name": "장미의 여왕",
       "Icon": "Icon_Occupation_MonkSP.png",
       "SD": [
         {
@@ -199,8 +199,8 @@
       "MagicDefRate": 74,
       "Skill": 92,
       "SkillRate": 26,
-      "HeartFetterBouns1": "부대 생명 80% 초과 시 <br/>전투 진입 후 받는 피해 -10%",
-      "HeartFetterBouns2": "부대 생명 80% 초과 시<br/>병사 피해 +20%"
+      "HeartFetterBouns1": "부대 생명 80% 초과 시 <br/>전투 진입 후 받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명 80% 초과 시<br/>병사 피해 <font color=\"red\">+20</font>%"
     },
     {
       "Name": "발키리",
@@ -237,8 +237,8 @@
       "MagicDefRate": 70,
       "Skill": 94,
       "SkillRate": 26,
-      "HeartFetterBouns1": "공격받을시 받는 마법피해 -10%",
-      "HeartFetterBouns2": "공격을 받을시 병사가 입히는피해 +20%"
+      "HeartFetterBouns1": "공격받을시 받는 마법피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "공격을 받을시 병사가 입히는피해 <font color=\"red\">+20</font>%"
     }
   ],
   "Materials": {
@@ -548,7 +548,7 @@
     {
       "Name": "",
       "Materials": [],
-      "Desc": "장미 여왕 전직 가능, 만개한 장미(고유스킬)스킬 획득, SP 일러스트 획득"
+      "Desc": "장미의 여왕 전직 가능, 만개한 장미(고유스킬)스킬 획득, SP 일러스트 획득"
     },
     {
       "Name": "4단계 재료",
@@ -630,7 +630,7 @@
     {
       "Name": "",
       "Materials": [],
-      "Desc": "SP 스탯, SP 스킬 2개 활성화, 퍼니셔 고용가능"
+      "Desc": "SP 스탯, SP 스킬 2개 활성화, 속죄자 고용가능"
     }
   ],
   "Skills": [
