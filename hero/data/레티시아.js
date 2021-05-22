@@ -53,19 +53,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+5%</font>.<br> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">1개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+5%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">1개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+7%</font>.<br> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">2개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+7%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">2개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+9%</font>.<br> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">3개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+9%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">3개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+12%</font>.<br> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 임의의 <font color=\"red\">3개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+12%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 임의의 <font color=\"red\">3개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+15%</font>.<br> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 임의의 <font color=\"red\">4개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+15%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 임의의 <font color=\"red\">4개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
         }
       ]
     }
@@ -314,7 +314,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br/>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -328,7 +328,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/13.png",
-      "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br>남은 이동력이 있을 경우 공격 후 재이동 가능.",
+      "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -354,7 +354,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash2.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br>전투 전 부대의 방어, 마방 +30%.",
+      "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -394,7 +394,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/15.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 모든 아군의 이동력 +1.<br>공격, 지력 +20% 및 면역: '이동력 감소', '패시브 무효화', 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 모든 아군의 이동력 +1.<br/>공격, 지력 +20% 및 면역: '이동력 감소', '패시브 무효화', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -422,7 +422,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.png",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     }
@@ -430,11 +430,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：168cm / 52kg<br>◆신체 사이즈：88/58/87<br>◆출연：랑그릿사I<br>◆소속：다르시스 제국"
+      "Desc": "◆키/몸무게：168cm / 52kg<br/>◆신체 사이즈：88/58/87<br/>◆출연：랑그릿사I<br/>◆소속：다르시스 제국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "란스를 따라 출정한 여군관이며 자신이 따르는 제국이 정의롭다 믿는 전형적인 제국의 군인. 언제나 노력하는 것처럼 보이지만 사실 그것보다 란스의 관심을 갈망하고 있다.<br><font color=\"#DC143C\"><size=33><i>「아니에요! 대체 누가 그렇게 말한 거예요. 어서 나오세요!」</i>  </size=33></font>"
+      "Desc": "란스를 따라 출정한 여군관이며 자신이 따르는 제국이 정의롭다 믿는 전형적인 제국의 군인. 언제나 노력하는 것처럼 보이지만 사실 그것보다 란스의 관심을 갈망하고 있다.<br/><font color=\"#DC143C\"><size=33><i>「아니에요! 대체 누가 그렇게 말한 거예요. 어서 나오세요!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -450,7 +450,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "자신이 현세에 소환된 것에 놀라면서도 이렇게 된 이상 란스와의 관계를 발전시키고 싶다고 생각하며 그의 뒤를 쫓는다. <br><font color=\"#DC143C\"><size=33><i>「란스님, 기다려 주세요!」</i>  </size=33></font>"
+      "Desc": "자신이 현세에 소환된 것에 놀라면서도 이렇게 된 이상 란스와의 관계를 발전시키고 싶다고 생각하며 그의 뒤를 쫓는다. <br/><font color=\"#DC143C\"><size=33><i>「란스님, 기다려 주세요!」</i>  </size=33></font>"
     }
   ],
   "Performance": [

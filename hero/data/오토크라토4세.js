@@ -138,8 +138,8 @@
       "MagicDefRate": 43,
       "Skill": 143,
       "SkillRate": 38,
-      "HeartFetterBouns1": "<b>공격 전 이동 1칸당</b> 부대 받는 피해 <font color=\"red\">-3</font>%<br>(최대 <font color=\"red\">15</font>%)",
-      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입시 </b> <br>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>공격 전 이동 1칸당</b> 부대 받는 피해 <font color=\"red\">-3</font>%<br/>(최대 <font color=\"red\">15</font>%)",
+      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입시 </b> <br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -386,7 +386,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordDance.png",
-      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -400,7 +400,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Autokrato/1.png",
-      "Desc": "[패시브]선공으로 피해를 입힌 후 적에게 도발 효과 부여 :<br>이동하지 않은 채로 행동 종료 시 공격 3배 수치 고정피해, <br>이동 <font color=\"red\">1</font>칸당 고정 피해 계수 <font color=\"red\">-0.5</font>, 지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>.",
+      "Desc": "[패시브]선공으로 피해를 입힌 후 적에게 도발 효과 부여 :<br/>이동하지 않은 채로 행동 종료 시 공격 3배 수치 고정피해, <br/>이동 <font color=\"red\">1</font>칸당 고정 피해 계수 <font color=\"red\">-0.5</font>, 지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -426,7 +426,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ShieldStrike.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 피해를 준다.<br>전투 진입 전 적 부대를 1턴 동안 '기절'시킨다.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 피해를 준다.<br/>전투 진입 전 적 부대를 1턴 동안 '기절'시킨다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -440,7 +440,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Parry.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>공격을 받을 시 공격의 7%를 방어에 추가한다.",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격의 7%를 방어에 추가한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -466,7 +466,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Autokrato/2.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br><b>해당 공격으로 호위 받지 않는 적 공격 시 전투 후</b> <br><font color=\"blue\">텔레포트</font> 효과 발동 : <br><b>적을 직선 방향 뒤쪽으로</b> <font color=\"blue\">텔레포트</font> 최대 <font color=\"red\">3</font>칸",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/><b>해당 공격으로 호위 받지 않는 적 공격 시 전투 후</b> <br/><font color=\"blue\">텔레포트</font> 효과 발동 : <br/><b>적을 직선 방향 뒤쪽으로</b> <font color=\"blue\">텔레포트</font> 최대 <font color=\"red\">3</font>칸",
       "SubSkills": null,
       "Animation": null
     },
@@ -480,7 +480,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Empire.png",
-      "Desc": "[패시브]근접 공격으로 전투 진입전 상대가 보유한 버프 1개 제거 및<br>상대 부대 방어-20%, 1턴 지속.",
+      "Desc": "[패시브]근접 공격으로 전투 진입전 상대가 보유한 버프 1개 제거 및<br/>상대 부대 방어-20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -506,7 +506,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Autokrato/3.png",
-      "Desc": "[물리피해]직선 범위에 있는 단일 적 부대에게 <font color=\"red\">1.5</font>배 피해,<br><b>전투 후</b> 최대 <font color=\"red\">3</font>개 버프 강탈 및 목표를 <font color=\"red\">3</font>칸 밀침",
+      "Desc": "[물리피해]직선 범위에 있는 단일 적 부대에게 <font color=\"red\">1.5</font>배 피해,<br/><b>전투 후</b> 최대 <font color=\"red\">3</font>개 버프 강탈 및 목표를 <font color=\"red\">3</font>칸 밀침",
       "SubSkills": null,
       "Animation": null
     },
@@ -546,7 +546,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IronHand.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br>[응수]효과 획득, 2턴 지속.",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br/>[응수]효과 획득, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -572,7 +572,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/오토크라토4세.png",
-      "Desc": "[물리피해] <font color=\"red\">3</font>개의 라인에 있는 모든 적군을 공격하여 <font color=\"red\">0.36</font>배 범위 피해를 입힌다.<br><b>명중한 적의 위치를 랜덤하게 이동시키고 직선으로만 이동할 수 있게 만든다</b>, <br>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b> <br><b>해당 공격으로 <font color=\"red\">3</font>명 이상 적을 명중 시</b> 스킬 쿨타임 <font color=\"red\">-3</font>",
+      "Desc": "[물리피해] <font color=\"red\">3</font>개의 라인에 있는 모든 적군을 공격하여 <font color=\"red\">0.36</font>배 범위 피해를 입힌다.<br/><b>명중한 적의 위치를 랜덤하게 이동시키고 직선으로만 이동할 수 있게 만든다</b>, <br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b> <br/><b>해당 공격으로 <font color=\"red\">3</font>명 이상 적을 명중 시</b> 스킬 쿨타임 <font color=\"red\">-3</font>",
       "SubSkills": null,
       "Animation": "../img/Super/오토크라토4세.gif"
     }

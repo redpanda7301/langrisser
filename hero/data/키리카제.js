@@ -53,19 +53,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "치명타율 +5%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">15%</font>만큼 회복.<br> 동시에 <font color=\"red\">50%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
+          "Desc": "치명타율 +5%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">15%</font>만큼 회복.<br/> 동시에 <font color=\"red\">50%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
         },
         {
-          "Desc": "치명타율 +7%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">15%</font>만큼 회복.<br> 동시에 <font color=\"red\">60%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
+          "Desc": "치명타율 +7%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">15%</font>만큼 회복.<br/> 동시에 <font color=\"red\">60%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
         },
         {
-          "Desc": "치명타율 +9%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">20%</font>만큼 회복.<br> 동시에 <font color=\"red\">60%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
+          "Desc": "치명타율 +9%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">20%</font>만큼 회복.<br/> 동시에 <font color=\"red\">60%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
         },
         {
-          "Desc": "치명타율 +12%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">20%</font>만큼 회복.<br> 동시에 <font color=\"red\">80%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
+          "Desc": "치명타율 +12%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">20%</font>만큼 회복.<br/> 동시에 <font color=\"red\">80%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
         },
         {
-          "Desc": "치명타율 +15%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">30%</font>만큼 회복.<br> 동시에 <font color=\"red\">100%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
+          "Desc": "치명타율 +15%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">30%</font>만큼 회복.<br/> 동시에 <font color=\"red\">100%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
         }
       ]
     }
@@ -75,7 +75,7 @@
     "Name": "삿갓(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "키리카제.png",
-    "Ability": "방어, 마방 +5%<br>부대 생명이 100%시 기술 +30%"
+    "Ability": "방어, 마방 +5%<br/>부대 생명이 100%시 기술 +30%"
   },
   "Soldiers": [
     6,
@@ -379,7 +379,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17172.png",
-      "Desc": "[패시브]치명타율 +15%. 전투 진입 시 치명타가 발생한다면 전투 후<br>적 부대의 모든 패시브 스킬의 효과를 무효화한다. 2턴 지속.",
+      "Desc": "[패시브]치명타율 +15%. 전투 진입 시 치명타가 발생한다면 전투 후<br/>적 부대의 모든 패시브 스킬의 효과를 무효화한다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -405,7 +405,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/0.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -431,7 +431,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.png",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -485,7 +485,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass1.png",
-      "Desc": "[패시브]전투 중 치명타가 발생한 경우<br>전투 후 적에게 [고정 피해]를 준다.(피해량은 영웅 공격의 2배)",
+      "Desc": "[패시브]전투 중 치명타가 발생한 경우<br/>전투 후 적에게 [고정 피해]를 준다.(피해량은 영웅 공격의 2배)",
       "SubSkills": null,
       "Animation": null
     },
@@ -511,7 +511,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash2.png",
-      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br>치명타율 +20%.",
+      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br/>치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -551,7 +551,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.png",
-      "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다.<br>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
+      "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -585,11 +585,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：186cm / 75kg<br>◆출연：랑그릿사III<br>◆소속：정의로운 동료"
+      "Desc": "◆키/몸무게：186cm / 75kg<br/>◆출연：랑그릿사III<br/>◆소속：정의로운 동료"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "동방 왜국에서 온 무사로 이도류를 사용한다. 민첩한 몸놀림과 놀랄만한 검술 솜씨를 자랑한다. 멸망해버린 조국의 원한을 짊어지고 먼 대륙으로 건너와 정체불명의 마족을 뒤쫓고 있다.<br><font color=\"#DC143C\"><size=33><i>「키리카제라 하오. 무사로서 모든 것을 바쳐 충성하겠소.」</i>  </size=33></font>"
+      "Desc": "동방 왜국에서 온 무사로 이도류를 사용한다. 민첩한 몸놀림과 놀랄만한 검술 솜씨를 자랑한다. 멸망해버린 조국의 원한을 짊어지고 먼 대륙으로 건너와 정체불명의 마족을 뒤쫓고 있다.<br/><font color=\"#DC143C\"><size=33><i>「키리카제라 하오. 무사로서 모든 것을 바쳐 충성하겠소.」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -597,7 +597,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "조국이 마족에 의해 멸망하자 주인을 보호하지 못했다는 사실을 자책하며 원흉인 마녀 페라키아를 찾아 복수하기로 맹세한다.<br><font color=\"#DC143C\"><size=33><i>「설령 복수에 눈이 멀었다 할지라도 소인의 소망은 단 하나뿐...」</i>  </size=33></font>"
+      "Desc": "조국이 마족에 의해 멸망하자 주인을 보호하지 못했다는 사실을 자책하며 원흉인 마녀 페라키아를 찾아 복수하기로 맹세한다.<br/><font color=\"#DC143C\"><size=33><i>「설령 복수에 눈이 멀었다 할지라도 소인의 소망은 단 하나뿐...」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -605,7 +605,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "옛 원수 페라키아도 현세에 나타났다는 소식을 듣자 아무 망설임 없이 성검 군단의 원정에 합류한다.<br><font color=\"#DC143C\"><size=33><i>「페라키아마저 주군의 동료가 된 것이오? 주군의 뜻이 그러하다면 소인 역시 받아들이겠소이다.」</i>  </size=33></font>"
+      "Desc": "옛 원수 페라키아도 현세에 나타났다는 소식을 듣자 아무 망설임 없이 성검 군단의 원정에 합류한다.<br/><font color=\"#DC143C\"><size=33><i>「페라키아마저 주군의 동료가 된 것이오? 주군의 뜻이 그러하다면 소인 역시 받아들이겠소이다.」</i>  </size=33></font>"
     }
   ],
   "Performance": [

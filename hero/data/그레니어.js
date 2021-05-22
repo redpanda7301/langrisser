@@ -50,22 +50,22 @@
       "Icon": "2.png",
       "Abilities": [
         {
-          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">50%</font> 확률로 <br>자신의 공격 방어 <font color=\"red\">+5%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">2</font>회 누적 가능."
+          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">50%</font> 확률로 <br/>자신의 공격 방어 <font color=\"red\">+5%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">2</font>회 누적 가능."
         },
         {
-          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">60%</font> 확률로 <br>자신의 공격 방어 <font color=\"red\">+6%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">2</font>회 누적 가능."
+          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">60%</font> 확률로 <br/>자신의 공격 방어 <font color=\"red\">+6%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">2</font>회 누적 가능."
         },
         {
-          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">70%</font> 확률로 <br>자신의 공격 방어 <font color=\"red\">+7%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">2</font>회 누적 가능."
+          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">70%</font> 확률로 <br/>자신의 공격 방어 <font color=\"red\">+7%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">2</font>회 누적 가능."
         },
         {
-          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">80%</font> 확률로 <br>자신의 공격 방어 <font color=\"red\">+8%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">2</font>회 누적 가능."
+          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">80%</font> 확률로 <br/>자신의 공격 방어 <font color=\"red\">+8%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">2</font>회 누적 가능."
         },
         {
-          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">90%</font> 확률로 <br>자신의 공격 방어 <font color=\"red\">+9%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">2</font>회 누적 가능."
+          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">90%</font> 확률로 <br/>자신의 공격 방어 <font color=\"red\">+9%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">2</font>회 누적 가능."
         },
         {
-          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">100%</font> 확률로 <br>자신의 공격 방어 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">3</font>회 누적 가능."
+          "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">100%</font> 확률로 <br/>자신의 공격 방어 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">3</font>회 누적 가능."
         }
       ]
     }
@@ -75,7 +75,7 @@
     "Name": "꿈을 쫓는 이의 관(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "그레니어.png",
-    "Ability": "마방 +5%<br>자신의 강화버프가 7개 이상일 경우, 반격피해 +50%"
+    "Ability": "마방 +5%<br/>자신의 강화버프가 7개 이상일 경우, 반격피해 +50%"
   },
   "Soldiers": [
     16,
@@ -427,7 +427,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SpearCrash1.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br/>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -453,7 +453,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BitterlyHit.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br/>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -479,7 +479,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/SuperBuff_Light1.png",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의 공격, 방어 능력치가 크게 상승하고 <font color=\"#DC143C\">4턴</font> 지속.<br>(이 효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의 공격, 방어 능력치가 크게 상승하고 <font color=\"#DC143C\">4턴</font> 지속.<br/>(이 효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -521,7 +521,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_CounterAttack2.png",
-      "Desc": "[패시브] 공격을 받아 전투 진입 시 <font color=\"#DC143C\">10%</font>의 확률로 적보다 먼저 공격한다.<br>기술 <font color=\"#DC143C\">10</font>마다 확률 <font color=\"#DC143C\">+1%</font>.",
+      "Desc": "[패시브] 공격을 받아 전투 진입 시 <font color=\"#DC143C\">10%</font>의 확률로 적보다 먼저 공격한다.<br/>기술 <font color=\"#DC143C\">10</font>마다 확률 <font color=\"#DC143C\">+1%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -561,7 +561,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br/>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -587,7 +587,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/그레니어.png",
-      "Desc": "[패시브]인접한 아군이 받는 <b>모든 공격</b>을 대신 받는다.<br>[액티브]호위 범위 <font color=\"red\">2</font>칸으로 증가. '<font color=\"blue\">전력 찌르기</font>' 효과 획득,  <br>기술 <font color=\"red\">+30</font>% (지속 <font color=\"red\">3</font>행동), <br>'<font color=\"purple\">굳센 반격</font>' <font color=\"red\">2</font>스택 획득, <br><b>행동 종료 시 자신이 위치한 지형에 '<font color=\"purple\">나의 영역</font>'</b> 효과 부여 : <br><b>아군이 이동 시 통과 가능한 지형을 '<font color=\"silver\">성벽</font>'으로 간주</b>, <br><b>부대는 지형에 따른 이동력 패널티를 받지 않으며 행동 종료 시</b> 생명 <font color=\"red\">20</font>% 회복, <br>지속 <font color=\"red\">2</font>행동",
+      "Desc": "[패시브]인접한 아군이 받는 <b>모든 공격</b>을 대신 받는다.<br/>[액티브]호위 범위 <font color=\"red\">2</font>칸으로 증가. '<font color=\"blue\">전력 찌르기</font>' 효과 획득,  <br/>기술 <font color=\"red\">+30</font>% (지속 <font color=\"red\">3</font>행동), <br/>'<font color=\"purple\">굳센 반격</font>' <font color=\"red\">2</font>스택 획득, <br/><b>행동 종료 시 자신이 위치한 지형에 '<font color=\"purple\">나의 영역</font>'</b> 효과 부여 : <br/><b>아군이 이동 시 통과 가능한 지형을 '<font color=\"silver\">성벽</font>'으로 간주</b>, <br/><b>부대는 지형에 따른 이동력 패널티를 받지 않으며 행동 종료 시</b> 생명 <font color=\"red\">20</font>% 회복, <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/그레니어.gif"
     }
@@ -595,27 +595,27 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：177cm / 69kg<br>◆소속：새내기 용사"
+      "Desc": "◆키/몸무게：177cm / 69kg<br/>◆소속：새내기 용사"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "17살의 마을 수비대 대장으로 매튜, 아멜다와 함께 자랐다. <br>책임감 있는 큰형 같은 인물로 하이보레안 제국 신성군이 무력으로 자신의 아버지를 위협하자<br>마을 수비대를 이끌고 맞서 싸운다.<br>영웅이 되길 바라며 전투 기술은 어디서 배워 왔는지 모른다. 그리고 음모에 대해서는 이상한 직감을 발휘한다.<br><font color=\"#DC143C\"><size=33><i>「너무 걱정할 필요 없어. 뭔가 거창한 건 잘 모르겠지만 지옥까지라도 너와 함께 할 테니!」</i>  </size=33></font>"
+      "Desc": "17살의 마을 수비대 대장으로 매튜, 아멜다와 함께 자랐다. <br/>책임감 있는 큰형 같은 인물로 하이보레안 제국 신성군이 무력으로 자신의 아버지를 위협하자<br/>마을 수비대를 이끌고 맞서 싸운다.<br/>영웅이 되길 바라며 전투 기술은 어디서 배워 왔는지 모른다. 그리고 음모에 대해서는 이상한 직감을 발휘한다.<br/><font color=\"#DC143C\"><size=33><i>「너무 걱정할 필요 없어. 뭔가 거창한 건 잘 모르겠지만 지옥까지라도 너와 함께 할 테니!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
-      "Desc": "솔직하고 정열적이지만 잔머리 굴리는 것도 좋아한다. 경망스러운 외모 안에 믿음직스러운 실력을 숨기고 있다. <br>매튜, 아멜다보다 나이가 좀 더 많기에 어릴 때부터 두 사람의 큰형 역할을 맡아왔다.<br><font color=\"#DC143C\"><size=33><i>「아, 그 두 녀석은 옆에 붙어 있지 않으면 마음이 놓이지 않아！」</i>  </size=33></font>"
+      "Desc": "솔직하고 정열적이지만 잔머리 굴리는 것도 좋아한다. 경망스러운 외모 안에 믿음직스러운 실력을 숨기고 있다. <br/>매튜, 아멜다보다 나이가 좀 더 많기에 어릴 때부터 두 사람의 큰형 역할을 맡아왔다.<br/><font color=\"#DC143C\"><size=33><i>「아, 그 두 녀석은 옆에 붙어 있지 않으면 마음이 놓이지 않아！」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담3",
-      "Desc": "<font color=\"#DC143C\"><size=33><i>「이 나이가 될 때까지 마을에 나가본 적이 없었어! 그런데 나와보니 바깥세상도 별거 없구만!」</i>  </size=33></font><br>이런 자신감이 있기에 마족들과 맞서면서 전혀 주눅이 들지 않는 걸지도 모른다.<br>어쨌든 장기간의 도망 생활과 고향이 전쟁에 휘말린 탓에 남몰래 어둠의 왕자에 대한 복수의 칼을 갈고 있다."
+      "Desc": "<font color=\"#DC143C\"><size=33><i>「이 나이가 될 때까지 마을에 나가본 적이 없었어! 그런데 나와보니 바깥세상도 별거 없구만!」</i>  </size=33></font><br/>이런 자신감이 있기에 마족들과 맞서면서 전혀 주눅이 들지 않는 걸지도 모른다.<br/>어쨌든 장기간의 도망 생활과 고향이 전쟁에 휘말린 탓에 남몰래 어둠의 왕자에 대한 복수의 칼을 갈고 있다."
     },
     {
       "Entry": "영웅담4",
-      "Desc": "확실히 자신이 강해지고 있다고 생각하지만 주변에 있는 전설 속 영웅들에 비하면 아직 멀었음을 느낀다. <br>대단한 스승을 찾아 가르침이라도 받아야 하는 게 아닐까?<br><font color=\"#DC143C\"><size=33><i>「이 원한은 반드시 갚겠어. 고향마저 포기한다면 아버지에게 자랑스러운 아들이 된다 한들 무슨 의미가 있겠어?」</i>  </size=33></font>"
+      "Desc": "확실히 자신이 강해지고 있다고 생각하지만 주변에 있는 전설 속 영웅들에 비하면 아직 멀었음을 느낀다. <br/>대단한 스승을 찾아 가르침이라도 받아야 하는 게 아닐까?<br/><font color=\"#DC143C\"><size=33><i>「이 원한은 반드시 갚겠어. 고향마저 포기한다면 아버지에게 자랑스러운 아들이 된다 한들 무슨 의미가 있겠어?」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담5",
-      "Desc": "모험이 길어질수록 자신의 소망은 더욱 분명해졌다. 처음부터 끝까지 그레니어를 움직이도록 만든 힘은 성검도 마검도 아닌, 「동료」였다.<br><font color=\"#DC143C\"><size=33><i>「이 전쟁에서 이기고 저 두 녀석들을 무사히 데리고 가면 돼. 간단하잖아!」</i>  </size=33></font>"
+      "Desc": "모험이 길어질수록 자신의 소망은 더욱 분명해졌다. 처음부터 끝까지 그레니어를 움직이도록 만든 힘은 성검도 마검도 아닌, 「동료」였다.<br/><font color=\"#DC143C\"><size=33><i>「이 전쟁에서 이기고 저 두 녀석들을 무사히 데리고 가면 돼. 간단하잖아!」</i>  </size=33></font>"
     }
   ],
   "Performance": [

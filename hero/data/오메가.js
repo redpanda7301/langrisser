@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "생명이 <font color=\"red\">100%</font> 이상인 적과 전투 시 공격 및 치명타율 <font color=\"red\">+10%</font>. <br>적 부대 처치 후 공격 전에 있었던 칸으로 돌아가며 다시 <font color=\"red\">1</font>칸 이동할 수 있다."
+          "Desc": "생명이 <font color=\"red\">100%</font> 이상인 적과 전투 시 공격 및 치명타율 <font color=\"red\">+10%</font>. <br/>적 부대 처치 후 공격 전에 있었던 칸으로 돌아가며 다시 <font color=\"red\">1</font>칸 이동할 수 있다."
         },
         {
-          "Desc": "생명이 <font color=\"red\">90%</font> 이상인 적과 전투 시 공격 및 치명타율 <font color=\"red\">+13%</font>. <br>적 부대 처치 후 공격 전에 있었던 칸으로 돌아가며 다시 <font color=\"red\">2</font>칸 이동할 수 있다."
+          "Desc": "생명이 <font color=\"red\">90%</font> 이상인 적과 전투 시 공격 및 치명타율 <font color=\"red\">+13%</font>. <br/>적 부대 처치 후 공격 전에 있었던 칸으로 돌아가며 다시 <font color=\"red\">2</font>칸 이동할 수 있다."
         },
         {
-          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 적과 전투 시 공격 및 치명타율 <font color=\"red\">+16%</font>. <br>적 부대 처치 후 공격 전에 있었던 칸으로 돌아가며 다시 <font color=\"red\">2</font>칸 이동할 수 있다."
+          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 적과 전투 시 공격 및 치명타율 <font color=\"red\">+16%</font>. <br/>적 부대 처치 후 공격 전에 있었던 칸으로 돌아가며 다시 <font color=\"red\">2</font>칸 이동할 수 있다."
         },
         {
-          "Desc": "생명이 <font color=\"red\">70%</font> 이상인 적과 전투 시 공격 및 치명타율 <font color=\"red\">+20%</font>. <br>적 부대 처치 후 공격 전에 있었던 칸으로 돌아가며 다시 <font color=\"red\">3</font>칸 이동할 수 있다."
+          "Desc": "생명이 <font color=\"red\">70%</font> 이상인 적과 전투 시 공격 및 치명타율 <font color=\"red\">+20%</font>. <br/>적 부대 처치 후 공격 전에 있었던 칸으로 돌아가며 다시 <font color=\"red\">3</font>칸 이동할 수 있다."
         }
       ]
     }
@@ -79,7 +79,7 @@
     "Name": "아집(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "오메가.png",
-    "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br><b>선공으로 스킬을 사용해 적 격파 시, 해당 스킬 쿨타임 <font color=\"red\">-2</font> 및</b> <br><b>행동 종료 시</b> 기술 <font color=\"red\">+20</font>%, 이동력 <font color=\"red\">+2</font><br>지속 <font color=\"red\">1</font>턴"
+    "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/><b>선공으로 스킬을 사용해 적 격파 시, 해당 스킬 쿨타임 <font color=\"red\">-2</font> 및</b> <br/><b>행동 종료 시</b> 기술 <font color=\"red\">+20</font>%, 이동력 <font color=\"red\">+2</font><br/>지속 <font color=\"red\">1</font>턴"
   },
   "Soldiers": [
     8,
@@ -400,7 +400,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Coldblood.png",
-      "Desc": "[지원]사용 후 자신 부대 치명타율, 치명타 피해량 <font color=\"red\">+15%</font>, <font color=\"red\">2턴</font> 지속.<br>사용 후 추가로 <font color=\"red\">2칸</font> 이동할 수 있고 다시 공격할 수 있다.",
+      "Desc": "[지원]사용 후 자신 부대 치명타율, 치명타 피해량 <font color=\"red\">+15%</font>, <font color=\"red\">2턴</font> 지속.<br/>사용 후 추가로 <font color=\"red\">2칸</font> 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -440,7 +440,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash5.png",
-      "Desc": "단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br>전투 진입 전, <font color=\"red\">1</font>칸 이동할 때마다 기술 <font color=\"red\">+10%</font>. (최대 <font color=\"red\">30%</font> 중첩 가능)",
+      "Desc": "단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>전투 진입 전, <font color=\"red\">1</font>칸 이동할 때마다 기술 <font color=\"red\">+10%</font>. (최대 <font color=\"red\">30%</font> 중첩 가능)",
       "SubSkills": null,
       "Animation": null
     },
@@ -454,7 +454,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass2.png",
-      "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -468,7 +468,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_AurpriseAttack.png",
-      "Desc": "[패시브] 자신의 기술이 적의 기술보다 <font color=\"red\">2</font>배 이상 높을 때, 공격 시 호위를 무시한다.<br><font color=\"red\">3</font>배 이상 높을 때, 영웅에게 직접 피해를 준다.",
+      "Desc": "[패시브] 자신의 기술이 적의 기술보다 <font color=\"red\">2</font>배 이상 높을 때, 공격 시 호위를 무시한다.<br/><font color=\"red\">3</font>배 이상 높을 때, 영웅에게 직접 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -522,7 +522,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash7.png",
-      "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br>적에게 디버프가 부여된 경우, 공격 전에 적의 방어를 <font color=\"red\">20%</font> 무시한다.<br>또한 공격 후, 스킬 쿨타임 <font color=\"red\">-2</font>턴.",
+      "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>적에게 디버프가 부여된 경우, 공격 전에 적의 방어를 <font color=\"red\">20%</font> 무시한다.<br/>또한 공격 후, 스킬 쿨타임 <font color=\"red\">-2</font>턴.",
       "SubSkills": null,
       "Animation": null
     },
@@ -562,7 +562,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/오메가.png",
-      "Desc": "[지원] 사용 후 부대 치명타 확률 및 치명타 피해 <font color=\"red\">+15</font>%, <br>영웅 스킬 사거리 <font color=\"red\">+1</font>, 지속 <font color=\"red\">2</font>턴<br>사용 후 <font color=\"blue\">재행동</font> 가능,<br>이동력은 스킬 사용 시점 잔여 이동력 <font color=\"red\">+2</font>,<b>직선으로만 이동 가능</b><br>(해당 스킬로 인한 재행동은 버프 지속 시간을 소모하지 않음)",
+      "Desc": "[지원] 사용 후 부대 치명타 확률 및 치명타 피해 <font color=\"red\">+15</font>%, <br/>영웅 스킬 사거리 <font color=\"red\">+1</font>, 지속 <font color=\"red\">2</font>턴<br/>사용 후 <font color=\"blue\">재행동</font> 가능,<br/>이동력은 스킬 사용 시점 잔여 이동력 <font color=\"red\">+2</font>,<b>직선으로만 이동 가능</b><br/>(해당 스킬로 인한 재행동은 버프 지속 시간을 소모하지 않음)",
       "SubSkills": null,
       "Animation": "../img/Super/오메가.gif"
     }
@@ -570,11 +570,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 179cm / 78kg<br>◆출연: 랑그릿사V<br>◆소속: ?·?"
+      "Desc": "◆키/몸무게: 179cm / 78kg<br/>◆출연: 랑그릿사V<br/>◆소속: ?·?"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "기자로프의 마도연구소에서 소생한 클론으로, 코드 네임은 Ω133. 랑그릿사를 다루기 위해 설계된 개조인간으로, 과거의 기억을 모두 잃었다. 성검에 대한 집착이 강해 성검을 가진 시그마를 불량품으로 여겨 끈질기게 추격한다.<br><font color=\"#DC143C\"><size=33><i>「멈출 수 없어... 그 녀석을 향한 갈망과 전투에 대한 집착을...」</i> </size=33></font>"
+      "Desc": "기자로프의 마도연구소에서 소생한 클론으로, 코드 네임은 Ω133. 랑그릿사를 다루기 위해 설계된 개조인간으로, 과거의 기억을 모두 잃었다. 성검에 대한 집착이 강해 성검을 가진 시그마를 불량품으로 여겨 끈질기게 추격한다.<br/><font color=\"#DC143C\"><size=33><i>「멈출 수 없어... 그 녀석을 향한 갈망과 전투에 대한 집착을...」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -582,7 +582,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "시그마를 추격하던 오메가는 그에게 자신의 집념과 기자로프의 친위대로서 오랫동안 시그마와 대립했던 과거에 대해 전했다. 자신이야말로 랑그릿사의 진정한 주인이며, 시그마는 불량품이라고 믿었다. 기자로프의 은혜에 보답하기 위해 사명을 반드시 완수하려 했다. 레인폴스의 부하인 아이젤을 이용해 성검이 있는 장소를 찾아냈지만, 성검을 손에 넣기 직전에 시그마에게 패배했다. <br><font color=\"#DC143C\"><size=33><i>「시그마는 어디 있지? 그 미완성 클론은 어디 있냔 말이다! 내가 없애주겠어!」</i> </size=33></font>"
+      "Desc": "시그마를 추격하던 오메가는 그에게 자신의 집념과 기자로프의 친위대로서 오랫동안 시그마와 대립했던 과거에 대해 전했다. 자신이야말로 랑그릿사의 진정한 주인이며, 시그마는 불량품이라고 믿었다. 기자로프의 은혜에 보답하기 위해 사명을 반드시 완수하려 했다. 레인폴스의 부하인 아이젤을 이용해 성검이 있는 장소를 찾아냈지만, 성검을 손에 넣기 직전에 시그마에게 패배했다. <br/><font color=\"#DC143C\"><size=33><i>「시그마는 어디 있지? 그 미완성 클론은 어디 있냔 말이다! 내가 없애주겠어!」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -590,7 +590,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "소환된 오메가는 여전히 성검에 대한 집착이 강하며, 새로운 시공에서도 시그마를 쫓고 있다. 하지만 그는 다른 새로운 목표를 발견한 모양이다... <br><font color=\"#DC143C\"><size=33><i>「멈출 수 없어... 그 녀석을 향한 갈망과 전투에 대한 집착을...」</i> </size=33></font>"
+      "Desc": "소환된 오메가는 여전히 성검에 대한 집착이 강하며, 새로운 시공에서도 시그마를 쫓고 있다. 하지만 그는 다른 새로운 목표를 발견한 모양이다... <br/><font color=\"#DC143C\"><size=33><i>「멈출 수 없어... 그 녀석을 향한 갈망과 전투에 대한 집착을...」</i> </size=33></font>"
     }
   ],
   "Performance": [

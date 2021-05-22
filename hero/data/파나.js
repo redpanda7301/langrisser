@@ -61,19 +61,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br> 광역 스킬 피해 <font color=\"red\">+10%</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+10%</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br> 광역 스킬 피해 <font color=\"red\">+12%</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+12%</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br> 광역 스킬 피해 <font color=\"red\">+14%</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+14%</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br> 광역 스킬 피해 <font color=\"red\">+17%</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+17%</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br> 광역 스킬 피해 <font color=\"red\">+20%</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+20%</font> <font color=\"red\">1턴</font> 지속."
         }
       ]
     }
@@ -83,7 +83,7 @@
     "Name": "스칼렛 윈드(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "파나.png",
-    "Ability": "마방 +10%<br>범위피해 스킬 사용시 효과 범위+1,<br>범위스킬로 피해를 준후 쿨타임에 들어가며 4턴뒤 재발동 가능."
+    "Ability": "마방 +10%<br/>범위피해 스킬 사용시 효과 범위+1,<br/>범위스킬로 피해를 준후 쿨타임에 들어가며 4턴뒤 재발동 가능."
   },
   "Soldiers": [
     13,
@@ -410,7 +410,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowRain.png",
-      "Desc": "[물리 피해]범위 내 모든 적에게 0.3배의 범위 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다, 버프 1개 제거. 전투 후 3칸 재이동 가능.",
+      "Desc": "[물리 피해]범위 내 모든 적에게 0.3배의 범위 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다, 버프 1개 제거. 전투 후 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -436,7 +436,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -462,7 +462,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_TakeAim.png",
-      "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
+      "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -476,7 +476,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.png",
-      "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -502,7 +502,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.png",
-      "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다.<br>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
+      "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -516,7 +516,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_FlyWind.png",
-      "Desc": "[패시브]다른 부대에게 피해를 준 후 주위 2칸 내 적에게 0.1배의 광역 피해를 주고<br>50%의 확률로 각 대상에게 무작위 디버프를 부여한다.",
+      "Desc": "[패시브]다른 부대에게 피해를 준 후 주위 2칸 내 적에게 0.1배의 광역 피해를 주고<br/>50%의 확률로 각 대상에게 무작위 디버프를 부여한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -556,7 +556,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/8.png",
-      "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br>모든 목표에게 랜덤으로 디버프 시전.",
+      "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
       "SubSkills": null,
       "Animation": null
     },
@@ -578,11 +578,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：168cm / 56kg<br>◆신체 사이즈：89/54/86<br>◆출연：랑그릿사III<br>◆소속：리그리아 제국"
+      "Desc": "◆키/몸무게：168cm / 56kg<br/>◆신체 사이즈：89/54/86<br/>◆출연：랑그릿사III<br/>◆소속：리그리아 제국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "리그리아 제국 부대의 요염한 붉은 꽃. 제국 사대 장군의 홍일점이며 알테뮬러 원수가 가장 신임하는 부관이자 생사를 함께하는 연인.빼어난 미모의 여성이지만 그 능력 역시 무시할 수 없다.<br><font color=\"#DC143C\"><size=33><i>「이제부터 당신을 모시겠습니다. 이것이 원수 각하의 대업을 돕는 거라 믿고 있습니다.」</i>  </size=33></font>"
+      "Desc": "리그리아 제국 부대의 요염한 붉은 꽃. 제국 사대 장군의 홍일점이며 알테뮬러 원수가 가장 신임하는 부관이자 생사를 함께하는 연인.빼어난 미모의 여성이지만 그 능력 역시 무시할 수 없다.<br/><font color=\"#DC143C\"><size=33><i>「이제부터 당신을 모시겠습니다. 이것이 원수 각하의 대업을 돕는 거라 믿고 있습니다.」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -598,7 +598,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "전성기의 모습으로 현세에 소환되었지만 여전히 과거의 쓰라린 기억과 과거의 적에 대한 분노를 품고 있다.이 시대에서도 가슴 깊숙한 곳에 알테뮬러에 대한 뜨거운 감정을 품고 있다.<br><font color=\"#DC143C\"><size=33><i>「아직도 갈 길이 멀군요. 그분께 도움이 되는 전사가 되려면 앞으로 얼마나 더 있어야 할까요?」</i>  </size=33></font>"
+      "Desc": "전성기의 모습으로 현세에 소환되었지만 여전히 과거의 쓰라린 기억과 과거의 적에 대한 분노를 품고 있다.이 시대에서도 가슴 깊숙한 곳에 알테뮬러에 대한 뜨거운 감정을 품고 있다.<br/><font color=\"#DC143C\"><size=33><i>「아직도 갈 길이 멀군요. 그분께 도움이 되는 전사가 되려면 앞으로 얼마나 더 있어야 할까요?」</i>  </size=33></font>"
     }
   ],
   "Performance": [

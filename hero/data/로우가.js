@@ -308,7 +308,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash3.png",
-      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
+      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br/>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -322,7 +322,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass2.png",
-      "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -336,7 +336,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/10.png",
-      "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
+      "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br/>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -376,7 +376,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Coldblood.png",
-      "Desc": "[지원]사용 후 자신 부대 치명타율, 치명타 피해량 <font color=\"red\">+15%</font>, <font color=\"red\">2턴</font> 지속.<br>사용 후 추가로 <font color=\"red\">2칸</font> 이동할 수 있고 다시 공격할 수 있다.",
+      "Desc": "[지원]사용 후 자신 부대 치명타율, 치명타 피해량 <font color=\"red\">+15%</font>, <font color=\"red\">2턴</font> 지속.<br/>사용 후 추가로 <font color=\"red\">2칸</font> 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -390,7 +390,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Snarl.png",
-      "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br>공격, 방어 -10%, 1턴 지속.",
+      "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br/>공격, 방어 -10%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -412,11 +412,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：203cm / 98kg<br>◆출연：랑그릿사II<br>◆소속：정의로운 동료"
+      "Desc": "◆키/몸무게：203cm / 98kg<br/>◆출연：랑그릿사II<br/>◆소속：정의로운 동료"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "각 지역을 돌아다니는 강력한 용병으로 우연히 엘윈 일행의 상황을 목격하고 도와주게 되었다. 검으로 권력자가 되는 것이 꿈이다. 여동생을 찾기 위해 빛의 군단에 가입한 그는 용사의 반열에 이름을 올리게 되었다.<br><font color=\"#DC143C\"><size=33><i>「하하, 네 실력은 인정하지!」</i>  </size=33></font>"
+      "Desc": "각 지역을 돌아다니는 강력한 용병으로 우연히 엘윈 일행의 상황을 목격하고 도와주게 되었다. 검으로 권력자가 되는 것이 꿈이다. 여동생을 찾기 위해 빛의 군단에 가입한 그는 용사의 반열에 이름을 올리게 되었다.<br/><font color=\"#DC143C\"><size=33><i>「하하, 네 실력은 인정하지!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -428,11 +428,11 @@
     },
     {
       "Entry": "영웅담4",
-      "Desc": "전투에 굉장히 집착하며 엘윈을 자신의 상대라 생각한다. 공훈을 세우고 자신과 여동생 소니아가 당당하게 살 수 있는 세상을 만들고자 한다. <br><font color=\"#DC143C\"><size=33><i>「돈 때문이 아니다. 엘윈, 줄곧 너와는 한번 겨뤄보고 싶었다!」</i>  </size=33></font>"
+      "Desc": "전투에 굉장히 집착하며 엘윈을 자신의 상대라 생각한다. 공훈을 세우고 자신과 여동생 소니아가 당당하게 살 수 있는 세상을 만들고자 한다. <br/><font color=\"#DC143C\"><size=33><i>「돈 때문이 아니다. 엘윈, 줄곧 너와는 한번 겨뤄보고 싶었다!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담5",
-      "Desc": "이 시대에 소환된 것을 자신에게 있어 좋은 기회라 생각하고 있으며 베른하르트 황제의 경우를 본받아 영웅이 되고자 한다.<br><font color=\"#DC143C\"><size=33><i>「그저 용병일 뿐이지만 다른 사람이 나의 꿈을 비웃는 것은 용서하지 않겠다!」</i>  </size=33></font>"
+      "Desc": "이 시대에 소환된 것을 자신에게 있어 좋은 기회라 생각하고 있으며 베른하르트 황제의 경우를 본받아 영웅이 되고자 한다.<br/><font color=\"#DC143C\"><size=33><i>「그저 용병일 뿐이지만 다른 사람이 나의 꿈을 비웃는 것은 용서하지 않겠다!」</i>  </size=33></font>"
     }
   ],
   "Performance": [

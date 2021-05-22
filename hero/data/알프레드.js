@@ -71,7 +71,7 @@
     "Name": "오션즈 하트(장신구)",
     "Stats": "공격 75, 기술 37",
     "Icon": "알프레드.png",
-    "Ability": "공격+8%<br>전투진입전 적군이 '수병'이아닐경우 적군의 지형을 '수중'으로 간주, 1턴 지속.<br>만약 자신부대의 생명이 100%라면 자신의 지형을 '수중'으로 간주, 1턴 지속.<br>자신에게 발동하는 '수중'효과는 발동후 2턴후 재발동가능."
+    "Ability": "공격+8%<br/>전투진입전 적군이 '수병'이아닐경우 적군의 지형을 '수중'으로 간주, 1턴 지속.<br/>만약 자신부대의 생명이 100%라면 자신의 지형을 '수중'으로 간주, 1턴 지속.<br/>자신에게 발동하는 '수중'효과는 발동후 2턴후 재발동가능."
   },
   "Soldiers": [
     29,
@@ -381,7 +381,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Alfred1.png",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 후 모든지형을 수중처럼 이동가능, 지속 1턴",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 모든지형을 수중처럼 이동가능, 지속 1턴",
       "SubSkills": null,
       "Animation": null
     },
@@ -409,7 +409,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.png",
-      "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -461,7 +461,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Alfred2.png",
-      "Desc": "[지원]액티브 스킬.주위 3칸 범위 내 모든 [수병]의<br>모든 지형이동시 \"수중\" 처럼 간주한다. 지속 2턴",
+      "Desc": "[지원]액티브 스킬.주위 3칸 범위 내 모든 [수병]의<br/>모든 지형이동시 \"수중\" 처럼 간주한다. 지속 2턴",
       "SubSkills": null,
       "Animation": null
     },
@@ -515,7 +515,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/18.png",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -541,7 +541,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Parn2.png",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배의 피해.<br>전투 진입전 적군에게 '모든 패시브 스킬의 효과를 무효화' 효과 부여, 지속 1행동.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배의 피해.<br/>전투 진입전 적군에게 '모든 패시브 스킬의 효과를 무효화' 효과 부여, 지속 1행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -567,7 +567,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/알프레드.png",
-      "Desc": "[패시브] <b>자신이 <font color=\"blue\">물</font>,<font color=\"dark green\">늪</font>, <font color=\"dark blue\">격류</font> 지형에 위치하지 않고</b>, <br><b>공격을 하지 않고 행동을 종료 할 경우</b> '파도타기' 효과 획득. 지속 <font color=\"red\">1</font>행동 (쿨타임 <font color=\"red\">1</font>)  <br><b>선공으로 전투 진입 전 해당 전투에 한해 <font color=\"blue\">자신에게 고정 피해 면역 부여</font></b><br>[액티브]<font color=\"red\">1.6</font>배 단일 피해, 전투 전, '<font color=\"blue\">패시브 봉인</font>','<font color=\"blue\">강화 불가</font>'효과 부여<br>(지속 <font color=\"red\">1</font>턴, <b>해제 불가</b>)<br><b>이동력이 남아있다면 공격 후 재이동 가능</b>",
+      "Desc": "[패시브] <b>자신이 <font color=\"blue\">물</font>,<font color=\"dark green\">늪</font>, <font color=\"dark blue\">격류</font> 지형에 위치하지 않고</b>, <br/><b>공격을 하지 않고 행동을 종료 할 경우</b> '파도타기' 효과 획득. 지속 <font color=\"red\">1</font>행동 (쿨타임 <font color=\"red\">1</font>)  <br/><b>선공으로 전투 진입 전 해당 전투에 한해 <font color=\"blue\">자신에게 고정 피해 면역 부여</font></b><br/>[액티브]<font color=\"red\">1.6</font>배 단일 피해, 전투 전, '<font color=\"blue\">패시브 봉인</font>','<font color=\"blue\">강화 불가</font>'효과 부여<br/>(지속 <font color=\"red\">1</font>턴, <b>해제 불가</b>)<br/><b>이동력이 남아있다면 공격 후 재이동 가능</b>",
       "SubSkills": null,
       "Animation": "../img/Super/알프레드.gif"
     }
@@ -575,7 +575,7 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 165cm /44kg<br>◆출연: 랑그릿사V<br>◆소속: 정의로운 동료"
+      "Desc": "◆키/몸무게: 165cm /44kg<br/>◆출연: 랑그릿사V<br/>◆소속: 정의로운 동료"
     },
     {
       "Entry": "영웅담1",

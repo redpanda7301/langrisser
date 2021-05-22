@@ -72,16 +72,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "부대 체력이 높을수록 지력이 상승하며 최대 <font color=\"red\">10%</font>까지 추가 상승.<br>스킬로 피해를 준 경우 해당 스킬의 쿨타임 감소 <font color=\"red\">1</font>."
+          "Desc": "부대 체력이 높을수록 지력이 상승하며 최대 <font color=\"red\">10%</font>까지 추가 상승.<br/>스킬로 피해를 준 경우 해당 스킬의 쿨타임 감소 <font color=\"red\">1</font>."
         },
         {
-          "Desc": "부대 체력이 높을수록 지력이 상승하며 최대 <font color=\"red\">13%</font>까지 추가 상승.<br>스킬로 피해를 준 경우 해당 스킬의 쿨타임 감소 <font color=\"red\">2</font>."
+          "Desc": "부대 체력이 높을수록 지력이 상승하며 최대 <font color=\"red\">13%</font>까지 추가 상승.<br/>스킬로 피해를 준 경우 해당 스킬의 쿨타임 감소 <font color=\"red\">2</font>."
         },
         {
-          "Desc": "부대 체력이 높을수록 지력이 상승하며 최대 <font color=\"red\">16%</font>까지 추가 상승.<br>스킬로 피해를 준 경우 해당 스킬의 쿨타임 감소 <font color=\"red\">2</font>."
+          "Desc": "부대 체력이 높을수록 지력이 상승하며 최대 <font color=\"red\">16%</font>까지 추가 상승.<br/>스킬로 피해를 준 경우 해당 스킬의 쿨타임 감소 <font color=\"red\">2</font>."
         },
         {
-          "Desc": "부대 체력이 높을수록 지력이 상승하며 최대 <font color=\"red\">20%</font>까지 추가 상승.<br>스킬로 피해를 준 경우 해당 스킬의 쿨타임 감소 <font color=\"red\">3</font>."
+          "Desc": "부대 체력이 높을수록 지력이 상승하며 최대 <font color=\"red\">20%</font>까지 추가 상승.<br/>스킬로 피해를 준 경우 해당 스킬의 쿨타임 감소 <font color=\"red\">3</font>."
         }
       ]
     }
@@ -91,7 +91,7 @@
     "Name": "카콘시스의 왕관(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "셀파닐.png",
-    "Ability": "마방 +10%<br>행동 종료시 30% 확률로 발동 '기술 사거리+1, 범위+1', 1턴 지속"
+    "Ability": "마방 +10%<br/>행동 종료시 30% 확률로 발동 '기술 사거리+1, 범위+1', 1턴 지속"
   },
   "Soldiers": [
     0,
@@ -431,7 +431,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -471,7 +471,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMute.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br>50%의 확률로 적에게 '침묵'부여, 2턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>50%의 확률로 적에게 '침묵'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -499,7 +499,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.png",
-      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -525,7 +525,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BreakEvil.png",
-      "Desc": "[마법 피해]치명타율+15%, 범위 내 모든 적에게 0.3배의 광격 피해를 주고<br>적이 가진 버프 1개를 제거한다.'마물'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]치명타율+15%, 범위 내 모든 적에게 0.3배의 광격 피해를 주고<br/>적이 가진 버프 1개를 제거한다.'마물'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -551,7 +551,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Princess2.png",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '공주 연맹' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br>스킬 사용 시 피해량 +12%, 4턴 지속.<br>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '공주 연맹' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>스킬 사용 시 피해량 +12%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -577,7 +577,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HolySuper.png",
-      "Desc": "[마법 피해]치명타 확률 +50%, 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br>'마물'과 전투 시 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]치명타 확률 +50%, 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -591,7 +591,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
-      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 방어 +15% 및<br>면역: '방어, 마방 감소','치료 방해', 1턴 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 방어 +15% 및<br/>면역: '방어, 마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -617,7 +617,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/셀파닐.png",
-      "Desc": "[마법피해]치명타 확률 <font color=\"red\">+60</font>%,<br>자신 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <font color=\"red\">0.38</font>배 피해 및 버프 <font color=\"red\">2</font>개 제거 <br>대 마물 특효<br>명중한 적이 마물일 경우 기절, 지속 <font color=\"red\">1</font>행동,<br>명중한 적이 <font color=\"red\">3</font>명 이상일 경우 쿨타임 <font color=\"red\">-1</font>, 해당 스킬로 적을 격파했을 경우 추가 쿨타임 <font color=\"red\">-1</font>",
+      "Desc": "[마법피해]치명타 확률 <font color=\"red\">+60</font>%,<br/>자신 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <font color=\"red\">0.38</font>배 피해 및 버프 <font color=\"red\">2</font>개 제거 <br/>대 마물 특효<br/>명중한 적이 마물일 경우 기절, 지속 <font color=\"red\">1</font>행동,<br/>명중한 적이 <font color=\"red\">3</font>명 이상일 경우 쿨타임 <font color=\"red\">-1</font>, 해당 스킬로 적을 격파했을 경우 추가 쿨타임 <font color=\"red\">-1</font>",
       "SubSkills": null,
       "Animation": "../img/Super/셀파닐.gif"
     }
@@ -625,11 +625,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 164cm / 42kg<br>◆신체 사이즈: 79/50/80<br>◆출연: 랑그릿사IV<br>◆소속: 카콘시스 왕국"
+      "Desc": "◆키/몸무게: 164cm / 42kg<br/>◆신체 사이즈: 79/50/80<br/>◆출연: 랑그릿사IV<br/>◆소속: 카콘시스 왕국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "카콘시스 왕국의 첫 번째 왕녀로 같은 왕녀인 쌍둥이 동생 안젤리나와 함께 손꼽히는 미인이다.부드럽고 아름다운 외모 아래 놀라울 만큼 강력한 마법 능력을 갖췄으며 태어날 때부터 연약한 성격이었으나 란디우스와 함께 위대한 모험을 하게 된다.<br><font color=\"#DC143C\"><size=33><i>「아버지를 도왔던 것처럼 최선을 다해 당신을 돕겠어요.」</i> </size=33></font>"
+      "Desc": "카콘시스 왕국의 첫 번째 왕녀로 같은 왕녀인 쌍둥이 동생 안젤리나와 함께 손꼽히는 미인이다.부드럽고 아름다운 외모 아래 놀라울 만큼 강력한 마법 능력을 갖췄으며 태어날 때부터 연약한 성격이었으나 란디우스와 함께 위대한 모험을 하게 된다.<br/><font color=\"#DC143C\"><size=33><i>「아버지를 도왔던 것처럼 최선을 다해 당신을 돕겠어요.」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -645,7 +645,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "소환된 셀파닐은 여전히 아름답고 마치 태양처럼 그녀의 모성과 온화함을 발산하며 성검 군단의 승리를 위해 바쁘게 움직인다.<br><font color=\"#DC143C\"><size=33><i>「예전에 그랬던 것처럼, 당신을 돕겠어요.」</i> </size=33></font>"
+      "Desc": "소환된 셀파닐은 여전히 아름답고 마치 태양처럼 그녀의 모성과 온화함을 발산하며 성검 군단의 승리를 위해 바쁘게 움직인다.<br/><font color=\"#DC143C\"><size=33><i>「예전에 그랬던 것처럼, 당신을 돕겠어요.」</i> </size=33></font>"
     }
   ],
   "Performance": [

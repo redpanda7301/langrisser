@@ -50,19 +50,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 시 공격 <font color=\"red\">+10%</font>.<br>행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">1</font>기 아군이 받는 피해 <font color=\"red\">-10%</font> <font color=\"red\">2</font>턴 지속."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 시 공격 <font color=\"red\">+10%</font>.<br/>행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">1</font>기 아군이 받는 피해 <font color=\"red\">-10%</font> <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 시 공격 <font color=\"red\">+15%</font>.<br>행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">2</font>기 아군이 받는 피해 <font color=\"red\">-10%</font> <font color=\"red\">2</font>턴 지속."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 시 공격 <font color=\"red\">+15%</font>.<br/>행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">2</font>기 아군이 받는 피해 <font color=\"red\">-10%</font> <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 시 공격 <font color=\"red\">+20%</font>.<br>행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">3</font>기 아군이 받는 피해 <font color=\"red\">-10%</font> <font color=\"red\">2</font>턴 지속."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 시 공격 <font color=\"red\">+20%</font>.<br/>행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">3</font>기 아군이 받는 피해 <font color=\"red\">-10%</font> <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 시 공격 <font color=\"red\">+25%</font>.<br>행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">4</font>기 아군이 받는 피해 <font color=\"red\">-10%</font> <font color=\"red\">2</font>턴 지속."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 시 공격 <font color=\"red\">+25%</font>.<br/>행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">4</font>기 아군이 받는 피해 <font color=\"red\">-10%</font> <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 시 공격 <font color=\"red\">+30%</font>.<br>행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">5</font>기 아군이 받는 피해 <font color=\"red\">-10%</font> <font color=\"red\">2</font>턴 지속."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 시 공격 <font color=\"red\">+30%</font>.<br/>행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">5</font>기 아군이 받는 피해 <font color=\"red\">-10%</font> <font color=\"red\">2</font>턴 지속."
         }
       ]
     }
@@ -344,7 +344,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_TakeAim.png",
-      "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
+      "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -370,7 +370,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_RoaringBomb.png",
-      "Desc": "[물리 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br>적군의 입히는 피해 -20%, 2턴 지속.",
+      "Desc": "[물리 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br/>적군의 입히는 피해 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -396,7 +396,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/14.png",
-      "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br>'비병'과 전투 시 더큰 피해를 준다.<br>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
+      "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br/>'비병'과 전투 시 더큰 피해를 준다.<br/>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -436,7 +436,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Inspire.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대 생명 30%회복, 이동력+1,<br>재생 버프 시전, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대 생명 30%회복, 이동력+1,<br/>재생 버프 시전, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -450,7 +450,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Again.png",
-      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -490,7 +490,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Requiem.png",
-      "Desc": "[물리 피해]자신 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br>적군의 치명타 확률 -30%, 재이동 불가, 2턴 지속.",
+      "Desc": "[물리 피해]자신 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br/>적군의 치명타 확률 -30%, 재이동 불가, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -516,7 +516,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/올리비에.png",
-      "Desc": "[물리피해] 범위 내 적에게 <font color=\"red\">0.38</font>배 피해 및 <br>적에게 '피해 <font color=\"red\">-20</font>%' '받는 피해 <font color=\"red\">+20</font>%' 효과 부여, 지속 <font color=\"red\">2</font>행동<br> <font color=\"red\">15</font>% 확률로 명중된 적 영웅의 <b><font color=\"blue\">일반 공격 봉인</font></b>, 지속 <font color=\"red\">1</font>턴 <b>(해제 불가)</b>",
+      "Desc": "[물리피해] 범위 내 적에게 <font color=\"red\">0.38</font>배 피해 및 <br/>적에게 '피해 <font color=\"red\">-20</font>%' '받는 피해 <font color=\"red\">+20</font>%' 효과 부여, 지속 <font color=\"red\">2</font>행동<br/> <font color=\"red\">15</font>% 확률로 명중된 적 영웅의 <b><font color=\"blue\">일반 공격 봉인</font></b>, 지속 <font color=\"red\">1</font>턴 <b>(해제 불가)</b>",
       "SubSkills": null,
       "Animation": "../img/Super/올리비에.gif"
     }
@@ -524,11 +524,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/체중: 181cm / 73kg<br>◆출연: 영웅전설·하늘의 궤적 시리즈<br>◆소속: 에레보니아 제국"
+      "Desc": "◆키/체중: 181cm / 73kg<br/>◆출연: 영웅전설·하늘의 궤적 시리즈<br/>◆소속: 에레보니아 제국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "자칭 떠도는 시인 겸 연주가인 금발의 청년으로, 외모만큼이나 화려하게 행동한다. 자아도취적이고 가벼운 성격으로 썰렁한 농담을 자주하는 행동이 이상하지만 음악에 조예가 깊다. 대표곡은 호박의 사랑.<br><font color=\"#DC143C\"><size=33><i>「자, 계속 날 찬양해 줘~ 그렇지 않으면... 난 욕구불만에 빠지게 될거야!」</i> </size=33></font>"
+      "Desc": "자칭 떠도는 시인 겸 연주가인 금발의 청년으로, 외모만큼이나 화려하게 행동한다. 자아도취적이고 가벼운 성격으로 썰렁한 농담을 자주하는 행동이 이상하지만 음악에 조예가 깊다. 대표곡은 호박의 사랑.<br/><font color=\"#DC143C\"><size=33><i>「자, 계속 날 찬양해 줘~ 그렇지 않으면... 난 욕구불만에 빠지게 될거야!」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -536,7 +536,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "에스텔 일행의 모험에서, 그들과 우연히 만난 올리비에는 음유시인으로서 그들 일행에 합류했다. 이후 리벨 쿠데타 계획에서는 에스텔 일행을 도와 인질과 리벨 여왕을 구출하고 리샤드 대령의 야망을 좌절시켰다. 와이스맨이 부유성을 띄워올려 리벨과 에레보니아가 일촉즉발의 위기에 빠지자, 올리비에는 제국을 대표하여 리벨의 왕녀 클로제와 평화 협상을 진행했다. 이후 에스텔 일행과 함께 부유성 내부로 들어가 와이스맨 교수의 음모를 저지했다. 이때부터 제국에서 모습을 잘 드러내지 않던 그가 조금씩 두각을 나타내기 시작한다.<br><font color=\"#DC143C\"><size=33><i>「모험을 하는 이유? 내가 '사랑의 전도사'인데, 이것보다 더 위대한 이유가 있을까?」</i> </size=33></font>"
+      "Desc": "에스텔 일행의 모험에서, 그들과 우연히 만난 올리비에는 음유시인으로서 그들 일행에 합류했다. 이후 리벨 쿠데타 계획에서는 에스텔 일행을 도와 인질과 리벨 여왕을 구출하고 리샤드 대령의 야망을 좌절시켰다. 와이스맨이 부유성을 띄워올려 리벨과 에레보니아가 일촉즉발의 위기에 빠지자, 올리비에는 제국을 대표하여 리벨의 왕녀 클로제와 평화 협상을 진행했다. 이후 에스텔 일행과 함께 부유성 내부로 들어가 와이스맨 교수의 음모를 저지했다. 이때부터 제국에서 모습을 잘 드러내지 않던 그가 조금씩 두각을 나타내기 시작한다.<br/><font color=\"#DC143C\"><size=33><i>「모험을 하는 이유? 내가 '사랑의 전도사'인데, 이것보다 더 위대한 이유가 있을까?」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -544,7 +544,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "소환된 올리비에는 여전히 자유분방한 성격으로 누구에게도 얽매이지 않는다. 엘사리아 대륙에서 자신만의 이야기를 써내려갔다.<br><font color=\"#DC143C\"><size=33><i>「하아... 이 대륙에서 대체 누가 날 사랑해줄까? 난 누굴 사랑하게 될까?」</i> </size=33></font>"
+      "Desc": "소환된 올리비에는 여전히 자유분방한 성격으로 누구에게도 얽매이지 않는다. 엘사리아 대륙에서 자신만의 이야기를 써내려갔다.<br/><font color=\"#DC143C\"><size=33><i>「하아... 이 대륙에서 대체 누가 날 사랑해줄까? 난 누굴 사랑하게 될까?」</i> </size=33></font>"
     }
   ],
   "Performance": [

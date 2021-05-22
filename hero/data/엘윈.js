@@ -77,16 +77,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+10%</font>.<br> 전투 후 <font color=\"red\">50%</font>확률로 생명 회복<br> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
+          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+10%</font>.<br/> 전투 후 <font color=\"red\">50%</font>확률로 생명 회복<br/> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
         },
         {
-          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+15%</font>.<br> 전투 후 <font color=\"red\">60%</font>확률로 생명 회복<br> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
+          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+15%</font>.<br/> 전투 후 <font color=\"red\">60%</font>확률로 생명 회복<br/> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
         },
         {
-          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+20%</font>.<br> 전투 후 <font color=\"red\">80%</font>확률로 생명 회복<br> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
+          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+20%</font>.<br/> 전투 후 <font color=\"red\">80%</font>확률로 생명 회복<br/> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
         },
         {
-          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+30%</font>.<br> 전투 후 <font color=\"red\">100%</font>확률로 생명 회복<br> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
+          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+30%</font>.<br/> 전투 후 <font color=\"red\">100%</font>확률로 생명 회복<br/> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
         }
       ]
     }
@@ -103,16 +103,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+10%</font><br> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">10%</font> 회복 <br> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+10%</font><br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">10%</font> 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+15%</font><br> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">13%</font> 회복 <br> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+15%</font><br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">13%</font> 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+20%</font><br> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">16%</font> 회복 <br> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+20%</font><br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">16%</font> 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+25%</font><br> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">20%</font> 회복 <br> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+25%</font><br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">20%</font> 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         }
       ]
     }
@@ -121,7 +121,7 @@
     "Name": "방랑의 기사(무기)",
     "Stats": "생명 437,공격 107",
     "Icon": "엘윈.png",
-    "Ability": "공격 +<font color=\"red\">10%</font><br>기술을 사용하여 피해를 입힐시, <font color=\"red\">30%</font> 확률로 해당 기술의 쿨타임 -5"
+    "Ability": "공격 +<font color=\"red\">10%</font><br/>기술을 사용하여 피해를 입힐시, <font color=\"red\">30%</font> 확률로 해당 기술의 쿨타임 -5"
   },
   "Soldiers": [
     20,
@@ -176,8 +176,8 @@
       "MagicDefRate": 60,
       "Skill": 154,
       "SkillRate": 44,
-      "HeartFetterBouns1": "생명 80%이상일때 <br>전투중 받는피해 -10%",
-      "HeartFetterBouns2": "생명 80%이상일때 <br>전투중 입히는피해 +10%"
+      "HeartFetterBouns1": "생명 80%이상일때 <br/>전투중 받는피해 -10%",
+      "HeartFetterBouns2": "생명 80%이상일때 <br/>전투중 입히는피해 +10%"
     },
     {
       "Name": "광룡 기사단장",
@@ -220,8 +220,8 @@
       "MagicDefRate": 60,
       "Skill": 130,
       "SkillRate": 37,
-      "HeartFetterBouns1": "선공으로 전투 진입 시 <br>부대가 받는 피해 -10%",
-      "HeartFetterBouns2": "부대 생명 70% 미만 시 <br>피해 +10%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해 -10%",
+      "HeartFetterBouns2": "부대 생명 70% 미만 시 <br/>피해 +10%"
     },
     {
       "Name": "마샬",
@@ -264,8 +264,8 @@
       "MagicDefRate": 48,
       "Skill": 116,
       "SkillRate": 33,
-      "HeartFetterBouns1": "생명비율이 낮은상대와 <br>전투시 받는피해 -10%",
-      "HeartFetterBouns2": "생명비율이 낮은상대와 <br>전투시 입히는피해 +10%"
+      "HeartFetterBouns1": "생명비율이 낮은상대와 <br/>전투시 받는피해 -10%",
+      "HeartFetterBouns2": "생명비율이 낮은상대와 <br/>전투시 입히는피해 +10%"
     }
   ],
   "Materials": {
@@ -652,7 +652,7 @@
     {
       "Name": "6단계 미션",
       "Materials": [],
-      "Desc": "엘윈, 헤인으로 파티를 짜서 영원의 신전 - 스퀼라 70레벨 클리어<br>(쉐리 SP 업데이트 후 65레벨 스퀼라로 하향조정, 업데이트 당일 클라이언트 데이터 재확인 필요)"
+      "Desc": "엘윈, 헤인으로 파티를 짜서 영원의 신전 - 스퀼라 70레벨 클리어<br/>(쉐리 SP 업데이트 후 65레벨 스퀼라로 하향조정, 업데이트 당일 클라이언트 데이터 재확인 필요)"
     },
     {
       "Name": "",
@@ -683,7 +683,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -697,7 +697,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.png",
-      "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br>2턴 지속, 치명타 발생 시 반드시 발동.",
+      "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -723,7 +723,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.png",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -749,7 +749,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/SuperBuff_Light2.png",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br>생명이 80% 이상일 경우 전투 중 주는 피해량 +15%, 4턴 지속.<br>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>생명이 80% 이상일 경우 전투 중 주는 피해량 +15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -775,7 +775,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordSoul.png",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.8배 피해를 준다.<br>전투 전 적 부대의 버프 5개 제거 및 적 부대에게 '치료 방해' 부여, 2턴 지속<br>이 효과는 제거되지 않는다.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 1.8배 피해를 준다.<br/>전투 전 적 부대의 버프 5개 제거 및 적 부대에게 '치료 방해' 부여, 2턴 지속<br/>이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -803,7 +803,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Barb.png",
-      "Desc": "[패시브]근접 공격을 받아 전투 진입시 전투 후 부대 생명이 50%이상이라면 [미늘]을 발동한다:<br>전투 종료 후 적 부대에게 영웅 방어 2.5배만큼의 [고정 피해]를 준다.",
+      "Desc": "[패시브]근접 공격을 받아 전투 진입시 전투 후 부대 생명이 50%이상이라면 [미늘]을 발동한다:<br/>전투 종료 후 적 부대에게 영웅 방어 2.5배만큼의 [고정 피해]를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -829,7 +829,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Support.png",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.7배 피해를 준다.<br>전투 전 공격의 20%가 방어에 추가되며, 적 부대에게 '모든 패시브 스킬을 무효화한다'부여,2턴 지속,<br>이 효과는 제거되지 않는다.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 1.7배 피해를 준다.<br/>전투 전 공격의 20%가 방어에 추가되며, 적 부대에게 '모든 패시브 스킬을 무효화한다'부여,2턴 지속,<br/>이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -869,7 +869,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/엘윈/1.png",
-      "Desc": "[액티브] 자신에게 '전설의 빛' 효과 부여 :<br>엘윈 전용 장비 효과 발동 확률을 <font color=\"red\">100%</font>로 조절, 지속 1행동 및 '면역' 효과, 지속 2행동, <br>사용 후 재행동 <font color=\"red\">3</font>칸 가능,부대가 혼합 병종이 아닐 경우 <font color=\"red\">4</font>칸 재행동<br>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
+      "Desc": "[액티브] 자신에게 '전설의 빛' 효과 부여 :<br/>엘윈 전용 장비 효과 발동 확률을 <font color=\"red\">100%</font>로 조절, 지속 1행동 및 '면역' 효과, 지속 2행동, <br/>사용 후 재행동 <font color=\"red\">3</font>칸 가능,부대가 혼합 병종이 아닐 경우 <font color=\"red\">4</font>칸 재행동<br/>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
       "SubSkills": null,
       "Animation": null
     },
@@ -883,7 +883,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/엘윈/2.png",
-      "Desc": "[패시브]아군 퇴각 시 부대 생명 <font color=\"red\">20%</font> 회복 및 고독한 강자 효과 획득.<br>피격으로 전투 진입 전 생명 회복 <font color=\"red\">30%</font>, <br>전투 후 피해량 <font color=\"red\">30%</font> 수치만큼 생명 회복, 지속 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브]아군 퇴각 시 부대 생명 <font color=\"red\">20%</font> 회복 및 고독한 강자 효과 획득.<br/>피격으로 전투 진입 전 생명 회복 <font color=\"red\">30%</font>, <br/>전투 후 피해량 <font color=\"red\">30%</font> 수치만큼 생명 회복, 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     }
@@ -891,11 +891,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：176cm / 70kg<br>◆출연：랑그릿사II<br>◆소속：빛의 군단·빛의 후예"
+      "Desc": "◆키/몸무게：176cm / 70kg<br/>◆출연：랑그릿사II<br/>◆소속：빛의 군단·빛의 후예"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "대륙에서 가장 유명한 전설 속 영웅 중 한 명이자 몰락한 빛의 후예.어릴 때 부모를 잃고 홀로 모험을 떠난다. 그러다 우연한 기회에 견습 마법사 헤인을 만나 빛의 무녀 리아나를 구출하는 것으로 그의 영웅 서사시가 시작되었다.<br><font color=\"#DC143C\"><size=33><i>「누구든 어떠한 좌절을 겪어도 다시 일어날 수 있어. 나 역시 그래.」</i>  </size=33></font>"
+      "Desc": "대륙에서 가장 유명한 전설 속 영웅 중 한 명이자 몰락한 빛의 후예.어릴 때 부모를 잃고 홀로 모험을 떠난다. 그러다 우연한 기회에 견습 마법사 헤인을 만나 빛의 무녀 리아나를 구출하는 것으로 그의 영웅 서사시가 시작되었다.<br/><font color=\"#DC143C\"><size=33><i>「누구든 어떠한 좌절을 겪어도 다시 일어날 수 있어. 나 역시 그래.」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -907,11 +907,11 @@
     },
     {
       "Entry": "영웅담4",
-      "Desc": "제시카의 기록을 보면 엘윈에 대해 이렇게 적어 놓았다. <br><font color=\"#DC143C\"><size=33><i>「빛과 어둠의 장렬한 싸움이 끝나고 엘윈과 리아나는 보다 평화로운 세상을 만들기 위해 곳곳을 돌아다녔다.」</i>  </size=33></font>"
+      "Desc": "제시카의 기록을 보면 엘윈에 대해 이렇게 적어 놓았다. <br/><font color=\"#DC143C\"><size=33><i>「빛과 어둠의 장렬한 싸움이 끝나고 엘윈과 리아나는 보다 평화로운 세상을 만들기 위해 곳곳을 돌아다녔다.」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담5",
-      "Desc": "엘윈은 성검의 영령이 되었으며 성검의 힘으로 자신이 품은 여러 가지 가능성을 살펴볼 수 있었다. <br><font color=\"#DC143C\"><size=33><i>「어쩌면 이 세계에 수많은 내가 있었을지도 모르지. 신기하지 않아?」</i>  </size=33></font>"
+      "Desc": "엘윈은 성검의 영령이 되었으며 성검의 힘으로 자신이 품은 여러 가지 가능성을 살펴볼 수 있었다. <br/><font color=\"#DC143C\"><size=33><i>「어쩌면 이 세계에 수많은 내가 있었을지도 모르지. 신기하지 않아?」</i>  </size=33></font>"
     }
   ],
   "Performance": [

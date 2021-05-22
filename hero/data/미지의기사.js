@@ -374,7 +374,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HolyStrike.png",
-      "Desc": "[마법 피해]단일 적군에게 1.5배로 공격.<br>전투 후 피해의 30%만큼 생명 회복.",
+      "Desc": "[마법 피해]단일 적군에게 1.5배로 공격.<br/>전투 후 피해의 30%만큼 생명 회복.",
       "SubSkills": null,
       "Animation": null
     },
@@ -388,7 +388,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MysteryKnight1.png",
-      "Desc": "[패시브]공격하여 전투진입시 피해증가 +10%. 전투후 재이동 가능.<br>이 재이동은 전투전 이동한 거리만큼 이동.재행동은 2턴 이후 재차 발동가능.",
+      "Desc": "[패시브]공격하여 전투진입시 피해증가 +10%. 전투후 재이동 가능.<br/>이 재이동은 전투전 이동한 거리만큼 이동.재행동은 2턴 이후 재차 발동가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -414,7 +414,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_JamMove.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -440,7 +440,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/18.png",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -466,7 +466,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MysteryKnight1.png",
-      "Desc": "[마법 피해 단일 적 부대를 공격해 1.1배 피해를 입힌다.<br>공격전 매 이동 1칸마다 피해상승 +10%(최대 50%).<br>동시에 적군에게 제거불가능한 강력한 디버프 부여, 1턴 지속.<br>근접병사휴대시 근접병사도 함께 공격 한다.",
+      "Desc": "[마법 피해 단일 적 부대를 공격해 1.1배 피해를 입힌다.<br/>공격전 매 이동 1칸마다 피해상승 +10%(최대 50%).<br/>동시에 적군에게 제거불가능한 강력한 디버프 부여, 1턴 지속.<br/>근접병사휴대시 근접병사도 함께 공격 한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -492,7 +492,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ThunderBolt.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'기병'에게 더큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -532,7 +532,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ThunderField.png",
-      "Desc": "[마법 피해]자신 주위 3칸 범위내 모든 적군에게 0.33배의 범위 피해를 입힌다. <br>'기병'과 전투 시 더큰 피해를 입힌다. 적군의 방어력 -20%, 2턴 지속.",
+      "Desc": "[마법 피해]자신 주위 3칸 범위내 모든 적군에게 0.33배의 범위 피해를 입힌다. <br/>'기병'과 전투 시 더큰 피해를 입힌다. 적군의 방어력 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -558,7 +558,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/미지의기사.png",
-      "Desc": "[마법피해]  <font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 범위 피해, <br><font color=\"blue\">기병에게 더 큰 데미지 준다</font> <br>적에게 <font color=\"blue\">투구 스킬 상실</font> 부여, <br>(목표가 플레이어의 캐릭이 아닐 경우 마방 <font color=\"red\">-25</font>%로 대체) 지속 <font color=\"red\">2</font>행동, <br>명중한 적이 <b><font color=\"green\">숲</font></b>, <font color=\"green\">초원</font>, <font color=\"green\">산지</font>, <font color=\"blue\">물</font>에 <br><b>위치해있을 경우</b> 랜덤한 버프 <font color=\"red\">1</font>개를 디버프 <font color=\"red\">1</font>개로 변환",
+      "Desc": "[마법피해]  <font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 범위 피해, <br/><font color=\"blue\">기병에게 더 큰 데미지 준다</font> <br/>적에게 <font color=\"blue\">투구 스킬 상실</font> 부여, <br/>(목표가 플레이어의 캐릭이 아닐 경우 마방 <font color=\"red\">-25</font>%로 대체) 지속 <font color=\"red\">2</font>행동, <br/>명중한 적이 <b><font color=\"green\">숲</font></b>, <font color=\"green\">초원</font>, <font color=\"green\">산지</font>, <font color=\"blue\">물</font>에 <br/><b>위치해있을 경우</b> 랜덤한 버프 <font color=\"red\">1</font>개를 디버프 <font color=\"red\">1</font>개로 변환",
       "SubSkills": null,
       "Animation": "../img/Super/미지의기사.gif"
     }
@@ -566,7 +566,7 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/체중: 172cm / 53kg<br>◆신체 사이즈: 92/54/88<br>◆소속: 카콘시스 왕국"
+      "Desc": "◆키/체중: 172cm / 53kg<br/>◆신체 사이즈: 92/54/88<br/>◆소속: 카콘시스 왕국"
     },
     {
       "Entry": "영웅담1",

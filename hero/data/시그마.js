@@ -65,16 +65,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "적을 공격할 시 공격 <font color=\"red\">+5%</font>.<br>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br> (해당 효과 제거 불가 <font color=\"red\">4</font>턴 간격으로 재발동 가능.)"
+          "Desc": "적을 공격할 시 공격 <font color=\"red\">+5%</font>.<br/>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br/>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/> (해당 효과 제거 불가 <font color=\"red\">4</font>턴 간격으로 재발동 가능.)"
         },
         {
-          "Desc": "적을 공격할 시 공격 <font color=\"red\">+8%</font>.<br>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br> (해당 효과 제거 불가 <font color=\"red\">3</font>턴 간격으로 재발동 가능.)"
+          "Desc": "적을 공격할 시 공격 <font color=\"red\">+8%</font>.<br/>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br/>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/> (해당 효과 제거 불가 <font color=\"red\">3</font>턴 간격으로 재발동 가능.)"
         },
         {
-          "Desc": "적을 공격할 시 공격 <font color=\"red\">+11%</font>.<br>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br> (해당 효과 제거 불가 <font color=\"red\">3</font>턴 간격으로 재발동 가능.)"
+          "Desc": "적을 공격할 시 공격 <font color=\"red\">+11%</font>.<br/>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br/>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/> (해당 효과 제거 불가 <font color=\"red\">3</font>턴 간격으로 재발동 가능.)"
         },
         {
-          "Desc": "적을 공격할 시 공격 <font color=\"red\">+15%</font>.<br>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br> (해당 효과 제거 불가 <font color=\"red\">2</font>턴 간격으로 재발동 가능.)"
+          "Desc": "적을 공격할 시 공격 <font color=\"red\">+15%</font>.<br/>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br/>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/> (해당 효과 제거 불가 <font color=\"red\">2</font>턴 간격으로 재발동 가능.)"
         }
       ]
     }
@@ -91,16 +91,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전투 진입 시 공격 <font color=\"red\">+5%</font>  <br>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br>\"죽음의 그림자\" 효과 획득 : <br>부대 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br>선공 후 \"죽음의 그림자\" 효과 상실 및 <br>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br>(죽음의 그림자 효과는 해제 불가)."
+          "Desc": "전투 진입 시 공격 <font color=\"red\">+5%</font>  <br/>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br/>\"죽음의 그림자\" 효과 획득 : <br/>부대 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br/>선공 후 \"죽음의 그림자\" 효과 상실 및 <br/>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br/>(죽음의 그림자 효과는 해제 불가)."
         },
         {
-          "Desc": "전투 진입 시 공격 <font color=\"red\">+8%</font>  <br>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br>\"죽음의 그림자\" 효과 획득 : <br>부대 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br>선공 후 \"죽음의 그림자\" 효과 상실 및 <br>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br>(죽음의 그림자 효과는 해제 불가)."
+          "Desc": "전투 진입 시 공격 <font color=\"red\">+8%</font>  <br/>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br/>\"죽음의 그림자\" 효과 획득 : <br/>부대 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br/>선공 후 \"죽음의 그림자\" 효과 상실 및 <br/>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br/>(죽음의 그림자 효과는 해제 불가)."
         },
         {
-          "Desc": "전투 진입 시 공격 <font color=\"red\">+11%</font> <br>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br>\"죽음의 그림자\" 효과 획득 : <br>부대 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br>선공 후 \"죽음의 그림자\" 효과 상실 및 <br>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br>(죽음의 그림자 효과는 해제 불가)."
+          "Desc": "전투 진입 시 공격 <font color=\"red\">+11%</font> <br/>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br/>\"죽음의 그림자\" 효과 획득 : <br/>부대 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br/>선공 후 \"죽음의 그림자\" 효과 상실 및 <br/>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br/>(죽음의 그림자 효과는 해제 불가)."
         },
         {
-          "Desc": "전투 진입 시 공격 <font color=\"red\">+15%</font> <br>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br>\"죽음의 그림자\" 효과 획득 : <br>부대 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br>선공 후 \"죽음의 그림자\" 효과 상실 및 <br>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br>(죽음의 그림자 효과는 해제 불가)."
+          "Desc": "전투 진입 시 공격 <font color=\"red\">+15%</font> <br/>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br/>\"죽음의 그림자\" 효과 획득 : <br/>부대 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br/>선공 후 \"죽음의 그림자\" 효과 상실 및 <br/>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br/>(죽음의 그림자 효과는 해제 불가)."
         }
       ]
     }
@@ -109,7 +109,7 @@
     "Name": "스카우터(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "시그마.png",
-    "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br>행동종료시 <font color=\"red\">25%</font>확률로 \"공격<font color=\"red\">+20%</font>\" 버프획득, <font color=\"red\">4</font>턴 지속."
+    "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/>행동종료시 <font color=\"red\">25%</font>확률로 \"공격<font color=\"red\">+20%</font>\" 버프획득, <font color=\"red\">4</font>턴 지속."
   },
   "Soldiers": [
     9,
@@ -190,8 +190,8 @@
       "MagicDefRate": 60,
       "Skill": 259,
       "SkillRate": 60,
-      "HeartFetterBouns1": "공격하여 전투 진입시,<br>부대가 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "공격받아 전투 진입시,<br>부대가 가하는 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "공격하여 전투 진입시,<br/>부대가 받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "공격받아 전투 진입시,<br/>부대가 가하는 피해 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "레인저",
@@ -613,7 +613,7 @@
     {
       "Name": "6단계 미션",
       "Materials": [],
-      "Desc": "시그마로 파티를 짜서 영원의 신전 - 피닉스 70레벨 클리어<br>(쉐리 SP 업데이트 후 65레벨 피닉스 클리어로 하향조정, 업데이트 당일 클라이언트 데이터 재확인 필요)"
+      "Desc": "시그마로 파티를 짜서 영원의 신전 - 피닉스 70레벨 클리어<br/>(쉐리 SP 업데이트 후 65레벨 피닉스 클리어로 하향조정, 업데이트 당일 클라이언트 데이터 재확인 필요)"
     },
     {
       "Name": "",
@@ -644,7 +644,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash5.png",
-      "Desc": "[물리 피해]단일 적을 공격 하여 1.25배 피해를 입힌다.<br>자신이 처해 있는 지형이 방어 지형일 시 전투 전 1회 고정 피해를 입힌다.<br>(피해량은 영웅 공격의 1배).",
+      "Desc": "[물리 피해]단일 적을 공격 하여 1.25배 피해를 입힌다.<br/>자신이 처해 있는 지형이 방어 지형일 시 전투 전 1회 고정 피해를 입힌다.<br/>(피해량은 영웅 공격의 1배).",
       "SubSkills": null,
       "Animation": null
     },
@@ -670,7 +670,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightErrant.png",
-      "Desc": "[지원]액티브 스킬, 자신이 처해 있는 지형을 숲으로 취급, 1턴 지속.<br>사용 후 재공격 가능.",
+      "Desc": "[지원]액티브 스킬, 자신이 처해 있는 지형을 숲으로 취급, 1턴 지속.<br/>사용 후 재공격 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -684,7 +684,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/11.png",
-      "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
+      "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br/>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -724,7 +724,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash4.png",
-      "Desc": "[물리 피해]단일 적을 공격 하여 0.8배 피해를 입힌다.<br>목표와 거리가 멀 수록 피해가 커진다. 간격 1칸마다 피해 +15%(최대 90%).<br>전투 후 자신의 이동력 +2, 1턴 지속.",
+      "Desc": "[물리 피해]단일 적을 공격 하여 0.8배 피해를 입힌다.<br/>목표와 거리가 멀 수록 피해가 커진다. 간격 1칸마다 피해 +15%(최대 90%).<br/>전투 후 자신의 이동력 +2, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -750,7 +750,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Thump.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -776,7 +776,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Crystal2.png",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '전설의 저편' 아군의 <br>공격, 방어가 상승 및 효과 부여: 생명이 80%이하일 시 피해 +15%. 4턴 지속.<br>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '전설의 저편' 아군의 <br/>공격, 방어가 상승 및 효과 부여: 생명이 80%이하일 시 피해 +15%. 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -818,7 +818,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/시그마/1.png",
-      "Desc": "[패시브]기술 <font color=\"red\">+15%</font><br>자신에게 죽음의 그림자 효과가 있을 경우, 선공 시 '암살자' 종류 병사는 <br>영웅과 함께 공격 및 <font color=\"red\">3</font>칸 범위 내 공격 시 호위 무시",
+      "Desc": "[패시브]기술 <font color=\"red\">+15%</font><br/>자신에게 죽음의 그림자 효과가 있을 경우, 선공 시 '암살자' 종류 병사는 <br/>영웅과 함께 공격 및 <font color=\"red\">3</font>칸 범위 내 공격 시 호위 무시",
       "SubSkills": null,
       "Animation": null
     },
@@ -844,7 +844,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/시그마/2.png",
-      "Desc": "[액티브] 레인저의 인장이 박힌 적 주위 <font color=\"red\">1</font>칸 범위 임의의 위치로 텔레포트 및 대상에게 <font color=\"red\">1.4</font>배 피해<br>전투 진입 전 자신에게 '<font color=\"blue\">근접전 패널티 무효화</font>','<font color=\"blue\">모든 디버프에 면역</font>' 효과 부여, 지속 <font color=\"red\">2</font>행동<br> 죽음의 그림자 효과가 있을 경우 전투에서 쌍방 병사는 공격을 하지 않으며, 상대 영웅을 직접 공격<br> 전투 후 부대 생명 <font color=\"red\">50</font>% 회복 및 '반격 피해 <font color=\"red\">+50</font>%' '이동력 <font color=\"red\">+3</font>' 효과 획득, 지속 <font color=\"red\">1</font>행동 (해당 효과는 해제 불가)<br>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
+      "Desc": "[액티브] 레인저의 인장이 박힌 적 주위 <font color=\"red\">1</font>칸 범위 임의의 위치로 텔레포트 및 대상에게 <font color=\"red\">1.4</font>배 피해<br/>전투 진입 전 자신에게 '<font color=\"blue\">근접전 패널티 무효화</font>','<font color=\"blue\">모든 디버프에 면역</font>' 효과 부여, 지속 <font color=\"red\">2</font>행동<br/> 죽음의 그림자 효과가 있을 경우 전투에서 쌍방 병사는 공격을 하지 않으며, 상대 영웅을 직접 공격<br/> 전투 후 부대 생명 <font color=\"red\">50</font>% 회복 및 '반격 피해 <font color=\"red\">+50</font>%' '이동력 <font color=\"red\">+3</font>' 효과 획득, 지속 <font color=\"red\">1</font>행동 (해당 효과는 해제 불가)<br/>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
       "SubSkills": null,
       "Animation": null
     },
@@ -870,7 +870,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/Skill_Super40_1.png",
-      "Desc": "[액티브]액티브 스킬. 목표에게 [레인저의 인장]부여:<br>\"시그마에게 받는 피해 +15%\"(해제와 면역 불가, <br>시그마의 공격을 받아 피해를 입은후 [레인저의 인장]해제).<br>동시에 [바람사냥]으로 전환:<br>\"[물리피해]단일 적군을 공격하여 1.5배의 피해를 입힌다.<br>비병에 특효가 있다. 사용후 [레인저의 눈]으로 전환\"",
+      "Desc": "[액티브]액티브 스킬. 목표에게 [레인저의 인장]부여:<br/>\"시그마에게 받는 피해 +15%\"(해제와 면역 불가, <br/>시그마의 공격을 받아 피해를 입은후 [레인저의 인장]해제).<br/>동시에 [바람사냥]으로 전환:<br/>\"[물리피해]단일 적군을 공격하여 1.5배의 피해를 입힌다.<br/>비병에 특효가 있다. 사용후 [레인저의 눈]으로 전환\"",
       "SubSkills": null,
       "Animation": "../img/Super/시그마.gif"
     }
@@ -878,11 +878,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 173cm / 64kg<br>◆출연: 랑그릿사V<br>◆소속: 정의로운 동료"
+      "Desc": "◆키/몸무게: 173cm / 64kg<br/>◆출연: 랑그릿사V<br/>◆소속: 정의로운 동료"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "기자로프의 마도 연구소에서 소생한 남성 인조인간 소체로, 코드 네임은 ∑066. 육체 강화 과정 중 과거의 기억을 잃었다. 레인폴스의 추격을 피해 세상을 떠도는 과정에서 출신에 얽힌 진실과 사명을 알게됐다. 결국 성검 랑그릿사를 휘둘러 최종 병기를 저지하고 세상을 구했다.<br><font color=\"#DC143C\"><size=33><i>「기억은 잃었지만, 선과 악은 구별할 수 있다.」</i> </size=33></font>"
+      "Desc": "기자로프의 마도 연구소에서 소생한 남성 인조인간 소체로, 코드 네임은 ∑066. 육체 강화 과정 중 과거의 기억을 잃었다. 레인폴스의 추격을 피해 세상을 떠도는 과정에서 출신에 얽힌 진실과 사명을 알게됐다. 결국 성검 랑그릿사를 휘둘러 최종 병기를 저지하고 세상을 구했다.<br/><font color=\"#DC143C\"><size=33><i>「기억은 잃었지만, 선과 악은 구별할 수 있다.」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -890,7 +890,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "기자로프의 죽음을 알게 된 시그마는 자신이 싸우는 이유에 대해 혼란을 겪는다. 하지만 클라렛과 함께 엘사리아 대륙을 재건하려는 과정에서 자신이 리그리아 제국의 후신인 칼자스 왕국의 귀족 베르너라는 사실을 알게 되었다.<br><font color=\"#DC143C\"><size=33><i>「기억을 잃은 후 더 많은 친구와 동료를 만나다니, 운명이란 정말 알 수 없는 것이군.」</i></size=33></font>"
+      "Desc": "기자로프의 죽음을 알게 된 시그마는 자신이 싸우는 이유에 대해 혼란을 겪는다. 하지만 클라렛과 함께 엘사리아 대륙을 재건하려는 과정에서 자신이 리그리아 제국의 후신인 칼자스 왕국의 귀족 베르너라는 사실을 알게 되었다.<br/><font color=\"#DC143C\"><size=33><i>「기억을 잃은 후 더 많은 친구와 동료를 만나다니, 운명이란 정말 알 수 없는 것이군.」</i></size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -898,7 +898,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "소환된 시그마는 계속 코드 네임을 사용하며 새로운 시공에서 동료들과 자신이 싸우는 목적과 의미를 찾고, 자신만의 정의의 길을 걷는다.<br><font color=\"#DC143C\"><size=33><i>「정의... 맞아, 모든 기억이 다 사라진다고 해도 나는 내 본성이 정의롭다고 확신한다.」</i> </size=33></font>"
+      "Desc": "소환된 시그마는 계속 코드 네임을 사용하며 새로운 시공에서 동료들과 자신이 싸우는 목적과 의미를 찾고, 자신만의 정의의 길을 걷는다.<br/><font color=\"#DC143C\"><size=33><i>「정의... 맞아, 모든 기억이 다 사라진다고 해도 나는 내 본성이 정의롭다고 확신한다.」</i> </size=33></font>"
     }
   ],
   "Performance": [

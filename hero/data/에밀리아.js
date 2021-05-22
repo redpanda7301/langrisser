@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">15%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">15%</font> 회복.<br>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">15%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">15%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">20%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">20%</font> 회복.<br>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">20%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">20%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">25%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">25%</font> 회복.<br>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">25%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">25%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">30%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">30%</font> 회복.<br>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">30%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">30%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
         }
       ]
     }
@@ -79,7 +79,7 @@
     "Name": "영광의 전승(망치)",
     "Stats": "생명 583,공격 85",
     "Icon": "에밀리아.png",
-    "Ability": "방어, 마방 +<font color=\"red\">5</font>%,<br>피격으로 전투 진입 시 부대가 받는 물리 피해 <font color=\"red\">-10</font>%, <br>자신에게 <font color=\"blue\">성스러운 수호</font> 혹은 <br><font color=\"blue\">고급 성스러운 수호</font> 효과가 있을 경우 <br><font color=\"red\">원거리 반격가능</font>"
+    "Ability": "방어, 마방 +<font color=\"red\">5</font>%,<br/>피격으로 전투 진입 시 부대가 받는 물리 피해 <font color=\"red\">-10</font>%, <br/>자신에게 <font color=\"blue\">성스러운 수호</font> 혹은 <br/><font color=\"blue\">고급 성스러운 수호</font> 효과가 있을 경우 <br/><font color=\"red\">원거리 반격가능</font>"
   },
   "Soldiers": [
     3,
@@ -400,7 +400,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Emilia1.png",
-      "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br>[액티브]호위 범위가 2칸으로 증가, [성스러운 수호]효과를 얻는다:<br>'마방'의 1.6배로 공격을 대신한다. 2칸 원거리공격에 대한 반격가능, 2턴 지속.",
+      "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 증가, [성스러운 수호]효과를 얻는다:<br/>'마방'의 1.6배로 공격을 대신한다. 2칸 원거리공격에 대한 반격가능, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -468,7 +468,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Emilia2.png",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.5배 피해를 준다.<br>전투 후, 적에게 '주는 피해량' -20% 부여, 2턴 지속.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 1.5배 피해를 준다.<br/>전투 후, 적에게 '주는 피해량' -20% 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -482,7 +482,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.png",
-      "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -496,7 +496,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Dedication.png",
-      "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
+      "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br/>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -522,7 +522,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Emilia3.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 진입 전[성스러운 수호]효과를 획득한다:<br>마방의 1.6배만큼의 수치로 공격을 대체한다,2칸 원거리공격 반격가능. 2턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 진입 전[성스러운 수호]효과를 획득한다:<br/>마방의 1.6배만큼의 수치로 공격을 대체한다,2칸 원거리공격 반격가능. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -536,7 +536,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefBuf.png",
-      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br/>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -562,7 +562,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Super31.png",
-      "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br>불굴 효과 발동후 영웅의 생명 100%회복 및 [용장의신력] 획득, 3턴 지속.<br>[용장의신력]: \"부대 체력이 높을수록 받는 물리 피해량이 최대 30% 감소.<br>[지휘]주변 2칸이내 모든 아군이 받는 치명타피해 -30%, 고정피해 -20%.<br>[액티브]호위 범위가 2칸으로 증가,지휘 범위 3칸으로 상승,[고급 성스러운 수호]효과를 얻는다:<br>[고급 성스러운 수호]:'마방'의 1.6배로 공격을 대신한다.<br>2칸 원거리공격에 대한 반격가능, 4턴 지속.(해당 효과는 제거불가)",
+      "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>불굴 효과 발동후 영웅의 생명 100%회복 및 [용장의신력] 획득, 3턴 지속.<br/>[용장의신력]: \"부대 체력이 높을수록 받는 물리 피해량이 최대 30% 감소.<br/>[지휘]주변 2칸이내 모든 아군이 받는 치명타피해 -30%, 고정피해 -20%.<br/>[액티브]호위 범위가 2칸으로 증가,지휘 범위 3칸으로 상승,[고급 성스러운 수호]효과를 얻는다:<br/>[고급 성스러운 수호]:'마방'의 1.6배로 공격을 대신한다.<br/>2칸 원거리공격에 대한 반격가능, 4턴 지속.(해당 효과는 제거불가)",
       "SubSkills": null,
       "Animation": "../img/Super/에밀리아.gif"
     }
@@ -570,7 +570,7 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 150cm/40kg<br>◆신체 사이즈: 74/50/73  <br>◆소속: 정의로운 동료"
+      "Desc": "◆키/몸무게: 150cm/40kg<br/>◆신체 사이즈: 74/50/73  <br/>◆소속: 정의로운 동료"
     },
     {
       "Entry": "영웅담1",

@@ -77,16 +77,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">2칸</font> 내 아군 부대가 없을 시 받는 모든 피해량 <font color=\"red\">-10%</font>.<br> 적 처치 후 <font color=\"red\">1회</font> 다시 행동 가능.<br> 이 효과는 발동 후 <font color=\"red\">4턴</font>이 지나야 다시 발동할 수 있다."
+          "Desc": "주위 <font color=\"red\">2칸</font> 내 아군 부대가 없을 시 받는 모든 피해량 <font color=\"red\">-10%</font>.<br/> 적 처치 후 <font color=\"red\">1회</font> 다시 행동 가능.<br/> 이 효과는 발동 후 <font color=\"red\">4턴</font>이 지나야 다시 발동할 수 있다."
         },
         {
-          "Desc": "주위 <font color=\"red\">2칸</font> 내 아군 부대가 없을 시 받는 모든 피해량 <font color=\"red\">-15%</font>.<br> 적 처치 후 <font color=\"red\">1회</font> 다시 행동 가능.<br> 이 효과는 발동 후 <font color=\"red\">3턴</font>이 지나야 다시 발동할 수 있다."
+          "Desc": "주위 <font color=\"red\">2칸</font> 내 아군 부대가 없을 시 받는 모든 피해량 <font color=\"red\">-15%</font>.<br/> 적 처치 후 <font color=\"red\">1회</font> 다시 행동 가능.<br/> 이 효과는 발동 후 <font color=\"red\">3턴</font>이 지나야 다시 발동할 수 있다."
         },
         {
-          "Desc": "주위 <font color=\"red\">2칸</font> 내 아군 부대가 없을 시 받는 모든 피해량 <font color=\"red\">-20%</font>.<br> 적 처치 후 <font color=\"red\">1회</font> 다시 행동 가능.<br> 이 효과는 발동 후 <font color=\"red\">3턴</font>이 지나야 다시 발동할 수 있다."
+          "Desc": "주위 <font color=\"red\">2칸</font> 내 아군 부대가 없을 시 받는 모든 피해량 <font color=\"red\">-20%</font>.<br/> 적 처치 후 <font color=\"red\">1회</font> 다시 행동 가능.<br/> 이 효과는 발동 후 <font color=\"red\">3턴</font>이 지나야 다시 발동할 수 있다."
         },
         {
-          "Desc": "주위 <font color=\"red\">2칸</font> 내 아군 부대가 없을 시 받는 모든 피해량 <font color=\"red\">-25%</font>.<br> 적 처치 후 <font color=\"red\">1회</font> 다시 행동 가능.<br> 이 효과는 발동 후 <font color=\"red\">2턴</font>이 지나야 다시 발동할 수 있다."
+          "Desc": "주위 <font color=\"red\">2칸</font> 내 아군 부대가 없을 시 받는 모든 피해량 <font color=\"red\">-25%</font>.<br/> 적 처치 후 <font color=\"red\">1회</font> 다시 행동 가능.<br/> 이 효과는 발동 후 <font color=\"red\">2턴</font>이 지나야 다시 발동할 수 있다."
         }
       ]
     }
@@ -103,16 +103,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br><b>공격 받아 전투 진입 시</b> 받는 피해 <font color=\"red\">-10%</font><br><b>선공으로 전투 진입 시</b> 공격 <font color=\"red\">+10%</font> <br><b>전투 후 자신 <font color=\"red\">2</font>칸 범위 안에 있는 적이 <font color=\"red\">1</font>명 이하일 경우 재행동 <font color=\"red\">1</font>회</b><br>(쿨 <font color=\"red\">4</font>)"
+          "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>공격 받아 전투 진입 시</b> 받는 피해 <font color=\"red\">-10%</font><br/><b>선공으로 전투 진입 시</b> 공격 <font color=\"red\">+10%</font> <br/><b>전투 후 자신 <font color=\"red\">2</font>칸 범위 안에 있는 적이 <font color=\"red\">1</font>명 이하일 경우 재행동 <font color=\"red\">1</font>회</b><br/>(쿨 <font color=\"red\">4</font>)"
         },
         {
-          "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br><b>공격 받아 전투 진입 시</b> 받는 피해 <font color=\"red\">-13%</font><br><b>선공으로 전투 진입 시</b> 공격 <font color=\"red\">+15%</font> <br><b>전투 후 자신 <font color=\"red\">2</font>칸 범위 안에 있는 적이 <font color=\"red\">1</font>명 이하일 경우 재행동 <font color=\"red\">1</font>회</b><br>(쿨 <font color=\"red\">3</font>)"
+          "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>공격 받아 전투 진입 시</b> 받는 피해 <font color=\"red\">-13%</font><br/><b>선공으로 전투 진입 시</b> 공격 <font color=\"red\">+15%</font> <br/><b>전투 후 자신 <font color=\"red\">2</font>칸 범위 안에 있는 적이 <font color=\"red\">1</font>명 이하일 경우 재행동 <font color=\"red\">1</font>회</b><br/>(쿨 <font color=\"red\">3</font>)"
         },
         {
-          "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br><b>공격 받아 전투 진입 시</b> 받는 피해 <font color=\"red\">-16%</font><br><b>선공으로 전투 진입 시</b> 공격 <font color=\"red\">+20%</font> <br><b>전투 후 자신 <font color=\"red\">2</font>칸 범위 안에 있는 적이 <font color=\"red\">1</font>명 이하일 경우 재행동 <font color=\"red\">1</font>회</b><br>(쿨 <font color=\"red\">3</font>)"
+          "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>공격 받아 전투 진입 시</b> 받는 피해 <font color=\"red\">-16%</font><br/><b>선공으로 전투 진입 시</b> 공격 <font color=\"red\">+20%</font> <br/><b>전투 후 자신 <font color=\"red\">2</font>칸 범위 안에 있는 적이 <font color=\"red\">1</font>명 이하일 경우 재행동 <font color=\"red\">1</font>회</b><br/>(쿨 <font color=\"red\">3</font>)"
         },
         {
-          "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br><b>공격 받아 전투 진입 시</b> 받는 피해 <font color=\"red\">-20%</font><br><b>선공으로 전투 진입 시</b> 공격 <font color=\"red\">+25%</font> <br><b>전투 후 자신 <font color=\"red\">2</font>칸 범위 안에 있는 적이 <font color=\"red\">1</font>명 이하일 경우 재행동 <font color=\"red\">1</font>회</b><br>(쿨 <font color=\"red\">2</font>)"
+          "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>공격 받아 전투 진입 시</b> 받는 피해 <font color=\"red\">-20%</font><br/><b>선공으로 전투 진입 시</b> 공격 <font color=\"red\">+25%</font> <br/><b>전투 후 자신 <font color=\"red\">2</font>칸 범위 안에 있는 적이 <font color=\"red\">1</font>명 이하일 경우 재행동 <font color=\"red\">1</font>회</b><br/>(쿨 <font color=\"red\">2</font>)"
         }
       ]
     }
@@ -121,7 +121,7 @@
     "Name": "1UP(갑옷)",
     "Stats": "생명 509,방어 59",
     "Icon": "쉐리.png",
-    "Ability": "방어, 마방 +5%<br>공격하여 전투 진입시 사망방지(4턴 후 재발동 가능)"
+    "Ability": "방어, 마방 +5%<br/>공격하여 전투 진입시 사망방지(4턴 후 재발동 가능)"
   },
   "Soldiers": [
     7,
@@ -221,8 +221,8 @@
       "MagicDefRate": 70,
       "Skill": 164,
       "SkillRate": 54,
-      "HeartFetterBouns1": "<b>공격받아 전투 진입 시</b> <br>받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입 시</b> <br>주는 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>공격받아 전투 진입 시</b> <br/>받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입 시</b> <br/>주는 피해 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "하이 마스터",
@@ -684,7 +684,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
+      "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
       "SubSkills": null,
       "Animation": null
     },
@@ -738,7 +738,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/8.png",
-      "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br>모든 목표에게 랜덤으로 디버프 시전.",
+      "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
       "SubSkills": null,
       "Animation": null
     },
@@ -764,7 +764,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FlySuper.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격하여 1.6배의 전투 피해를 준다.<br>전투 후 [질풍],[바람타기]효과 획득, 2턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격하여 1.6배의 전투 피해를 준다.<br/>전투 후 [질풍],[바람타기]효과 획득, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -818,7 +818,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass2.png",
-      "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -858,7 +858,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/쉐리/1.png",
-      "Desc": "[패시브]부대 이동 <font color=\"red\">+2</font>,<br><b>자신이 혼합 부대일 경우 행동 종료 시 부대 생명 <font color=\"red\">30</font>% 회복</b>",
+      "Desc": "[패시브]부대 이동 <font color=\"red\">+2</font>,<br/><b>자신이 혼합 부대일 경우 행동 종료 시 부대 생명 <font color=\"red\">30</font>% 회복</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -884,7 +884,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/쉐리/2.png",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 주고,<br><b>적을 <font color=\"red\">2</font>칸 밀친다.</b><br><b>전투 후 피해량 <font color=\"red\">20</font>% 수치로 생명 회복 및 적에게 패시브 봉인 부여</b><br>지속 <font color=\"red\">1</font>행동",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 주고,<br/><b>적을 <font color=\"red\">2</font>칸 밀친다.</b><br/><b>전투 후 피해량 <font color=\"red\">20</font>% 수치로 생명 회복 및 적에게 패시브 봉인 부여</b><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -910,7 +910,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/Skill_Super1.png",
-      "Desc": "[물리피해] 단일 적군을 공격하여 1.6배의 물리피해를 입힌다.<br>전투후 입힌 피해량의 100% 만큼 생명력을 회복.<br>이 스킬로 적을 처치 시 스킬 쿨타임 -4.<br>처지 하지 못할 경우 적군에게 [기절] 부여, 지속 1회합(제거불가)",
+      "Desc": "[물리피해] 단일 적군을 공격하여 1.6배의 물리피해를 입힌다.<br/>전투후 입힌 피해량의 100% 만큼 생명력을 회복.<br/>이 스킬로 적을 처치 시 스킬 쿨타임 -4.<br/>처지 하지 못할 경우 적군에게 [기절] 부여, 지속 1회합(제거불가)",
       "SubSkills": null,
       "Animation": "../img/Super/mmexport1579538543983.gif"
     }
@@ -918,27 +918,27 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：164cm / 45kg<br>◆신체 사이즈：82/52/85<br>◆출연：랑그릿사II<br>◆소속：칼자스 왕국"
+      "Desc": "◆키/몸무게：164cm / 45kg<br/>◆신체 사이즈：82/52/85<br/>◆출연：랑그릿사II<br/>◆소속：칼자스 왕국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "고대 칼자스 왕국의 공주이자 란스와 나암의 후손인 빛의 후예.<br>왕족의 책임을 싫어하고 재미없는 왕궁 생활에 질린 터라 <br>종종 왕성 밖으로 혼자 여행을 떠난다. 키스 선생이 골머리를 앓는 것은 덤. <br>처음에 자신의 외모를 가린 채 등장했기에 <br>그녀의 신분을 알게 된 일행은 매우 놀라게 된다.<br><font color=\"#DC143C\"><size=33><i>「헤에, 얼굴이 빨개졌네~~~ 정말 귀여워라~~~」 </i>  </size=33></font>"
+      "Desc": "고대 칼자스 왕국의 공주이자 란스와 나암의 후손인 빛의 후예.<br/>왕족의 책임을 싫어하고 재미없는 왕궁 생활에 질린 터라 <br/>종종 왕성 밖으로 혼자 여행을 떠난다. 키스 선생이 골머리를 앓는 것은 덤. <br/>처음에 자신의 외모를 가린 채 등장했기에 <br/>그녀의 신분을 알게 된 일행은 매우 놀라게 된다.<br/><font color=\"#DC143C\"><size=33><i>「헤에, 얼굴이 빨개졌네~~~ 정말 귀여워라~~~」 </i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
-      "Desc": "솔직하고 장난기 많은 공주로 망설이는 법이 없다. <br>안주하는 것을 싫어하고 모험을 좋아하기에 언제나 새로운 도전을 갈망하고 있다.<br>처음엔 전쟁을 즐기기까지 했던 터라 헤인에게 굳세고 강한 여자아이라는 소리를 들었다."
+      "Desc": "솔직하고 장난기 많은 공주로 망설이는 법이 없다. <br/>안주하는 것을 싫어하고 모험을 좋아하기에 언제나 새로운 도전을 갈망하고 있다.<br/>처음엔 전쟁을 즐기기까지 했던 터라 헤인에게 굳세고 강한 여자아이라는 소리를 들었다."
     },
     {
       "Entry": "영웅담3",
-      "Desc": "자신의 아이조차 보지 못했던 발가스의 죽음을 본 뒤 전쟁이 가져오는 불행을 인식하게 된다. <br>그리고 다른 동료와 마찬가지로 수많은 비극을 만드는 전란을 끝내기 위해 노력한다."
+      "Desc": "자신의 아이조차 보지 못했던 발가스의 죽음을 본 뒤 전쟁이 가져오는 불행을 인식하게 된다. <br/>그리고 다른 동료와 마찬가지로 수많은 비극을 만드는 전란을 끝내기 위해 노력한다."
     },
     {
       "Entry": "영웅담4",
-      "Desc": "전쟁이 끝나고 얼마 지나지 않아. 쉐리는 또다시 왕성을 탈출해 모험을 떠난다. <br>그리고 칼자스를 위협하는 마왕을 홀로 물리치고 최강의 용사라 불리게 된다.<br>그리고 만족한 쉐리는 드디어 성으로 돌아와 왕국을 다스리는 데 전념한다."
+      "Desc": "전쟁이 끝나고 얼마 지나지 않아. 쉐리는 또다시 왕성을 탈출해 모험을 떠난다. <br/>그리고 칼자스를 위협하는 마왕을 홀로 물리치고 최강의 용사라 불리게 된다.<br/>그리고 만족한 쉐리는 드디어 성으로 돌아와 왕국을 다스리는 데 전념한다."
     },
     {
       "Entry": "영웅담5",
-      "Desc": "새로운 시대, 새로운 세계! 더 말할 필요 없이 쉐리는 이미 새로운 모험을 시작했다. <br><font color=\"#DC143C\"><size=33><i>「그럼 출발하자! 함께하고 싶다면 따라와!」</i>  </size=33></font>"
+      "Desc": "새로운 시대, 새로운 세계! 더 말할 필요 없이 쉐리는 이미 새로운 모험을 시작했다. <br/><font color=\"#DC143C\"><size=33><i>「그럼 출발하자! 함께하고 싶다면 따라와!」</i>  </size=33></font>"
     }
   ],
   "Performance": [

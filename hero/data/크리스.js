@@ -62,19 +62,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+10%</font>.<br> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 <font color=\"red\">1개</font> 다른 아군 부대의<br> 디버프 <font color=\"red\">1개</font> 제거 및 무작위 버프 <font color=\"red\">1개</font> 부여."
+          "Desc": "주는 피해량 <font color=\"red\">+10%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 <font color=\"red\">1개</font> 다른 아군 부대의<br/> 디버프 <font color=\"red\">1개</font> 제거 및 무작위 버프 <font color=\"red\">1개</font> 부여."
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+12%</font>.<br> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대의<br> 디버프 <font color=\"red\">1개</font> 제거 및 무작위 버프 <font color=\"red\">1개</font> 부여."
+          "Desc": "주는 피해량 <font color=\"red\">+12%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대의<br/> 디버프 <font color=\"red\">1개</font> 제거 및 무작위 버프 <font color=\"red\">1개</font> 부여."
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+14%</font>.<br> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대의<br> 디버프 <font color=\"red\">1개</font> 제거 및 무작위 버프 <font color=\"red\">1개</font> 부여."
+          "Desc": "주는 피해량 <font color=\"red\">+14%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대의<br/> 디버프 <font color=\"red\">1개</font> 제거 및 무작위 버프 <font color=\"red\">1개</font> 부여."
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+17%</font>.<br> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">3개</font> 다른 아군 부대의<br> 디버프 <font color=\"red\">1개</font> 제거 및 무작위 버프 <font color=\"red\">1개</font> 부여."
+          "Desc": "주는 피해량 <font color=\"red\">+17%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">3개</font> 다른 아군 부대의<br/> 디버프 <font color=\"red\">1개</font> 제거 및 무작위 버프 <font color=\"red\">1개</font> 부여."
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+20%</font>.<br> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">4개</font> 다른 아군 부대의<br> 디버프 <font color=\"red\">1개</font> 제거 및 무작위 버프 <font color=\"red\">1개</font> 부여."
+          "Desc": "주는 피해량 <font color=\"red\">+20%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">4개</font> 다른 아군 부대의<br/> 디버프 <font color=\"red\">1개</font> 제거 및 무작위 버프 <font color=\"red\">1개</font> 부여."
         }
       ]
     }
@@ -84,7 +84,7 @@
     "Name": "성녀 예찬(투구)",
     "Stats": "생명 437, 마방 59",
     "Icon": "크리스.png",
-    "Ability": "생명<font color=\"red\">+5%</font>, 마방<font color=\"red\">+5%</font>. <br><b>피해를 입힌 뒤 행동 종료 시</b>, <br><b><font color=\"blue\">고유 스킬</font>로 부여하는 랜덤한 버프가 <font color=\"red\">1</font>가지 추가</b>.<br><b>마물 격파 후 재행동 <font color=\"red\">1<font>회</font></font></b> <br>쿨타임 <font color=\"red\">2</font>턴"
+    "Ability": "생명<font color=\"red\">+5%</font>, 마방<font color=\"red\">+5%</font>. <br/><b>피해를 입힌 뒤 행동 종료 시</b>, <br/><b><font color=\"blue\">고유 스킬</font>로 부여하는 랜덤한 버프가 <font color=\"red\">1</font>가지 추가</b>.<br/><b>마물 격파 후 재행동 <font color=\"red\">1<font>회</font></font></b> <br/>쿨타임 <font color=\"red\">2</font>턴"
   },
   "Soldiers": [
     0,
@@ -414,7 +414,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash.png",
-      "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br>근접병사를 휴대할 경우 병사도 같이 공격한다.",
+      "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -440,7 +440,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ATKup.png",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -454,7 +454,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Belief.png",
-      "Desc": "[패시브] 공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br>전투 후 가장 생명이 적은 다른 아군 생명 회복, 회복량은 자신 지력의 <font color=\"red\">2</font>배.",
+      "Desc": "[패시브] 공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br/>전투 후 가장 생명이 적은 다른 아군 생명 회복, 회복량은 자신 지력의 <font color=\"red\">2</font>배.",
       "SubSkills": null,
       "Animation": null
     },
@@ -480,7 +480,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ValkSuper.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 후 모든 다른 아군의 생명을 회복시킨다. 회복량은 자신 지력의 2배.<br>근접병사를 휴대할 경우 병사도 같이 공격한다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 모든 다른 아군의 생명을 회복시킨다. 회복량은 자신 지력의 2배.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -506,7 +506,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Sanction.png",
-      "Desc": "[마법 피해]주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br>동시에 적의 2개 버프 제거.",
+      "Desc": "[마법 피해]주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>동시에 적의 2개 버프 제거.",
       "SubSkills": null,
       "Animation": null
     },
@@ -520,7 +520,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefBuf.png",
-      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br/>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -546,7 +546,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Extend.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 생명 회복.<br>회복량은 시전자 지력의 1.5배, 3개 디버프 제거.",
+      "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 생명 회복.<br/>회복량은 시전자 지력의 1.5배, 3개 디버프 제거.",
       "SubSkills": null,
       "Animation": null
     },
@@ -572,7 +572,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -598,7 +598,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -624,7 +624,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/Skill_Super3.png",
-      "Desc": "[마법피해] 단일 적군을 공격하여 1.6배의 마법피해를 입힌다.<br>전투후 지력의 2배 수치만큼 모든 아군의 생명 회복 및 디버프 1개 제거.<br>근접병사를 휴대할 경우 병사도 같이 공격한다.<br>전투전, 부대가 입히는 피해량 +20%, 받는 피해량-20% 지속 2회합.<br>적군이 '마물'일 경우 전투전 기절을 부여,지속 1회합(제거 불가)",
+      "Desc": "[마법피해] 단일 적군을 공격하여 1.6배의 마법피해를 입힌다.<br/>전투후 지력의 2배 수치만큼 모든 아군의 생명 회복 및 디버프 1개 제거.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.<br/>전투전, 부대가 입히는 피해량 +20%, 받는 피해량-20% 지속 2회합.<br/>적군이 '마물'일 경우 전투전 기절을 부여,지속 1회합(제거 불가)",
       "SubSkills": null,
       "Animation": "../img/Super/mmexport1579361642823.gif"
     }
@@ -632,11 +632,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：162cm / 46kg<br>◆신체 사이즈：86/56/84<br>◆출연：랑그릿사I<br>◆소속：발디아 왕국"
+      "Desc": "◆키/몸무게：162cm / 46kg<br/>◆신체 사이즈：86/56/84<br/>◆출연：랑그릿사I<br/>◆소속：발디아 왕국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "순결하고 세상 물정 모르는 수녀. 경건하게 여신을 받들며 빛의 힘으로 세상 사람들에게 복음을 전한다. 살라스의 싸움 이후 크리스는 레딘을 따라 싸웠고 혼돈의 신을 마주하고도 물러서지 않았다.언제나 마음속에 선의와 사랑이 가득하며 세상에 새겨진 전쟁의 상처를 치유할 수 있길 바라고 있다.<br><font color=\"#DC143C\"><size=33><i>「언제나 희망을 잃지 마세요!」</i>  </size=33></font>"
+      "Desc": "순결하고 세상 물정 모르는 수녀. 경건하게 여신을 받들며 빛의 힘으로 세상 사람들에게 복음을 전한다. 살라스의 싸움 이후 크리스는 레딘을 따라 싸웠고 혼돈의 신을 마주하고도 물러서지 않았다.언제나 마음속에 선의와 사랑이 가득하며 세상에 새겨진 전쟁의 상처를 치유할 수 있길 바라고 있다.<br/><font color=\"#DC143C\"><size=33><i>「언제나 희망을 잃지 마세요!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -644,7 +644,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "언제나 열성적으로 그리고 순수한 사랑과 치유의 마음으로 전장에서 동료를 돕는다. 평범한 수녀일 뿐이었지만 레딘을 흠모하기에 최선을 다해 그를 도왔다. <br><font color=\"#DC143C\"><size=33><i>「저, 저기... 레딘 왕자님, 저도 같이 싸우면 안 되겠습니까?」</i>  </size=33></font>"
+      "Desc": "언제나 열성적으로 그리고 순수한 사랑과 치유의 마음으로 전장에서 동료를 돕는다. 평범한 수녀일 뿐이었지만 레딘을 흠모하기에 최선을 다해 그를 도왔다. <br/><font color=\"#DC143C\"><size=33><i>「저, 저기... 레딘 왕자님, 저도 같이 싸우면 안 되겠습니까?」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담4",

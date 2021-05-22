@@ -57,19 +57,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+3%</font> 최대 <font color=\"red\">+9%</font>.<br> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">1개</font> 탈취."
+          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+3%</font> 최대 <font color=\"red\">+9%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">1개</font> 탈취."
         },
         {
-          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+4%</font> 최대 <font color=\"red\">+12%</font>.<br> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">1개</font> 탈취."
+          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+4%</font> 최대 <font color=\"red\">+12%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">1개</font> 탈취."
         },
         {
-          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+5%</font> 최대 <font color=\"red\">+15%</font>.<br> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
+          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+5%</font> 최대 <font color=\"red\">+15%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
         },
         {
-          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+6%</font> 최대 <font color=\"red\">+18%</font>.<br> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
+          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+6%</font> 최대 <font color=\"red\">+18%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
         },
         {
-          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+7%</font> 최대 <font color=\"red\">+21%</font>.<br> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
+          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+7%</font> 최대 <font color=\"red\">+21%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
         }
       ]
     }
@@ -79,7 +79,7 @@
     "Name": "의적의 가면(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "실버울프.png",
-    "Ability": "마방 +5%<br>공격하여 전투진입시, 상대보다 강화버프가 2배 많을 경우 상대보다 먼저 공격"
+    "Ability": "마방 +5%<br/>공격하여 전투진입시, 상대보다 강화버프가 2배 많을 경우 상대보다 먼저 공격"
   },
   "Soldiers": [
     6,
@@ -401,7 +401,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Coldblood.png",
-      "Desc": "[지원]사용 후 자신 부대 치명타율, 치명타 피해량 <font color=\"red\">+15%</font>, <font color=\"red\">2턴</font> 지속.<br>사용 후 추가로 <font color=\"red\">2칸</font> 이동할 수 있고 다시 공격할 수 있다.",
+      "Desc": "[지원]사용 후 자신 부대 치명타율, 치명타 피해량 <font color=\"red\">+15%</font>, <font color=\"red\">2턴</font> 지속.<br/>사용 후 추가로 <font color=\"red\">2칸</font> 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -415,7 +415,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass1.png",
-      "Desc": "[패시브]전투 중 치명타가 발생한 경우<br>전투 후 적에게 [고정 피해]를 준다.(피해량은 영웅 공격의 2배)",
+      "Desc": "[패시브]전투 중 치명타가 발생한 경우<br/>전투 후 적에게 [고정 피해]를 준다.(피해량은 영웅 공격의 2배)",
       "SubSkills": null,
       "Animation": null
     },
@@ -441,7 +441,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash2.png",
-      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br>치명타율 +20%.",
+      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br/>치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -469,7 +469,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass3.png",
-      "Desc": "[패시브]치명타 피해량 +20%. 전투 중 치명타가 발생한 경우<br>전투 종료 후 받는 모든 피해량 -30%, 1턴 지속.",
+      "Desc": "[패시브]치명타 피해량 +20%. 전투 중 치명타가 발생한 경우<br/>전투 종료 후 받는 모든 피해량 -30%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -483,7 +483,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_TrickStep.png",
-      "Desc": "[패시브]치명타 확률+10%.<br>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
+      "Desc": "[패시브]치명타 확률+10%.<br/>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -509,7 +509,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.png",
-      "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다.<br>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
+      "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -549,7 +549,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.png",
-      "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br>2턴 지속, 치명타 발생 시 반드시 발동.",
+      "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -583,11 +583,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：178cm / 69kg<br>◆출연：랑그릿사III<br>◆소속：정의로운 동료"
+      "Desc": "◆키/몸무게：178cm / 69kg<br/>◆출연：랑그릿사III<br/>◆소속：정의로운 동료"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "'의적'을 자처하는 도적 두목. 자신의 신분을 감추기 위해 언제나 얼굴을 가리고 자신을 실버울프라 부르며 본명을 숨기고 있다. 적절한 시기에 나타나 디하르트 일행에게 도움을 준 믿음직하고 강력한 아군.<br><font color=\"#DC143C\"><size=33><i>「내 뒤에 서지 마라... 나도 모르게 죽일 수 있으니...」</i>  </size=33></font>"
+      "Desc": "'의적'을 자처하는 도적 두목. 자신의 신분을 감추기 위해 언제나 얼굴을 가리고 자신을 실버울프라 부르며 본명을 숨기고 있다. 적절한 시기에 나타나 디하르트 일행에게 도움을 준 믿음직하고 강력한 아군.<br/><font color=\"#DC143C\"><size=33><i>「내 뒤에 서지 마라... 나도 모르게 죽일 수 있으니...」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -603,7 +603,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "현대에 영령으로 소환되었지만 과묵한 건 여전하다. 때때로 갑자기 사라진 후 대단한 정보를 가지고 돌아오기도 한다. <br><font color=\"#DC143C\"><size=33><i>「긴말할 필요 없다. 가자.」</i>  </size=33></font>"
+      "Desc": "현대에 영령으로 소환되었지만 과묵한 건 여전하다. 때때로 갑자기 사라진 후 대단한 정보를 가지고 돌아오기도 한다. <br/><font color=\"#DC143C\"><size=33><i>「긴말할 필요 없다. 가자.」</i>  </size=33></font>"
     }
   ],
   "Performance": [

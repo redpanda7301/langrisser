@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신의 마방 <font color=\"red\">1.5</font>배로 지력을 대체.<br>병종의 상극을 무시.<br>적군에게 피해를 입힌 후 &#39;상처저주&#39;시전: <br>받는 치유량의  <font color=\"red\">20%</font>가 피해로 변환. <font color=\"red\">1</font>턴 지속."
+          "Desc": "자신의 마방 <font color=\"red\">1.5</font>배로 지력을 대체.<br/>병종의 상극을 무시.<br/>적군에게 피해를 입힌 후 &#39;상처저주&#39;시전: <br/>받는 치유량의  <font color=\"red\">20%</font>가 피해로 변환. <font color=\"red\">1</font>턴 지속."
         },
         {
-          "Desc": "자신의 마방 <font color=\"red\">1.5</font>배로 지력을 대체.<br>병종의 상극을 무시.<br>적군에게 피해를 입힌 후 &#39;상처저주&#39;시전: <br>받는 치유량의  <font color=\"red\">30%</font>가 피해로 변환. <font color=\"red\">1</font>턴 지속."
+          "Desc": "자신의 마방 <font color=\"red\">1.5</font>배로 지력을 대체.<br/>병종의 상극을 무시.<br/>적군에게 피해를 입힌 후 &#39;상처저주&#39;시전: <br/>받는 치유량의  <font color=\"red\">30%</font>가 피해로 변환. <font color=\"red\">1</font>턴 지속."
         },
         {
-          "Desc": "자신의 마방 <font color=\"red\">1.5</font>배로 지력을 대체.<br>병종의 상극을 무시.<br>적군에게 피해를 입힌 후 &#39;상처저주&#39;시전: <br>받는 치유량의  <font color=\"red\">40%</font>가 피해로 변환. <font color=\"red\">1</font>턴 지속."
+          "Desc": "자신의 마방 <font color=\"red\">1.5</font>배로 지력을 대체.<br/>병종의 상극을 무시.<br/>적군에게 피해를 입힌 후 &#39;상처저주&#39;시전: <br/>받는 치유량의  <font color=\"red\">40%</font>가 피해로 변환. <font color=\"red\">1</font>턴 지속."
         },
         {
-          "Desc": "자신의 마방 <font color=\"red\">1.5</font>배로 지력을 대체.<br>병종의 상극을 무시.<br>적군에게 피해를 입힌 후 &#39;상처저주&#39;시전: <br>받는 치유량의  <font color=\"red\">50%</font>가 피해로 변환. <font color=\"red\">1</font>턴 지속."
+          "Desc": "자신의 마방 <font color=\"red\">1.5</font>배로 지력을 대체.<br/>병종의 상극을 무시.<br/>적군에게 피해를 입힌 후 &#39;상처저주&#39;시전: <br/>받는 치유량의  <font color=\"red\">50%</font>가 피해로 변환. <font color=\"red\">1</font>턴 지속."
         }
       ]
     }
@@ -394,7 +394,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DevilGuard.png",
-      "Desc": "[패시브]근접한 아군을 대신해 마법 공격을 받는다.<br>행동 종료 시 이번 턴에 피해를 입혔을 경우 자신 부대의 생명 30%회복.",
+      "Desc": "[패시브]근접한 아군을 대신해 마법 공격을 받는다.<br/>행동 종료 시 이번 턴에 피해를 입혔을 경우 자신 부대의 생명 30%회복.",
       "SubSkills": null,
       "Animation": null
     },
@@ -420,7 +420,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HolyStrike.png",
-      "Desc": "[마법 피해]단일 적군에게 1.5배로 공격.<br>전투 후 피해의 30%만큼 생명 회복.",
+      "Desc": "[마법 피해]단일 적군에게 1.5배로 공격.<br/>전투 후 피해의 30%만큼 생명 회복.",
       "SubSkills": null,
       "Animation": null
     },
@@ -446,7 +446,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MagicGuard.png",
-      "Desc": "[패시브]주위 아군을 대신해 마법 공격을 받는다.<br>호위 범위 2칸으로 상승, 2칸 간격인 원거리 마법 공격에 대해 반격을 한다. 2턴 지속.",
+      "Desc": "[패시브]주위 아군을 대신해 마법 공격을 받는다.<br/>호위 범위 2칸으로 상승, 2칸 간격인 원거리 마법 공격에 대해 반격을 한다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -460,7 +460,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BloodBackset.png",
-      "Desc": "[패시브]전투 진입 시 부대가 받는 피해 15%를 반사.<br>전투 후 기타 아군의 생명을 최대 생명에 따라 회복.<br>(해당 비율은 반사한 피해의 50%).",
+      "Desc": "[패시브]전투 진입 시 부대가 받는 피해 15%를 반사.<br/>전투 후 기타 아군의 생명을 최대 생명에 따라 회복.<br/>(해당 비율은 반사한 피해의 50%).",
       "SubSkills": null,
       "Animation": null
     },
@@ -486,7 +486,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BloodDance.png",
-      "Desc": "[마법 피해]주위 2칸 내 모든 적군에게 1회 0.1배의 범위 피해를 입힌다.<br>행동 종료 후 한번 더 현재 영웅 생명의 50%[고정 피해]를<br>입히며 영웅 자신도 동일한 생명을 손실한다.",
+      "Desc": "[마법 피해]주위 2칸 내 모든 적군에게 1회 0.1배의 범위 피해를 입힌다.<br/>행동 종료 후 한번 더 현재 영웅 생명의 50%[고정 피해]를<br/>입히며 영웅 자신도 동일한 생명을 손실한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -512,7 +512,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BreakMDef.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br>적에게 받는 마법 피해량 +20%, 2턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 받는 마법 피해량 +20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -552,7 +552,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DeathTouch.png",
-      "Desc": "[마법 피해]전장에서 단일 적군에게 0.2배의 마법 피해를 입힌다.<br>적군에게 '치료를 시전할 시 치료량의 35%가 피해로 전환'을 시전,<br>2턴 지속.(제거 불가)",
+      "Desc": "[마법 피해]전장에서 단일 적군에게 0.2배의 마법 피해를 입힌다.<br/>적군에게 '치료를 시전할 시 치료량의 35%가 피해로 전환'을 시전,<br/>2턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -592,7 +592,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/리스틸.png",
-      "Desc": "[마법 피해]<b>범위내 적에게 <font color=\"red\">0.3</font>배 피해 및 <br><font color=\"blue\">치료</font>를 시전할 시 치료 효과를 <font color=\"red\">35</font>% 수치 피해로 반전 효과 부여,</b><br><b>지속 <font color=\"red\">1</font>행동, 해제 불가</b><br><b>명중한 모든 지형에 『<font color=\"blue\">피의 늪</font>』 효과 <font color=\"red\">1</font>턴 부여</b> :<br><b>해당 지형으로 위치한 적이 행동 종료 시 <font color=\"purple\">고유 스킬</font>과 동일한 『<font color=\"blue\">상처 저주</font>』 효과 부여</b>",
+      "Desc": "[마법 피해]<b>범위내 적에게 <font color=\"red\">0.3</font>배 피해 및 <br/><font color=\"blue\">치료</font>를 시전할 시 치료 효과를 <font color=\"red\">35</font>% 수치 피해로 반전 효과 부여,</b><br/><b>지속 <font color=\"red\">1</font>행동, 해제 불가</b><br/><b>명중한 모든 지형에 『<font color=\"blue\">피의 늪</font>』 효과 <font color=\"red\">1</font>턴 부여</b> :<br/><b>해당 지형으로 위치한 적이 행동 종료 시 <font color=\"purple\">고유 스킬</font>과 동일한 『<font color=\"blue\">상처 저주</font>』 효과 부여</b>",
       "SubSkills": null,
       "Animation": "../img/Super/리스틸.gif"
     }
@@ -600,11 +600,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 172cm / 51kg<br>◆신체 사이즈: 84/55/83<br>◆출연: 랑그릿사IV<br>◆소속: 어둠의 왕국 벨제리아"
+      "Desc": "◆키/몸무게: 172cm / 51kg<br/>◆신체 사이즈: 84/55/83<br/>◆출연: 랑그릿사IV<br/>◆소속: 어둠의 왕국 벨제리아"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "신비한 마족. 보젤의 하인이였지만 몇번의 임무 실패 후 죽음에 떨고 있는 그녀를 란디우스가 거둔다. 신기한 능력과 풍부한 마족 지식을 소유하고 있으며 란디우스 일행을 도와 어둠의 세력을 물리친다. <br><font color=\"#DC143C\"><size=33><i>「이 것이...인간의 감정인가? 」</i> </size=33></font>"
+      "Desc": "신비한 마족. 보젤의 하인이였지만 몇번의 임무 실패 후 죽음에 떨고 있는 그녀를 란디우스가 거둔다. 신기한 능력과 풍부한 마족 지식을 소유하고 있으며 란디우스 일행을 도와 어둠의 세력을 물리친다. <br/><font color=\"#DC143C\"><size=33><i>「이 것이...인간의 감정인가? 」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -612,7 +612,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "초기에 마족의 야만적인 성격으로 인해 동료들의 눈살을 찌푸리게 했지만 란디우스의 일행과 같이 시간을 보내면서 온화한 성격으로 변하고 있었다. <br><font color=\"#DC143C\"><size=33><i>「우정? 그게 뭔데? 마족에게는 없어... 알려주면 안 될까?」</i> </size=33></font>"
+      "Desc": "초기에 마족의 야만적인 성격으로 인해 동료들의 눈살을 찌푸리게 했지만 란디우스의 일행과 같이 시간을 보내면서 온화한 성격으로 변하고 있었다. <br/><font color=\"#DC143C\"><size=33><i>「우정? 그게 뭔데? 마족에게는 없어... 알려주면 안 될까?」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -620,7 +620,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "소환된 리스틸은 마족이지만 인간의 감정을 가지고 있다. 독특한 능력과 모성애로 성검 군단을 도운다. <br><font color=\"#DC143C\"><size=33><i>「드디어, 나도 너희들의 인정을 받은거야?」</i> </size=33></font>"
+      "Desc": "소환된 리스틸은 마족이지만 인간의 감정을 가지고 있다. 독특한 능력과 모성애로 성검 군단을 도운다. <br/><font color=\"#DC143C\"><size=33><i>「드디어, 나도 너희들의 인정을 받은거야?」</i> </size=33></font>"
     }
   ],
   "Performance": [

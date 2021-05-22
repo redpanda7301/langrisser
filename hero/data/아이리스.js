@@ -54,19 +54,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br>다른 아군 부대에게 [특수 회복 능력] 부여:<br>행동 종료 시 아이리스 지력의 <font color=\"red\">1</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">1</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br>다른 아군 부대에게 [특수 회복 능력] 부여:<br>행동 종료 시 아이리스 지력의 <font color=\"red\">1.5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">1.5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br>다른 아군 부대에게 [특수 회복 능력] 부여:<br>행동 종료 시 아이리스 지력의 <font color=\"red\">2</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">2</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br>다른 아군 부대에게 [특수 회복 능력] 부여:<br>행동 종료 시 아이리스 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br>다른 아군 부대에게 [특수 회복 능력] 부여:<br>행동 종료 시 아이리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
         }
       ]
     }
@@ -109,7 +109,7 @@
       "Skill": 85,
       "SkillRate": 24,
       "HeartFetterBouns1": "체력 50%미만시 받는피해 -10%",
-      "HeartFetterBouns2": "공격하여 전투진입시 <br>병사가 입히는피해 +20%"
+      "HeartFetterBouns2": "공격하여 전투진입시 <br/>병사가 입히는피해 +20%"
     },
     {
       "Name": "아이리스 전용 광무",
@@ -137,7 +137,7 @@
       "MagicDefRate": 69,
       "Skill": 110,
       "SkillRate": 31,
-      "HeartFetterBouns1": "체력 80%이상일때<br>치명타 공격을 받을확률 -10%",
+      "HeartFetterBouns1": "체력 80%이상일때<br/>치명타 공격을 받을확률 -10%",
       "HeartFetterBouns2": "공격하여 전투진입시 입히는 피해+10%"
     }
   ],
@@ -354,7 +354,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/17.png",
-      "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -380,7 +380,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/18.png",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -406,7 +406,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Alice2.png",
-      "Desc": "[액티브] 범위 안의 임의 1칸으로 이동하며<br>행동 종료시 \"주위 2칸 범위 내 모든 아군의 생명 회복<br>회복량은 지력의 2배\", 2턴 지속 효과 획득",
+      "Desc": "[액티브] 범위 안의 임의 1칸으로 이동하며<br/>행동 종료시 \"주위 2칸 범위 내 모든 아군의 생명 회복<br/>회복량은 지력의 2배\", 2턴 지속 효과 획득",
       "SubSkills": null,
       "Animation": null
     },
@@ -432,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/23.png",
-      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -472,7 +472,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.png",
-      "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
+      "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -512,7 +512,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Alice1.png",
-      "Desc": "[액티브] 아군 1부대를 범위 안의 임의 1칸으로 이동시키며<br>지형 이동력 저하 면역, 입히는 피해+20%,받는피해 -20% 버프,2턴 지속.<br><b>(위치 이동 범위는 대상을 기준으로 5칸)</b><br>(유저의 부대에게만 쓸 수 있다.)",
+      "Desc": "[액티브] 아군 1부대를 범위 안의 임의 1칸으로 이동시키며<br/>지형 이동력 저하 면역, 입히는 피해+20%,받는피해 -20% 버프,2턴 지속.<br/><b>(위치 이동 범위는 대상을 기준으로 5칸)</b><br/>(유저의 부대에게만 쓸 수 있다.)",
       "SubSkills": null,
       "Animation": null
     },
@@ -538,7 +538,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/아이리스.png",
-      "Desc": "[치료]액티브. 자신을 텔레포트 시킨 후 주위 <font color=\"red\">4</font>칸 범위 내 아군 생명 회복 및 디버프 <font color=\"red\">3</font>개 제거,<br>회복량은 술자 지력 <font color=\"red\">3</font>배 수치, 그리고 자신에게 효과 부여<br>행동 종료 시 자신 주위 <font color=\"red\">2</font>칸 범위 내 아군 생명 회복 및 디버프 <font color=\"red\">1</font>개 제거, <br>회복량은 술자 <font color=\"red\">2.5</font>배 수치, 지속 <font color=\"red\">3</font>행동",
+      "Desc": "[치료]액티브. 자신을 텔레포트 시킨 후 주위 <font color=\"red\">4</font>칸 범위 내 아군 생명 회복 및 디버프 <font color=\"red\">3</font>개 제거,<br/>회복량은 술자 지력 <font color=\"red\">3</font>배 수치, 그리고 자신에게 효과 부여<br/>행동 종료 시 자신 주위 <font color=\"red\">2</font>칸 범위 내 아군 생명 회복 및 디버프 <font color=\"red\">1</font>개 제거, <br/>회복량은 술자 <font color=\"red\">2.5</font>배 수치, 지속 <font color=\"red\">3</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/아이리스.gif"
     }
@@ -546,11 +546,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 106cm / 18kg<br>◆신체 사이즈:？/？/？<br>◆출연: 사쿠라대전<br>◆소속: 제국화격단 화조"
+      "Desc": "◆키/몸무게: 106cm / 18kg<br/>◆신체 사이즈:？/？/？<br/>◆출연: 사쿠라대전<br/>◆소속: 제국화격단 화조"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "본명: 이리스 샤토브리앙. 프랑스의 백작 가문 출신. '제국화격단 화조' 단원 중 최연소이지만, 영력은 가장 강하다. 아직 아이이기 때문에 힘 조절에 미숙한 면이 있다.<br><font color=\"#DC143C\"><size=33><i>「제국화격단 화조, 아이리스입니다. 얘는 곰인형인 장폴이예요. 저기, 같이 놀자!」</i> </size=33></font>"
+      "Desc": "본명: 이리스 샤토브리앙. 프랑스의 백작 가문 출신. '제국화격단 화조' 단원 중 최연소이지만, 영력은 가장 강하다. 아직 아이이기 때문에 힘 조절에 미숙한 면이 있다.<br/><font color=\"#DC143C\"><size=33><i>「제국화격단 화조, 아이리스입니다. 얘는 곰인형인 장폴이예요. 저기, 같이 놀자!」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담2",

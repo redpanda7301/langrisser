@@ -50,19 +50,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "모든능력치 <font color=\"red\">+5%</font>. <br>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-5%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
+          "Desc": "모든능력치 <font color=\"red\">+5%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-5%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
         },
         {
-          "Desc": "모든능력치 <font color=\"red\">+10%</font>. <br>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-10%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
+          "Desc": "모든능력치 <font color=\"red\">+10%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-10%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
         },
         {
-          "Desc": "모든능력치 <font color=\"red\">+15%</font>. <br>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-15%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
+          "Desc": "모든능력치 <font color=\"red\">+15%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-15%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
         },
         {
-          "Desc": "모든능력치 <font color=\"red\">+20%</font>. <br>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-20%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
+          "Desc": "모든능력치 <font color=\"red\">+20%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-20%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
         },
         {
-          "Desc": "모든능력치 <font color=\"red\">+25%</font>. <br>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-25%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
+          "Desc": "모든능력치 <font color=\"red\">+25%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-25%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
         }
       ]
     }
@@ -72,7 +72,7 @@
     "Name": "위대한 왕의 증표(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "올리버.png",
-    "Ability": "생명, 마방 +5%<br>부대가 치명타공격을 입히면 1개의 강력한 디버프를 부여하고 버프를 1개 강탈."
+    "Ability": "생명, 마방 +5%<br/>부대가 치명타공격을 입히면 1개의 강력한 디버프를 부여하고 버프를 1개 강탈."
   },
   "Soldiers": [
     8,
@@ -355,7 +355,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash3.png",
-      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
+      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br/>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -383,7 +383,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/10.png",
-      "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
+      "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br/>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -435,7 +435,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash2.png",
-      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br>치명타율 +20%.",
+      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br/>치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -449,7 +449,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/13.png",
-      "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br>남은 이동력이 있을 경우 공격 후 재이동 가능.",
+      "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -489,7 +489,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash5.png",
-      "Desc": "단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br>전투 진입 전, <font color=\"red\">1</font>칸 이동할 때마다 기술 <font color=\"red\">+10%</font>. (최대 <font color=\"red\">30%</font> 중첩 가능)",
+      "Desc": "단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>전투 진입 전, <font color=\"red\">1</font>칸 이동할 때마다 기술 <font color=\"red\">+10%</font>. (최대 <font color=\"red\">30%</font> 중첩 가능)",
       "SubSkills": null,
       "Animation": null
     }
@@ -497,7 +497,7 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 150cm / 50kg<br>◆진영: 카콘시스 왕국"
+      "Desc": "◆키/몸무게: 150cm / 50kg<br/>◆진영: 카콘시스 왕국"
     },
     {
       "Entry": "영웅담1",

@@ -53,16 +53,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+5%</font><br> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br> 행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">1</font>기 기타 아군이 <br>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
+          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+5%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br/> 행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">1</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
         },
         {
-          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+8%</font><br> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br> 행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">2</font>기 기타 아군이 <br>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
+          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+8%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br/> 행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">2</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
         },
         {
-          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+11%</font><br> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br> 행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">3</font>기 기타 아군이 <br>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
+          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+11%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br/> 행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">3</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
         },
         {
-          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+15%</font><br> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br> 행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">4</font>기 기타 아군이 <br>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
+          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+15%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br/> 행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">4</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
         }
       ]
     }
@@ -345,7 +345,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Whirlwind.png",
-      "Desc": "[물리 피해]주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br>[금강] 버프 시전, 2턴 지속.",
+      "Desc": "[물리 피해]주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>[금강] 버프 시전, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -385,7 +385,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Cheer.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대<br>공격,지력,방어,마방,기술 +10.66%, 6턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대<br/>공격,지력,방어,마방,기술 +10.66%, 6턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -425,7 +425,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.png",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br>전투 후, 적 방어 -30%, 2턴 지속.",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br/>전투 후, 적 방어 -30%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -451,7 +451,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_StrandedStick.png",
-      "Desc": "[물리 피해]라인에 있는 모든 적을 관통하며 0.4배 범위 피해를 입힌다.<br>[금강]버프 시전, 2턴 지속.",
+      "Desc": "[물리 피해]라인에 있는 모든 적을 관통하며 0.4배 범위 피해를 입힌다.<br/>[금강]버프 시전, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -465,7 +465,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.png",
-      "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br>2턴 지속, 치명타 발생 시 반드시 발동.",
+      "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -491,7 +491,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Phoenix.png",
-      "Desc": "[물리 피해]주위 2칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br>시전 전 자신의 모든 디버프 제거, 전투 후 생명 100%회복.<br>[금강],[모든 디버프 면역] 시전, 2턴 지속.",
+      "Desc": "[물리 피해]주위 2칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br/>시전 전 자신의 모든 디버프 제거, 전투 후 생명 100%회복.<br/>[금강],[모든 디버프 면역] 시전, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -517,7 +517,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/Skill_Super2.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대 생명 30%회복 및<br>공격,지력,방어,마방,기술 +12.66%,'이동력'+1, 6턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대 생명 30%회복 및<br/>공격,지력,방어,마방,기술 +12.66%,'이동력'+1, 6턴 지속.",
       "SubSkills": null,
       "Animation": "../img/Super/mmexport1569929979605.gif"
     }
@@ -525,11 +525,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/체중: 162cm / 46kg<br>◆신체 사이즈: 82/60/87<br>◆출연: 영웅전설·하늘의 궤적 시리즈<br>◆소속: 유격사 협회"
+      "Desc": "◆키/체중: 162cm / 46kg<br/>◆신체 사이즈: 82/60/87<br/>◆출연: 영웅전설·하늘의 궤적 시리즈<br/>◆소속: 유격사 협회"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "유격사 협회의 정유격사, S급 유격사인 카시우스의 딸로, 자신의 키보다 훨씬 긴 봉을 사용한다. 장난기 많은 밝고 명랑한 성격으로 의붓 동생 요슈아의 닫힌 마음을 열어 최고의 파트너가 되었다. <br><font color=\"#DC143C\"><size=33><i>「조사나 출격 임무가 있으면, 걱정말고 나한테 맡겨줘!」</i> </size=33></font>"
+      "Desc": "유격사 협회의 정유격사, S급 유격사인 카시우스의 딸로, 자신의 키보다 훨씬 긴 봉을 사용한다. 장난기 많은 밝고 명랑한 성격으로 의붓 동생 요슈아의 닫힌 마음을 열어 최고의 파트너가 되었다. <br/><font color=\"#DC143C\"><size=33><i>「조사나 출격 임무가 있으면, 걱정말고 나한테 맡겨줘!」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -537,7 +537,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "이후 에스텔은 요슈아를 찾기 위한 여행을 시작하고, 자신의 밝고 명랑한 성격으로 주변의 동료를 감화시키며 성장해 나간다. 마침내 요슈아와 재회한 에스텔은 부유성 전투에서 요슈아가 인공성흔의 속박에서 벗어나도록 돕고, 함께 힘을 합쳐 빛의 반지와 합체된 와이스맨을 무찌른다. <br><font color=\"#DC143C\"><size=33><i>「소중한 사람을 위해, 물러서고 싶지 않아... 맞아! 아직 부족하지만 절대 물러서지 않겠어!」</i> </size=33></font>"
+      "Desc": "이후 에스텔은 요슈아를 찾기 위한 여행을 시작하고, 자신의 밝고 명랑한 성격으로 주변의 동료를 감화시키며 성장해 나간다. 마침내 요슈아와 재회한 에스텔은 부유성 전투에서 요슈아가 인공성흔의 속박에서 벗어나도록 돕고, 함께 힘을 합쳐 빛의 반지와 합체된 와이스맨을 무찌른다. <br/><font color=\"#DC143C\"><size=33><i>「소중한 사람을 위해, 물러서고 싶지 않아... 맞아! 아직 부족하지만 절대 물러서지 않겠어!」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -545,7 +545,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "소환된 에스텔은 밝고 솔직한 성격으로 작은 태양처럼 주변 사람들의 마음을 따뜻하게 밝혀주고, 엘사리아 대륙에 유격사에 관한 추억을 남겨주었다.<br><font color=\"#DC143C\"><size=33><i>「모두가 웃는 얼굴을 보면 내가 혼자가 아니라는 걸 느낄 수 있고, 다시 만날 수 있을 거라는 생각에 가슴이 두근거려!」</i></size=33></font>"
+      "Desc": "소환된 에스텔은 밝고 솔직한 성격으로 작은 태양처럼 주변 사람들의 마음을 따뜻하게 밝혀주고, 엘사리아 대륙에 유격사에 관한 추억을 남겨주었다.<br/><font color=\"#DC143C\"><size=33><i>「모두가 웃는 얼굴을 보면 내가 혼자가 아니라는 걸 느낄 수 있고, 다시 만날 수 있을 거라는 생각에 가슴이 두근거려!」</i></size=33></font>"
     }
   ],
   "Performance": [

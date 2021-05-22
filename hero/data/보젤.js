@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신 마방의 <font color=\"red\">1.5배</font>로 지력을 대체.<br>적 부대에게 피해를 준 후 <font color=\"red\">50%</font> 확률로 무작위 디버프 <font color=\"red\">1개</font> 부여."
+          "Desc": "자신 마방의 <font color=\"red\">1.5배</font>로 지력을 대체.<br/>적 부대에게 피해를 준 후 <font color=\"red\">50%</font> 확률로 무작위 디버프 <font color=\"red\">1개</font> 부여."
         },
         {
-          "Desc": "자신 마방의 <font color=\"red\">1.5배</font>로 지력을 대체.<br>적 부대에게 피해를 준 후 <font color=\"red\">60%</font> 확률로 무작위 디버프 <font color=\"red\">1개</font> 부여."
+          "Desc": "자신 마방의 <font color=\"red\">1.5배</font>로 지력을 대체.<br/>적 부대에게 피해를 준 후 <font color=\"red\">60%</font> 확률로 무작위 디버프 <font color=\"red\">1개</font> 부여."
         },
         {
-          "Desc": "자신 마방의 <font color=\"red\">1.5배</font>로 지력을 대체.<br>적 부대에게 피해를 준 후 <font color=\"red\">80%</font> 확률로 무작위 디버프 <font color=\"red\">1개</font> 부여."
+          "Desc": "자신 마방의 <font color=\"red\">1.5배</font>로 지력을 대체.<br/>적 부대에게 피해를 준 후 <font color=\"red\">80%</font> 확률로 무작위 디버프 <font color=\"red\">1개</font> 부여."
         },
         {
-          "Desc": "자신 마방의 <font color=\"red\">1.5배</font>로 지력을 대체.<br>적 부대에게 피해를 준 후 <font color=\"red\">100%</font> 확률로 무작위 디버프 <font color=\"red\">1개</font> 부여."
+          "Desc": "자신 마방의 <font color=\"red\">1.5배</font>로 지력을 대체.<br/>적 부대에게 피해를 준 후 <font color=\"red\">100%</font> 확률로 무작위 디버프 <font color=\"red\">1개</font> 부여."
         }
       ]
     }
@@ -87,7 +87,7 @@
     "Name": "카오스의 축복(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "보젤.png",
-    "Ability": "마방<font color=\"red\">+10%</font><br>선제 공격으로 적에게 피해를 입힌 후, <br>랜덤한 디버프 1개 부여"
+    "Ability": "마방<font color=\"red\">+10%</font><br/>선제 공격으로 적에게 피해를 입힌 후, <br/>랜덤한 디버프 1개 부여"
   },
   "Soldiers": [
     11,
@@ -421,7 +421,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamSleep.png",
-      "Desc": "[마법 피해]전장의 적 1부대에게 0.25배의 피해를 주고 버프를 3개<br>제거하며 다음 턴 행동할 수 없게 한다.(제거불가)",
+      "Desc": "[마법 피해]전장의 적 1부대에게 0.25배의 피해를 주고 버프를 3개<br/>제거하며 다음 턴 행동할 수 없게 한다.(제거불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -447,7 +447,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'보병'에게 더큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -473,7 +473,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamAtk.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br>적에게 '강화 방해'부여, 2턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '강화 방해'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -513,7 +513,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkHole.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br>각 부대에게 무작위 디버프를 2개씩 부여한다.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>각 부대에게 무작위 디버프를 2개씩 부여한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -539,7 +539,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -565,7 +565,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Dark1.png",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '어둠의 윤회' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br>전투 중 상대에게 디버프가 3개 이상 걸려 있을 경우 자신 부대가 주는 피해량+15%,<br>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '어둠의 윤회' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>전투 중 상대에게 디버프가 3개 이상 걸려 있을 경우 자신 부대가 주는 피해량+15%,<br/>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -591,7 +591,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_EarthQuake.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.4배의 광역 피해를 준다.<br>'비병'에게 피해를 줄 수 없다.<br>그리고 적의 '공격,지력,방어 -20%', 2턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.4배의 광역 피해를 준다.<br/>'비병'에게 피해를 줄 수 없다.<br/>그리고 적의 '공격,지력,방어 -20%', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -651,11 +651,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：???<br>◆출연：랑그릿사 전 시리즈<br>◆소속：어둠의 왕국 벨제리아"
+      "Desc": "◆키/몸무게：???<br/>◆출연：랑그릿사 전 시리즈<br/>◆소속：어둠의 왕국 벨제리아"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "혼돈의 신 카오스를 부활시키기 위해 수백 년간 몇 번이고 부활한 카오스의 대리자. 세상에 혼란과 분쟁을 일으키는 '어둠의 왕자'.금단의 땅 벨제리아에서 수많은 마족 군대를 이끌고 있으며 엘사리아 대륙을 노리고 있다.이 어둠의 지배자가 당신의 눈앞에 나타나자 모두 놀란 기색을 감출 수 없었다. <br><font color=\"#DC143C\"><size=33><i>「어둠의 왕자께서 오셨다. 복종하라!」</i>  </size=33></font>"
+      "Desc": "혼돈의 신 카오스를 부활시키기 위해 수백 년간 몇 번이고 부활한 카오스의 대리자. 세상에 혼란과 분쟁을 일으키는 '어둠의 왕자'.금단의 땅 벨제리아에서 수많은 마족 군대를 이끌고 있으며 엘사리아 대륙을 노리고 있다.이 어둠의 지배자가 당신의 눈앞에 나타나자 모두 놀란 기색을 감출 수 없었다. <br/><font color=\"#DC143C\"><size=33><i>「어둠의 왕자께서 오셨다. 복종하라!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -671,7 +671,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "원래 보젤은 어둠의 세력에 속한 인물이나 시공의 균열 때문에 왜곡되어 소환된 그는 지금 세상을 어지럽히는 본체와는 다른 존재다. 그는 무수히 많은 보젤이 남긴 그림자의 집합체라 할 수 있다.<br><font color=\"#DC143C\"><size=33><i>「빛과 어둠의 투쟁은 우리를 이 순환 속에 가두어버렸지. 우리는 모두 그저 보잘것없는 장기 말에 불과하다! 이번 생은 나 자신을 위해 살아갈 것이다!」</i>  </size=33></font>"
+      "Desc": "원래 보젤은 어둠의 세력에 속한 인물이나 시공의 균열 때문에 왜곡되어 소환된 그는 지금 세상을 어지럽히는 본체와는 다른 존재다. 그는 무수히 많은 보젤이 남긴 그림자의 집합체라 할 수 있다.<br/><font color=\"#DC143C\"><size=33><i>「빛과 어둠의 투쟁은 우리를 이 순환 속에 가두어버렸지. 우리는 모두 그저 보잘것없는 장기 말에 불과하다! 이번 생은 나 자신을 위해 살아갈 것이다!」</i>  </size=33></font>"
     }
   ],
   "Performance": [

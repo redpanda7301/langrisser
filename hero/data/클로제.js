@@ -50,19 +50,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "치료 효과 <font color=\"red\">+10%</font>. <br>행동 종료 시 <font color=\"red\">1</font>칸 내 <font color=\"red\">1</font>기 아군에게<br>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
+          "Desc": "치료 효과 <font color=\"red\">+10%</font>. <br/>행동 종료 시 <font color=\"red\">1</font>칸 내 <font color=\"red\">1</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
         },
         {
-          "Desc": "치료 효과 <font color=\"red\">+15%</font>. <br>행동 종료 시 <font color=\"red\">1</font>칸 내 <font color=\"red\">2</font>기 아군에게<br>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
+          "Desc": "치료 효과 <font color=\"red\">+15%</font>. <br/>행동 종료 시 <font color=\"red\">1</font>칸 내 <font color=\"red\">2</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
         },
         {
-          "Desc": "치료 효과 <font color=\"red\">+20%</font>. <br>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">3</font>기 아군에게<br>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
+          "Desc": "치료 효과 <font color=\"red\">+20%</font>. <br/>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">3</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
         },
         {
-          "Desc": "치료 효과 <font color=\"red\">+25%</font>. <br>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">4</font>기 아군에게<br>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
+          "Desc": "치료 효과 <font color=\"red\">+25%</font>. <br/>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">4</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
         },
         {
-          "Desc": "치료 효과 <font color=\"red\">+30%</font>. <br>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">4</font>기 아군에게<br>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">2</font>턴 지속."
+          "Desc": "치료 효과 <font color=\"red\">+30%</font>. <br/>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">4</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">2</font>턴 지속."
         }
       ]
     }
@@ -344,7 +344,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/17.png",
-      "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -370,7 +370,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MagicAttack.png",
-      "Desc": "[지원]'마무'시전: 영웅이 입히는 모든 물리 피해를 마법 피해로 취급.<br>공격의 10%를 지력에 추가, 4턴 지속.",
+      "Desc": "[지원]'마무'시전: 영웅이 입히는 모든 물리 피해를 마법 피해로 취급.<br/>공격의 10%를 지력에 추가, 4턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -396,7 +396,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash.png",
-      "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br>근접병사를 휴대할 경우 병사도 같이 공격한다.",
+      "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -410,7 +410,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Belief.png",
-      "Desc": "[패시브] 공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br>전투 후 가장 생명이 적은 다른 아군 생명 회복, 회복량은 자신 지력의 <font color=\"red\">2</font>배.",
+      "Desc": "[패시브] 공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br/>전투 후 가장 생명이 적은 다른 아군 생명 회복, 회복량은 자신 지력의 <font color=\"red\">2</font>배.",
       "SubSkills": null,
       "Animation": null
     },
@@ -436,7 +436,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HolyStar.png",
-      "Desc": "[마법 피해]공격 범위 내 다수의 적군에게 0.36배 범위 피해를 입힌다.<br>동시에 적의 1개 버프 제거.",
+      "Desc": "[마법 피해]공격 범위 내 다수의 적군에게 0.36배 범위 피해를 입힌다.<br/>동시에 적의 1개 버프 제거.",
       "SubSkills": null,
       "Animation": null
     },
@@ -462,7 +462,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/23.png",
-      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -488,7 +488,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IceCrash.png",
-      "Desc": "[마법 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br>'창병'에게 더 큰 피해를 준다. 적군 이동력 -1칸, 2턴 지속.",
+      "Desc": "[마법 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br/>'창병'에게 더 큰 피해를 준다. 적군 이동력 -1칸, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -514,7 +514,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_LightRing.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 디버프 최대 5개 제거,<br>버프 시전:'고정 피해'면역. 행동 종료 시 생명 50%회복, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 디버프 최대 5개 제거,<br/>버프 시전:'고정 피해'면역. 행동 종료 시 생명 50%회복, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -540,7 +540,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/클로제.png",
-      "Desc": "[패시브]<b>아군에게 스킬 사용 후 </b>목표 주위 <font color=\"red\">2</font>칸 범위 내 <br><b>다른 아군에게</b> 클로제 지력 <font color=\"red\">1</font>배 수치로 생명 회복 및 디버프 <font color=\"red\">1</font>개 제거<br>[치료] 범위 내 아군에게 걸린 디버프 <font color=\"red\">3</font>개 제거 및 지력 3배 수치로 생명 회복<br><font color=\"blue\">순백의 수호</font> 효과 부여 :<br><b>부대 생명이 낮을 수록</b> 받는 치료 효과 증가, 최대 <font color=\"red\">+30</font>%, <br>지속 <font color=\"red\">2</font>행동, <b>해당 효과는 해제 불가</b>",
+      "Desc": "[패시브]<b>아군에게 스킬 사용 후 </b>목표 주위 <font color=\"red\">2</font>칸 범위 내 <br/><b>다른 아군에게</b> 클로제 지력 <font color=\"red\">1</font>배 수치로 생명 회복 및 디버프 <font color=\"red\">1</font>개 제거<br/>[치료] 범위 내 아군에게 걸린 디버프 <font color=\"red\">3</font>개 제거 및 지력 3배 수치로 생명 회복<br/><font color=\"blue\">순백의 수호</font> 효과 부여 :<br/><b>부대 생명이 낮을 수록</b> 받는 치료 효과 증가, 최대 <font color=\"red\">+30</font>%, <br/>지속 <font color=\"red\">2</font>행동, <b>해당 효과는 해제 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/클로제.gif"
     }
@@ -548,11 +548,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/체중: 162cm / 46kg<br>◆신체 사이즈: 80/58/86<br>◆출연: 영웅전설·하늘의 궤적 시리즈<br>◆소속: 유격사 협회"
+      "Desc": "◆키/체중: 162cm / 46kg<br/>◆신체 사이즈: 80/58/86<br/>◆출연: 영웅전설·하늘의 궤적 시리즈<br/>◆소속: 유격사 협회"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "리벨 왕국의 제니스 왕립학원에 다니는 여학생으로, 마르시아 고아원에서 이제 막 유격사가 된 에스텔과 요슈아를 알게 된다. 두 사람과 함께 학원제에서 '꽃의 연가'를 공연하고 시장과 비서의 음모도 밝혀냈다. 이후 쿠데타 사건 때도 요슈아 일행과 함께 여왕을 구출했다. 클로제에게는 정보를 수집해오는 지크라는 이름의 새 한 마리가 있다. <br><font color=\"#DC143C\"><size=33><i>「이쪽은 내 친구 지크라고 해요. 모두에게 인사해야지?」</i> </size=33></font>"
+      "Desc": "리벨 왕국의 제니스 왕립학원에 다니는 여학생으로, 마르시아 고아원에서 이제 막 유격사가 된 에스텔과 요슈아를 알게 된다. 두 사람과 함께 학원제에서 '꽃의 연가'를 공연하고 시장과 비서의 음모도 밝혀냈다. 이후 쿠데타 사건 때도 요슈아 일행과 함께 여왕을 구출했다. 클로제에게는 정보를 수집해오는 지크라는 이름의 새 한 마리가 있다. <br/><font color=\"#DC143C\"><size=33><i>「이쪽은 내 친구 지크라고 해요. 모두에게 인사해야지?」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -560,7 +560,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "원제 이후, 클로제는 요슈아 일행과 함께 시장의 음모를 밝혀 루안시를 구했다. 그후 리벨 왕국에 쿠데타가 일어나자, 클로제는 정보부의 추적을 피해 도망쳤다. 에스텔과 요슈아에게 구출된 후, 클로제는 왕녀의 신분으로 유격사 협회에 여왕의 구출을 의뢰한다. 그리고 유격사들과 함께 리샤드가 이끄는 정보부의 쿠데타 계획을 저지했다. <br><font color=\"#DC143C\"><size=33><i>「만약... 왕위를 계승해야 가족과 친구들을 지킬 수 있다면, 제가 그 중책을 맡겠어요!」</i> </size=33></font>"
+      "Desc": "원제 이후, 클로제는 요슈아 일행과 함께 시장의 음모를 밝혀 루안시를 구했다. 그후 리벨 왕국에 쿠데타가 일어나자, 클로제는 정보부의 추적을 피해 도망쳤다. 에스텔과 요슈아에게 구출된 후, 클로제는 왕녀의 신분으로 유격사 협회에 여왕의 구출을 의뢰한다. 그리고 유격사들과 함께 리샤드가 이끄는 정보부의 쿠데타 계획을 저지했다. <br/><font color=\"#DC143C\"><size=33><i>「만약... 왕위를 계승해야 가족과 친구들을 지킬 수 있다면, 제가 그 중책을 맡겠어요!」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -568,7 +568,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "소환된 클로제 곁에는 '지크'가 함께했고, 영리하고 온화한 태도로 엘사리아 대륙에 자신만의 이야기를 남겼다.<br><font color=\"#DC143C\"><size=33><i>「어둠을 품은 겁쟁이들이 오랫동안 득세하게 둬서는 안 돼요! 우리 모두, 강해져야 해요!」</i> </size=33></font>"
+      "Desc": "소환된 클로제 곁에는 '지크'가 함께했고, 영리하고 온화한 태도로 엘사리아 대륙에 자신만의 이야기를 남겼다.<br/><font color=\"#DC143C\"><size=33><i>「어둠을 품은 겁쟁이들이 오랫동안 득세하게 둬서는 안 돼요! 우리 모두, 강해져야 해요!」</i> </size=33></font>"
     }
   ],
   "Performance": [

@@ -62,19 +62,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+5%</font> 적의 이동력 <font color=\"red\">-3</font>.<br> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">3</font>턴 후 재발동 가능)"
+          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+5%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">3</font>턴 후 재발동 가능)"
         },
         {
-          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+7%</font> 적의 이동력 <font color=\"red\">-3</font>.<br> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">3</font>턴 후 재발동 가능)"
+          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+7%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">3</font>턴 후 재발동 가능)"
         },
         {
-          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+10%</font> 적의 이동력 <font color=\"red\">-3</font>.<br> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">2</font>턴 후 재발동 가능)"
+          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+10%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">2</font>턴 후 재발동 가능)"
         },
         {
-          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font> 적의 이동력 <font color=\"red\">-3</font>.<br> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">2</font>턴 후 재발동 가능)"
+          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">2</font>턴 후 재발동 가능)"
         },
         {
-          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+15%</font> 적의 이동력 <font color=\"red\">-3</font>.<br> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">1</font>턴 후 재발동 가능)"
+          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+15%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">1</font>턴 후 재발동 가능)"
         }
       ]
     }
@@ -84,7 +84,7 @@
     "Name": "발키리의 샛별(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "나암.png",
-    "Ability": "마방 +10%<br>영웅의 고유기술 <font color=\"blue\">견제 전술</font> 쿨타임 <font color=\"red\">-1</font>"
+    "Ability": "마방 +10%<br/>영웅의 고유기술 <font color=\"blue\">견제 전술</font> 쿨타임 <font color=\"red\">-1</font>"
   },
   "Soldiers": [
     15,
@@ -399,7 +399,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/11.png",
-      "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
+      "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br/>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -425,7 +425,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_TakeAim.png",
-      "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
+      "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -451,7 +451,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/14.png",
-      "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br>'비병'과 전투 시 더큰 피해를 준다.<br>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
+      "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br/>'비병'과 전투 시 더큰 피해를 준다.<br/>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -491,7 +491,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash.png",
-      "Desc": "[물리 피해] 단일 적을 1.3배 피해로 공격,<br>'비병'과 전투 시 더큰 피해를 준다.<br>전투 전 피해 +30%, 전투 후 적에게 버프 불가 부여, 2턴 지속.",
+      "Desc": "[물리 피해] 단일 적을 1.3배 피해로 공격,<br/>'비병'과 전투 시 더큰 피해를 준다.<br/>전투 전 피해 +30%, 전투 후 적에게 버프 불가 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -545,7 +545,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/15.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 모든 아군의 이동력 +1.<br>공격, 지력 +20% 및 면역: '이동력 감소', '패시브 무효화', 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 모든 아군의 이동력 +1.<br/>공격, 지력 +20% 및 면역: '이동력 감소', '패시브 무효화', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -559,7 +559,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.png",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     }
@@ -567,11 +567,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：165cm / 49kg<br>◆신체 사이즈：85/55/90<br>◆출연：랑그릿사I<br>◆소속：발디아 왕국"
+      "Desc": "◆키/몸무게：165cm / 49kg<br/>◆신체 사이즈：85/55/90<br/>◆출연：랑그릿사I<br/>◆소속：발디아 왕국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "용감하고 지는 것을 싫어하는 여전사. 발디아 왕가에 충성하는 그녀는 본래 일자크 왕을 위해 싸워왔으나 후에 레딘을 따라 왕국을 되찾기 위해 싸운다.<br><font color=\"#DC143C\"><size=33><i>「비록 어려운 건 잘 모르지만 지켜야 할 선이 있다는 것 정도는 알고 있어!」</i>  </size=33></font>"
+      "Desc": "용감하고 지는 것을 싫어하는 여전사. 발디아 왕가에 충성하는 그녀는 본래 일자크 왕을 위해 싸워왔으나 후에 레딘을 따라 왕국을 되찾기 위해 싸운다.<br/><font color=\"#DC143C\"><size=33><i>「비록 어려운 건 잘 모르지만 지켜야 할 선이 있다는 것 정도는 알고 있어!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -579,7 +579,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "자신도 모르게 언제나 란스에게 관심을 가졌다. 비슷하게 고집스러우면서도 용맹과 충성을 겸비한 두 사람은 서로에게 끌렸다. 란스가 자신을 희생하여 적을 막기로 결심했을 때 나암은 드디어 자신의 마음을 털어놓을 수 있었다.<br><font color=\"#DC143C\"><size=33><i>「부탁해요. 반드시 살아서 돌아오세요!」</i>  </size=33></font>"
+      "Desc": "자신도 모르게 언제나 란스에게 관심을 가졌다. 비슷하게 고집스러우면서도 용맹과 충성을 겸비한 두 사람은 서로에게 끌렸다. 란스가 자신을 희생하여 적을 막기로 결심했을 때 나암은 드디어 자신의 마음을 털어놓을 수 있었다.<br/><font color=\"#DC143C\"><size=33><i>「부탁해요. 반드시 살아서 돌아오세요!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -587,7 +587,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "현세에 소환되었을 때는 다소 혼란스러워했지만 지금도 그때와 마찬가지로 자신의 동료를 위해 싸우고 있다.<br><font color=\"#DC143C\"><size=33><i>「뭐? 나도 영웅으로 이름을 남겼다고? 대체 어떤 이야기인데?」</i>  </size=33></font>"
+      "Desc": "현세에 소환되었을 때는 다소 혼란스러워했지만 지금도 그때와 마찬가지로 자신의 동료를 위해 싸우고 있다.<br/><font color=\"#DC143C\"><size=33><i>「뭐? 나도 영웅으로 이름을 남겼다고? 대체 어떤 이야기인데?」</i>  </size=33></font>"
     }
   ],
   "Performance": [

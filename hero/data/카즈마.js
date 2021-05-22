@@ -50,19 +50,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">1</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-10%</font> (<font color=\"red\">1</font>턴 지속).<br> 전투 종료 시 생명이 <font color=\"red\">20%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">1</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-10%</font> (<font color=\"red\">1</font>턴 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">20%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">1</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-15%</font> (<font color=\"red\">1</font>턴 지속).<br> 전투 종료 시 생명이 <font color=\"red\">25%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">1</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-15%</font> (<font color=\"red\">1</font>턴 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">25%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-20%</font> (<font color=\"red\">1</font>턴 지속).<br> 전투 종료 시 생명이 <font color=\"red\">30%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-20%</font> (<font color=\"red\">1</font>턴 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">30%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-25%</font> (<font color=\"red\">1</font>턴 지속).<br> 전투 종료 시 생명이 <font color=\"red\">35%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-25%</font> (<font color=\"red\">1</font>턴 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">35%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-30%</font> (<font color=\"red\">1</font>턴 지속).<br> 전투 종료 시 생명이 <font color=\"red\">40%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-30%</font> (<font color=\"red\">1</font>턴 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">40%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
         }
       ]
     }
@@ -384,7 +384,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordDance.png",
-      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -398,7 +398,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Again.png",
-      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -424,7 +424,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Kazuma2.png",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br>전투 전, 적 버프<font color=\"red\">2</font>개를 무작위 디버프로 변환.",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/>전투 전, 적 버프<font color=\"red\">2</font>개를 무작위 디버프로 변환.",
       "SubSkills": null,
       "Animation": null
     },
@@ -450,7 +450,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Kazuma1.png",
-      "Desc": "[패시브] 치명적 피해를 입을 경우 사망하지 않고 생명 <font color=\"red\">10%</font> 회복.<br>이 효과는 최대 <font color=\"red\">1</font>회만 발동 가능.<br>[액티브] 주위 <font color=\"red\">2</font>칸 내 아군을 대신하여 물리 피해를 받는다.<br>동시에 [건강] 이 발동 (건강: 공격의 <font color=\"red\">0.6</font>배 수치를 방어로 전환) (2턴 지속)",
+      "Desc": "[패시브] 치명적 피해를 입을 경우 사망하지 않고 생명 <font color=\"red\">10%</font> 회복.<br/>이 효과는 최대 <font color=\"red\">1</font>회만 발동 가능.<br/>[액티브] 주위 <font color=\"red\">2</font>칸 내 아군을 대신하여 물리 피해를 받는다.<br/>동시에 [건강] 이 발동 (건강: 공격의 <font color=\"red\">0.6</font>배 수치를 방어로 전환) (2턴 지속)",
       "SubSkills": null,
       "Animation": null
     },
@@ -504,7 +504,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/카즈마.png",
-      "Desc": "[액티브]자신에게 '<font color=\"blue\">영검 이도류</font>', '<font color=\"blue\">영능 수리검</font>' 효과 부여<br>영검 이도류 : 피해 <font color=\"red\">+20</font>%, <b>근접 일반 공격시 영웅 공격</b> <font color=\"red\">2</font>회<br>영능 수리검 : <b>부대 일반 공격 사거리</b> <font color=\"red\">+1</font><br>지속 <font color=\"red\">2</font>행동, <b>해제 불가, 면역 불가</b>",
+      "Desc": "[액티브]자신에게 '<font color=\"blue\">영검 이도류</font>', '<font color=\"blue\">영능 수리검</font>' 효과 부여<br/>영검 이도류 : 피해 <font color=\"red\">+20</font>%, <b>근접 일반 공격시 영웅 공격</b> <font color=\"red\">2</font>회<br/>영능 수리검 : <b>부대 일반 공격 사거리</b> <font color=\"red\">+1</font><br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가, 면역 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/카즈마.gif"
     }
@@ -512,7 +512,7 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆출연：유유백서<br>◆소속：우라메시 팀/인간"
+      "Desc": "◆출연：유유백서<br/>◆소속：우라메시 팀/인간"
     },
     {
       "Entry": "영웅담1",

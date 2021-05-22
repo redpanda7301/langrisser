@@ -53,19 +53,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "공격 시 공격 <font color=\"red\">+10%</font> 공격을 받을 시 받는 피해 <font color=\"red\">-10%</font>.<br> 주위 2칸 내 모든 적의 이동력 <font color=\"red\">-2</font> 호위 불가."
+          "Desc": "공격 시 공격 <font color=\"red\">+10%</font> 공격을 받을 시 받는 피해 <font color=\"red\">-10%</font>.<br/> 주위 2칸 내 모든 적의 이동력 <font color=\"red\">-2</font> 호위 불가."
         },
         {
-          "Desc": "공격 시 공격 <font color=\"red\">+12%</font> 공격을 받을 시 받는 피해 <font color=\"red\">-12%</font>.<br> 주위 2칸 내 모든 적의 이동력 <font color=\"red\">-2</font> 호위 불가."
+          "Desc": "공격 시 공격 <font color=\"red\">+12%</font> 공격을 받을 시 받는 피해 <font color=\"red\">-12%</font>.<br/> 주위 2칸 내 모든 적의 이동력 <font color=\"red\">-2</font> 호위 불가."
         },
         {
-          "Desc": "공격 시 공격 <font color=\"red\">+14%</font> 공격을 받을 시 받는 피해 <font color=\"red\">-14%</font>.<br> 주위 2칸 내 모든 적의 이동력 <font color=\"red\">-2</font> 호위 불가."
+          "Desc": "공격 시 공격 <font color=\"red\">+14%</font> 공격을 받을 시 받는 피해 <font color=\"red\">-14%</font>.<br/> 주위 2칸 내 모든 적의 이동력 <font color=\"red\">-2</font> 호위 불가."
         },
         {
-          "Desc": "공격 시 공격 <font color=\"red\">+17%</font> 공격을 받을 시 받는 피해 <font color=\"red\">-17%</font>.<br> 주위 2칸 내 모든 적의 이동력 <font color=\"red\">-2</font> 호위 불가."
+          "Desc": "공격 시 공격 <font color=\"red\">+17%</font> 공격을 받을 시 받는 피해 <font color=\"red\">-17%</font>.<br/> 주위 2칸 내 모든 적의 이동력 <font color=\"red\">-2</font> 호위 불가."
         },
         {
-          "Desc": "공격 시 공격 <font color=\"red\">+20%</font> 공격을 받을 시 받는 피해 <font color=\"red\">-20%</font>.<br> 주위 2칸 내 모든 적의 이동력 <font color=\"red\">-2</font> 호위 불가."
+          "Desc": "공격 시 공격 <font color=\"red\">+20%</font> 공격을 받을 시 받는 피해 <font color=\"red\">-20%</font>.<br/> 주위 2칸 내 모든 적의 이동력 <font color=\"red\">-2</font> 호위 불가."
         }
       ]
     }
@@ -75,7 +75,7 @@
     "Name": "예지(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "에마링크.png",
-    "Ability": "생명 +10%<br>행동 종료시 주변 2칸이내 모든 적군에게 랜덤한 디버프 1개 부여"
+    "Ability": "생명 +10%<br/>행동 종료시 주변 2칸이내 모든 적군에게 랜덤한 디버프 1개 부여"
   },
   "Soldiers": [
     20,
@@ -392,7 +392,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash2.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br>전투 전 부대의 방어, 마방 +30%.",
+      "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -418,7 +418,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Punch.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -432,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/13.png",
-      "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br>남은 이동력이 있을 경우 공격 후 재이동 가능.",
+      "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -472,7 +472,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash3.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
       "SubSkills": null,
       "Animation": null
     },
@@ -514,7 +514,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Parry.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>공격을 받을 시 공격의 7%를 방어에 추가한다.",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격의 7%를 방어에 추가한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -554,7 +554,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/에마링크_1.png",
-      "Desc": "[액티브] 이하 스킬중 택일하여 사용<br> 자신에게 <b><font color=\"blue\">초절 강화</font>의 특수 효과가 있을 경우</b> 사용 후 <font color=\"red\">3</font>칸 재행동 <br><b>(해당 재행동은 버프 지속 시간을 소모하지 않음)</b>",
+      "Desc": "[액티브] 이하 스킬중 택일하여 사용<br/> 자신에게 <b><font color=\"blue\">초절 강화</font>의 특수 효과가 있을 경우</b> 사용 후 <font color=\"red\">3</font>칸 재행동 <br/><b>(해당 재행동은 버프 지속 시간을 소모하지 않음)</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -580,7 +580,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/에마링크_2.png",
-      "Desc": "[액티브] 단일 부대에 <font color=\"blue\">장막의 그림자</font> 효과 부여 : <br>[지휘] <b>인접한 모든 적 이동력 -1 및 호위 불가</b>,<br>지속 <font color=\"red\">2</font>행동",
+      "Desc": "[액티브] 단일 부대에 <font color=\"blue\">장막의 그림자</font> 효과 부여 : <br/>[지휘] <b>인접한 모든 적 이동력 -1 및 호위 불가</b>,<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -606,7 +606,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/에마링크_3.png",
-      "Desc": "[액티브] 단일 부대에 <font color=\"blue\">반계</font> 효과 부여 : <br><b>전투 진입 전 자신에게 걸린 디버프</b> <font color=\"red\">4</font>개 제거,<br>제거하는 디버프 <font color=\"red\">1</font>개당 생명 <font color=\"red\">15</font>% 회복, <br>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>",
+      "Desc": "[액티브] 단일 부대에 <font color=\"blue\">반계</font> 효과 부여 : <br/><b>전투 진입 전 자신에게 걸린 디버프</b> <font color=\"red\">4</font>개 제거,<br/>제거하는 디버프 <font color=\"red\">1</font>개당 생명 <font color=\"red\">15</font>% 회복, <br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/에마링크.gif"
     }
@@ -614,11 +614,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：184cm / 66kg<br>◆출연：랑그릿사III<br>◆소속：리그리아 제국"
+      "Desc": "◆키/몸무게：184cm / 66kg<br/>◆출연：랑그릿사III<br/>◆소속：리그리아 제국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "리그리아 제국 사대 장군 중 하나로 제국군의 명망 높은 '지장'. 빈틈없는 성격과 전략에 통달한 젊은 장군으로 국가에 충성하고 동료에 대한 의리도 중요시하기에 그 능력과 인품 모두 적에게도 인정받았다. <br><font color=\"#DC143C\"><size=33><i>「완벽한 계략과는 다소 거리가 있군.」</i>  </size=33></font>"
+      "Desc": "리그리아 제국 사대 장군 중 하나로 제국군의 명망 높은 '지장'. 빈틈없는 성격과 전략에 통달한 젊은 장군으로 국가에 충성하고 동료에 대한 의리도 중요시하기에 그 능력과 인품 모두 적에게도 인정받았다. <br/><font color=\"#DC143C\"><size=33><i>「완벽한 계략과는 다소 거리가 있군.」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -634,7 +634,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "전술의 대가로서 성검 군단에 합류한다. 다른 시대에서 온 영웅들과 전술에 관해 심도 있는 토론을 하고 그 토론이 격렬해질 때면 실제로 겨뤄보기도 한다.<br><font color=\"#DC143C\"><size=33><i>「이런 건 내가 직접 나설 필요 없겠...지?」</i>  </size=33></font>"
+      "Desc": "전술의 대가로서 성검 군단에 합류한다. 다른 시대에서 온 영웅들과 전술에 관해 심도 있는 토론을 하고 그 토론이 격렬해질 때면 실제로 겨뤄보기도 한다.<br/><font color=\"#DC143C\"><size=33><i>「이런 건 내가 직접 나설 필요 없겠...지?」</i>  </size=33></font>"
     }
   ],
   "Performance": [

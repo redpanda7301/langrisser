@@ -61,16 +61,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "받는 범위 피해 <font color=\"red\">-10%</font><br>주위 <font color=\"red\">2</font>칸 범위 내 아군 한명이 공격을 받은 이후</br>공격자에게 베티 공격 <font color=\"red\">1</font>배 수치의 [고정피해](면역불가) 및<br> <font color=\"red\">10%</font> 확률로 <font color=\"red\">1</font>개의 디버프 부여.</br>또한 자신의 공격마방 <font color=\"red\">+10%</font>. <font color=\"red\">2</font>턴 지속."
+          "Desc": "받는 범위 피해 <font color=\"red\">-10%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군 한명이 공격을 받은 이후</br>공격자에게 베티 공격 <font color=\"red\">1</font>배 수치의 [고정피해](면역불가) 및<br/> <font color=\"red\">10%</font> 확률로 <font color=\"red\">1</font>개의 디버프 부여.</br>또한 자신의 공격마방 <font color=\"red\">+10%</font>. <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "받는 범위 피해 <font color=\"red\">-15%</font><br>주위 <font color=\"red\">2</font>칸 범위 내 아군 한명이 공격을 받은 이후</br>공격자에게 베티 공격 <font color=\"red\">1</font>배 수치의 [고정피해](면역불가) 및<br> <font color=\"red\">15%</font> 확률로 <font color=\"red\">1</font>개의 디버프 부여.</br>또한 자신의 공격마방 <font color=\"red\">+13%</font>. <font color=\"red\">2</font>턴 지속."
+          "Desc": "받는 범위 피해 <font color=\"red\">-15%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군 한명이 공격을 받은 이후</br>공격자에게 베티 공격 <font color=\"red\">1</font>배 수치의 [고정피해](면역불가) 및<br/> <font color=\"red\">15%</font> 확률로 <font color=\"red\">1</font>개의 디버프 부여.</br>또한 자신의 공격마방 <font color=\"red\">+13%</font>. <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "받는 범위 피해 <font color=\"red\">-20%</font><br>주위 <font color=\"red\">3</font>칸 범위 내 아군 한명이 공격을 받은 이후</br>공격자에게 베티 공격 <font color=\"red\">1</font>배 수치의 [고정피해](면역불가) 및<br> <font color=\"red\">20%</font> 확률로 <font color=\"red\">1</font>개의 디버프 부여.</br>또한 자신의 공격마방 <font color=\"red\">+16%</font>. <font color=\"red\">2</font>턴 지속."
+          "Desc": "받는 범위 피해 <font color=\"red\">-20%</font><br/>주위 <font color=\"red\">3</font>칸 범위 내 아군 한명이 공격을 받은 이후</br>공격자에게 베티 공격 <font color=\"red\">1</font>배 수치의 [고정피해](면역불가) 및<br/> <font color=\"red\">20%</font> 확률로 <font color=\"red\">1</font>개의 디버프 부여.</br>또한 자신의 공격마방 <font color=\"red\">+16%</font>. <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "받는 범위 피해 <font color=\"red\">-30%</font><br>주위 <font color=\"red\">3</font>칸 범위 내 아군 한명이 공격을 받은 이후</br>공격자에게 베티 공격 <font color=\"red\">1</font>배 수치의 [고정피해](면역불가) 및<br> <font color=\"red\">30%</font> 확률로 <font color=\"red\">1</font>개의 디버프 부여.</br>또한 자신의 공격마방 <font color=\"red\">+20%</font>. <font color=\"red\">2</font>턴 지속."
+          "Desc": "받는 범위 피해 <font color=\"red\">-30%</font><br/>주위 <font color=\"red\">3</font>칸 범위 내 아군 한명이 공격을 받은 이후</br>공격자에게 베티 공격 <font color=\"red\">1</font>배 수치의 [고정피해](면역불가) 및<br/> <font color=\"red\">30%</font> 확률로 <font color=\"red\">1</font>개의 디버프 부여.</br>또한 자신의 공격마방 <font color=\"red\">+20%</font>. <font color=\"red\">2</font>턴 지속."
         }
       ]
     }
@@ -80,7 +80,7 @@
     "Name": "파멸의 샛별(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "베티.png",
-    "Ability": "생명 +10%<br>부대의 생명이 낮을 수록 입히는 고정피해가 최대 30% 상승."
+    "Ability": "생명 +10%<br/>부대의 생명이 낮을 수록 입히는 고정피해가 최대 30% 상승."
   },
   "Soldiers": [
     21,
@@ -402,7 +402,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Thump.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -416,7 +416,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/42.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>공격을 받을 시, 공격 +12%",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시, 공격 +12%",
       "SubSkills": null,
       "Animation": null
     },
@@ -442,7 +442,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IronHand.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br>[응수]효과 획득, 2턴 지속.",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br/>[응수]효과 획득, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -456,7 +456,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_SwordSpirit.png",
-      "Desc": "[패시브]받는 치료 효과 +15%.<br>근접 공격을 받아 전투 진입 시 공격,방어 +10%.",
+      "Desc": "[패시브]받는 치료 효과 +15%.<br/>근접 공격을 받아 전투 진입 시 공격,방어 +10%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -526,7 +526,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DexBuf5.png",
-      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 기술 +20% 및<br>면역:'치료 반전','재행동 불가', 1턴 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 기술 +20% 및<br/>면역:'치료 반전','재행동 불가', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -552,7 +552,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/베티.png",
-      "Desc": "[패시브] 범위 스킬로 인해 사망 시 부활 (매 전장에서 최대 <font color=\"red\">3</font>회 발동),<br>고유 스킬 범위 내에 있는 아군 <font color=\"red\">1</font>명이 피격당할 시 <br>공격자 및 그 주위 <font color=\"red\">3</font>칸 범위 내 적 <font color=\"red\">2</font>명에게 '피해 <font color=\"red\">-15</font>%' 디버프 부여,지속 <font color=\"red\">1</font>행동<br>[물리피해] 주위 2바퀴 범위 내 적에게 <font color=\"red\">0.3</font>배 피해 및 고정피해 (베티 공격 <font color=\"red\">1</font>배 수치),<br>치료 불가 효과 부여, 지속 <font color=\"red\">2</font>행동",
+      "Desc": "[패시브] 범위 스킬로 인해 사망 시 부활 (매 전장에서 최대 <font color=\"red\">3</font>회 발동),<br/>고유 스킬 범위 내에 있는 아군 <font color=\"red\">1</font>명이 피격당할 시 <br/>공격자 및 그 주위 <font color=\"red\">3</font>칸 범위 내 적 <font color=\"red\">2</font>명에게 '피해 <font color=\"red\">-15</font>%' 디버프 부여,지속 <font color=\"red\">1</font>행동<br/>[물리피해] 주위 2바퀴 범위 내 적에게 <font color=\"red\">0.3</font>배 피해 및 고정피해 (베티 공격 <font color=\"red\">1</font>배 수치),<br/>치료 불가 효과 부여, 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/베티.gif"
     }
@@ -560,7 +560,7 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 161cm /50kg<br>◆신체 사이즈: 87/58/88<br>◆출연: 랑그릿사 I & II<br>◆소속: 다르시스 제국"
+      "Desc": "◆키/몸무게: 161cm /50kg<br/>◆신체 사이즈: 87/58/88<br/>◆출연: 랑그릿사 I & II<br/>◆소속: 다르시스 제국"
     },
     {
       "Entry": "영웅담1",

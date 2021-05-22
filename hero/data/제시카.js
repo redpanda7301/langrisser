@@ -54,19 +54,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+5%</font>.<br> 지력의 <font color=\"red\">15%</font>만큼 마방 상승."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+5%</font>.<br/> 지력의 <font color=\"red\">15%</font>만큼 마방 상승."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+7%</font>.<br> 지력의 <font color=\"red\">20%</font>만큼 마방 상승."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+7%</font>.<br/> 지력의 <font color=\"red\">20%</font>만큼 마방 상승."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+9%</font>.<br> 지력의 <font color=\"red\">25%</font>만큼 마방 상승."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+9%</font>.<br/> 지력의 <font color=\"red\">25%</font>만큼 마방 상승."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+12%</font>.<br> 지력의 <font color=\"red\">30%</font>만큼 마방 상승."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+12%</font>.<br/> 지력의 <font color=\"red\">30%</font>만큼 마방 상승."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+15%</font>.<br> 지력의 <font color=\"red\">40%</font>만큼 마방 상승."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+15%</font>.<br/> 지력의 <font color=\"red\">40%</font>만큼 마방 상승."
         }
       ]
     }
@@ -314,7 +314,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_WindStrike.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'비병'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -340,7 +340,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Teleport.png",
-      "Desc": "[지원]액티브 스킬, 아군 1부대를 범위 안의 임의 1칸으로 이동시킨다.<b>(텔레포트 범위는 대상을 기준으로 7칸)</b><br>(유저의 부대에게만 쓸 수 있다.)",
+      "Desc": "[지원]액티브 스킬, 아군 1부대를 범위 안의 임의 1칸으로 이동시킨다.<b>(텔레포트 범위는 대상을 기준으로 7칸)</b><br/>(유저의 부대에게만 쓸 수 있다.)",
       "SubSkills": null,
       "Animation": null
     },
@@ -366,7 +366,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/20.png",
-      "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.<br>'비병'과 전투 시 더 큰 피해를 준다.<br>적군의 공격, 지력 -20%, 2턴 지속.",
+      "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 공격, 지력 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -380,7 +380,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefBuf.png",
-      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br/>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -406,7 +406,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Metro.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br>'보병'에게 더 큰 피해를 준다.<br>적은 다음 행동 종료 시 생명의 20%를 잃는다.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>'보병'에게 더 큰 피해를 준다.<br/>적은 다음 행동 종료 시 생명의 20%를 잃는다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -432,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/18.png",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -458,7 +458,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/23.png",
-      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     }
@@ -466,11 +466,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：? · ?<br>◆신체 사이즈：90/48/87<br>◆출연：랑그릿사 전 시리즈<br>◆소속：빛과 희망의 인도자"
+      "Desc": "◆키/몸무게：? · ?<br/>◆신체 사이즈：90/48/87<br/>◆출연：랑그릿사 전 시리즈<br/>◆소속：빛과 희망의 인도자"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "성검 랑그릿사와 마검 알하자드에 관해 누구보다 잘 알고 있으며 랑그릿사 전 시리즈에서 활약한 역사의 산증인 격인 대마법사. 환생의 마법으로 자신의 생명을 이어가며 어둠의 세력과 끊임없이 싸우는 빛의 여신의 대리인.<br><font color=\"#DC143C\"><size=33><i>「여신께서 모든 사람을 지켜 주십니다!」</i>  </size=33></font>"
+      "Desc": "성검 랑그릿사와 마검 알하자드에 관해 누구보다 잘 알고 있으며 랑그릿사 전 시리즈에서 활약한 역사의 산증인 격인 대마법사. 환생의 마법으로 자신의 생명을 이어가며 어둠의 세력과 끊임없이 싸우는 빛의 여신의 대리인.<br/><font color=\"#DC143C\"><size=33><i>「여신께서 모든 사람을 지켜 주십니다!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",

@@ -65,16 +65,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 범위 내에 아군 부대가 있을 경우<br>지력 <font color=\"red\">+5%</font>.<br>범위 스킬을 시전 시 스킬 범위 <font color=\"red\">+1</font><br>광선 스킬 시전 시 스킬 사거리 <font color=\"red\">+1</font> 및 <br>범위 스킬 피해 <font color=\"red\">+5%</font>."
+          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 범위 내에 아군 부대가 있을 경우<br/>지력 <font color=\"red\">+5%</font>.<br/>범위 스킬을 시전 시 스킬 범위 <font color=\"red\">+1</font><br/>광선 스킬 시전 시 스킬 사거리 <font color=\"red\">+1</font> 및 <br/>범위 스킬 피해 <font color=\"red\">+5%</font>."
         },
         {
-          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 범위 내에 아군 부대가 있을 경우<br>지력 <font color=\"red\">+8%</font>.<br>범위 스킬을 시전 시 스킬 범위 <font color=\"red\">+1</font><br>광선 스킬 시전 시 스킬 사거리 <font color=\"red\">+1</font> 및 <br>범위 스킬 피해 <font color=\"red\">+8%</font>."
+          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 범위 내에 아군 부대가 있을 경우<br/>지력 <font color=\"red\">+8%</font>.<br/>범위 스킬을 시전 시 스킬 범위 <font color=\"red\">+1</font><br/>광선 스킬 시전 시 스킬 사거리 <font color=\"red\">+1</font> 및 <br/>범위 스킬 피해 <font color=\"red\">+8%</font>."
         },
         {
-          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 범위 내에 아군 부대가 있을 경우<br>지력 <font color=\"red\">+11%</font>.<br>범위 스킬을 시전 시 스킬 범위 <font color=\"red\">+1</font><br>광선 스킬 시전 시 스킬 사거리 <font color=\"red\">+1</font> 및 <br>범위 스킬 피해 <font color=\"red\">+11%</font>."
+          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 범위 내에 아군 부대가 있을 경우<br/>지력 <font color=\"red\">+11%</font>.<br/>범위 스킬을 시전 시 스킬 범위 <font color=\"red\">+1</font><br/>광선 스킬 시전 시 스킬 사거리 <font color=\"red\">+1</font> 및 <br/>범위 스킬 피해 <font color=\"red\">+11%</font>."
         },
         {
-          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 범위 내에 아군 부대가 있을 경우<br>지력 <font color=\"red\">+15%</font>.<br>범위 스킬을 시전 시 스킬 범위 <font color=\"red\">+1</font><br>광선 스킬 시전 시 스킬 사거리 <font color=\"red\">+1</font> 및 <br>범위 스킬 피해 <font color=\"red\">+15%</font>."
+          "Desc": "자신의 주위 <font color=\"red\">2</font>칸 범위 내에 아군 부대가 있을 경우<br/>지력 <font color=\"red\">+15%</font>.<br/>범위 스킬을 시전 시 스킬 범위 <font color=\"red\">+1</font><br/>광선 스킬 시전 시 스킬 사거리 <font color=\"red\">+1</font> 및 <br/>범위 스킬 피해 <font color=\"red\">+15%</font>."
         }
       ]
     }
@@ -84,7 +84,7 @@
     "Name": "세계수의 꽃(장신구)",
     "Stats": "지력 75,마방 43",
     "Icon": "람다.png",
-    "Ability": "지력 +5%<br>기술사용시, 매 적군 1기당 피해를 입힐시 10%확률 사용한 기술의 쿨타임-5(최대 50%)"
+    "Ability": "지력 +5%<br/>기술사용시, 매 적군 1기당 피해를 입힐시 10%확률 사용한 기술의 쿨타임-5(최대 50%)"
   },
   "Soldiers": [
     0,
@@ -412,7 +412,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_WindStrike.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'비병'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -438,7 +438,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/20.png",
-      "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.<br>'비병'과 전투 시 더 큰 피해를 준다.<br>적군의 공격, 지력 -20%, 2턴 지속.",
+      "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 공격, 지력 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -464,7 +464,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'창병'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -490,7 +490,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/18.png",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -516,7 +516,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ThunderCrash.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -542,7 +542,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SacredTree1.png",
-      "Desc": "[패시브]이동할 수 있는 지형을 숲으로 취급.<br>지형으로 인한 이동력 감소 영향을 받지 않는다.<br>[액티브]본인에게 지휘 효과 부여:<br>주위 2칸 내 모든 아군이 성수 보호를 받는다. 2턴 지속.",
+      "Desc": "[패시브]이동할 수 있는 지형을 숲으로 취급.<br/>지형으로 인한 이동력 감소 영향을 받지 않는다.<br/>[액티브]본인에게 지휘 효과 부여:<br/>주위 2칸 내 모든 아군이 성수 보호를 받는다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -568,7 +568,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FrostRay.png",
-      "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br>'창병'과 전투 시 더큰 피해를 입힌다. 적군의 이동력 -1, 2턴 지속.",
+      "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br/>'창병'과 전투 시 더큰 피해를 입힌다. 적군의 이동력 -1, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -594,7 +594,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_WindRay2.png",
-      "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br>'비병'과 전투 시 더 큰 피해를 입힌다. 적군의 공격,지력 -20%, 2턴 지속.",
+      "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 입힌다. 적군의 공격,지력 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -620,7 +620,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SacredRay.png",
-      "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br>'마물'과 전투 시 더큰 피해를 입힌다. 1개 버프 제거.",
+      "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더큰 피해를 입힌다. 1개 버프 제거.",
       "SubSkills": null,
       "Animation": null
     },
@@ -646,7 +646,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/람다.png",
-      "Desc": "[패시브] 자신이 '<b><font color=\"green\">숲</font></b>' 지형에 있을 경우 '<b><font color=\"blue\">공격 지력 감소</font></b>' '<b><font color=\"blue\">침묵</font></b>' 면역<br>[마법피해] 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <font color=\"red\">0.35</font>배 피해 및 공격하여 전투 진입시 주는피해 <font color=\"red\">-20</font>%, 지속 <font color=\"red\">2</font>턴<br>명중한 지형에 '<font color=\"blue\">고요한 숨결</font>' 효과 부여 : 해당 지형으로 이동한 적에게 '치명타 확률 <font color=\"red\">-30</font>%' 부여, 지속 <font color=\"red\">1</font>턴",
+      "Desc": "[패시브] 자신이 '<b><font color=\"green\">숲</font></b>' 지형에 있을 경우 '<b><font color=\"blue\">공격 지력 감소</font></b>' '<b><font color=\"blue\">침묵</font></b>' 면역<br/>[마법피해] 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <font color=\"red\">0.35</font>배 피해 및 공격하여 전투 진입시 주는피해 <font color=\"red\">-20</font>%, 지속 <font color=\"red\">2</font>턴<br/>명중한 지형에 '<font color=\"blue\">고요한 숨결</font>' 효과 부여 : 해당 지형으로 이동한 적에게 '치명타 확률 <font color=\"red\">-30</font>%' 부여, 지속 <font color=\"red\">1</font>턴",
       "SubSkills": null,
       "Animation": "../img/Super/람다.gif"
     }
@@ -654,11 +654,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 167cm / 46kg<br>◆신체 사이즈: 85/52/84<br>◆출연: 랑그릿사V<br>◆소속: 정의로운 동료"
+      "Desc": "◆키/몸무게: 167cm / 46kg<br/>◆신체 사이즈: 85/52/84<br/>◆출연: 랑그릿사V<br/>◆소속: 정의로운 동료"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "기자로프의 마도 연구소에서 소생한 인조인간 소체로, 코드 네임은 λ052. 풍부한 지식과 식물과 교류하는 특별한 능력을 얻은 대가로 과거의 기억을 잃었다.레인폴스의 추격을 피해 함께 각성한 시그마와 함께 세상을 떠돌기 시작한다. 그러던 중 자신의 출신과 짊어진 사명에 대해 알게 되었고, 결국 시그마를 도와 성검 랑그릿사로 최종 병기를 저지하고 세상을 구했다.<br><font color=\"#DC143C\"><size=33><i>「식물도 생각이 있다는 걸 나는 느낄 수 있어.」</i>  </size=33></font>"
+      "Desc": "기자로프의 마도 연구소에서 소생한 인조인간 소체로, 코드 네임은 λ052. 풍부한 지식과 식물과 교류하는 특별한 능력을 얻은 대가로 과거의 기억을 잃었다.레인폴스의 추격을 피해 함께 각성한 시그마와 함께 세상을 떠돌기 시작한다. 그러던 중 자신의 출신과 짊어진 사명에 대해 알게 되었고, 결국 시그마를 도와 성검 랑그릿사로 최종 병기를 저지하고 세상을 구했다.<br/><font color=\"#DC143C\"><size=33><i>「식물도 생각이 있다는 걸 나는 느낄 수 있어.」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -666,7 +666,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "기자로프에게 마족의 손에서 '현자의 수정'을 되찾아 오라는 임무를 받은 람다와 시그마는 아이젤 장군의 방해로 임무에 실패한다. 주인의 명령을 절대적으로 따르던 람다는 복귀하던 중 기자로프의 사망 소식을 듣고 혼란에 빠진다.클라렛과 함께 엘사리아 대륙을 재건하려는 과정에서 람다는 친오빠 마크렌을 만나 자신에 대해 알게 되었다. 그리고 성검과 마검을 탈환하기 위해 시그마와 함께 엘사리아 대륙으로 향했다.<br><font color=\"#DC143C\"><size=33><i>「난 누군가의 꼭두각시가 아니라, 진짜 인간이야. 내게는 마크렌이라는 오빠도 있어.」</i></size=33></font>"
+      "Desc": "기자로프에게 마족의 손에서 '현자의 수정'을 되찾아 오라는 임무를 받은 람다와 시그마는 아이젤 장군의 방해로 임무에 실패한다. 주인의 명령을 절대적으로 따르던 람다는 복귀하던 중 기자로프의 사망 소식을 듣고 혼란에 빠진다.클라렛과 함께 엘사리아 대륙을 재건하려는 과정에서 람다는 친오빠 마크렌을 만나 자신에 대해 알게 되었다. 그리고 성검과 마검을 탈환하기 위해 시그마와 함께 엘사리아 대륙으로 향했다.<br/><font color=\"#DC143C\"><size=33><i>「난 누군가의 꼭두각시가 아니라, 진짜 인간이야. 내게는 마크렌이라는 오빠도 있어.」</i></size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -674,7 +674,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "아멜다의 소환으로 이 세계에 온 람다는 식물과 교류할 수 있는 특별한 능력과 강한 전투력으로 성검 군단의 믿음직한 동료가 되어, 함께 전쟁을 막기 위해 싸우고 있다.<br><font color=\"#DC143C\"><size=33><i>「전쟁이 가져다 주는 것은 오직 고통 뿐이야.」</i> </size=33></font>"
+      "Desc": "아멜다의 소환으로 이 세계에 온 람다는 식물과 교류할 수 있는 특별한 능력과 강한 전투력으로 성검 군단의 믿음직한 동료가 되어, 함께 전쟁을 막기 위해 싸우고 있다.<br/><font color=\"#DC143C\"><size=33><i>「전쟁이 가져다 주는 것은 오직 고통 뿐이야.」</i> </size=33></font>"
     }
   ],
   "Performance": [

@@ -69,16 +69,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">1칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br> 동시에 자신 지력의 <font color=\"red\">1.5배</font>만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">1칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">1.5배</font>만큼 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br> 동시에 자신 지력의 <font color=\"red\">2배</font>만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">2배</font>만큼 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br> 동시에 자신 지력의 <font color=\"red\">2.5배</font>만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">2.5배</font>만큼 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">2개</font> 제거<br> 동시에 자신 지력의 <font color=\"red\">3배</font>만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">2개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">3배</font>만큼 회복."
         }
       ]
     }
@@ -416,7 +416,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/17.png",
-      "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -442,7 +442,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_NewTurn.png",
-      "Desc": "[지원]액티브 스킬, 행동을 마친 아군 1부대를 다시 행동할 수 있게 하며<br>사용자 지력 2배의 생명을 회복시킨다.",
+      "Desc": "[지원]액티브 스킬, 행동을 마친 아군 1부대를 다시 행동할 수 있게 하며<br/>사용자 지력 2배의 생명을 회복시킨다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -468,7 +468,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_WindStrike.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'비병'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -494,7 +494,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -520,7 +520,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HealSuper.png",
-      "Desc": "[지원]광범위 부대에게 지력 4배만큼 생명을 회복한다.<br>그리고 행동 종료 시 생명을 20% 회복한다. 2턴 지속.",
+      "Desc": "[지원]광범위 부대에게 지력 4배만큼 생명을 회복한다.<br/>그리고 행동 종료 시 생명을 20% 회복한다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -546,7 +546,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'창병'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -612,7 +612,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Bless.png",
-      "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br>모든 디버프에 면역. 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br/>모든 디버프에 면역. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     }
@@ -620,11 +620,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：167cm / 45kg<br>◆신체 사이즈：84/52/83<br>◆출연：랑그릿사II<br>◆소속：빛의 군단"
+      "Desc": "◆키/몸무게：167cm / 45kg<br/>◆신체 사이즈：84/52/83<br/>◆출연：랑그릿사II<br/>◆소속：빛의 군단"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "성검을 봉인하거나 그 봉인을 풀 수 있는 두 무녀 중 한 사람으로 레온에 의해 잡혀갈 뻔한 것을 계기로 거대한 전쟁에 휘말리게 되었다. 언제나 타인을 걱정하고 있으며 전쟁을 끝내기 위해 노력하고 있다.<br><font color=\"#DC143C\"><size=33><i>「생명과 행복보다 중요한 것이 있나요!?」</i>  </size=33></font>"
+      "Desc": "성검을 봉인하거나 그 봉인을 풀 수 있는 두 무녀 중 한 사람으로 레온에 의해 잡혀갈 뻔한 것을 계기로 거대한 전쟁에 휘말리게 되었다. 언제나 타인을 걱정하고 있으며 전쟁을 끝내기 위해 노력하고 있다.<br/><font color=\"#DC143C\"><size=33><i>「생명과 행복보다 중요한 것이 있나요!?」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -640,7 +640,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "믿을 수 있는 동료들과 굳건한 신뢰를 쌓았던 그녀는 이 시대에서도 자신의 사랑으로 모두를 지켜주려 한다. <br><font color=\"#DC143C\"><size=33><i>「서로 믿고 지탱해주었기에 우린 이곳에 올 수 있었어요. 그래서 랑그릿사가 힘을 빌려준 거예요!」</i>  </size=33></font>"
+      "Desc": "믿을 수 있는 동료들과 굳건한 신뢰를 쌓았던 그녀는 이 시대에서도 자신의 사랑으로 모두를 지켜주려 한다. <br/><font color=\"#DC143C\"><size=33><i>「서로 믿고 지탱해주었기에 우린 이곳에 올 수 있었어요. 그래서 랑그릿사가 힘을 빌려준 거예요!」</i>  </size=33></font>"
     }
   ],
   "Performance": [

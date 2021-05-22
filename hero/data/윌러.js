@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br> 병사의 모든 속성 <font color=\"red\">+5%</font>.<br>영웅 사망 시 <font color=\"red\">3</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 \"사수\" 획득.<br> 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">1</font>턴 지속."
+          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br/> 병사의 모든 속성 <font color=\"red\">+5%</font>.<br/>영웅 사망 시 <font color=\"red\">3</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 \"사수\" 획득.<br/> 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">1</font>턴 지속."
         },
         {
-          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br> 병사의 모든 속성 <font color=\"red\">+10%</font>.<br>영웅 사망 시 <font color=\"red\">4</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 \"사수\" 획득.<br> 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br/> 병사의 모든 속성 <font color=\"red\">+10%</font>.<br/>영웅 사망 시 <font color=\"red\">4</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 \"사수\" 획득.<br/> 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br> 병사의 모든 속성 <font color=\"red\">+15%</font>.<br>영웅 사망 시 <font color=\"red\">4</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 \"사수\" 획득.<br> 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br/> 병사의 모든 속성 <font color=\"red\">+15%</font>.<br/>영웅 사망 시 <font color=\"red\">4</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 \"사수\" 획득.<br/> 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
         },
         {
-          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+2</font>.<br> 병사의 모든 속성 <font color=\"red\">+20%</font>.<br>영웅 사망 시 <font color=\"red\">5</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 \"사수\" 획득.<br> 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">3</font>턴 지속."
+          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+2</font>.<br/> 병사의 모든 속성 <font color=\"red\">+20%</font>.<br/>영웅 사망 시 <font color=\"red\">5</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 \"사수\" 획득.<br/> 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">3</font>턴 지속."
         }
       ]
     }
@@ -401,7 +401,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Extend.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 생명 회복.<br>회복량은 시전자 지력의 1.5배, 3개 디버프 제거.",
+      "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 생명 회복.<br/>회복량은 시전자 지력의 1.5배, 3개 디버프 제거.",
       "SubSkills": null,
       "Animation": null
     },
@@ -427,7 +427,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ATKup.png",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -453,7 +453,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/23.png",
-      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -467,7 +467,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.png",
-      "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -493,7 +493,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_TacticalEvacuation.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 생명이 100% 미만인 아군 부대를 자신의<br>옆으로 이동시켜 시전자 지력의 3배만큼 생명 회복.",
+      "Desc": "[지원]액티브 스킬, 범위 내 생명이 100% 미만인 아군 부대를 자신의<br/>옆으로 이동시켜 시전자 지력의 3배만큼 생명 회복.",
       "SubSkills": null,
       "Animation": null
     },
@@ -519,7 +519,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Rally.png",
-      "Desc": "[지원]액티브 스킬,행동이 끝나고 병사가 전멸한 아군 부대 1개에게<br>재행동을 부여하고 시전자 지력의 5배만큼 생명 회복.",
+      "Desc": "[지원]액티브 스킬,행동이 끝나고 병사가 전멸한 아군 부대 1개에게<br/>재행동을 부여하고 시전자 지력의 5배만큼 생명 회복.",
       "SubSkills": null,
       "Animation": null
     },
@@ -559,7 +559,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -599,7 +599,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/Skill_Super6.png",
-      "Desc": "[지원]액티브 스킬, 영웅의 남은 체력 99%를 소모하여, 영웅의 고유기술중 [영웅사망]효과를 발동.<br>동시에 자신을 제외한 모든 아군에게 입히는피해 +15%, 받는피해 -15%, 3턴 지속.",
+      "Desc": "[지원]액티브 스킬, 영웅의 남은 체력 99%를 소모하여, 영웅의 고유기술중 [영웅사망]효과를 발동.<br/>동시에 자신을 제외한 모든 아군에게 입히는피해 +15%, 받는피해 -15%, 3턴 지속.",
       "SubSkills": null,
       "Animation": "../img/Super/mmexport1579423861368.gif"
     }
@@ -607,11 +607,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 176cm / 52kg<br>◆출연: 랑그릿사 Ⅳ<br>◆소속: 카콘시스 왕국"
+      "Desc": "◆키/몸무게: 176cm / 52kg<br/>◆출연: 랑그릿사 Ⅳ<br/>◆소속: 카콘시스 왕국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "카콘시스 왕국의 제독이자 왕국군의 실질적인 지휘관이다.냉정한 성격에 머리가 좋은 청년. 각개전투에는 약하지만 전략을 짜는데 재능이 탁월해 뛰어난 통찰력을 발휘하고 있다. 터무니없지만 확실한 효과를 거두는 작전을 자주 세운다. 성격은 온화하며, 레겐부르그 연방의 란포드 원수와는 학창시절에 친하게 지냈던 사이이다.<br><font color=\"#DC143C\"><size=33><i>「앞장 서 싸우는 것보다 뒤에서 전략을 세우는 게 적성에 맞아.」</i> </size=33></font>"
+      "Desc": "카콘시스 왕국의 제독이자 왕국군의 실질적인 지휘관이다.냉정한 성격에 머리가 좋은 청년. 각개전투에는 약하지만 전략을 짜는데 재능이 탁월해 뛰어난 통찰력을 발휘하고 있다. 터무니없지만 확실한 효과를 거두는 작전을 자주 세운다. 성격은 온화하며, 레겐부르그 연방의 란포드 원수와는 학창시절에 친하게 지냈던 사이이다.<br/><font color=\"#DC143C\"><size=33><i>「앞장 서 싸우는 것보다 뒤에서 전략을 세우는 게 적성에 맞아.」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -619,7 +619,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "평화주의자인 윌러 제독은 전쟁으로 인한 희생에 분노하며 수많은 전쟁 고아들을 입양했다. 하지만 기자로프는 그가 입양한 고아들을 납치해 협박하자, 윌러는 그에게 굴복할 수 밖에 없었다. 세레나 장군의 도움으로 납치된 아이들이 구출되고 자유를 되찾은 윌러 제독은 카콘시스로 돌아와 기자로프를 꺽기 위해 싸웠다.<br><font color=\"#DC143C\"><size=33><i>「전쟁에서 최고의 성공은 승리가 아니라 전쟁 자체는 없애는 것이다.」</i> </size=33></font>"
+      "Desc": "평화주의자인 윌러 제독은 전쟁으로 인한 희생에 분노하며 수많은 전쟁 고아들을 입양했다. 하지만 기자로프는 그가 입양한 고아들을 납치해 협박하자, 윌러는 그에게 굴복할 수 밖에 없었다. 세레나 장군의 도움으로 납치된 아이들이 구출되고 자유를 되찾은 윌러 제독은 카콘시스로 돌아와 기자로프를 꺽기 위해 싸웠다.<br/><font color=\"#DC143C\"><size=33><i>「전쟁에서 최고의 성공은 승리가 아니라 전쟁 자체는 없애는 것이다.」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -627,7 +627,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "소환된 윌러 제독은 육체적인 전투능력은 부족하지만, 그가 가진 뛰어난 지략은 전세를 뒤집을 중요한 무기이다. <br><font color=\"#DC143C\"><size=33><i>「나는 평화로운 세상을 꿈꾸지만, 아직 갈 길이 먼 것 같군.」</i> </size=33></font>"
+      "Desc": "소환된 윌러 제독은 육체적인 전투능력은 부족하지만, 그가 가진 뛰어난 지략은 전세를 뒤집을 중요한 무기이다. <br/><font color=\"#DC143C\"><size=33><i>「나는 평화로운 세상을 꿈꾸지만, 아직 갈 길이 먼 것 같군.」</i> </size=33></font>"
     }
   ],
   "Performance": [

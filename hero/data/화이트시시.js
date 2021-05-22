@@ -347,7 +347,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/WhiteSisi/0_1.png",
-      "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br>해당 용병은 스킬은 <font color=\"blue\">저지, 창진</font>",
+      "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">저지, 창진</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -365,7 +365,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/WhiteSisi/0_2.png",
-      "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br>해당 용병은 스킬은 <font color=\"blue\">힘의 외침, 공격 지휘</font>",
+      "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">힘의 외침, 공격 지휘</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -383,7 +383,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/WhiteSisi/0_3.png",
-      "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br>해당 용병은 스킬은 <font color=\"blue\">맹렬한 돌격, 폭풍</font>",
+      "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">맹렬한 돌격, 폭풍</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -409,7 +409,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/17.png",
-      "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -435,7 +435,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/WhiteSisi/1.png",
-      "Desc": "[액티브]적에게 받는 피해 +10% 부여, <b>해제 불가,면역 불가</b><br>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">2</font>개 소모",
+      "Desc": "[액티브]적에게 받는 피해 +10% 부여, <b>해제 불가,면역 불가</b><br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">2</font>개 소모",
       "SubSkills": null,
       "Animation": null
     },
@@ -461,7 +461,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/23.png",
-      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -501,7 +501,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/WhiteSisi/2.png",
-      "Desc": "[액티브]범위 내 부대 생명 회복 (지력 <font color=\"red\">2</font>배), 디버프 <font color=\"red\">1</font>개 제거, 이동력 <font color=\"red\">+1</font>, <br><font color=\"blue\">이동력 저하 면역</font> 효과 부여, 지속 <font color=\"red\">2</font>행동, <br><b>소환수에겐 추가로</b> 주는 피해 <font color=\"red\">+20</font>% 효과 부여, 지속 <font color=\"red\">2</font>행동,<br>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">3</font>개 소모",
+      "Desc": "[액티브]범위 내 부대 생명 회복 (지력 <font color=\"red\">2</font>배), 디버프 <font color=\"red\">1</font>개 제거, 이동력 <font color=\"red\">+1</font>, <br/><font color=\"blue\">이동력 저하 면역</font> 효과 부여, 지속 <font color=\"red\">2</font>행동, <br/><b>소환수에겐 추가로</b> 주는 피해 <font color=\"red\">+20</font>% 효과 부여, 지속 <font color=\"red\">2</font>행동,<br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">3</font>개 소모",
       "SubSkills": null,
       "Animation": null
     },
@@ -527,7 +527,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/19.png",
-      "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br>회복량은 사용자 지력의 4배.",
+      "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
       "SubSkills": null,
       "Animation": null
     },
@@ -553,7 +553,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -579,7 +579,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/WhiteSisi/3.png",
-      "Desc": "[액티브]적 <font color=\"red\">1</font>부대의 <b>모든 병사를 바로 해산 시킴.</b>,<br>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">3</font>개 소모. <b>면역 불가</b>",
+      "Desc": "[액티브]적 <font color=\"red\">1</font>부대의 <b>모든 병사를 바로 해산 시킴.</b>,<br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">3</font>개 소모. <b>면역 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -605,7 +605,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/화이트시시_0.png",
-      "Desc": "[패시브] 전장에 있는 소환수 사망 시 전쟁 자금 1개 획득 <br>[액티브]하기 스킬중 선택",
+      "Desc": "[패시브] 전장에 있는 소환수 사망 시 전쟁 자금 1개 획득 <br/>[액티브]하기 스킬중 선택",
       "SubSkills": null,
       "Animation": null
     },
@@ -631,7 +631,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/화이트시시_1.png",
-      "Desc": "[액티브] 목표 부대 생명 100% 회복 및 '공격 지력' '방어' +30%, '피해 +10%' 부여, 지속 <font color=\"red\">1</font>행동<br>해당 부대가 <b>이미 행동 종료한 경우</b> <font color=\"blue\">재행동</font><br><b>해당 스킬을 사용 후 <font color=\"blue\">상업 전쟁의 모략</font>은 쿨 2턴으로 조정</b><br>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">5</font>개 소모",
+      "Desc": "[액티브] 목표 부대 생명 100% 회복 및 '공격 지력' '방어' +30%, '피해 +10%' 부여, 지속 <font color=\"red\">1</font>행동<br/>해당 부대가 <b>이미 행동 종료한 경우</b> <font color=\"blue\">재행동</font><br/><b>해당 스킬을 사용 후 <font color=\"blue\">상업 전쟁의 모략</font>은 쿨 2턴으로 조정</b><br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">5</font>개 소모",
       "SubSkills": null,
       "Animation": null
     },
@@ -657,7 +657,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/화이트시시_2.png",
-      "Desc": "[액티브] 아군 <font color=\"red\">1</font>개 부대 생명 회복 (지력 <font color=\"red\">2</font>배 수치) 및 '<font color=\"blue\">투자</font>' 효과 부여 : <br><b>턴 시작 시</b> 랜덤한 버프 <font color=\"red\">1</font>개 획득, <br><b>격파하는 적 <font color=\"red\">1</font>명 당</b> 화이트 시시가 「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">2</font>개 획득, 지속 <font color=\"red\">3</font>행동, <br>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">1</font>개 소모. <b>해제 불가,면역 불가</b>",
+      "Desc": "[액티브] 아군 <font color=\"red\">1</font>개 부대 생명 회복 (지력 <font color=\"red\">2</font>배 수치) 및 '<font color=\"blue\">투자</font>' 효과 부여 : <br/><b>턴 시작 시</b> 랜덤한 버프 <font color=\"red\">1</font>개 획득, <br/><b>격파하는 적 <font color=\"red\">1</font>명 당</b> 화이트 시시가 「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">2</font>개 획득, 지속 <font color=\"red\">3</font>행동, <br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">1</font>개 소모. <b>해제 불가,면역 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/화이트시시.gif"
     }

@@ -73,16 +73,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br> 전투 후 <font color=\"red\">50%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">50%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br> 전투 후 <font color=\"red\">60%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">60%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br> 전투 후 <font color=\"red\">80%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">80%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br> 전투 후 <font color=\"red\">100%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">100%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
         }
       ]
     }
@@ -426,7 +426,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/17.png",
-      "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -452,7 +452,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/18.png",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -478,7 +478,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/23.png",
-      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -504,7 +504,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ValBuff.png",
-      "Desc": "[지원]액티브 스킬, 단일 부대의 공격시 주는 피해량 +30% 및<br>받는 피해량 -50%, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 단일 부대의 공격시 주는 피해량 +30% 및<br/>받는 피해량 -50%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -530,7 +530,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_PalCrash.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들이 주는 피해량 +15%, 받는 피해량-15%, 2턴 지속.<br>그리고 사용자 지력 3배의 생명을 회복시킨다.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들이 주는 피해량 +15%, 받는 피해량-15%, 2턴 지속.<br/>그리고 사용자 지력 3배의 생명을 회복시킨다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -556,7 +556,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.png",
-      "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
+      "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -582,7 +582,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Fireball.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'보병'에게 더큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -608,7 +608,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SacredRay.png",
-      "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br>'마물'과 전투 시 더큰 피해를 입힌다. 1개 버프 제거.",
+      "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더큰 피해를 입힌다. 1개 버프 제거.",
       "SubSkills": null,
       "Animation": null
     },
@@ -622,7 +622,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.png",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     }
@@ -630,11 +630,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：145cm / 32kg<br>◆신체 사이즈：65/52/68<br>◆출연：랑그릿사III<br>◆소속：라카스 왕국"
+      "Desc": "◆키/몸무게：145cm / 32kg<br/>◆신체 사이즈：65/52/68<br/>◆출연：랑그릿사III<br/>◆소속：라카스 왕국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "라카스 왕국 부유성 후작의 딸로 마법에 재능이 있는 활발한 소녀. 전쟁 초기에 아버지가 죽는 걸 목격한 일은 그녀의 가슴 속에 지워지지 않는 그늘로 남게 되었다.디하르트와 같이 도망친 후 나라를 되찾기 위한 길에 나섰으며 마침내 전설 속에 그 자취를 남긴다.<br><font color=\"#DC143C\"><size=33><i>「난 아직 11살이야! 너무 많은 걸 요구하지 마!」</i>  </size=33></font>"
+      "Desc": "라카스 왕국 부유성 후작의 딸로 마법에 재능이 있는 활발한 소녀. 전쟁 초기에 아버지가 죽는 걸 목격한 일은 그녀의 가슴 속에 지워지지 않는 그늘로 남게 되었다.디하르트와 같이 도망친 후 나라를 되찾기 위한 길에 나섰으며 마침내 전설 속에 그 자취를 남긴다.<br/><font color=\"#DC143C\"><size=33><i>「난 아직 11살이야! 너무 많은 걸 요구하지 마!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -642,7 +642,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "디하르트와 함께하며 라카스 독립군의 중요 인물로 거듭난다. 원래는 단순하고 세상 경험 부족한 아가씨였지만 차츰 믿을 수 있는 강력한 조력자가 되어간다.<br><font color=\"#DC143C\"><size=33><i>「그렇다곤 하지만 그 근육질 녀석들은 참을 수 없는걸!」</i>  </size=33></font>"
+      "Desc": "디하르트와 함께하며 라카스 독립군의 중요 인물로 거듭난다. 원래는 단순하고 세상 경험 부족한 아가씨였지만 차츰 믿을 수 있는 강력한 조력자가 되어간다.<br/><font color=\"#DC143C\"><size=33><i>「그렇다곤 하지만 그 근육질 녀석들은 참을 수 없는걸!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -650,7 +650,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "11살의 나이로 현세에 소환된 것에 불만을 갖고 있다. 이 세계에서 좀 더 성숙한 어른이 되고 싶어... <br><font color=\"#DC143C\"><size=33><i>「나, 도움이 되고 있어? 미안해, 나도 즈파파파~ 라던가 비리비리~같은 마법을 쓸 수 있으면 좋을 텐데!」</i>  </size=33></font>"
+      "Desc": "11살의 나이로 현세에 소환된 것에 불만을 갖고 있다. 이 세계에서 좀 더 성숙한 어른이 되고 싶어... <br/><font color=\"#DC143C\"><size=33><i>「나, 도움이 되고 있어? 미안해, 나도 즈파파파~ 라던가 비리비리~같은 마법을 쓸 수 있으면 좋을 텐데!」</i>  </size=33></font>"
     }
   ],
   "Performance": [

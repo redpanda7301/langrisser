@@ -57,19 +57,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 물리 피해량이 최대 <font color=\"red\">15%</font> 감소.<br> 사망 시 부활 및 생명을 <font color=\"red\">15%</font> 회복.<br> 이 효과는 전투마다 <font color=\"red\">1회</font> 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 물리 피해량이 최대 <font color=\"red\">15%</font> 감소.<br/> 사망 시 부활 및 생명을 <font color=\"red\">15%</font> 회복.<br/> 이 효과는 전투마다 <font color=\"red\">1회</font> 발동할 수 있다."
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 물리 피해량이 최대 <font color=\"red\">18%</font> 감소.<br> 사망 시 부활 및 생명을 <font color=\"red\">18%</font> 회복.<br> 이 효과는 전투마다 <font color=\"red\">1회</font> 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 물리 피해량이 최대 <font color=\"red\">18%</font> 감소.<br/> 사망 시 부활 및 생명을 <font color=\"red\">18%</font> 회복.<br/> 이 효과는 전투마다 <font color=\"red\">1회</font> 발동할 수 있다."
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 물리 피해량이 최대 <font color=\"red\">21%</font> 감소.<br> 사망 시 부활 및 생명을 <font color=\"red\">21%</font> 회복.<br> 이 효과는 전투마다 <font color=\"red\">1회</font> 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 물리 피해량이 최대 <font color=\"red\">21%</font> 감소.<br/> 사망 시 부활 및 생명을 <font color=\"red\">21%</font> 회복.<br/> 이 효과는 전투마다 <font color=\"red\">1회</font> 발동할 수 있다."
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 물리 피해량이 최대 <font color=\"red\">25%</font> 감소.<br> 사망 시 부활 및 생명을 <font color=\"red\">25%</font> 회복.<br> 이 효과는 전투마다 <font color=\"red\">1회</font> 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 물리 피해량이 최대 <font color=\"red\">25%</font> 감소.<br/> 사망 시 부활 및 생명을 <font color=\"red\">25%</font> 회복.<br/> 이 효과는 전투마다 <font color=\"red\">1회</font> 발동할 수 있다."
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 물리 피해량이 최대 <font color=\"red\">30%</font> 감소.<br> 사망 시 부활 및 생명을 <font color=\"red\">30%</font> 회복.<br> 이 효과는 전투마다 <font color=\"red\">1회</font> 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 물리 피해량이 최대 <font color=\"red\">30%</font> 감소.<br/> 사망 시 부활 및 생명을 <font color=\"red\">30%</font> 회복.<br/> 이 효과는 전투마다 <font color=\"red\">1회</font> 발동할 수 있다."
         }
       ]
     }
@@ -79,7 +79,7 @@
     "Name": "염룡의 빛(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "발가스.png",
-    "Ability": "방어 +10%<br>[전력 찌르기]효과를 보유시 원거리2칸 공격에 대해 반격가능."
+    "Ability": "방어 +10%<br/>[전력 찌르기]효과를 보유시 원거리2칸 공격에 대해 반격가능."
   },
   "Soldiers": [
     20,
@@ -401,7 +401,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SpearCrash1.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br/>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -415,7 +415,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/26.png",
-      "Desc": "[패시브]받는 물리 피해량 -5%,<br>근접한 아군 부대가 물리 공격을 받을 시 대신하여 전투에 진입한다.",
+      "Desc": "[패시브]받는 물리 피해량 -5%,<br/>근접한 아군 부대가 물리 공격을 받을 시 대신하여 전투에 진입한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -429,7 +429,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.png",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -455,7 +455,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IronBody.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 2칸으로 늘어나며 치명타 피격확률 -20%,<br>[전력 찌르기]효과 획득: 방어의 1.6배로 공격을 대체, 2턴 지속.",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 치명타 피격확률 -20%,<br/>[전력 찌르기]효과 획득: 방어의 1.6배로 공격을 대체, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -511,7 +511,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Snarl.png",
-      "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br>공격, 방어 -10%, 1턴 지속.",
+      "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br/>공격, 방어 -10%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -537,7 +537,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SpearCrash1.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br/>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -563,7 +563,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.png",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br>전투 후, 적 방어 -30%, 2턴 지속.",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br/>전투 후, 적 방어 -30%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -589,7 +589,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/발가스.png",
-      "Desc": "[패시브]근접한 아군을 대신해 <b>물리 피해</b>를 받는다.<br> 고유 스킬 <font color=\"blue\">불굴</font> 효과 발동 후 [<font color=\"blue\">굳건함</font>] 효과 획득 : <br>[<font color=\"blue\">굳건함</font>]: <b>전장에 아군이 있을 경우</b> 생명 <font color=\"red\">30</font>% 수치로 <font color=\"blue\">부활</font><br><b>단, 부대 최대 생명 <font color=\"red\">-35</font>% 감소</b>(패널티)<br>(<b>해제 불가, 면역 불가, 굳건함의 <font color=\"blue\">불굴</font> 효과는 전장에서 최대 <font color=\"red\">2</font>회 발동</b>)<br>[액티브]호위 범위가 <font color=\"red\">3</font>칸으로 증가, 받는 치명타 확률 <font color=\"red\">-30</font>%, <br>'<font color=\"blue\">치료 불가 면역</font>' 효과 부여, '<font color=\"blue\">전력 찌르기</font>' 효과 획득, <br>지속 <font color=\"red\">3</font>행동, <b>상술된 모든 효과는 제거 불가</b>",
+      "Desc": "[패시브]근접한 아군을 대신해 <b>물리 피해</b>를 받는다.<br/> 고유 스킬 <font color=\"blue\">불굴</font> 효과 발동 후 [<font color=\"blue\">굳건함</font>] 효과 획득 : <br/>[<font color=\"blue\">굳건함</font>]: <b>전장에 아군이 있을 경우</b> 생명 <font color=\"red\">30</font>% 수치로 <font color=\"blue\">부활</font><br/><b>단, 부대 최대 생명 <font color=\"red\">-35</font>% 감소</b>(패널티)<br/>(<b>해제 불가, 면역 불가, 굳건함의 <font color=\"blue\">불굴</font> 효과는 전장에서 최대 <font color=\"red\">2</font>회 발동</b>)<br/>[액티브]호위 범위가 <font color=\"red\">3</font>칸으로 증가, 받는 치명타 확률 <font color=\"red\">-30</font>%, <br/>'<font color=\"blue\">치료 불가 면역</font>' 효과 부여, '<font color=\"blue\">전력 찌르기</font>' 효과 획득, <br/>지속 <font color=\"red\">3</font>행동, <b>상술된 모든 효과는 제거 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/발가스.gif"
     }
@@ -597,11 +597,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：199cm / 92kg<br>◆출연：랑그릿사II<br>◆소속：레이갈드 제국"
+      "Desc": "◆키/몸무게：199cm / 92kg<br/>◆출연：랑그릿사II<br/>◆소속：레이갈드 제국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "베른하르트 황제를 따르는 사천왕 중 한명. 염룡병단의 지휘관이자 '맹장'의 칭호를 받은 인물. 머리까지 근육인 거친 남자로 보이지만 사실은 오랜 실전 경험으로 다져진 교활한 작전 능력도 겸비하고 있다.언제나 병사들과 동고동락하기에 병사들의 깊은 존경을 받고 있다.<br><font color=\"#DC143C\"><size=33><i>「대머리 장군이라 한 게 누구냐, 어서 나오지 못해!」</i>  </size=33></font>"
+      "Desc": "베른하르트 황제를 따르는 사천왕 중 한명. 염룡병단의 지휘관이자 '맹장'의 칭호를 받은 인물. 머리까지 근육인 거친 남자로 보이지만 사실은 오랜 실전 경험으로 다져진 교활한 작전 능력도 겸비하고 있다.언제나 병사들과 동고동락하기에 병사들의 깊은 존경을 받고 있다.<br/><font color=\"#DC143C\"><size=33><i>「대머리 장군이라 한 게 누구냐, 어서 나오지 못해!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -613,7 +613,7 @@
     },
     {
       "Entry": "영웅담4",
-      "Desc": "원래는 부인 엘리자의 곁에서 아이가 태어나는 것을 지켜봐야 했던 발가스. 하지만 그는 부하들과 함께 싸우기 위해 전선으로 돌아왔다. 그리고 그것이 그의 생애 마지막 싸움이었다.<br><font color=\"#DC143C\"><size=33><i>「에리자에게 유언을 전해주었으면 한다. 마지막까지... 나는 부하들과 함께... 싸웠다고...」</i>  </size=33></font>"
+      "Desc": "원래는 부인 엘리자의 곁에서 아이가 태어나는 것을 지켜봐야 했던 발가스. 하지만 그는 부하들과 함께 싸우기 위해 전선으로 돌아왔다. 그리고 그것이 그의 생애 마지막 싸움이었다.<br/><font color=\"#DC143C\"><size=33><i>「에리자에게 유언을 전해주었으면 한다. 마지막까지... 나는 부하들과 함께... 싸웠다고...」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담5",

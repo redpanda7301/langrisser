@@ -53,16 +53,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%</font>% 상승 최대 (<font color=\"red\">10</font>%) <br>턴 시작 시 부대 생명 <font color=\"red\">20</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-15</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%</font>% 상승 최대 (<font color=\"red\">10</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">20</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-15</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3%</font>% 상승 최대 (<font color=\"red\">15</font>%) <br>턴 시작 시 부대 생명 <font color=\"red\">30</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-20</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3%</font>% 상승 최대 (<font color=\"red\">15</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">30</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-20</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4%</font>% 상승 최대 (<font color=\"red\">20</font>%) <br>턴 시작 시 부대 생명 <font color=\"red\">45</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-25</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4%</font>% 상승 최대 (<font color=\"red\">20</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">45</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-25</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+6%</font>% 상승 최대 (<font color=\"red\">30</font>%) <br>턴 시작 시 부대 생명 <font color=\"red\">60</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-30</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+6%</font>% 상승 최대 (<font color=\"red\">30</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">60</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-30</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         }
       ]
     }
@@ -346,7 +346,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Wataru/0.png",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배 피해를 준다.<br>전투 전 상대 버프 <font color=\"red\">3</font>개 제거",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배 피해를 준다.<br/>전투 전 상대 버프 <font color=\"red\">3</font>개 제거",
       "SubSkills": null,
       "Animation": null
     },
@@ -372,7 +372,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/0.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -412,7 +412,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.png",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -452,7 +452,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Wataru/1.png",
-      "Desc": "[액티브]목표에게 <b><font color=\"blue\">이동 불가 및 호위 불가 상태 부여</font></b> 지속 <font color=\"red\">1</font>턴, <br>사용 후 <font color=\"red\">2</font>칸 재행동 가능 <br><b>해당 스킬은 버프 지속시간을 소모하지 않음.</b>,<br>목표 영웅의 <b>현재 생명수치가 와타루보다 높을 경우</b> 해당 효과는 <b><font color=\"blue\">해제 불가</font></b>",
+      "Desc": "[액티브]목표에게 <b><font color=\"blue\">이동 불가 및 호위 불가 상태 부여</font></b> 지속 <font color=\"red\">1</font>턴, <br/>사용 후 <font color=\"red\">2</font>칸 재행동 가능 <br/><b>해당 스킬은 버프 지속시간을 소모하지 않음.</b>,<br/>목표 영웅의 <b>현재 생명수치가 와타루보다 높을 경우</b> 해당 효과는 <b><font color=\"blue\">해제 불가</font></b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -478,7 +478,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Wataru/2.png",
-      "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.2</font>배 피해, 근접 병사 대동시 병사도 함께 공격. <br>목표 이동력 <font color=\"red\">-2</font>, <b><font color=\"blue\">호위 불가</font></b> 상태 부여, 지속 <font color=\"red\">2</font>행동. <br><b>해당 스킬은 근접 패널티 무효화</b>",
+      "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.2</font>배 피해, 근접 병사 대동시 병사도 함께 공격. <br/>목표 이동력 <font color=\"red\">-2</font>, <b><font color=\"blue\">호위 불가</font></b> 상태 부여, 지속 <font color=\"red\">2</font>행동. <br/><b>해당 스킬은 근접 패널티 무효화</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -504,7 +504,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Wataru/3.png",
-      "Desc": "[액티브]위치 이동 효과, <b>자신을 목표 곁으로 이동</b>시키고 재행동 <font color=\"red\">3</font>칸 <br>(<b>위치 이동 효과는 면역 불가</b>)",
+      "Desc": "[액티브]위치 이동 효과, <b>자신을 목표 곁으로 이동</b>시키고 재행동 <font color=\"red\">3</font>칸 <br/>(<b>위치 이동 효과는 면역 불가</b>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -530,7 +530,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordSoul.png",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.8배 피해를 준다.<br>전투 전 적 부대의 버프 5개 제거 및 적 부대에게 '치료 방해' 부여, 2턴 지속<br>이 효과는 제거되지 않는다.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 1.8배 피해를 준다.<br/>전투 전 적 부대의 버프 5개 제거 및 적 부대에게 '치료 방해' 부여, 2턴 지속<br/>이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -556,7 +556,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/와타루.png",
-      "Desc": "[물리피해] 단일 개체 <font color=\"red\">1.9</font>배 피해. 전투 전 버프 <font color=\"red\">5</font>개 제거, <br>목표 이동력이 <font color=\"red\">1</font>칸 이하일 경우 기절하며 피해 <font color=\"red\">+20</font>% 및 <b>부활 불가</b> (<b>부활 불가 효과는 아레나에서만 발동</b>). <br>적을 퇴각시킬 경우 자신에게 <font color=\"red\">기진맥진</font> 효과 부여 : <br>주는 피해 <font color=\"red\">-30</font>%, 행동 종료 시 부대 생명 <font color=\"red\">30</font>% 회복, 지속 <font color=\"red\">1</font>행동. <br><b>기진맥진 효과는 면역 및 제거 불가</b>",
+      "Desc": "[물리피해] 단일 개체 <font color=\"red\">1.9</font>배 피해. 전투 전 버프 <font color=\"red\">5</font>개 제거, <br/>목표 이동력이 <font color=\"red\">1</font>칸 이하일 경우 기절하며 피해 <font color=\"red\">+20</font>% 및 <b>부활 불가</b> (<b>부활 불가 효과는 아레나에서만 발동</b>). <br/>적을 퇴각시킬 경우 자신에게 <font color=\"red\">기진맥진</font> 효과 부여 : <br/>주는 피해 <font color=\"red\">-30</font>%, 행동 종료 시 부대 생명 <font color=\"red\">30</font>% 회복, 지속 <font color=\"red\">1</font>행동. <br/><b>기진맥진 효과는 면역 및 제거 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/와타루.gif"
     }

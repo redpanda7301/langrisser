@@ -343,7 +343,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/14.png",
-      "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br>'비병'과 전투 시 더 큰 피해를 준다.<br>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
+      "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -357,7 +357,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/11.png",
-      "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
+      "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br/>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -383,7 +383,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.png",
-      "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다.<br>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
+      "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -397,7 +397,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Touma/1.png",
-      "Desc": "[패시브]<b>전투 진입 전 목표 이동력이 <font color=\"red\">4</font>칸 이상일 경우</b> <br>이동력 <font color=\"red\">-2</font> 및 <font color=\"blue\">호위 무시</font>, 지속 <font color=\"red\">1<font>턴</font></font>",
+      "Desc": "[패시브]<b>전투 진입 전 목표 이동력이 <font color=\"red\">4</font>칸 이상일 경우</b> <br/>이동력 <font color=\"red\">-2</font> 및 <font color=\"blue\">호위 무시</font>, 지속 <font color=\"red\">1<font>턴</font></font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -423,7 +423,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Touma/2.png",
-      "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.4</font>배 피해, <br>'비병'을 상대할 시 더 큰 피해를 준다. <br><b>전투 전 공격 대상 버프 <font color=\"red\">2</font>개 제거, <br><b><font color=\"purple\">천공의 무장</font> 상태일 경우 전투 후 추가 <font color=\"blue\">고정 피해</font></b> (영웅 공격력<font color=\"red\">1</font>배 수치)</b>",
+      "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.4</font>배 피해, <br/>'비병'을 상대할 시 더 큰 피해를 준다. <br/><b>전투 전 공격 대상 버프 <font color=\"red\">2</font>개 제거, <br/><b><font color=\"purple\">천공의 무장</font> 상태일 경우 전투 후 추가 <font color=\"blue\">고정 피해</font></b> (영웅 공격력<font color=\"red\">1</font>배 수치)</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -491,7 +491,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/토마.png",
-      "Desc": "[물리피해] <b><font color=\"red\">1</font>줄 직선 적에게 <font color=\"red\">0.36</font>배의 범위 피해를 입히고 버프 <font color=\"red\">2</font>개 제거</b>한다.<br>'비병'을 상대할 시 더 큰 피해를 준다.<br><b><font color=\"purple\">천공의 무장</font> 상태일 경우 전투 후 추가 <font color=\"blue\">고정 피해</font></b> (영웅 공격력<font color=\"red\">1</font>배 수치)<br><b><font color=\"red\">3</font>명 이상의 적에게 피해 입힐시 쿨타임 <font color=\"red\">-3</font>턴</b>",
+      "Desc": "[물리피해] <b><font color=\"red\">1</font>줄 직선 적에게 <font color=\"red\">0.36</font>배의 범위 피해를 입히고 버프 <font color=\"red\">2</font>개 제거</b>한다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/><b><font color=\"purple\">천공의 무장</font> 상태일 경우 전투 후 추가 <font color=\"blue\">고정 피해</font></b> (영웅 공격력<font color=\"red\">1</font>배 수치)<br/><b><font color=\"red\">3</font>명 이상의 적에게 피해 입힐시 쿨타임 <font color=\"red\">-3</font>턴</b>",
       "SubSkills": null,
       "Animation": "../img/Super/토마.gif"
     }

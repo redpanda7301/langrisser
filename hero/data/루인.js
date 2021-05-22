@@ -48,19 +48,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+5%</font> <font color=\"red\">1턴</font> 지속.<br> 전투 후 <font color=\"red\">50%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+5%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">50%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+7%</font> <font color=\"red\">1턴</font> 지속.<br> 전투 후 <font color=\"red\">60%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+7%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">60%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+9%</font> <font color=\"red\">1턴</font> 지속.<br> 전투 후 <font color=\"red\">70%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+9%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">70%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+12%</font> <font color=\"red\">1턴</font> 지속.<br> 전투 후 <font color=\"red\">80%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+12%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">80%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+15%</font> <font color=\"red\">1턴</font> 지속.<br> 전투 후 <font color=\"red\">100%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+15%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">100%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
         }
       ]
     }
@@ -306,7 +306,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.png",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -320,7 +320,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.png",
-      "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br>2턴 지속, 치명타 발생 시 반드시 발동.",
+      "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -334,7 +334,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Snarl.png",
-      "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br>공격, 방어 -10%, 1턴 지속.",
+      "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br/>공격, 방어 -10%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -374,7 +374,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -388,7 +388,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/26.png",
-      "Desc": "[패시브]받는 물리 피해량 -5%,<br>근접한 아군 부대가 물리 공격을 받을 시 대신하여 전투에 진입한다.",
+      "Desc": "[패시브]받는 물리 피해량 -5%,<br/>근접한 아군 부대가 물리 공격을 받을 시 대신하여 전투에 진입한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -402,7 +402,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.png",
-      "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br>전투 중 받는 피해량-30%.",
+      "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null
     }
@@ -410,11 +410,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 166cm / 44kg<br>◆출연: 랑그릿사III<br>◆소속: 라카스 왕국"
+      "Desc": "◆키/몸무게: 166cm / 44kg<br/>◆출연: 랑그릿사III<br/>◆소속: 라카스 왕국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "라카스 왕국의 영주 레이몬드 자작의 아들로 디하르트의 외종사촌이자 생사를 함께한 전우이다. 리그리아 제국의 침략 소식을 접한 후 빼앗긴 나라를 되찾고자 아버지를 도와 라카스 독립군을 조직한다. <br><font color=\"#DC143C\"><size=33><i>「랑그릿사를 지키는 것은 우리 가문의 가장 큰 영광이자 의무입니다.」</i>  </size=33></font>"
+      "Desc": "라카스 왕국의 영주 레이몬드 자작의 아들로 디하르트의 외종사촌이자 생사를 함께한 전우이다. 리그리아 제국의 침략 소식을 접한 후 빼앗긴 나라를 되찾고자 아버지를 도와 라카스 독립군을 조직한다. <br/><font color=\"#DC143C\"><size=33><i>「랑그릿사를 지키는 것은 우리 가문의 가장 큰 영광이자 의무입니다.」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -430,7 +430,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "현세에 소환된 루인은 엘스리드 왕국의 멸망과 파괴된 성검에 안타까워했다. 하지만 그런 감정도 잠시일 뿐, 랑그릿사의 부활을 위해 루인은 다시 전투에 나서게 된다.<br><font color=\"#DC143C\"><size=33><i>「랑그릿사는 이미 사라졌지만... 하늘에 계신 아버지께서도 분명 저를 자랑스러워하실 겁니다.」</i>  </size=33></font>"
+      "Desc": "현세에 소환된 루인은 엘스리드 왕국의 멸망과 파괴된 성검에 안타까워했다. 하지만 그런 감정도 잠시일 뿐, 랑그릿사의 부활을 위해 루인은 다시 전투에 나서게 된다.<br/><font color=\"#DC143C\"><size=33><i>「랑그릿사는 이미 사라졌지만... 하늘에 계신 아버지께서도 분명 저를 자랑스러워하실 겁니다.」</i>  </size=33></font>"
     }
   ],
   "Performance": [

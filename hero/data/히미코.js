@@ -128,7 +128,7 @@
       "MagicDefRate": 56,
       "Skill": 326,
       "SkillRate": 90,
-      "HeartFetterBouns1": "<b>자신보다 체력 비율이 높은 부대</b>에게 <br>공격받아 전투 진입시 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "<b>자신보다 체력 비율이 높은 부대</b>에게 <br/>공격받아 전투 진입시 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "범위 피해량 <font color=\"red\">+10</font>%"
     }
   ],
@@ -359,7 +359,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass1.png",
-      "Desc": "[패시브]전투 중 치명타가 발생한 경우<br>전투 후 적에게 [고정 피해]를 준다.(피해량은 영웅 공격의 2배)",
+      "Desc": "[패시브]전투 중 치명타가 발생한 경우<br/>전투 후 적에게 [고정 피해]를 준다.(피해량은 영웅 공격의 2배)",
       "SubSkills": null,
       "Animation": null
     },
@@ -385,7 +385,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash3.png",
-      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
+      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br/>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -411,7 +411,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Himiko/1.png",
-      "Desc": "[지원][액티브]자신에게 <font color=\"red\">0.1</font>배 범위 피해 <font color=\"red\">1</font>회 및 이동력 <font color=\"red\">+2</font>, <br>이동 시 <font color=\"blue\">적 통과</font>,<br>행동 종료 시 자신이 지나간 모든 지형에 <font color=\"red\">1</font>턴간 잿불 효과 부여 <br>[잿불]적이 해당 지형으로 이동해 행동 종료 시 최대 생명 <font color=\"red\">15</font>% 수치의 고정 피해. 지속 <font color=\"red\">3</font>턴",
+      "Desc": "[지원][액티브]자신에게 <font color=\"red\">0.1</font>배 범위 피해 <font color=\"red\">1</font>회 및 이동력 <font color=\"red\">+2</font>, <br/>이동 시 <font color=\"blue\">적 통과</font>,<br/>행동 종료 시 자신이 지나간 모든 지형에 <font color=\"red\">1</font>턴간 잿불 효과 부여 <br/>[잿불]적이 해당 지형으로 이동해 행동 종료 시 최대 생명 <font color=\"red\">15</font>% 수치의 고정 피해. 지속 <font color=\"red\">3</font>턴",
       "SubSkills": null,
       "Animation": null
     },
@@ -437,7 +437,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Himiko/2.png",
-      "Desc": "[물리 피해]전장에 있는 적에게 <font color=\"red\">0.3</font>배 피해 및 버프 <font color=\"red\">3</font>개 제거, <br><font color=\"blue\">공격 불가</font> 및 <font color=\"blue\">침묵</font> 효과 부여, 지속 <font color=\"red\">1</font>턴 (<b>해제 불가</b>)",
+      "Desc": "[물리 피해]전장에 있는 적에게 <font color=\"red\">0.3</font>배 피해 및 버프 <font color=\"red\">3</font>개 제거, <br/><font color=\"blue\">공격 불가</font> 및 <font color=\"blue\">침묵</font> 효과 부여, 지속 <font color=\"red\">1</font>턴 (<b>해제 불가</b>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -463,7 +463,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash2.png",
-      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br>치명타율 +20%.",
+      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br/>치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -529,7 +529,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/히미코.png",
-      "Desc": "[물리피해]치명타 확률 <font color=\"red\">+20</font>%<br><font color=\"red\">3</font>줄 직선 적에게 <font color=\"red\">0.38</font>배 피해 및 이동력을 랜덤하게 <font color=\"red\">1~3</font> 저하. <br>지속 <font color=\"red\">2</font>턴. <br><b>해당 공격으로 적을 <font color=\"red\">3</font>명 이상 명중시킨 경우</b> 쿨타임 <font color=\"red\">-3</font>",
+      "Desc": "[물리피해]치명타 확률 <font color=\"red\">+20</font>%<br/><font color=\"red\">3</font>줄 직선 적에게 <font color=\"red\">0.38</font>배 피해 및 이동력을 랜덤하게 <font color=\"red\">1~3</font> 저하. <br/>지속 <font color=\"red\">2</font>턴. <br/><b>해당 공격으로 적을 <font color=\"red\">3</font>명 이상 명중시킨 경우</b> 쿨타임 <font color=\"red\">-3</font>",
       "SubSkills": null,
       "Animation": "../img/Super/히미코.gif"
     }

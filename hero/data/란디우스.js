@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 시 자신의 <font color=\"red\">1</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +10%</font><br> 공격의 <font color=\"red\">5%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-10%</font><br> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
+          "Desc": "행동 종료 시 자신의 <font color=\"red\">1</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +10%</font><br/> 공격의 <font color=\"red\">5%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-10%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
         },
         {
-          "Desc": "행동 종료 시 자신의 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +13%</font><br> 공격의 <font color=\"red\">8%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-13%</font><br> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
+          "Desc": "행동 종료 시 자신의 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +13%</font><br/> 공격의 <font color=\"red\">8%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-13%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
         },
         {
-          "Desc": "행동 종료 시 자신의 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +16%</font><br> 공격의 <font color=\"red\">11%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-16%</font><br> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
+          "Desc": "행동 종료 시 자신의 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +16%</font><br/> 공격의 <font color=\"red\">11%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-16%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
         },
         {
-          "Desc": "행동 종료 시 자신의 <font color=\"red\">3</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +20%</font><br> 공격의 <font color=\"red\">15%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-20%</font><br> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
+          "Desc": "행동 종료 시 자신의 <font color=\"red\">3</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +20%</font><br/> 공격의 <font color=\"red\">15%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-20%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
         }
       ]
     }
@@ -83,7 +83,7 @@
     "Name": "수호자의 추억 (무기)",
     "Stats": "생명 583,공격 85",
     "Icon": "란디우스.png",
-    "Ability": "공격 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%   <br><b>주위 <font color=\"red\">2</font>칸 범위 내에 아군이 있을 경우</b><br><b>전투 진입 시 적 과의 거리 <font color=\"red\">1</font>칸당 ,</b><br><b>부대가 받는 피해 <font color=\"red\">-5</font>% ( 최대 <font color=\"red\">-15</font>% )</b>"
+    "Ability": "공격 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%   <br/><b>주위 <font color=\"red\">2</font>칸 범위 내에 아군이 있을 경우</b><br/><b>전투 진입 시 적 과의 거리 <font color=\"red\">1</font>칸당 ,</b><br/><b>부대가 받는 피해 <font color=\"red\">-5</font>% ( 최대 <font color=\"red\">-15</font>% )</b>"
   },
   "Soldiers": [
     19,
@@ -411,7 +411,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash3.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
       "SubSkills": null,
       "Animation": null
     },
@@ -425,7 +425,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/13.png",
-      "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br>남은 이동력이 있을 경우 공격 후 재이동 가능.",
+      "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -451,7 +451,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BitterlyHit.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br/>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -493,7 +493,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_CounterAttack.png",
-      "Desc": "[패시브]주위 아군을 대신해 물리 공격을 받는다.<br>공격을 받아 전투 진입 시 공격 +12%.",
+      "Desc": "[패시브]주위 아군을 대신해 물리 공격을 받는다.<br/>공격을 받아 전투 진입 시 공격 +12%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -519,7 +519,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Crystal.png",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '전설의 저편' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br>상성관계가 없는 부대와 교전 시 추가 피해 +15%,<br>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '전설의 저편' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>상성관계가 없는 부대와 교전 시 추가 피해 +15%,<br/>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -545,7 +545,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Static.png",
-      "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br>[지휘]주위 2칸 내 모든 아군이 받는 치명타 확률 -30%, 받는 원거리 피해 -15%.<br>[액티브]호위 범위 2칸으로 상승, 지휘 범위 3칸으로 상승. 2턴 지속.",
+      "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>[지휘]주위 2칸 내 모든 아군이 받는 치명타 확률 -30%, 받는 원거리 피해 -15%.<br/>[액티브]호위 범위 2칸으로 상승, 지휘 범위 3칸으로 상승. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -571,7 +571,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -597,7 +597,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/Skill_Super9.png",
-      "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다. 위치 이동 면역.<br>[지휘]주위 2칸 내 모든 아군이 받는 치명타 확률 -30%, 받는 원거리 피해 -15%, 받는 치료 효과 +15%.<br>[액티브]호위 범위 2칸으로 상승, 지휘 범위 3칸으로 상승,<br>주위 2칸 범위내 모든 적군의 '재이동 불가', 3턴 지속.",
+      "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다. 위치 이동 면역.<br/>[지휘]주위 2칸 내 모든 아군이 받는 치명타 확률 -30%, 받는 원거리 피해 -15%, 받는 치료 효과 +15%.<br/>[액티브]호위 범위 2칸으로 상승, 지휘 범위 3칸으로 상승,<br/>주위 2칸 범위내 모든 적군의 '재이동 불가', 3턴 지속.",
       "SubSkills": null,
       "Animation": "../img/Super/mmexport1579538468402.gif"
     }
@@ -605,11 +605,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/체중: 185cm / 74kg<br>◆출연: 랑그릿사IV<br>◆소속: 정의로운 동료"
+      "Desc": "◆키/체중: 185cm / 74kg<br/>◆출연: 랑그릿사IV<br/>◆소속: 정의로운 동료"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "과묵하고 선량한 용사이자, 자신의 뛰어난 무예와 지휘 능력으로 사람들을 이끄는 걸출한 리더이다. 예레스 대륙을 휩쓴 전쟁에서 성검 랑그릿사로 카오스를 부활시키려는 보젤의 음모와 기자로프의 세계 제패 야욕을 무너뜨렸다.<br><font color=\"#DC143C\"><size=33><i>「이건 모두가 내게 준 힘이야!」</i> </size=33></font>"
+      "Desc": "과묵하고 선량한 용사이자, 자신의 뛰어난 무예와 지휘 능력으로 사람들을 이끄는 걸출한 리더이다. 예레스 대륙을 휩쓴 전쟁에서 성검 랑그릿사로 카오스를 부활시키려는 보젤의 음모와 기자로프의 세계 제패 야욕을 무너뜨렸다.<br/><font color=\"#DC143C\"><size=33><i>「이건 모두가 내게 준 힘이야!」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -617,7 +617,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "모험 중 '페어라트'라는 가명을 사용한 어둠의 왕자 보젤에게 속기도 한다. 하지만 자신의 신념을 지켜낸 란디우스는 빛의 후예만이 사용할 수 있는 성검 '랑그릿사'를 손에 쥐고 자신의 정의를 실현했다. <br><font color=\"#DC143C\"><size=33><i>「많은 것을 잃어봤기 때문에... 나는 목숨보다 소중한 것들을 지키려고 하는 거야.」</i> </size=33></font>"
+      "Desc": "모험 중 '페어라트'라는 가명을 사용한 어둠의 왕자 보젤에게 속기도 한다. 하지만 자신의 신념을 지켜낸 란디우스는 빛의 후예만이 사용할 수 있는 성검 '랑그릿사'를 손에 쥐고 자신의 정의를 실현했다. <br/><font color=\"#DC143C\"><size=33><i>「많은 것을 잃어봤기 때문에... 나는 목숨보다 소중한 것들을 지키려고 하는 거야.」</i> </size=33></font>"
     },
     {
       "Entry": "영웅담4",

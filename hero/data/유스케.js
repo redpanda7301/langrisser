@@ -57,16 +57,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+5%</font>.<br> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">1</font>턴 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+5%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">1</font>턴 지속) (제거 불가)"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+8%</font>.<br> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>턴 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+8%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>턴 지속) (제거 불가)"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+11%</font>.<br> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>턴 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+11%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>턴 지속) (제거 불가)"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+15%</font>.<br> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">3</font>턴 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+15%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">3</font>턴 지속) (제거 불가)"
         }
       ]
     }
@@ -355,7 +355,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Yuusuke1.png",
-      "Desc": "[패시브] 피해를 입을 경우, [폭발] 발동 <br>(폭발: 이동력 <font color=\"red\">+1</font>, 공격하여 전투 진입 시, 주는 피해량 <font color=\"red\">+30%</font>) (1턴 지속)<br>[액티브] 생명 <font color=\"red\">30%</font> 회복. [마인] 발동 (마인: [폭발] 발동) <br>(폭발: 전투 후 생명을 입힌 피해량의 <font color=\"red\">30%</font>만큼 회복. )(<font color=\"red\">3</font>턴)<br>효과 종료 시, 주는 피해량 <font color=\"red\">-30%</font>, 이동력 <font color=\"red\">-1</font> (<font color=\"red\">2</font>턴 지속) (제거 불가, 면역 불가)",
+      "Desc": "[패시브] 피해를 입을 경우, [폭발] 발동 <br/>(폭발: 이동력 <font color=\"red\">+1</font>, 공격하여 전투 진입 시, 주는 피해량 <font color=\"red\">+30%</font>) (1턴 지속)<br/>[액티브] 생명 <font color=\"red\">30%</font> 회복. [마인] 발동 (마인: [폭발] 발동) <br/>(폭발: 전투 후 생명을 입힌 피해량의 <font color=\"red\">30%</font>만큼 회복. )(<font color=\"red\">3</font>턴)<br/>효과 종료 시, 주는 피해량 <font color=\"red\">-30%</font>, 이동력 <font color=\"red\">-1</font> (<font color=\"red\">2</font>턴 지속) (제거 불가, 면역 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -381,7 +381,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Yuusuke2.png",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br>[마인] 발동 시, 스킬 사거리<font color=\"red\">+1</font>, 주는 피해량 <font color=\"red\">+30%</font>,<br>적을 쓰러트릴 경우 해당 스킬 쿨타임<font color=\"red\">-2</font>.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/>[마인] 발동 시, 스킬 사거리<font color=\"red\">+1</font>, 주는 피해량 <font color=\"red\">+30%</font>,<br/>적을 쓰러트릴 경우 해당 스킬 쿨타임<font color=\"red\">-2</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -421,7 +421,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Trial.png",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.2배</font>의 피해를 준다.<br>전투 진입 전 자신 부대의 방어, 마방 <font color=\"red\">+30%</font>, <font color=\"red\">2턴</font> 지속.",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.2배</font>의 피해를 준다.<br/>전투 진입 전 자신 부대의 방어, 마방 <font color=\"red\">+30%</font>, <font color=\"red\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -461,7 +461,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Yuusuke3.png",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br>전투 전, 받는 피해량 <font color=\"red\">-20%</font> (<font color=\"red\">1</font>턴 지속)<br>[마인] 발동 시, 주는 스킬 피해량 <font color=\"red\">+30%</font>, 받는 피해량 <font color=\"red\">-20%</font>,<br>동시에, 적을 쓰러트렸을 경우 해당 스킬의 쿨타임 <font color=\"red\">-2</font>.",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br/>전투 전, 받는 피해량 <font color=\"red\">-20%</font> (<font color=\"red\">1</font>턴 지속)<br/>[마인] 발동 시, 주는 스킬 피해량 <font color=\"red\">+30%</font>, 받는 피해량 <font color=\"red\">-20%</font>,<br/>동시에, 적을 쓰러트렸을 경우 해당 스킬의 쿨타임 <font color=\"red\">-2</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -487,7 +487,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Yuusuke4.png",
-      "Desc": "[초절강화] 액티브 스킬. 범위 내의 [시공의 중심] 을 지닌 <br>모든 아군의 공격, 방어 능력이 대폭 상승.<br>동시에, 단일 대상 스킬을 사용할 경우 주는 피해량 <font color=\"red\">+15%</font><br>(이 효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬. 범위 내의 [시공의 중심] 을 지닌 <br/>모든 아군의 공격, 방어 능력이 대폭 상승.<br/>동시에, 단일 대상 스킬을 사용할 경우 주는 피해량 <font color=\"red\">+15%</font><br/>(이 효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -527,7 +527,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/Skill_Super11.png",
-      "Desc": "[물리 피해]단일 적군을 공격해 1.4배의 피해를 입힌다.<br>근접병사를 휴대할 경우 병사도 같이 공격한다.<br>[마인상태]일 경우 스킬 사거리 +1, 피해상승 +30%, 적군을 격파할 경우 쿨타임 -3<br>적군을 격파하지 못할 경우 '치료 불가', 2턴 지속(해당 효과는 제거불가)",
+      "Desc": "[물리 피해]단일 적군을 공격해 1.4배의 피해를 입힌다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.<br/>[마인상태]일 경우 스킬 사거리 +1, 피해상승 +30%, 적군을 격파할 경우 쿨타임 -3<br/>적군을 격파하지 못할 경우 '치료 불가', 2턴 지속(해당 효과는 제거불가)",
       "SubSkills": null,
       "Animation": "../img/Super/mmexport1579538472207.gif"
     }
@@ -535,7 +535,7 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆출연：유유백서<br>◆소속：우라메시 팀/마계 라이젠 세력"
+      "Desc": "◆출연：유유백서<br/>◆소속：우라메시 팀/마계 라이젠 세력"
     },
     {
       "Entry": "영웅담1",

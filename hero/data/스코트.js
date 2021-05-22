@@ -306,7 +306,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Punch.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -346,7 +346,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br/>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -360,7 +360,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/13.png",
-      "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br>남은 이동력이 있을 경우 공격 후 재이동 가능.",
+      "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -386,7 +386,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -400,7 +400,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.png",
-      "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br>전투 중 받는 피해량-30%.",
+      "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -426,7 +426,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BitterlyHit.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br/>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     }
@@ -434,11 +434,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：172cm / 63kg<br>◆출연：랑그릿사II<br>◆소속：살라스 영지"
+      "Desc": "◆키/몸무게：172cm / 63kg<br/>◆출연：랑그릿사II<br/>◆소속：살라스 영지"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "살라스의 젊은 전사로 어린 시절 영주 로렌에게 입양되었다. 로렌에게서 병법과 검술을 배웠으며 냉정하고 머리가 좋다. 경험이 적은 이론가지만 뛰어난 판단력으로 이름을 날렸다.<br><font color=\"#DC143C\"><size=33><i>「결국 전쟁의 승패를 정하는 것은 인간입니다.」</i>  </size=33></font>"
+      "Desc": "살라스의 젊은 전사로 어린 시절 영주 로렌에게 입양되었다. 로렌에게서 병법과 검술을 배웠으며 냉정하고 머리가 좋다. 경험이 적은 이론가지만 뛰어난 판단력으로 이름을 날렸다.<br/><font color=\"#DC143C\"><size=33><i>「결국 전쟁의 승패를 정하는 것은 인간입니다.」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -454,7 +454,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "선의와 신뢰만이 진정한 평화를 가져올 수 있다고 믿는다. 어둠의 세력과 손을 잡는 것은 바닷물로 갈증을 해소하는 것과 같으며 절대 용납할 수 없는 일이라 생각한다. <br><font color=\"#DC143C\"><size=33><i>「저... 제가 아버지를 뛰어넘는 기사가 될 수 있을 거라 생각하십니까?」</i>  </size=33></font>"
+      "Desc": "선의와 신뢰만이 진정한 평화를 가져올 수 있다고 믿는다. 어둠의 세력과 손을 잡는 것은 바닷물로 갈증을 해소하는 것과 같으며 절대 용납할 수 없는 일이라 생각한다. <br/><font color=\"#DC143C\"><size=33><i>「저... 제가 아버지를 뛰어넘는 기사가 될 수 있을 거라 생각하십니까?」</i>  </size=33></font>"
     }
   ],
   "Performance": [

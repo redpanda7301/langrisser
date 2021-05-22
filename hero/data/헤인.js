@@ -87,19 +87,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "행동을 종료할 때마다 누적된 지식 획득 <font color=\"red\">+2%</font> 상승 <br>전투 시작 시 누적된 지식 <font color=\"red\">2</font>중첩 획득 <br> <b><font color =\"blue\">번개</font></b> 혹은 <b><font color =\"red\">화염</font></b> 무작위로 획득 최대 <font color =\"red\">2</font>개 <br>각 원소 최대 <font color =\"red\">4</font>중첩 <b>해제 불가</b>"
+          "Desc": "행동을 종료할 때마다 누적된 지식 획득 <font color=\"red\">+2%</font> 상승 <br/>전투 시작 시 누적된 지식 <font color=\"red\">2</font>중첩 획득 <br/> <b><font color =\"blue\">번개</font></b> 혹은 <b><font color =\"red\">화염</font></b> 무작위로 획득 최대 <font color =\"red\">2</font>개 <br/>각 원소 최대 <font color =\"red\">4</font>중첩 <b>해제 불가</b>"
         },
         {
-          "Desc": "행동을 종료할 때마다 누적된 지식 획득 <font color=\"red\">+3%</font> 상승 <br>전투 시작 시 누적된 지식 <font color=\"red\">2</font>중첩 획득 <br> <b><font color =\"blue\">번개</font></b> 혹은 <b><font color =\"red\">화염</font></b> 무작위로 획득 최대 <font color =\"red\">2</font>개 <br>각 원소 최대 <font color =\"red\">4</font>중첩 <b>해제 불가</b>"
+          "Desc": "행동을 종료할 때마다 누적된 지식 획득 <font color=\"red\">+3%</font> 상승 <br/>전투 시작 시 누적된 지식 <font color=\"red\">2</font>중첩 획득 <br/> <b><font color =\"blue\">번개</font></b> 혹은 <b><font color =\"red\">화염</font></b> 무작위로 획득 최대 <font color =\"red\">2</font>개 <br/>각 원소 최대 <font color =\"red\">4</font>중첩 <b>해제 불가</b>"
         },
         {
-          "Desc": "행동을 종료할 때마다 누적된 지식 획득 <font color=\"red\">+4%</font> 상승 <br>전투 시작 시 누적된 지식 <font color=\"red\">2</font>중첩 획득 <br> <b><font color =\"blue\">번개</font></b> 혹은 <b><font color =\"red\">화염</font></b> 무작위로 획득 최대 <font color =\"red\">2</font>개 <br>각 원소 최대 <font color =\"red\">4</font>중첩 <b>해제 불가</b>"
+          "Desc": "행동을 종료할 때마다 누적된 지식 획득 <font color=\"red\">+4%</font> 상승 <br/>전투 시작 시 누적된 지식 <font color=\"red\">2</font>중첩 획득 <br/> <b><font color =\"blue\">번개</font></b> 혹은 <b><font color =\"red\">화염</font></b> 무작위로 획득 최대 <font color =\"red\">2</font>개 <br/>각 원소 최대 <font color =\"red\">4</font>중첩 <b>해제 불가</b>"
         },
         {
-          "Desc": "행동을 종료할 때마다 누적된 지식 획득 <font color=\"red\">+5%</font> 상승 <br>전투 시작 시 누적된 지식 <font color=\"red\">2</font>중첩 획득 <br> <b><font color =\"blue\">번개</font></b> 혹은 <b><font color =\"red\">화염</font></b> 무작위로 획득 최대 <font color =\"red\">2</font>개 <br>각 원소 최대 <font color =\"red\">4</font>중첩 <b>해제 불가</b>"
+          "Desc": "행동을 종료할 때마다 누적된 지식 획득 <font color=\"red\">+5%</font> 상승 <br/>전투 시작 시 누적된 지식 <font color=\"red\">2</font>중첩 획득 <br/> <b><font color =\"blue\">번개</font></b> 혹은 <b><font color =\"red\">화염</font></b> 무작위로 획득 최대 <font color =\"red\">2</font>개 <br/>각 원소 최대 <font color =\"red\">4</font>중첩 <b>해제 불가</b>"
         },
         {
-          "Desc": "행동을 종료할 때마다 누적된 지식 획득 <font color=\"red\">+6%</font> 상승 <br>전투 시작 시 누적된 지식 <font color=\"red\">2</font>중첩 획득 <br> <b><font color =\"blue\">번개</font></b> 혹은 <b><font color =\"red\">화염</font></b> 무작위로 획득 최대 <font color =\"red\">2</font>개 <br>각 원소 최대 <font color =\"red\">4</font>중첩 <b>해제 불가</b>"
+          "Desc": "행동을 종료할 때마다 누적된 지식 획득 <font color=\"red\">+6%</font> 상승 <br/>전투 시작 시 누적된 지식 <font color=\"red\">2</font>중첩 획득 <br/> <b><font color =\"blue\">번개</font></b> 혹은 <b><font color =\"red\">화염</font></b> 무작위로 획득 최대 <font color =\"red\">2</font>개 <br/>각 원소 최대 <font color =\"red\">4</font>중첩 <b>해제 불가</b>"
         }
       ]
     }
@@ -108,7 +108,7 @@
     "Name": "내,내,내가 공주라고?(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "헤인.png",
-    "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br>영웅의 고유기술 중첩 최대 수치 <font color=\"red\">+1</font>,<br><b><font color=\"pink\">공주연맹</font></b>의 초절강화 효과를 받을 수 있다."
+    "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/>영웅의 고유기술 중첩 최대 수치 <font color=\"red\">+1</font>,<br/><b><font color=\"pink\">공주연맹</font></b>의 초절강화 효과를 받을 수 있다."
   },
   "Soldiers": [
     0,
@@ -153,8 +153,8 @@
       "MagicDefRate": 82,
       "Skill": 80,
       "SkillRate": 22,
-      "HeartFetterBouns1": "보유중인 버프가 <font color=\"red\">7</font>개 이상일때 <br>전투중 받는피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "보유중인 버프가 <font color=\"red\">7</font>개 이상일때 <br>전투중 입히는피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "보유중인 버프가 <font color=\"red\">7</font>개 이상일때 <br/>전투중 받는피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "보유중인 버프가 <font color=\"red\">7</font>개 이상일때 <br/>전투중 입히는피해 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "흑룡 마도사",
@@ -188,8 +188,8 @@
       "MagicDefRate": 84,
       "Skill": 87,
       "SkillRate": 23,
-      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">80</font>% 이상일때 <br>받는 치명타확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>공격을 받아 전투 진입시</b><br> 주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">80</font>% 이상일때 <br/>받는 치명타확률 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>공격을 받아 전투 진입시</b><br/> 주는 피해량<font color=\"red\">+10</font>%"
     },
     {
       "Name": "세인트",
@@ -223,8 +223,8 @@
       "MagicDefRate": 82,
       "Skill": 80,
       "SkillRate": 22,
-      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">100</font>%일때 <br>받는피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">100</font>%일때 <br>입히는피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">100</font>%일때 <br/>받는피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">100</font>%일때 <br/>입히는피해 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -611,7 +611,7 @@
     {
       "Name": "6단계 미션",
       "Materials": [],
-      "Desc": "헤인으로 파티를 짜서 영원의 신전 - 리바이엘 70레벨 클리어<br>(쉐리 SP 업데이트 후 65레벨 리바이엘로 하향조정, 업데이트 당일 클라이언트 데이터 재확인 필요)"
+      "Desc": "헤인으로 파티를 짜서 영원의 신전 - 리바이엘 70레벨 클리어<br/>(쉐리 SP 업데이트 후 65레벨 리바이엘로 하향조정, 업데이트 당일 클라이언트 데이터 재확인 필요)"
     },
     {
       "Name": "",
@@ -642,7 +642,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Fireball.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'보병'에게 더큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -668,7 +668,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ThunderBolt.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'기병'에게 더큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -694,7 +694,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Teleport.png",
-      "Desc": "[지원]액티브 스킬, 아군 1부대를 범위 안의 임의 1칸으로 이동시킨다.<b>(텔레포트 범위는 대상을 기준으로 7칸)</b><br>(유저의 부대에게만 쓸 수 있다.)",
+      "Desc": "[지원]액티브 스킬, 아군 1부대를 범위 안의 임의 1칸으로 이동시킨다.<b>(텔레포트 범위는 대상을 기준으로 7칸)</b><br/>(유저의 부대에게만 쓸 수 있다.)",
       "SubSkills": null,
       "Animation": null
     },
@@ -720,7 +720,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ThunderCrash.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -746,7 +746,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Metro.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br>'보병'에게 더 큰 피해를 준다.<br>적은 다음 행동 종료 시 생명의 20%를 잃는다.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>'보병'에게 더 큰 피해를 준다.<br/>적은 다음 행동 종료 시 생명의 20%를 잃는다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -772,7 +772,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash2.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -798,7 +798,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/25.png",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -824,7 +824,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_JamMove.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -850,7 +850,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ATKup.png",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -876,7 +876,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/헤인/1.png",
-      "Desc": "[패시브]<font color=\"blue\">마도의 극의</font>(<b>각성기</b>) 피해 <font color=\"red\">+50</font>%, <br>지력 <font color=\"red\">1</font>배 수치 고정 피해 추가<br>[액티브] 자신 부대에 '<font color=\"blue\">마법 장벽</font>' 부여 : '<b>처음 받는 마법 피해 <font color=\"red\">-30</font>%</b>',<br>지속 <font color=\"red\">3</font>행동,<br>사용 후 <font color=\"red\">2</font>칸 재행동. <br><b>해당 스킬은 버프 지속 시간을 소모하지 않음</b>",
+      "Desc": "[패시브]<font color=\"blue\">마도의 극의</font>(<b>각성기</b>) 피해 <font color=\"red\">+50</font>%, <br/>지력 <font color=\"red\">1</font>배 수치 고정 피해 추가<br/>[액티브] 자신 부대에 '<font color=\"blue\">마법 장벽</font>' 부여 : '<b>처음 받는 마법 피해 <font color=\"red\">-30</font>%</b>',<br/>지속 <font color=\"red\">3</font>행동,<br/>사용 후 <font color=\"red\">2</font>칸 재행동. <br/><b>해당 스킬은 버프 지속 시간을 소모하지 않음</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -902,7 +902,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/헤인/2.png",
-      "Desc": "[액티브] 아래 3가지중 하나를 선택하여 사용한다.<br>사거리, 범위는 인게임 실장되면 수정예정",
+      "Desc": "[액티브] 아래 3가지중 하나를 선택하여 사용한다.<br/>사거리, 범위는 인게임 실장되면 수정예정",
       "SubSkills": null,
       "Animation": null
     },
@@ -920,7 +920,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/헤인/3.png",
-      "Desc": "[마법피해] 0.38배 범위 피해, <b>보병에게 더 큰 데미지 준다</b><br>명중한 적은 다음 턴 행동 종료 시 지력 <font color=\"red\">1</font>배 수치의 <b>고정 피해</b>를 받음",
+      "Desc": "[마법피해] 0.38배 범위 피해, <b>보병에게 더 큰 데미지 준다</b><br/>명중한 적은 다음 턴 행동 종료 시 지력 <font color=\"red\">1</font>배 수치의 <b>고정 피해</b>를 받음",
       "SubSkills": null,
       "Animation": null
     },
@@ -938,7 +938,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/헤인/4.png",
-      "Desc": "[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <b>기병에게 더 큰 데미지 준다</b><br>전투 진입 전 병사 사거리 <font color=\"red\">+1</font>,<br>적 방어 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">2</font>행동",
+      "Desc": "[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <b>기병에게 더 큰 데미지 준다</b><br/>전투 진입 전 병사 사거리 <font color=\"red\">+1</font>,<br/>적 방어 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -956,7 +956,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/헤인/5.png",
-      "Desc": "<font color=\"red\">1</font>개의 아군 부대를 텔레포트 및 피해 <font color=\"red\">+10</font>%, 지속 <font color=\"red\">1</font>행동. <br><b>(텔레포트 범위는 대상을 기준으로 7칸)</b> <br><b>(유저의 부대에게만 쓸 수 있다.)</b>",
+      "Desc": "<font color=\"red\">1</font>개의 아군 부대를 텔레포트 및 피해 <font color=\"red\">+10</font>%, 지속 <font color=\"red\">1</font>행동. <br/><b>(텔레포트 범위는 대상을 기준으로 7칸)</b> <br/><b>(유저의 부대에게만 쓸 수 있다.)</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -982,7 +982,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/Skill_Super15.png",
-      "Desc": "[마법피해] 범위내 모든 적군에게 0.2배의 범위 피해를 입히며,<br>공격 범위내 모든 지형에 [마도폐허]를 부여한다.<br>[마도폐허] : 적군이 해당 위치로 이동할 경우 적군에게 이동력-2, 지속 1회합<br>헤인의 고유기 [지식 전승]의 중첩이 많을 수록 기술의 사거리및 효과범위 증가<br>(최대 사거리 4, 최대범위 4까지 증가 가능.)",
+      "Desc": "[마법피해] 범위내 모든 적군에게 0.2배의 범위 피해를 입히며,<br/>공격 범위내 모든 지형에 [마도폐허]를 부여한다.<br/>[마도폐허] : 적군이 해당 위치로 이동할 경우 적군에게 이동력-2, 지속 1회합<br/>헤인의 고유기 [지식 전승]의 중첩이 많을 수록 기술의 사거리및 효과범위 증가<br/>(최대 사거리 4, 최대범위 4까지 증가 가능.)",
       "SubSkills": null,
       "Animation": "../img/Super/mmexport1579360811624.gif"
     }
@@ -990,15 +990,15 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：174cm / 60kg<br>◆출연：랑그릿사II<br>◆소속：빛의 군단"
+      "Desc": "◆키/몸무게：174cm / 60kg<br/>◆출연：랑그릿사II<br/>◆소속：빛의 군단"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "견습 마법사 시절 엘윈과 여행 중에 만나 가장 친한 친구가 되었다.소꿉친구인 리아나를 구해주는 것을 계기로 모험을 시작하였으며 모두와 함께 싸워가는 과정에서 자신의 재능을 발견해 여행이 끝날 무렵에는 대륙 최강의 마법사가 된다.<br><font color=\"#DC143C\"><size=33><i>「서두르지 않으면 리아나가 위험해! 부탁이니 좀 도와줘! 」</i>  </size=33></font>"
+      "Desc": "견습 마법사 시절 엘윈과 여행 중에 만나 가장 친한 친구가 되었다.소꿉친구인 리아나를 구해주는 것을 계기로 모험을 시작하였으며 모두와 함께 싸워가는 과정에서 자신의 재능을 발견해 여행이 끝날 무렵에는 대륙 최강의 마법사가 된다.<br/><font color=\"#DC143C\"><size=33><i>「서두르지 않으면 리아나가 위험해! 부탁이니 좀 도와줘! 」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
-      "Desc": "헤인은 세상을 바꾼다는 원대한 소망보다 자신의 친구, 그중에서 특히 엘윈을 더 소중히 여긴다. 그리고 필요하다면 엘윈을 위해 목숨마저 바칠 생각이다. <br><font color=\"#DC143C\"><size=33><i>「에이! 지금까지 그런 일은 없었어!」</i>  </size=33></font>"
+      "Desc": "헤인은 세상을 바꾼다는 원대한 소망보다 자신의 친구, 그중에서 특히 엘윈을 더 소중히 여긴다. 그리고 필요하다면 엘윈을 위해 목숨마저 바칠 생각이다. <br/><font color=\"#DC143C\"><size=33><i>「에이! 지금까지 그런 일은 없었어!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담3",
@@ -1010,7 +1010,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "비록 마법의 정점에 다다랐지만 헤인은 자신의 사랑을 얻지 못했다. 어쩌면 헤인이 지금 자신의 이야기를 되돌아본다면 아쉬움이 있을지도. <br><font color=\"#DC143C\"><size=33><i>「마법을 연구할수록 확실히 알겠더라. 과거는 바꿀 수 없다는 걸...」</i>  </size=33></font>"
+      "Desc": "비록 마법의 정점에 다다랐지만 헤인은 자신의 사랑을 얻지 못했다. 어쩌면 헤인이 지금 자신의 이야기를 되돌아본다면 아쉬움이 있을지도. <br/><font color=\"#DC143C\"><size=33><i>「마법을 연구할수록 확실히 알겠더라. 과거는 바꿀 수 없다는 걸...」</i>  </size=33></font>"
     }
   ],
   "Performance": [

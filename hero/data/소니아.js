@@ -58,19 +58,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "부대 처치 시마다 <font color=\"red\">3</font>칸 재이동 가능.<br> 동시에 자신의 공격 지력 방어 마방 <font color=\"red\">+10%</font><br> <font color=\"red\">3턴</font> 지속 최대 <font color=\"red\">2회</font> 누적 가능."
+          "Desc": "부대 처치 시마다 <font color=\"red\">3</font>칸 재이동 가능.<br/> 동시에 자신의 공격 지력 방어 마방 <font color=\"red\">+10%</font><br/> <font color=\"red\">3턴</font> 지속 최대 <font color=\"red\">2회</font> 누적 가능."
         },
         {
-          "Desc": "부대 처치 시마다 <font color=\"red\">3</font>칸 재이동 가능.<br> 동시에 자신의 공격 지력 방어 마방 <font color=\"red\">+12%</font><br> <font color=\"red\">3턴</font> 지속 최대 <font color=\"red\">2회</font> 누적 가능."
+          "Desc": "부대 처치 시마다 <font color=\"red\">3</font>칸 재이동 가능.<br/> 동시에 자신의 공격 지력 방어 마방 <font color=\"red\">+12%</font><br/> <font color=\"red\">3턴</font> 지속 최대 <font color=\"red\">2회</font> 누적 가능."
         },
         {
-          "Desc": "부대 처치 시마다 <font color=\"red\">3</font>칸 재이동 가능.<br> 동시에 자신의 공격 지력 방어 마방 <font color=\"red\">+14%</font><br> <font color=\"red\">3턴</font> 지속 최대 <font color=\"red\">2회</font> 누적 가능."
+          "Desc": "부대 처치 시마다 <font color=\"red\">3</font>칸 재이동 가능.<br/> 동시에 자신의 공격 지력 방어 마방 <font color=\"red\">+14%</font><br/> <font color=\"red\">3턴</font> 지속 최대 <font color=\"red\">2회</font> 누적 가능."
         },
         {
-          "Desc": "부대 처치 시마다 <font color=\"red\">3</font>칸 재이동 가능.<br> 동시에 자신의 공격 지력 방어 마방 <font color=\"red\">+17%</font><br> <font color=\"red\">3턴</font> 지속 최대 <font color=\"red\">2회</font> 누적 가능."
+          "Desc": "부대 처치 시마다 <font color=\"red\">3</font>칸 재이동 가능.<br/> 동시에 자신의 공격 지력 방어 마방 <font color=\"red\">+17%</font><br/> <font color=\"red\">3턴</font> 지속 최대 <font color=\"red\">2회</font> 누적 가능."
         },
         {
-          "Desc": "부대 처치 시마다 <font color=\"red\">3</font>칸 재이동 가능.<br> 동시에 자신의 공격 지력 방어 마방 <font color=\"red\">+20%</font><br> <font color=\"red\">3턴</font> 지속 최대 <font color=\"red\">2회</font> 누적 가능."
+          "Desc": "부대 처치 시마다 <font color=\"red\">3</font>칸 재이동 가능.<br/> 동시에 자신의 공격 지력 방어 마방 <font color=\"red\">+20%</font><br/> <font color=\"red\">3턴</font> 지속 최대 <font color=\"red\">2회</font> 누적 가능."
         }
       ]
     }
@@ -80,7 +80,7 @@
     "Name": "검은 서광(무기)",
     "Stats": "공격 107,지력 107",
     "Icon": "소니아.png",
-    "Ability": "공격, 지력 +10%<br>근접으로 공격하여 전투 진입 전 적군에게 고정피해, 피해량은 영웅 지력의 2배<br>원거리로 공격하여 전투 진입 후 적군에게 고정피해, 피해량은 영웅 공격의 2배"
+    "Ability": "공격, 지력 +10%<br/>근접으로 공격하여 전투 진입 전 적군에게 고정피해, 피해량은 영웅 지력의 2배<br/>원거리로 공격하여 전투 진입 후 적군에게 고정피해, 피해량은 영웅 공격의 2배"
   },
   "Soldiers": [
     13,
@@ -403,7 +403,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/5.png",
-      "Desc": "[지원]액티브 스킬, 공격 +20%, 1턴 지속.<br>사용 후 3칸 추가 이동 및 재공격 가능.",
+      "Desc": "[지원]액티브 스킬, 공격 +20%, 1턴 지속.<br/>사용 후 3칸 추가 이동 및 재공격 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -417,7 +417,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.png",
-      "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br>전투 중 받는 피해량-30%.",
+      "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -443,7 +443,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br/>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -483,7 +483,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash3.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
       "SubSkills": null,
       "Animation": null
     },
@@ -509,7 +509,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -537,7 +537,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Again.png",
-      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -551,7 +551,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/10.png",
-      "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
+      "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br/>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -577,7 +577,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/Skill_Super8.png",
-      "Desc": "[물리피해] 단일 적군을 공격하여 1.6배의 피해를 입힌다.근접병사를 휴대할 경우 병사도 같이 공격.<br>적군의 방어가 마방보다 낮을 시, 전투 진입전 지력의 70% 수치 만큼 공격에 추가<br>적군의 방어가 마방보다 높을 시, 전투 진입전 공격의 70% 수치 만큼 지력에 추가하며 마법피해공격<br>동시에 적군에게 [상처 저주] 효과 부여 : 받는 치유량의 20%가 피해로 변환. 지속 2회합<br>적군이 [승병]일 경우 전투진입전 '스킬 사거리-1', 지속 1회합. (해제불가)",
+      "Desc": "[물리피해] 단일 적군을 공격하여 1.6배의 피해를 입힌다.근접병사를 휴대할 경우 병사도 같이 공격.<br/>적군의 방어가 마방보다 낮을 시, 전투 진입전 지력의 70% 수치 만큼 공격에 추가<br/>적군의 방어가 마방보다 높을 시, 전투 진입전 공격의 70% 수치 만큼 지력에 추가하며 마법피해공격<br/>동시에 적군에게 [상처 저주] 효과 부여 : 받는 치유량의 20%가 피해로 변환. 지속 2회합<br/>적군이 [승병]일 경우 전투진입전 '스킬 사거리-1', 지속 1회합. (해제불가)",
       "SubSkills": null,
       "Animation": "../img/Super/mmexport1579247236806.gif"
     }
@@ -585,11 +585,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：169cm / 44kg<br>◆신체 사이즈：82/49/78<br>◆출연：랑그릿사II<br>◆소속：어둠의 왕국 벨제리아"
+      "Desc": "◆키/몸무게：169cm / 44kg<br/>◆신체 사이즈：82/49/78<br/>◆출연：랑그릿사II<br/>◆소속：어둠의 왕국 벨제리아"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "슬픈 운명을 가진 소녀. 반마족의 혈통 탓에 세상 사람들로부터 차별을 받아 인간에 대한 원한을 품게 되었다.보젤에게 현혹되어 어둠의 세력에 합류했지만 마지막에 자아를 되찾아 엘윈이 이끄는 빛의 군단에 참가하게 되었다.<br><font color=\"#DC143C\"><size=33><i>「나 자신을 되찾게 해줘서 고마워!」</i>  </size=33></font>"
+      "Desc": "슬픈 운명을 가진 소녀. 반마족의 혈통 탓에 세상 사람들로부터 차별을 받아 인간에 대한 원한을 품게 되었다.보젤에게 현혹되어 어둠의 세력에 합류했지만 마지막에 자아를 되찾아 엘윈이 이끄는 빛의 군단에 참가하게 되었다.<br/><font color=\"#DC143C\"><size=33><i>「나 자신을 되찾게 해줘서 고마워!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -597,7 +597,7 @@
     },
     {
       "Entry": "영웅담3",
-      "Desc": "보젤의 인정을 받아 소니아는 마족의 일원이 되어 어둠의 세력을 위해 싸웠다. 그리고 고통스러운 기억은 인간에 대한 원한으로 변해버렸다. <br><font color=\"#DC143C\"><size=33><i>「인간이 제일 싫어! 마음껏 죽여라!」</i>  </size=33></font>"
+      "Desc": "보젤의 인정을 받아 소니아는 마족의 일원이 되어 어둠의 세력을 위해 싸웠다. 그리고 고통스러운 기억은 인간에 대한 원한으로 변해버렸다. <br/><font color=\"#DC143C\"><size=33><i>「인간이 제일 싫어! 마음껏 죽여라!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -605,7 +605,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "현세에서 반마족의 피가 흐르는 소년을 만나자 자연스럽게 자신의 「다사다난했던」 전 생애가 떠올랐다. 그리고 더 나아가 자신이 그의 선조가 아닐까... 하는 의심마저 품게 되었다. <br><font color=\"#DC143C\"><size=33><i>「이렇게 다사다난한 혈통을 가진 건 역시 랑그릿사가 네 운명에 대해 갖는 기대가 커서 생긴 일이 아닐까! 열심히 노력하라고!」</i>  </size=33></font>"
+      "Desc": "현세에서 반마족의 피가 흐르는 소년을 만나자 자연스럽게 자신의 「다사다난했던」 전 생애가 떠올랐다. 그리고 더 나아가 자신이 그의 선조가 아닐까... 하는 의심마저 품게 되었다. <br/><font color=\"#DC143C\"><size=33><i>「이렇게 다사다난한 혈통을 가진 건 역시 랑그릿사가 네 운명에 대해 갖는 기대가 커서 생긴 일이 아닐까! 열심히 노력하라고!」</i>  </size=33></font>"
     }
   ],
   "Performance": [

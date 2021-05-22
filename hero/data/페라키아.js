@@ -53,19 +53,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">5%</font> 지속 <font color=\"red\">1</font>턴.<br> <font color=\"red\">4턴</font> 후 재시전 가능."
+          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">5%</font> 지속 <font color=\"red\">1</font>턴.<br/> <font color=\"red\">4턴</font> 후 재시전 가능."
         },
         {
-          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">10%</font> 지속 <font color=\"red\">1</font>턴.<br> <font color=\"red\">4턴</font> 후 재시전 가능."
+          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">10%</font> 지속 <font color=\"red\">1</font>턴.<br/> <font color=\"red\">4턴</font> 후 재시전 가능."
         },
         {
-          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">15%</font> 지속 <font color=\"red\">1</font>턴.<br> <font color=\"red\">3턴</font> 후 재시전 가능."
+          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">15%</font> 지속 <font color=\"red\">1</font>턴.<br/> <font color=\"red\">3턴</font> 후 재시전 가능."
         },
         {
-          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">20%</font> 지속 <font color=\"red\">1</font>턴.<br> <font color=\"red\">3턴</font> 후 재시전 가능."
+          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">20%</font> 지속 <font color=\"red\">1</font>턴.<br/> <font color=\"red\">3턴</font> 후 재시전 가능."
         },
         {
-          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">25%</font> 지속 <font color=\"red\">1</font>턴.<br> <font color=\"red\">2턴</font> 후 재시전 가능."
+          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">25%</font> 지속 <font color=\"red\">1</font>턴.<br/> <font color=\"red\">2턴</font> 후 재시전 가능."
         }
       ]
     }
@@ -75,7 +75,7 @@
     "Name": "악몽의 속삭임(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "페라키아.png",
-    "Ability": "생명 +5%<br>상성 관계인 부대와 전투시, 공격 +20%"
+    "Ability": "생명 +5%<br/>상성 관계인 부대와 전투시, 공격 +20%"
   },
   "Soldiers": [
     7,
@@ -391,7 +391,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash3.png",
-      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
+      "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br/>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -431,7 +431,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Swirling.png",
-      "Desc": "[물리 피해]1.2배의 피해를 준다.<br>만약 호위를 받지 않은 상태라면 전투 후 목표와 위치를 바꾼다.<br>동시에 자신이 받는 모든 피해 -20%, 지속 1턴.",
+      "Desc": "[물리 피해]1.2배의 피해를 준다.<br/>만약 호위를 받지 않은 상태라면 전투 후 목표와 위치를 바꾼다.<br/>동시에 자신이 받는 모든 피해 -20%, 지속 1턴.",
       "SubSkills": null,
       "Animation": null
     },
@@ -445,7 +445,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass2.png",
-      "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -473,7 +473,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_TrickStep.png",
-      "Desc": "[패시브]치명타 확률+10%.<br>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
+      "Desc": "[패시브]치명타 확률+10%.<br/>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -513,7 +513,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.png",
-      "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br>'비병'을 상대할 시 더 큰 피해를 준다.<br>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
+      "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -553,7 +553,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/Skill_Super42.png",
-      "Desc": "[물리 피해]직선상 단일 적군에게 0.2배의 물리피해를 주고<br>자신의 영웅병종과 적군 영웅의 병종을 변환한다.<br>적군의 [병종변환]효과는 2회의 피해를 입은후 제거된다, 3턴 지속.<br>(해당 효과는 제거불가하며, 병종변화는 병종간 상성에만 영향을 준다.)",
+      "Desc": "[물리 피해]직선상 단일 적군에게 0.2배의 물리피해를 주고<br/>자신의 영웅병종과 적군 영웅의 병종을 변환한다.<br/>적군의 [병종변환]효과는 2회의 피해를 입은후 제거된다, 3턴 지속.<br/>(해당 효과는 제거불가하며, 병종변화는 병종간 상성에만 영향을 준다.)",
       "SubSkills": null,
       "Animation": "../img/Super/페라키아.gif"
     }
@@ -561,11 +561,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：180cm / ？<br>◆신체 사이즈：92/55/90<br>◆출연：랑그릿사III<br>◆소속：어둠의 왕국 벨제리아"
+      "Desc": "◆키/몸무게：180cm / ？<br/>◆신체 사이즈：92/55/90<br/>◆출연：랑그릿사III<br/>◆소속：어둠의 왕국 벨제리아"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "어둠의 왕자 보젤 휘하 마장군 중 한 명. 상대의 모습으로 변신할 수 있는 마녀 「변화사」 페라키아는 인간을 우습게 여기는 마족의 여왕이다.요염하면서 두려운 외모에 마족 특유의 부활 능력으로 성마검 전쟁 역사에 여러 차례 등장한 빛의 일족이 특히나 두려워했던 적.<br><font color=\"#DC143C\"><size=33><i>「하하하, 떨어라, 인간! 마족의 여왕에게 무릎 꿇어라!」</i>  </size=33></font>"
+      "Desc": "어둠의 왕자 보젤 휘하 마장군 중 한 명. 상대의 모습으로 변신할 수 있는 마녀 「변화사」 페라키아는 인간을 우습게 여기는 마족의 여왕이다.요염하면서 두려운 외모에 마족 특유의 부활 능력으로 성마검 전쟁 역사에 여러 차례 등장한 빛의 일족이 특히나 두려워했던 적.<br/><font color=\"#DC143C\"><size=33><i>「하하하, 떨어라, 인간! 마족의 여왕에게 무릎 꿇어라!」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -581,7 +581,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "성검 군단 진영에 그녀가 소환되자 적지 않은 소동이 있었다. 그러나 마족은 소환의 계약을 반드시 지켜야 하므로 페라키아는 자신을 소환한 매튜 일행을 주인으로 인정할 수밖에 없었다.하지만... 이제 그녀를 어쩌면 좋을까?<br><font color=\"#DC143C\"><size=33><i>「마녀의 총애는 일반 사람들이 감당하기 힘들지.」</i>  </size=33></font>"
+      "Desc": "성검 군단 진영에 그녀가 소환되자 적지 않은 소동이 있었다. 그러나 마족은 소환의 계약을 반드시 지켜야 하므로 페라키아는 자신을 소환한 매튜 일행을 주인으로 인정할 수밖에 없었다.하지만... 이제 그녀를 어쩌면 좋을까?<br/><font color=\"#DC143C\"><size=33><i>「마녀의 총애는 일반 사람들이 감당하기 힘들지.」</i>  </size=33></font>"
     }
   ],
   "Performance": [

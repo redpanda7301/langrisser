@@ -57,19 +57,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "자신 부대의 주는 피해량 <font color=\"red\">+10%</font>. <br>행동 종료 시 주위 <font color=\"red\">1칸</font> 내 <font color=\"red\">1개</font> 아군 부대에게 [무쇠팔] 부여: <br>공격하여 전투 진입 시 영웅의 주는 피해량 <font color=\"red\">+10%</font><br>전투 후 생명 <font color=\"red\">10%</font> 소모."
+          "Desc": "자신 부대의 주는 피해량 <font color=\"red\">+10%</font>. <br/>행동 종료 시 주위 <font color=\"red\">1칸</font> 내 <font color=\"red\">1개</font> 아군 부대에게 [무쇠팔] 부여: <br/>공격하여 전투 진입 시 영웅의 주는 피해량 <font color=\"red\">+10%</font><br/>전투 후 생명 <font color=\"red\">10%</font> 소모."
         },
         {
-          "Desc": "자신 부대의 주는 피해량 <font color=\"red\">+12%</font>. <br>행동 종료 시 주위 <font color=\"red\">1칸</font> 내 <font color=\"red\">2개</font> 아군 부대에게 [무쇠팔] 부여: <br>공격하여 전투 진입 시 영웅의 주는 피해량 <font color=\"red\">+10%</font><br>전투 후 생명 <font color=\"red\">10%</font> 소모."
+          "Desc": "자신 부대의 주는 피해량 <font color=\"red\">+12%</font>. <br/>행동 종료 시 주위 <font color=\"red\">1칸</font> 내 <font color=\"red\">2개</font> 아군 부대에게 [무쇠팔] 부여: <br/>공격하여 전투 진입 시 영웅의 주는 피해량 <font color=\"red\">+10%</font><br/>전투 후 생명 <font color=\"red\">10%</font> 소모."
         },
         {
-          "Desc": "자신 부대의 주는 피해량 <font color=\"red\">+14%</font>. <br>행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 아군 부대에게 [무쇠팔] 부여: <br>공격하여 전투 진입 시 영웅의 주는 피해량 <font color=\"red\">+15%</font><br>전투 후 생명 <font color=\"red\">10%</font> 소모."
+          "Desc": "자신 부대의 주는 피해량 <font color=\"red\">+14%</font>. <br/>행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 아군 부대에게 [무쇠팔] 부여: <br/>공격하여 전투 진입 시 영웅의 주는 피해량 <font color=\"red\">+15%</font><br/>전투 후 생명 <font color=\"red\">10%</font> 소모."
         },
         {
-          "Desc": "자신 부대의 주는 피해량 <font color=\"red\">+17%</font>. <br>행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">3개</font> 아군 부대에게 [무쇠팔] 부여: <br>공격하여 전투 진입 시 영웅의 주는 피해량 <font color=\"red\">+15%</font><br>전투 후 생명 <font color=\"red\">10%</font> 소모."
+          "Desc": "자신 부대의 주는 피해량 <font color=\"red\">+17%</font>. <br/>행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">3개</font> 아군 부대에게 [무쇠팔] 부여: <br/>공격하여 전투 진입 시 영웅의 주는 피해량 <font color=\"red\">+15%</font><br/>전투 후 생명 <font color=\"red\">10%</font> 소모."
         },
         {
-          "Desc": "자신 부대의 주는 피해량 <font color=\"red\">+20%</font>. <br>행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">4개</font> 아군 부대에게 [무쇠팔] 부여: <br>공격하여 전투 진입 시 영웅의 주는 피해량 <font color=\"red\">+20%</font><br>전투 후 생명 <font color=\"red\">10%</font> 소모."
+          "Desc": "자신 부대의 주는 피해량 <font color=\"red\">+20%</font>. <br/>행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">4개</font> 아군 부대에게 [무쇠팔] 부여: <br/>공격하여 전투 진입 시 영웅의 주는 피해량 <font color=\"red\">+20%</font><br/>전투 후 생명 <font color=\"red\">10%</font> 소모."
         }
       ]
     }
@@ -79,7 +79,7 @@
     "Name": "매혹의 립스틱(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "이멜다.png",
-    "Ability": "마방 +10%<br>행동종료시, 주변 2칸내의 4명의 아군에게 면역 \"고정피해\" 부여,1턴 지속"
+    "Ability": "마방 +10%<br/>행동종료시, 주변 2칸내의 4명의 아군에게 면역 \"고정피해\" 부여,1턴 지속"
   },
   "Soldiers": [
     0,
@@ -400,7 +400,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.png",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>'창병'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -426,7 +426,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -452,7 +452,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IceCrash.png",
-      "Desc": "[마법 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br>'창병'에게 더 큰 피해를 준다. 적군 이동력 -1칸, 2턴 지속.",
+      "Desc": "[마법 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br/>'창병'에게 더 큰 피해를 준다. 적군 이동력 -1칸, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -478,7 +478,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/23.png",
-      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -504,7 +504,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ThunderCrash.png",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -518,7 +518,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_EndTurnHeal.png",
-      "Desc": "[패시브]행동 종료 시 자신 주위 2칸 내 모든 아군 생명을 회복시킨다.<br>회복량은 자신 지력의 2배.",
+      "Desc": "[패시브]행동 종료 시 자신 주위 2칸 내 모든 아군 생명을 회복시킨다.<br/>회복량은 자신 지력의 2배.",
       "SubSkills": null,
       "Animation": null
     },
@@ -570,7 +570,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Extend.png",
-      "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 생명 회복.<br>회복량은 시전자 지력의 1.5배, 3개 디버프 제거.",
+      "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 생명 회복.<br/>회복량은 시전자 지력의 1.5배, 3개 디버프 제거.",
       "SubSkills": null,
       "Animation": null
     },
@@ -584,7 +584,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.png",
-      "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br>2턴 지속, 치명타 발생 시 반드시 발동.",
+      "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -610,7 +610,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Super25.png",
-      "Desc": "[지원]전장에서 단일 아군에게 0.1배의 마법 피해를 입히고,<br>모든 디버프를 제거하며 이동력+2, 공격능력대폭상승.<br>(입히는 모든피해,치명타확률,치명타피해,고정피해,공격,지력,기술 +10%)<br>2턴 지속(제거불가)",
+      "Desc": "[지원]전장에서 단일 아군에게 0.1배의 마법 피해를 입히고,<br/>모든 디버프를 제거하며 이동력+2, 공격능력대폭상승.<br/>(입히는 모든피해,치명타확률,치명타피해,고정피해,공격,지력,기술 +10%)<br/>2턴 지속(제거불가)",
       "SubSkills": null,
       "Animation": "../img/Super/이멜다.gif"
     }
@@ -618,19 +618,19 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：177cm / 65kg<br>◆신체 사이즈：99/62/102<br>◆출연：랑그릿사II<br>◆소속：레이갈드 제국"
+      "Desc": "◆키/몸무게：177cm / 65kg<br/>◆신체 사이즈：99/62/102<br/>◆출연：랑그릿사II<br/>◆소속：레이갈드 제국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "베른하르트 황제를 따르는 사천왕 중 하나로 빙룡병단을 이끄는 유일한 여장군이다. 군에서도 용맹함과 엄격한 규율로 유명하며 전투에 굉장한 집착을 보인다. 부대 내에서 명망 높은 그녀에게 부하들은 감히 의문을 제기할 수도 없다. <br><font color=\"#DC143C\"><size=33><i>「무슨 말이지? 내가 막무가내인 여자라는 거냐?」</i>  </size=33></font>"
+      "Desc": "베른하르트 황제를 따르는 사천왕 중 하나로 빙룡병단을 이끄는 유일한 여장군이다. 군에서도 용맹함과 엄격한 규율로 유명하며 전투에 굉장한 집착을 보인다. 부대 내에서 명망 높은 그녀에게 부하들은 감히 의문을 제기할 수도 없다. <br/><font color=\"#DC143C\"><size=33><i>「무슨 말이지? 내가 막무가내인 여자라는 거냐?」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
-      "Desc": "누구에게든 거만한 태도를 보이며 실제로도 거만한 성격이다. 말로는 가차 없지만 전투 중엔 전우의 안위를 굉장히 걱정한다.<br><font color=\"#DC143C\"><size=33><i>「싸우는 모습을 보면 정말 답답하다니까.」</i>  </size=33></font>"
+      "Desc": "누구에게든 거만한 태도를 보이며 실제로도 거만한 성격이다. 말로는 가차 없지만 전투 중엔 전우의 안위를 굉장히 걱정한다.<br/><font color=\"#DC143C\"><size=33><i>「싸우는 모습을 보면 정말 답답하다니까.」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담3",
-      "Desc": "레온처럼 숭고한 이상을 고집하지 않고 평화보다는 잔혹한 정복을 선호한다. 아름다운 여인이지만 성격이 대단히 나쁘며 부하에게도 매우 엄격하다.<br><font color=\"#DC143C\"><size=33><i>「뭐? 뭔가 불만이라도 있나?」</i>  </size=33></font>"
+      "Desc": "레온처럼 숭고한 이상을 고집하지 않고 평화보다는 잔혹한 정복을 선호한다. 아름다운 여인이지만 성격이 대단히 나쁘며 부하에게도 매우 엄격하다.<br/><font color=\"#DC143C\"><size=33><i>「뭐? 뭔가 불만이라도 있나?」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담4",
@@ -638,7 +638,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "현세에 소환되었지만 뭔가 특별한 동기도 욕망도 없다. 그저 빛의 세력과 행동을 함께하는 것뿐인 자유로운 인물.<br><font color=\"#DC143C\"><size=33><i>「마치 다시 태어난 것 같네. 이전 삶은 조금 후회스러웠거든. 아, 그냥 이대로 내버려 뒀으면 좋겠어.」</i>  </size=33></font>"
+      "Desc": "현세에 소환되었지만 뭔가 특별한 동기도 욕망도 없다. 그저 빛의 세력과 행동을 함께하는 것뿐인 자유로운 인물.<br/><font color=\"#DC143C\"><size=33><i>「마치 다시 태어난 것 같네. 이전 삶은 조금 후회스러웠거든. 아, 그냥 이대로 내버려 뒀으면 좋겠어.」</i>  </size=33></font>"
     }
   ],
   "Performance": [

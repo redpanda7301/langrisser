@@ -61,16 +61,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "매 적에게 피해를 입힌 후 [크림조니아의 힘] 효과 획득</br>[크림조니아의 힘] : 생명 이외 모든 능력치 <font color=\"red\">+1%</font> 중첩가능. 최대 <font color=\"red\">7</font>회 중첩</br>행동 종료시 [크림조니아의 힘] 중첩이 <font color=\"red\">7</font>개일 경우 재행동 <font color=\"red\">1</font>회 가능.</br>재행동 종료시 가장 가까운 아군의 곁으로 이동하며 <br>[크림조니아의 힘] 누적 효과 제거"
+          "Desc": "매 적에게 피해를 입힌 후 [크림조니아의 힘] 효과 획득</br>[크림조니아의 힘] : 생명 이외 모든 능력치 <font color=\"red\">+1%</font> 중첩가능. 최대 <font color=\"red\">7</font>회 중첩</br>행동 종료시 [크림조니아의 힘] 중첩이 <font color=\"red\">7</font>개일 경우 재행동 <font color=\"red\">1</font>회 가능.</br>재행동 종료시 가장 가까운 아군의 곁으로 이동하며 <br/>[크림조니아의 힘] 누적 효과 제거"
         },
         {
-          "Desc": "매 적에게 피해를 입힌 후 [크림조니아의 힘] 효과 획득</br>[크림조니아의 힘] : 생명 이외 모든 능력치 <font color=\"red\">+2%</font> 중첩가능. 최대 <font color=\"red\">7</font>회 중첩</br>행동 종료시 [크림조니아의 힘] 중첩이 <font color=\"red\">7</font>개일 경우 재행동 <font color=\"red\">1</font>회 가능.</br>재행동 종료시 가장 가까운 아군의 곁으로 이동하며 <br>[크림조니아의 힘] 누적 효과 제거"
+          "Desc": "매 적에게 피해를 입힌 후 [크림조니아의 힘] 효과 획득</br>[크림조니아의 힘] : 생명 이외 모든 능력치 <font color=\"red\">+2%</font> 중첩가능. 최대 <font color=\"red\">7</font>회 중첩</br>행동 종료시 [크림조니아의 힘] 중첩이 <font color=\"red\">7</font>개일 경우 재행동 <font color=\"red\">1</font>회 가능.</br>재행동 종료시 가장 가까운 아군의 곁으로 이동하며 <br/>[크림조니아의 힘] 누적 효과 제거"
         },
         {
-          "Desc": "매 적에게 피해를 입힌 후 [크림조니아의 힘] 효과 획득</br>[크림조니아의 힘] : 생명 이외 모든 능력치 <font color=\"red\">+3%</font> 중첩가능. 최대 <font color=\"red\">7</font>회 중첩</br>행동 종료시 [크림조니아의 힘] 중첩이 <font color=\"red\">7</font>개일 경우 재행동 <font color=\"red\">1</font>회 가능.</br>재행동 종료시 가장 가까운 아군의 곁으로 이동하며 <br>[크림조니아의 힘] 누적 효과 제거"
+          "Desc": "매 적에게 피해를 입힌 후 [크림조니아의 힘] 효과 획득</br>[크림조니아의 힘] : 생명 이외 모든 능력치 <font color=\"red\">+3%</font> 중첩가능. 최대 <font color=\"red\">7</font>회 중첩</br>행동 종료시 [크림조니아의 힘] 중첩이 <font color=\"red\">7</font>개일 경우 재행동 <font color=\"red\">1</font>회 가능.</br>재행동 종료시 가장 가까운 아군의 곁으로 이동하며 <br/>[크림조니아의 힘] 누적 효과 제거"
         },
         {
-          "Desc": "매 적에게 피해를 입힌 후 [크림조니아의 힘] 효과 획득</br>[크림조니아의 힘] : 생명 이외 모든 능력치 <font color=\"red\">+4%</font> 중첩가능. 최대 <font color=\"red\">7</font>회 중첩</br>행동 종료시 [크림조니아의 힘] 중첩이 <font color=\"red\">7</font>개일 경우 재행동 <font color=\"red\">1</font>회 가능.</br>재행동 종료시 가장 가까운 아군의 곁으로 이동하며 <br>[크림조니아의 힘] 누적 효과 제거"
+          "Desc": "매 적에게 피해를 입힌 후 [크림조니아의 힘] 효과 획득</br>[크림조니아의 힘] : 생명 이외 모든 능력치 <font color=\"red\">+4%</font> 중첩가능. 최대 <font color=\"red\">7</font>회 중첩</br>행동 종료시 [크림조니아의 힘] 중첩이 <font color=\"red\">7</font>개일 경우 재행동 <font color=\"red\">1</font>회 가능.</br>재행동 종료시 가장 가까운 아군의 곁으로 이동하며 <br/>[크림조니아의 힘] 누적 효과 제거"
         }
       ]
     }
@@ -80,7 +80,7 @@
     "Name": "크림존의 심장(장신구)",
     "Stats": "공격 75,기술 37",
     "Icon": "레인폴스.png",
-    "Ability": "공격 <font color=\"red\">+5</font>%, 이동력 <font color=\"red\">+1</font><br>고유 스킬 <font color=\"green\">크림조니아의 힘</font> 중첩이, <br><font color=\"red\">4</font> 이상일 경우<font color=\"blue\">이동시 적 통과 가능</font>, <br><font color=\"red\">7</font> 이상일 경우 피해를 <b>입힌 후</b> 적에게 <font color=\"blue\">강력한 디버프</font><font color=\"red\">1</font>개 부여,"
+    "Ability": "공격 <font color=\"red\">+5</font>%, 이동력 <font color=\"red\">+1</font><br/>고유 스킬 <font color=\"green\">크림조니아의 힘</font> 중첩이, <br/><font color=\"red\">4</font> 이상일 경우<font color=\"blue\">이동시 적 통과 가능</font>, <br/><font color=\"red\">7</font> 이상일 경우 피해를 <b>입힌 후</b> 적에게 <font color=\"blue\">강력한 디버프</font><font color=\"red\">1</font>개 부여,"
   },
   "Soldiers": [
     4,
@@ -402,7 +402,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Lainforce1.png",
-      "Desc": "[물리 피해] 라인에 있는 모든 적을 관통하며 0.18배 범위 피해를 입힌다.<br>치명타 발생시 스킬 쿨타임 -1턴.",
+      "Desc": "[물리 피해] 라인에 있는 모든 적을 관통하며 0.18배 범위 피해를 입힌다.<br/>치명타 발생시 스킬 쿨타임 -1턴.",
       "SubSkills": null,
       "Animation": null
     },
@@ -416,7 +416,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_TrickStep.png",
-      "Desc": "[패시브]치명타 확률+10%.<br>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
+      "Desc": "[패시브]치명타 확률+10%.<br/>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -442,7 +442,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/0.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -482,7 +482,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Lainforce3.png",
-      "Desc": "[물리 피해] 스킬 사용 지점으로 순간이동 하며 <br>주위 2칸 범위의 모든 적에게 0.3배의 피해 및 강화버프를 1개 강탈한다.<br>치명타 발생시 강력한 디버프 1개 부여.",
+      "Desc": "[물리 피해] 스킬 사용 지점으로 순간이동 하며 <br/>주위 2칸 범위의 모든 적에게 0.3배의 피해 및 강화버프를 1개 강탈한다.<br/>치명타 발생시 강력한 디버프 1개 부여.",
       "SubSkills": null,
       "Animation": null
     },
@@ -496,7 +496,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass3.png",
-      "Desc": "[패시브]치명타 피해량 +20%. 전투 중 치명타가 발생한 경우<br>전투 종료 후 받는 모든 피해량 -30%, 1턴 지속.",
+      "Desc": "[패시브]치명타 피해량 +20%. 전투 중 치명타가 발생한 경우<br/>전투 종료 후 받는 모든 피해량 -30%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -536,7 +536,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Lainforce2.png",
-      "Desc": "[물리 피해] 라인에 있는 모든 적을 관통하며 0.33배 범위 피해를 입힌다.<br>공격 중 스킬의 가장 먼 사거리로 이동하며<br>2명 이상의 적에게 적중 시 적중당한 적의 위치를 랜덤하게 변경한다.",
+      "Desc": "[물리 피해] 라인에 있는 모든 적을 관통하며 0.33배 범위 피해를 입힌다.<br/>공격 중 스킬의 가장 먼 사거리로 이동하며<br/>2명 이상의 적에게 적중 시 적중당한 적의 위치를 랜덤하게 변경한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -576,7 +576,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Super14.png",
-      "Desc": "[물리 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.2배 범위 피해를 입히고,<br>[연소] 부여: 행동종료시 레인폴스의 공격 1배의 [고정피해],중첩가능, 2턴 지속.<br>공격시 기술사거리의 가장 먼 위치로 이동한다.<br>2명 이상 적중시 [전송]발동: 적중한 적군의 위치를 서로바꾸며 [연소]추가부여.<br>3명 이상 적중시 쿨타임 초기화 및 [연소]추가부여",
+      "Desc": "[물리 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.2배 범위 피해를 입히고,<br/>[연소] 부여: 행동종료시 레인폴스의 공격 1배의 [고정피해],중첩가능, 2턴 지속.<br/>공격시 기술사거리의 가장 먼 위치로 이동한다.<br/>2명 이상 적중시 [전송]발동: 적중한 적군의 위치를 서로바꾸며 [연소]추가부여.<br/>3명 이상 적중시 쿨타임 초기화 및 [연소]추가부여",
       "SubSkills": null,
       "Animation": "../img/Super/레인폴스.gif"
     }
@@ -584,7 +584,7 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게: 195cm /60kg<br>◆출연: 랑그릿사V<br>◆소속: 크림조니아"
+      "Desc": "◆키/몸무게: 195cm /60kg<br/>◆출연: 랑그릿사V<br/>◆소속: 크림조니아"
     },
     {
       "Entry": "영웅담1",

@@ -61,16 +61,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+10%</font><br> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-5%</font>."
+          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+10%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-5%</font>."
         },
         {
-          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+13%</font><br> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-8%</font>."
+          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+13%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-8%</font>."
         },
         {
-          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+16%</font><br> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-11%</font>."
+          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+16%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-11%</font>."
         },
         {
-          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+20%</font><br> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-15%</font>."
+          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+20%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-15%</font>."
         }
       ]
     }
@@ -80,7 +80,7 @@
     "Name": "패왕의 전투 갑주(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "베른하르트.png",
-    "Ability": "생명 +5%<br>영웅 고유기술 범위 +1"
+    "Ability": "생명 +5%<br/>영웅 고유기술 범위 +1"
   },
   "Soldiers": [
     22,
@@ -404,7 +404,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordDance.png",
-      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -418,7 +418,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.png",
-      "Desc": "[패시브]근접 공격으로 전투 진입 시 전투 후 30% 확률로 <br>이번 전투에서 준 피해량 30%의 생명을 회복한다",
+      "Desc": "[패시브]근접 공격으로 전투 진입 시 전투 후 30% 확률로 <br/>이번 전투에서 준 피해량 30%의 생명을 회복한다",
       "SubSkills": null,
       "Animation": null
     },
@@ -444,7 +444,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ShieldStrike.png",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 피해를 준다.<br>전투 진입 전 적 부대를 1턴 동안 '기절'시킨다.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 피해를 준다.<br/>전투 진입 전 적 부대를 1턴 동안 '기절'시킨다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -458,7 +458,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Parry.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>공격을 받을 시 공격의 7%를 방어에 추가한다.",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격의 7%를 방어에 추가한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -486,7 +486,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Empire.png",
-      "Desc": "[패시브]근접 공격으로 전투 진입전 상대가 보유한 버프 1개 제거 및<br>상대 부대 방어-20%, 1턴 지속.",
+      "Desc": "[패시브]근접 공격으로 전투 진입전 상대가 보유한 버프 1개 제거 및<br/>상대 부대 방어-20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -512,7 +512,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/SuperBuff_Empire2.png",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '제국의 빛' 아군의 <br>공격, 방어 능력치가 크게 상승하고<br>상성에서 유리한 부대와 전투 시 주는 피해량 +20%, 4턴 지속.<br>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '제국의 빛' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>상성에서 유리한 부대와 전투 시 주는 피해량 +20%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -552,7 +552,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IronHand.png",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br>[응수]효과 획득, 2턴 지속.",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br/>[응수]효과 획득, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -578,7 +578,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/베른하르트.png",
-      "Desc": "[패시브] <b>선공으로 일반 공격 후, 주위 <font color=\"red\">1</font>바퀴</b> 범위 내 적에게 0.1배 범위 피해. 쿨타임 <font color=\"red\">3</font>행동.<br>[초절강화] 제국의 빛 부여 (전투 진입 시 피해 +18%, 지속 4행동) +<br>자신에게 <font color=\"blue\">철혈의 야망</font> 버프 부여 : <br>이동력 <font color=\"red\">+1</font>, 피해 <font color=\"red\">+15</font>%, <br><font color=\"blue\">검무</font> 범위 <font color=\"red\">+1</font>, <font color=\"blue\">방패 공격</font> <b>부대 사거리</b> <font color=\"red\">+1</font>, <br><font color=\"blue\">철완</font> 스킬 장착 시 받는 물리 피해 <font color=\"red\">-25</font>%, <br>패기 효과 획득, 지속 <font color=\"red\">4</font>행동 <br><b>(철혈의 야망 효과는 면역 및 해제 불가)</b>",
+      "Desc": "[패시브] <b>선공으로 일반 공격 후, 주위 <font color=\"red\">1</font>바퀴</b> 범위 내 적에게 0.1배 범위 피해. 쿨타임 <font color=\"red\">3</font>행동.<br/>[초절강화] 제국의 빛 부여 (전투 진입 시 피해 +18%, 지속 4행동) +<br/>자신에게 <font color=\"blue\">철혈의 야망</font> 버프 부여 : <br/>이동력 <font color=\"red\">+1</font>, 피해 <font color=\"red\">+15</font>%, <br/><font color=\"blue\">검무</font> 범위 <font color=\"red\">+1</font>, <font color=\"blue\">방패 공격</font> <b>부대 사거리</b> <font color=\"red\">+1</font>, <br/><font color=\"blue\">철완</font> 스킬 장착 시 받는 물리 피해 <font color=\"red\">-25</font>%, <br/>패기 효과 획득, 지속 <font color=\"red\">4</font>행동 <br/><b>(철혈의 야망 효과는 면역 및 해제 불가)</b>",
       "SubSkills": null,
       "Animation": "../img/Super/베른하르트.gif"
     }
@@ -586,11 +586,11 @@
   "Bio": [
     {
       "Entry": "영웅소개",
-      "Desc": "◆키/몸무게：208cm / 102kg<br>◆출연：랑그릿사II<br>◆소속：레이갈드 제국"
+      "Desc": "◆키/몸무게：208cm / 102kg<br/>◆출연：랑그릿사II<br/>◆소속：레이갈드 제국"
     },
     {
       "Entry": "영웅담1",
-      "Desc": "옛 레이갈드 제국의 황제. 대륙 권력의 정점에 올랐던 통치자인 그는 원래 별 볼 일 없는 병사출신이었다. 하지만 자신의 뛰어난 무력과 지략으로 강력한 제국을 세우게 된다.무력과 권위를 중시하며 패도에 의한 통일만이 평화를 가져올 수 있다고 믿는다.<br><font color=\"#DC143C\"><size=33><i>「흥, 뭐냐, 짐이 그렇게 생각하는 게 당연한 것 아니냐?」</i>  </size=33></font>"
+      "Desc": "옛 레이갈드 제국의 황제. 대륙 권력의 정점에 올랐던 통치자인 그는 원래 별 볼 일 없는 병사출신이었다. 하지만 자신의 뛰어난 무력과 지략으로 강력한 제국을 세우게 된다.무력과 권위를 중시하며 패도에 의한 통일만이 평화를 가져올 수 있다고 믿는다.<br/><font color=\"#DC143C\"><size=33><i>「흥, 뭐냐, 짐이 그렇게 생각하는 게 당연한 것 아니냐?」</i>  </size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -606,7 +606,7 @@
     },
     {
       "Entry": "영웅담5",
-      "Desc": "혼돈의 깊은 곳에서 빛의 여신의 소환을 받아 다시 세상에 나타났다. 그러나 대륙을 정복하겠다는 야심은 예전 그대로였다. <br><font color=\"#DC143C\"><size=33><i>「세계를 구하겠다고? 그대는 그런 걱정 할 필요 없다. 짐이 이 세계를 정복할 테니까!」</i>  </size=33></font>"
+      "Desc": "혼돈의 깊은 곳에서 빛의 여신의 소환을 받아 다시 세상에 나타났다. 그러나 대륙을 정복하겠다는 야심은 예전 그대로였다. <br/><font color=\"#DC143C\"><size=33><i>「세계를 구하겠다고? 그대는 그런 걱정 할 필요 없다. 짐이 이 세계를 정복할 테니까!」</i>  </size=33></font>"
     }
   ],
   "Performance": [
