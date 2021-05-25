@@ -57,16 +57,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+18%</font>.</br><b>전투 시작 시 자신 곁에 『<font color = \"purple\">마력 꼭두각시</font>』 소환</b></br><b>주위 <font color=\"red\">3</font>칸 범위 안에 자기가 소환한 마력 꼭두각시가 있을 경우 </br>루크레치아는</b> 생명 <font color =\"red\">5</font>% 수치로 부활 최대 <font color=\"red\">1</font>회. <br/><b>꼭두각시의 생명은 소환사 최대 생명의 <font color =\"red\">100</font>%를 따라가며 </br>다른 스탯은 턴 시작 시 대응하는 스탯의 <font color =\"red\">100</font>%를 따라감 </b>"
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+18%</font>.<br/><b>전투 시작 시 자신 곁에 『<font color = \"purple\">마력 꼭두각시</font>』 소환</b><br/><b>주위 <font color=\"red\">3</font>칸 범위 안에 자기가 소환한 마력 꼭두각시가 있을 경우 <br/>루크레치아는</b> 생명 <font color =\"red\">5</font>% 수치로 부활 최대 <font color=\"red\">1</font>회. <br/><b>꼭두각시의 생명은 소환사 최대 생명의 <font color =\"red\">100</font>%를 따라가며 <br/>다른 스탯은 턴 시작 시 대응하는 스탯의 <font color =\"red\">100</font>%를 따라감 </b>"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+22%</font>.</br><b>전투 시작 시 자신 곁에 『<font color = \"purple\">마력 꼭두각시</font>』 소환</b></br><b>주위 <font color=\"red\">3</font>칸 범위 안에 자기가 소환한 마력 꼭두각시가 있을 경우 </br>루크레치아는</b> 생명 <font color =\"red\">10</font>% 수치로 부활 최대 <font color=\"red\">1</font>회.<br/><b>꼭두각시의 생명은 소환사 최대 생명의 <font color =\"red\">100</font>%를 따라가며 </br>다른 스탯은 턴 시작 시 대응하는 스탯의 <font color =\"red\">100</font>%를 따라감 </b>"
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+22%</font>.<br/><b>전투 시작 시 자신 곁에 『<font color = \"purple\">마력 꼭두각시</font>』 소환</b><br/><b>주위 <font color=\"red\">3</font>칸 범위 안에 자기가 소환한 마력 꼭두각시가 있을 경우 <br/>루크레치아는</b> 생명 <font color =\"red\">10</font>% 수치로 부활 최대 <font color=\"red\">1</font>회.<br/><b>꼭두각시의 생명은 소환사 최대 생명의 <font color =\"red\">100</font>%를 따라가며 <br/>다른 스탯은 턴 시작 시 대응하는 스탯의 <font color =\"red\">100</font>%를 따라감 </b>"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+26%</font>.</br><b>전투 시작 시 자신 곁에 『<font color = \"purple\">마력 꼭두각시</font>』 소환</b></br><b>주위 <font color=\"red\">3</font>칸 범위 안에 자기가 소환한 마력 꼭두각시가 있을 경우 </br>루크레치아는</b> 생명 <font color =\"red\">15</font>% 수치로 부활 최대 <font color=\"red\">1</font>회.<br/><b>꼭두각시의 생명은 소환사 최대 생명의 <font color =\"red\">100</font>%를 따라가며 </br>다른 스탯은 턴 시작 시 대응하는 스탯의 <font color =\"red\">100</font>%를 따라감 </b>"
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+26%</font>.<br/><b>전투 시작 시 자신 곁에 『<font color = \"purple\">마력 꼭두각시</font>』 소환</b><br/><b>주위 <font color=\"red\">3</font>칸 범위 안에 자기가 소환한 마력 꼭두각시가 있을 경우 <br/>루크레치아는</b> 생명 <font color =\"red\">15</font>% 수치로 부활 최대 <font color=\"red\">1</font>회.<br/><b>꼭두각시의 생명은 소환사 최대 생명의 <font color =\"red\">100</font>%를 따라가며 <br/>다른 스탯은 턴 시작 시 대응하는 스탯의 <font color =\"red\">100</font>%를 따라감 </b>"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+30%</font>.</br><b>전투 시작 시 자신 곁에 『<font color = \"purple\">마력 꼭두각시</font>』 소환</b></br><b>주위 <font color=\"red\">3</font>칸 범위 안에 자기가 소환한 마력 꼭두각시가 있을 경우 </br>루크레치아는</b> 생명 <font color =\"red\">20</font>% 수치로 부활 최대 <font color=\"red\">1</font>회.<br/><b>꼭두각시의 생명은 소환사 최대 생명의 <font color =\"red\">100</font>%를 따라가며 </br>다른 스탯은 턴 시작 시 대응하는 스탯의 <font color =\"red\">100</font>%를 따라감 </b>"
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+30%</font>.<br/><b>전투 시작 시 자신 곁에 『<font color = \"purple\">마력 꼭두각시</font>』 소환</b><br/><b>주위 <font color=\"red\">3</font>칸 범위 안에 자기가 소환한 마력 꼭두각시가 있을 경우 <br/>루크레치아는</b> 생명 <font color =\"red\">20</font>% 수치로 부활 최대 <font color=\"red\">1</font>회.<br/><b>꼭두각시의 생명은 소환사 최대 생명의 <font color =\"red\">100</font>%를 따라가며 <br/>다른 스탯은 턴 시작 시 대응하는 스탯의 <font color =\"red\">100</font>%를 따라감 </b>"
         }
       ]
     }

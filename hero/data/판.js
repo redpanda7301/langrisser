@@ -54,19 +54,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "피해를 받은이후 효과획득 [맹진]:</br>공격 기술 <font color=\"red\">+1%</font> 이동력 <font color=\"red\">+1</font> <font color=\"red\">2</font>턴 지속. 최대 <font color=\"red\">2</font>중첩가능.</br>자신이 이동력상승 강화효과를 보유중일시 입히는 피해 <font color=\"red\">+10%</font>."
+          "Desc": "피해를 받은이후 효과획득 [맹진]:<br/>공격 기술 <font color=\"red\">+1%</font> 이동력 <font color=\"red\">+1</font> <font color=\"red\">2</font>턴 지속. 최대 <font color=\"red\">2</font>중첩가능.<br/>자신이 이동력상승 강화효과를 보유중일시 입히는 피해 <font color=\"red\">+10%</font>."
         },
         {
-          "Desc": "피해를 받은이후 효과획득 [맹진]:</br>공격 기술 <font color=\"red\">+1%</font> 이동력 <font color=\"red\">+1</font> <font color=\"red\">2</font>턴 지속. 최대 <font color=\"red\">2</font>중첩가능.</br>자신이 이동력상승 강화효과를 보유중일시 입히는 피해 <font color=\"red\">+12%</font>."
+          "Desc": "피해를 받은이후 효과획득 [맹진]:<br/>공격 기술 <font color=\"red\">+1%</font> 이동력 <font color=\"red\">+1</font> <font color=\"red\">2</font>턴 지속. 최대 <font color=\"red\">2</font>중첩가능.<br/>자신이 이동력상승 강화효과를 보유중일시 입히는 피해 <font color=\"red\">+12%</font>."
         },
         {
-          "Desc": "피해를 받은이후 효과획득 [맹진]:</br>공격 기술 <font color=\"red\">+2%</font> 이동력 <font color=\"red\">+1</font> <font color=\"red\">2</font>턴 지속. 최대 <font color=\"red\">2</font>중첩가능.</br>자신이 이동력상승 강화효과를 보유중일시 입히는 피해 <font color=\"red\">+14%</font>."
+          "Desc": "피해를 받은이후 효과획득 [맹진]:<br/>공격 기술 <font color=\"red\">+2%</font> 이동력 <font color=\"red\">+1</font> <font color=\"red\">2</font>턴 지속. 최대 <font color=\"red\">2</font>중첩가능.<br/>자신이 이동력상승 강화효과를 보유중일시 입히는 피해 <font color=\"red\">+14%</font>."
         },
         {
-          "Desc": "피해를 받은이후 효과획득 [맹진]:</br>공격 기술 <font color=\"red\">+2%</font> 이동력 <font color=\"red\">+1</font> <font color=\"red\">2</font>턴 지속. 최대 <font color=\"red\">2</font>중첩가능.</br>자신이 이동력상승 강화효과를 보유중일시 입히는 피해 <font color=\"red\">+17%</font>."
+          "Desc": "피해를 받은이후 효과획득 [맹진]:<br/>공격 기술 <font color=\"red\">+2%</font> 이동력 <font color=\"red\">+1</font> <font color=\"red\">2</font>턴 지속. 최대 <font color=\"red\">2</font>중첩가능.<br/>자신이 이동력상승 강화효과를 보유중일시 입히는 피해 <font color=\"red\">+17%</font>."
         },
         {
-          "Desc": "피해를 받은이후 효과획득 [맹진]:</br>공격 기술 <font color=\"red\">+3%</font> 이동력 <font color=\"red\">+1</font> <font color=\"red\">2</font>턴 지속. 최대 <font color=\"red\">3</font>중첩가능.</br>자신이 이동력상승 강화효과를 보유중일시 입히는 피해 <font color=\"red\">+20%</font>."
+          "Desc": "피해를 받은이후 효과획득 [맹진]:<br/>공격 기술 <font color=\"red\">+3%</font> 이동력 <font color=\"red\">+1</font> <font color=\"red\">2</font>턴 지속. 최대 <font color=\"red\">3</font>중첩가능.<br/>자신이 이동력상승 강화효과를 보유중일시 입히는 피해 <font color=\"red\">+20%</font>."
         }
       ]
     }

@@ -61,16 +61,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "치명타율 <font color=\"red\">+10%</font>.<br/>적 부대 처치 후 [연막] 발동: 모든 받는 피해 <font color=\"red\">-30%</font> <font color=\"red\">1</font>턴 지속.</br>이 효과는 발동 후 <font color=\"red\">3</font>턴이 지나야 다시 발동할 수 있다."
+          "Desc": "치명타율 <font color=\"red\">+10%</font>.<br/>적 부대 처치 후 [연막] 발동: 모든 받는 피해 <font color=\"red\">-30%</font> <font color=\"red\">1</font>턴 지속.<br/>이 효과는 발동 후 <font color=\"red\">3</font>턴이 지나야 다시 발동할 수 있다."
         },
         {
-          "Desc": "치명타율 <font color=\"red\">+13%</font>(추후 <font color=\"red\">15%</font>).<br/>적 부대 처치 후 [연막] 발동: 모든 받는 피해 <font color=\"red\">-30%</font> <font color=\"red\">1</font>턴 지속.</br>이 효과는 발동 후 <font color=\"red\">2</font>턴이 지나야 다시 발동할 수 있다."
+          "Desc": "치명타율 <font color=\"red\">+13%</font>(추후 <font color=\"red\">15%</font>).<br/>적 부대 처치 후 [연막] 발동: 모든 받는 피해 <font color=\"red\">-30%</font> <font color=\"red\">1</font>턴 지속.<br/>이 효과는 발동 후 <font color=\"red\">2</font>턴이 지나야 다시 발동할 수 있다."
         },
         {
-          "Desc": "치명타율 <font color=\"red\">+16%</font>(추후 <font color=\"red\">20%</font>).<br/>적 부대 처치 후 [연막] 발동: 모든 받는 피해 <font color=\"red\">-30%</font> <font color=\"red\">1</font>턴 지속.</br>이 효과는 발동 후 <font color=\"red\">2</font>턴이 지나야 다시 발동할 수 있다."
+          "Desc": "치명타율 <font color=\"red\">+16%</font>(추후 <font color=\"red\">20%</font>).<br/>적 부대 처치 후 [연막] 발동: 모든 받는 피해 <font color=\"red\">-30%</font> <font color=\"red\">1</font>턴 지속.<br/>이 효과는 발동 후 <font color=\"red\">2</font>턴이 지나야 다시 발동할 수 있다."
         },
         {
-          "Desc": "치명타율 <font color=\"red\">+20%</font>(추후 <font color=\"red\">30%</font>).<br/>적 부대 처치 후 [연막] 발동: 모든 받는 피해 <font color=\"red\">-30%</font> <font color=\"red\">1</font>턴 지속.</br>이 효과는 발동 후 <font color=\"red\">1</font>턴이 지나야 다시 발동할 수 있다."
+          "Desc": "치명타율 <font color=\"red\">+20%</font>(추후 <font color=\"red\">30%</font>).<br/>적 부대 처치 후 [연막] 발동: 모든 받는 피해 <font color=\"red\">-30%</font> <font color=\"red\">1</font>턴 지속.<br/>이 효과는 발동 후 <font color=\"red\">1</font>턴이 지나야 다시 발동할 수 있다."
         }
       ]
     }

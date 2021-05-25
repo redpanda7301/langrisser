@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<font color=\"red\">1</font>칸 이동할 때마다 피해 <font color=\"red\">+1%</font>(최대<font color=\"red\">5%</font>) 마방 <font color=\"red\">+5%</font>(최대 <font color=\"red\">25%</font>)</br>누적 이동 <font color=\"red\">35</font>칸 이후 행동 종료시 자신의 모든 기술 쿨타임 초기화"
+          "Desc": "<font color=\"red\">1</font>칸 이동할 때마다 피해 <font color=\"red\">+1%</font>(최대<font color=\"red\">5%</font>) 마방 <font color=\"red\">+5%</font>(최대 <font color=\"red\">25%</font>)<br/>누적 이동 <font color=\"red\">35</font>칸 이후 행동 종료시 자신의 모든 기술 쿨타임 초기화"
         },
         {
-          "Desc": "<font color=\"red\">1</font>칸 이동할 때마다 피해 <font color=\"red\">+2%</font>(최대<font color=\"red\">10%</font>) 마방 <font color=\"red\">+10%</font>(최대 <font color=\"red\">50%</font>)</br>누적 이동 <font color=\"red\">30</font>칸 이후 행동 종료시 자신의 모든 기술 쿨타임 초기화"
+          "Desc": "<font color=\"red\">1</font>칸 이동할 때마다 피해 <font color=\"red\">+2%</font>(최대<font color=\"red\">10%</font>) 마방 <font color=\"red\">+10%</font>(최대 <font color=\"red\">50%</font>)<br/>누적 이동 <font color=\"red\">30</font>칸 이후 행동 종료시 자신의 모든 기술 쿨타임 초기화"
         },
         {
-          "Desc": "<font color=\"red\">1</font>칸 이동할 때마다 피해 <font color=\"red\">+3%</font>(최대<font color=\"red\">15%</font>) 마방 <font color=\"red\">+15%</font>(최대 <font color=\"red\">75%</font>)</br>누적 이동 <font color=\"red\">25</font>칸 이후 행동 종료시 자신의 모든 기술 쿨타임 초기화"
+          "Desc": "<font color=\"red\">1</font>칸 이동할 때마다 피해 <font color=\"red\">+3%</font>(최대<font color=\"red\">15%</font>) 마방 <font color=\"red\">+15%</font>(최대 <font color=\"red\">75%</font>)<br/>누적 이동 <font color=\"red\">25</font>칸 이후 행동 종료시 자신의 모든 기술 쿨타임 초기화"
         },
         {
-          "Desc": "<font color=\"red\">1</font>칸 이동할 때마다 피해 <font color=\"red\">+4%</font>(최대<font color=\"red\">20%</font>) 마방 <font color=\"red\">+20%</font>(최대 <font color=\"red\">100%</font>)</br>누적 이동 <font color=\"red\">20</font>칸 이후 행동 종료시 자신의 모든 기술 쿨타임 초기화"
+          "Desc": "<font color=\"red\">1</font>칸 이동할 때마다 피해 <font color=\"red\">+4%</font>(최대<font color=\"red\">20%</font>) 마방 <font color=\"red\">+20%</font>(최대 <font color=\"red\">100%</font>)<br/>누적 이동 <font color=\"red\">20</font>칸 이후 행동 종료시 자신의 모든 기술 쿨타임 초기화"
         }
       ]
     }

@@ -692,7 +692,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.png",
-      "Desc": "[지휘] 주위 2칸 내 모든 아군 마방 +15%.",
+      "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <fo%. color=\"red\">+15</fo%.",
       "SubSkills": null,
       "Animation": null
     },

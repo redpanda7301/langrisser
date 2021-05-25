@@ -53,16 +53,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "매 이동 <font color=\"red\">1</font>칸당 공격상승 <font color=\"red\">1%</font>(최대 <font color=\"red\">5%</font>)</br>방어상승 <font color=\"red\">5%</font>(최대 <font color=\"red\">25%</font>).</br>전투진입전 만약 자신의 공격이 적군보다 높을시 선제공격 한다."
+          "Desc": "매 이동 <font color=\"red\">1</font>칸당 공격상승 <font color=\"red\">1%</font>(최대 <font color=\"red\">5%</font>)<br/>방어상승 <font color=\"red\">5%</font>(최대 <font color=\"red\">25%</font>).<br/>전투진입전 만약 자신의 공격이 적군보다 높을시 선제공격 한다."
         },
         {
-          "Desc": "매 이동 <font color=\"red\">1</font>칸당 공격상승 <font color=\"red\">2%</font>(최대 <font color=\"red\">10%</font>)</br>방어상승 <font color=\"red\">10%</font>(최대 <font color=\"red\">50%</font>).</br>전투진입전 만약 자신의 공격이 적군보다 높을시 선제공격 한다."
+          "Desc": "매 이동 <font color=\"red\">1</font>칸당 공격상승 <font color=\"red\">2%</font>(최대 <font color=\"red\">10%</font>)<br/>방어상승 <font color=\"red\">10%</font>(최대 <font color=\"red\">50%</font>).<br/>전투진입전 만약 자신의 공격이 적군보다 높을시 선제공격 한다."
         },
         {
-          "Desc": "매 이동 <font color=\"red\">1</font>칸당 공격상승 <font color=\"red\">3%</font>(최대 <font color=\"red\">15%</font>)</br>방어상승 <font color=\"red\">15%</font>(최대 <font color=\"red\">75%</font>).</br>전투진입전 만약 자신의 공격이 적군보다 높을시 선제공격 한다."
+          "Desc": "매 이동 <font color=\"red\">1</font>칸당 공격상승 <font color=\"red\">3%</font>(최대 <font color=\"red\">15%</font>)<br/>방어상승 <font color=\"red\">15%</font>(최대 <font color=\"red\">75%</font>).<br/>전투진입전 만약 자신의 공격이 적군보다 높을시 선제공격 한다."
         },
         {
-          "Desc": "매 이동 <font color=\"red\">1</font>칸당 공격상승 <font color=\"red\">4%</font>(최대 <font color=\"red\">20%</font>)</br>방어상승 <font color=\"red\">20%</font>(최대 <font color=\"red\">100%</font>).</br>전투진입전 만약 자신의 공격이 적군보다 높을시 선제공격 한다."
+          "Desc": "매 이동 <font color=\"red\">1</font>칸당 공격상승 <font color=\"red\">4%</font>(최대 <font color=\"red\">20%</font>)<br/>방어상승 <font color=\"red\">20%</font>(최대 <font color=\"red\">100%</font>).<br/>전투진입전 만약 자신의 공격이 적군보다 높을시 선제공격 한다."
         }
       ]
     }

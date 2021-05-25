@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">15%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">15%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">15%</font> 감소<br/>사망 시 부활 및 생명을 <font color=\"red\">15%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">20%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">20%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">20%</font> 감소<br/>사망 시 부활 및 생명을 <font color=\"red\">20%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">25%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">25%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">25%</font> 감소<br/>사망 시 부활 및 생명을 <font color=\"red\">25%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
         },
         {
-          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">30%</font> 감소</br>사망 시 부활 및 생명을 <font color=\"red\">30%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
+          "Desc": "부대 체력이 높을수록 받는 마법 피해량이 최대 <font color=\"red\">30%</font> 감소<br/>사망 시 부활 및 생명을 <font color=\"red\">30%</font> 회복.<br/>이 효과는 전투마다 <font color=\"red\">1</font>회 발동할 수 있다."
         }
       ]
     }

@@ -49,19 +49,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "공격력 <font color=\"red\">+5%</font> </br><b>적에게 선공으로 피해를 입히기 전 적에게 <font color=\"blue\">패시브 봉인</font> 효과 부여</b> 지속 <font color=\"red\">1</font>행동 </br><b>자신에게 인접한 아군이 없는 상태에서 행동 종료 시 \"<font color = \"purple\">천공의 무장</font>\" 효과 획득 :</b> </br>공격력 <font color=\"red\">+5</font>%  부대 사거리 <font color=\"red\">+1</font> </br> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>턴 해제 불가 면역 불가</b></br>쿨타임 <font color=\"red\">6</font>"
+          "Desc": "공격력 <font color=\"red\">+5%</font> <br/><b>적에게 선공으로 피해를 입히기 전 적에게 <font color=\"blue\">패시브 봉인</font> 효과 부여</b> 지속 <font color=\"red\">1</font>행동 <br/><b>자신에게 인접한 아군이 없는 상태에서 행동 종료 시 \"<font color = \"purple\">천공의 무장</font>\" 효과 획득 :</b> <br/>공격력 <font color=\"red\">+5</font>%  부대 사거리 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>턴 해제 불가 면역 불가</b><br/>쿨타임 <font color=\"red\">6</font>"
         },
         {
-          "Desc": "공격력 <font color=\"red\">+7%</font> </br><b>적에게 선공으로 피해를 입히기 전 적에게 <font color=\"blue\">패시브 봉인</font> 효과 부여</b> 지속 <font color=\"red\">1</font>행동 </br><b>자신에게 인접한 아군이 없는 상태에서 행동 종료 시 \"<font color = \"purple\">천공의 무장</font>\" 효과 획득 :</b> </br>공격력 <font color=\"red\">+7</font>%  부대 사거리 <font color=\"red\">+1</font> </br> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>턴 해제 불가 면역 불가</b></br>쿨타임 <font color=\"red\">6</font>"
+          "Desc": "공격력 <font color=\"red\">+7%</font> <br/><b>적에게 선공으로 피해를 입히기 전 적에게 <font color=\"blue\">패시브 봉인</font> 효과 부여</b> 지속 <font color=\"red\">1</font>행동 <br/><b>자신에게 인접한 아군이 없는 상태에서 행동 종료 시 \"<font color = \"purple\">천공의 무장</font>\" 효과 획득 :</b> <br/>공격력 <font color=\"red\">+7</font>%  부대 사거리 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>턴 해제 불가 면역 불가</b><br/>쿨타임 <font color=\"red\">6</font>"
         },
         {
-          "Desc": "공격력 <font color=\"red\">+10%</font></br><b>적에게 선공으로 피해를 입히기 전 적에게 <font color=\"blue\">패시브 봉인</font> 효과 부여</b> 지속 <font color=\"red\">1</font>행동 </br><b>자신에게 인접한 아군이 없는 상태에서 행동 종료 시 \"<font color = \"purple\">천공의 무장</font>\" 효과 획득 :</b> </br>공격력 <font color=\"red\">+10</font>% 부대 사거리 <font color=\"red\">+1</font> </br> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>턴 해제 불가 면역 불가</b></br>쿨타임 <font color=\"red\">6</font>"
+          "Desc": "공격력 <font color=\"red\">+10%</font><br/><b>적에게 선공으로 피해를 입히기 전 적에게 <font color=\"blue\">패시브 봉인</font> 효과 부여</b> 지속 <font color=\"red\">1</font>행동 <br/><b>자신에게 인접한 아군이 없는 상태에서 행동 종료 시 \"<font color = \"purple\">천공의 무장</font>\" 효과 획득 :</b> <br/>공격력 <font color=\"red\">+10</font>% 부대 사거리 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>턴 해제 불가 면역 불가</b><br/>쿨타임 <font color=\"red\">6</font>"
         },
         {
-          "Desc": "공격력 <font color=\"red\">+12%</font></br><b>적에게 선공으로 피해를 입히기 전 적에게 <font color=\"blue\">패시브 봉인</font> 효과 부여</b> 지속 <font color=\"red\">1</font>행동 </br><b>자신에게 인접한 아군이 없는 상태에서 행동 종료 시 \"<font color = \"purple\">천공의 무장</font>\" 효과 획득 :</b> </br>공격력 <font color=\"red\">+12</font>% 부대 사거리 <font color=\"red\">+1</font> </br> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>턴 해제 불가 면역 불가</b></br>쿨타임 <font color=\"red\">6</font>"
+          "Desc": "공격력 <font color=\"red\">+12%</font><br/><b>적에게 선공으로 피해를 입히기 전 적에게 <font color=\"blue\">패시브 봉인</font> 효과 부여</b> 지속 <font color=\"red\">1</font>행동 <br/><b>자신에게 인접한 아군이 없는 상태에서 행동 종료 시 \"<font color = \"purple\">천공의 무장</font>\" 효과 획득 :</b> <br/>공격력 <font color=\"red\">+12</font>% 부대 사거리 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>턴 해제 불가 면역 불가</b><br/>쿨타임 <font color=\"red\">6</font>"
         },
         {
-          "Desc": "공격력 <font color=\"red\">+15%</font></br><b>적에게 선공으로 피해를 입히기 전 적에게 <font color=\"blue\">패시브 봉인</font> 효과 부여</b> 지속 <font color=\"red\">1</font>행동 </br><b>자신에게 인접한 아군이 없는 상태에서 행동 종료 시 \"<font color = \"purple\">천공의 무장</font>\" 효과 획득 :</b> </br>공격력 <font color=\"red\">+15</font>% 부대 사거리 <font color=\"red\">+1</font> </br> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>턴 해제 불가 면역 불가</b></br>쿨타임 <font color=\"red\">5</font>"
+          "Desc": "공격력 <font color=\"red\">+15%</font><br/><b>적에게 선공으로 피해를 입히기 전 적에게 <font color=\"blue\">패시브 봉인</font> 효과 부여</b> 지속 <font color=\"red\">1</font>행동 <br/><b>자신에게 인접한 아군이 없는 상태에서 행동 종료 시 \"<font color = \"purple\">천공의 무장</font>\" 효과 획득 :</b> <br/>공격력 <font color=\"red\">+15</font>% 부대 사거리 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>턴 해제 불가 면역 불가</b><br/>쿨타임 <font color=\"red\">5</font>"
         }
       ]
     }

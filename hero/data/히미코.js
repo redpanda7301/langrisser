@@ -53,16 +53,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+15%</font>. </br>선공으로 적에게 피해를 입힌 후 <font color=\"red\">50%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴 </br><b>해제 및 면역 불가</b></br><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> </br>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">4</font>턴."
+          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+15%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">50%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴 <br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">4</font>턴."
         },
         {
-          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+20%</font>. </br>선공으로 적에게 피해를 입힌 후 <font color=\"red\">60%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴 </br><b>해제 및 면역 불가</b></br><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> </br>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">4</font>턴."
+          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+20%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">60%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴 <br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">4</font>턴."
         },
         {
-          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+25%</font>. </br>선공으로 적에게 피해를 입힌 후 <font color=\"red\">80%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴 </br><b>해제 및 면역 불가</b></br><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> </br>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">3</font>턴."
+          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+25%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">80%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴 <br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">3</font>턴."
         },
         {
-          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+30%</font>. </br>선공으로 적에게 피해를 입힌 후 <font color=\"red\">100%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴</br><b>해제 및 면역 불가</b></br><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> </br>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">3</font>턴."
+          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+30%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">100%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴<br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">3</font>턴."
         }
       ]
     }

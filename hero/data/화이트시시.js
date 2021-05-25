@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>병사의 생명 제외</b>모든 속성 <font color=\"red\">+10%</font>.</br><b>턴 시작 시</b> <font color=\"red\">+1</font>개의 「<b><font color =\"gold\">전쟁 자금</font></b>」 획득 최대 <font color=\"red\">10</font>중첩.</br><b>행동 종료 전</b> 「<font color=\"blue\">용병 소환</font>」(창병 보병 기병 중 택 1)을 추가 사용.</br>(용병 소환 하기 별도 설명)"
+          "Desc": "<b>병사의 생명 제외</b>모든 속성 <font color=\"red\">+10%</font>.<br/><b>턴 시작 시</b> <font color=\"red\">+1</font>개의 「<b><font color =\"gold\">전쟁 자금</font></b>」 획득 최대 <font color=\"red\">10</font>중첩.<br/><b>행동 종료 전</b> 「<font color=\"blue\">용병 소환</font>」(창병 보병 기병 중 택 1)을 추가 사용.<br/>(용병 소환 하기 별도 설명)"
         },
         {
-          "Desc": "<b>병사의 생명 제외</b>모든 속성 <font color=\"red\">+13%</font>.</br><b>턴 시작 시</b> <font color=\"red\">+1</font>개의 「<b><font color =\"gold\">전쟁 자금</font></b>」 획득 최대 <font color=\"red\">10</font>중첩.</br><b>행동 종료 전</b> 「<font color=\"blue\">용병 소환</font>」(창병 보병 기병 중 택 1)을 추가 사용.</br>(용병 소환 하기 별도 설명)"
+          "Desc": "<b>병사의 생명 제외</b>모든 속성 <font color=\"red\">+13%</font>.<br/><b>턴 시작 시</b> <font color=\"red\">+1</font>개의 「<b><font color =\"gold\">전쟁 자금</font></b>」 획득 최대 <font color=\"red\">10</font>중첩.<br/><b>행동 종료 전</b> 「<font color=\"blue\">용병 소환</font>」(창병 보병 기병 중 택 1)을 추가 사용.<br/>(용병 소환 하기 별도 설명)"
         },
         {
-          "Desc": "<b>병사의 생명 제외</b>모든 속성 <font color=\"red\">+16%</font>.</br><b>턴 시작 시</b> <font color=\"red\">+1</font>개의 「<b><font color =\"gold\">전쟁 자금</font></b>」 획득 최대 <font color=\"red\">10</font>중첩.</br><b>행동 종료 전</b> 「<font color=\"blue\">용병 소환</font>」(창병 보병 기병 중 택 1)을 추가 사용.</br>(용병 소환 하기 별도 설명)"
+          "Desc": "<b>병사의 생명 제외</b>모든 속성 <font color=\"red\">+16%</font>.<br/><b>턴 시작 시</b> <font color=\"red\">+1</font>개의 「<b><font color =\"gold\">전쟁 자금</font></b>」 획득 최대 <font color=\"red\">10</font>중첩.<br/><b>행동 종료 전</b> 「<font color=\"blue\">용병 소환</font>」(창병 보병 기병 중 택 1)을 추가 사용.<br/>(용병 소환 하기 별도 설명)"
         },
         {
-          "Desc": "<b>병사의 생명 제외</b>모든 속성 <font color=\"red\">+20%</font>.</br><b>턴 시작 시</b> <font color=\"red\">+2</font>개의 「<b><font color =\"gold\">전쟁 자금</font></b>」 획득 최대 <font color=\"red\">10</font>중첩.</br><b>행동 종료 전</b> 「<font color=\"blue\">용병 소환</font>」(창병 보병 기병 중 택 1)을 추가 사용.</br>(용병 소환 하기 별도 설명)"
+          "Desc": "<b>병사의 생명 제외</b>모든 속성 <font color=\"red\">+20%</font>.<br/><b>턴 시작 시</b> <font color=\"red\">+2</font>개의 「<b><font color =\"gold\">전쟁 자금</font></b>」 획득 최대 <font color=\"red\">10</font>중첩.<br/><b>행동 종료 전</b> 「<font color=\"blue\">용병 소환</font>」(창병 보병 기병 중 택 1)을 추가 사용.<br/>(용병 소환 하기 별도 설명)"
         }
       ]
     }

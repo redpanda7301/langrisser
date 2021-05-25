@@ -50,19 +50,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "모든능력치 <font color=\"red\">+5%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-5%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
+          "Desc": "모든능력치 <font color=\"red\">+5%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우<br/>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-5%</font>)<br/>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
         },
         {
-          "Desc": "모든능력치 <font color=\"red\">+10%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-10%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
+          "Desc": "모든능력치 <font color=\"red\">+10%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우<br/>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-10%</font>)<br/>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
         },
         {
-          "Desc": "모든능력치 <font color=\"red\">+15%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-15%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
+          "Desc": "모든능력치 <font color=\"red\">+15%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우<br/>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-15%</font>)<br/>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
         },
         {
-          "Desc": "모든능력치 <font color=\"red\">+20%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-20%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
+          "Desc": "모든능력치 <font color=\"red\">+20%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우<br/>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-20%</font>)<br/>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
         },
         {
-          "Desc": "모든능력치 <font color=\"red\">+25%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우</br>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-25%</font>)</br>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
+          "Desc": "모든능력치 <font color=\"red\">+25%</font>. <br/>자신 주변 <font color=\"red\">2</font>칸 내에 아군이 있을경우<br/>아군 <font color=\"red\">1</font>명 마다 모든능력치 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-25%</font>)<br/>전투 진입전 자신의 기술이 적군보다 높으면 적군의 강화버프 <font color=\"red\">1</font>개 강탈."
         }
       ]
     }

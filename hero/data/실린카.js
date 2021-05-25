@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동종료시 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우<br/>입히는 피해 <font color=\"red\">+10%</font> 받는피해 <font color=\"red\">-10%</font> <font color=\"red\">1</font>턴 지속.<br/>[휴면상태]가 아닐 경우 사망 시 생명 <font color=\"red\">90%</font> 회복 후 [휴면상태]:<br/>&#39;행동불가&#39;&#39;효과 종료시 생명 <font color=\"red\">20%</font>회복&#39;<font color=\"red\">3</font>턴 지속.</br>(이 효과는 면역 및 제거불가 전장마다 최대 <font color=\"red\">1</font>회 발동.)."
+          "Desc": "행동종료시 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우<br/>입히는 피해 <font color=\"red\">+10%</font> 받는피해 <font color=\"red\">-10%</font> <font color=\"red\">1</font>턴 지속.<br/>[휴면상태]가 아닐 경우 사망 시 생명 <font color=\"red\">90%</font> 회복 후 [휴면상태]:<br/>&#39;행동불가&#39;&#39;효과 종료시 생명 <font color=\"red\">20%</font>회복&#39;<font color=\"red\">3</font>턴 지속.<br/>(이 효과는 면역 및 제거불가 전장마다 최대 <font color=\"red\">1</font>회 발동.)."
         },
         {
-          "Desc": "행동종료시 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우<br/>입히는 피해 <font color=\"red\">+13%</font> 받는피해 <font color=\"red\">-13%</font> <font color=\"red\">1</font>턴 지속.<br/>[휴면상태]가 아닐 경우 사망 시 생명 <font color=\"red\">90%</font> 회복 후 [휴면상태]:<br/>&#39;행동불가&#39;&#39;효과 종료시 생명 <font color=\"red\">30%</font>회복&#39;<font color=\"red\">2</font>턴 지속.</br>(이 효과는 면역 및 제거불가 전장마다 최대 <font color=\"red\">1</font>회 발동.)."
+          "Desc": "행동종료시 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우<br/>입히는 피해 <font color=\"red\">+13%</font> 받는피해 <font color=\"red\">-13%</font> <font color=\"red\">1</font>턴 지속.<br/>[휴면상태]가 아닐 경우 사망 시 생명 <font color=\"red\">90%</font> 회복 후 [휴면상태]:<br/>&#39;행동불가&#39;&#39;효과 종료시 생명 <font color=\"red\">30%</font>회복&#39;<font color=\"red\">2</font>턴 지속.<br/>(이 효과는 면역 및 제거불가 전장마다 최대 <font color=\"red\">1</font>회 발동.)."
         },
         {
-          "Desc": "행동종료시 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우<br/>입히는 피해 <font color=\"red\">+16%</font> 받는피해 <font color=\"red\">-16%</font> <font color=\"red\">1</font>턴 지속.<br/>[휴면상태]가 아닐 경우 사망 시 생명 <font color=\"red\">90%</font> 회복 후 [휴면상태]:<br/>&#39;행동불가&#39;&#39;효과 종료시 생명 <font color=\"red\">40%</font>회복&#39;<font color=\"red\">2</font>턴 지속.</br>(이 효과는 면역 및 제거불가 전장마다 최대 <font color=\"red\">1</font>회 발동.)."
+          "Desc": "행동종료시 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우<br/>입히는 피해 <font color=\"red\">+16%</font> 받는피해 <font color=\"red\">-16%</font> <font color=\"red\">1</font>턴 지속.<br/>[휴면상태]가 아닐 경우 사망 시 생명 <font color=\"red\">90%</font> 회복 후 [휴면상태]:<br/>&#39;행동불가&#39;&#39;효과 종료시 생명 <font color=\"red\">40%</font>회복&#39;<font color=\"red\">2</font>턴 지속.<br/>(이 효과는 면역 및 제거불가 전장마다 최대 <font color=\"red\">1</font>회 발동.)."
         },
         {
-          "Desc": "행동종료시 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우<br/>입히는 피해 <font color=\"red\">+20%</font> 받는피해 <font color=\"red\">-20%</font> <font color=\"red\">1</font>턴 지속.<br/>[휴면상태]가 아닐 경우 사망 시 생명 <font color=\"red\">90%</font> 회복 후 [휴면상태]:<br/>&#39;행동불가&#39;&#39;효과 종료시 생명 <font color=\"red\">50%</font>회복&#39;<font color=\"red\">1</font>턴 지속.</br>(이 효과는 면역 및 제거불가 전장마다 최대 <font color=\"red\">1</font>회 발동.)."
+          "Desc": "행동종료시 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우<br/>입히는 피해 <font color=\"red\">+20%</font> 받는피해 <font color=\"red\">-20%</font> <font color=\"red\">1</font>턴 지속.<br/>[휴면상태]가 아닐 경우 사망 시 생명 <font color=\"red\">90%</font> 회복 후 [휴면상태]:<br/>&#39;행동불가&#39;&#39;효과 종료시 생명 <font color=\"red\">50%</font>회복&#39;<font color=\"red\">1</font>턴 지속.<br/>(이 효과는 면역 및 제거불가 전장마다 최대 <font color=\"red\">1</font>회 발동.)."
         }
       ]
     }

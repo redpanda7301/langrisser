@@ -53,16 +53,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>선공으로 전투 진입 시 적 마방 <font color=\"red\">10%</font>무시 및</b> </br>치명타 확률 치명타 피해 <font color=\"red\">+10%</font>. </br><b>범위 피해 피격 후 자신과 생명이 가장 낮은 다른 아군</b> </br>생명 회복 (카유라 지력<font color=\"red\">1.5</font>배 수치)"
+          "Desc": "<b>선공으로 전투 진입 시 적 마방 <font color=\"red\">10%</font>무시 및</b> <br/>치명타 확률 치명타 피해 <font color=\"red\">+10%</font>. <br/><b>범위 피해 피격 후 자신과 생명이 가장 낮은 다른 아군</b> <br/>생명 회복 (카유라 지력<font color=\"red\">1.5</font>배 수치)"
         },
         {
-          "Desc": "<b>선공으로 전투 진입 시 적 마방 <font color=\"red\">13%</font>무시 및</b> </br>치명타 확률 치명타 피해 <font color=\"red\">+13%</font>. </br><b>범위 피해 피격 후 자신과 생명이 가장 낮은 다른 아군</b> </br>생명 회복 (카유라 지력<font color=\"red\">2</font>배 수치)"
+          "Desc": "<b>선공으로 전투 진입 시 적 마방 <font color=\"red\">13%</font>무시 및</b> <br/>치명타 확률 치명타 피해 <font color=\"red\">+13%</font>. <br/><b>범위 피해 피격 후 자신과 생명이 가장 낮은 다른 아군</b> <br/>생명 회복 (카유라 지력<font color=\"red\">2</font>배 수치)"
         },
         {
-          "Desc": "<b>선공으로 전투 진입 시 적 마방 <font color=\"red\">16%</font>무시 및</b> </br>치명타 확률 치명타 피해 <font color=\"red\">+16%</font>. </br><b>범위 피해 피격 후 자신과 생명이 가장 낮은 다른 아군</b> </br>생명 회복 (카유라 지력<font color=\"red\">2.5</font>배 수치)"
+          "Desc": "<b>선공으로 전투 진입 시 적 마방 <font color=\"red\">16%</font>무시 및</b> <br/>치명타 확률 치명타 피해 <font color=\"red\">+16%</font>. <br/><b>범위 피해 피격 후 자신과 생명이 가장 낮은 다른 아군</b> <br/>생명 회복 (카유라 지력<font color=\"red\">2.5</font>배 수치)"
         },
         {
-          "Desc": "<b>선공으로 전투 진입 시 적 마방 <font color=\"red\">20%</font>무시 및</b> </br>치명타 확률 치명타 피해 <font color=\"red\">+20%</font>. </br><b>범위 피해 피격 후 자신과 생명이 가장 낮은 다른 아군</b> </br>생명 회복 (카유라 지력<font color=\"red\">3</font>배 수치)"
+          "Desc": "<b>선공으로 전투 진입 시 적 마방 <font color=\"red\">20%</font>무시 및</b> <br/>치명타 확률 치명타 피해 <font color=\"red\">+20%</font>. <br/><b>범위 피해 피격 후 자신과 생명이 가장 낮은 다른 아군</b> <br/>생명 회복 (카유라 지력<font color=\"red\">3</font>배 수치)"
         }
       ]
     }

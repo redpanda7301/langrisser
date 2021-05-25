@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+10%</font>.</br><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-1</font>% 효과 부여 </br>최대 <font color=\"red\">-5</font>%"
+          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+10%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-1</font>% 효과 부여 <br/>최대 <font color=\"red\">-5</font>%"
         },
         {
-          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+13%</font>.</br><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-2</font>% 효과 부여 </br>최대 <font color=\"red\">-10</font>%"
+          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+13%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-2</font>% 효과 부여 <br/>최대 <font color=\"red\">-10</font>%"
         },
         {
-          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+16%</font>.</br><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-3</font>% 효과 부여 </br>최대 <font color=\"red\">-15</font>%"
+          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+16%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-3</font>% 효과 부여 <br/>최대 <font color=\"red\">-15</font>%"
         },
         {
-          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+20%</font>.</br><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-4</font>% 효과 부여 </br>최대 <font color=\"red\">-20</font>%"
+          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+20%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-4</font>% 효과 부여 <br/>최대 <font color=\"red\">-20</font>%"
         }
       ]
     }

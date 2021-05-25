@@ -49,19 +49,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+1%</font> 증가(최대 <font color=\"red\">25%</font>)</br>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">1</font>칸 만큼 이동력 저하 무시"
+          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+1%</font> 증가(최대 <font color=\"red\">25%</font>)<br/>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">1</font>칸 만큼 이동력 저하 무시"
         },
         {
-          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+2%</font> 증가(최대 <font color=\"red\">25%</font>)</br>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">2</font>칸 만큼 이동력 저하 무시"
+          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+2%</font> 증가(최대 <font color=\"red\">25%</font>)<br/>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">2</font>칸 만큼 이동력 저하 무시"
         },
         {
-          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+3%</font> 증가(최대 <font color=\"red\">25%</font>)</br>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">3</font>칸 만큼 이동력 저하 무시"
+          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+3%</font> 증가(최대 <font color=\"red\">25%</font>)<br/>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">3</font>칸 만큼 이동력 저하 무시"
         },
         {
-          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+4%</font> 증가(최대 <font color=\"red\">25%</font>)</br>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">4</font>칸 만큼 이동력 저하 무시"
+          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+4%</font> 증가(최대 <font color=\"red\">25%</font>)<br/>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">4</font>칸 만큼 이동력 저하 무시"
         },
         {
-          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+5%</font> 증가(최대 <font color=\"red\">25%</font>)</br>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">5</font>칸 만큼 이동력 저하 무시"
+          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+5%</font> 증가(최대 <font color=\"red\">25%</font>)<br/>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">5</font>칸 만큼 이동력 저하 무시"
         }
       ]
     }

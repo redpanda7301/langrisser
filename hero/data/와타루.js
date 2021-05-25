@@ -53,16 +53,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%</font>% 상승 최대 (<font color=\"red\">10</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">20</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-15</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%</font>% 상승 최대 (<font color=\"red\">10</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">20</font>% 회복<br/> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-15</font>% <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3%</font>% 상승 최대 (<font color=\"red\">15</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">30</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-20</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3%</font>% 상승 최대 (<font color=\"red\">15</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">30</font>% 회복<br/> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-20</font>% <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4%</font>% 상승 최대 (<font color=\"red\">20</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">45</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-25</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4%</font>% 상승 최대 (<font color=\"red\">20</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">45</font>% 회복<br/> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-25</font>% <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+6%</font>% 상승 최대 (<font color=\"red\">30</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">60</font>% 회복</br> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-30</font>% </br> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+6%</font>% 상승 최대 (<font color=\"red\">30</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">60</font>% 회복<br/> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-30</font>% <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         }
       ]
     }

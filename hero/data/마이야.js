@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸내 적군이 있을 시 지력 <font color=\"red\">+5%</font></br>적 부대에 피해를 입히기 전 <font color=\"red\">50%</font> 확률로<br/> 적군의 강화효과 <font color=\"red\">1</font>개 제거 및 받는피해 <font color=\"red\">+5%</font> <font color=\"red\">1</font>턴 지속.</br>행동 종료시 <font color=\"red\">2</font>칸내 다른 아군 부대의 약화효과 <font color=\"red\">1</font>개 제거."
+          "Desc": "주위 <font color=\"red\">2</font>칸내 적군이 있을 시 지력 <font color=\"red\">+5%</font><br/>적 부대에 피해를 입히기 전 <font color=\"red\">50%</font> 확률로<br/> 적군의 강화효과 <font color=\"red\">1</font>개 제거 및 받는피해 <font color=\"red\">+5%</font> <font color=\"red\">1</font>턴 지속.<br/>행동 종료시 <font color=\"red\">2</font>칸내 다른 아군 부대의 약화효과 <font color=\"red\">1</font>개 제거."
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸내 적군이 있을 시 지력 <font color=\"red\">+8%</font></br>적 부대에 피해를 입히기 전 <font color=\"red\">60%</font> 확률로<br/> 적군의 강화효과 <font color=\"red\">1</font>개 제거 및 받는피해 <font color=\"red\">+10%</font> <font color=\"red\">1</font>턴 지속.</br>행동 종료시 <font color=\"red\">2</font>칸내 다른 아군 부대의 약화효과 <font color=\"red\">1</font>개 제거."
+          "Desc": "주위 <font color=\"red\">2</font>칸내 적군이 있을 시 지력 <font color=\"red\">+8%</font><br/>적 부대에 피해를 입히기 전 <font color=\"red\">60%</font> 확률로<br/> 적군의 강화효과 <font color=\"red\">1</font>개 제거 및 받는피해 <font color=\"red\">+10%</font> <font color=\"red\">1</font>턴 지속.<br/>행동 종료시 <font color=\"red\">2</font>칸내 다른 아군 부대의 약화효과 <font color=\"red\">1</font>개 제거."
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font>칸내 적군이 있을 시 지력 <font color=\"red\">+11%</font></br>적 부대에 피해를 입히기 전 <font color=\"red\">80%</font> 확률로<br/> 적군의 강화효과 <font color=\"red\">1</font>개 제거 및 받는피해 <font color=\"red\">+15%</font> <font color=\"red\">1</font>턴 지속.</br>행동 종료시 <font color=\"red\">3</font>칸내 다른 아군 부대의 약화효과 <font color=\"red\">1</font>개 제거."
+          "Desc": "주위 <font color=\"red\">3</font>칸내 적군이 있을 시 지력 <font color=\"red\">+11%</font><br/>적 부대에 피해를 입히기 전 <font color=\"red\">80%</font> 확률로<br/> 적군의 강화효과 <font color=\"red\">1</font>개 제거 및 받는피해 <font color=\"red\">+15%</font> <font color=\"red\">1</font>턴 지속.<br/>행동 종료시 <font color=\"red\">3</font>칸내 다른 아군 부대의 약화효과 <font color=\"red\">1</font>개 제거."
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font>칸내 적군이 있을 시 지력 <font color=\"red\">+15%</font></br>적 부대에 피해를 입히기 전 <font color=\"red\">100%</font> 확률로<br/> 적군의 강화효과 <font color=\"red\">1</font>개 제거 및 받는피해 <font color=\"red\">+20%</font> <font color=\"red\">1</font>턴 지속.</br>행동 종료시 <font color=\"red\">3</font>칸내 다른 아군 부대의 약화효과 <font color=\"red\">1</font>개 제거."
+          "Desc": "주위 <font color=\"red\">3</font>칸내 적군이 있을 시 지력 <font color=\"red\">+15%</font><br/>적 부대에 피해를 입히기 전 <font color=\"red\">100%</font> 확률로<br/> 적군의 강화효과 <font color=\"red\">1</font>개 제거 및 받는피해 <font color=\"red\">+20%</font> <font color=\"red\">1</font>턴 지속.<br/>행동 종료시 <font color=\"red\">3</font>칸내 다른 아군 부대의 약화효과 <font color=\"red\">1</font>개 제거."
         }
       ]
     }

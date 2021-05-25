@@ -61,16 +61,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신의 <font color=\"red\">1</font> 바퀴내 적군 <font color=\"red\">1</font>명당 생명력을 제외한 모든 능력치 <font color=\"red\">+2%</font>(최대 <font color=\"red\">8%</font>).</br>이동시 적을 무시한 이동 피해를 입히기전 및 행동 종료시</br>해당 회합내에 무시한 적군 이동 <font color=\"red\">1</font>명당 <font color=\"red\">1</font>개의 [약진]효과 획득</br>[약진]:&#39;치명률 <font color=\"red\">+5%</font> 중첩가능(최대중첩 <font color=\"red\">5</font>개)&#39;</br>치명타 발생시 행동 종료시 획득한 모든 [약진]효과 소모."
+          "Desc": "자신의 <font color=\"red\">1</font> 바퀴내 적군 <font color=\"red\">1</font>명당 생명력을 제외한 모든 능력치 <font color=\"red\">+2%</font>(최대 <font color=\"red\">8%</font>).<br/>이동시 적을 무시한 이동 피해를 입히기전 및 행동 종료시<br/>해당 회합내에 무시한 적군 이동 <font color=\"red\">1</font>명당 <font color=\"red\">1</font>개의 [약진]효과 획득<br/>[약진]:&#39;치명률 <font color=\"red\">+5%</font> 중첩가능(최대중첩 <font color=\"red\">5</font>개)&#39;<br/>치명타 발생시 행동 종료시 획득한 모든 [약진]효과 소모."
         },
         {
-          "Desc": "자신의 <font color=\"red\">2</font> 바퀴내 적군 <font color=\"red\">1</font>명당 생명력을 제외한 모든 능력치 <font color=\"red\">+3%</font>(최대 <font color=\"red\">12%</font>).</br>이동시 적을 무시한 이동 피해를 입히기전 및 행동 종료시</br>해당 회합내에 무시한 적군 이동 <font color=\"red\">1</font>명당 <font color=\"red\">1</font>개의 [약진]효과 획득</br>[약진]:&#39;치명률 <font color=\"red\">+6%</font> 중첩가능(최대중첩 <font color=\"red\">5</font>개)&#39;</br>치명타 발생시 행동 종료시 획득한 모든 [약진]효과 소모."
+          "Desc": "자신의 <font color=\"red\">2</font> 바퀴내 적군 <font color=\"red\">1</font>명당 생명력을 제외한 모든 능력치 <font color=\"red\">+3%</font>(최대 <font color=\"red\">12%</font>).<br/>이동시 적을 무시한 이동 피해를 입히기전 및 행동 종료시<br/>해당 회합내에 무시한 적군 이동 <font color=\"red\">1</font>명당 <font color=\"red\">1</font>개의 [약진]효과 획득<br/>[약진]:&#39;치명률 <font color=\"red\">+6%</font> 중첩가능(최대중첩 <font color=\"red\">5</font>개)&#39;<br/>치명타 발생시 행동 종료시 획득한 모든 [약진]효과 소모."
         },
         {
-          "Desc": "자신의 <font color=\"red\">2</font> 바퀴내 적군 <font color=\"red\">1</font>명당 생명력을 제외한 모든 능력치 <font color=\"red\">+4%</font>(최대 <font color=\"red\">16%</font>).</br>이동시 적을 무시한 이동 피해를 입히기전 및 행동 종료시</br>해당 회합내에 무시한 적군 이동 <font color=\"red\">1</font>명당 <font color=\"red\">1</font>개의 [약진]효과 획득</br>[약진]:&#39;치명률 <font color=\"red\">+7%</font> 중첩가능(최대중첩 <font color=\"red\">5</font>개)&#39;</br>치명타 발생시 행동 종료시 획득한 모든 [약진]효과 소모."
+          "Desc": "자신의 <font color=\"red\">2</font> 바퀴내 적군 <font color=\"red\">1</font>명당 생명력을 제외한 모든 능력치 <font color=\"red\">+4%</font>(최대 <font color=\"red\">16%</font>).<br/>이동시 적을 무시한 이동 피해를 입히기전 및 행동 종료시<br/>해당 회합내에 무시한 적군 이동 <font color=\"red\">1</font>명당 <font color=\"red\">1</font>개의 [약진]효과 획득<br/>[약진]:&#39;치명률 <font color=\"red\">+7%</font> 중첩가능(최대중첩 <font color=\"red\">5</font>개)&#39;<br/>치명타 발생시 행동 종료시 획득한 모든 [약진]효과 소모."
         },
         {
-          "Desc": "자신의 <font color=\"red\">3</font> 바퀴내 적군 <font color=\"red\">1</font>명당 생명력을 제외한 모든 능력치 <font color=\"red\">+5%</font>(최대 <font color=\"red\">20%</font>).</br>이동시 적을 무시한 이동 피해를 입히기전 및 행동 종료시</br>해당 회합내에 무시한 적군 이동 <font color=\"red\">1</font>명당 <font color=\"red\">1</font>개의 [약진]효과 획득</br>[약진]:&#39;치명률 <font color=\"red\">+8%</font> 중첩가능(최대중첩 <font color=\"red\">5</font>개)&#39;</br>치명타 발생시 행동 종료시 획득한 모든 [약진]효과 소모."
+          "Desc": "자신의 <font color=\"red\">3</font> 바퀴내 적군 <font color=\"red\">1</font>명당 생명력을 제외한 모든 능력치 <font color=\"red\">+5%</font>(최대 <font color=\"red\">20%</font>).<br/>이동시 적을 무시한 이동 피해를 입히기전 및 행동 종료시<br/>해당 회합내에 무시한 적군 이동 <font color=\"red\">1</font>명당 <font color=\"red\">1</font>개의 [약진]효과 획득<br/>[약진]:&#39;치명률 <font color=\"red\">+8%</font> 중첩가능(최대중첩 <font color=\"red\">5</font>개)&#39;<br/>치명타 발생시 행동 종료시 획득한 모든 [약진]효과 소모."
         }
       ]
     }

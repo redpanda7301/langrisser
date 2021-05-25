@@ -50,19 +50,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "부대생명 <font color=\"red\">100%</font> 미만시 공격기술 <font color=\"red\">+10%</font></br>전투진입전 만약 자신의 기술이 적군보다 높을시</br>적군에게 강력한 디버프를 <font color=\"red\">1</font>개 부여한다."
+          "Desc": "부대생명 <font color=\"red\">100%</font> 미만시 공격기술 <font color=\"red\">+10%</font><br/>전투진입전 만약 자신의 기술이 적군보다 높을시<br/>적군에게 강력한 디버프를 <font color=\"red\">1</font>개 부여한다."
         },
         {
-          "Desc": "부대생명 <font color=\"red\">100%</font> 미만시 공격기술 <font color=\"red\">+15%</font></br>전투진입전 만약 자신의 기술이 적군보다 높을시</br>적군에게 강력한 디버프를 <font color=\"red\">1</font>개 부여한다."
+          "Desc": "부대생명 <font color=\"red\">100%</font> 미만시 공격기술 <font color=\"red\">+15%</font><br/>전투진입전 만약 자신의 기술이 적군보다 높을시<br/>적군에게 강력한 디버프를 <font color=\"red\">1</font>개 부여한다."
         },
         {
-          "Desc": "부대생명 <font color=\"red\">100%</font> 미만시 공격기술 <font color=\"red\">+20%</font></br>전투진입전 만약 자신의 기술이 적군보다 높을시</br>적군에게 강력한 디버프를 <font color=\"red\">1</font>개 부여한다."
+          "Desc": "부대생명 <font color=\"red\">100%</font> 미만시 공격기술 <font color=\"red\">+20%</font><br/>전투진입전 만약 자신의 기술이 적군보다 높을시<br/>적군에게 강력한 디버프를 <font color=\"red\">1</font>개 부여한다."
         },
         {
-          "Desc": "부대생명 <font color=\"red\">100%</font> 미만시 공격기술 <font color=\"red\">+25%</font></br>전투진입전 만약 자신의 기술이 적군보다 높을시</br>적군에게 강력한 디버프를 <font color=\"red\">1</font>개 부여한다."
+          "Desc": "부대생명 <font color=\"red\">100%</font> 미만시 공격기술 <font color=\"red\">+25%</font><br/>전투진입전 만약 자신의 기술이 적군보다 높을시<br/>적군에게 강력한 디버프를 <font color=\"red\">1</font>개 부여한다."
         },
         {
-          "Desc": "부대생명 <font color=\"red\">100%</font> 미만시 공격기술 <font color=\"red\">+30%</font></br>전투진입전 만약 자신의 기술이 적군보다 높을시</br>적군에게 강력한 디버프를 <font color=\"red\">1</font>개 부여한다."
+          "Desc": "부대생명 <font color=\"red\">100%</font> 미만시 공격기술 <font color=\"red\">+30%</font><br/>전투진입전 만약 자신의 기술이 적군보다 높을시<br/>적군에게 강력한 디버프를 <font color=\"red\">1</font>개 부여한다."
         }
       ]
     }

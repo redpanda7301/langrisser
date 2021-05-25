@@ -57,16 +57,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">2</font>% 범위 피해량 최대(<font color=\"red\">+10%</font>)</br>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
+          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">2</font>% 범위 피해량 최대(<font color=\"red\">+10%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
         },
         {
-          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">3</font>% 범위 피해량 최대(<font color=\"red\">+15%</font>)</br>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
+          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">3</font>% 범위 피해량 최대(<font color=\"red\">+15%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
         },
         {
-          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">4</font>% 범위 피해량 최대(<font color=\"red\">+20%</font>)</br>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
+          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">4</font>% 범위 피해량 최대(<font color=\"red\">+20%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
         },
         {
-          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">6</font>% 범위 피해량 최대(<font color=\"red\">+30%</font>)</br>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
+          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">6</font>% 범위 피해량 최대(<font color=\"red\">+30%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
         }
       ]
     }
