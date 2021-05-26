@@ -2,7 +2,7 @@
 {
   "Skins": [
     {
-      "ImageUrl": "크리스티안느/1.png",
+      "ImageUrl": "크리스티안느/1.webp",
       "Desc": "기본"
     },
     {

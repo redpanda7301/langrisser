@@ -529,6 +529,32 @@
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
+    },
+    {
+      "Name": "의지의 창",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "직선 2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/Super/세레나.png",
+      "Desc": "[지휘]<b>주위 <font color=\"red\">3</font>칸 범위 내 아군이 부대 생명이 <font color=\"red\">100</font>%일 때 영웅이 받는 피해 <font color=\"red\">-25</font>%</b><br/>[물리피해]<b>직선 상 단일 개체에게 <font color=\"red\">1.5</font>배 피해를 준다. 전투 진입 전 '<font color=\"blue\">전력 찌르기</font>효과 획득:'</b><br/>방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, 지속 <font color=\"#DC143C\">2턴</font><br/>위치 이동 효과 : <b>목표를 <font color =\"red\">3</font>칸 밀치며, 그 경로에 다른 부대나 진입 불가 지형이 있을 경우 <font color =\"red\">기절</font>시킴</font><br/>지속 <font color =\"red\">1</font>행동<br/><b>근접전 병사 대동 시 병사도 함꼐 공격</b><br/><b>(해당 스킬은 근접전 패널티의 영향을 받지 않는다.)</b>",
+      "SubSkills": null,
+      "Animation": "../img/Super/세레나.gif"
     }
   ],
   "Bio": [

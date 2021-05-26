@@ -76,7 +76,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "자경단의 투구(투구)",
+    "Stats": "생명 437,마방 59",
+    "Icon": "아레스.png",
+    "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%, 방어 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<<br/><b>자신이 <font color =\"blue\">초절강화 특수효과</font> 보유시</b><br/>영웅의 일반 공격 피해량 <font color =\"red\">+30</font>%<br/><b>선공으로 전투 진입 전 추가로 <font color =\"blue\">약탈</font>효과 획득</font><br/>(<b>전투 후 상대가 가진 <font color=\"blue\">버프</font>를</b> 최대 <font color=\"red\">3</font>개를 빼앗아온다.)"
+  },
   "Soldiers": [
     28,
     31,

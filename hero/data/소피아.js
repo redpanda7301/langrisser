@@ -599,6 +599,32 @@
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
+    },
+    {
+      "Name": "빛의 정화",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
+      "IconImageUrl": "../img/Super/소피아.png",
+      "Desc": "[패시브]<b><font color=\"orange\">고유 스킬</font>로 부가되는 <font color=\"blue\">강화 효과</font>가 제거 불가</b><br/>[치료]<b>범위 내 모든 아군에게</b> 걸린 <font color=\"purple\">디버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"red\">3</font>배 수치로 생명 회복",
+      "SubSkills": null,
+      "Animation": "../img/Super/소피아.gif"
     }
   ],
   "Bio": [
