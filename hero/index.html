@@ -90,10 +90,10 @@
                             <th>희귀도</th>
                             <td colspan="3">
                                 <%_.each(Rank, function(rank) {%>
-                                <img src="../img/type/<%=rank%>.png" />
+                                <img src="https://storage.googleapis.com/langmosheet-data/img/type/<%=rank%>.png" />
                                 <%});%>
                                 <%if (SP) {%>
-                                <img src="../img/type/SP.png" width="16%" />
+                                <img src="https://storage.googleapis.com/langmosheet-data/img/type/SP.png" width="16%" />
                                 <%}%>
                             </td>
                         </tr>
@@ -101,7 +101,7 @@
                             <th>세력</th>
                             <td colspan="3">
                                 <%_.each(Groups, function(group) {%>
-                                <img src="../img/group/<%=group%>.png" width="32" height="32" />
+                                <img src="https://storage.googleapis.com/langmosheet-data/img/group/<%=group%>.png" width="32" height="32" />
                                 <%});%>
                             </td>
                         </tr>
@@ -146,7 +146,7 @@
                         _.each(Fetters, function(fetter) {
                         %>
                         <tr>
-                            <th><img src="../img/Icon/Spirit<%=index%>.png" width="32" height="32" /></th>
+                            <th><img src="https://storage.googleapis.com/langmosheet-data/img/Icon/Spirit<%=index%>.png" width="32" height="32" /></th>
                             <td colspan="3"><%=fetter.Condition%></td>
                         </tr>                
                         <%
@@ -154,25 +154,25 @@
                         });
                         %>
                         <tr>
-                            <th><img src="../img/Icon/Icon_pink.png" width="32" height="32" /></th>
+                            <th><img src="https://storage.googleapis.com/langmosheet-data/img/Icon/Icon_pink.png" width="32" height="32" /></th>
                             <td colspan="3"><%=HeartFetter%></td>
                         </tr>
                     </table>
                 </section>
             </div>
         </script>
-
+        
         <!-- Talent & Soldier Info -->
         <script type="text/html" id="talent-soldier-info-template">
             <div class="col-7 col-12-medium">
                 <section>
                     <table>
                         <tr><th colspan="2">고유기술 : <%=Talent[0].Name%></th></tr>
-                        <tr><td><img src="../img/ability/<%=Talent[0].Icon%>" width="100px" height="90px" /></td><th><input id="input-4" name="input-4" value="6" class="rating-loading"></th>
+                        <tr><td><img src="https://storage.googleapis.com/langmosheet-data/img/ability/<%=Talent[0].Icon%>" width="100px" height="90px" /></td><th><input id="input-4" name="input-4" value="6" class="rating-loading"></th>
                         <tr><td colspan="2"><span id="kv-caption"></span></td></tr>
                         <%if (SPTalent != null) {%>
                         <tr><th colspan="2">SP 고유기술 : <%=SPTalent[0].Name%></th></tr>
-                        <tr><td><img src="../img/ability/<%=SPTalent[0].Icon%>" width="100px" height="90px" /></td><th><input id="input-5" name="input-5" value="6" class="rating-loading"></th>
+                        <tr><td><img src="https://storage.googleapis.com/langmosheet-data/img/ability/<%=SPTalent[0].Icon%>" width="100px" height="90px" /></td><th><input id="input-5" name="input-5" value="6" class="rating-loading"></th>
                         <tr><td colspan="2"><span id="sp-caption"></span></td></tr>
                         <%}%>
                         <% if (Equip != null) {%>
@@ -184,7 +184,7 @@
                             <td><%=Equip.Stats%></td>
                         </tr>
                         <tr>
-                            <th><img src="../img/equip/<%=Equip.Icon%>" width="100px" /></th>
+                            <th><img src="https://storage.googleapis.com/langmosheet-data/img/equip/<%=Equip.Icon%>" width="100px" /></th>
                             <td>
                                 <%=Equip.Ability%>
                             </td>
@@ -195,7 +195,7 @@
                         <tr>
                             <td colspan="2">
                                 <%_.each(Soldiers, function(soldier) {%>
-                                <span><img src="../img/troop/<%=soldier%>.png" /></span>
+                                <span><img src="https://storage.googleapis.com/langmosheet-data/img/troop/<%=soldier%>.png" /></span>
                                 <%});%>
                             </td>
                         </tr>
@@ -223,21 +223,21 @@
                         </colgroup>
                         <tr>
                             <th rowspan="2">클래스</th>
-                            <td colspan="3"><%=job.Name%><img src="../img/troop/<%=job.Icon%>" width="35px" /></td>
+                            <td colspan="3"><%=job.Name%><img src="https://storage.googleapis.com/langmosheet-data/img/troop/<%=job.Icon%>" width="35px" /></td>
                         <tr>
                             <td colspan="4">
                                 <%_.each(job.SD, function(sd) {%>
                                 <div class="class<%=index%>">
-                                    <img src="../img/SD/<%=sd.ImageUrl%>" style=" height:131px">
+                                    <img src="https://storage.googleapis.com/langmosheet-data/img/SD/<%=sd.ImageUrl%>" style=" height:131px">
                                 </div>
                                 <%});%>                               
                             </td>
                         </tr>
                         </tr>
                         <tr>
-                            <th><img src="../img/Icon/Icon_Range.png" width="30px" /></th>
+                            <th><img src="https://storage.googleapis.com/langmosheet-data/img/Icon/Icon_Range.png" width="30px" /></th>
                             <td><%=job.AttkRange%></td>
-                            <th><img src="../img/Icon/Move_<%=job.MoveType%>.png" width="30px" /></th>
+                            <th><img src="https://storage.googleapis.com/langmosheet-data/img/Icon/Move_<%=job.MoveType%>.png" width="30px" /></th>
                             <td><%=job.Move%></td>
                         </tr>
                         <tr>
@@ -317,7 +317,7 @@
                             <th>중앙2~10순서</th>
                             <td class="td_rank">
                                 <%_.each(Materials.HeartFetter, function(material) {%>
-                                <img src="../img/heart/<%=material%>.png">
+                                <img src="https://storage.googleapis.com/langmosheet-data/img/heart/<%=material%>.png">
                                 <%});%>
                             </td>
                         </tr>
@@ -325,7 +325,7 @@
                             <th>유대</th>
                             <td class="td_rank">
                                 <%_.each(Materials.Fetter, function(material) {%>
-                                    <img src="../img/heart/<%=material%>.png">
+                                    <img src="https://storage.googleapis.com/langmosheet-data/img/heart/<%=material%>.png">
                                 <%});%>                                
                             </td>
                         </tr>
@@ -333,7 +333,7 @@
                             <th>각성</th>
                             <td class="td_rank">
                                 <%_.each(Materials.Awaken, function(material) {%>
-                                    <img src="../img/classup/<%=material%>.png">
+                                    <img src="https://storage.googleapis.com/langmosheet-data/img/classup/<%=material%>.png">
                                 <%});%>
                             </td>
                         </tr>
@@ -367,7 +367,7 @@
                             <th><%=tier.Name%></th>
                             <td class="td_rank">
                                 <%_.each(tier.Materials, function(material) {%>
-                                <img src="../img/classup/<%=material%>.png">
+                                <img src="https://storage.googleapis.com/langmosheet-data/img/classup/<%=material%>.png">
                                 <%});%>                                
                             </td>
                         </tr>

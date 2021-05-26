@@ -353,7 +353,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/17.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.png",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -379,7 +379,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/18.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.png",
       "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -405,7 +405,7 @@
           "Value": ""
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Alice2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Alice2.png",
       "Desc": "[액티브] 범위 안의 임의 1칸으로 이동하며<br/>행동 종료시 \"주위 2칸 범위 내 모든 아군의 생명 회복<br/>회복량은 지력의 2배\", 2턴 지속 효과 획득",
       "SubSkills": null,
       "Animation": null
@@ -431,7 +431,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/skills/23.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.png",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -445,7 +445,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_AuraMDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraMDefUp.png",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 마방 +15%.",
       "SubSkills": null,
       "Animation": null
@@ -471,7 +471,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_MassMDefKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.png",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -485,7 +485,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_DefBuf3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.png",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -511,7 +511,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Alice1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Alice1.png",
       "Desc": "[액티브] 아군 1부대를 범위 안의 임의 1칸으로 이동시키며<br/>지형 이동력 저하 면역, 입히는 피해+20%,받는피해 -20% 버프,2턴 지속.<br/><b>(위치 이동 범위는 대상을 기준으로 5칸)</b><br/>(유저의 부대에게만 쓸 수 있다.)",
       "SubSkills": null,
       "Animation": null

@@ -384,7 +384,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Thump.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -398,7 +398,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_AtkBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf2.png",
       "Desc": "[패시브]전투 진입 시 자신 부대 공격 +7%.",
       "SubSkills": null,
       "Animation": null
@@ -412,7 +412,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.png",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -438,7 +438,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_MassATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.png",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -452,7 +452,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Again.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -466,7 +466,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Dedication.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Dedication.png",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br/>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -492,7 +492,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Mariel/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mariel/1.png",
       "Desc": "[치료] 액티브 스킬. 단일 개체 생명 회복, <br/>회복량은 술자 공격의 <font color=\"red\">3.5배</font> 수치, 디버프 <font color=\"red\">2</font>개 제거.",
       "SubSkills": null,
       "Animation": null
@@ -518,7 +518,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Mariel/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mariel/2.png",
       "Desc": "[지원]액티브 스킬, 자신에게 걸린 디버프 <font color=\"red\">2</font>개 제거 및 <br/>부대 생명 <font color=\"red\">30</font>% 회복, 사용 후 재행동 <font color=\"red\">2</font>칸.",
       "SubSkills": null,
       "Animation": null
@@ -544,7 +544,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Mariel/3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mariel/3.png",
       "Desc": "[지원] 액티브. 범위 내 아군 생명 회복, 회복량은 술자 공격의 <font color=\"red\">2.5</font>배 수치, <br/>디버프 <font color=\"red\">1</font>개 제거 및 <font color=\"red\">2</font>개의 랜덤한 면역 효과 부여, 지속 <font color=\"red\">2</font>행동. <br/>자신에게 걸린 [계율] 효과가 사라진 후, 해당 스킬은 [성왕의 맹렬한 공격]으로 변경",
       "SubSkills": null,
       "Animation": null
@@ -570,7 +570,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Mariel/4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mariel/4.png",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배 피해, <br/>적을 위치 이동 시킴 : 목표를 <font color=\"red\">3</font>칸 밀침, <br/>전투 후 피해량 <font color=\"red\">50</font>% 수치로 생명 회복, 재이동 <font color=\"red\">2</font>칸",
       "SubSkills": null,
       "Animation": null

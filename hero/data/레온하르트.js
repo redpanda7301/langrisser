@@ -354,7 +354,7 @@
           "Value": "주위 1칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_FireOnikiri.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FireOnikiri.png",
       "Desc": "[물리 피해]자신 주위 1칸 내 모든 적군에게 0.25배 범위 피해를 입힌다.<br/>모든 스킬 쿨타임 -1턴.",
       "SubSkills": null,
       "Animation": null
@@ -380,7 +380,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/0.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/0.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -394,7 +394,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Cancel.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.png",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -420,7 +420,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Teleporting.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Teleporting.png",
       "Desc": "[지원]액티브 스킬, 자신을 순간이동하여 임의의 위치로 이동할 시<br/>이동력 +1, 자신 부대가 받는 피해 -30%,[검기]버프 시전:<br/>공격하여 전투 시 주위 1칸 내 모든 적군에게 0.1배 범위 피해를 입힌다. 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -446,7 +446,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_ZeroStorm.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ZeroStorm.png",
       "Desc": "[물리 피해]라인에 있는 모든 적군을 관통하며 0.25배 범위 피해를 입힌다.<br/>25%확률로 적에게 기절 시전, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -472,7 +472,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -486,7 +486,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_AtkBuf6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.png",
       "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -512,7 +512,7 @@
           "Value": "주위 2칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_ShadowSword.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ShadowSword.png",
       "Desc": "[물리 피해]자신 주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>적의 2개 버프를 제거, 적이 재이동 시전 불가, 3턴 지속.(제거 불가).",
       "SubSkills": null,
       "Animation": null

@@ -403,7 +403,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_SwordDance.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordDance.png",
       "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -417,7 +417,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.png",
       "Desc": "[패시브]근접 공격으로 전투 진입 시 전투 후 30% 확률로 <br/>이번 전투에서 준 피해량 30%의 생명을 회복한다",
       "SubSkills": null,
       "Animation": null
@@ -443,7 +443,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_ShieldStrike.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ShieldStrike.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 피해를 준다.<br/>전투 진입 전 적 부대를 1턴 동안 '기절'시킨다.",
       "SubSkills": null,
       "Animation": null
@@ -457,7 +457,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Parry.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parry.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격의 7%를 방어에 추가한다.",
       "SubSkills": null,
       "Animation": null
@@ -471,7 +471,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Parry.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.png",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -485,7 +485,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Empire.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Empire.png",
       "Desc": "[패시브]근접 공격으로 전투 진입전 상대가 보유한 버프 1개 제거 및<br/>상대 부대 방어-20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -511,7 +511,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "../img/skills/SuperBuff_Empire2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Empire2.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '제국의 빛' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>상성에서 유리한 부대와 전투 시 주는 피해량 +20%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -525,7 +525,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Cut.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cut.png",
       "Desc": "[패시브]공격하여 피해를 준 후 적 부대에게 한 번 더 추가[고정 피해]를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -551,7 +551,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_IronHand.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IronHand.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br/>[응수]효과 획득, 2턴 지속.",
       "SubSkills": null,
       "Animation": null

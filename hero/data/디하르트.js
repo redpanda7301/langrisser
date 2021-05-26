@@ -402,7 +402,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_KnightCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -416,7 +416,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/13.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.png",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -442,7 +442,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/5.png",
       "Desc": "[지원]액티브 스킬, 공격 +20%, 1턴 지속.<br/>사용 후 3칸 추가 이동 및 재공격 가능.",
       "SubSkills": null,
       "Animation": null
@@ -456,7 +456,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_KnightWave.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.png",
       "Desc": "[패시브]전투 전 이동거리 1칸마다 <br/>부대 치명타율 +5%,치명타 피해량 +5%(최대 +15%)",
       "SubSkills": null,
       "Animation": null
@@ -482,7 +482,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Assault.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Assault.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.7배의 피해를 준다.<br/>전투 후 상대의 이동력 -2 및 '호위 불가'부여, 2턴 지속, 이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
@@ -496,7 +496,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Ass1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass1.png",
       "Desc": "[패시브]전투 중 치명타가 발생한 경우<br/>전투 후 적에게 [고정 피해]를 준다.(피해량은 영웅 공격의 2배)",
       "SubSkills": null,
       "Animation": null
@@ -522,7 +522,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "../img/skills/SuperBuff_Origin1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Origin1.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 기원' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 <br/>자신 부대가 버프를 5개 이상 가지고 있을 경우 전투 중 주는 피해량 +15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -548,7 +548,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_BladeSuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeSuper.png",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>전투 전 상대가 가진 버프를 최대 2개 뺏어온다.",
       "SubSkills": null,
       "Animation": null
@@ -562,7 +562,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Cancel.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.png",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null

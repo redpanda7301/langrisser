@@ -670,7 +670,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_FlyCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 [바람 타기]획득:생명이 50% 이상인 경우 전투 진입 시 받는 피해량 -15%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -684,7 +684,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_PHeal1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.png",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
       "SubSkills": null,
       "Animation": null
@@ -698,7 +698,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_AuraDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefUp.png",
       "Desc": "[지휘] 주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -712,7 +712,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/16.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/16.png",
       "Desc": "[패시브] 행동 종료 시 20% 확률로 재행동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -738,7 +738,7 @@
           "Value": "2칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_DragonSuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DragonSuper.png",
       "Desc": "[물리 피해]주위 2칸 내 모든 적군에게 0.36배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤 디버프를 시전, 전투 후 [바람 타기]시전:<br/>생명 50%이상으로 전투 진입 시 받는 피해 -15%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -752,7 +752,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Parry.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parry.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격의 7%를 방어에 추가한다.",
       "SubSkills": null,
       "Animation": null
@@ -778,7 +778,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "../img/skills/SuperBuff_WisdomAndCourage1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_WisdomAndCourage1.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '전략의 대가' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 이동 시 지나가는 지형을 모두 '평지'로 본다.<br/>방어 상승 효과를 가진 지형에 위치할 경우 전투 중 주는 피해량 +15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -804,7 +804,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_SpearSoul.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SpearSoul.png",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 상승, [응수],[미늘]효과를 시전하며 3턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -818,7 +818,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_DefBuf4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.png",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -832,7 +832,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/sp/알테뮬러/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/알테뮬러/1.png",
       "Desc": "[패시브]이동 시 적 통과 가능. <b>근접 전으로 전투 진입 전</b> <br/>자신이 보유한 '<font color=\"blue\">무쌍</font>' 스택 당 생명 <font color=\"red\">10</font>% 회복 (최대 30%)<br/><b>선공으로 피해를 입힌 후 행동 종료 시</b> <font color=\"red\">2</font>칸 <font color=\"blue\">이동력 저하 면제</font> 획득,<br/> 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -858,7 +858,7 @@
           "Value": "2바퀴"
         }
       ],
-      "IconImageUrl": "../img/skills/sp/알테뮬러/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/알테뮬러/2.png",
       "Desc": "[물리피해]주위 <font color=\"red\">2</font>바퀴 범위 내 적에게 <font color=\"red\">0.1배</font> 피해, <br/><b>전투 후</b> '<font color=\"blue\">바람 타기</font>' 효과 획득, 지속 <font color=\"red\">1</font>행동<br/><b>피해를 입힌 후 명중한 모든 적을 자신 주위로</b> <font color=\"blue\">텔레포트</font>,<br/><b>만약 자신이 '<font color=\"blue\">초절강화</font>' 특수 효과를 보유하고 <font color=\"red\">3</font>명 이상의 적과 인접 시</b>,<br/><b>재공격 가능 (이동 및 재이동 불가)</b> <br/>쿨타임 <font color=\"red\">3</font>행동, (<b><font color=\"blue\">재행동</font> 발동 시 보유 버프 지속 시간이 감소하지 않음</b>)",
       "SubSkills": null,
       "Animation": null

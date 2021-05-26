@@ -425,7 +425,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/0.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/0.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -439,7 +439,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.png",
       "Desc": "[패시브]근접 공격으로 전투 진입 시 전투 후 30% 확률로 <br/>이번 전투에서 준 피해량 30%의 생명을 회복한다",
       "SubSkills": null,
       "Animation": null
@@ -465,7 +465,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/6.png",
       "Desc": "[물리 피해] 호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -479,7 +479,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/12.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/12.png",
       "Desc": "[패시브] 공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -493,7 +493,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/10.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.png",
       "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br/>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
       "SubSkills": null,
       "Animation": null
@@ -507,7 +507,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.png",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -533,7 +533,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "../img/skills/3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/3.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '시대의 주역' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 주위 2칸 내 아군이 있을 시 <br/>전투 중 주는 피해량 +15%. 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -559,7 +559,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_SwordDance.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordDance.png",
       "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -585,7 +585,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "../img/skills/8.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.png",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
       "SubSkills": null,
       "Animation": null

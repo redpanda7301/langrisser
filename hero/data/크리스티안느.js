@@ -431,7 +431,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Emilia3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Emilia3.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>전투 진입 전 <font color =\"blue\">성스러운 수호</font>효과를 획득한다:<br/>마방의 <font color =\"red\">1.6</font>배만큼의 수치로 공격을 대체한다.<br/><br><font color =\"red\">2</font>칸 원거리 공격 반격가능</br>.<br/> <font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -445,7 +445,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_HolyShield.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_HolyShield.png",
       "Desc": "[패시브]<b>전투 진입 시</b> 마방 <font color =\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
@@ -471,7 +471,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Emilia1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Emilia1.png",
       "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>[액티브]호위 범위가 <font color =\"red\">2</font>칸으로 증가, [성스러운 수호]효과를 얻는다:<br/>'마방'의 <font color =\"red\">1.6</font>배로 공격을 대신한다.<br/><b><font color =\"red\">2</font>칸 원거리 공격에 대한 반격가능</b>, <font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -485,7 +485,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_AuraDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefUp.png",
       "Desc": "[지휘] 주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -499,7 +499,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Christiane/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Christiane/1.png",
       "Desc": "[패시브]<b>전장의 아군 <font color =\"red\">1</font>명 사망할 때마다</b> '<font color =\"blue\">꽃잎 장막</font>' <font color =\"red\">1</font>중첩 감소.<br/><b>근접 공격받아 전투 진입 시</b> 받는 피해 <font color =\"red\">-5</font>%, 주는 피해 <font color =\"red\">+10</font>%,<br/><b>만약 목표의 생명이 <font color =\"red\">100</font>% 미만일 경우 해당 효과는 <font color =\"red\">2<font>배로 적용</b>",
       "SubSkills": null,
       "Animation": null
@@ -513,7 +513,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_BreakAtk.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.png",
       "Desc": "[패시브]<b>전투 진입전 <font color =\"red\">50</font>% 확률로 적의</b> 공격, 지력 <font color =\"red\">-20</font>%, <font color =\"red\">1</font>턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -527,7 +527,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_AuraMDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraMDefUp.png",
       "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <fo%. color=\"red\">+15</fo%.",
       "SubSkills": null,
       "Animation": null
@@ -545,7 +545,7 @@
           "Value": "1턴"
         }
       ],
-      "IconImageUrl": "../img/skills/Christiane/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Christiane/2.png",
       "Desc": "[액티브]이하 스킬 중 하나 선택해서 사용",
       "SubSkills": [
         {
@@ -604,7 +604,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Christiane/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Christiane/1.png",
       "Desc": null,
       "SubSkills": [        
         {

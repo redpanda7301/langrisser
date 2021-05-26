@@ -385,7 +385,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Fireball.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.                                        <br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -411,7 +411,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_IceBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.                                        <br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -437,7 +437,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_ATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.png",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및                                        <br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -463,7 +463,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Teleport.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Teleport.png",
       "Desc": "[지원]액티브 스킬, 아군 1부대를 범위 안의 임의 1칸으로 이동시킨다.                                        <br/>(유저의 부대에게만 쓸 수 있다.)",
       "SubSkills": null,
       "Animation": null
@@ -489,7 +489,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Metro.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.png",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.                                        <br/>'보병'에게 더 큰 피해를 준다.                                        <br/>적은 다음 행동 종료 시 생명의 20%를 잃는다.",
       "SubSkills": null,
       "Animation": null
@@ -515,7 +515,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/성스러운빛.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/성스러운빛.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.4배의 피해를 준다.                                        <br/> 전투 후 생명 수치가 가장 낮은 아군을 회복, 회복량은 술사 지력의 2배 수치",
       "SubSkills": null,
       "Animation": null
@@ -541,7 +541,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/skills/24.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/24.png",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.                                        <br/>'마물'과 전투 시 더 큰 피해를 입힌다. 버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -567,7 +567,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/성스러운 영광.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/성스러운 영광.png",
       "Desc": "[마법 피해] 단일 개체 1.5배 피해, 대 마물 특효, 전투 후 명중한 위치 및 인접한 지형 (십자형태)에                                        <br/>성스러운 영광 효과 부여, 지속 2행동 : 적이 해당 지형에 위치한 후 행동 종료 시 버프 1개 제거",
       "SubSkills": null,
       "Animation": null
@@ -593,7 +593,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_ThunderBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null

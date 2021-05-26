@@ -354,7 +354,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_SpearThrowing.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SpearThrowing.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다, <br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/>(해당 스킬은 <b>근접전 피해 감면 영향을 받지 않음</b>)",
       "SubSkills": null,
       "Animation": null
@@ -368,7 +368,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_FlyControl.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_FlyControl.png",
       "Desc": "[패시브]생명이 <font color=\"red\">50</font>% 이상인 경우 전투 진입시 받는 모든 피해량 <font color=\"red\">-15</font>%.",
       "SubSkills": null,
       "Animation": null
@@ -394,7 +394,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Punch.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"red\">1.2</font>배의 피해를 준다.<br/>대상을 <font color=\"red\">2</font>칸 밀쳐내며 이동력 <font color=\"red\">-2<font>, '<font color=\"blue\">호위 불가</font>'부여, <font color=\"red\">1</font>턴 지속.</font></font>",
       "SubSkills": null,
       "Animation": null
@@ -408,7 +408,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Cancel.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.png",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -434,7 +434,7 @@
           "Value": "2바퀴"
         }
       ],
-      "IconImageUrl": "../img/skills/Vincent/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Vincent/1.png",
       "Desc": "[물리 피해] 주위 <font color=\"red\">2</font>바퀴 <font color=\"red\">0.3</font>배 범위 피해, <br/>해당 스킬로 적을 격파 시 쿨타임 <font color=\"red\">-2</font> 및 <b>스킬 <font color=\"red\">1</font>회 재발동</b> <br/>해당 스킬을 <b>다시 사용 가능 할 경우</b> 피해 <font color=\"red\">-50</font>% <br/>(해당 효과는 <font color=\"red\">1</font>턴에 최대 <font color=\"red\">1</font>회 발동)",
       "SubSkills": null,
       "Animation": null
@@ -460,7 +460,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "../img/skills/8.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.png",
       "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
       "SubSkills": null,
       "Animation": null
@@ -474,7 +474,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_AuraAtkDown.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraAtkDown.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대 공격, 지력 <font color=\"red\">-15</font>%, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -500,7 +500,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Vincent/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Vincent/2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 준다, <br/>목표 부대의 이동 방식이 '<b>비행'이 아닐 경우 행동 종료 시 주위 <font color=\"red\">2</font>칸 <font color=\"red\">0.15</font>배 범위 피해</b>",
       "SubSkills": null,
       "Animation": null

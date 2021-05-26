@@ -384,7 +384,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Punch.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 <font color=\"red\">2</font>칸 밀쳐내며 이동력 <font color=\"red\">-2</font>, '호위 불가'부여, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -410,7 +410,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/39.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/39.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -424,7 +424,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_DefBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -450,7 +450,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_KnightCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -476,7 +476,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/skills/15.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/15.png",
       "Desc": "[지원]액티브 스킬, 범위 내 모든 아군의 이동력 +1.<br/>공격, 지력 +20% 및 면역: '이동력 감소', '패시브 무효화', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -502,7 +502,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_KnightCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br/>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
       "SubSkills": null,
       "Animation": null
@@ -516,7 +516,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Wagner/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Wagner/1.png",
       "Desc": "[패시브] 선공 시 받는 피해 <font color=\"#DC143C\">-10</font>%. <br/>전투 후 직선으로 재이동 가능, 이동 거리는 남은 이동력 <font color=\"#DC143C\">+2</font> 쿨타임 <font color=\"#DC143C\">2</font>",
       "SubSkills": null,
       "Animation": null
@@ -542,7 +542,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Wagner/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Wagner/2.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.2</font>배의 피해를 준다.<br/>공격 전 이동거리 <font color=\"red\">1</font>칸마다 주는 피해량 <font color=\"#DC143C\">+3%</font> (최대 <font color=\"#DC143C\">+15%</font>)<br/>이동거리가 <font color=\"#DC143C\">10</font>칸 이상일 경우 해당 공격은 <b><font color=\"blue\">호위 무시</font></b>",
       "SubSkills": null,
       "Animation": null
@@ -556,7 +556,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_Cancel.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.png",
       "Desc": "[패시브]치명타율 <font color=\"#DC143C\">+10</font>%. <br/>피해를 줄 때 <font color=\"#DC143C\">50</font>%의 확률로 적 부대의 <b><font color=\"blue\">패시브 스킬을 무효화</font></b>한다.<br/><font color=\"#DC143C\">2</font>턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null

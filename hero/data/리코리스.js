@@ -420,7 +420,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Fireball.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.png",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -446,7 +446,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/skills/23.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.png",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -472,7 +472,7 @@
           "Value": "2칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Sanction.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Sanction.png",
       "Desc": "[마법 피해]주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>동시에 적의 2개 버프 제거.",
       "SubSkills": null,
       "Animation": null
@@ -486,7 +486,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_HolyShield.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_HolyShield.png",
       "Desc": "[패시브]전투 진입 시 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -512,7 +512,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_MassDefup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassDefup.png",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -538,7 +538,7 @@
           "Value": "자신"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Licorice1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Licorice1.png",
       "Desc": "[변신]자신의 모든 \"치료증가\"를 \"입히는피해증가\"로 전환 및<br/>[마신강림] 상태로 변신: '[생명의 숨결]이 [암흑의 숨결]로 대체된다.<br/>[암흑의 숨결]:적군이 해당지형에서 행동종료시 약화효과 <font color=\"red\">1</font>개 부여 및 고정피해를 준다.<br/>고정피해량은 리코리스 지력의 <font color=\"red\">1.2</font>배, 사용후 재행동가능(이동불가)'<br/>[마신강림]상태는 마신강림 스킬로 취소 가능 후 재행동 가능(해당 효과는 면역 및 제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -564,7 +564,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Licorice2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Licorice2.png",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '어둠의 윤회' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>스킬 사용시 스킬 쿨타임에 따른 피해상승, 쿨타임 1턴당 +3%(최대 +20%),<br/>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -590,7 +590,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_DarkRay2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkRay2.png",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'승려'와 전투 시 더 큰 피해를 입힌다. 디버프 1개 랜덤 부여.",
       "SubSkills": null,
       "Animation": null
@@ -616,7 +616,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_MassMDefKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.png",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -642,7 +642,7 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Super24.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Super24.png",
       "Desc": "[마법피해]주위 5칸 내 모든 적군에게 0.3배 범위 피해를 입히고 디버프 1개 부여.<br/>동시에 범위내 아군의 생명 회복 및 디버프 1개 제거 회복량은 사용자 지력의 3배.",
       "SubSkills": null,
       "Animation": "../img/Super/리코리스.gif"

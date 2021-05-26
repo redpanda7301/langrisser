@@ -355,7 +355,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/0.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/0.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -369,7 +369,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_BreakDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakDef.png",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -395,7 +395,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.png",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -409,7 +409,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Again.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.png",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -435,7 +435,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Ryo/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Ryo/1.png",
       "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.3</font>배 피해<br/><b>전투 전 적 버프 <font color=\"red\">2</font>개 제거</b>, <br/><b><font color=\"purple\">열화의 무장</font> 상태일 경우 해당 스킬은 <font color=\"red\">2</font>회 공격</b>",
       "SubSkills": null,
       "Animation": null
@@ -449,7 +449,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Adversity.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Adversity.png",
       "Desc": "[패시브] 부대 생명 <font color=\"red\">70%</font>이하일 때 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -463,7 +463,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Ryo/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Ryo/2.png",
       "Desc": "[패시브]<b>위험 범위 안에서 행동 종료 시, 자신 생명 회복 (전장에 있는 아군 1명 당 생명 10%, 최대 40%)</b>",
       "SubSkills": null,
       "Animation": null
@@ -489,7 +489,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Ryo/3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Ryo/3.png",
       "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.4</font>배 피해, 근접 병사 대동시 병사도 함께 공격. <br/><b><font color=\"purple\">열화의 무장</font> 상태일 경우 전투 전 적 기절 <font color=\"red\">1</font>행동,</b><br/><b>해당 스킬은 근접 패널티 무효화</b>",
       "SubSkills": null,
       "Animation": null
