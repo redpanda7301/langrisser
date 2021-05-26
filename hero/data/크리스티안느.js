@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "여기사의 꽃말",
-      "Icon": "Gift_Christinanne.png",
+      "Icon": "Gift_Christiane.png",
       "Abilities": [
         {
           "Desc": "1성"
@@ -499,7 +499,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Christian/1.png",
+      "IconImageUrl": "../img/skills/Christiane/1.png",
       "Desc": "[패시브]<b>전장의 아군 <font color =\"red\">1</font>명 사망할 때마다</b> '<font color =\"blue\">꽃잎 장막</font>' <font color =\"red\">1</font>중첩 감소.<br/><b>근접 공격받아 전투 진입 시</b> 받는 피해 <font color =\"red\">-5</font>%, 주는 피해 <font color =\"red\">+10</font>%,<br/><b>만약 목표의 생명이 <font color =\"red\">100</font>% 미만일 경우 해당 효과는 <font color =\"red\">2<font>배로 적용</b>",
       "SubSkills": null,
       "Animation": null
@@ -545,7 +545,7 @@
           "Value": "1턴"
         }
       ],
-      "IconImageUrl": "../img/skills/Christian/2.png",
+      "IconImageUrl": "../img/skills/Christiane/2.png",
       "Desc": "[액티브]이하 스킬 중 하나 선택해서 사용",
       "SubSkills": [
         {
@@ -604,7 +604,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Christian/1.png",
+      "IconImageUrl": "../img/skills/Christiane/1.png",
       "Desc": null,
       "SubSkills": [        
         {

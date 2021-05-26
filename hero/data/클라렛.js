@@ -16,6 +16,10 @@
     {
       "ImageUrl": "클라렛/4.png",
       "Desc": "서밋아레나 시즌5 패자스킨"
+    },
+    {
+      "ImageUrl": "클라렛/5.png",
+      "Desc": "한정판매"
     }
   ],
   "Name": "클라렛",
@@ -112,6 +116,9 @@
         },
         {
           "ImageUrl": "클라렛/4/1.png"
+        },
+        {
+          "ImageUrl": "클라렛/5/1.png"
         }
       ],
       "AttkRange": 1,
@@ -147,6 +154,9 @@
         },
         {
           "ImageUrl": "클라렛/4/1.png"
+        },
+        {
+          "ImageUrl": "클라렛/5/2.png"
         }
       ],
       "AttkRange": 1,
