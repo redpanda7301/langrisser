@@ -438,7 +438,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Suzette/2.webp",
-      "Desc": "[액티브]<b>다른 아군을 선택, 해당 위치를 공격해 주위 <font color =\"red\">3</font>칸 적에게</b><font color =\"red\">0.2</font>배 물리피해<br/>(대상 아군이 행동종료시 발동)",
+      "Desc": "[액티브]<b>다른 아군을 선택, 목표 위치에 위치 이동 시킨뒤 <font color =\"red\">3</font>칸 적에게</b><font color =\"red\">0.2</font>배 물리피해<br/>",
       "SubSkills": null,
       "Animation": null
     },
@@ -563,7 +563,7 @@
       "Animation": null
     },
     {
-      "Name": "화력전개",
+      "Name": "화력 전개",
       "Cost": "COST 3",
       "Entries": [
         {
@@ -580,7 +580,7 @@
         },
         {
           "Label": "범위",
-          "Value": "단일"
+          "Value": "단일 대상 1바퀴"
         }
       ],
       "IconImageUrl": "../img/Super/수제트.webp",

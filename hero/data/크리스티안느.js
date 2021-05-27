@@ -139,7 +139,7 @@
       "MagicDefRate": 74,
       "Skill": 99,
       "SkillRate": 27,
-      "HeartFetterBouns1": "<b>생명이 <font color =\"red\">80</font>%초과시<br/>치명타공격을 받을확률 <font color =\"red\">-10</font>%",
+      "HeartFetterBouns1": "<b>부대 생명이 <font color =\"red\">80</font>%초과시<br/>치명타공격을 받을확률 <font color =\"red\">-10</font>%",
       "HeartFetterBouns2": "<b>원거리 공격을 받아 전투진입시</b><br/>입히는피해 <font color =\"red\">+10</font>%"
     }
   ],
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "ClassTitle": "장군 : 생명+36, 공격+8",
+      "ClassTitle": "장군 : 생명+80, 공격+7",
       "Tiers": [
         {
           "Name": "T1",
@@ -508,7 +508,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <fo%. color=\"red\">+15</fo%.",
+      "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -564,7 +564,7 @@
           },
           {
             "Label": "사거리",
-            "Value": "3칸"
+            "Value": "2칸"
           },
           {
             "Label": "쿨타임",
@@ -586,7 +586,7 @@
           },
           {
             "Label": "사거리",
-            "Value": "3칸"
+            "Value": "2칸"
           },
           {
             "Label": "쿨타임",
@@ -612,7 +612,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Christiane/3.webp",
-      "Desc": "[패시브]<b>전장의 아군 <font color =\"red\">1</font>명 사망할 때마다</b> '<font color =\"blue\">꽃잎 장막</font>' <font color =\"red\">1</font>중첩 감소.<br/><b>근접 공격받아 전투 진입 시</b> 받는 피해 <font color =\"red\">-5</font>%, 주는 피해 <font color =\"red\">+10</font>%,<br/><b>만약 목표의 생명이 <font color =\"red\">100</font>% 미만일 경우 해당 효과는 <font color =\"red\">2<font>배로 적용</b>",
+      "Desc": "[패시브]<b>전장에 출전한 <font color =\"red\">1</font>부대씩 사망할 때마다</b> '<font color =\"blue\">꽃잎 장막</font>' <font color =\"red\">1</font>중첩 감소.<br/><b>근접 공격받아 전투 진입 시</b> 받는 피해 <font color =\"red\">-5</font>%, 주는 피해 <font color =\"red\">+10</font>%,<br/><b>만약 목표의 생명이 <font color =\"red\">100</font>% 미만일 경우 해당 효과는 <font color =\"red\">2<font>배로 적용</b>",
       "SubSkills": null,
       "Animation": null
     },
