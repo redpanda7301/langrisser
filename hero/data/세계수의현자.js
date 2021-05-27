@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "세계수의현자/1.png",
+      "ImageUrl": "세계수의현자/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "세계수의현자/2.png",
+      "ImageUrl": "세계수의현자/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "세계수의현자/3.png",
+      "ImageUrl": "세계수의현자/3.webp",
       "Desc": "한정판매"
     }
   ],
@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "영원한 수호",
-      "Icon": "Gift_MOTT.png",
+      "Icon": "Gift_MOTT.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -88,16 +88,16 @@
   "Jobs": [
     {
       "Name": "대현자",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "세계수의현자/1/1.png"
+          "ImageUrl": "세계수의현자/1/1.webp"
         },
         {
-          "ImageUrl": "세계수의현자/2/1.png"
+          "ImageUrl": "세계수의현자/2/1.webp"
         },
         {
-          "ImageUrl": "세계수의현자/3/1.png"
+          "ImageUrl": "세계수의현자/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -120,16 +120,16 @@
     },
     {
       "Name": "위저드",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "세계수의현자/1/2.png"
+          "ImageUrl": "세계수의현자/1/2.webp"
         },
         {
-          "ImageUrl": "세계수의현자/2/1.png"
+          "ImageUrl": "세계수의현자/2/1.webp"
         },
         {
-          "ImageUrl": "세계수의현자/3/1.png"
+          "ImageUrl": "세계수의현자/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -363,7 +363,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -377,7 +377,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 방어 +15% 및<br/>면역: '방어, 마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -403,7 +403,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MOTT3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MOTT3.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.2배의 광역 피해를 주며<br/>명중한 지형에 [눈부신 빛]부여, 2턴 지속.<br/>:\"적군의 이동 방식이 [비행], [기마], [야전]의 경우 이동시 소모되는 이동력 소모+1<br/>아군의 이동방식이 [보행], [수병]인 경우 이 해당 지형에서 전투후 2칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -429,7 +429,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MOTT2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MOTT2.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '초월 영역' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 원거리 피해 +12%,<br/>피해를 입히지 않고 행동종료시 약화효과 1개 제거, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -455,7 +455,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThundeRay2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThundeRay2.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'기병'과 전투 시 더 큰 피해를 입힌다. 적군의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -481,7 +481,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -495,7 +495,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_NerverDie.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_NerverDie.webp",
       "Desc": "[패시브]사망 시 부활 및 생명 20%회복. 최대 1회 가능.",
       "SubSkills": null,
       "Animation": null
@@ -509,7 +509,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MOTT1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MOTT1.webp",
       "Desc": "[패시브] 주위 2칸 내 영웅의 직업이 [보병],[창병],[기병]의<br/>아군이 공격하여 전투진입시 입히는 피해 +12%, 받는피해 -12%.",
       "SubSkills": null,
       "Animation": null
@@ -535,10 +535,10 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super38.png",
+      "IconImageUrl": "../img/Super/세계수의현자.webp",
       "Desc": "[지휘]주위 2칸내 모든 아군이 받는 치명타 확률 - 30%,<br/>받는 원거리피해 -15%, 받는 치료효과 +15%.<br/>[마법피해]3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입히고,<br/>2칸 후퇴 시킨다. 동시에 명중한 모든 지형에 [눈부신 빛] 2턴 부여<br/>:\"적 부대의 이동 방식이 [비행], [기마], [야전]의 경우 이동시 소모되는 이동력 소모+1<br/>아군의 이동방식이 [보행], [수병]인 경우 이 지형에서 전투후 2칸 재이동 가능.",
       "SubSkills": null,
-      "Animation": "../img/Super/세계수의현자.gif"
+      "Animation": "../img/Super/세계수의현자_Ani.gif"
     }
   ],
   "Bio": [

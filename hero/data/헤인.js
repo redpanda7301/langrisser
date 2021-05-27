@@ -2,19 +2,19 @@
 {
   "Skins": [
     {
-      "ImageUrl": "헤인/1.png",
+      "ImageUrl": "헤인/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "헤인/2.png",
+      "ImageUrl": "헤인/2.webp",
       "Desc": "스킨상점"
     },
     {
-      "ImageUrl": "헤인/3.png",
+      "ImageUrl": "헤인/3.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "헤인/sp.png",
+      "ImageUrl": "헤인/sp.webp",
       "Desc": "SP 각성"
     }
   ],
@@ -55,7 +55,7 @@
   "Talent": [
     {
       "Name": "지식 전승",
-      "Icon": "29.png",
+      "Icon": "29.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -81,7 +81,7 @@
   "SPTalent": [
     {
       "Name": "흑룡의 지식",
-      "Icon": "SP_Gift_Hein.png",
+      "Icon": "SP_Gift_Hein.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -107,7 +107,7 @@
   "Equip": {
     "Name": "내,내,내가 공주라고?(투구)",
     "Stats": "생명 364,마방 65",
-    "Icon": "헤인.png",
+    "Icon": "헤인.webp",
     "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/>영웅의 고유기술 중첩 최대 수치 <font color=\"red\">+1</font>,<br/><b><font color=\"pink\">공주연맹</font></b>의 초절강화 효과를 받을 수 있다."
   },
   "Soldiers": [
@@ -123,19 +123,19 @@
   "Jobs": [
     {
       "Name": "위저드",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "헤인/1/1.png"
+          "ImageUrl": "헤인/1/1.webp"
         },
         {
-          "ImageUrl": "헤인/2/1.png"
+          "ImageUrl": "헤인/2/1.webp"
         },
         {
-          "ImageUrl": "헤인/3/1.png"
+          "ImageUrl": "헤인/3/1.webp"
         },
         {
-          "ImageUrl": "헤인/sp/1.png"
+          "ImageUrl": "헤인/sp/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -158,19 +158,19 @@
     },
     {
       "Name": "흑룡 마도사",
-      "Icon": "Icon_Occupation_MagicianSP.png",
+      "Icon": "Icon_Occupation_MagicianSP.webp",
       "SD": [
         {
-          "ImageUrl": "헤인/1/2.png"
+          "ImageUrl": "헤인/1/2.webp"
         },
         {
-          "ImageUrl": "헤인/2/1.png"
+          "ImageUrl": "헤인/2/1.webp"
         },
         {
-          "ImageUrl": "헤인/3/1.png"
+          "ImageUrl": "헤인/3/1.webp"
         },
         {
-          "ImageUrl": "헤인/sp/1.png"
+          "ImageUrl": "헤인/sp/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -193,19 +193,19 @@
     },
     {
       "Name": "세인트",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "헤인/1/3.png"
+          "ImageUrl": "헤인/1/3.webp"
         },
         {
-          "ImageUrl": "헤인/2/1.png"
+          "ImageUrl": "헤인/2/1.webp"
         },
         {
-          "ImageUrl": "헤인/3/1.png"
+          "ImageUrl": "헤인/3/1.webp"
         },
         {
-          "ImageUrl": "헤인/sp/1.png"
+          "ImageUrl": "헤인/sp/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -452,7 +452,7 @@
       "Name": "개방",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/AlterEgo_Hein.png",
+          "MaterialImgUrl": "../img/item/AlterEgo_Hein.webp",
           "Amount": 1
         }
       ],
@@ -462,19 +462,19 @@
       "Name": "1단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/classup/rank8-4.png",
+          "MaterialImgUrl": "../img/classup/rank8-4.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/classup/rank7-4.png",
+          "MaterialImgUrl": "../img/classup/rank7-4.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/classup/rank6-4.png",
+          "MaterialImgUrl": "../img/classup/rank6-4.webp",
           "Amount": 50
         }
       ],
@@ -489,19 +489,19 @@
       "Name": "2단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/쓰알열쇠.png",
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/item/스알열쇠.png",
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/알열쇠.png",
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
           "Amount": 50
         }
       ],
@@ -516,11 +516,11 @@
       "Name": "3단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/룬스톤.png",
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
           "Amount": 2
         }
       ],
@@ -540,19 +540,19 @@
       "Name": "4단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/heart/h1.png",
+          "MaterialImgUrl": "../img/heart/h1.webp",
           "Amount": 60
         },
         {
-          "MaterialImgUrl": "../img/heart/h1-1.png",
+          "MaterialImgUrl": "../img/heart/h1-1.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/heart/x.png",
+          "MaterialImgUrl": "../img/heart/x.webp",
           "Amount": 12
         }
       ],
@@ -567,15 +567,15 @@
       "Name": "5단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.png",
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/item/Awaken_Stardust.png",
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
           "Amount": 5
         }
       ],
@@ -590,19 +590,19 @@
       "Name": "6단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/Item_MemoryEssence.png",
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
           "Amount": 600
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Magic1.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Magic1.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Magic3.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Magic3.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Magic6.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Magic6.webp",
           "Amount": 5
         }
       ],
@@ -641,7 +641,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -667,7 +667,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -693,7 +693,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Teleport.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Teleport.webp",
       "Desc": "[지원]액티브 스킬, 아군 1부대를 범위 안의 임의 1칸으로 이동시킨다.<b>(텔레포트 범위는 대상을 기준으로 7칸)</b><br/>(유저의 부대에게만 쓸 수 있다.)",
       "SubSkills": null,
       "Animation": null
@@ -719,7 +719,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderCrash.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -745,7 +745,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>'보병'에게 더 큰 피해를 준다.<br/>적은 다음 행동 종료 시 생명의 20%를 잃는다.",
       "SubSkills": null,
       "Animation": null
@@ -771,7 +771,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -797,7 +797,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -823,7 +823,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -849,7 +849,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -875,7 +875,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/1.webp",
       "Desc": "[패시브]<font color=\"blue\">마도의 극의</font>(<b>각성기</b>) 피해 <font color=\"red\">+50</font>%, <br/>지력 <font color=\"red\">1</font>배 수치 고정 피해 추가<br/>[액티브] 자신 부대에 '<font color=\"blue\">마법 장벽</font>' 부여 : '<b>처음 받는 마법 피해 <font color=\"red\">-30</font>%</b>',<br/>지속 <font color=\"red\">3</font>행동,<br/>사용 후 <font color=\"red\">2</font>칸 재행동. <br/><b>해당 스킬은 버프 지속 시간을 소모하지 않음</b>",
       "SubSkills": null,
       "Animation": null
@@ -901,7 +901,7 @@
           "Value": "-"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/2.webp",
       "Desc": "[액티브] 아래 3가지중 하나를 선택하여 사용한다.<br/>사거리, 범위는 인게임 실장되면 수정예정",
       "SubSkills": null,
       "Animation": null
@@ -919,7 +919,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/3.webp",
       "Desc": "[마법피해] 0.38배 범위 피해, <b>보병에게 더 큰 데미지 준다</b><br/>명중한 적은 다음 턴 행동 종료 시 지력 <font color=\"red\">1</font>배 수치의 <b>고정 피해</b>를 받음",
       "SubSkills": null,
       "Animation": null
@@ -937,7 +937,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/4.webp",
       "Desc": "[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <b>기병에게 더 큰 데미지 준다</b><br/>전투 진입 전 병사 사거리 <font color=\"red\">+1</font>,<br/>적 방어 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -955,7 +955,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/5.webp",
       "Desc": "<font color=\"red\">1</font>개의 아군 부대를 텔레포트 및 피해 <font color=\"red\">+10</font>%, 지속 <font color=\"red\">1</font>행동. <br/><b>(텔레포트 범위는 대상을 기준으로 7칸)</b> <br/><b>(유저의 부대에게만 쓸 수 있다.)</b>",
       "SubSkills": null,
       "Animation": null
@@ -981,10 +981,10 @@
           "Value": "2칸"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super15.png",
+      "IconImageUrl": "../img/Super/헤인.webp",
       "Desc": "[마법피해] 범위내 모든 적군에게 0.2배의 범위 피해를 입히며,<br/>공격 범위내 모든 지형에 [마도폐허]를 부여한다.<br/>[마도폐허] : 적군이 해당 위치로 이동할 경우 적군에게 이동력-2, 지속 1회합<br/>헤인의 고유기 [지식 전승]의 중첩이 많을 수록 기술의 사거리및 효과범위 증가<br/>(최대 사거리 4, 최대범위 4까지 증가 가능.)",
       "SubSkills": null,
-      "Animation": "../img/Super/mmexport1579360811624.gif"
+      "Animation": "../img/Super/헤인_Ani.gif"
     }
   ],
   "Bio": [

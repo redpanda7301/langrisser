@@ -2,7 +2,7 @@
 {
   "Skins": [
     {
-      "ImageUrl": "카유라/1.png",
+      "ImageUrl": "카유라/1.webp",
       "Desc": "기본"
     }
   ],
@@ -44,7 +44,7 @@
   "Talent": [
     {
       "Name": "유성의 빛",
-      "Icon": "Gift_Kayura.png",
+      "Icon": "Gift_Kayura.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -82,10 +82,10 @@
   "Jobs": [
     {
       "Name": "별성검희",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "카유라/1/1.png"
+          "ImageUrl": "카유라/1/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -108,10 +108,10 @@
     },
     {
       "Name": "카오스 일족의 후예",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "카유라/1/2.png"
+          "ImageUrl": "카유라/1/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -345,7 +345,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -359,7 +359,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -385,7 +385,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Kayura/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Kayura/1.webp",
       "Desc": "[마법 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>전투 진입 전 병사 사거리 <font color=\"red\">+1</font></b>, <br/><b>방어 지형에 위치한 상태로 행동 종료 시</b> <font color=\"blue\">연막</font> 효과 획득 : <br/>받는 모든 피해 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">1</font>행동.",
       "SubSkills": null,
       "Animation": null
@@ -399,7 +399,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Kayura/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Kayura/2.webp",
       "Desc": "[패시브]<b>선공으로 전투 진입 시, <br/>전투 후 자신 부대를 <font color=\"red\">3</font>칸 범위 내 <font color=\"red\">원하는 장소로</font> <font color=\"blue\">텔레포트</font></b>",
       "SubSkills": null,
       "Animation": null
@@ -425,7 +425,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Kayura/3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Kayura/3.webp",
       "Desc": "[마법 피해]단일 대상에게 <font color=\"red\">1.5</font>배의 피해를 준다.<br/><b>전투 진입 전 병사 사거리 <font color=\"red\">+1</font></b>, <br/><b>행동 종료 시 자신 주위 2칸 범위 내 모든 아군에게 걸린 디버프 <font color=\"red\">2</font>개 제거 및</b>  <br/>지력 <font color=\"red\">1.5</font>배 수치로 회복",
       "SubSkills": null,
       "Animation": null
@@ -439,7 +439,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Belief.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Belief.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br/>전투 후 가장 생명이 적은 다른 아군 생명 회복, 회복량은 자신 지력의 <font color=\"red\">2</font>배.",
       "SubSkills": null,
       "Animation": null
@@ -465,7 +465,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Bless.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Bless.webp",
       "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br/>모든 디버프에 면역. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -491,7 +491,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkSuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkSuper.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 모든 다른 아군의 생명을 회복시킨다. 회복량은 자신 지력의 2배.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -517,10 +517,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/카유라.png",
+      "IconImageUrl": "../img/Super/카유라.webp",
       "Desc": "[패시브]<b>아군 숫자가 5명 이상일 경우</b> 지력 <font color=\"red\">+10</font>%, 이동력 <font color=\"red\">+3</font>, <br/>영웅이 받는 물리 피해 <font color=\"red\">-20</font>%<br/>[마법 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.6</font>배의 피해를 준다.<br/><b>전투 진입 전 병사 사거리 <font color=\"red\">+1</font></b>, <br/><b>행동 종료 시 자신 주위 3칸 범위 내 모든 아군에게 걸린 디버프 <font color=\"red\">3</font>개 제거 및</b>  <br/>지력 <font color=\"red\">3</font>배 수치로 회복",
       "SubSkills": null,
-      "Animation": "../img/Super/카유라.gif"
+      "Animation": "../img/Super/카유라_Ani.gif"
     }
   ],
   "Bio": null,

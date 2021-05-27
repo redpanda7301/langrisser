@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "플로렌티아/1.png",
+      "ImageUrl": "플로렌티아/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "플로렌티아/2.png",
+      "ImageUrl": "플로렌티아/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "플로렌티아/3.png",
+      "ImageUrl": "플로렌티아/3.webp",
       "Desc": "형귀뽑기"
     }
   ],
@@ -52,7 +52,7 @@
   "Talent": [
     {
       "Name": "제국의 전략",
-      "Icon": "Gift_Florentia.png",
+      "Icon": "Gift_Florentia.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -79,7 +79,7 @@
   "Equip": {
     "Name": "제국의 보물(투구)",
     "Stats": "생명 364,마방 65",
-    "Icon": "플로렌티아.png",
+    "Icon": "플로렌티아.webp",
     "Ability": "생명, 마방 <font color=\"red\">+5</font>%<br/><b>병사가 받는 피해<font color=\"red\">-10</font>%</b><br/><b>매 전투 시작 시 혹은 아군 사망 시</b><br/><font color=\"scarlet\">모략</font><font color=\"red\">1</font>개 획득"
   },
   "Soldiers": [
@@ -94,16 +94,16 @@
   "Jobs": [
     {
       "Name": "군사",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "플로렌티아/1/1.png"
+          "ImageUrl": "플로렌티아/1/1.webp"
         },
         {
-          "ImageUrl": "플로렌티아/2/1.png"
+          "ImageUrl": "플로렌티아/2/1.webp"
         },
 		{
-          "ImageUrl": "플로렌티아/3/1.png"
+          "ImageUrl": "플로렌티아/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -126,16 +126,16 @@
     },
     {
       "Name": "제국 재상",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "플로렌티아/1/2.png"
+          "ImageUrl": "플로렌티아/1/2.webp"
         },
         {
-          "ImageUrl": "플로렌티아/2/1.png"
+          "ImageUrl": "플로렌티아/2/1.webp"
         },
 		{
-          "ImageUrl": "플로렌티아/3/1.png"
+          "ImageUrl": "플로렌티아/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.webp",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -426,7 +426,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -452,7 +452,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -466,7 +466,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefUp.webp",
       "Desc": "[패시브]부대 생명 90% 이상일시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -492,7 +492,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia6.webp",
       "Desc": "[지원] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.<br/>버프 부여: \"전투후 병사의 생명을 30%만큼 회복\",2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -506,7 +506,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia5.webp",
       "Desc": "[패시브]적군 퇴각시 1개의 [전략]획득 및 모든 아군 부대<br/>병사의 생명을 제외한 속성 +2%(최대 10%).",
       "SubSkills": null,
       "Animation": null
@@ -532,7 +532,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.webp",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -558,7 +558,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia4.webp",
       "Desc": "[마법 피해]전장에서 단일 적군에게 0.25배의 마법피해를 입힌다.<br/>적군의 버프 2개 제거, '병사 공격불가', 1턴 지속(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -572,7 +572,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/35.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/35.webp",
       "Desc": "[패시브]전투 진입 시 방어+7%.",
       "SubSkills": null,
       "Animation": null
@@ -590,7 +590,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia9.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia9.webp",
       "Desc": "[액티브]2개의 전략 소모, 1명의 기본이동력이 5미만인 아군부대의<br/>이동력증가(이동력증가는 5 - 기본이동력), 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -608,7 +608,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia7.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia7.webp",
       "Desc": "[액티브]5개의 전략 소모, 행동을 마친 아군 1부대를 다시 행동할 수 있게한다.",
       "SubSkills": null,
       "Animation": null
@@ -626,7 +626,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia8.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Florentia8.webp",
       "Desc": "[액티브]1개의 전략 소모, 1명의 아군부대 병사의 생명을 70%회복하고,<br/>병사의 공격력+10%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -652,10 +652,10 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super43.png",
+      "IconImageUrl": "../img/Super/플로렌티아.webp",
       "Desc": "[마법피해]사용시 1개의 [전략]획득. 3줄 직선상 모든 적군을 공격하여<br/>0.3배의 마법피해를 입히고, 디버프 1개 부여. <br/>동시에 범위내 아군의 생명을 회복 및 디버프 1개 제거(회복량 지력 3배)<br/>2명 이상의 적군 명중시 전투후 추가로 1개의 전략 획득.",
       "SubSkills": null,
-      "Animation": "../img/Super/플로렌티아.gif"
+      "Animation": "../img/Super/플로렌티아_Ani.gif"
     }
   ],
   "Bio": [

@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "츠바메/1.png",
+      "ImageUrl": "츠바메/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "츠바메/2.png",
+      "ImageUrl": "츠바메/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "츠바메/3.png",
+      "ImageUrl": "츠바메/3.webp",
       "Desc": "한정판매"
     }
   ],
@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "은밀한 날갯짓",
-      "Icon": "Gift_Tsubame.png",
+      "Icon": "Gift_Tsubame.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -78,7 +78,7 @@
   "Equip": {
     "Name": "몰래 날아가는 별의 투구(투구)",
     "Stats": "생명 364,마방 65",
-    "Icon": "츠바메.png",
+    "Icon": "츠바메.webp",
     "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/>피해 +10%, 받는 범위 피해 -10%, <br/><b>자신이 은신 상태일 경우</b> 치명타 피해 <font color=\"red\">+15</font>%, <br/><b>행동 종료 시 <font color=\"blue\">제비처럼 가볍게</font></b> 효과 획득 : <br/>이동력 <font color=\"red\">+1</font>, 최대 <font color=\"red\">2</font>중첩, <br/>지속 <font color=\"red\">2</font>행동,"
   },
   "Soldiers": [
@@ -94,16 +94,16 @@
   "Jobs": [
     {
       "Name": "쉐도우",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "츠바메/1/1.png"
+          "ImageUrl": "츠바메/1/1.webp"
         },
         {
-          "ImageUrl": "츠바메/2/1.png"
+          "ImageUrl": "츠바메/2/1.webp"
         },
         {
-          "ImageUrl": "츠바메/3/1.png"
+          "ImageUrl": "츠바메/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -126,16 +126,16 @@
     },
     {
       "Name": "레인저",
-      "Icon": "Icon_Occupation_Archer.png",
+      "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "츠바메/1/2.png"
+          "ImageUrl": "츠바메/1/2.webp"
         },
         {
-          "ImageUrl": "츠바메/2/1.png"
+          "ImageUrl": "츠바메/2/1.webp"
         },
         {
-          "ImageUrl": "츠바메/3/2.png"
+          "ImageUrl": "츠바메/3/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/6.webp",
       "Desc": "[물리 피해] 호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -414,7 +414,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DorsalThorns.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DorsalThorns.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 적 부대 생명이 100%일 경우<br/>전투 전 영웅 공격 2배의 고정 피해를 1회 입힘.",
       "SubSkills": null,
       "Animation": null
@@ -428,7 +428,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -442,7 +442,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Tsubame1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Tsubame1.webp",
       "Desc": "[패시브]부대의 생명이 90%이상일때, 전투진입전 적군보다 기술이 높으면 선제 공격.",
       "SubSkills": null,
       "Animation": null
@@ -468,7 +468,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Tsubame2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Tsubame2.webp",
       "Desc": "[액티브]스킬 사거리의 가장 먼곳으로 이동하며,<br/>이동경로 상의 모든 적군의 강화효과를 1개씩 훔쳐온다.",
       "SubSkills": null,
       "Animation": null
@@ -494,7 +494,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -520,7 +520,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Pirotess1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Pirotess1.webp",
       "Desc": "[지원]사용 후 자신 부대의 '기술'+30%, 2턴지속.<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -534,7 +534,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.webp",
       "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br/>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
       "SubSkills": null,
       "Animation": null
@@ -548,7 +548,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefDown.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -574,10 +574,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super44.png",
+      "IconImageUrl": "../img/Super/츠바메.webp",
       "Desc": "[물리피해]호위를 무시하고 단일 적 부대를 공격해 1.4배의 피해를 준다.<br/>치명률 상승 +20%, 적군을 격파시 전투후 2칸 재이동.<br/>행동종료시, 주위 2칸내 적군이 없으면 [은닉]효과:<br/>\"적군의 보통공격과 스킬공격의 대상이 되지않는다. 1턴 지속(제거불가,<br/>피해를 받거나 입힌후 또는 주위 1칸내 적군이 있을시 효과해제)\"",
       "SubSkills": null,
-      "Animation": "../img/Super/츠바메.gif"
+      "Animation": "../img/Super/츠바메_Ani.gif"
     }
   ],
   "Bio": [

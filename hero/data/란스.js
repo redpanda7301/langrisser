@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "란스/1.png",
+      "ImageUrl": "란스/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "란스/2.png",
+      "ImageUrl": "란스/2.webp",
       "Desc": "한정판매"
     }
   ],
@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "하늘의 사령관",
-      "Icon": "30.png",
+      "Icon": "30.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -75,7 +75,7 @@
   "Equip": {
     "Name": "칼자스의 왕관(투구)",
     "Stats": "생명 583,마방 48",
-    "Icon": "란스.png",
+    "Icon": "란스.webp",
     "Ability": "생명 +5%<br/>자신의 부대가 [혼합부대]시, 입히는 피해 +20%"
   },
   "Soldiers": [
@@ -91,13 +91,13 @@
   "Jobs": [
     {
       "Name": "로열나이트",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "란스/1/1.png"
+          "ImageUrl": "란스/1/1.webp"
         },
         {
-          "ImageUrl": "란스/2/1.png"
+          "ImageUrl": "란스/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -120,13 +120,13 @@
     },
     {
       "Name": "드래곤마스터",
-      "Icon": "Icon_Occupation_Fly.png",
+      "Icon": "Icon_Occupation_Fly.webp",
       "SD": [
         {
-          "ImageUrl": "란스/1/2.png"
+          "ImageUrl": "란스/1/2.webp"
         },
         {
-          "ImageUrl": "란스/2/1.png"
+          "ImageUrl": "란스/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -391,7 +391,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.webp",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
       "SubSkills": null,
       "Animation": null
@@ -417,7 +417,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
       "SubSkills": null,
       "Animation": null
@@ -431,7 +431,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_FlyControl.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_FlyControl.webp",
       "Desc": "[패시브]생명이 50% 이상인 경우 전투 진입시 받는 모든 피해량 -15%.",
       "SubSkills": null,
       "Animation": null
@@ -457,7 +457,7 @@
           "Value": "맵 전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Empire1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Empire1.webp",
       "Desc": "[초절강화] 액티브 스킬. 범위 내 모든 '제국의 빛' 아군의 공격, 방어 능력치가 크게<br/>상승하고 4턴 지속. (이 효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -471,7 +471,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefDown.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -497,7 +497,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -511,7 +511,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.webp",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -525,7 +525,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSuper.webp",
       "Desc": "[패시브]공격 전 이동거리 1칸마다 공격+5% (최대 +15%).",
       "SubSkills": null,
       "Animation": null
@@ -551,7 +551,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.webp",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -577,10 +577,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/란스.png",
+      "IconImageUrl": "../img/Super/란스.webp",
       "Desc": "[패시브]<b>영웅 직업이 비병이나 기병인 부대와 교전 시 전투 진입 전</b> 부대 생명 <font color=\"red\">20</font>% 회복<br/>[물리피해] 단일적군을 공격해 1.5배의 피해를 준다.<br/><b>자신이 혼합 부대일 경우 전투 후</b> 『<font color=\"blue\">바람타기</font>』 및 『<font color=\"blue\">이동시 지형 제한을 받지 않음</font>』 효과 획득<br/>지속 <font color=\"red\">2</font>턴<br/><b>이 스킬로 적군을 격파시</b> 쿨타임 <font color=\"red\">-3</font>턴.",
       "SubSkills": null,
-      "Animation": "../img/Super/란스.gif"
+      "Animation": "../img/Super/란스_Ani.gif"
     }
   ],
   "Bio": [

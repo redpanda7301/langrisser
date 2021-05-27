@@ -2,27 +2,27 @@
 {
   "Skins": [
     {
-      "ImageUrl": "아멜다/1.png",
+      "ImageUrl": "아멜다/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "아멜다/2.png",
+      "ImageUrl": "아멜다/2.webp",
       "Desc": "스킨상점"
     },
     {
-      "ImageUrl": "아멜다/3.png",
+      "ImageUrl": "아멜다/3.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "아멜다/4.png",
+      "ImageUrl": "아멜다/4.webp",
       "Desc": "이벤트"
     },
     {
-      "ImageUrl": "아멜다/5.png",
+      "ImageUrl": "아멜다/5.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "아멜다/6.png",
+      "ImageUrl": "아멜다/6.webp",
       "Desc": "한정판매"
     }
   ],
@@ -65,7 +65,7 @@
   "Talent": [
     {
       "Name": "딴지 걸기",
-      "Icon": "1.png",
+      "Icon": "1.webp",
       "Abilities": [
         {
           "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">1</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">1</font>배만큼 회복."
@@ -92,7 +92,7 @@
   "Equip": {
     "Name": "■ ■ ■ ■(무기)",
     "Stats": "생명 583,지력 85",
-    "Icon": "아멜다.png",
+    "Icon": "아멜다.webp",
     "Ability": "지력 +10%<br/>공격하여 피해를 입힌 후 적군에게 '이동력 -1, 호위불가' 디버프 부여, 1턴 지속"
   },
   "Soldiers": [
@@ -107,25 +107,25 @@
   "Jobs": [
     {
       "Name": "세인트",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "아멜다/1/1.png"
+          "ImageUrl": "아멜다/1/1.webp"
         },
         {
-          "ImageUrl": "아멜다/2/1.png"
+          "ImageUrl": "아멜다/2/1.webp"
         },
         {
-          "ImageUrl": "아멜다/3/1.png"
+          "ImageUrl": "아멜다/3/1.webp"
         },
         {
-          "ImageUrl": "아멜다/4/1.png"
+          "ImageUrl": "아멜다/4/1.webp"
         },
         {
-          "ImageUrl": "아멜다/5/1.png"
+          "ImageUrl": "아멜다/5/1.webp"
         },
         {
-          "ImageUrl": "아멜다/6/1.png"
+          "ImageUrl": "아멜다/6/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -148,25 +148,25 @@
     },
     {
       "Name": "오라클",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "아멜다/1/2.png"
+          "ImageUrl": "아멜다/1/2.webp"
         },
         {
-          "ImageUrl": "아멜다/2/1.png"
+          "ImageUrl": "아멜다/2/1.webp"
         },
         {
-          "ImageUrl": "아멜다/3/1.png"
+          "ImageUrl": "아멜다/3/1.webp"
         },
         {
-          "ImageUrl": "아멜다/4/1.png"
+          "ImageUrl": "아멜다/4/1.webp"
         },
         {
-          "ImageUrl": "아멜다/5/1.png"
+          "ImageUrl": "아멜다/5/1.webp"
         },
         {
-          "ImageUrl": "아멜다/6/1.png"
+          "ImageUrl": "아멜다/6/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -442,7 +442,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.webp",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -468,7 +468,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -494,7 +494,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
       "SubSkills": null,
       "Animation": null
@@ -520,7 +520,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/20.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/20.webp",
       "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 공격, 지력 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -546,7 +546,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/21.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/21.webp",
       "Desc": "[마법 피해] 0.3배의 광역 피해를 주고 <br/>범위 내 적군의 버프를 1개 제거하며 무작위 디버프를 1개 부여한다.",
       "SubSkills": null,
       "Animation": null
@@ -560,7 +560,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/22.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/22.webp",
       "Desc": "[패시브] 부대 생명이 90%이상일 시 지력, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -586,7 +586,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.webp",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -612,7 +612,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/24.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/24.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더 큰 피해를 입힌다. 버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -638,7 +638,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -664,10 +664,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super36.png",
+      "IconImageUrl": "../img/Super/아멜다.webp",
       "Desc": "[지원] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 동시에 [조롱] 획득.<br/>[조롱]: \"행동 종료시, 주위 4칸 이내 2기 적군에게 1개의 디버프 부여\", 2턴 지속.",
       "SubSkills": null,
-      "Animation": "../img/Super/아멜다.gif"
+      "Animation": "../img/Super/아멜다_Ani.gif"
     }
   ],
   "Bio": [

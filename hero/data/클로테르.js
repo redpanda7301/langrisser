@@ -2,12 +2,16 @@
 {
   "Skins": [
     {
-      "ImageUrl": "클로테르/1.png",
+      "ImageUrl": "클로테르/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "클로테르/2.png",
+      "ImageUrl": "클로테르/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "클로테르/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "클로테르",
@@ -47,7 +51,7 @@
   "Talent": [
     {
       "Name": "파멸의 화염문장",
-      "Icon": "Gift_Clotaire.png",
+      "Icon": "Gift_Clotaire.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -84,13 +88,16 @@
   "Jobs": [
     {
       "Name": "화염 검사 마스터",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "클로테르/1/1.png"
+          "ImageUrl": "클로테르/1/1.webp"
         },
         {
-          "ImageUrl": "클로테르/2/1.png"
+          "ImageUrl": "클로테르/2/1.webp"
+        },
+        {
+          "ImageUrl": "클로테르/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -113,13 +120,16 @@
     },
     {
       "Name": "화염 수정 마도사",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "클로테르/1/2.png"
+          "ImageUrl": "클로테르/1/2.webp"
         },
         {
-          "ImageUrl": "클로테르/2/1.png"
+          "ImageUrl": "클로테르/2/1.webp"
+        },
+        {
+          "ImageUrl": "클로테르/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -353,7 +363,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/1.webp",
       "Desc": "[마법 피해]단일 개체 1.5배 피해, 대 보병 특효,<br/>근접전 병사 대동 시 병사도 함께 공격, 해당 스킬은 근접전 패널티 무효화.",
       "SubSkills": null,
       "Animation": null
@@ -367,7 +377,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로<br/>적 마방 -25%, 지속 1행동",
       "SubSkills": null,
       "Animation": null
@@ -385,7 +395,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/2.webp",
       "Desc": "[지원]공격의 15% 수치만큼 지력 증가,지속 4행동, 사용 후 재행동 2칸,<br/>스킬 사용 후 해당 행동은 자신에게 걸린 버프 지속 시간이 감소하지 않음.",
       "SubSkills": null,
       "Animation": null
@@ -411,7 +421,7 @@
           "Value": "주위 3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/3.webp",
       "Desc": "[마법피해]주위 3바퀴 범위 내 적에게 0.33 피해. 대 보병 특효 및 적에게 '작열' 효과 부여<br/>다음 턴 행동 종료 시 공격자 지력 <font color=\"red\">2</font>배 수치 고정피해, 지속 2행동",
       "SubSkills": null,
       "Animation": null
@@ -437,7 +447,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.webp",
       "Desc": "[마법피해]범위 내 0.36배 피해. 대 보병 특효. 적에게 다음 턴 행동 종료 시 최대 생명 <font color=\"red\">20%</font> 수치 고정피해 부여.",
       "SubSkills": null,
       "Animation": null
@@ -463,7 +473,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/4.webp",
       "Desc": "[지원]지원. 부대에 '불태우기' 효과 부여 : <br/>선공으로 피해를 입힌 후 고정피해. 피해 수치는 클로테르 지력 + 공격 1배 수치,지속 4행동. 사용 후 2칸 재행동,   <br/>스킬 사용 후 해당 행동은 자신에게 걸린 버프 지속 시간이 감소하지 않음",
       "SubSkills": null,
       "Animation": null
@@ -489,7 +499,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/5.webp",
       "Desc": "[물리 피해]1줄 직선 상 적에게 0.3배 피해. 대 보병 특효. 적에게 소각 효과 부여 : <br/>다음 턴 행동 종료 시 클로테르 공격 + 지력 1배 수치 고정피해. 지속 2행동 (해제 불가)",
       "SubSkills": null,
       "Animation": null
@@ -515,7 +525,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/4.webp",
       "Desc": "[물리 피해] 주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.",
       "SubSkills": null,
       "Animation": null
@@ -541,10 +551,10 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "../img/Super/클로테르.png",
+      "IconImageUrl": "../img/Super/클로테르.webp",
       "Desc": "[패시브] 한 번의 공격으로 2명 이상의 적에게 피해를 입힐 경우 공격 후 지휘 효과 획득 :<br/>주위 3칸 범위 내에 있는 모든 아군이 '파멸의 화염 문장' 효과를 가진 <br/>적에게 공격 받아 전투 진입 시 부대 사거리 +1, 지속 2행동<br/>[액티브]아래 스킬 중 하나를 선택 사용<br/>1)화염 파멸<br/>[물리피해] 단일 개체 1.8배 피해, 전투 전 적 버프 5개 제거<br/>목표에게 '파멸의 화염 문장'이 있을 경우 해당 공격은 호위 무시 및 '화염 환상'의 쿨을 4행동으로 변경<br/>2)화염 파한<br/>[마법피해] 3줄 직선 상 적에게 0.36배 피해, 대 보병 특효<br/>적에게 받는 고정 피해 +20% 및 '소각' 효과 부여<br/>소각 : 다음 행동 종료 시 클로테르의 공격 + 지력 1배 수치의 고정피해, 지속 2행동 및 <br/>화염환상의 쿨을 4행동으로 변경, 화염 파한의 모든 효과는 해제 불가",
       "SubSkills": null,
-      "Animation": "../img/Super/클로테르.gif"
+      "Animation": "../img/Super/클로테르_Ani.gif"
     }
   ],
   "Bio": null,

@@ -2,23 +2,23 @@
 {
   "Skins": [
     {
-      "ImageUrl": "레온/1.png",
+      "ImageUrl": "레온/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "레온/2.png",
+      "ImageUrl": "레온/2.webp",
       "Desc": "스킨상점"
     },
     {
-      "ImageUrl": "레온/3.png",
+      "ImageUrl": "레온/3.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "레온/4.png",
+      "ImageUrl": "레온/4.webp",
       "Desc": "형귀스킨"
     },
     {
-      "ImageUrl": "레온/5.png",
+      "ImageUrl": "레온/5.webp",
       "Desc": "서밋아레나 시즌2 패자스킨"
     }
   ],
@@ -59,7 +59,7 @@
   "Talent": [
     {
       "Name": "전설의 기사",
-      "Icon": "43.png",
+      "Icon": "43.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -86,7 +86,7 @@
   "Equip": {
     "Name": "청룡의 갑옷(갑옷)",
     "Stats": "생명 437,방어 65",
-    "Icon": "레온.png",
+    "Icon": "레온.webp",
     "Ability": "방어 +10%<br/>피해를 받은후, \"지형 이동력 패널티 면역\"버프 획득, 1턴 지속"
   },
   "Soldiers": [
@@ -103,22 +103,22 @@
   "Jobs": [
     {
       "Name": "스트라이크 마스터",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "레온/1/1.png"
+          "ImageUrl": "레온/1/1.webp"
         },
         {
-          "ImageUrl": "레온/2/1.png"
+          "ImageUrl": "레온/2/1.webp"
         },
         {
-          "ImageUrl": "레온/3/1.png"
+          "ImageUrl": "레온/3/1.webp"
         },
         {
-          "ImageUrl": "레온/4/1.png"
+          "ImageUrl": "레온/4/1.webp"
         },
         {
-          "ImageUrl": "레온/5/1.png"
+          "ImageUrl": "레온/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -141,22 +141,22 @@
     },
     {
       "Name": "로열 나이트",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "레온/1/2.png"
+          "ImageUrl": "레온/1/2.webp"
         },
         {
-          "ImageUrl": "레온/2/1.png"
+          "ImageUrl": "레온/2/1.webp"
         },
         {
-          "ImageUrl": "레온/3/1.png"
+          "ImageUrl": "레온/3/1.webp"
         },
         {
-          "ImageUrl": "레온/4/1.png"
+          "ImageUrl": "레온/4/1.webp"
         },
         {
-          "ImageUrl": "레온/5/1.png"
+          "ImageUrl": "레온/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -420,7 +420,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br/>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
       "SubSkills": null,
       "Animation": null
@@ -434,7 +434,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BothBuf1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BothBuf1.webp",
       "Desc": "[패시브]부대 생명이 90% 이상일 시 공격,방어 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -460,7 +460,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/39.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/39.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -474,7 +474,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null
@@ -500,7 +500,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSoul.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSoul.webp",
       "Desc": "[지원]액티브 스킬, 자신 부대의 공격+30%, 동시에 [면역],[폭풍],[증원]효과 부여, 2턴 지속.<br/>사용 후 추가로 3칸 이동할 수 있고 공격이 가능하다.",
       "SubSkills": null,
       "Animation": null
@@ -514,7 +514,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -540,7 +540,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Empire1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Empire1.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '제국의 ' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>공격 전 이동거리 1칸마다 주는 피해 +5%(최대 15%), 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -566,7 +566,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Assault.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Assault.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.7배의 피해를 준다.<br/>전투 후 상대의 이동력 -2 및 '호위 불가'부여, 2턴 지속, 이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
@@ -580,7 +580,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf1.webp",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 +12%.",
       "SubSkills": null,
       "Animation": null
@@ -606,10 +606,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super4.png",
+      "IconImageUrl": "../img/Super/레온.webp",
       "Desc": "[물리피해] 단일 적군을 공격하여 1.7배의 물리 피해를 입힌다.<br/>전투후 행동 종료 시 자신 주위 1바퀴 범위내 모든 적군에게 0.3배의 범위피해를 입힌다.<br/>명중한 적군의 위치를 변화시키고 랜덤한 디버프를 부여한다.",
       "SubSkills": null,
-      "Animation": "../img/Super/mmexport1579538547086.gif"
+      "Animation": "../img/Super/레온_Ani.gif"
     }
   ],
   "Bio": [

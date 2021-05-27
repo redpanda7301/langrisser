@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "디하르트/1.png",
+      "ImageUrl": "디하르트/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "디하르트/2.png",
+      "ImageUrl": "디하르트/2.webp",
       "Desc": "스킨상점"
     },
     {
-      "ImageUrl": "디하르트/3.png",
+      "ImageUrl": "디하르트/3.webp",
       "Desc": "비경상점"
     }
   ],
@@ -52,7 +52,7 @@
   "Talent": [
     {
       "Name": "자유의 의지",
-      "Icon": "51.png",
+      "Icon": "51.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -79,7 +79,7 @@
   "Equip": {
     "Name": "황금 사자(투구)",
     "Stats": "생명 583,마방 48",
-    "Icon": "디하르트.png",
+    "Icon": "디하르트.webp",
     "Ability": "마방 +10%<br/>공격하여 적군을 죽인 이후 행동 종료후 주위 3칸이내 적군 1명에게 \"기절\" 부여,1턴 지속"
   },
   "Soldiers": [
@@ -96,16 +96,16 @@
   "Jobs": [
     {
       "Name": "로열 나이트",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "디하르트/1/1.png"
+          "ImageUrl": "디하르트/1/1.webp"
         },
         {
-          "ImageUrl": "디하르트/2/1.png"
+          "ImageUrl": "디하르트/2/1.webp"
         },
         {
-          "ImageUrl": "디하르트/3/1.png"
+          "ImageUrl": "디하르트/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -128,16 +128,16 @@
     },
     {
       "Name": "하이 마스터",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "디하르트/1/2.png"
+          "ImageUrl": "디하르트/1/2.webp"
         },
         {
-          "ImageUrl": "디하르트/2/2.png"
+          "ImageUrl": "디하르트/2/2.webp"
         },
         {
-          "ImageUrl": "디하르트/3/2.png"
+          "ImageUrl": "디하르트/3/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -402,7 +402,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -416,7 +416,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -442,7 +442,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/5.webp",
       "Desc": "[지원]액티브 스킬, 공격 +20%, 1턴 지속.<br/>사용 후 3칸 추가 이동 및 재공격 가능.",
       "SubSkills": null,
       "Animation": null
@@ -456,7 +456,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.webp",
       "Desc": "[패시브]전투 전 이동거리 1칸마다 <br/>부대 치명타율 +5%,치명타 피해량 +5%(최대 +15%)",
       "SubSkills": null,
       "Animation": null
@@ -482,7 +482,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Assault.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Assault.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.7배의 피해를 준다.<br/>전투 후 상대의 이동력 -2 및 '호위 불가'부여, 2턴 지속, 이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
@@ -496,7 +496,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass1.webp",
       "Desc": "[패시브]전투 중 치명타가 발생한 경우<br/>전투 후 적에게 [고정 피해]를 준다.(피해량은 영웅 공격의 2배)",
       "SubSkills": null,
       "Animation": null
@@ -522,7 +522,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Origin1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Origin1.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 기원' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 <br/>자신 부대가 버프를 5개 이상 가지고 있을 경우 전투 중 주는 피해량 +15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -548,7 +548,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeSuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeSuper.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>전투 전 상대가 가진 버프를 최대 2개 뺏어온다.",
       "SubSkills": null,
       "Animation": null
@@ -562,7 +562,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.webp",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -588,10 +588,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/디하르트.png",
+      "IconImageUrl": "../img/Super/디하르트.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.치명타율 +20%.<br/>치명타가 발생한다면 전투 후 준 피해량의 30%만큼 회복한다.<br/>전투 전 상대가 가진 버프를 최대 2개 뺏어온다.<br/>이 스킬로 적군을 격파하지 못해도 자신이 보유한 '적군 격파시 발동'효과를 발동.",
       "SubSkills": null,
-      "Animation": "../img/Super/디하르트.gif"
+      "Animation": "../img/Super/디하르트_Ani.gif"
     }
   ],
   "Bio": [

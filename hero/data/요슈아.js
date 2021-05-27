@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "요슈아/1.png",
+      "ImageUrl": "요슈아/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "요슈아/2.png",
+      "ImageUrl": "요슈아/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "어둠의 소년",
-      "Icon": "61.png",
+      "Icon": "61.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -85,13 +85,13 @@
   "Jobs": [
     {
       "Name": "쉐도우",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "요슈아/1/1.png"
+          "ImageUrl": "요슈아/1/1.webp"
         },
         {
-          "ImageUrl": "요슈아/2/1.png"
+          "ImageUrl": "요슈아/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -114,13 +114,13 @@
     },
     {
       "Name": "칠흑의 송곳니",
-      "Icon": "Icon_Occupation_Monster.png",
+      "Icon": "Icon_Occupation_Monster.webp",
       "SD": [
         {
-          "ImageUrl": "요슈아/1/2.png"
+          "ImageUrl": "요슈아/1/2.webp"
         },
         {
-          "ImageUrl": "요슈아/2/1.png"
+          "ImageUrl": "요슈아/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -354,7 +354,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DoubleAttack.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DoubleAttack.webp",
       "Desc": "[물리 피해]단일 적군을 공격하여 1배 전투 피해를 입힌다.<br/>40%확률로 2번 공격.",
       "SubSkills": null,
       "Animation": null
@@ -368,7 +368,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass3.webp",
       "Desc": "[패시브]치명타 피해량 +20%. 전투 중 치명타가 발생한 경우<br/>전투 종료 후 받는 모든 피해량 -30%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -382,7 +382,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.webp",
       "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br/>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
       "SubSkills": null,
       "Animation": null
@@ -408,7 +408,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_StarLocation.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_StarLocation.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '시공의 중심' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 범위 스킬 피해+20%,<br/>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -434,7 +434,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MagicEye.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MagicEye.webp",
       "Desc": "[물리 피해]치명타 확률 +10%. 범위 내 다수의 적군을 공격하여 0.3배 범위 피해를 입힌다.<br/>랜덤으로 1개 디버프 시전.'마법사'와 전투 시 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -460,7 +460,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Shadow2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Shadow2.webp",
       "Desc": "[물리 피해]치명타 확률 +15%. 라인에 있는 적을 모두 관통하며<br/>0.35배의 범위 피해를 입힌다. 동시에 적의 2개 버프를 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -474,7 +474,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -500,7 +500,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PhantomAttack.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PhantomAttack.webp",
       "Desc": "[물리 피해]치명타 확률 +30%. 주위 4칸 내 모든 적군에게<br/>03배 범위 피해를 입힌다.'마법사'와 전투 시 더 큰 피해를 준다.<br/>전투 후 재이동 3칸 가능.",
       "SubSkills": null,
       "Animation": null
@@ -526,10 +526,10 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super41.png",
+      "IconImageUrl": "../img/Super/요슈아.webp",
       "Desc": "[물리피해]치명타확률 +30%.<br/>3칸 직선상의 모든 적에게 0.3배의 범위피해를 준다.<br/>법사에게 특효. 치명타발생시 1개의 랜덤한 디버프 부여,<br/>공격시, 기술 사거리의 가장먼곳으로 이동.<br/>공격후 3칸 재이동 가능.",
       "SubSkills": null,
-      "Animation": "../img/Super/요슈아.gif"
+      "Animation": "../img/Super/요슈아_Ani.gif"
     }
   ],
   "Bio": [

@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "그레니어/1.png",
+      "ImageUrl": "그레니어/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "그레니어/2.png",
+      "ImageUrl": "그레니어/2.webp",
       "Desc": "스킨상점"
     }
   ],
@@ -47,7 +47,7 @@
   "Talent": [
     {
       "Name": "굳센 반격",
-      "Icon": "2.png",
+      "Icon": "2.webp",
       "Abilities": [
         {
           "Desc": "공격을 받아 전투 진입 시 전투 후 <font color=\"red\">50%</font> 확률로 <br/>자신의 공격 방어 <font color=\"red\">+5%</font> <font color=\"red\">2</font>턴 지속 최대 <font color=\"red\">2</font>회 누적 가능."
@@ -74,7 +74,7 @@
   "Equip": {
     "Name": "꿈을 쫓는 이의 관(투구)",
     "Stats": "생명 583,마방 48",
-    "Icon": "그레니어.png",
+    "Icon": "그레니어.webp",
     "Ability": "마방 +5%<br/>자신의 강화버프가 7개 이상일 경우, 반격피해 +50%"
   },
   "Soldiers": [
@@ -89,13 +89,13 @@
   "Jobs": [
     {
       "Name": "마샬",
-      "Icon": "Icon_Occupation_Marines.png",
+      "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
-          "ImageUrl": "그레니어/1/1.png"
+          "ImageUrl": "그레니어/1/1.webp"
         },
         {
-          "ImageUrl": "그레니어/2/1.png"
+          "ImageUrl": "그레니어/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -118,13 +118,13 @@
     },
     {
       "Name": "보우마스터",
-      "Icon": "Icon_Occupation_Archer.png",
+      "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "그레니어/1/2.png"
+          "ImageUrl": "그레니어/1/2.webp"
         },
         {
-          "ImageUrl": "그레니어/2/2.png"
+          "ImageUrl": "그레니어/2/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Guard.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Guard.webp",
       "Desc": "[액티브] 액티브 스킬, 근접한 <font color=\"red\">2</font>칸 내 아군이 물리 공격을 받을 시 대신 전투에 진입한다. <font color=\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -426,7 +426,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SpearCrash1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SpearCrash1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br/>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -452,7 +452,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BitterlyHit.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BitterlyHit.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br/>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -478,7 +478,7 @@
           "Value": "맵 전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Light1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Light1.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의 공격, 방어 능력치가 크게 상승하고 <font color=\"#DC143C\">4턴</font> 지속.<br/>(이 효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -492,7 +492,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 30%확률로 발동, 받는 물리 피해량 <font color=\"#DC143C\">-30%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -506,7 +506,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -520,7 +520,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_CounterAttack2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_CounterAttack2.webp",
       "Desc": "[패시브] 공격을 받아 전투 진입 시 <font color=\"#DC143C\">10%</font>의 확률로 적보다 먼저 공격한다.<br/>기술 <font color=\"#DC143C\">10</font>마다 확률 <font color=\"#DC143C\">+1%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -534,7 +534,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helmet.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helmet.webp",
       "Desc": "[패시브] 원거리 공격을 받을 시 <font color=\"#DC143C\">25%</font>확률로 부대가 받는 모든 피해 <font color=\"#DC143C\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -560,7 +560,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br/>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
       "SubSkills": null,
       "Animation": null
@@ -586,10 +586,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/그레니어.png",
+      "IconImageUrl": "../img/Super/그레니어.webp",
       "Desc": "[패시브]인접한 아군이 받는 <b>모든 공격</b>을 대신 받는다.<br/>[액티브]호위 범위 <font color=\"red\">2</font>칸으로 증가. '<font color=\"blue\">전력 찌르기</font>' 효과 획득,  <br/>기술 <font color=\"red\">+30</font>% (지속 <font color=\"red\">3</font>행동), <br/>'<font color=\"purple\">굳센 반격</font>' <font color=\"red\">2</font>스택 획득, <br/><b>행동 종료 시 자신이 위치한 지형에 '<font color=\"purple\">나의 영역</font>'</b> 효과 부여 : <br/><b>아군이 이동 시 통과 가능한 지형을 '<font color=\"silver\">성벽</font>'으로 간주</b>, <br/><b>부대는 지형에 따른 이동력 패널티를 받지 않으며 행동 종료 시</b> 생명 <font color=\"red\">20</font>% 회복, <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/그레니어.gif"
+      "Animation": "../img/Super/그레니어_Ani.gif"
     }
   ],
   "Bio": [

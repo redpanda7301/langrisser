@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "아이리스/1.png",
+      "ImageUrl": "아이리스/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "아이리스/2.png",
+      "ImageUrl": "아이리스/2.webp",
       "Desc": "한정판매"
     }
   ],
@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "러블리 하트",
-      "Icon": "33.png",
+      "Icon": "33.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -84,13 +84,13 @@
   "Jobs": [
     {
       "Name": "초능력 소녀",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "아이리스/1/1.png"
+          "ImageUrl": "아이리스/1/1.webp"
         },
         {
-          "ImageUrl": "아이리스/2/1.png"
+          "ImageUrl": "아이리스/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -113,13 +113,13 @@
     },
     {
       "Name": "아이리스 전용 광무",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "아이리스/1/2.png"
+          "ImageUrl": "아이리스/1/2.webp"
         },
         {
-          "ImageUrl": "아이리스/2/1.png"
+          "ImageUrl": "아이리스/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -353,7 +353,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.webp",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -379,7 +379,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -405,7 +405,7 @@
           "Value": ""
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Alice2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Alice2.webp",
       "Desc": "[액티브] 범위 안의 임의 1칸으로 이동하며<br/>행동 종료시 \"주위 2칸 범위 내 모든 아군의 생명 회복<br/>회복량은 지력의 2배\", 2턴 지속 효과 획득",
       "SubSkills": null,
       "Animation": null
@@ -431,7 +431,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.webp",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -445,7 +445,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraMDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraMDefUp.webp",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 마방 +15%.",
       "SubSkills": null,
       "Animation": null
@@ -471,7 +471,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.webp",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -485,7 +485,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.webp",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -511,7 +511,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Alice1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Alice1.webp",
       "Desc": "[액티브] 아군 1부대를 범위 안의 임의 1칸으로 이동시키며<br/>지형 이동력 저하 면역, 입히는 피해+20%,받는피해 -20% 버프,2턴 지속.<br/><b>(위치 이동 범위는 대상을 기준으로 5칸)</b><br/>(유저의 부대에게만 쓸 수 있다.)",
       "SubSkills": null,
       "Animation": null
@@ -537,10 +537,10 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "../img/Super/아이리스.png",
+      "IconImageUrl": "../img/Super/아이리스.webp",
       "Desc": "[치료]액티브. 자신을 텔레포트 시킨 후 주위 <font color=\"red\">4</font>칸 범위 내 아군 생명 회복 및 디버프 <font color=\"red\">3</font>개 제거,<br/>회복량은 술자 지력 <font color=\"red\">3</font>배 수치, 그리고 자신에게 효과 부여<br/>행동 종료 시 자신 주위 <font color=\"red\">2</font>칸 범위 내 아군 생명 회복 및 디버프 <font color=\"red\">1</font>개 제거, <br/>회복량은 술자 <font color=\"red\">2.5</font>배 수치, 지속 <font color=\"red\">3</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/아이리스.gif"
+      "Animation": "../img/Super/아이리스_Ani.gif"
     }
   ],
   "Bio": [

@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "헬레나/1.png",
+      "ImageUrl": "헬레나/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "헬레나/2.png",
+      "ImageUrl": "헬레나/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "헬레나/3.png",
+      "ImageUrl": "헬레나/3.webp",
       "Desc": "형귀뽑기"
     }
   ],
@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "크리스탈의 기사",
-      "Icon": "Gift_Helena.png",
+      "Icon": "Gift_Helena.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -78,7 +78,7 @@
   "Equip": {
     "Name": "빛나는 달의 수정갑옷(갑옷)",
     "Stats": "생명 437,방어 65",
-    "Icon": "헬레나.png",
+    "Icon": "헬레나.webp",
     "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%,방어 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/><b>행동 종료 시 <font color=\"red\">1</font>턴간 주위 <font color=\"red\">1</font>바퀴 범위에 <font color=\"blue\">빛나는 수정</font> 특수 효과 추가,<br/>자신이 <font color=\"blue\">빛나는 수정</font> 지형에 있을 경우 받는 피해 <font color=\"red\">-15</font>%</b> 및<br/><b>피격 후 자신 생명 <font color=\"red\">30</font>% </b> 수치  <b><font color=\"blue\">회복</font></b>"
   },
   "Soldiers": [
@@ -93,16 +93,16 @@
   "Jobs": [
     {
       "Name": "스트라이크 마스터",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "헬레나/1/1.png"
+          "ImageUrl": "헬레나/1/1.webp"
         },
         {
-          "ImageUrl": "헬레나/2/1.png"
+          "ImageUrl": "헬레나/2/1.webp"
         },
         {
-          "ImageUrl": "헬레나/3/1.png"
+          "ImageUrl": "헬레나/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -125,16 +125,16 @@
     },
     {
       "Name": "로열 나이트",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "헬레나/1/2.png"
+          "ImageUrl": "헬레나/1/2.webp"
         },
         {
-          "ImageUrl": "헬레나/2/1.png"
+          "ImageUrl": "헬레나/2/1.webp"
         },
         {
-          "ImageUrl": "헬레나/3/1.png"
+          "ImageUrl": "헬레나/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -368,7 +368,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -382,7 +382,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helena1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helena1.webp",
       "Desc": "[패시브]행동종료시, 주위 1바퀴 범위내 모든 적군에게 0.1배의 범위피해를 주고,<br/>25%확률로 적군에게 '임의의 장비스킬 무효화(최대생명치제외)', 2턴 지속.<br/>NPC의 경우 임의의 속성 -25%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -408,7 +408,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -422,7 +422,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null
@@ -448,7 +448,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helena2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helena2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.6배의 피해를 준다.<br/>전투후 적군의 '장신구 스킬 무효화', 2턴 지속. 제거불가.<br/>NPC의 경우 '받는피해상승 +30%', 2턴 지속. 제거불가.",
       "SubSkills": null,
       "Animation": null
@@ -474,7 +474,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash3.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
       "SubSkills": null,
       "Animation": null
@@ -488,7 +488,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -514,7 +514,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSoul.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSoul.webp",
       "Desc": "[지원]액티브 스킬, 자신 부대의 공격+30%, 동시에 [면역],[폭풍],[증원]효과 부여, 2턴 지속.<br/>사용 후 추가로 3칸 이동할 수 있고 공격이 가능하다.",
       "SubSkills": null,
       "Animation": null
@@ -540,10 +540,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super39.png",
+      "IconImageUrl": "../img/Super/헬레나.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.6배의 피해를 준다.<br/>전투후 적군의 '무기 기술 무효화', 2턴 지속. 제거불가.<br/>NPC의 경우 '입히는피해 -30%', 2턴 지속. 제거불가.<br/>전투후 주위 2칸내 모든 적군에게 0.2배의 범위피해를 입힌다.<br/>동시에 명중한 지형에 1회합 동안 [크리스탈]효과 부여<br/>(해당 효과는 고유기술의 크리스탈 효과와 동일)",
       "SubSkills": null,
-      "Animation": "../img/Super/헬레나.gif"
+      "Animation": "../img/Super/헬레나_Ani.gif"
     }
   ],
   "Bio": [

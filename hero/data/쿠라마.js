@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "쿠라마/1.png",
+      "ImageUrl": "쿠라마/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "쿠라마/2.png",
+      "ImageUrl": "쿠라마/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "식물 조작",
-      "Icon": "78.png",
+      "Icon": "78.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -86,13 +86,13 @@
   "Jobs": [
     {
       "Name": "마계의 장미",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "쿠라마/1/1.png"
+          "ImageUrl": "쿠라마/1/1.webp"
         },
         {
-          "ImageUrl": "쿠라마/2/1.png"
+          "ImageUrl": "쿠라마/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -115,13 +115,13 @@
     },
     {
       "Name": "요호의 환생",
-      "Icon": "Icon_Occupation_Monster.png",
+      "Icon": "Icon_Occupation_Monster.webp",
       "SD": [
         {
-          "ImageUrl": "쿠라마/1/2.png"
+          "ImageUrl": "쿠라마/1/2.webp"
         },
         {
-          "ImageUrl": "쿠라마/2/1.png"
+          "ImageUrl": "쿠라마/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -355,7 +355,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -381,7 +381,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Kurama3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Kurama3.webp",
       "Desc": "[마법 피해] 적 단일 개체에 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br/>동시에 적에게 [마계의 씨앗] 부여 (마계의 씨앗: 턴 종료 시, 영웅의 지력 <font color=\"red\">2</font>배 수치의 [고정 피해] .<br/>마계의 식물스킬로 공격을 받아 전투 진입 시, 마방 <font color=\"red\">-50%</font>). <br/>[요호] 발동 시, 스킬 사거리 <font color=\"red\">+1</font>. 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -407,7 +407,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Kurama1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Kurama1.webp",
       "Desc": "[변신] 사용 후, [요호] 로 변신 <br/>(요호: \"풀밭\"에 있을 경우, 근접 피해 감면을 무시한다. <br/>공격하여 전투 진입 시, 적의 마방을 <font color=\"red\">20%</font> 무시) (2턴 지속) <br/>효과 종료 시, 자신이 공격 받을 경우 반격 불가 (2턴 지속) <br/>(해당 스킬의 모든 효과는 제거 불가, 면역 불가)",
       "SubSkills": null,
       "Animation": null
@@ -421,7 +421,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.webp",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -447,7 +447,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamDef.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '치료 방해'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -473,7 +473,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -487,7 +487,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf5.webp",
       "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -513,7 +513,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Kurama2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Kurama2.webp",
       "Desc": "[마법 피해] 주위 <font color=\"red\">4</font>칸 내 모든 적에게 <font color=\"red\">0.2</font>배의 범위 피해를 입힌다.<br/>동시에 [풍화원무진] 발동. (풍화원무진: 적이 행동 종료 시, 쿠라마의 주위 <font color=\"red\">4</font>칸 내에 있을 경우 영웅의 지력 <font color=\"red\">2</font>배 수치의 고정 피해) (2턴 지속)<br/>[요호] 발동 시 [풍화원무진] 의 스킬 범위<font color=\"red\">+1</font>.",
       "SubSkills": null,
       "Animation": null
@@ -539,10 +539,10 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "../img/Super/쿠라마.png",
+      "IconImageUrl": "../img/Super/쿠라마.webp",
       "Desc": "[마법 피해] 자신 주변 4칸 이내 모든 적에게 0.2배의 범위 피해 및 [마계씨앗] 부여<br/>[마계씨앗]: 행동종료시 쿠라마 지력 2배의 [고정피해],마계식물 기술 공격을 받을 시 마방 - 50%<br/>동시에 자신에게 [화염장미진]: 쿠라마 주위 4칸 범위 내에 있는 적군이 '마계씨앗'효과 보유시<br/>피해를 입히기 전 쿠라마 지력의 2배[고정피해]를 받음, 2턴 지속.<br/>[요호상태]일경우 스킬의 범위및 효과범위 +1.",
       "SubSkills": null,
-      "Animation": "../img/Super/쿠라마.gif"
+      "Animation": "../img/Super/쿠라마_Ani.gif"
     }
   ],
   "Bio": [

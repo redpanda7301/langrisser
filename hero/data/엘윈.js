@@ -2,31 +2,31 @@
 {
   "Skins": [
     {
-      "ImageUrl": "엘윈/1.png",
+      "ImageUrl": "엘윈/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "엘윈/2.png",
+      "ImageUrl": "엘윈/2.webp",
       "Desc": "스킨상점"
     },
     {
-      "ImageUrl": "엘윈/3.png",
+      "ImageUrl": "엘윈/3.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "엘윈/4.png",
+      "ImageUrl": "엘윈/4.webp",
       "Desc": "비경상점"
     },
     {
-      "ImageUrl": "엘윈/5.png",
+      "ImageUrl": "엘윈/5.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "엘윈/sp.png",
+      "ImageUrl": "엘윈/sp.webp",
       "Desc": "SP 각성"
     },
     {
-      "ImageUrl": "엘윈/6.png",
+      "ImageUrl": "엘윈/6.webp",
       "Desc": "한정판매"
     }
   ],
@@ -68,7 +68,7 @@
   "Talent": [
     {
       "Name": "용사의 의지",
-      "Icon": "46.png",
+      "Icon": "46.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -94,7 +94,7 @@
   "SPTalent": [
     {
       "Name": "광룡의 의지",
-      "Icon": "SP_Gift_Elwin.png",
+      "Icon": "SP_Gift_Elwin.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -120,7 +120,7 @@
   "Equip": {
     "Name": "방랑의 기사(무기)",
     "Stats": "생명 437,공격 107",
-    "Icon": "엘윈.png",
+    "Icon": "엘윈.webp",
     "Ability": "공격 +<font color=\"red\">10%</font><br/>기술을 사용하여 피해를 입힐시, <font color=\"red\">30%</font> 확률로 해당 기술의 쿨타임 -5"
   },
   "Soldiers": [
@@ -137,28 +137,28 @@
   "Jobs": [
     {
       "Name": "히어로",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "엘윈/1/1.png"
+          "ImageUrl": "엘윈/1/1.webp"
         },
         {
-          "ImageUrl": "엘윈/2/1.png"
+          "ImageUrl": "엘윈/2/1.webp"
         },
         {
-          "ImageUrl": "엘윈/3/1.png"
+          "ImageUrl": "엘윈/3/1.webp"
         },
         {
-          "ImageUrl": "엘윈/4/1.png"
+          "ImageUrl": "엘윈/4/1.webp"
         },
         {
-          "ImageUrl": "엘윈/5/1.png"
+          "ImageUrl": "엘윈/5/1.webp"
         },
         {
-          "ImageUrl": "엘윈/sp/1.png"
+          "ImageUrl": "엘윈/sp/1.webp"
         },
         {
-          "ImageUrl": "엘윈/6/1.png"
+          "ImageUrl": "엘윈/6/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -181,28 +181,28 @@
     },
     {
       "Name": "광룡 기사단장",
-      "Icon": "Icon_Occupation_CavalrySP.png",
+      "Icon": "Icon_Occupation_CavalrySP.webp",
       "SD": [
         {
-          "ImageUrl": "엘윈/1/2.png"
+          "ImageUrl": "엘윈/1/2.webp"
         },
         {
-          "ImageUrl": "엘윈/2/2.png"
+          "ImageUrl": "엘윈/2/2.webp"
         },
         {
-          "ImageUrl": "엘윈/3/2.png"
+          "ImageUrl": "엘윈/3/2.webp"
         },
         {
-          "ImageUrl": "엘윈/4/2.png"
+          "ImageUrl": "엘윈/4/2.webp"
         },
         {
-          "ImageUrl": "엘윈/5/2.png"
+          "ImageUrl": "엘윈/5/2.webp"
         },
         {
-          "ImageUrl": "엘윈/sp/2.png"
+          "ImageUrl": "엘윈/sp/2.webp"
         },
         {
-          "ImageUrl": "엘윈/6/2.png"
+          "ImageUrl": "엘윈/6/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -225,28 +225,28 @@
     },
     {
       "Name": "마샬",
-      "Icon": "Icon_Occupation_Marines.png",
+      "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
-          "ImageUrl": "엘윈/1/3.png"
+          "ImageUrl": "엘윈/1/3.webp"
         },
         {
-          "ImageUrl": "엘윈/2/3.png"
+          "ImageUrl": "엘윈/2/3.webp"
         },
         {
-          "ImageUrl": "엘윈/3/3.png"
+          "ImageUrl": "엘윈/3/3.webp"
         },
         {
-          "ImageUrl": "엘윈/4/3.png"
+          "ImageUrl": "엘윈/4/3.webp"
         },
         {
-          "ImageUrl": "엘윈/5/3.png"
+          "ImageUrl": "엘윈/5/3.webp"
         },
         {
-          "ImageUrl": "엘윈/sp/3.png"
+          "ImageUrl": "엘윈/sp/3.webp"
         },
         {
-          "ImageUrl": "엘윈/6/3.png"
+          "ImageUrl": "엘윈/6/3.webp"
         }
       ],
       "AttkRange": 1,
@@ -493,7 +493,7 @@
       "Name": "개방",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/AlterEgo_Elwin.png",
+          "MaterialImgUrl": "../img/item/AlterEgo_Elwin.webp",
           "Amount": 1
         }
       ],
@@ -503,19 +503,19 @@
       "Name": "1단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/classup/rank8-1.png",
+          "MaterialImgUrl": "../img/classup/rank8-1.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/classup/rank7-1.png",
+          "MaterialImgUrl": "../img/classup/rank7-1.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/classup/rank6-1.png",
+          "MaterialImgUrl": "../img/classup/rank6-1.webp",
           "Amount": 50
         }
       ],
@@ -530,19 +530,19 @@
       "Name": "2단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/쓰알열쇠.png",
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/item/스알열쇠.png",
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/알열쇠.png",
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
           "Amount": 50
         }
       ],
@@ -557,11 +557,11 @@
       "Name": "3단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/룬스톤.png",
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
           "Amount": 2
         }
       ],
@@ -581,19 +581,19 @@
       "Name": "4단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/heart/h1.png",
+          "MaterialImgUrl": "../img/heart/h1.webp",
           "Amount": 60
         },
         {
-          "MaterialImgUrl": "../img/heart/h1-1.png",
+          "MaterialImgUrl": "../img/heart/h1-1.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/heart/x.png",
+          "MaterialImgUrl": "../img/heart/x.webp",
           "Amount": 12
         }
       ],
@@ -608,15 +608,15 @@
       "Name": "5단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.png",
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/item/Awaken_Stardust.png",
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
           "Amount": 5
         }
       ],
@@ -631,19 +631,19 @@
       "Name": "6단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/Item_MemoryEssence.png",
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
           "Amount": 600
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Rider1.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Rider1.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Rider2.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Rider2.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Rider4.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Rider4.webp",
           "Amount": 5
         }
       ],
@@ -682,7 +682,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -696,7 +696,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.webp",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -722,7 +722,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -748,7 +748,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Light2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Light2.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>생명이 80% 이상일 경우 전투 중 주는 피해량 +15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -774,7 +774,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordSoul.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordSoul.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.8배 피해를 준다.<br/>전투 전 적 부대의 버프 5개 제거 및 적 부대에게 '치료 방해' 부여, 2턴 지속<br/>이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
@@ -788,7 +788,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakDef.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -802,7 +802,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Barb.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Barb.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입시 전투 후 부대 생명이 50%이상이라면 [미늘]을 발동한다:<br/>전투 종료 후 적 부대에게 영웅 방어 2.5배만큼의 [고정 피해]를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -828,7 +828,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Support.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Support.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.7배 피해를 준다.<br/>전투 전 공격의 20%가 방어에 추가되며, 적 부대에게 '모든 패시브 스킬을 무효화한다'부여,2턴 지속,<br/>이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
@@ -842,7 +842,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf1.webp",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 +12%.",
       "SubSkills": null,
       "Animation": null
@@ -868,7 +868,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/엘윈/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/엘윈/1.webp",
       "Desc": "[액티브] 자신에게 '전설의 빛' 효과 부여 :<br/>엘윈 전용 장비 효과 발동 확률을 <font color=\"red\">100%</font>로 조절, 지속 1행동 및 '면역' 효과, 지속 2행동, <br/>사용 후 재행동 <font color=\"red\">3</font>칸 가능,부대가 혼합 병종이 아닐 경우 <font color=\"red\">4</font>칸 재행동<br/>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
       "SubSkills": null,
       "Animation": null
@@ -882,7 +882,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/엘윈/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/엘윈/2.webp",
       "Desc": "[패시브]아군 퇴각 시 부대 생명 <font color=\"red\">20%</font> 회복 및 고독한 강자 효과 획득.<br/>피격으로 전투 진입 전 생명 회복 <font color=\"red\">30%</font>, <br/>전투 후 피해량 <font color=\"red\">30%</font> 수치만큼 생명 회복, 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null

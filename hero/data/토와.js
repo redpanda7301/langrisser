@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "토와/1.png",
+      "ImageUrl": "토와/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "토와/2.png",
+      "ImageUrl": "토와/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "방랑 군사",
-      "Icon": "Gift_Towa.png",
+      "Icon": "Gift_Towa.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -86,13 +86,13 @@
   "Jobs": [
     {
       "Name": "방랑 검객",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "토와/1/1.png"
+          "ImageUrl": "토와/1/1.webp"
         },
         {
-          "ImageUrl": "토와/2/1.png"
+          "ImageUrl": "토와/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -115,13 +115,13 @@
     },
     {
       "Name": "페가수스 별의 기사",
-      "Icon": "Icon_Occupation_Fly.png",
+      "Icon": "Icon_Occupation_Fly.webp",
       "SD": [
         {
-          "ImageUrl": "토와/1/2.png"
+          "ImageUrl": "토와/1/2.webp"
         },
         {
-          "ImageUrl": "토와/2/2.png"
+          "ImageUrl": "토와/2/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -386,7 +386,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.                                        <br/>전투 전 [바람 타기]획득:생명이 50% 이상인 경우 전투 진입 시 받는 피해량 -15%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -400,7 +400,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/16.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/16.webp",
       "Desc": "[패시브] 행동 종료 시 20% 확률로 재행동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -414,7 +414,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.webp",
       "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -440,7 +440,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Towa1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Towa1.webp",
       "Desc": "자신에게 걸린 해제 가능한 버프 3개를 목표 아군에게 복사, 지속 2행동,                                        <br/>사용 후 2칸 재행동 (해당 재행동은 버프 지속 시간을 소모하지 않음)",
       "SubSkills": null,
       "Animation": null
@@ -466,7 +466,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parn2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parn2.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배의 피해.                                        <br/>전투 진입전 적군에게 '모든 패시브 스킬의 효과를 무효화' 효과 부여, 지속 1행동.",
       "SubSkills": null,
       "Animation": null
@@ -480,7 +480,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DoubleAttack.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DoubleAttack.webp",
       "Desc": "[패시브]공격하여 전투 후 주위 1칸 범위 내 모든 적군에게 0.1배 범위 피해를 입힌다.",
       "SubSkills": null,
       "Animation": null
@@ -506,7 +506,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.                                        <br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -520,7 +520,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및                                        <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -546,7 +546,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Towa2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Towa2.webp",
       "Desc": "[물리 피해]단일 개체 1.5배, 자신에게 걸린 버프 1개당 피해 +2% (최대 10%)                                        <br/>전투 진입 전 자신에게 초절 강화 특수 효과가 있을 경우 선제공격                                        <br/>앞 조건을 만족한 상태에서 적에게 초절 강화 특수 효과가 없을 경우 호위 무시                                        <br/>1) 버프 5개 = 피해 +10%,                                        <br/>2) 리인카 초절을 받은 토와 = 선빵,                                        <br/>3) 리인카 초절을 받은 토와가 노초절 적을 공격 = 선빵 + 호위 무시",
       "SubSkills": null,
       "Animation": null
@@ -564,23 +564,23 @@
           "Value": "5턴"
         }
       ],
-      "IconImageUrl": "../img/Super/토와_선택.png",
+      "IconImageUrl": "../img/Super/토와_선택.webp",
       "Desc": "[패시브] '강화 불가' 면역, 각성 액티브 효과 보유 시 병사가 받는 물리 피해 -35%                                        [액티브] 이하 효과 중 택일, 사용 후 3칸 재행동 가능",
       "SubSkills": [
         {
           "Name": "<b><font color=\"#0070c0\">진법 - 침공</font></b>",
           "Entries": null,
-          "IconImageUrl": "../img/Super/토와_1.png",
+          "IconImageUrl": "../img/Super/토와_1.webp",
           "Desc": "지원. '진법 - 침공' 효과 획득 : 지휘. 주위 3칸 범위 내 아군의 공격 지력 +15%,                                         <br/>선공으로 전투 진입 전 고정 피해 (공 0.5배 수치),                                         <br/>액티브 스킬로 적 격파 후 해당 스킬 쿨 -1, 지속 3행동, 해제 불가"
         },
         {
           "Name": "<b><font color=\"#0070c0\">진법 - 절벽</font></b>",
           "Entries": null,
-          "IconImageUrl": "../img/Super/토와_2.png",
+          "IconImageUrl": "../img/Super/토와_2.webp",
           "Desc": "지원. '진법 - 절벽' 효과 획득 : 지휘.                                         <br/>주위 3칸 범위 내 아군의 방어 +15%,                                         <br/>'고정 피해' '위치 이동' 면역, 지속 3행동, 해제 불가"
         }
       ],
-      "Animation": "../img/Super/토와.gif"
+      "Animation": "../img/Super/토와_Ani.gif"
     }
   ],
   "Bio": null,

@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "레나타/1.png",
+      "ImageUrl": "레나타/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "레나타/2.png",
+      "ImageUrl": "레나타/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "레나타/3.png",
+      "ImageUrl": "레나타/3.webp",
       "Desc": "한정판매"
     }
   ],
@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "복수의 용의 각인",
-      "Icon": "Gift_Renata.png",
+      "Icon": "Gift_Renata.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -78,7 +78,7 @@
   "Equip": {
     "Name": "용을 다스리는 관(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "레나타.png",
+    "Icon": "레나타.webp",
     "Ability": "방어 +(<font color=\"red\">2,4,6,8,10</font>)%,<br/>적에게 부여하는 디버프 효과 지속 시간 <font color=\"red\">+1</font>, <br/>자신의 고유 스킬 발동 시 자신에게 '바람 호위' 효과 부여 및 <br/>'공격 지력 저하' '침묵' 면역, 지속 <font color=\"red\">2</font>행동, <br/>'메테오 스트라이크' 초절을 받을 수 있음"
   },
   "Soldiers": [
@@ -94,16 +94,16 @@
   "Jobs": [
     {
       "Name": "드래곤 제너럴",
-      "Icon": "Icon_Occupation_Dragon.png",
+      "Icon": "Icon_Occupation_Dragon.webp",
       "SD": [
         {
-          "ImageUrl": "레나타/1/1.png"
+          "ImageUrl": "레나타/1/1.webp"
         },
         {
-          "ImageUrl": "레나타/2/1.png"
+          "ImageUrl": "레나타/2/1.webp"
         },
         {
-          "ImageUrl": "레나타/3/1.png"
+          "ImageUrl": "레나타/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -126,16 +126,16 @@
     },
     {
       "Name": "투신",
-      "Icon": "Icon_Occupation_Marines.png",
+      "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
-          "ImageUrl": "레나타/1/2.png"
+          "ImageUrl": "레나타/1/2.webp"
         },
         {
-          "ImageUrl": "레나타/2/2.png"
+          "ImageUrl": "레나타/2/2.webp"
         },
         {
-          "ImageUrl": "레나타/3/2.png"
+          "ImageUrl": "레나타/3/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
       "SubSkills": null,
       "Animation": null
@@ -414,7 +414,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Adversity.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Adversity.webp",
       "Desc": "[패시브] 부대 생명 <font color=\"red\">70%</font>이하일 때 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -440,7 +440,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Renata1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Renata1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>적군이 '비행'타입이동이라면 부대가 받는피해 -15%, 입히는피해 +15%.",
       "SubSkills": null,
       "Animation": null
@@ -454,7 +454,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Renata1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Renata1.webp",
       "Desc": "[패시브]전투진입시 부대가 받는 물리피해의 20%를 반사한다.<br/>동시에 전투후 부대 최대 생명 비율로 회복한다.<br/>(회복 생명 비율은 전투에서 반사한 피해의 1배)",
       "SubSkills": null,
       "Animation": null
@@ -480,7 +480,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Renata2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Renata2.webp",
       "Desc": "[물리 피해]단일 적에게 0.2배 물리 피해를 입힌다.<br/>동시에 [용인]부여: 레나타의 공격을 받을시 '호위를 받을수없음', <br/>'받는 피해 <font color=\"red\">+40</font>%'(보통 용의 인장과 중첩 불가), <font color=\"red\">2</font>턴 지속 및<br/>'재이동 불가', '부대의 패시브 스킬을 무효화', <br/>'이동력<font color=\"red\">-2</font>, 호위불가'(보통 용의 인장과 중첩 불가), <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -506,7 +506,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -520,7 +520,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraAtkDown.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraAtkDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 모든 적 부대 공격, 지력 -15%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -534,7 +534,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.webp",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -560,7 +560,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.webp",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -586,10 +586,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Super27.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/레나타.webp",
       "Desc": "[물리피해]단일 적 부대를 공격해 1.6배의 공격 피해를 준다.<br/>적군이 '비행'타입이동이 아니라면 선제 공격.<br/>적군이 '용인'버프를 보유시 전투전 [불굴]효과 획득 : <br/>'사망 시 부활 및 생명 20%회복. 최대 1회 가능.', 2턴 지속.<br/>",
       "SubSkills": null,
-      "Animation": "../img/Super/레나타.gif"
+      "Animation": "../img/Super/레나타_Ani.gif"
     }
   ],
   "Bio": [

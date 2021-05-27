@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "알티나/1.png",
+      "ImageUrl": "알티나/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "알티나/2.png",
+      "ImageUrl": "알티나/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "정보분석",
-      "Icon": "Gift_Altina.png",
+      "Icon": "Gift_Altina.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -84,13 +84,13 @@
   "Jobs": [
     {
       "Name": "위저드",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "알티나/1/1.png"
+          "ImageUrl": "알티나/1/1.webp"
         },
         {
-          "ImageUrl": "알티나/2/1.png"
+          "ImageUrl": "알티나/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -113,13 +113,13 @@
     },
     {
       "Name": "제국 첩보원",
-      "Icon": "Icon_Occupation_Fly.png",
+      "Icon": "Icon_Occupation_Fly.webp",
       "SD": [
         {
-          "ImageUrl": "알티나/1/2.png"
+          "ImageUrl": "알티나/1/2.webp"
         },
         {
-          "ImageUrl": "알티나/2/2.png"
+          "ImageUrl": "알티나/2/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -353,7 +353,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -379,7 +379,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -405,7 +405,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -431,7 +431,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Altina1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Altina1.webp",
       "Desc": "[마법 피해] 1줄 직선상 모든 적군을 공격해 0.33배의 범위피해를 준다.<br/>동시에 50%확률로 적군에게 \"액티브 스킬 금지\"부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -445,7 +445,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -471,7 +471,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.webp",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -485,7 +485,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.webp",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
       "SubSkills": null,
       "Animation": null
@@ -511,7 +511,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Altina2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Altina2.webp",
       "Desc": "[마법 피해] 범위내 다수의 적군에게 0.33배의 범위 피해를 준다.<br/>동시에 \"방어,마방 -20%\"부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -537,10 +537,10 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Super30.png",
+      "IconImageUrl": "../img/Super/알티나.webp",
       "Desc": "[마법 피해] 범위내 다수의 적군에게 0.4배의 범위 피해를 준다.<br/>동시에 적군에게 \"치명타확률 -20%\",\"치명타피해 -20%\",\"기술-20%\" 부여, 2턴 지속.",
       "SubSkills": null,
-      "Animation": "../img/Super/알티나.gif"
+      "Animation": "../img/Super/알티나_Ani.gif"
     }
   ],
   "Bio": [

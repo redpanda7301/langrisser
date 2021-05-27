@@ -2,23 +2,23 @@
 {
   "Skins": [
     {
-      "ImageUrl": "클라렛/1.png",
+      "ImageUrl": "클라렛/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "클라렛/2.png",
+      "ImageUrl": "클라렛/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "클라렛/3.png",
+      "ImageUrl": "클라렛/3.webp",
       "Desc": "형귀 스킨"
     },
     {
-      "ImageUrl": "클라렛/4.png",
+      "ImageUrl": "클라렛/4.webp",
       "Desc": "서밋아레나 시즌5 패자스킨"
     },
     {
-      "ImageUrl": "클라렛/5.png",
+      "ImageUrl": "클라렛/5.webp",
       "Desc": "한정판매"
     }
   ],
@@ -60,7 +60,7 @@
   "Talent": [
     {
       "Name": "방랑하는 왕녀",
-      "Icon": "72.png",
+      "Icon": "72.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -87,7 +87,7 @@
   "Equip": {
     "Name": "칼자스의 전투 투구(투구)",
     "Stats": "생명 364,마방 65",
-    "Icon": "클라렛.png",
+    "Icon": "클라렛.webp",
     "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/><b>주위 <font color=\"red\">2</font>칸 내 아군이 없을 경우</b> 생명 회복 <font color=\"red\">+15</font>% <br/><b>근접 공격 받아 전투 진입 시</b> 피해 <font color=\"red\">+20</font>%, 받는 피해 <font color=\"red\">-20</font>%"
   },
   "Soldiers": [
@@ -103,22 +103,22 @@
   "Jobs": [
     {
       "Name": "드래곤마스터",
-      "Icon": "Icon_Occupation_Fly.png",
+      "Icon": "Icon_Occupation_Fly.webp",
       "SD": [
         {
-          "ImageUrl": "클라렛/1/1.png"
+          "ImageUrl": "클라렛/1/1.webp"
         },
         {
-          "ImageUrl": "클라렛/2/1.png"
+          "ImageUrl": "클라렛/2/1.webp"
         },
         {
-          "ImageUrl": "클라렛/3/1.png"
+          "ImageUrl": "클라렛/3/1.webp"
         },
         {
-          "ImageUrl": "클라렛/4/1.png"
+          "ImageUrl": "클라렛/4/1.webp"
         },
         {
-          "ImageUrl": "클라렛/5/1.png"
+          "ImageUrl": "클라렛/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -141,22 +141,22 @@
     },
     {
       "Name": "소드 프린세스",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "클라렛/1/2.png"
+          "ImageUrl": "클라렛/1/2.webp"
         },
         {
-          "ImageUrl": "클라렛/2/2.png"
+          "ImageUrl": "클라렛/2/2.webp"
         },
         {
-          "ImageUrl": "클라렛/3/2.png"
+          "ImageUrl": "클라렛/3/2.webp"
         },
         {
-          "ImageUrl": "클라렛/4/1.png"
+          "ImageUrl": "클라렛/4/1.webp"
         },
         {
-          "ImageUrl": "클라렛/5/2.png"
+          "ImageUrl": "클라렛/5/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -421,7 +421,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.webp",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
       "SubSkills": null,
       "Animation": null
@@ -447,7 +447,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.webp",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -461,7 +461,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FollowingWind.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FollowingWind.webp",
       "Desc": "[패시브]공격 전 매 이동 1칸당 물리피해증가 5%(최대 25%)",
       "SubSkills": null,
       "Animation": null
@@ -475,7 +475,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf1.webp",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 +12%.",
       "SubSkills": null,
       "Animation": null
@@ -501,7 +501,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlySuper2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlySuper2.webp",
       "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>적 부대 격퇴 시, 해당 스킬의 쿨타임 <font color=\"red\">-3</font>.<br/>적 부대를 격퇴하지 못할 경우, 재행동할 수 있으며 [사기 저하] 효과를 받는다.<br/>(사기 저하: 주는 피해량 <font color=\"red\">-50%</font>.) (<font color=\"red\">1</font>턴 지속)",
       "SubSkills": null,
       "Animation": null
@@ -527,7 +527,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -541,7 +541,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Adversity.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Adversity.webp",
       "Desc": "[패시브] 부대 생명 <font color=\"red\">70%</font>이하일 때 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -555,7 +555,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.webp",
       "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +20%.",
       "SubSkills": null,
       "Animation": null
@@ -569,7 +569,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null
@@ -595,7 +595,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Super48.png",
+      "IconImageUrl": "../img/Super/클라렛.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.<br/>전투후 적군에게 \"강화불가\",\"패시브사용불가\"부여, 2턴 지속.(제거불가)<br/>적 부대 격퇴 시, 해당 스킬의 쿨타임 -3.<br/>[사기 저하]의 영향을 받지않고 있을시, 고유스킬[방랑하는 왕녀]의 증가되는<br/>이동력 효과에 이동력 1마다 '입히는피해+5%, 전투후 적군의 버프제거 1개' 추가.<br/>(최대 입히는피해+20%, 전투후 적군의 버프제거 4개)",
       "SubSkills": null,
       "Animation": "../img/Super/클라렛.gif"

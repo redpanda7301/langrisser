@@ -2,19 +2,19 @@
 {
   "Skins": [
     {
-      "ImageUrl": "시그마/1.png",
+      "ImageUrl": "시그마/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "시그마/2.png",
+      "ImageUrl": "시그마/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "시그마/3.png",
+      "ImageUrl": "시그마/3.webp",
       "Desc": "형귀 스킨"
     },
     {
-      "ImageUrl": "시그마/sp.png",
+      "ImageUrl": "시그마/sp.webp",
       "Desc": "SP 각성"
     }
   ],
@@ -56,7 +56,7 @@
   "Talent": [
     {
       "Name": "고고한 의지",
-      "Icon": "68.png",
+      "Icon": "68.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -82,7 +82,7 @@
   "SPTalent": [
     {
       "Name": "초월자의 의지",
-      "Icon": "SP_Gift_Sigma.png",
+      "Icon": "SP_Gift_Sigma.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -108,7 +108,7 @@
   "Equip": {
     "Name": "스카우터(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "시그마.png",
+    "Icon": "시그마.webp",
     "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/>행동종료시 <font color=\"red\">25%</font>확률로 \"공격<font color=\"red\">+20%</font>\" 버프획득, <font color=\"red\">4</font>턴 지속."
   },
   "Soldiers": [
@@ -125,19 +125,19 @@
   "Jobs": [
     {
       "Name": "배틀 마스터",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "시그마/1/1.png"
+          "ImageUrl": "시그마/1/1.webp"
         },
         {
-          "ImageUrl": "시그마/2/1.png"
+          "ImageUrl": "시그마/2/1.webp"
         },
         {
-          "ImageUrl": "시그마/3/1.png"
+          "ImageUrl": "시그마/3/1.webp"
         },
         {
-          "ImageUrl": "시그마/sp/1.png"
+          "ImageUrl": "시그마/sp/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -160,19 +160,19 @@
     },
     {
       "Name": "초월자의 칼날",
-      "Icon": "Icon_Occupation_AssassinSP.png",
+      "Icon": "Icon_Occupation_AssassinSP.webp",
       "SD": [
         {
-          "ImageUrl": "시그마/1/2.png"
+          "ImageUrl": "시그마/1/2.webp"
         },
         {
-          "ImageUrl": "시그마/2/2.png"
+          "ImageUrl": "시그마/2/2.webp"
         },
         {
-          "ImageUrl": "시그마/3/2.png"
+          "ImageUrl": "시그마/3/2.webp"
         },
         {
-          "ImageUrl": "시그마/sp/2.png"
+          "ImageUrl": "시그마/sp/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -195,19 +195,19 @@
     },
     {
       "Name": "레인저",
-      "Icon": "Icon_Occupation_Archer.png",
+      "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "시그마/1/3.png"
+          "ImageUrl": "시그마/1/3.webp"
         },
         {
-          "ImageUrl": "시그마/2/3.png"
+          "ImageUrl": "시그마/2/3.webp"
         },
         {
-          "ImageUrl": "시그마/3/3.png"
+          "ImageUrl": "시그마/3/3.webp"
         },
         {
-          "ImageUrl": "시그마/sp/3.png"
+          "ImageUrl": "시그마/sp/3.webp"
         }
       ],
       "AttkRange": 2,
@@ -454,7 +454,7 @@
       "Name": "개방",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/AlterEgo_Sigma.png",
+          "MaterialImgUrl": "../img/item/AlterEgo_Sigma.webp",
           "Amount": 1
         }
       ],
@@ -464,19 +464,19 @@
       "Name": "1단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/classup/rank8-3.png",
+          "MaterialImgUrl": "../img/classup/rank8-3.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/classup/rank7-3.png",
+          "MaterialImgUrl": "../img/classup/rank7-3.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/classup/rank6-3.png",
+          "MaterialImgUrl": "../img/classup/rank6-3.webp",
           "Amount": 50
         }
       ],
@@ -491,19 +491,19 @@
       "Name": "2단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/쓰알열쇠.png",
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/item/스알열쇠.png",
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/알열쇠.png",
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
           "Amount": 50
         }
       ],
@@ -518,11 +518,11 @@
       "Name": "3단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/룬스톤.png",
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
           "Amount": 2
         }
       ],
@@ -542,19 +542,19 @@
       "Name": "4단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/heart/h4.png",
+          "MaterialImgUrl": "../img/heart/h4.webp",
           "Amount": 60
         },
         {
-          "MaterialImgUrl": "../img/heart/h4-1.png",
+          "MaterialImgUrl": "../img/heart/h4-1.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/heart/x.png",
+          "MaterialImgUrl": "../img/heart/x.webp",
           "Amount": 12
         }
       ],
@@ -569,15 +569,15 @@
       "Name": "5단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.png",
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/item/Awaken_Stardust.png",
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
           "Amount": 5
         }
       ],
@@ -592,19 +592,19 @@
       "Name": "6단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/Item_MemoryEssence.png",
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
           "Amount": 600
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Shadow1.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Shadow1.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Shadow2.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Shadow2.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Shadow4.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Shadow4.webp",
           "Amount": 5
         }
       ],
@@ -643,7 +643,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash5.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.25배 피해를 입힌다.<br/>자신이 처해 있는 지형이 방어 지형일 시 전투 전 1회 고정 피해를 입힌다.<br/>(피해량은 영웅 공격의 1배).",
       "SubSkills": null,
       "Animation": null
@@ -669,7 +669,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightErrant.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightErrant.webp",
       "Desc": "[지원]액티브 스킬, 자신이 처해 있는 지형을 숲으로 취급, 1턴 지속.<br/>사용 후 재공격 가능.",
       "SubSkills": null,
       "Animation": null
@@ -683,7 +683,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/11.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/11.webp",
       "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br/>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -697,7 +697,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.webp",
       "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -723,7 +723,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash4.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 0.8배 피해를 입힌다.<br/>목표와 거리가 멀 수록 피해가 커진다. 간격 1칸마다 피해 +15%(최대 90%).<br/>전투 후 자신의 이동력 +2, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -749,7 +749,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -775,7 +775,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Crystal2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Crystal2.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '전설의 저편' 아군의 <br/>공격, 방어가 상승 및 효과 부여: 생명이 80%이하일 시 피해 +15%. 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -789,7 +789,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -803,7 +803,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -817,7 +817,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/시그마/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/시그마/1.webp",
       "Desc": "[패시브]기술 <font color=\"red\">+15%</font><br/>자신에게 죽음의 그림자 효과가 있을 경우, 선공 시 '암살자' 종류 병사는 <br/>영웅과 함께 공격 및 <font color=\"red\">3</font>칸 범위 내 공격 시 호위 무시",
       "SubSkills": null,
       "Animation": null
@@ -843,7 +843,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/시그마/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/시그마/2.webp",
       "Desc": "[액티브] 레인저의 인장이 박힌 적 주위 <font color=\"red\">1</font>칸 범위 임의의 위치로 텔레포트 및 대상에게 <font color=\"red\">1.4</font>배 피해<br/>전투 진입 전 자신에게 '<font color=\"blue\">근접전 패널티 무효화</font>','<font color=\"blue\">모든 디버프에 면역</font>' 효과 부여, 지속 <font color=\"red\">2</font>행동<br/> 죽음의 그림자 효과가 있을 경우 전투에서 쌍방 병사는 공격을 하지 않으며, 상대 영웅을 직접 공격<br/> 전투 후 부대 생명 <font color=\"red\">50</font>% 회복 및 '반격 피해 <font color=\"red\">+50</font>%' '이동력 <font color=\"red\">+3</font>' 효과 획득, 지속 <font color=\"red\">1</font>행동 (해당 효과는 해제 불가)<br/>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
       "SubSkills": null,
       "Animation": null
@@ -869,10 +869,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super40_1.png",
+      "IconImageUrl": "../img/Super/시그마.webp",
       "Desc": "[액티브]액티브 스킬. 목표에게 [레인저의 인장]부여:<br/>\"시그마에게 받는 피해 +15%\"(해제와 면역 불가, <br/>시그마의 공격을 받아 피해를 입은후 [레인저의 인장]해제).<br/>동시에 [바람사냥]으로 전환:<br/>\"[물리피해]단일 적군을 공격하여 1.5배의 피해를 입힌다.<br/>비병에 특효가 있다. 사용후 [레인저의 눈]으로 전환\"",
       "SubSkills": null,
-      "Animation": "../img/Super/시그마.gif"
+      "Animation": "../img/Super/시그마_Ani.gif"
     }
   ],
   "Bio": [

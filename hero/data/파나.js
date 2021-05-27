@@ -2,19 +2,19 @@
 {
   "Skins": [
     {
-      "ImageUrl": "파나/1.png",
+      "ImageUrl": "파나/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "파나/2.png",
+      "ImageUrl": "파나/2.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "파나/3.png",
+      "ImageUrl": "파나/3.webp",
       "Desc": "한정판매(미검열)"
     },
     {
-      "ImageUrl": "파나/3_1.png",
+      "ImageUrl": "파나/3_1.webp",
       "Desc": "한정판매(검열)"
     }
   ],
@@ -55,7 +55,7 @@
   "Talent": [
     {
       "Name": "강력한 도움",
-      "Icon": "19.png",
+      "Icon": "19.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -82,7 +82,7 @@
   "Equip": {
     "Name": "스칼렛 윈드(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "파나.png",
+    "Icon": "파나.webp",
     "Ability": "마방 +10%<br/>범위피해 스킬 사용시 효과 범위+1,<br/>범위스킬로 피해를 준후 쿨타임에 들어가며 4턴뒤 재발동 가능."
   },
   "Soldiers": [
@@ -97,19 +97,19 @@
   "Jobs": [
     {
       "Name": "레인저",
-      "Icon": "Icon_Occupation_Archer.png",
+      "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "파나/1/1.png"
+          "ImageUrl": "파나/1/1.webp"
         },
         {
-          "ImageUrl": "파나/2/1.png"
+          "ImageUrl": "파나/2/1.webp"
         },
         {
-          "ImageUrl": "파나/3/1.png"
+          "ImageUrl": "파나/3/1.webp"
         },
         {
-          "ImageUrl": "파나/3/1.png"
+          "ImageUrl": "파나/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -132,19 +132,19 @@
     },
     {
       "Name": "드래곤마스터",
-      "Icon": "Icon_Occupation_Fly.png",
+      "Icon": "Icon_Occupation_Fly.webp",
       "SD": [
         {
-          "ImageUrl": "파나/1/2.png"
+          "ImageUrl": "파나/1/2.webp"
         },
         {
-          "ImageUrl": "파나/2/2.png"
+          "ImageUrl": "파나/2/2.webp"
         },
         {
-          "ImageUrl": "파나/3/2.png"
+          "ImageUrl": "파나/3/2.webp"
         },
         {
-          "ImageUrl": "파나/3/2.png"
+          "ImageUrl": "파나/3/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -409,7 +409,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowRain.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowRain.webp",
       "Desc": "[물리 피해]범위 내 모든 적에게 0.3배의 범위 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다, 버프 1개 제거. 전투 후 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -435,7 +435,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -461,7 +461,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TakeAim.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TakeAim.webp",
       "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -475,7 +475,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefUp.webp",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -501,7 +501,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -515,7 +515,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_FlyWind.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_FlyWind.webp",
       "Desc": "[패시브]다른 부대에게 피해를 준 후 주위 2칸 내 적에게 0.1배의 광역 피해를 주고<br/>50%의 확률로 각 대상에게 무작위 디버프를 부여한다.",
       "SubSkills": null,
       "Animation": null
@@ -529,7 +529,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.webp",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -555,7 +555,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.webp",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
       "SubSkills": null,
       "Animation": null
@@ -569,7 +569,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.webp",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
       "SubSkills": null,
       "Animation": null

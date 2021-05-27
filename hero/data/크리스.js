@@ -2,19 +2,19 @@
 {
   "Skins": [
     {
-      "ImageUrl": "크리스/1.png",
+      "ImageUrl": "크리스/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "크리스/2.png",
+      "ImageUrl": "크리스/2.webp",
       "Desc": "스킨상점"
     },
     {
-      "ImageUrl": "크리스/3.png",
+      "ImageUrl": "크리스/3.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "크리스/4.png",
+      "ImageUrl": "크리스/4.webp",
       "Desc": "한정판매"
     }
   ],
@@ -56,7 +56,7 @@
   "Talent": [
     {
       "Name": "선물",
-      "Icon": "21.png",
+      "Icon": "21.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -83,7 +83,7 @@
   "Equip": {
     "Name": "성녀 예찬(투구)",
     "Stats": "생명 437, 마방 59",
-    "Icon": "크리스.png",
+    "Icon": "크리스.webp",
     "Ability": "생명<font color=\"red\">+5%</font>, 마방<font color=\"red\">+5%</font>. <br/><b>피해를 입힌 뒤 행동 종료 시</b>, <br/><b><font color=\"blue\">고유 스킬</font>로 부여하는 랜덤한 버프가 <font color=\"red\">1</font>가지 추가</b>.<br/><b>마물 격파 후 재행동 <font color=\"red\">1<font>회</font></font></b> <br/>쿨타임 <font color=\"red\">2</font>턴"
   },
   "Soldiers": [
@@ -101,19 +101,19 @@
   "Jobs": [
     {
       "Name": "발키리",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "크리스/1/1.png"
+          "ImageUrl": "크리스/1/1.webp"
         },
         {
-          "ImageUrl": "크리스/2/1.png"
+          "ImageUrl": "크리스/2/1.webp"
         },
         {
-          "ImageUrl": "크리스/3/1.png"
+          "ImageUrl": "크리스/3/1.webp"
         },
         {
-          "ImageUrl": "크리스/4/1.png"
+          "ImageUrl": "크리스/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -136,19 +136,19 @@
     },
     {
       "Name": "프린세스",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "크리스/1/2.png"
+          "ImageUrl": "크리스/1/2.webp"
         },
         {
-          "ImageUrl": "크리스/2/1.png"
+          "ImageUrl": "크리스/2/1.webp"
         },
         {
-          "ImageUrl": "크리스/3/1.png"
+          "ImageUrl": "크리스/3/1.webp"
         },
         {
-          "ImageUrl": "크리스/4/1.png"
+          "ImageUrl": "크리스/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -413,7 +413,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -439,7 +439,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -453,7 +453,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Belief.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Belief.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br/>전투 후 가장 생명이 적은 다른 아군 생명 회복, 회복량은 자신 지력의 <font color=\"red\">2</font>배.",
       "SubSkills": null,
       "Animation": null
@@ -479,7 +479,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkSuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkSuper.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 모든 다른 아군의 생명을 회복시킨다. 회복량은 자신 지력의 2배.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -505,7 +505,7 @@
           "Value": "2칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Sanction.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Sanction.webp",
       "Desc": "[마법 피해]주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>동시에 적의 2개 버프 제거.",
       "SubSkills": null,
       "Animation": null
@@ -519,7 +519,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefBuf.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefBuf.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br/>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -545,7 +545,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Extend.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Extend.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 생명 회복.<br/>회복량은 시전자 지력의 1.5배, 3개 디버프 제거.",
       "SubSkills": null,
       "Animation": null
@@ -571,7 +571,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -597,7 +597,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassDefup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassDefup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -623,10 +623,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super3.png",
+      "IconImageUrl": "../img/Super/크리스.webp",
       "Desc": "[마법피해] 단일 적군을 공격하여 1.6배의 마법피해를 입힌다.<br/>전투후 지력의 2배 수치만큼 모든 아군의 생명 회복 및 디버프 1개 제거.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.<br/>전투전, 부대가 입히는 피해량 +20%, 받는 피해량-20% 지속 2회합.<br/>적군이 '마물'일 경우 전투전 기절을 부여,지속 1회합(제거 불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/mmexport1579361642823.gif"
+      "Animation": "../img/Super/크리스_Ani.gif"
     }
   ],
   "Bio": [

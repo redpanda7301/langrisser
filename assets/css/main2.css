@@ -26,9 +26,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-body {
-	
-}
+
 
 ol, ul {
 	list-style: none;
@@ -1485,7 +1483,7 @@ table tr td.td_rank img { width: 15%; margin: 3px;}
 			height: 32px;
 			line-height: 24px;
 			padding-left: 40px;
-			background: url("images/icon-bubble.png") no-repeat;
+			background: url("images/icon-bubble.webp") no-repeat;
 		}
 
 		article.blog-post .blog-post-image {
@@ -1682,7 +1680,7 @@ table tr td.td_rank img { width: 15%; margin: 3px;}
 /* Banner */
 
 	#banner-wrapper {
-		background: #c8d2bc url(images/bg1.png);
+		background: #c8d2bc url(images/bg1.webp);
 		padding: 2em 0;
 	}
 
@@ -2052,7 +2050,7 @@ table tr td.td_rank img { width: 15%; margin: 3px;}
 		/* Banner */
 
 			#banner-wrapper {
-				background: #000000 url(images/bg1.png);
+				background: #000000 url(images/bg1.webp);
 				padding: 20px 0;
 			}
 

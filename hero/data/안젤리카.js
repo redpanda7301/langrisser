@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "안젤리카/1.png",
+      "ImageUrl": "안젤리카/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "안젤리카/2.png",
+      "ImageUrl": "안젤리카/2.webp",
       "Desc": "서밋아레나 시즌5 골드스킨"
     },
     {
-      "ImageUrl": "안젤리카/3.png",
+      "ImageUrl": "안젤리카/3.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "철저한 분석",
-      "Icon": "35.png",
+      "Icon": "35.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -78,7 +78,7 @@
   "Equip": {
     "Name": "만능 공구 모자(투구)",
     "Stats": "생명 364, 마방 65",
-    "Icon": "안젤리카.png",
+    "Icon": "안젤리카.webp",
     "Ability": "마방 +10%<br/>행동종료시 전장의 생명이 가장 낮은 아군 소환물의 생명 30% 회복."
   },
   "Soldiers": [
@@ -93,16 +93,16 @@
   "Jobs": [
     {
       "Name": "크리에이터",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "안젤리카/1/1.png"
+          "ImageUrl": "안젤리카/1/1.webp"
         },
         {
-          "ImageUrl": "안젤리카/2/1.png"
+          "ImageUrl": "안젤리카/2/1.webp"
         },
         {
-          "ImageUrl": "안젤리카/3/1.png"
+          "ImageUrl": "안젤리카/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -125,16 +125,16 @@
     },
     {
       "Name": "오라클",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "안젤리카/1/2.png"
+          "ImageUrl": "안젤리카/1/2.webp"
         },
         {
-          "ImageUrl": "안젤리카/2/1.png"
+          "ImageUrl": "안젤리카/2/1.webp"
         },
         {
-          "ImageUrl": "안젤리카/3/1.png"
+          "ImageUrl": "안젤리카/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -399,7 +399,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Angelica1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Angelica1.webp",
       "Desc": "[소환]액티브 스킬, 대상의 병사를 모두 파괴하고,<br/>병사의 속성과 동일한 기계소환수를 자신 주변에 소환한다",
       "SubSkills": null,
       "Animation": null
@@ -425,7 +425,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThundeRay.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThundeRay.webp",
       "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br/>'기병'과 전투 시 더큰 피해를 입힌다. 적군의 방어력 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -451,7 +451,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -477,7 +477,7 @@
           "Value": "맵 전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_StarLocation2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_StarLocation2.webp",
       "Desc": "[초절강화] 액티브 스킬. 범위 내 모든 '시공의 중심' 아군의 공격, 방어 능력치가 크게<br/>상승하고 4턴 지속. (이 효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -503,7 +503,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FrostRay.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FrostRay.webp",
       "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br/>'창병'과 전투 시 더큰 피해를 입힌다. 적군의 이동력 -1, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -529,7 +529,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -543,7 +543,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -569,7 +569,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.webp",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -595,7 +595,7 @@
           "Value": "-"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Angelica2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Angelica2.webp",
       "Desc": "액티브 스킬. 아래 3가지중 하나를 선택하여 사용한다",
       "SubSkills": null,
       "Animation": null
@@ -613,7 +613,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Angelica3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Angelica3.webp",
       "Desc": "아군  <font color=\"red\">1</font>명 부대 생명 <font color=\"red\">100%</font> 회복 및 모든 디버프 제거, <br/>목표는 '갑옷 파괴' 스킬 획득, 지속 <font color=\"red\">2</font>행동 :<br/>전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%, <font color=\"red\">1</font>턴 지속.<br/><font color=\"red\">영웅</font> 병종을 보병으로 변경, 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -631,7 +631,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Angelica4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Angelica4.webp",
       "Desc": "아군  <font color=\"red\">1</font>명 부대 생명 <font color=\"red\">100%</font> 회복 및 모든 디버프 제거, <br/>목표는 '재생' 스킬 획득, 지속 <font color=\"red\">2</font>행동 :<br/>전투 후 생명을 <font color=\"red\">10</font>% 회복한다. 2턴지속<br/><font color=\"red\">영웅</font> 병종을 창병으로 변경, 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -649,7 +649,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Angelica5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Angelica5.webp",
       "Desc": "아군  <font color=\"red\">1</font>명 부대 생명 <font color=\"red\">100%</font> 회복 및 모든 디버프 제거, <br/>목표는 '폭풍' 스킬 획득, 지속 <font color=\"red\">2</font>행동 :<br/>공격하여 전투 진입 시 부대 생명이 <font color=\"red\">80</font>% 이상이라면 <br/>전투 중 받는 피해량 <font color=\"red\">-30</font>%.<br/><font color=\"red\">영웅</font> 병종을 기병으로 변경, 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null

@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "아카야/1.png",
+      "ImageUrl": "아카야/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "아카야/2.png",
+      "ImageUrl": "아카야/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "아카야/3.png",
+      "ImageUrl": "아카야/3.webp",
       "Desc": "형귀뽑기"
     }
   ],
@@ -52,7 +52,7 @@
   "Talent": [
     {
       "Name": "성령의 수호",
-      "Icon": "86.png",
+      "Icon": "86.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -79,7 +79,7 @@
   "Equip": {
     "Name": "성령의 뿔(무기)",
     "Stats": "공격 107,지력 107",
-    "Icon": "아카야.png",
+    "Icon": "아카야.webp",
     "Ability": "공격, 지력 +10%<br/>행동 종료시, 자신 주변에 [늑대정령]소환. <br/>늑대정령의 능력치는 아카야 스탯의 75%.<br/>(한번에 한마리의 늑대정령만 보유가능하며, 전투중 최대 1회 발동)"
   },
   "Soldiers": [
@@ -95,16 +95,16 @@
   "Jobs": [
     {
       "Name": "시카 영매술사",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "아카야/1/1.png"
+          "ImageUrl": "아카야/1/1.webp"
         },
         {
-          "ImageUrl": "아카야/2/1.png"
+          "ImageUrl": "아카야/2/1.webp"
         },
         {
-          "ImageUrl": "아카야/3/1.png"
+          "ImageUrl": "아카야/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -127,16 +127,16 @@
     },
     {
       "Name": "시카 성녀",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "아카야/1/2.png"
+          "ImageUrl": "아카야/1/2.webp"
         },
         {
-          "ImageUrl": "아카야/2/2.png"
+          "ImageUrl": "아카야/2/2.webp"
         },
         {
-          "ImageUrl": "아카야/3/2.png"
+          "ImageUrl": "아카야/3/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -370,7 +370,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -396,7 +396,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka1.webp",
       "Desc": "[지원]사용 후 자신의 공격과 지력 중 낮은 능력치를 50%만큼 상승, 3턴 지속.<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -422,7 +422,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka3.webp",
       "Desc": "[지원]전장에 [늑대혼]이 있을시 사용가능<br/>늑대혼을 소멸시키며 늑대혼 주변 3칸 이내 모든 적군에게 0.2배의 물리범위 피해를 입힌다.<br/>이후 0.2배의 마법범위 피해도 입힌다. 또한, 약화효과 2개 부여",
       "SubSkills": null,
       "Animation": null
@@ -448,7 +448,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -474,7 +474,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka4.webp",
       "Desc": "[지원]전장에 [늑대혼]이 있을시 사용가능<br/>늑대혼을 소멸시키며, 1개의 아군 부대를 늑대 영혼의 위치로 순간이동,<br/>이미 행동종료된 경우일 경우, 재행동 가능(플레이어 유닛에게만 사용가능)",
       "SubSkills": null,
       "Animation": null
@@ -500,7 +500,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka2.webp",
       "Desc": "[지원]전장에 [늑대혼]이 있을시 사용가능<br/>늑대혼을 소멸시키며 자신주위 3칸이내 모든 아군에게<br/>'이동력+2','공격,지력 +30%' 부여, 2턴 지속",
       "SubSkills": null,
       "Animation": null
@@ -514,7 +514,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefUp.webp",
       "Desc": "[패시브]부대 생명 90% 이상일시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -540,7 +540,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Javelin.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Javelin.webp",
       "Desc": "[물리 피해]단일 적에게 0.8배 피해를 입힘.<br/>공격 전 이동거리 1칸마다 피해 +20%(최대 +60%).<br/>전투 후 재이동 +2칸, 근접 병사를 휴대 시 병사도 동시에 공격 가능.",
       "SubSkills": null,
       "Animation": null
@@ -566,10 +566,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/아카야.png",
+      "IconImageUrl": "../img/Super/아카야.webp",
       "Desc": "[물리피해] 단일 적군을 공격하여 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br/><b>적의 방어, 마방 <font color=\"red\">20</font>% 무시,</b><br/><b>자신의 지력이 공격력 보다 높을 경우 해당 공격은 <font color=\"blue\">마법 피해</font>로 간주</b>.<br/>근접병사를 휴대할 경우 병사도 같이 공격.<b>(해당 스킬은 근접전 패널티 무시)</b><br/><b><font color=\"blue\">전투 후 재이동</font></b> <font color=\"red\">2</font>칸 및 목표 위치에 <br/>'<font color=\"purple\">공포의 토템</font>' 설치:<br/>[지형 효과 지휘] <b><font color=\"red\">4</font>칸 범위 내 모든 적</b>의 공격 방어 -10%, <br/><b>턴 시작 시 랜덤한 <font color=\"red\">2</font>개의 <font color=\"blue\">디버프</font></b> 부여, <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/아카야.gif"
+      "Animation": "../img/Super/아카야_Ani.gif"
     }
   ],
   "Bio": [

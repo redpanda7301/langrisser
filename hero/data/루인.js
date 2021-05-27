@@ -2,7 +2,7 @@
 {
   "Skins": [
     {
-      "ImageUrl": "루인/1.png",
+      "ImageUrl": "루인/1.webp",
       "Desc": "기본"
     }
   ],
@@ -42,7 +42,7 @@
   "Talent": [
     {
       "Name": "빛의 기원",
-      "Icon": "10.png",
+      "Icon": "10.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -78,10 +78,10 @@
   "Jobs": [
     {
       "Name": "소드마스터",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "루인/1/1.png"
+          "ImageUrl": "루인/1/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -305,7 +305,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -319,7 +319,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.webp",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -333,7 +333,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Snarl.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Snarl.webp",
       "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br/>공격, 방어 -10%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -347,7 +347,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefUp.webp",
       "Desc": "[지휘] 주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -373,7 +373,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -387,7 +387,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/26.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/26.webp",
       "Desc": "[패시브]받는 물리 피해량 -5%,<br/>근접한 아군 부대가 물리 공격을 받을 시 대신하여 전투에 진입한다.",
       "SubSkills": null,
       "Animation": null
@@ -401,7 +401,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null

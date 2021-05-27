@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "소피아/1.png",
+      "ImageUrl": "소피아/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "소피아/2.png",
+      "ImageUrl": "소피아/2.webp",
       "Desc": "이벤트"
     },
     {
-      "ImageUrl": "소피아/3.png",
+      "ImageUrl": "소피아/3.webp",
       "Desc": "서밋아레나 S7 골드스킨"
     }
   ],
@@ -52,7 +52,7 @@
   "Talent": [
     {
       "Name": "연민의 마음",
-      "Icon": "15.png",
+      "Icon": "15.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -79,7 +79,7 @@
   "Equip": {
     "Name": "성광의 베일(갑옷)",
     "Stats": "생명 583, 방어 54",
-    "Icon": "소피아.png",
+    "Icon": "소피아.webp",
     "Ability": "생명 +5%<br/>아군에게 스킬 시전 시 추가 버프 부여 : <br/>\"공격,지력+15%\", \"마방+20%\", 2턴 지속."
   },
   "Soldiers": [
@@ -93,16 +93,16 @@
   "Jobs": [
     {
       "Name": "프로핏",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "소피아/1/1.png"
+          "ImageUrl": "소피아/1/1.webp"
         },
         {
-          "ImageUrl": "소피아/2/1.png"
+          "ImageUrl": "소피아/2/1.webp"
         },
         {
-          "ImageUrl": "소피아/3/1.png"
+          "ImageUrl": "소피아/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -125,16 +125,16 @@
     },
     {
       "Name": "세인트",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "소피아/1/2.png"
+          "ImageUrl": "소피아/1/2.webp"
         },
         {
-          "ImageUrl": "소피아/2/2.png"
+          "ImageUrl": "소피아/2/2.webp"
         },
         {
-          "ImageUrl": "소피아/3/1.png"
+          "ImageUrl": "소피아/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -399,7 +399,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.webp",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -425,7 +425,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -451,7 +451,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.webp",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -477,7 +477,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ClearCD.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ClearCD.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 모든 아군의 모든 스킬 쿨타임 -3턴.<br/>그리고 사용자 지력 3배의 생명을 회복시킨다.",
       "SubSkills": null,
       "Animation": null
@@ -503,7 +503,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Heal2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Heal2.webp",
       "Desc": "[지원]액티브 스킬, 단일 아군 부대에게 전투 후 생명을 10% 회복하게한다. 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -529,7 +529,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderCrash.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -543,7 +543,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf5.webp",
       "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -569,7 +569,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
       "SubSkills": null,
       "Animation": null
@@ -595,7 +595,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.webp",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -621,10 +621,10 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/Super/소피아.png",
+      "IconImageUrl": "../img/Super/소피아.webp",
       "Desc": "[패시브]<b><font color=\"orange\">고유 스킬</font>로 부가되는 <font color=\"blue\">강화 효과</font>가 제거 불가</b><br/>[치료]<b>범위 내 모든 아군에게</b> 걸린 <font color=\"purple\">디버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"red\">3</font>배 수치로 생명 회복",
       "SubSkills": null,
-      "Animation": "../img/Super/소피아.gif"
+      "Animation": "../img/Super/소피아_Ani.webp"
     }
   ],
   "Bio": [

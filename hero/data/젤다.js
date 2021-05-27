@@ -2,28 +2,32 @@
 {
   "Skins": [
     {
-      "ImageUrl": "젤다/1.png",
+      "ImageUrl": "젤다/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "젤다/2.png",
+      "ImageUrl": "젤다/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "젤다/3.png",
+      "ImageUrl": "젤다/3.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "젤다/4.png",
+      "ImageUrl": "젤다/4.webp",
       "Desc": "형귀스킨"
     },
     {
-      "ImageUrl": "젤다/5.png",
+      "ImageUrl": "젤다/5.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "젤다/6.png",
+      "ImageUrl": "젤다/6.webp",
       "Desc": "이벤트"
+    },
+    {
+      "ImageUrl": "젤다/7.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "젤다",
@@ -64,7 +68,7 @@
   "Talent": [
     {
       "Name": "숨바꼭질",
-      "Icon": "54.png",
+      "Icon": "54.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -91,7 +95,7 @@
   "Equip": {
     "Name": "따뜻한 기억(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "젤다.png",
+    "Icon": "젤다.webp",
     "Ability": "생명 +5%<br/>행동종료시, 주변 2칸 이내 아군이 없을경우 생명 20% 회복 및 1개의 디버프 제거"
   },
   "Soldiers": [
@@ -107,25 +111,28 @@
   "Jobs": [
     {
       "Name": "쉐도우",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "젤다/1/1.png"
+          "ImageUrl": "젤다/1/1.webp"
         },
         {
-          "ImageUrl": "젤다/2/1.png"
+          "ImageUrl": "젤다/2/1.webp"
         },
         {
-          "ImageUrl": "젤다/3/1.png"
+          "ImageUrl": "젤다/3/1.webp"
         },
         {
-          "ImageUrl": "젤다/4/1.png"
+          "ImageUrl": "젤다/4/1.webp"
         },
         {
-          "ImageUrl": "젤다/5/1.png"
+          "ImageUrl": "젤다/5/1.webp"
         },
         {
-          "ImageUrl": "젤다/6/1.png"
+          "ImageUrl": "젤다/6/1.webp"
+        },
+        {
+          "ImageUrl": "젤다/7/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -148,26 +155,29 @@
     },
     {
       "Name": "디스오더",
-      "Icon": "Icon_Occupation_Monster.png",
+      "Icon": "Icon_Occupation_Monster.webp",
       "SD": [
         {
-          "ImageUrl": "젤다/1/2.png"
+          "ImageUrl": "젤다/1/2.webp"
         },
         {
-          "ImageUrl": "젤다/2/1.png"
+          "ImageUrl": "젤다/2/1.webp"
         },
         {
-          "ImageUrl": "젤다/3/1.png"
+          "ImageUrl": "젤다/3/1.webp"
         },
         {
-          "ImageUrl": "젤다/4/2.png"
+          "ImageUrl": "젤다/4/2.webp"
         },
         {
-          "ImageUrl": "젤다/5/1.png"
+          "ImageUrl": "젤다/5/1.webp"
         },
         {
-          "ImageUrl": "젤다/6/1.png"
-        }
+          "ImageUrl": "젤다/6/1.webp"
+        },
+        {
+          "ImageUrl": "젤다/7/1.webp"
+        }		
       ],
       "AttkRange": 2,
       "Move": 3,
@@ -400,7 +410,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FatalBlow.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FatalBlow.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 피해를 준다.<br/>만약 전투 전 자신의 병사가 모두 죽었다면 호위를 무시하고<br/>직접 적 영웅에게 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -414,7 +424,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf3.webp",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -428,7 +438,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DorsalThorns.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DorsalThorns.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 적 부대 생명이 100%일 경우<br/>전투 전 영웅 공격 2배의 고정 피해를 1회 입힘.",
       "SubSkills": null,
       "Animation": null
@@ -454,7 +464,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/6.webp",
       "Desc": "[물리 피해] 호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -468,7 +478,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TrickStep.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TrickStep.webp",
       "Desc": "[패시브]치명타 확률+10%.<br/>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -482,7 +492,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -508,7 +518,7 @@
           "Value": "맵 전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SureStrike.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SureStrike.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '메테오 스트라이크' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 주위 1칸 내 아군이 없을 시 피해량+10%,<br/>적 부대 처치 후 2칸 재이동 가능, 행동 종료 시 20%생명 회복, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -534,7 +544,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MagicSword.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MagicSword.webp",
       "Desc": "[액티브]모든 병사를 제물로 바친 후 '병사 회복 불가',<br/>'공격으로 전투 진입 시 피해량 +30%','모든 디버프 면역',<br/>'공격 후 입힌 피해량의 50%만큼 생명 회복'효과를 부여한다.<br/>제거 불가, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -560,10 +570,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/젤다.png",
+      "IconImageUrl": "../img/Super/젤다.webp",
       "Desc": "[액티브] 자신에게 걸린 모든 디버프 제거, 모든 병사를 제물로 바쳐 흡혈마검 효과 획득 <br/>(병사 회복 불가, 피해 +30%, 모든 디버프 면역, 공격 후 피해량 50% 수치만큼 생명 회복 ) 및 <br/>적을 퇴각시킨 후 3칸 재이동 기회 획득. 지속 1행동. <br/>사용 후 해당 스킬은 절명 일격으로 대체. <br/>다음 턴 행동 종료 시 마검의 마음으로 대체.",
       "SubSkills": null,
-      "Animation": "../img/Super/젤다.gif"
+      "Animation": "../img/Super/젤다_Ani.gif"
     }
   ],
   "Bio": [

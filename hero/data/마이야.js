@@ -2,19 +2,19 @@
 {
   "Skins": [
     {
-      "ImageUrl": "마이야/1.png",
+      "ImageUrl": "마이야/1.webp",
       "Desc": "기본(미검열)"
     },
     {
-      "ImageUrl": "마이야/1_1.png",
+      "ImageUrl": "마이야/1_1.webp",
       "Desc": "기본(검열)"
     },
     {
-      "ImageUrl": "마이야/2.png",
+      "ImageUrl": "마이야/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "마이야/3.png",
+      "ImageUrl": "마이야/3.webp",
       "Desc": "형귀뽑기"
     }
   ],
@@ -55,7 +55,7 @@
   "Talent": [
     {
       "Name": "만능 메이드",
-      "Icon": "91.png",
+      "Icon": "91.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -82,7 +82,7 @@
   "Equip": {
     "Name": "치명적인 청소 명령(지팡이)",
     "Stats": "생명 437,지력 107",
-    "Icon": "마이야.png",
+    "Icon": "마이야.webp",
     "Ability": "지력 +(<font color=\"red\">2,4,6,8,10</font>)%,<br/>부대 이동 방식을 비행으로 변경,  범위 스킬로 명중한 지형에 걸린 적이 부여한 지형 효과를 전부 제거<br/>행동 종료 시 <font color=\"red\">2</font>칸 범위 내 아군에게 걸린 디버프 <font color=\"red\">1</font>개 제거"
   },
   "Soldiers": [
@@ -98,19 +98,19 @@
   "Jobs": [
     {
       "Name": "세인트",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "마이야/1/1.png"
+          "ImageUrl": "마이야/1/1.webp"
         },
         {
-          "ImageUrl": "마이야/1/1.png"
+          "ImageUrl": "마이야/1/1.webp"
         },
         {
-          "ImageUrl": "마이야/2/1.png"
+          "ImageUrl": "마이야/2/1.webp"
         },
         {
-          "ImageUrl": "마이야/3/1.png"
+          "ImageUrl": "마이야/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -133,19 +133,19 @@
     },
     {
       "Name": "황실 메이드",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "마이야/1/2.png"
+          "ImageUrl": "마이야/1/2.webp"
         },
         {
-          "ImageUrl": "마이야/1/2.png"
+          "ImageUrl": "마이야/1/2.webp"
         },
         {
-          "ImageUrl": "마이야/2/1.png"
+          "ImageUrl": "마이야/2/1.webp"
         },
         {
-          "ImageUrl": "마이야/3/1.png"
+          "ImageUrl": "마이야/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -410,7 +410,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -424,7 +424,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef2.webp",
       "Desc": "[패시브]전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방  <font color=\"red\">-25%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -450,7 +450,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -464,7 +464,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_HolyShield.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_HolyShield.webp",
       "Desc": "[패시브]전투 진입 시 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -490,7 +490,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SacredRay.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SacredRay.webp",
       "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더큰 피해를 입힌다. 1개 버프 제거.",
       "SubSkills": null,
       "Animation": null
@@ -516,7 +516,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamAtk.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamAtk.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '강화 방해'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -530,7 +530,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Maiya.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Maiya.webp",
       "Desc": "[패시브]근접병사를 휴대시, 병사의 사거리+1<br/>메이드계열 병사 휴대시 [고정피해] 면역.",
       "SubSkills": null,
       "Animation": null
@@ -556,7 +556,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FrostRay2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FrostRay2.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'창병'과 전투 시 더 큰 피해를 입힌다. 적군의 '이동력 -1', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -570,7 +570,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -596,10 +596,10 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super18.png",
+      "IconImageUrl": "../img/Super/마이야.webp",
       "Desc": "[마법피해] 자신 주위 5칸 범위 내 모든 적군에게 0.3배의 범위피해를 입힌다.<br/>적군의 강화상태 1개 제거, 강화상태를 제거할경우 1개의 강력한 디버프를 부여<br/>만약 적군이 [마물]이 있을경우,<br/>대상의 강화상태가 없을때까지 강화상태제거, 디버프 추가 작업을 반복진행<br/>동시에 범위내 모든 아군의 쿨타임 -1, 디버프1개 제거,<br/>디버프를 1개 제거할 경우 1개의 강력한 버프 부여<br/>만약 아군에 [승병]이 있을경우,<br/>대상의 디버프가 없을때까지 디버프제거, 버프 추가작업을 반복진행",
       "SubSkills": null,
-      "Animation": "../img/Super/mmexport1577881451765.gif"
+      "Animation": "../img/Super/마이야.webp"
     }
   ],
   "Bio": [

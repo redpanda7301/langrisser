@@ -2,23 +2,23 @@
 {
   "Skins": [
     {
-      "ImageUrl": "레이첼/1.png",
+      "ImageUrl": "레이첼/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "레이첼/2.png",
+      "ImageUrl": "레이첼/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "레이첼/3.png",
+      "ImageUrl": "레이첼/3.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "레이첼/4.png",
+      "ImageUrl": "레이첼/4.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "레이첼/5.png",
+      "ImageUrl": "레이첼/5.webp",
       "Desc": "형귀뽑기"
     }
   ],
@@ -59,7 +59,7 @@
   "Talent": [
     {
       "Name": "매직 소울",
-      "Icon": "65.png",
+      "Icon": "65.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -86,7 +86,7 @@
   "Equip": {
     "Name": "마도 방어복(갑옷)",
     "Stats": "생명 583,방어 54",
-    "Icon": "레이첼.png",
+    "Icon": "레이첼.webp",
     "Ability": "생명 +5%<br/>근접 공격을 받아 전투 진입전 적군에게 고정피해를 입힌다.<br/>고정피해 데미지는 영웅 지능의 1배"
   },
   "Soldiers": [
@@ -103,22 +103,22 @@
   "Jobs": [
     {
       "Name": "매직 코어",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "레이첼/1/1.png"
+          "ImageUrl": "레이첼/1/1.webp"
         },
         {
-          "ImageUrl": "레이첼/2/1.png"
+          "ImageUrl": "레이첼/2/1.webp"
         },
         {
-          "ImageUrl": "레이첼/3/1.png"
+          "ImageUrl": "레이첼/3/1.webp"
         },
         {
-          "ImageUrl": "레이첼/4/1.png"
+          "ImageUrl": "레이첼/4/1.webp"
         },
         {
-          "ImageUrl": "레이첼/5/1.png"
+          "ImageUrl": "레이첼/5/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -141,22 +141,22 @@
     },
     {
       "Name": "오라클",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "레이첼/1/2.png"
+          "ImageUrl": "레이첼/1/2.webp"
         },
         {
-          "ImageUrl": "레이첼/2/2.png"
+          "ImageUrl": "레이첼/2/2.webp"
         },
         {
-          "ImageUrl": "레이첼/3/2.png"
+          "ImageUrl": "레이첼/3/2.webp"
         },
         {
-          "ImageUrl": "레이첼/4/2.png"
+          "ImageUrl": "레이첼/4/2.webp"
         },
         {
-          "ImageUrl": "레이첼/5/2.png"
+          "ImageUrl": "레이첼/5/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -421,7 +421,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -447,7 +447,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
       "SubSkills": null,
       "Animation": null
@@ -473,7 +473,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -487,7 +487,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefBuf.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefBuf.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br/>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -513,7 +513,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MagicVibration.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MagicVibration.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>'마법사'와 '승려'에게 더 큰 피해를 주며 적군 마방 -30%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -539,7 +539,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BreakEvil.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BreakEvil.webp",
       "Desc": "[마법 피해]치명타율+15%, 범위 내 모든 적에게 0.3배의 광격 피해를 주고<br/>적이 가진 버프 1개를 제거한다.'마물'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -553,7 +553,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Dedication.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Dedication.webp",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br/>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -579,7 +579,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Bless.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Bless.webp",
       "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br/>모든 디버프에 면역. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -593,7 +593,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/22.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/22.webp",
       "Desc": "[패시브] 부대 생명이 90%이상일 시 지력, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -619,10 +619,10 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_SpectralEcho.png",
+      "IconImageUrl": "../img/Super/Skill_SpectralEcho.webp",
       "Desc": "[마법피해] 자신 주위 5칸 범위의 모든 적군에게 0.3배의 범위 피해를 입힌다.<br/>적과의 거리가 가까울수록 피해량이 증가. 거리가 감소할때 마다 피해량 +10%(최대 50%)<br/>및 적군에게 [마력 여파] 디버프 5개부여.<br/>[마력 여파] : 행동 종료시 레이첼 지력의 0.5배의 [고정피해]. 중첩가능하며 지속 2회합.",
       "SubSkills": null,
-      "Animation": "../img/Super/mmexport1579554883081.gif"
+      "Animation": "../img/Super/레온_Ani.gif"
     }
   ],
   "Bio": [

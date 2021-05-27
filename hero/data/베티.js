@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "베티/1.png",
+      "ImageUrl": "베티/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "베티/2.png",
+      "ImageUrl": "베티/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "베티/3.png",
+      "ImageUrl": "베티/3.webp",
       "Desc": "형귀 스킨"
     }
   ],
@@ -52,7 +52,7 @@
   "Talent": [
     {
       "Name": "칼날 영역",
-      "Icon": "81.png",
+      "Icon": "81.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -79,7 +79,7 @@
   "Equip": {
     "Name": "파멸의 샛별(투구)",
     "Stats": "생명 583,마방 48",
-    "Icon": "베티.png",
+    "Icon": "베티.webp",
     "Ability": "생명 +10%<br/>부대의 생명이 낮을 수록 입히는 고정피해가 최대 30% 상승."
   },
   "Soldiers": [
@@ -95,16 +95,16 @@
   "Jobs": [
     {
       "Name": "엠프리스",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "베티/1/1.png"
+          "ImageUrl": "베티/1/1.webp"
         },
         {
-          "ImageUrl": "베티/2/1.png"
+          "ImageUrl": "베티/2/1.webp"
         },
         {
-          "ImageUrl": "베티/3/1.png"
+          "ImageUrl": "베티/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -127,16 +127,16 @@
     },
     {
       "Name": "소드 마스터",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "베티/1/2.png"
+          "ImageUrl": "베티/1/2.webp"
         },
         {
-          "ImageUrl": "베티/2/2.png"
+          "ImageUrl": "베티/2/2.webp"
         },
         {
-          "ImageUrl": "베티/3/1.png"
+          "ImageUrl": "베티/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -401,7 +401,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -415,7 +415,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/42.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/42.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시, 공격 +12%",
       "SubSkills": null,
       "Animation": null
@@ -441,7 +441,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IronHand.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IronHand.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br/>[응수]효과 획득, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -455,7 +455,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_SwordSpirit.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_SwordSpirit.webp",
       "Desc": "[패시브]받는 치료 효과 +15%.<br/>근접 공격을 받아 전투 진입 시 공격,방어 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -469,7 +469,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helmet.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helmet.webp",
       "Desc": "[패시브] 원거리 공격을 받을 시 <font color=\"#DC143C\">25%</font>확률로 부대가 받는 모든 피해 <font color=\"#DC143C\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -483,7 +483,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DoubleAttack.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DoubleAttack.webp",
       "Desc": "[패시브]공격하여 전투 후 주위 1칸 범위 내 모든 적군에게 0.1배 범위 피해를 입힌다.",
       "SubSkills": null,
       "Animation": null
@@ -497,7 +497,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Solidarity.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Solidarity.webp",
       "Desc": "[패시브] 주위 <font color=\"red\">2</font>칸 내 아군이 <font color=\"red\">1</font>명씩 있을 경우, 방어, 마방 <font color=\"red\">+5%</font>, 최대 <font color=\"red\">+15%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -511,7 +511,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDexDown.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDexDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 기술 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -525,7 +525,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DexBuf5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DexBuf5.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 기술 +20% 및<br/>면역:'치료 반전','재행동 불가', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -551,10 +551,10 @@
           "Value": "2바퀴"
         }
       ],
-      "IconImageUrl": "../img/Super/베티.png",
+      "IconImageUrl": "../img/Super/베티.webp",
       "Desc": "[패시브] 범위 스킬로 인해 사망 시 부활 (매 전장에서 최대 <font color=\"red\">3</font>회 발동),<br/>고유 스킬 범위 내에 있는 아군 <font color=\"red\">1</font>명이 피격당할 시 <br/>공격자 및 그 주위 <font color=\"red\">3</font>칸 범위 내 적 <font color=\"red\">2</font>명에게 '피해 <font color=\"red\">-15</font>%' 디버프 부여,지속 <font color=\"red\">1</font>행동<br/>[물리피해] 주위 2바퀴 범위 내 적에게 <font color=\"red\">0.3</font>배 피해 및 고정피해 (베티 공격 <font color=\"red\">1</font>배 수치),<br/>치료 불가 효과 부여, 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/베티.gif"
+      "Animation": "../img/Super/베티_Ani.gif"
     }
   ],
   "Bio": [

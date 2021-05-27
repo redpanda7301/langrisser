@@ -2,7 +2,7 @@
 {
   "Skins": [
     {
-      "ImageUrl": "로우가/1.png",
+      "ImageUrl": "로우가/1.webp",
       "Desc": "기본"
     }
   ],
@@ -43,7 +43,7 @@
   "Talent": [
     {
       "Name": "강맹함",
-      "Icon": "9.png",
+      "Icon": "9.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -80,10 +80,10 @@
   "Jobs": [
     {
       "Name": "하이마스터",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "로우가/1/1.png"
+          "ImageUrl": "로우가/1/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -307,7 +307,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash3.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br/>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
       "SubSkills": null,
       "Animation": null
@@ -321,7 +321,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -335,7 +335,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.webp",
       "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br/>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
       "SubSkills": null,
       "Animation": null
@@ -349,7 +349,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_CriBuf.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_CriBuf.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -375,7 +375,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Coldblood.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Coldblood.webp",
       "Desc": "[지원]사용 후 자신 부대 치명타율, 치명타 피해량 <font color=\"red\">+15%</font>, <font color=\"red\">2턴</font> 지속.<br/>사용 후 추가로 <font color=\"red\">2칸</font> 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -389,7 +389,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Snarl.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Snarl.webp",
       "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br/>공격, 방어 -10%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -403,7 +403,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.webp",
       "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null

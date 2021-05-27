@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "실린카/1.png",
+      "ImageUrl": "실린카/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "실린카/2.png",
+      "ImageUrl": "실린카/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "실린카/3.png",
+      "ImageUrl": "실린카/3.webp",
       "Desc": "형귀스킨"
     }
   ],
@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "고결한 영생",
-      "Icon": "93.png",
+      "Icon": "93.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -78,7 +78,7 @@
   "Equip": {
     "Name": "반역의 깃털 가면(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "실린카.png",
+    "Icon": "실린카.webp",
     "Ability": "방어 +(<font color=\"red\">2,4,6,8,10</font>)%,<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+12</font>%. <br/>자신에게 걸린 버프 효과 지속 시간 <font color=\"red\">+1</font>, <br/>휴면 상태에서도 버프 지속 시간이 감소하지 않음"
   },
   "Soldiers": [
@@ -94,16 +94,16 @@
   "Jobs": [
     {
       "Name": "파멸의날개",
-      "Icon": "Icon_Occupation_Archer.png",
+      "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "실린카/1/1.png"
+          "ImageUrl": "실린카/1/1.webp"
         },
         {
-          "ImageUrl": "실린카/2/1.png"
+          "ImageUrl": "실린카/2/1.webp"
         },
         {
-          "ImageUrl": "실린카/3/1.png"
+          "ImageUrl": "실린카/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -126,16 +126,16 @@
     },
     {
       "Name": "검성",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "실린카/1/2.png"
+          "ImageUrl": "실린카/1/2.webp"
         },
         {
-          "ImageUrl": "실린카/2/2.png"
+          "ImageUrl": "실린카/2/2.webp"
         },
         {
-          "ImageUrl": "실린카/3/2.png"
+          "ImageUrl": "실린카/3/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -369,7 +369,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/0.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/0.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -383,7 +383,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Sirink1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Sirink1.webp",
       "Desc": "[패시브]근접병사를 휴대시, 부대의 이동방식을 '비행'으로 변경.<br/>공격을 받아 전투 진입 후, 적군에게 [고정피해]를 입히며(피해량은 적군의 '공격'+'지력'의 1배),<br/>자신의 생명 회복(회복량은 적군의 '공격'+'지력'의 1배),<br/>[휴면상태]의 경우 2배 효과.",
       "SubSkills": null,
       "Animation": null
@@ -409,7 +409,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/14.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/14.webp",
       "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br/>'비병'과 전투 시 더큰 피해를 준다.<br/>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -435,7 +435,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -449,7 +449,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.webp",
       "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -475,7 +475,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Sirink1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Sirink1.webp",
       "Desc": "[패시브]원거리병사를 휴대시, 부대의 이동방식을 '비행'으로 변경.<br/>[지원]액티브 스킬, 자신을 순간이동하여 임의의 위치로 이동할 시 <br/>'이동력 +2, [말살]버프 시전:<br/>공격하여 전투 진입 전 적군 주위 1칸내 1명 이상의 적군이 있을경우 영웅을 직접 공격',<br/>1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -489,7 +489,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakDef.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -515,7 +515,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Sirink2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Sirink2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/>자신 주위 3칸 범위 내에 아군이 없을 경우, 호위를 무시하고 공격한다.<br/>이 스킬로 적군을 격파한 경우 2칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -541,10 +541,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/실린카.png",
+      "IconImageUrl": "../img/Super/실린카.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.6배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/> (자신의 부대는 근접 공격 피해감면 영향을 받지 않는다)<br/>전투 후 가한 피해량의 30%만큼 생명을 회복한다.<br/>적 부대 1칸 주변 아군 1명당 방어 무시 20%(최대 40%).<br/>적 부대 2칸 주위내 아군이 없을 시 적 적파 후 재행동 가능<br/>(재행동은 1턴 내에 연속발동 불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/실린카.gif"
+      "Animation": "../img/Super/실린카_Ani.gif"
     }
   ],
   "Bio": [

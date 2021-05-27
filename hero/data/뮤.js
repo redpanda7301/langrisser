@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "뮤/1.png",
+      "ImageUrl": "뮤/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "뮤/2.png",
+      "ImageUrl": "뮤/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -47,7 +47,7 @@
   "Talent": [
     {
       "Name": "마법 덩굴의 힘",
-      "Icon": "Gift_Mu.png",
+      "Icon": "Gift_Mu.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -85,13 +85,13 @@
   "Jobs": [
     {
       "Name": "나무 현자",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "뮤/1/1.png"
+          "ImageUrl": "뮤/1/1.webp"
         },
         {
-          "ImageUrl": "뮤/2/1.png"
+          "ImageUrl": "뮤/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -114,13 +114,13 @@
     },
 	{
       "Name": "주술사",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "뮤/1/2.png"
+          "ImageUrl": "뮤/1/2.webp"
         },
         {
-          "ImageUrl": "뮤/2/1.png"
+          "ImageUrl": "뮤/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -354,7 +354,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -380,7 +380,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mu/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mu/1.webp",
       "Desc": "[지원]액티브 스킬, 아군 <font color=\"red\">1</font>부대를 범위 안의 <b><font color=\"green\">숲</font>,<font color=\"green\">초원</font></b>지형 으로 이동시킨다.<br/>(유저의 부대에게만 쓸 수 있다.)",
       "SubSkills": null,
       "Animation": null
@@ -406,7 +406,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -432,7 +432,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/20.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/20.webp",
       "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 공격, 지력 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -458,7 +458,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mu/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mu/2.webp",
       "Desc": "[액티브]자신 주위 <font color=\"red\">3</font>칸 내 모든 영웅이 있는 지형을 <font color=\"green\">초원</font>으로 간주<br/>지속 <font color=\"red\">1</font>턴",
       "SubSkills": null,
       "Animation": null
@@ -484,7 +484,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
       "SubSkills": null,
       "Animation": null
@@ -498,7 +498,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mu/3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mu/3.webp",
       "Desc": "[패시브]<b>자신이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font></b>지형에 있을 경우 받는 피해 <font color=\"red\">-20</font>%<br/><b>스킬 사용시</b>부대 사거리 <font color=\"red\">+1</font><br/><b>행동 종료 시 자신 주의 <font color=\"red\">2</font>칸 범위 내 모든 아군의</b> 생명 회복 (지력 <font color=\"red\">1.5</font>배 수치)",
       "SubSkills": null,
       "Animation": null
@@ -524,7 +524,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mu/4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mu/4.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.33</font>배의 광역 피해를 준다.<br/><b>명중한 적이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font></b>지형에 있을 경우<br/>이동력 <font color=\"red\">-3</font>, 지속 <font color=\"red\">2</font>턴,<br/><b>그 외에 지형일 경우</b> 이동력<font color=\"red\">-1</font>, 지속 <font color=\"red\">2</font>턴",
       "SubSkills": null,
       "Animation": null
@@ -550,10 +550,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/뮤.png",
+      "IconImageUrl": "../img/Super/뮤.webp",
       "Desc": "<br/>[마법 피해] 단일 적 부대를 공격하여 <font color=\"red\">1.6</font>배 피해를 준다.<br/><b>전투 진입 전 적이 받는 피해량<font color=\"red\">+20</font>%, '<font color=\"blue\">숲의 씨앗</font>'효과를 부여한다.<br/><font color=\"blue\">숲의 씨앗</font> : <b>사망 시 시전자의</b> '<font color=\"green\">고대 숲의 정령</font>'으로 변화<br/>지속 <font color=\"red\">2</font>턴<br/><b>전투 후 자신과 목표에게</b> '<font color=\"green\">풀밭</font>'효과 부여<br/><font color=\"green\">풀밭</font> : [지휘] <b>주위 <font color=\"red\">1</font>바퀴 범위 안에 있는 모든 부대가 이동 가능한 지형을</b><br/><font color=\"green\">초원</font>으로 간주한다. 지속<font color=\"red\">2</font>턴<br/><font color=\"green\">고대 숲의 정령</font> 최대 수량은 <font color=\"red\">1</font>기",
       "SubSkills": null,
-      "Animation": "../img/Super/뮤.gif"
+      "Animation": "../img/Super/뮤_Ani.webp"
     }
   ],
   "Bio": null,

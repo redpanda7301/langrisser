@@ -2,7 +2,7 @@
 {
   "Skins": [
     {
-      "ImageUrl": "히미코/1.png",
+      "ImageUrl": "히미코/1.webp",
       "Desc": "기본"
     }
   ],
@@ -44,7 +44,7 @@
   "Talent": [
     {
       "Name": "인법 - 바꿔치기술",
-      "Icon": "Gift_Himiko.png",
+      "Icon": "Gift_Himiko.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -81,10 +81,10 @@
   "Jobs": [
     {
       "Name": "닌자두목",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "히미코/1/1.png"
+          "ImageUrl": "히미코/1/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -107,10 +107,10 @@
     },
     {
       "Name": "겐오마루",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "히미코/1/2.png"
+          "ImageUrl": "히미코/1/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -344,7 +344,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/6.webp",
       "Desc": "[물리 피해] 호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -358,7 +358,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass1.webp",
       "Desc": "[패시브]전투 중 치명타가 발생한 경우<br/>전투 후 적에게 [고정 피해]를 준다.(피해량은 영웅 공격의 2배)",
       "SubSkills": null,
       "Animation": null
@@ -384,7 +384,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash3.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br/>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
       "SubSkills": null,
       "Animation": null
@@ -410,7 +410,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Himiko/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Himiko/1.webp",
       "Desc": "[지원][액티브]자신에게 <font color=\"red\">0.1</font>배 범위 피해 <font color=\"red\">1</font>회 및 이동력 <font color=\"red\">+2</font>, <br/>이동 시 <font color=\"blue\">적 통과</font>,<br/>행동 종료 시 자신이 지나간 모든 지형에 <font color=\"red\">1</font>턴간 잿불 효과 부여 <br/>[잿불]적이 해당 지형으로 이동해 행동 종료 시 최대 생명 <font color=\"red\">15</font>% 수치의 고정 피해. 지속 <font color=\"red\">3</font>턴",
       "SubSkills": null,
       "Animation": null
@@ -436,7 +436,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Himiko/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Himiko/2.webp",
       "Desc": "[물리 피해]전장에 있는 적에게 <font color=\"red\">0.3</font>배 피해 및 버프 <font color=\"red\">3</font>개 제거, <br/><font color=\"blue\">공격 불가</font> 및 <font color=\"blue\">침묵</font> 효과 부여, 지속 <font color=\"red\">1</font>턴 (<b>해제 불가</b>)",
       "SubSkills": null,
       "Animation": null
@@ -462,7 +462,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash2.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br/>치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
@@ -476,7 +476,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -502,7 +502,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Himiko/3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Himiko/3.webp",
       "Desc": "직선상 적에게 <font color=\"red\">0.3</font>배 피해. 및 <font color=\"blue\">위치 이동 효과</font> : <font color=\"red\">3</font>칸 밀침",
       "SubSkills": null,
       "Animation": null
@@ -528,10 +528,10 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/Super/히미코.png",
+      "IconImageUrl": "../img/Super/히미코.webp",
       "Desc": "[물리피해]치명타 확률 <font color=\"red\">+20</font>%<br/><font color=\"red\">3</font>줄 직선 적에게 <font color=\"red\">0.38</font>배 피해 및 이동력을 랜덤하게 <font color=\"red\">1~3</font> 저하. <br/>지속 <font color=\"red\">2</font>턴. <br/><b>해당 공격으로 적을 <font color=\"red\">3</font>명 이상 명중시킨 경우</b> 쿨타임 <font color=\"red\">-3</font>",
       "SubSkills": null,
-      "Animation": "../img/Super/히미코.gif"
+      "Animation": "../img/Super/히미코_Ani.gif"
     }
   ],
   "Bio": null,

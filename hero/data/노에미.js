@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "노에미/1.png",
+      "ImageUrl": "노에미/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "노에미/2.png",
+      "ImageUrl": "노에미/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "노에미/3.png",
+      "ImageUrl": "노에미/3.webp",
       "Desc": "형귀뽑기"
     }
   ],
@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "마법 의복",
-      "Icon": "Gift_Noemi.png",
+      "Icon": "Gift_Noemi.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -78,7 +78,7 @@
   "Equip": {
     "Name": "기발한 마법 모자(투구)",
     "Stats": "생명 364,마방 65",
-    "Icon": "노에미.png",
+    "Icon": "노에미.webp",
     "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/><b><font color=\"blue\">'마법 의복' 버프</font>를 가진 <b>모든 부대가 행동 종료 시</b> <br/><b>자신에게 걸린 디버프 <font color=\"red\">1</font>개 제거 및 </b><font color=\"blue\">생명 <font color=\"red\">5</font>% 회복</font></b>,<br/><b>'<font color=\"blue\">이능력 로브</font>' 사용 시 지원 효과 횟수</b> <font color=\"red\">+1</font><br/>"
   },
   "Soldiers": [
@@ -93,16 +93,16 @@
   "Jobs": [
     {
       "Name": "위저드",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "노에미/1/1.png"
+          "ImageUrl": "노에미/1/1.webp"
         },
         {
-          "ImageUrl": "노에미/2/1.png"
+          "ImageUrl": "노에미/2/1.webp"
         },
         {
-          "ImageUrl": "노에미/3/1.png"
+          "ImageUrl": "노에미/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -125,16 +125,16 @@
     },
     {
       "Name": "마법 재봉사",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "노에미/1/2.png"
+          "ImageUrl": "노에미/1/2.webp"
         },
         {
-          "ImageUrl": "노에미/2/1.png"
+          "ImageUrl": "노에미/2/1.webp"
         },
         {
-          "ImageUrl": "노에미/3/1.png"
+          "ImageUrl": "노에미/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -399,7 +399,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -413,7 +413,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.webp",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 마방 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -439,7 +439,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -453,7 +453,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_SPDBuf1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_SPDBuf1.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 이동력+1 및<br/>면역:'이동력 저하','치료 반전', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -479,7 +479,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Noemi2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Noemi2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>'보병'에게 더큰 피해를 준다. 전투 후 공격한 지형 및 주위 1칸 지형에 2턴 동안<br/>[잔불]부여 : 적군 부대가 이 위치로 이동하여 행동종료시 최대생명의 15%의 [고정피해]",
       "SubSkills": null,
       "Animation": null
@@ -505,7 +505,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -519,7 +519,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Noemi1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Noemi1.webp",
       "Desc": "[패시브]행동종료시, [위험범위]내에 있는 무작위 적군 1명에게<br/>'[마법 흔적] : \"노에미에게 받는 피해 +5%\", 3턴 지속' 부여. 최대 3중첩.<br/>[마법 흔적]을 가진 적군에게 공격하여 전투진입시 전투후 입힌 피해의 <br/>20%만큼의 생명회복 후 [마법 흔적]1개 감소",
       "SubSkills": null,
       "Animation": null
@@ -545,7 +545,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Noemi4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Noemi4.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>'창병'에게 더큰 피해를 준다. 전투 후 공격한 지형에 2턴 동안<br/>[얼음땅]부여 : 적군 부대가 이 위치로 이동하여 행동종료시 '이동력-2', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -571,7 +571,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Noemi3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Noemi3.webp",
       "Desc": "마물 거미 부대를 1개 소환한다.",
       "SubSkills": null,
       "Animation": null
@@ -585,7 +585,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Cobweb.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Cobweb.webp",
       "Desc": "[패시브]공격하여 전투진입전 75%확률로 적군의 이동력-2,<br/>마방 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -611,10 +611,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super34.png",
+      "IconImageUrl": "../img/Super/노에미.webp",
       "Desc": "[지원] 액티브 스킬. 사용후 자신의 부대가 공격하여 전투진입시 2회 동안<br/>\"받는피해 -20%, 입히는피해 +20%.\" 동시에 \"부대의 사거리+2,<br/>행동종료시 자신의 지력 1.5배의 생명회복, 디버프 1개 제거.\"(제거불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/노에미.gif"
+      "Animation": "../img/Super/노에미_Ani.gif"
     }
   ],
   "Bio": [

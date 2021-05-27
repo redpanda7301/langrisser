@@ -2,27 +2,27 @@
 {
   "Skins": [
     {
-      "ImageUrl": "알테뮬러/1.png",
+      "ImageUrl": "알테뮬러/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "알테뮬러/2.png",
+      "ImageUrl": "알테뮬러/2.webp",
       "Desc": "스킨상점"
     },
     {
-      "ImageUrl": "알테뮬러/3.png",
+      "ImageUrl": "알테뮬러/3.webp",
       "Desc": "형귀 스킨"
     },
     {
-      "ImageUrl": "알테뮬러/4.png",
+      "ImageUrl": "알테뮬러/4.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "알테뮬러/sp.png",
+      "ImageUrl": "알테뮬러/sp.webp",
       "Desc": "SP 각성"
     },
     {
-      "ImageUrl": "알테뮬러/5.png",
+      "ImageUrl": "알테뮬러/5.webp",
       "Desc": "한정판매"
     }
   ],
@@ -64,7 +64,7 @@
   "Talent": [
     {
       "Name": "무쌍의 패왕",
-      "Icon": "49.png",
+      "Icon": "49.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -90,7 +90,7 @@
   "SPTalent": [
     {
       "Name": "무쌍의 천룡",
-      "Icon": "SP_Gift_Alutemurat.png",
+      "Icon": "SP_Gift_Alutemurat.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -116,7 +116,7 @@
   "Equip": {
     "Name": "리그리아 왕관(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "알테뮬러.png",
+    "Icon": "알테뮬러.webp",
     "Ability": "방어, 마방 +5%<br/>자신이 발동 시키는 강화 효과의 지속 턴 +1"
   },
   "Soldiers": [
@@ -134,25 +134,25 @@
   "Jobs": [
     {
       "Name": "마샬",
-      "Icon": "Icon_Occupation_Marines.png",
+      "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
-          "ImageUrl": "알테뮬러/1/1.png"
+          "ImageUrl": "알테뮬러/1/1.webp"
         },
         {
-          "ImageUrl": "알테뮬러/2/1.png"
+          "ImageUrl": "알테뮬러/2/1.webp"
         },
         {
-          "ImageUrl": "알테뮬러/3/1.png"
+          "ImageUrl": "알테뮬러/3/1.webp"
         },
         {
-          "ImageUrl": "알테뮬러/4/1.png"
+          "ImageUrl": "알테뮬러/4/1.webp"
         },
 	    {
-          "ImageUrl": "알테뮬러/sp/1.png"
+          "ImageUrl": "알테뮬러/sp/1.webp"
         },
         {
-          "ImageUrl": "알테뮬러/5/1.png"
+          "ImageUrl": "알테뮬러/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -175,25 +175,25 @@
     },
     {
       "Name": "창공의 마룡",
-      "Icon": "Icon_Occupation_FlySP.png",
+      "Icon": "Icon_Occupation_FlySP.webp",
       "SD": [
         {
-          "ImageUrl": "알테뮬러/1/2.png"
+          "ImageUrl": "알테뮬러/1/2.webp"
         },
         {
-          "ImageUrl": "알테뮬러/2/2.png"
+          "ImageUrl": "알테뮬러/2/2.webp"
         },
         {
-          "ImageUrl": "알테뮬러/3/2.png"
+          "ImageUrl": "알테뮬러/3/2.webp"
         },
         {
-          "ImageUrl": "알테뮬러/4/2.png"
+          "ImageUrl": "알테뮬러/4/2.webp"
         },		
         {
-          "ImageUrl": "알테뮬러/sp/1.png"
+          "ImageUrl": "알테뮬러/sp/1.webp"
         },
         {
-          "ImageUrl": "알테뮬러/5/2.png"
+          "ImageUrl": "알테뮬러/5/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -216,25 +216,25 @@
     },
     {
       "Name": "드래곤 마스터",
-      "Icon": "Icon_Occupation_Fly.png",
+      "Icon": "Icon_Occupation_Fly.webp",
       "SD": [
         {
-          "ImageUrl": "알테뮬러/1/3.png"
+          "ImageUrl": "알테뮬러/1/3.webp"
         },
         {
-          "ImageUrl": "알테뮬러/2/3.png"
+          "ImageUrl": "알테뮬러/2/3.webp"
         },
         {
-          "ImageUrl": "알테뮬러/3/3.png"
+          "ImageUrl": "알테뮬러/3/3.webp"
         },
         {
-          "ImageUrl": "알테뮬러/4/3.png"
+          "ImageUrl": "알테뮬러/4/3.webp"
         },
         {
-          "ImageUrl": "알테뮬러/sp/1.png"
+          "ImageUrl": "알테뮬러/sp/1.webp"
         },
         {
-          "ImageUrl": "알테뮬러/5/3.png"
+          "ImageUrl": "알테뮬러/5/3.webp"
         }
       ],
       "AttkRange": 1,
@@ -481,7 +481,7 @@
       "Name": "개방",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/AlterEgo_Alutemurat.png",
+          "MaterialImgUrl": "../img/item/AlterEgo_Alutemurat.webp",
           "Amount": 1
         }
       ],
@@ -491,19 +491,19 @@
       "Name": "1단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/classup/rank8-2.png",
+          "MaterialImgUrl": "../img/classup/rank8-2.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/classup/rank7-7.png",
+          "MaterialImgUrl": "../img/classup/rank7-7.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/classup/rank6-1.png",
+          "MaterialImgUrl": "../img/classup/rank6-1.webp",
           "Amount": 50
         }
       ],
@@ -518,19 +518,19 @@
       "Name": "2단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/쓰알열쇠.png",
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/item/스알열쇠.png",
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/알열쇠.png",
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
           "Amount": 50
         }
       ],
@@ -545,11 +545,11 @@
       "Name": "3단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/룬스톤.png",
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
           "Amount": 2
         }
       ],
@@ -569,19 +569,19 @@
       "Name": "4단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/heart/h2.png",
+          "MaterialImgUrl": "../img/heart/h2.webp",
           "Amount": 60
         },
         {
-          "MaterialImgUrl": "../img/heart/h2-1.png",
+          "MaterialImgUrl": "../img/heart/h2-1.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/heart/x.png",
+          "MaterialImgUrl": "../img/heart/x.webp",
           "Amount": 12
         }
       ],
@@ -596,15 +596,15 @@
       "Name": "5단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.png",
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/item/Awaken_Stardust.png",
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
           "Amount": 5
         }
       ],
@@ -619,19 +619,19 @@
       "Name": "6단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/Item_MemoryEssence.png",
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
           "Amount": 600
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Rider1.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Rider1.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Rider2.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Rider2.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Rider4.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Rider4.webp",
           "Amount": 5
         }
       ],
@@ -670,7 +670,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 [바람 타기]획득:생명이 50% 이상인 경우 전투 진입 시 받는 피해량 -15%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -684,7 +684,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.webp",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
       "SubSkills": null,
       "Animation": null
@@ -698,7 +698,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefUp.webp",
       "Desc": "[지휘] 주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -712,7 +712,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/16.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/16.webp",
       "Desc": "[패시브] 행동 종료 시 20% 확률로 재행동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -738,7 +738,7 @@
           "Value": "2칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DragonSuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DragonSuper.webp",
       "Desc": "[물리 피해]주위 2칸 내 모든 적군에게 0.36배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤 디버프를 시전, 전투 후 [바람 타기]시전:<br/>생명 50%이상으로 전투 진입 시 받는 피해 -15%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -752,7 +752,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parry.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parry.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격의 7%를 방어에 추가한다.",
       "SubSkills": null,
       "Animation": null
@@ -778,7 +778,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_WisdomAndCourage1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_WisdomAndCourage1.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '전략의 대가' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 이동 시 지나가는 지형을 모두 '평지'로 본다.<br/>방어 상승 효과를 가진 지형에 위치할 경우 전투 중 주는 피해량 +15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -804,7 +804,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SpearSoul.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SpearSoul.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 상승, [응수],[미늘]효과를 시전하며 3턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -818,7 +818,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.webp",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -832,7 +832,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/알테뮬러/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/알테뮬러/1.webp",
       "Desc": "[패시브]이동 시 적 통과 가능. <b>근접 전으로 전투 진입 전</b> <br/>자신이 보유한 '<font color=\"blue\">무쌍</font>' 스택 당 생명 <font color=\"red\">10</font>% 회복 (최대 30%)<br/><b>선공으로 피해를 입힌 후 행동 종료 시</b> <font color=\"red\">2</font>칸 <font color=\"blue\">이동력 저하 면제</font> 획득,<br/> 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -858,7 +858,7 @@
           "Value": "2바퀴"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/알테뮬러/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/알테뮬러/2.webp",
       "Desc": "[물리피해]주위 <font color=\"red\">2</font>바퀴 범위 내 적에게 <font color=\"red\">0.1배</font> 피해, <br/><b>전투 후</b> '<font color=\"blue\">바람 타기</font>' 효과 획득, 지속 <font color=\"red\">1</font>행동<br/><b>피해를 입힌 후 명중한 모든 적을 자신 주위로</b> <font color=\"blue\">텔레포트</font>,<br/><b>만약 자신이 '<font color=\"blue\">초절강화</font>' 특수 효과를 보유하고 <font color=\"red\">3</font>명 이상의 적과 인접 시</b>,<br/><b>재공격 가능 (이동 및 재이동 불가)</b> <br/>쿨타임 <font color=\"red\">3</font>행동, (<b><font color=\"blue\">재행동</font> 발동 시 보유 버프 지속 시간이 감소하지 않음</b>)",
       "SubSkills": null,
       "Animation": null
@@ -884,10 +884,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super35.png",
+      "IconImageUrl": "../img/Super/알테뮬러.webp",
       "Desc": "[물리피해] 단일적군을 공격해 1.5배의 피해를 준다.<br/>전투 후 주위 1바퀴 범위내에 2명이상의 적군이 있을경우, <br/>다시 공격이 가능하지만 이동과 재이동은 불가능.<br/>(이 재행동효과는 1회합내 2회 이상 발동불가능.)<br/>이 스킬로 적군을 격파시 쿨타임 -6턴.<br/>([재발동]까지 1턴이 필요)]",
       "SubSkills": null,
-      "Animation": "../img/Super/알테뮬러.gif"
+      "Animation": "../img/Super/알테뮬러_Ani.gif"
     }
   ],
   "Bio": [

@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "팟시르/1.png",
+      "ImageUrl": "팟시르/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "팟시르/2.png",
+      "ImageUrl": "팟시르/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -47,7 +47,7 @@
   "Talent": [
     {
       "Name": "그림자 매혹",
-      "Icon": "Gift_Patsyr.png",
+      "Icon": "Gift_Patsyr.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -85,13 +85,13 @@
   "Jobs": [
     {
       "Name": "핏빛 꿈의 주인",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "팟시르/1/1.png"
+          "ImageUrl": "팟시르/1/1.webp"
         },
         {
-          "ImageUrl": "팟시르/2/1.png"
+          "ImageUrl": "팟시르/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -114,13 +114,13 @@
     },
     {
       "Name": "꿈을 쫓는 자",
-      "Icon": "Icon_Occupation_Monster.png",
+      "Icon": "Icon_Occupation_Monster.webp",
       "SD": [
         {
-          "ImageUrl": "팟시르/1/2.png"
+          "ImageUrl": "팟시르/1/2.webp"
         },
         {
-          "ImageUrl": "팟시르/2/1.png"
+          "ImageUrl": "팟시르/2/1.webp"
         }
       ],
 	  "AttkRange": 2,
@@ -385,7 +385,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.                                        <br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -411,7 +411,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -437,7 +437,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -451,7 +451,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.webp",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 마방 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -477,7 +477,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.                                        <br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -503,7 +503,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr1.webp",
       "Desc": "[마법 피해]전장에 있는 단일 개체 0.1배, 목표가 '여성이 아닌 영웅'일 경우 다음 턴 기절,                                        <br/>목표 행동 종료 시 주위 1바퀴 범위 다른 아군에게 고정피해 (목표의 남은 생명력 25% 수치, 해당 효과는 해제 불가)",
       "SubSkills": null,
       "Animation": null
@@ -529,7 +529,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.                                        <br/>목표가 '여성이 아닌 영웅'일 경우 피해 +20% 및 호위 무시",
       "SubSkills": null,
       "Animation": null
@@ -543,7 +543,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr3.webp",
       "Desc": "[패시브]'여성이 아닌 영웅'과 교전해 전투에 들어갈 경우,                                        <br/>전투 후 해당 전투에서 입힌 피해량 30% 수치로 생명 회복",
       "SubSkills": null,
       "Animation": null
@@ -569,10 +569,10 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/Super/팟시르.png",
+      "IconImageUrl": "../img/Super/팟시르.webp",
       "Desc": "[패시브]팟시르 사망 시, 전장에 있는 적군 중 모든 '여성이 아닌 영웅'에게 '패시브 봉인' 효과 부여 (해제 불가)                                        <br/>마법피해. 3줄 직선 상 적에게 0.1배, 대상이 '방어 지형이 아닌 지형'에 위치해 있을 경우 추가                                         <br/>고정 피해 (지력 2배 수치, 면역 불가), '그림자 저주' 효과 부여                                        <br/>그림자 저주 : '방어 지형이 아닌 지형'에서 행동 종료 시 고정 피해 (지력 1.5배 수치),                                        <br/>면역 불가, 지속 2행동 (그림자 저주 효과는 해제 불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/팟시르.gif"
+      "Animation": "../img/Super/팟시르_Ani.gif"
     }
   ],
   "Bio": null,

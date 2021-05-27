@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "레온하르트/1.png",
+      "ImageUrl": "레온하르트/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "레온하르트/2.png",
+      "ImageUrl": "레온하르트/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "검의 수라",
-      "Icon": "62.png",
+      "Icon": "62.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -85,13 +85,13 @@
   "Jobs": [
     {
       "Name": "검제",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "레온하르트/1/1.png"
+          "ImageUrl": "레온하르트/1/1.webp"
         },
         {
-          "ImageUrl": "레온하르트/2/1.png"
+          "ImageUrl": "레온하르트/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -114,13 +114,13 @@
     },
     {
       "Name": "수라",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "레온하르트/1/2.png"
+          "ImageUrl": "레온하르트/1/2.webp"
         },
         {
-          "ImageUrl": "레온하르트/2/1.png"
+          "ImageUrl": "레온하르트/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -354,7 +354,7 @@
           "Value": "주위 1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FireOnikiri.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FireOnikiri.webp",
       "Desc": "[물리 피해]자신 주위 1칸 내 모든 적군에게 0.25배 범위 피해를 입힌다.<br/>모든 스킬 쿨타임 -1턴.",
       "SubSkills": null,
       "Animation": null
@@ -380,7 +380,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/0.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/0.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -394,7 +394,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.webp",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -420,7 +420,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Teleporting.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Teleporting.webp",
       "Desc": "[지원]액티브 스킬, 자신을 순간이동하여 임의의 위치로 이동할 시<br/>이동력 +1, 자신 부대가 받는 피해 -30%,[검기]버프 시전:<br/>공격하여 전투 시 주위 1칸 내 모든 적군에게 0.1배 범위 피해를 입힌다. 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -446,7 +446,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ZeroStorm.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ZeroStorm.webp",
       "Desc": "[물리 피해]라인에 있는 모든 적군을 관통하며 0.25배 범위 피해를 입힌다.<br/>25%확률로 적에게 기절 시전, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -472,7 +472,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -486,7 +486,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.webp",
       "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -512,7 +512,7 @@
           "Value": "주위 2칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ShadowSword.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ShadowSword.webp",
       "Desc": "[물리 피해]자신 주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>적의 2개 버프를 제거, 적이 재이동 시전 불가, 3턴 지속.(제거 불가).",
       "SubSkills": null,
       "Animation": null
@@ -538,10 +538,10 @@
           "Value": "자신"
         }
       ],
-      "IconImageUrl": "../img/Super/레온하르트.png",
-      "Desc": "[물리피해]주위 <font color =\"red\">2</font>바퀴 내 모든 적에게 <font color =\"red\">0.2</font>배 피해를 준다.<br/><b><font color =\"red\">50</font>% 확률로 패시브 봉인</b> 지속 <font color =\"red\">2</font>행동<br/><b>공격 후 곁에 자신의 현재 스탯과 동일한 <font color =\"dark purple\">분신</font>소환</b><br/>분신은 '고유 스킬 : 주는 피해증가 <font color =\"red\">+30</font>%, 받는피해량 <font color =\"red\">-50</font>%',  '<font color =\"blue\">제로 스톰</font>' '<font color =\"blue\">귀염참</font>' '<font color =\"blue\">대역</font>' 스킬 보유<br/>'<font color =\"blue\">대역</font>' : <b>주변 <font color =\"red\">2</font>칸이내 소환자의 물리피해를 대신</b> 하여 공격받는다.<br/><b>분신이 사망후</b> 레온하르트 본인의 생명 <font color =\"red\">30</font>%회복 및 모든 스킬 쿨타임 <font color =\"red\">-1</font><br/><b>해당 분신 최대 <font color =\"red\">1</font>기 까지 보유가능</b>",
+      "IconImageUrl": "../img/Super/레온하르트.webp",
+      "Desc": "[물리피해]주위 <font color =\"red\">2</font>바퀴 내 모든 적에게 <font color =\"red\">0.2</font>배 피해를 준다.<br/><b><font color =\"red\">50</font>% 확률로 패시브 봉인</b> 지속 <font color =\"red\">2</font>행동<br/><b>공격 후 곁에 자신의 현재 스탯과 동일한 <font color =\"dark purple\">분신</font>소환</b><br/>분신은 '고유 스킬 : 주는 피해량<font color =\"red\">-30</font>%, 받는피해량 <font color =\"red\">+50</font>%',  '<font color =\"blue\">제로 스톰</font>' '<font color =\"blue\">귀염참</font>' '<font color =\"blue\">대역</font>' 스킬 보유<br/>'<font color =\"blue\">대역</font>' : <b>주변 <font color =\"red\">2</font>칸이내 소환자의 물리피해를 대신</b> 하여 공격받는다.<br/><b>분신이 사망후</b> 레온하르트 본인의 생명 <font color =\"red\">30</font>%회복 및 모든 스킬 쿨타임 <font color =\"red\">-1</font><br/><b>해당 분신 최대 <font color =\"red\">1</font>기 까지 보유가능</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/레온하르트.gif"
+      "Animation": "../img/Super/레온하르트_Ani.webp"
     }
   ],
   "Bio": [

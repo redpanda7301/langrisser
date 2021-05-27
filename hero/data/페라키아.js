@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "페라키아/1.png",
+      "ImageUrl": "페라키아/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "페라키아/2.png",
+      "ImageUrl": "페라키아/2.webp",
       "Desc": "서밋아레나 시즌2 골드스킨"
     }
   ],
@@ -47,7 +47,7 @@
   "Talent": [
     {
       "Name": "모프",
-      "Icon": "16.png",
+      "Icon": "16.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -74,7 +74,7 @@
   "Equip": {
     "Name": "악몽의 속삭임(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "페라키아.png",
+    "Icon": "페라키아.webp",
     "Ability": "생명 +5%<br/>상성 관계인 부대와 전투시, 공격 +20%"
   },
   "Soldiers": [
@@ -90,13 +90,13 @@
   "Jobs": [
     {
       "Name": "미라지 퀸",
-      "Icon": "Icon_Occupation_Monster.png",
+      "Icon": "Icon_Occupation_Monster.webp",
       "SD": [
         {
-          "ImageUrl": "페라키아/1/1.png"
+          "ImageUrl": "페라키아/1/1.webp"
         },
         {
-          "ImageUrl": "페라키아/2/1.png"
+          "ImageUrl": "페라키아/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -119,13 +119,13 @@
     },
     {
       "Name": "다크 팬텀",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "페라키아/1/2.png"
+          "ImageUrl": "페라키아/1/2.webp"
         },
         {
-          "ImageUrl": "페라키아/2/1.png"
+          "ImageUrl": "페라키아/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -390,7 +390,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash3.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br/>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
       "SubSkills": null,
       "Animation": null
@@ -404,7 +404,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.webp",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
       "SubSkills": null,
       "Animation": null
@@ -430,7 +430,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Swirling.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Swirling.webp",
       "Desc": "[물리 피해]1.2배의 피해를 준다.<br/>만약 호위를 받지 않은 상태라면 전투 후 목표와 위치를 바꾼다.<br/>동시에 자신이 받는 모든 피해 -20%, 지속 1턴.",
       "SubSkills": null,
       "Animation": null
@@ -444,7 +444,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -458,7 +458,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraAtkDown.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraAtkDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 모든 적 부대 공격, 지력 -15%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -472,7 +472,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TrickStep.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TrickStep.webp",
       "Desc": "[패시브]치명타 확률+10%.<br/>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -486,7 +486,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf2.webp",
       "Desc": "[패시브]전투 진입 시 자신 부대 공격 +7%.",
       "SubSkills": null,
       "Animation": null
@@ -512,7 +512,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -526,7 +526,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.webp",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 마방 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -552,10 +552,10 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super42.png",
+      "IconImageUrl": "../img/Super/페라키아.webp",
       "Desc": "[물리 피해]직선상 단일 적군에게 0.2배의 물리피해를 주고<br/>자신의 영웅병종과 적군 영웅의 병종을 변환한다.<br/>적군의 [병종변환]효과는 2회의 피해를 입은후 제거된다, 3턴 지속.<br/>(해당 효과는 제거불가하며, 병종변화는 병종간 상성에만 영향을 준다.)",
       "SubSkills": null,
-      "Animation": "../img/Super/페라키아.gif"
+      "Animation": "../img/Super/페라키아_Ani.gif"
     }
   ],
   "Bio": [

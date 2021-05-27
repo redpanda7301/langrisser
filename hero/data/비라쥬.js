@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "비라쥬/1.png",
+      "ImageUrl": "비라쥬/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "비라쥬/2.png",
+      "ImageUrl": "비라쥬/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "비라쥬/3.png",
+      "ImageUrl": "비라쥬/3.webp",
       "Desc": "형귀 스킨"
     }
   ],
@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "크림조랜더의 집념",
-      "Icon": "84.png",
+      "Icon": "84.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -78,7 +78,7 @@
   "Equip": {
     "Name": "크림조 아머(갑옷)",
     "Stats": "생명 437,방어 65",
-    "Icon": "비라쥬.png",
+    "Icon": "비라쥬.webp",
     "Ability": "방어 +10%<br/>영웅이 사망하지 않고 부활시, 랜덤한 강화버프 1개 획득."
   },
   "Soldiers": [
@@ -93,16 +93,16 @@
   "Jobs": [
     {
       "Name": "마린 마스터",
-      "Icon": "Icon_Occupation_Water.png",
+      "Icon": "Icon_Occupation_Water.webp",
       "SD": [
         {
-          "ImageUrl": "비라쥬/1/1.png"
+          "ImageUrl": "비라쥬/1/1.webp"
         },
         {
-          "ImageUrl": "비라쥬/2/1.png"
+          "ImageUrl": "비라쥬/2/1.webp"
         },
         {
-          "ImageUrl": "비라쥬/3/1.png"
+          "ImageUrl": "비라쥬/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -125,16 +125,16 @@
     },
     {
       "Name": "소드 마스터",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "비라쥬/1/2.png"
+          "ImageUrl": "비라쥬/1/2.webp"
         },
         {
-          "ImageUrl": "비라쥬/2/1.png"
+          "ImageUrl": "비라쥬/2/1.webp"
         },
         {
-          "ImageUrl": "비라쥬/3/1.png"
+          "ImageUrl": "비라쥬/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -399,7 +399,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WaterControl.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WaterControl.webp",
       "Desc": "[지원]사용 후 이동 시 통과하는 모든 지형을 '물 속'으로 취급한다.2턴 지속.<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -425,7 +425,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WaterCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WaterCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>물 속에 있을 경우 2배의 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -439,7 +439,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -453,7 +453,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DexBuf5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DexBuf5.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 기술 +20% 및<br/>면역:'치료 반전','재행동 불가', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -467,7 +467,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefUp.webp",
       "Desc": "[지휘] 주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -481,7 +481,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.webp",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -507,7 +507,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -521,7 +521,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -547,7 +547,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Virash1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Virash1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>적이 호위를 받지 않을 경우 적을 자신을 반대 편으로 이동시킨다",
       "SubSkills": null,
       "Animation": null
@@ -573,10 +573,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/비라쥬.png",
+      "IconImageUrl": "../img/Super/비라쥬.webp",
       "Desc": "[패시브] <font color=\"blue\">불사자</font> 효과 발동 시, 자신이 위치한 지형을 <b><font color=\"blue\">물</font>로 간주</b>,  <br/><b>선공으로 전투 진입 전 해당 전투에 한해 <font color=\"blue\">자신에게 고정 피해 면역 부여</font></b><br/>[액티브]<font color=\"red\">1.5</font>배 단일 피해, 물에 있을 경우 2배 피해.  <br/><b>주위 2칸 범위에 아군이 없는 상태로 행동 종료 시 스킬 쿨 <font color=\"red\">-1</font></b>",
       "SubSkills": null,
-      "Animation": "../img/Super/비라쥬.gif"
+      "Animation": "../img/Super/비라쥬_Ani.gif"
     }
   ],
   "Bio": [

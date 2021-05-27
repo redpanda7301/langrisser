@@ -2,23 +2,23 @@
 {
   "Skins": [
     {
-      "ImageUrl": "유리아/1.png",
+      "ImageUrl": "유리아/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "유리아/2.png",
+      "ImageUrl": "유리아/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "유리아/3.png",
+      "ImageUrl": "유리아/3.webp",
       "Desc": "서밋아레나 시즌3 패자스킨"
     },
     {
-      "ImageUrl": "유리아/4.png",
+      "ImageUrl": "유리아/4.webp",
       "Desc": "한정 이벤트"
     },
     {
-      "ImageUrl": "유리아/5.png",
+      "ImageUrl": "유리아/5.webp",
       "Desc": "한정 판매"
     }
   ],
@@ -60,7 +60,7 @@
   "Talent": [
     {
       "Name": "불후의 전설",
-      "Icon": "75.png",
+      "Icon": "75.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -84,7 +84,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "여신의 성스러운 옷(갑옷)",
+    "Stats": "생명 583,마방 54",
+    "Icon": "유리아.webp",
+    "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>))%<br/><b>영웅이 <font color =\"purple\">고유 스킬</font>로 부활시<br/><b>전투 진입 전 적에게</b> 지력 <font color =\"red\">2</font>배 수치 <font color =\"blue\">고정피해</font> 및 <br/><b>자신에게</b> 지력 <font color =\"red\">2</font>배 수치의 <font color =\"blue\">생명 회복</font><br/>지속 <font color =\"red\">1</font>행동"
+  },
   "Soldiers": [
     3,
     4,
@@ -98,22 +103,22 @@
   "Jobs": [
     {
       "Name": "여신의검",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "유리아/1/1.png"
+          "ImageUrl": "유리아/1/1.webp"
         },
         {
-          "ImageUrl": "유리아/2/1.png"
+          "ImageUrl": "유리아/2/1.webp"
         },
         {
-          "ImageUrl": "유리아/3/1.png"
+          "ImageUrl": "유리아/3/1.webp"
         },
         {
-          "ImageUrl": "유리아/4/1.png"
+          "ImageUrl": "유리아/4/1.webp"
         },
         {
-          "ImageUrl": "유리아/5/1.png"
+          "ImageUrl": "유리아/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -136,22 +141,22 @@
     },
     {
       "Name": "성검의 공주",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "유리아/1/2.png"
+          "ImageUrl": "유리아/1/2.webp"
         },
         {
-          "ImageUrl": "유리아/2/1.png"
+          "ImageUrl": "유리아/2/1.webp"
         },
         {
-          "ImageUrl": "유리아/3/1.png"
+          "ImageUrl": "유리아/3/1.webp"
         },
         {
-          "ImageUrl": "유리아/4/1.png"
+          "ImageUrl": "유리아/4/1.webp"
         },
         {
-          "ImageUrl": "유리아/5/1.png"
+          "ImageUrl": "유리아/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -385,7 +390,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -399,7 +404,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef2.webp",
       "Desc": "[패시브]전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방  <font color=\"red\">-25%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -413,7 +418,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf1.webp",
       "Desc": "[패시브]공격을 받아 전투 진입 전 자신 방어 <font color=\"red\">+5%</font>, <font color=\"red\">1턴</font> 지속. 중첩 가능.",
       "SubSkills": null,
       "Animation": null
@@ -427,7 +432,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Dedication.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Dedication.webp",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br/>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -453,7 +458,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HolyJudgement.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HolyJudgement.webp",
       "Desc": "[마법 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투 진입 전, 해당 적 부대의 버프 <font color=\"red\">5</font>개를 제거한다.<br/>또한 적에게 '재행동 불가'와 '버프 불가'를 부여한다. (<font color=\"red\">2</font>턴 지속) (제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -467,7 +472,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Belief.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Belief.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br/>전투 후 가장 생명이 적은 다른 아군 생명 회복, 회복량은 자신 지력의 <font color=\"red\">2</font>배.",
       "SubSkills": null,
       "Animation": null
@@ -481,7 +486,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.webp",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -507,7 +512,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Pledge.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Pledge.webp",
       "Desc": "[마법 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투 진입 전, 적에게 자신의 지력 <font color=\"red\">2</font>배만큼 '고정 피해'를 주고, <br/>자신의 지력 <font color=\"red\">2</font>배만큼 생명을 회복한다. (<font color=\"red\">2</font>턴 지속)<br/>전투 진입 전, '신의 위엄'을 발동한다.<br/>(신의 위엄: 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 이동력 <font color=\"red\">-3</font>) 또한 '호위 불가'를 부여한다. (<font color=\"red\">1</font>턴 지속)",
       "SubSkills": null,
       "Animation": null
@@ -533,10 +538,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/유리아.png",
+      "IconImageUrl": "../img/Super/유리아.webp",
       "Desc": "<br/>[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <br/><b>전투 전 자신에게 걸린 모든 <font color=\"blue\">디버프 제거</font> 및 생명 <font color=\"red\">30</font>% 회복</b>' 및<br/><b>적 버프 <font color=\"red\">2</font>개 제거</b>, <br/><b>만약 적이 이동력 <font color=\"red\">3</font>칸 미만이나 '기절' 상태일 경우 추가 <font color=\"red\">3</font>개 제거</b><br/><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br/><b>적을 격파 시 해당 스킬 쿨타임 <font color=\"red\">-3</font></b><br/><b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/유리아.gif"
+      "Animation": "../img/Super/유리아_Ani.gif"
     }
   ],
   "Bio": [

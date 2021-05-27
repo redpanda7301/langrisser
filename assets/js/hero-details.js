@@ -54,8 +54,8 @@ function initPage() {
             6: data[0].Talent[0].Abilities[5].Desc
         },
         starCaptionClasses: {1: 'text-info', 2: 'text-info', 3: 'text-info', 4: 'text-info', 5: 'text-info', 6: 'text-info'},
-        filledStar: '<img src="../img/Icon/Icon_StarGold.png" width="35">',
-        emptyStar: '<img src="../img/Icon/Icon_StarGray.png" width="35">',
+        filledStar: '<img src="../img/Icon/Icon_StarGold.webp" width="35">',
+        emptyStar: '<img src="../img/Icon/Icon_StarGray.webp" width="35">',
     });
     
     if (data[0].SPTalent != null) {
@@ -71,8 +71,8 @@ function initPage() {
                 6: data[0].SPTalent[0].Abilities[5].Desc
             },
             starCaptionClasses: {1: 'text-info', 2: 'text-info', 3: 'text-info', 4: 'text-info', 5: 'text-info', 6: 'text-info'},
-            filledStar: '<img src="../img/Icon/Icon_StarGold.png" width="35">',
-            emptyStar: '<img src="../img/Icon/Icon_StarGray.png" width="35">',
+            filledStar: '<img src="../img/Icon/Icon_StarGold.webp" width="35">',
+            emptyStar: '<img src="../img/Icon/Icon_StarGray.webp" width="35">',
         });
     }
 }

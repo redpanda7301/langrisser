@@ -2,23 +2,23 @@
 {
   "Skins": [
     {
-      "ImageUrl": "안젤리나/1.png",
+      "ImageUrl": "안젤리나/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "안젤리나/2.png",
+      "ImageUrl": "안젤리나/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "안젤리나/3.png",
+      "ImageUrl": "안젤리나/3.webp",
       "Desc": "이벤트 스킨"
     },
     {
-      "ImageUrl": "안젤리나/4.png",
+      "ImageUrl": "안젤리나/4.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "안젤리나/5.png",
+      "ImageUrl": "안젤리나/5.webp",
       "Desc": "한정판매"
     }
   ],
@@ -60,7 +60,7 @@
   "Talent": [
     {
       "Name": "전투의 여신",
-      "Icon": "57.png",
+      "Icon": "57.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -87,7 +87,7 @@
   "Equip": {
     "Name": "바람의 꽃(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "안젤리나.png",
+    "Icon": "안젤리나.webp",
     "Ability": "방어 +10%<br/>재행동 발동시, 보유중인 버프의 남은 행동수가 줄지 않음(해당효과는 3턴의 쿨타임이 존재)"
   },
   "Soldiers": [
@@ -103,22 +103,22 @@
   "Jobs": [
     {
       "Name": "서펜트 마스터",
-      "Icon": "Icon_Occupation_Water.png",
+      "Icon": "Icon_Occupation_Water.webp",
       "SD": [
         {
-          "ImageUrl": "안젤리나/1/1.png"
+          "ImageUrl": "안젤리나/1/1.webp"
         },
         {
-          "ImageUrl": "안젤리나/2/1.png"
+          "ImageUrl": "안젤리나/2/1.webp"
         },
         {
-          "ImageUrl": "안젤리나/3/1.png"
+          "ImageUrl": "안젤리나/3/1.webp"
         },
         {
-          "ImageUrl": "안젤리나/4/1.png"
+          "ImageUrl": "안젤리나/4/1.webp"
         },
         {
-          "ImageUrl": "안젤리나/5/1.png"
+          "ImageUrl": "안젤리나/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -141,22 +141,22 @@
     },
     {
       "Name": "드래곤 마스터",
-      "Icon": "Icon_Occupation_Fly.png",
+      "Icon": "Icon_Occupation_Fly.webp",
       "SD": [
         {
-          "ImageUrl": "안젤리나/1/2.png"
+          "ImageUrl": "안젤리나/1/2.webp"
         },
         {
-          "ImageUrl": "안젤리나/2/2.png"
+          "ImageUrl": "안젤리나/2/2.webp"
         },
         {
-          "ImageUrl": "안젤리나/3/2.png"
+          "ImageUrl": "안젤리나/3/2.webp"
         },
         {
-          "ImageUrl": "안젤리나/4/2.png"
+          "ImageUrl": "안젤리나/4/2.webp"
         },
         {
-          "ImageUrl": "안젤리나/5/2.png"
+          "ImageUrl": "안젤리나/5/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -421,7 +421,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
       "SubSkills": null,
       "Animation": null
@@ -435,7 +435,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_LonelyMoon.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_LonelyMoon.webp",
       "Desc": "[패시브]근접 전투 진입 시 영웅이 받는 피해 -20%.<br/>행동 종료 시 자신의 병사가 모두 죽었다면 재행동 가능. 3턴 후 재시전 가능.",
       "SubSkills": null,
       "Animation": null
@@ -461,7 +461,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WaterControl.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WaterControl.webp",
       "Desc": "[지원]사용 후 이동 시 통과하는 모든 지형을 '물 속'으로 취급한다.2턴 지속.<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -487,7 +487,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Replace.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Replace.webp",
       "Desc": "[지원]액티브 스킬, 아군 한 명을 자신의 위치와 바꾼다.<br/>사용 후 2칸 재이동, 공격 가능.",
       "SubSkills": null,
       "Animation": null
@@ -501,7 +501,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraAtkDown.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraAtkDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 모든 적 부대 공격, 지력 -15%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -515,7 +515,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.webp",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -541,7 +541,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -567,7 +567,7 @@
           "Value": "2칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DragonSuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DragonSuper.webp",
       "Desc": "[물리 피해]주위 2칸 내 모든 적군에게 0.36배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤 디버프를 시전, 전투 후 [바람 타기]시전:<br/>생명 50%이상으로 전투 진입 시 받는 피해 -15%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -581,7 +581,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefUp.webp",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -607,10 +607,10 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super10.png",
+      "IconImageUrl": "../img/Super/안젤리나.webp",
       "Desc": "[물리피해] 3칸 직선내 모든 적군에게 0.2배의 범위 피해를 주며, 3칸 후퇴 시킨다.<br/>자신이 '수중' 지형일 경우, 20%의 확률으로 적군에게 [빙결]효과 부여, 지속 1회합.<br/>스킬이 3명이상의 적군에게 적중할 경우 1회 재행동 가능하다.<br/>(재행동 효과는 매 회합마다 1회만 발동)",
       "SubSkills": null,
-      "Animation": "../img/Super/mmexport1579538475963.gif"
+      "Animation": "../img/Super/안젤리나_Ani.gif"
     }
   ],
   "Bio": [

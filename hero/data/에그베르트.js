@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "에그베르트/1.png",
+      "ImageUrl": "에그베르트/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "에그베르트/2.png",
+      "ImageUrl": "에그베르트/2.webp",
       "Desc": "이벤트"
     }
   ],
@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "맹렬한 불길",
-      "Icon": "28.png",
+      "Icon": "28.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -75,7 +75,7 @@
   "Equip": {
     "Name": "플레임 코트(갑옷)",
     "Stats": "생명 583, 방어 54",
-    "Icon": "에그베르트.png",
+    "Icon": "에그베르트.webp",
     "Ability": "생명, 마방 +5%<br/>공격을 받아 피해를 입은후 \"기술사거리+1,범위+1\",1턴 지속 버프획득"
   },
   "Soldiers": [
@@ -90,13 +90,13 @@
   "Jobs": [
     {
       "Name": "다크 마스터",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "에그베르트/1/1.png"
+          "ImageUrl": "에그베르트/1/1.webp"
         },
         {
-          "ImageUrl": "에그베르트/2/1.png"
+          "ImageUrl": "에그베르트/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -119,13 +119,13 @@
     },
     {
       "Name": "허미트",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "에그베르트/1/2.png"
+          "ImageUrl": "에그베르트/1/2.webp"
         },
         {
-          "ImageUrl": "에그베르트/2/1.png"
+          "ImageUrl": "에그베르트/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -390,7 +390,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamDef.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '치료 방해'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -416,7 +416,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -442,7 +442,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMute.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMute.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>50%의 확률로 적에게 '침묵'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -468,7 +468,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -494,7 +494,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -520,7 +520,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BreakMDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BreakMDef.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 받는 마법 피해량 +20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -546,7 +546,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -572,7 +572,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SkeletonArcher02.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SkeletonArcher02.webp",
       "Desc": "[소환]플레임 본 보우 1기 소환",
       "SubSkills": null,
       "Animation": null
@@ -586,7 +586,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.webp",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
       "SubSkills": null,
       "Animation": null
@@ -612,10 +612,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/에그베르트.png",
+      "IconImageUrl": "../img/Super/에그베르트.webp",
       "Desc": "[패시브] 소환. 액티브. 자신에게 '연소의 불꽃(가칭)' 효과 획득 :<br/>고정 피해 면역. 행동 종료 시 자신에게 0.1배 범위 피해. <br/>스킬을 사용해 피해를 입힐 시 스킬 쿨 -2, 지속 2행동.<br/>생명 수치를 제외한 나머지 스탯이 자신과 동일한 환상을 자신 곁에 소환. <br/>환상은 '텔레포트' '운석 소환' '불안정한 환상' 스킬 보유.",
       "SubSkills": null,
-      "Animation": "../img/Super/에그베르트.gif"
+      "Animation": "../img/Super/에그베르트_Ani.gif"
     }
   ],
   "Bio": [

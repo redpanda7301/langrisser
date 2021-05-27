@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "여신의화신/1.png",
+      "ImageUrl": "여신의화신/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "여신의화신/2.png",
+      "ImageUrl": "여신의화신/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "여신의화신/3.png",
+      "ImageUrl": "여신의화신/3.webp",
       "Desc": "형귀 스킨"
     }
   ],
@@ -52,7 +52,7 @@
   "Talent": [
     {
       "Name": "여신의 대행자",
-      "Icon": "82.png",
+      "Icon": "82.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -79,7 +79,7 @@
   "Equip": {
     "Name": "신탁을 받은 자(투구)",
     "Stats": "생명 364, 마방 65",
-    "Icon": "여신의화신.png",
+    "Icon": "여신의화신.webp",
     "Ability": "생명 +5%<br/>행동종료시 피해를 입히지 않고 이동하지 않은 상태라면 재행동.<br/>(재행동 효과는 발동후 4턴 이후 재발동)"
   },
   "Soldiers": [
@@ -94,16 +94,16 @@
   "Jobs": [
     {
       "Name": "위저드",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "여신의화신/1/1.png"
+          "ImageUrl": "여신의화신/1/1.webp"
         },
         {
-          "ImageUrl": "여신의화신/2/1.png"
+          "ImageUrl": "여신의화신/2/1.webp"
         },
         {
-          "ImageUrl": "여신의화신/3/1.png"
+          "ImageUrl": "여신의화신/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -126,16 +126,16 @@
     },
     {
       "Name": "세인트",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "여신의화신/1/2.png"
+          "ImageUrl": "여신의화신/1/2.webp"
         },
         {
-          "ImageUrl": "여신의화신/2/2.png"
+          "ImageUrl": "여신의화신/2/2.webp"
         },
         {
-          "ImageUrl": "여신의화신/3/1.png"
+          "ImageUrl": "여신의화신/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -426,7 +426,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -452,7 +452,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -478,7 +478,7 @@
           "Value": "자신"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PeakJessica1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PeakJessica1.webp",
       "Desc": "[변신]자신의 모든 스킬 쿨타임 -3 및 [신력대행] 상태로 변신:<br/>이동력 -3, 스킬 사용시 부대 사거리 +3, 행동 종료시 지력 1.5배 수치의 생명 회복 및 1개의 디버프 제거.<br/>[신력대행]상태는 신력 대행 스킬로 취소 가능 후 재행동 가능(해당 효과는 면역 및 제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -504,7 +504,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PeakJessica3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PeakJessica3.webp",
       "Desc": "[마법 피해]범위 안의 적들을 공격해 0.3배의 피해를 주고 적이 가진 버프 1개를 제거한다.<br/>'마물'과 전투 시 더 큰 피해를 입힌다. 동시에 범위 내 모든 아군의 디버프 1개 제거 및<br/>시전자 지력의 3배 만큼의 생명 회복.",
       "SubSkills": null,
       "Animation": null
@@ -530,7 +530,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.webp",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -544,7 +544,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 방어 +15% 및<br/>면역: '방어, 마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -570,7 +570,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>'보병'에게 더 큰 피해를 준다.<br/>적은 다음 행동 종료 시 생명의 20%를 잃는다.",
       "SubSkills": null,
       "Animation": null
@@ -596,7 +596,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.webp",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -622,10 +622,10 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "../img/Super/여신의화신.png",
+      "IconImageUrl": "../img/Super/여신의화신.webp",
       "Desc": "[패시브] 영웅 사망 시 자신 주위 <font color=\"red\">5</font>칸 범위 내 <br/>모든 아군의 생명 회복,(여신의 화신 지력 <font color=\"red\">3</font>배 수치<br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">2</font>턴, <b>해제 불가</b>, <br/>[액티브] 범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 버프<font color=\"red\">1</font>개 제거, 대 마물 특효, <br/>범위 내 아군 생명 회복 (지력 <font color=\"red\">3</font>배 수치) 및 디버프 <font color=\"red\">2</font>개 제거, <br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">1</font>행동<br/><b>아군에게 시전가능</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/여신의화신.gif"
+      "Animation": "../img/Super/여신의화신_Ani.gif"
     }
   ],
   "Bio": [

@@ -2,27 +2,27 @@
 {
   "Skins": [
     {
-      "ImageUrl": "라나/1.png",
+      "ImageUrl": "라나/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "라나/2.png",
+      "ImageUrl": "라나/2.webp",
       "Desc": "스킨상점"
     },
     {
-      "ImageUrl": "라나/3.png",
+      "ImageUrl": "라나/3.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "라나/4.png",
+      "ImageUrl": "라나/4.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "라나/5.png",
+      "ImageUrl": "라나/5.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "라나/6.png",
+      "ImageUrl": "라나/6.webp",
       "Desc": "한정판매"
     }
   ],
@@ -63,7 +63,7 @@
   "Talent": [
     {
       "Name": "마력 강화",
-      "Icon": "45.png",
+      "Icon": "45.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -90,7 +90,7 @@
   "Equip": {
     "Name": "검정 드레스(갑옷)",
     "Stats": "생명 583, 방어 54",
-    "Icon": "라나.png",
+    "Icon": "라나.webp",
     "Ability": "생명 +5%<br/>전투진입전, 적군에게 랜덤으로 1개의 강력한 디버프 부여"
   },
   "Soldiers": [
@@ -106,25 +106,25 @@
   "Jobs": [
     {
       "Name": "다크 프린세스",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "라나/1/1.png"
+          "ImageUrl": "라나/1/1.webp"
         },
         {
-          "ImageUrl": "라나/2/1.png"
+          "ImageUrl": "라나/2/1.webp"
         },
         {
-          "ImageUrl": "라나/3/1.png"
+          "ImageUrl": "라나/3/1.webp"
         },
         {
-          "ImageUrl": "라나/4/1.png"
+          "ImageUrl": "라나/4/1.webp"
         },
         {
-          "ImageUrl": "라나/5/1.png"
+          "ImageUrl": "라나/5/1.webp"
         },
         {
-          "ImageUrl": "라나/6/1.png"
+          "ImageUrl": "라나/6/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -147,25 +147,25 @@
     },
     {
       "Name": "세인트",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "라나/1/2.png"
+          "ImageUrl": "라나/1/2.webp"
         },
         {
-          "ImageUrl": "라나/2/1.png"
+          "ImageUrl": "라나/2/1.webp"
         },
         {
-          "ImageUrl": "라나/3/1.png"
+          "ImageUrl": "라나/3/1.webp"
         },
         {
-          "ImageUrl": "라나/4/1.png"
+          "ImageUrl": "라나/4/1.webp"
         },
         {
-          "ImageUrl": "라나/5/1.png"
+          "ImageUrl": "라나/5/1.webp"
         },
         {
-          "ImageUrl": "라나/6/1.png"
+          "ImageUrl": "라나/6/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -430,7 +430,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -456,7 +456,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -482,7 +482,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceCrash.webp",
       "Desc": "[마법 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br/>'창병'에게 더 큰 피해를 준다. 적군 이동력 -1칸, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -496,7 +496,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.webp",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 마방 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -522,7 +522,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkHole.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkHole.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>각 부대에게 무작위 디버프를 2개씩 부여한다.",
       "SubSkills": null,
       "Animation": null
@@ -548,7 +548,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -574,7 +574,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -600,7 +600,7 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HolySuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HolySuper.webp",
       "Desc": "[마법 피해]치명타 확률 +50%, 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -626,7 +626,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Skeleton04.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Skeleton04.webp",
       "Desc": "망령술사 부대를 1개 소환한다.",
       "SubSkills": null,
       "Animation": null
@@ -652,10 +652,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/라나.png",
+      "IconImageUrl": "../img/Super/라나.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>진입 전투전 병사의 사거리+1, <br/>전투 후 준 피해량의 30%만큼 회복한다.<br/>'보병','기병','창병','비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
-      "Animation": "../img/Super/라나.gif"
+      "Animation": "../img/Super/라나_Ani.gif"
     }
   ],
   "Bio": [

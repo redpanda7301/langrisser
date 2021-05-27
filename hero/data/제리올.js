@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "제리올/1.png",
+      "ImageUrl": "제리올/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "제리올/2.png",
+      "ImageUrl": "제리올/2.webp",
       "Desc": "한정판매"
     }
   ],
@@ -47,7 +47,7 @@
   "Talent": [
     {
       "Name": "월하의 서약",
-      "Icon": "55.png",
+      "Icon": "55.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -74,7 +74,7 @@
   "Equip": {
     "Name": "같은 마음의 수호(망치)",
     "Stats": "공격 85,지력 85",
-    "Icon": "제리올.png",
+    "Icon": "제리올.webp",
     "Ability": "공격, 지력(<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/>영웅 통상 공격 사거리 <font color=\"red\">+1</font>,<br/><b>선공으로 전투 진입 시</b>, <b>전투 후 생명이 가장 낮은 아군 <font color=\"blue\">회복</font></b>, <br/><b>회복량은 술자의 공격+지력 <font color=\"red\">1</font>배</b> 수치<br/><b>재행동 발동 시, 자신에게 걸린 버프의 지속 시간이 소모되지 않음</b>"
   },
   "Soldiers": [
@@ -92,13 +92,13 @@
   "Jobs": [
     {
       "Name": "다크 나이트",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "제리올/1/1.png"
+          "ImageUrl": "제리올/1/1.webp"
         },
         {
-          "ImageUrl": "제리올/2/1.png"
+          "ImageUrl": "제리올/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -121,13 +121,13 @@
     },
     {
       "Name": "로열 엔보이",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "제리올/1/2.png"
+          "ImageUrl": "제리올/1/2.webp"
         },
         {
-          "ImageUrl": "제리올/2/1.png"
+          "ImageUrl": "제리올/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -361,7 +361,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -375,7 +375,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -401,7 +401,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MagicAttack.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MagicAttack.webp",
       "Desc": "[지원]'마무'시전: 영웅이 입히는 모든 물리 피해를 마법 피해로 취급.<br/>공격의 10%를 지력에 추가, 4턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -427,7 +427,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/39.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/39.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -441,7 +441,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.webp",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -467,7 +467,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PhysicalAttack.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PhysicalAttack.webp",
       "Desc": "[지원]'증폭'시전: 영웅이 입히는 모든 물리 피해를 마법 피해로 취급.<br/>지력의 10%를 공격에 추가, 4턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -493,7 +493,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
       "SubSkills": null,
       "Animation": null
@@ -507,7 +507,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/22.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/22.webp",
       "Desc": "[패시브] 부대 생명이 90%이상일 시 지력, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -533,10 +533,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Blessing2.png",
+      "IconImageUrl": "../img/Super/제리올.webp",
       "Desc": "[레이라의 축복]<br/>레이라가 자신의 힘을 제리올이랑 합체하여 다크 나이트로 변신하며 '고급 증폭술'획득<br/>영웅이 입히는 모든 피해를 물리 피해로 간주하고 지력의 50% 수치를 공격에 추가. 지속 2회합<br/>사용후 3칸 이동가능하며 다시 공격 할 수 있다.<br/>지속 2회합이 끝나면 [제리올의 호위]로 변경<br/>해당 스킬은 면역 및 해제 불가",
       "SubSkills": null,
-      "Animation": "../img/Super/mmexport1579538555323.gif"
+      "Animation": "../img/Super/제리올_Ani.gif"
     }
   ],
   "Bio": [

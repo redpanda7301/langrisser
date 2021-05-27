@@ -2,7 +2,7 @@
 {
   "Skins": [
     {
-      "ImageUrl": "도구로/1.png",
+      "ImageUrl": "도구로/1.webp",
       "Desc": "기본"
     }
   ],
@@ -44,7 +44,7 @@
   "Talent": [
     {
       "Name": "근육 조작",
-      "Icon": "79.png",
+      "Icon": "79.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -82,10 +82,10 @@
   "Jobs": [
     {
       "Name": "무기 형태·검",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "도구로/1/1.png"
+          "ImageUrl": "도구로/1/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -108,10 +108,10 @@
     },
     {
       "Name": "파워 100%",
-      "Icon": "Icon_Occupation_Monster.png",
+      "Icon": "Icon_Occupation_Monster.webp",
       "SD": [
         {
-          "ImageUrl": "도구로/1/2.png"
+          "ImageUrl": "도구로/1/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -345,7 +345,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Toguro1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Toguro1.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/>대상을 2칸 밀쳐내며, '공격','기술' -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -359,7 +359,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null
@@ -373,7 +373,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefDown.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -387,7 +387,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf2.webp",
       "Desc": "[패시브]전투 진입 시 자신 부대 공격 +7%.",
       "SubSkills": null,
       "Animation": null
@@ -413,7 +413,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Toguro3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Toguro3.webp",
       "Desc": "[변신] 사용후 3칸 이동 및 공격 가능.[120%상태] 획득<br/>[120%상태]: 생명 제외 모든 능력치 +20%(초절 강화효과와 중복불가.)<br/>공격 전 이동 1칸당 공격 +5%(최대 15%), 사망 시 부활 및 생명 20% 회복.<br/>(120%상태 효과중 최대 1회 발동) 공격 후 재이동 5칸, 지속 2턴.<br/>[120%상태]종료 후 생명 -90%(해당 효과는 면역 및 제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -427,7 +427,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Toguro4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Toguro4.webp",
       "Desc": "[패시브]전투 진입시 30% 확률로 발동. 적군의 부대사거리 -1.<br/>(해당 효과 발동 후 2턴 이후 재발동 가능)",
       "SubSkills": null,
       "Animation": null
@@ -453,7 +453,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -467,7 +467,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -493,10 +493,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super37.png",
+      "IconImageUrl": "../img/Super/도구로.webp",
       "Desc": "[물리피해] 단일적군을 공격해 1배의 피해를 준다. 공격전 이동한 1칸당 피해상승 20%(최대 60%)<br/>피해를 입힌후 적군 2칸 후퇴. 만약 적군 후퇴위치에 적의 아군이 존재하거나 진입불가 지형이면 기절 부여 1턴 지속.<br/>만약 본 스킬로 적군 처치시 쿨타임 -4.<br/>전투후 [전투의지] 버프 : 전투진입 전, 영웅의 공격 1배만큼의 생명 회복. 지속 2턴.<br/>만약 [120% 상태]일 경우 회복량은 공격의 1.5배로 변경.",
       "SubSkills": null,
-      "Animation": "../img/Super/도구로.gif"
+      "Animation": "../img/Super/도구로_Ani.gif"
     }
   ],
   "Bio": [

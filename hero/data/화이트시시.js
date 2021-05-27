@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "화이트시시/1.png",
+      "ImageUrl": "화이트시시/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "화이트시시/2.png",
+      "ImageUrl": "화이트시시/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -47,7 +47,7 @@
   "Talent": [
     {
       "Name": "재벌 가문",
-      "Icon": "Gift_SissiWhite.png",
+      "Icon": "Gift_SissiWhite.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -85,13 +85,13 @@
   "Jobs": [
     {
       "Name": "군사",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "화이트시시/1/1.png"
+          "ImageUrl": "화이트시시/1/1.webp"
         },
         {
-          "ImageUrl": "화이트시시/2/1.png"
+          "ImageUrl": "화이트시시/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -114,13 +114,13 @@
     },
     {
       "Name": "허미트",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "화이트시시/1/2.png"
+          "ImageUrl": "화이트시시/1/2.webp"
         },
         {
-          "ImageUrl": "화이트시시/2/1.png"
+          "ImageUrl": "화이트시시/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -346,7 +346,7 @@
           "Value": "2턴"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_1.webp",
       "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">저지, 창진</font>",
       "SubSkills": null,
       "Animation": null
@@ -364,7 +364,7 @@
           "Value": "2턴"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_2.webp",
       "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">힘의 외침, 공격 지휘</font>",
       "SubSkills": null,
       "Animation": null
@@ -382,7 +382,7 @@
           "Value": "2턴"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_3.webp",
       "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">맹렬한 돌격, 폭풍</font>",
       "SubSkills": null,
       "Animation": null
@@ -408,7 +408,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.webp",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -434,7 +434,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/1.webp",
       "Desc": "[액티브]적에게 받는 피해 +10% 부여, <b>해제 불가,면역 불가</b><br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">2</font>개 소모",
       "SubSkills": null,
       "Animation": null
@@ -460,7 +460,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.webp",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -474,7 +474,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -500,7 +500,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/2.webp",
       "Desc": "[액티브]범위 내 부대 생명 회복 (지력 <font color=\"red\">2</font>배), 디버프 <font color=\"red\">1</font>개 제거, 이동력 <font color=\"red\">+1</font>, <br/><font color=\"blue\">이동력 저하 면역</font> 효과 부여, 지속 <font color=\"red\">2</font>행동, <br/><b>소환수에겐 추가로</b> 주는 피해 <font color=\"red\">+20</font>% 효과 부여, 지속 <font color=\"red\">2</font>행동,<br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">3</font>개 소모",
       "SubSkills": null,
       "Animation": null
@@ -526,7 +526,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
       "SubSkills": null,
       "Animation": null
@@ -552,7 +552,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -578,7 +578,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/3.webp",
       "Desc": "[액티브]적 <font color=\"red\">1</font>부대의 <b>모든 병사를 바로 해산 시킴.</b>,<br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">3</font>개 소모. <b>면역 불가</b>",
       "SubSkills": null,
       "Animation": null
@@ -604,7 +604,7 @@
           "Value": "-"
         }
       ],
-      "IconImageUrl": "../img/Super/화이트시시_0.png",
+      "IconImageUrl": "../img/Super/화이트시시_0.webp",
       "Desc": "[패시브] 전장에 있는 소환수 사망 시 전쟁 자금 1개 획득 <br/>[액티브]하기 스킬중 선택",
       "SubSkills": null,
       "Animation": null
@@ -630,7 +630,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/화이트시시_1.png",
+      "IconImageUrl": "../img/Super/화이트시시_1.webp",
       "Desc": "[액티브] 목표 부대 생명 100% 회복 및 '공격 지력' '방어' +30%, '피해 +10%' 부여, 지속 <font color=\"red\">1</font>행동<br/>해당 부대가 <b>이미 행동 종료한 경우</b> <font color=\"blue\">재행동</font><br/><b>해당 스킬을 사용 후 <font color=\"blue\">상업 전쟁의 모략</font>은 쿨 2턴으로 조정</b><br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">5</font>개 소모",
       "SubSkills": null,
       "Animation": null
@@ -656,10 +656,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/화이트시시_2.png",
+      "IconImageUrl": "../img/Super/화이트시시_2.webp",
       "Desc": "[액티브] 아군 <font color=\"red\">1</font>개 부대 생명 회복 (지력 <font color=\"red\">2</font>배 수치) 및 '<font color=\"blue\">투자</font>' 효과 부여 : <br/><b>턴 시작 시</b> 랜덤한 버프 <font color=\"red\">1</font>개 획득, <br/><b>격파하는 적 <font color=\"red\">1</font>명 당</b> 화이트 시시가 「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">2</font>개 획득, 지속 <font color=\"red\">3</font>행동, <br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">1</font>개 소모. <b>해제 불가,면역 불가</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/화이트시시.gif"
+      "Animation": "../img/Super/화이트시시_Ani.gif"
     }
   ],
   "Bio": null,

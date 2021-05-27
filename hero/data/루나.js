@@ -2,27 +2,27 @@
 {
   "Skins": [
     {
-      "ImageUrl": "루나/1.png",
+      "ImageUrl": "루나/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "루나/2.png",
+      "ImageUrl": "루나/2.webp",
       "Desc": "형귀 스킨"
     },
     {
-      "ImageUrl": "루나/3.png",
+      "ImageUrl": "루나/3.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "루나/4.png",
+      "ImageUrl": "루나/4.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "루나/5.png",
+      "ImageUrl": "루나/5.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "루나/6.png",
+      "ImageUrl": "루나/6.webp",
       "Desc": "한정판매"
     }
   ],
@@ -64,7 +64,7 @@
   "Talent": [
     {
       "Name": "바람의 가호",
-      "Icon": "50.png",
+      "Icon": "50.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -91,7 +91,7 @@
   "Equip": {
     "Name": "바람의 깃털관(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "루나.png",
+    "Icon": "루나.webp",
     "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%,마방 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/><b><font color=\"blue\">고유 스킬</font> 및 <font color=\"blue\">스킬 지휘 효과</font></b> 범위 <b><font color=\"red\">+1</font></b>. <br/><b>행동 종료 시 인접한 아군 <font color=\"red\">2</font>명에게</b> 피해 <font color=\"red\">+15</font>%<br/>지속 <font color=\"red\">1</font>행동<br/>"
   },
   "Soldiers": [
@@ -106,25 +106,25 @@
   "Jobs": [
     {
       "Name": "보우 마스터",
-      "Icon": "Icon_Occupation_Archer.png",
+      "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "루나/1/1.png"
+          "ImageUrl": "루나/1/1.webp"
         },
         {
-          "ImageUrl": "루나/2/1.png"
+          "ImageUrl": "루나/2/1.webp"
         },
         {
-          "ImageUrl": "루나/3/1.png"
+          "ImageUrl": "루나/3/1.webp"
         },
         {
-          "ImageUrl": "루나/4/1.png"
+          "ImageUrl": "루나/4/1.webp"
         },
         {
-          "ImageUrl": "루나/5/1.png"
+          "ImageUrl": "루나/5/1.webp"
         },
         {
-          "ImageUrl": "루나/6/1.png"
+          "ImageUrl": "루나/6/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -147,25 +147,25 @@
     },
     {
       "Name": "페가수스 마스터",
-      "Icon": "Icon_Occupation_Fly.png",
+      "Icon": "Icon_Occupation_Fly.webp",
       "SD": [
         {
-          "ImageUrl": "루나/1/2.png"
+          "ImageUrl": "루나/1/2.webp"
         },
         {
-          "ImageUrl": "루나/2/2.png"
+          "ImageUrl": "루나/2/2.webp"
         },
         {
-          "ImageUrl": "루나/3/2.png"
+          "ImageUrl": "루나/3/2.webp"
         },
         {
-          "ImageUrl": "루나/4/2.png"
+          "ImageUrl": "루나/4/2.webp"
         },
         {
-          "ImageUrl": "루나/5/2.png"
+          "ImageUrl": "루나/5/2.webp"
         },
         {
-          "ImageUrl": "루나/6/2.png"
+          "ImageUrl": "루나/6/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -430,7 +430,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 [바람 타기]획득:생명이 50% 이상인 경우 전투 진입 시 받는 피해량 -15%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -456,7 +456,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindForce.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindForce.webp",
       "Desc": "[지원]자신 '마방'의 1.5배 수치로 '공격을 대신한다. 4턴 지속.<br/>사용 후 추가로 3칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -470,7 +470,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -496,7 +496,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/14.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/14.webp",
       "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br/>'비병'과 전투 시 더큰 피해를 준다.<br/>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -510,7 +510,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefUp.webp",
       "Desc": "[지휘] 주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -524,7 +524,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_FlyWind.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_FlyWind.webp",
       "Desc": "[패시브]다른 부대에게 피해를 준 후 주위 2칸 내 적에게 0.1배의 광역 피해를 주고<br/>50%의 확률로 각 대상에게 무작위 디버프를 부여한다.",
       "SubSkills": null,
       "Animation": null
@@ -550,7 +550,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Princess1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Princess1.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '공주 연맹' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 직접 적을 공격해 피해를 준 후<br/>추가로 [고정 피해]를 줄 수 있다. 피해량은 적의 남은 생명의 15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -564,7 +564,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/16.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/16.webp",
       "Desc": "[패시브] 행동 종료 시 20% 확률로 재행동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -590,7 +590,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.webp",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -616,10 +616,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_WindField.png",
+      "IconImageUrl": "../img/Super/루나.webp",
       "Desc": "[지원] 사용시 [고급 바람의 포옹] 획득 : 자신의 '마방'의 1.5배를 '공격'으로 대체한다.<br/>(해당효과는 해제불가능), 지속 6회합<br/>또한 [풍신의 영역] 획득 : 자신 주변 2칸내 비병이아닌 다른 아군이 이동시<br/>이동력 제한을 2칸만큼 면제 해준다. 지속 2회합.<br/>사용후 3칸 이동가능하며 다시 공격 할 수 있다.",
       "SubSkills": null,
-      "Animation": "../img/Super/mmexport1578316467331.gif"
+      "Animation": "../img/Super/루나_Ani.gif"
     }
   ],
   "Bio": [

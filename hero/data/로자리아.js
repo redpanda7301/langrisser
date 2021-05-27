@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "로자리아/1.png",
+      "ImageUrl": "로자리아/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "로자리아/2.png",
+      "ImageUrl": "로자리아/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "로자리아/3.png",
+      "ImageUrl": "로자리아/3.webp",
       "Desc": "형귀스킨"
     }
   ],
@@ -52,7 +52,7 @@
   "Talent": [
     {
       "Name": "광휘의 신앙",
-      "Icon": "Gift_Rozalia.png",
+      "Icon": "Gift_Rozalia.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -89,16 +89,16 @@
   "Jobs": [
     {
       "Name": "로열 나이트",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "로자리아/1/1.png"
+          "ImageUrl": "로자리아/1/1.webp"
         },
         {
-          "ImageUrl": "로자리아/2/1.png"
+          "ImageUrl": "로자리아/2/1.webp"
         },
         {
-          "ImageUrl": "로자리아/3/1.png"
+          "ImageUrl": "로자리아/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -121,16 +121,16 @@
     },
     {
       "Name": "은의 기사 마스터",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "로자리아/1/2.png"
+          "ImageUrl": "로자리아/1/2.webp"
         },
         {
-          "ImageUrl": "로자리아/2/1.png"
+          "ImageUrl": "로자리아/2/1.webp"
         },
         {
-          "ImageUrl": "로자리아/3/1.png"
+          "ImageUrl": "로자리아/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -395,7 +395,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/39.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/39.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -409,7 +409,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null
@@ -435,7 +435,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSoul.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSoul.webp",
       "Desc": "[지원]액티브 스킬, 자신 부대의 공격+30%, 동시에 [면역],[폭풍],[증원]효과 부여, 2턴 지속.<br/>사용 후 추가로 3칸 이동할 수 있고 공격이 가능하다.",
       "SubSkills": null,
       "Animation": null
@@ -449,7 +449,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.webp",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -475,7 +475,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Assault.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Assault.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.7배의 피해를 준다.<br/>전투 후 상대의 이동력 -2 및 '호위 불가'부여, 2턴 지속, 이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
@@ -501,7 +501,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Rozalia1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Rozalia1.webp",
       "Desc": "[액티브]사용후, 목표지형에 [비호의 검]:<br/>본 지형은 [지휘] 주위 1칸 범위내의 모든 아군의 생명을 제외한 모든 속성 +10%, 3턴 지속.<br/>(로자리아가 [신앙] 1개를 보유중이면 지휘 범위 2칸으로 상승,<br/>[신앙] 3개를 보유중이면 \"공격하여 전투진입시, 전투후 입힌 피해의 20%만큼의 생명회복\" 지휘 효과추가.)<br/>로자리아가 [신앙]을 보유중일시, 사용후 3칸 재이동 및 공격가능.<br/>(기술 사용 시 자신이 보유중인 강화상태의 지속턴수가 감소하지않으며,<br/>[비호의 검]이외의 다른 영웅의 지형효과로 제거할수 없음.)",
       "SubSkills": null,
       "Animation": null
@@ -527,7 +527,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Rozalia2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Rozalia2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.(본 스킬은 근접 피해감면효과에 영향을 받지 않는다.)<br/>[비호의 검] 효과범위에서 공격할 경우 공격후 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -553,7 +553,7 @@
           "Value": "2칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Rozalia3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Rozalia3.webp",
       "Desc": "[물리 피해] 주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>동시에 강화버프 2개 제거, [비호의 검] 효과범위에서 공격할 경우 공격후 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -567,7 +567,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf2.webp",
       "Desc": "[패시브]전투 진입 시 공격 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -593,10 +593,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super33.png",
+      "IconImageUrl": "../img/Super/로자리아.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.6배의 피해를 준다.<br/>전투진입전 적군이 위치한 지형에 [비호의 검]부여, 3턴 지속.<br/>([비호의 검]: 이 지형은 [지휘] 주위 1칸내 모든 아군의 생명제외 모든 속성+10%)<br/>전투 진입전 적군부대의 사거리 -1, 1턴 지속. 제거 불가.<br/>자신이 [비호의 검] 효과 범위내에 있을경우, 전투 후 3칸 재이동 가능.<br/>로자리아가 [신앙] 1개 보유시 [비호의 검] 지휘 범위 2칸,<br/>[신앙] 3개 보유시 [비호의 검] 지휘 효과 추가 \"공격하여 전투진입후, 입힌피해량의 20%만큼 생명 회복.\"",
       "SubSkills": null,
-      "Animation": "../img/Super/로자리아.gif"
+      "Animation": "../img/Super/로자리아_Ani.gif"
     }
   ],
   "Bio": [

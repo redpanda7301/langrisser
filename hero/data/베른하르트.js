@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "베른하르트/1.png",
+      "ImageUrl": "베른하르트/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "베른하르트/2.png",
+      "ImageUrl": "베른하르트/2.webp",
       "Desc": "스킨상점"
     },
     {
-      "ImageUrl": "베른하르트/3.png",
+      "ImageUrl": "베른하르트/3.webp",
       "Desc": "서밋아레나 시즌1 패자스킨"
     }
   ],
@@ -52,7 +52,7 @@
   "Talent": [
     {
       "Name": "패왕의 의지",
-      "Icon": "44.png",
+      "Icon": "44.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -79,7 +79,7 @@
   "Equip": {
     "Name": "패왕의 전투 갑주(갑옷)",
     "Stats": "생명 437,방어 65",
-    "Icon": "베른하르트.png",
+    "Icon": "베른하르트.webp",
     "Ability": "생명 +5%<br/>영웅 고유기술 범위 +1"
   },
   "Soldiers": [
@@ -97,16 +97,16 @@
   "Jobs": [
     {
       "Name": "용사",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "베른하르트/1/1.png"
+          "ImageUrl": "베른하르트/1/1.webp"
         },
         {
-          "ImageUrl": "베른하르트/2/1.png"
+          "ImageUrl": "베른하르트/2/1.webp"
         },
         {
-          "ImageUrl": "베른하르트/3/1.png"
+          "ImageUrl": "베른하르트/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -129,16 +129,16 @@
     },
     {
       "Name": "엠퍼러",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "베른하르트/1/2.png"
+          "ImageUrl": "베른하르트/1/2.webp"
         },
         {
-          "ImageUrl": "베른하르트/2/1.png"
+          "ImageUrl": "베른하르트/2/1.webp"
         },
         {
-          "ImageUrl": "베른하르트/3/1.png"
+          "ImageUrl": "베른하르트/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -403,7 +403,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordDance.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordDance.webp",
       "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -417,7 +417,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.webp",
       "Desc": "[패시브]근접 공격으로 전투 진입 시 전투 후 30% 확률로 <br/>이번 전투에서 준 피해량 30%의 생명을 회복한다",
       "SubSkills": null,
       "Animation": null
@@ -443,7 +443,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ShieldStrike.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ShieldStrike.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 피해를 준다.<br/>전투 진입 전 적 부대를 1턴 동안 '기절'시킨다.",
       "SubSkills": null,
       "Animation": null
@@ -457,7 +457,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parry.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parry.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격의 7%를 방어에 추가한다.",
       "SubSkills": null,
       "Animation": null
@@ -471,7 +471,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -485,7 +485,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Empire.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Empire.webp",
       "Desc": "[패시브]근접 공격으로 전투 진입전 상대가 보유한 버프 1개 제거 및<br/>상대 부대 방어-20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -511,7 +511,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Empire2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Empire2.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '제국의 빛' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>상성에서 유리한 부대와 전투 시 주는 피해량 +20%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -525,7 +525,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cut.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cut.webp",
       "Desc": "[패시브]공격하여 피해를 준 후 적 부대에게 한 번 더 추가[고정 피해]를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -551,7 +551,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IronHand.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IronHand.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br/>[응수]효과 획득, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -577,10 +577,10 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "../img/Super/베른하르트.png",
+      "IconImageUrl": "../img/Super/베른하르트.webp",
       "Desc": "[패시브] <b>선공으로 일반 공격 후, 주위 <font color=\"red\">1</font>바퀴</b> 범위 내 적에게 0.1배 범위 피해. 쿨타임 <font color=\"red\">3</font>행동.<br/>[초절강화] 제국의 빛 부여 (전투 진입 시 피해 +18%, 지속 4행동) +<br/>자신에게 <font color=\"blue\">철혈의 야망</font> 버프 부여 : <br/>이동력 <font color=\"red\">+1</font>, 피해 <font color=\"red\">+15</font>%, <br/><font color=\"blue\">검무</font> 범위 <font color=\"red\">+1</font>, <font color=\"blue\">방패 공격</font> <b>부대 사거리</b> <font color=\"red\">+1</font>, <br/><font color=\"blue\">철완</font> 스킬 장착 시 받는 물리 피해 <font color=\"red\">-25</font>%, <br/>패기 효과 획득, 지속 <font color=\"red\">4</font>행동 <br/><b>(철혈의 야망 효과는 면역 및 해제 불가)</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/베른하르트.gif"
+      "Animation": "../img/Super/베른하르트_Ani.gif"
     }
   ],
   "Bio": [

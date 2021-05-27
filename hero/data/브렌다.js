@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "브렌다/1.png",
+      "ImageUrl": "브렌다/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "브렌다/2.png",
+      "ImageUrl": "브렌다/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "브렌다/3.png",
+      "ImageUrl": "브렌다/3.webp",
       "Desc": "형귀 스킨"
     }
   ],
@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "기품있는 모범",
-      "Icon": "87.png",
+      "Icon": "87.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -78,7 +78,7 @@
   "Equip": {
     "Name": "전용장비 : 갑옷",
     "Stats": "생명 437,방어 65",
-    "Icon": "브렌다.png",
+    "Icon": "브렌다.webp",
     "Ability": "생명, 방어 +5%<br/>고유스킬 발동으로 인한 재행동시 자신의 디버프 2개 제거 및 <br/>입히는피해 +10%, 받는피해 -10%, 1턴 지속."
   },
   "Soldiers": [
@@ -93,16 +93,16 @@
   "Jobs": [
     {
       "Name": "투신",
-      "Icon": "Icon_Occupation_Marines.png",
+      "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
-          "ImageUrl": "브렌다/1/1.png"
+          "ImageUrl": "브렌다/1/1.webp"
         },
         {
-          "ImageUrl": "브렌다/2/1.png"
+          "ImageUrl": "브렌다/2/1.webp"
         },
         {
-          "ImageUrl": "브렌다/3/1.png"
+          "ImageUrl": "브렌다/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -125,16 +125,16 @@
     },
     {
       "Name": "로열 나이트",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "브렌다/1/2.png"
+          "ImageUrl": "브렌다/1/2.webp"
         },
         {
-          "ImageUrl": "브렌다/2/2.png"
+          "ImageUrl": "브렌다/2/2.webp"
         },
         {
-          "ImageUrl": "브렌다/3/2.png"
+          "ImageUrl": "브렌다/3/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -399,7 +399,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -413,7 +413,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -439,7 +439,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/43.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/43.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br/>전투 후, 적 방어 -30%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -453,7 +453,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 방어 +15% 및<br/>면역: '방어, 마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -479,7 +479,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Support.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Support.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.7배 피해를 준다.<br/>전투 전 공격의 20%가 방어에 추가되며, 적 부대에게 '모든 패시브 스킬을 무효화한다'부여,2턴 지속,<br/>이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
@@ -493,7 +493,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -519,7 +519,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/5.webp",
       "Desc": "[지원]액티브 스킬, 공격 +20%, 1턴 지속.<br/>사용 후 3칸 추가 이동 및 재공격 가능.",
       "SubSkills": null,
       "Animation": null
@@ -545,7 +545,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Brenda.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Brenda.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.1배의 피해를 주고, 2칸 밀어낸다.<br/>공격 전 이동거리 1칸마다 주는 피해량 +20%(최대 +60%).<br/>전투 진입 전 적군에게 [상처 저주]부여, 1턴 지속.(제거불가)<br/>[상처 저주]: 받는 치유량의 20%가 피해로 변환",
       "SubSkills": null,
       "Animation": null
@@ -559,7 +559,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -585,10 +585,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/브렌다.png",
+      "IconImageUrl": "../img/Super/브렌다.webp",
       "Desc": "[패시브] <b>범위 피해에 피격시, <font color=\"purple\">고유패시브</font> 스택 <font color=\"red\">1</font>개씩 중첩</b><br/>[액티브]스킬 사용시 공격력 증가 <font color=\"red\">+20</font>%, 주는 피해증가 <font color=\"red\">10</font>% 버프 휙득.<br/><b>스킬 사용시 적 통과가능 </b>및 <br/><font color=\"blue\">무기파괴</font>,<font color=\"blue\">장갑파괴</font>,  패시브 효과 획득. (지속시간 : <font color=\"red\">2</font>턴)<br/><font color=\"purple\">고유패시브</font> <font color=\"red\">1</font>스택 획득.<br/><font color=\"red\">3</font>칸의 <font color=\"blue\">재이동</font> 및 <font color=\"blue\">재공격</font> 가능 <br/>(<b>각성기 사용후, 보유중인 버프의 지속시간이 감소 되지 않는다.</b>)",
       "SubSkills": null,
-      "Animation": "../img/Super/브렌다.gif"
+      "Animation": "../img/Super/브렌다_Ani.gif"
     }
   ],
   "Bio": [

@@ -2,31 +2,31 @@
 {
   "Skins": [
     {
-      "ImageUrl": "쉐리/1.png",
+      "ImageUrl": "쉐리/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "쉐리/4.png",
+      "ImageUrl": "쉐리/4.webp",
       "Desc": "형귀스킨"
     },
     {
-      "ImageUrl": "쉐리/2.png",
+      "ImageUrl": "쉐리/2.webp",
       "Desc": "형귀스킨"
     },
     {
-      "ImageUrl": "쉐리/3.png",
+      "ImageUrl": "쉐리/3.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "쉐리/5.png",
+      "ImageUrl": "쉐리/5.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "쉐리/6.png",
+      "ImageUrl": "쉐리/6.webp",
       "Desc": "빛의메아리"
     },
     {
-      "ImageUrl": "쉐리/sp.png",
+      "ImageUrl": "쉐리/sp.webp",
       "Desc": "SP 각성"
     }
   ],
@@ -68,7 +68,7 @@
   "Talent": [
     {
       "Name": "말괄량이",
-      "Icon": "47.png",
+      "Icon": "47.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -94,7 +94,7 @@
   "SPTalent": [
     {
       "Name": "나라를 되찾은 공주",
-      "Icon": "SP_Gift_Sherry.png",
+      "Icon": "SP_Gift_Sherry.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -120,7 +120,7 @@
   "Equip": {
     "Name": "1UP(갑옷)",
     "Stats": "생명 509,방어 59",
-    "Icon": "쉐리.png",
+    "Icon": "쉐리.webp",
     "Ability": "방어, 마방 +5%<br/>공격하여 전투 진입시 사망방지(4턴 후 재발동 가능)"
   },
   "Soldiers": [
@@ -138,28 +138,28 @@
   "Jobs": [
     {
       "Name": "드래곤 마스터",
-      "Icon": "Icon_Occupation_Fly.png",
+      "Icon": "Icon_Occupation_Fly.webp",
       "SD": [
         {
-          "ImageUrl": "쉐리/1/1.png"
+          "ImageUrl": "쉐리/1/1.webp"
         },
         {
-          "ImageUrl": "쉐리/2/1.png"
+          "ImageUrl": "쉐리/2/1.webp"
         },
         {
-          "ImageUrl": "쉐리/3/1.png"
+          "ImageUrl": "쉐리/3/1.webp"
         },
         {
-          "ImageUrl": "쉐리/4/1.png"
+          "ImageUrl": "쉐리/4/1.webp"
         },
         {
-          "ImageUrl": "쉐리/5/1.png"
+          "ImageUrl": "쉐리/5/1.webp"
         },
         {
-          "ImageUrl": "쉐리/6/1.png"
+          "ImageUrl": "쉐리/6/1.webp"
         },
         {
-          "ImageUrl": "쉐리/sp/1.png"
+          "ImageUrl": "쉐리/sp/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -182,28 +182,28 @@
     },
     {
       "Name": "프린세스",
-      "Icon": "Icon_Occupation_MonkSP.png",
+      "Icon": "Icon_Occupation_MonkSP.webp",
       "SD": [
         {
-          "ImageUrl": "쉐리/1/3.png"
+          "ImageUrl": "쉐리/1/3.webp"
         },
         {
-          "ImageUrl": "쉐리/2/3.png"
+          "ImageUrl": "쉐리/2/3.webp"
         },
         {
-          "ImageUrl": "쉐리/3/3.png"
+          "ImageUrl": "쉐리/3/3.webp"
         },
         {
-          "ImageUrl": "쉐리/4/3.png"
+          "ImageUrl": "쉐리/4/3.webp"
         },
         {
-          "ImageUrl": "쉐리/5/3.png"
+          "ImageUrl": "쉐리/5/3.webp"
         },
         {
-          "ImageUrl": "쉐리/6/3.png"
+          "ImageUrl": "쉐리/6/3.webp"
         },
         {
-          "ImageUrl": "쉐리/sp/3.png"
+          "ImageUrl": "쉐리/sp/3.webp"
         }
       ],
       "AttkRange": 1,
@@ -226,28 +226,28 @@
     },
     {
       "Name": "하이 마스터",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "쉐리/1/2.png"
+          "ImageUrl": "쉐리/1/2.webp"
         },
         {
-          "ImageUrl": "쉐리/2/2.png"
+          "ImageUrl": "쉐리/2/2.webp"
         },
         {
-          "ImageUrl": "쉐리/3/2.png"
+          "ImageUrl": "쉐리/3/2.webp"
         },
         {
-          "ImageUrl": "쉐리/4/2.png"
+          "ImageUrl": "쉐리/4/2.webp"
         },
         {
-          "ImageUrl": "쉐리/5/2.png"
+          "ImageUrl": "쉐리/5/2.webp"
         },
         {
-          "ImageUrl": "쉐리/6/2.png"
+          "ImageUrl": "쉐리/6/2.webp"
         },
         {
-          "ImageUrl": "쉐리/sp/2.png"
+          "ImageUrl": "쉐리/sp/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -494,7 +494,7 @@
       "Name": "개방",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/AlterEgo_Sherry.png",
+          "MaterialImgUrl": "../img/item/AlterEgo_Sherry.webp",
           "Amount": 1
         }
       ],
@@ -504,19 +504,19 @@
       "Name": "1단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/classup/rank8-2.png",
+          "MaterialImgUrl": "../img/classup/rank8-2.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/classup/rank7-7.png",
+          "MaterialImgUrl": "../img/classup/rank7-7.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/classup/rank6-3.png",
+          "MaterialImgUrl": "../img/classup/rank6-3.webp",
           "Amount": 50
         }
       ],
@@ -531,19 +531,19 @@
       "Name": "2단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/쓰알열쇠.png",
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/item/스알열쇠.png",
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/알열쇠.png",
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
           "Amount": 50
         }
       ],
@@ -558,11 +558,11 @@
       "Name": "3단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/룬스톤.png",
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
           "Amount": 2
         }
       ],
@@ -582,19 +582,19 @@
       "Name": "4단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/heart/h4.png",
+          "MaterialImgUrl": "../img/heart/h4.webp",
           "Amount": 60
         },
         {
-          "MaterialImgUrl": "../img/heart/h4-1.png",
+          "MaterialImgUrl": "../img/heart/h4-1.webp",
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/heart/x.png",
+          "MaterialImgUrl": "../img/heart/x.webp",
           "Amount": 12
         }
       ],
@@ -609,15 +609,15 @@
       "Name": "5단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/오락기.png",
+          "MaterialImgUrl": "../img/item/오락기.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.png",
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/item/Awaken_Stardust.png",
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
           "Amount": 5
         }
       ],
@@ -632,19 +632,19 @@
       "Name": "6단계 재료",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/Item_MemoryEssence.png",
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
           "Amount": 600
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Holy1.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Holy1.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Holy2.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Holy2.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Holy4.png",
+          "MaterialImgUrl": "../img/stone/StoneA_Holy4.webp",
           "Amount": 5
         }
       ],
@@ -683,7 +683,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
       "SubSkills": null,
       "Animation": null
@@ -697,7 +697,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BothBuf1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BothBuf1.webp",
       "Desc": "[패시브]부대 생명이 90% 이상일 시 공격,방어 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -711,7 +711,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.webp",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
       "SubSkills": null,
       "Animation": null
@@ -737,7 +737,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.webp",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
       "SubSkills": null,
       "Animation": null
@@ -763,7 +763,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlySuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlySuper.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.6배의 전투 피해를 준다.<br/>전투 후 [질풍],[바람타기]효과 획득, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -777,7 +777,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -803,7 +803,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/6.webp",
       "Desc": "[물리 피해] 호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -817,7 +817,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -843,7 +843,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.webp",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -857,7 +857,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/쉐리/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/쉐리/1.webp",
       "Desc": "[패시브]부대 이동 <font color=\"red\">+2</font>,<br/><b>자신이 혼합 부대일 경우 행동 종료 시 부대 생명 <font color=\"red\">30</font>% 회복</b>",
       "SubSkills": null,
       "Animation": null
@@ -883,7 +883,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/쉐리/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/쉐리/2.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 주고,<br/><b>적을 <font color=\"red\">2</font>칸 밀친다.</b><br/><b>전투 후 피해량 <font color=\"red\">20</font>% 수치로 생명 회복 및 적에게 패시브 봉인 부여</b><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -909,10 +909,10 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super1.png",
+      "IconImageUrl": "../img/Super/쉐리.webp",
       "Desc": "[물리피해] 단일 적군을 공격하여 1.6배의 물리피해를 입힌다.<br/>전투후 입힌 피해량의 100% 만큼 생명력을 회복.<br/>이 스킬로 적을 처치 시 스킬 쿨타임 -4.<br/>처지 하지 못할 경우 적군에게 [기절] 부여, 지속 1회합(제거불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/mmexport1579538543983.gif"
+      "Animation": "../img/Super/쉐리_Ani.gif"
     }
   ],
   "Bio": [

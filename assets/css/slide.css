@@ -8,5 +8,5 @@
 	.photo_gallery .photo_list .list_wrap ul li a img {width:136px; height:102px; vertical-align:middle; border:2px solid #CFC1C0}
 	.photo_gallery .photo_list .list_wrap ul li.active a img {border:2px solid #DE3838}
 	.photo_gallery button {position:absolute; bottom:59px; cursor:pointer}
-	.photo_gallery button.btn_prev {left:25px; text-indent:-9999px; overflow:hidden; display:block; width:24px; height:24px; margin:0px; border:0px; padding:0px; background:url(http://everstory.co.kr/images/btn_prev.png) no-repeat left top}
-	.photo_gallery button.btn_next {right:25px; text-indent:-9999px; overflow:hidden; display:block; width:24px; height:24px; margin:0px; border:0px; padding:0px; background:url(http://everstory.co.kr/images/btn_next.png) no-repeat left top}
+	.photo_gallery button.btn_prev {left:25px; text-indent:-9999px; overflow:hidden; display:block; width:24px; height:24px; margin:0px; border:0px; padding:0px; background:url(http://everstory.co.kr/images/btn_prev.webp) no-repeat left top}
+	.photo_gallery button.btn_next {right:25px; text-indent:-9999px; overflow:hidden; display:block; width:24px; height:24px; margin:0px; border:0px; padding:0px; background:url(http://everstory.co.kr/images/btn_next.webp) no-repeat left top}

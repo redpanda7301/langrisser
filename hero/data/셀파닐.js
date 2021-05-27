@@ -2,27 +2,27 @@
 {
   "Skins": [
     {
-      "ImageUrl": "셀파닐/1.png",
+      "ImageUrl": "셀파닐/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "셀파닐/2.png",
+      "ImageUrl": "셀파닐/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "셀파닐/3.png",
+      "ImageUrl": "셀파닐/3.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "셀파닐/4.png",
+      "ImageUrl": "셀파닐/4.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "셀파닐/5.png",
+      "ImageUrl": "셀파닐/5.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "셀파닐/6.png",
+      "ImageUrl": "셀파닐/6.webp",
       "Desc": "한정판매"
     }
   ],
@@ -63,7 +63,7 @@
   "Talent": [
     {
       "Name": "마법권속",
-      "Icon": "56.png",
+      "Icon": "56.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -90,7 +90,7 @@
   "Equip": {
     "Name": "카콘시스의 왕관(투구)",
     "Stats": "생명 364,마방 65",
-    "Icon": "셀파닐.png",
+    "Icon": "셀파닐.webp",
     "Ability": "마방 +10%<br/>행동 종료시 30% 확률로 발동 '기술 사거리+1, 범위+1', 1턴 지속"
   },
   "Soldiers": [
@@ -106,25 +106,25 @@
   "Jobs": [
     {
       "Name": "위저드",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "셀파닐/1/1.png"
+          "ImageUrl": "셀파닐/1/1.webp"
         },
         {
-          "ImageUrl": "셀파닐/2/1.png"
+          "ImageUrl": "셀파닐/2/1.webp"
         },
         {
-          "ImageUrl": "셀파닐/3/1.png"
+          "ImageUrl": "셀파닐/3/1.webp"
         },
         {
-          "ImageUrl": "셀파닐/4/1.png"
+          "ImageUrl": "셀파닐/4/1.webp"
         },
         {
-          "ImageUrl": "셀파닐/5/1.png"
+          "ImageUrl": "셀파닐/5/1.webp"
         },
         {
-          "ImageUrl": "셀파닐/6/1.png"
+          "ImageUrl": "셀파닐/6/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -147,25 +147,25 @@
     },
     {
       "Name": "프린세스",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "셀파닐/1/2.png"
+          "ImageUrl": "셀파닐/1/2.webp"
         },
         {
-          "ImageUrl": "셀파닐/2/1.png"
+          "ImageUrl": "셀파닐/2/1.webp"
         },
         {
-          "ImageUrl": "셀파닐/3/2.png"
+          "ImageUrl": "셀파닐/3/2.webp"
         },
         {
-          "ImageUrl": "셀파닐/4/1.png"
+          "ImageUrl": "셀파닐/4/1.webp"
         },
         {
-          "ImageUrl": "셀파닐/5/1.png"
+          "ImageUrl": "셀파닐/5/1.webp"
         },
         {
-          "ImageUrl": "셀파닐/6/1.png"
+          "ImageUrl": "셀파닐/6/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -430,7 +430,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -444,7 +444,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef2.webp",
       "Desc": "[패시브]전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방  <font color=\"red\">-25%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -470,7 +470,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMute.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMute.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>50%의 확률로 적에게 '침묵'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -484,7 +484,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.webp",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
       "SubSkills": null,
       "Animation": null
@@ -498,7 +498,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -524,7 +524,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BreakEvil.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BreakEvil.webp",
       "Desc": "[마법 피해]치명타율+15%, 범위 내 모든 적에게 0.3배의 광격 피해를 주고<br/>적이 가진 버프 1개를 제거한다.'마물'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -550,7 +550,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Princess2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Princess2.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '공주 연맹' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>스킬 사용 시 피해량 +12%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -576,7 +576,7 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HolySuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HolySuper.webp",
       "Desc": "[마법 피해]치명타 확률 +50%, 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -590,7 +590,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 방어 +15% 및<br/>면역: '방어, 마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -616,10 +616,10 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "../img/Super/셀파닐.png",
+      "IconImageUrl": "../img/Super/셀파닐.webp",
       "Desc": "[마법피해]치명타 확률 <font color=\"red\">+60</font>%,<br/>자신 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <font color=\"red\">0.38</font>배 피해 및 버프 <font color=\"red\">2</font>개 제거 <br/>대 마물 특효<br/>명중한 적이 마물일 경우 기절, 지속 <font color=\"red\">1</font>행동,<br/>명중한 적이 <font color=\"red\">3</font>명 이상일 경우 쿨타임 <font color=\"red\">-1</font>, 해당 스킬로 적을 격파했을 경우 추가 쿨타임 <font color=\"red\">-1</font>",
       "SubSkills": null,
-      "Animation": "../img/Super/셀파닐.gif"
+      "Animation": "../img/Super/셀파닐_Ani.gif"
     }
   ],
   "Bio": [

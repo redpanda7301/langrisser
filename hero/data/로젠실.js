@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "로젠실/1.png",
+      "ImageUrl": "로젠실/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "로젠실/2.png",
+      "ImageUrl": "로젠실/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "수정여왕",
-      "Icon": "Gift_Rozenciel.png",
+      "Icon": "Gift_Rozenciel.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -85,13 +85,13 @@
   "Jobs": [
     {
       "Name": "수정여황",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "로젠실/1/1.png"
+          "ImageUrl": "로젠실/1/1.webp"
         },
         {
-          "ImageUrl": "로젠실/2/1.png"
+          "ImageUrl": "로젠실/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -114,13 +114,13 @@
     },
     {
       "Name": "빛나는 성녀",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "로젠실/1/2.png"
+          "ImageUrl": "로젠실/1/2.webp"
         },
         {
-          "ImageUrl": "로젠실/2/1.png"
+          "ImageUrl": "로젠실/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -354,7 +354,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -368,7 +368,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로<br/>적 마방 -25%, 지속 1행동",
       "SubSkills": null,
       "Animation": null
@@ -382,7 +382,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefUp.webp",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -408,7 +408,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Rozenciel/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Rozenciel/1.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '제국의 빛' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>선공으로 전투 진입시 주는 피해량 <font color=\"red\">+12</font></b>% 및 <br/><b>피격으로 전투 진입전 적 버프 <font color=\"red\">1</font>개 제거</b>, <font color=\"red\">4</font>턴 지속.<br/>",
       "SubSkills": null,
       "Animation": null
@@ -434,7 +434,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FrostRay2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FrostRay2.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'창병'와 전투 시 더 큰 피해를 입힌다. 적군의 이동력 -1, 2턴 지속",
       "SubSkills": null,
       "Animation": null
@@ -460,7 +460,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Rozenciel/2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Rozenciel/2.webp",
       "Desc": "[액티브] <b>단일 개체</b> 지력 <font color=\"red\">3</font>배 수치 치료 및 '<font color=\"blue\">수정 치유</font>' 효과 부여 :<br/>피격 후 로젠실 지력 <font color=\"red\">1.5</font>배 수치 생명 회복, 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -486,7 +486,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Rozenciel/3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Rozenciel/3.webp",
       "Desc": "[액티브]<b>범위 내 아군에게</b> 지력 <font color=\"red\">3</font>배 수치 치료 및 '<font color=\"blue\">수정 치유</font>' 효과 부여 : <br/><b>피격 후</b> 로젠실 지력 <font color=\"red\">1.5</font>배 수치 생명 회복, 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -512,7 +512,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PalCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PalCrash.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들이 주는 피해량 +15%, 받는 피해량-15%, 2턴 지속.<br/>그리고 사용자 지력 3배의 생명을 회복시킨다.",
       "SubSkills": null,
       "Animation": null
@@ -538,10 +538,10 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "../img/Super/로젠실.png",
+      "IconImageUrl": "../img/Super/로젠실.webp",
       "Desc": "[변신]<b>대규모 범위 내 다수의 부대 생명을 로젠실 지력 <font color=\"red\">3</font>배 수치로 회복</b> 및 <br/>'<font color=\"blue\">수정 치유</font>' 효과 획득:<br/><b>피격으로 피해를 입은 후</b> 로젠실 지력 <font color=\"red\">1.5</font>배 수치로 생명 회복, 지속 <font color=\"red\">2</font>행동<br/>사용 후 '<font color=\"blue\">수정 결인</font>' 상태 진입 :<br/><b><font color=\"red\">공격 및 스킬 사용 불가 및 스스로 이동 및 위치 변경 불가</font>(디메리트)</b>, <br/>치유량 <font color=\"red\">+20</font>%, 받는 피해량 <font color=\"red\">-20</font>%, <b><font color=\"purple\">고유 스킬</font> 지휘 효과 범위</b> <font color=\"red\">+1</font>, <font color=\"red\">1</font>회 부활, <br/><b>행동 종료 시 자신의 <font color=\"purple\">고유 스킬</font> 범위 안에 있는 다른 아군을</b><br/>로젠실 지력 <font color=\"red\">2</font>배 수치만큼 회복 및 '<font color=\"blue\">수정 장벽</font>' <font color=\"red\">2</font>개 효과 부여, 지속 <font color=\"red\">2</font>행동<br/>'<font color=\"blue\">수정 결인</font>'의 효과는 <b>해제 불가 및 면역 불가</b>, <br/><b>해당 스킬 지속 시간 동안 <font color=\"blue\">불굴</font> 효과</b>는 최대 <font color=\"red\">1</font>회 발동)",
       "SubSkills": null,
-      "Animation": "../img/Super/로젠실.gif"
+      "Animation": "../img/Super/로젠실_Ani.gif"
     }
   ],
   "Bio": null,

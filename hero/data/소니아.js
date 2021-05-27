@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "소니아/1.png",
+      "ImageUrl": "소니아/1.webp",
       "Desc": "기본(미검열)"
     },
     {
-      "ImageUrl": "소니아/1_1.png",
+      "ImageUrl": "소니아/1_1.webp",
       "Desc": "기본(검열)"
     },
     {
-      "ImageUrl": "소니아/2.png",
+      "ImageUrl": "소니아/2.webp",
       "Desc": "비경상점"
     }
   ],
@@ -52,7 +52,7 @@
   "Talent": [
     {
       "Name": "마성의 피",
-      "Icon": "24.png",
+      "Icon": "24.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -79,7 +79,7 @@
   "Equip": {
     "Name": "검은 서광(무기)",
     "Stats": "공격 107,지력 107",
-    "Icon": "소니아.png",
+    "Icon": "소니아.webp",
     "Ability": "공격, 지력 +10%<br/>근접으로 공격하여 전투 진입 전 적군에게 고정피해, 피해량은 영웅 지력의 2배<br/>원거리로 공격하여 전투 진입 후 적군에게 고정피해, 피해량은 영웅 공격의 2배"
   },
   "Soldiers": [
@@ -96,16 +96,16 @@
   "Jobs": [
     {
       "Name": "그랜드마스터",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "소니아/1/1.png"
+          "ImageUrl": "소니아/1/1.webp"
         },
         {
-          "ImageUrl": "소니아/1/1.png"
+          "ImageUrl": "소니아/1/1.webp"
         },
         {
-          "ImageUrl": "소니아/2/1.png"
+          "ImageUrl": "소니아/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -128,16 +128,16 @@
     },
     {
       "Name": "유니콘마스터",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "소니아/1/2.png"
+          "ImageUrl": "소니아/1/2.webp"
         },
         {
-          "ImageUrl": "소니아/1/2.png"
+          "ImageUrl": "소니아/1/2.webp"
         },
         {
-          "ImageUrl": "소니아/2/1.png"
+          "ImageUrl": "소니아/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -402,7 +402,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/5.webp",
       "Desc": "[지원]액티브 스킬, 공격 +20%, 1턴 지속.<br/>사용 후 3칸 추가 이동 및 재공격 가능.",
       "SubSkills": null,
       "Animation": null
@@ -416,7 +416,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null
@@ -442,7 +442,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br/>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
       "SubSkills": null,
       "Animation": null
@@ -456,7 +456,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf3.webp",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -482,7 +482,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash3.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
       "SubSkills": null,
       "Animation": null
@@ -508,7 +508,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassDefup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassDefup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -522,7 +522,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -536,7 +536,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -550,7 +550,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.webp",
       "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br/>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
       "SubSkills": null,
       "Animation": null
@@ -576,10 +576,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super8.png",
+      "IconImageUrl": "../img/Super/소니아.webp",
       "Desc": "[물리피해] 단일 적군을 공격하여 1.6배의 피해를 입힌다.근접병사를 휴대할 경우 병사도 같이 공격.<br/>적군의 방어가 마방보다 낮을 시, 전투 진입전 지력의 70% 수치 만큼 공격에 추가<br/>적군의 방어가 마방보다 높을 시, 전투 진입전 공격의 70% 수치 만큼 지력에 추가하며 마법피해공격<br/>동시에 적군에게 [상처 저주] 효과 부여 : 받는 치유량의 20%가 피해로 변환. 지속 2회합<br/>적군이 [승병]일 경우 전투진입전 '스킬 사거리-1', 지속 1회합. (해제불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/mmexport1579247236806.gif"
+      "Animation": "../img/Super/소니아.webp"
     }
   ],
   "Bio": [

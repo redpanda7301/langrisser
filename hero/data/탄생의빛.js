@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "탄생의빛/1.png",
+      "ImageUrl": "탄생의빛/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "탄생의빛/2.png",
+      "ImageUrl": "탄생의빛/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "심판의 위광",
-      "Icon": "Gift_YoungJessica.png",
+      "Icon": "Gift_YoungJessica.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -85,13 +85,13 @@
   "Jobs": [
     {
       "Name": "심판의 위광",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "탄생의빛/1/1.png"
+          "ImageUrl": "탄생의빛/1/1.webp"
         },
         {
-          "ImageUrl": "탄생의빛/2/1.png"
+          "ImageUrl": "탄생의빛/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -114,13 +114,13 @@
     },
     {
       "Name": "세인트",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "탄생의빛/1/2.png"
+          "ImageUrl": "탄생의빛/1/2.webp"
         },
         {
-          "ImageUrl": "탄생의빛/2/1.png"
+          "ImageUrl": "탄생의빛/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -385,7 +385,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.                                        <br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -411,7 +411,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.                                        <br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -437,7 +437,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및                                        <br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -463,7 +463,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Teleport.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Teleport.webp",
       "Desc": "[지원]액티브 스킬, 아군 1부대를 범위 안의 임의 1칸으로 이동시킨다.                                        <br/>(유저의 부대에게만 쓸 수 있다.)",
       "SubSkills": null,
       "Animation": null
@@ -489,7 +489,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.                                        <br/>'보병'에게 더 큰 피해를 준다.                                        <br/>적은 다음 행동 종료 시 생명의 20%를 잃는다.",
       "SubSkills": null,
       "Animation": null
@@ -515,7 +515,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/성스러운빛.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/성스러운빛.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.4배의 피해를 준다.                                        <br/> 전투 후 생명 수치가 가장 낮은 아군을 회복, 회복량은 술사 지력의 2배 수치",
       "SubSkills": null,
       "Animation": null
@@ -541,7 +541,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/24.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/24.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.                                        <br/>'마물'과 전투 시 더 큰 피해를 입힌다. 버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -567,7 +567,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/성스러운 영광.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/성스러운 영광.webp",
       "Desc": "[마법 피해] 단일 개체 1.5배 피해, 대 마물 특효, 전투 후 명중한 위치 및 인접한 지형 (십자형태)에                                        <br/>성스러운 영광 효과 부여, 지속 2행동 : 적이 해당 지형에 위치한 후 행동 종료 시 버프 1개 제거",
       "SubSkills": null,
       "Animation": null
@@ -593,7 +593,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -619,10 +619,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/탄생의빛.png",
+      "IconImageUrl": "../img/Super/탄생의빛.webp",
       "Desc": "패시브. 지원 스킬 사용 후 행동 종료 시, 1명 이상의 아군이 인접해 있을 경우 재행동 (쿨 2행동)                                        <br/>마법피해. 단일 개체 1.5배 피해, 신관을 제외한 전 병종에게 특효, 전투 후 아군 전체 생명 회복                                        <br/>회복량은 술사 지력의 2배 수치, 행동 종료 시 자신과 인접한 랜덤한 아군 1명에게 '성스러운 방패' 효과 부여                                        <br/>'성스러운 방패' :  생명 100% 일 경우 받는 피해 -25%, 지속 1행동",
       "SubSkills": null,
-      "Animation": "../img/Super/탄생의빛.gif"
+      "Animation": "../img/Super/탄생의빛_Ani.gif"
     }
   ],
   "Bio": null,

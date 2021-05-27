@@ -2,7 +2,7 @@
 {
   "Skins": [
     {
-      "ImageUrl": "에스텔/1.png",
+      "ImageUrl": "에스텔/1.webp",
       "Desc": "기본"
     }
   ],
@@ -44,7 +44,7 @@
   "Talent": [
     {
       "Name": "빛의 소녀",
-      "Icon": "60.png",
+      "Icon": "60.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -81,10 +81,10 @@
   "Jobs": [
     {
       "Name": "앵화무쌍",
-      "Icon": "Icon_Occupation_Marines.png",
+      "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
-          "ImageUrl": "에스텔/1/1.png"
+          "ImageUrl": "에스텔/1/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -107,10 +107,10 @@
     },
     {
       "Name": "열파무쌍",
-      "Icon": "Icon_Occupation_Marines.png",
+      "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
-          "ImageUrl": "에스텔/1/2.png"
+          "ImageUrl": "에스텔/1/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -344,7 +344,7 @@
           "Value": "주위 1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Whirlwind.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Whirlwind.webp",
       "Desc": "[물리 피해]주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>[금강] 버프 시전, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -358,7 +358,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Stiffness.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Stiffness.webp",
       "Desc": "[패시브]입히는 모든 피해 +10%, 공격의 10%를 방어에 증가.",
       "SubSkills": null,
       "Animation": null
@@ -384,7 +384,7 @@
           "Value": "6칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Cheer.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Cheer.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대<br/>공격,지력,방어,마방,기술 +10.66%, 6턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -398,7 +398,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -424,7 +424,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/43.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/43.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br/>전투 후, 적 방어 -30%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -450,7 +450,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_StrandedStick.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_StrandedStick.webp",
       "Desc": "[물리 피해]라인에 있는 모든 적을 관통하며 0.4배 범위 피해를 입힌다.<br/>[금강]버프 시전, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -464,7 +464,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.webp",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -490,7 +490,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Phoenix.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Phoenix.webp",
       "Desc": "[물리 피해]주위 2칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br/>시전 전 자신의 모든 디버프 제거, 전투 후 생명 100%회복.<br/>[금강],[모든 디버프 면역] 시전, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -516,10 +516,10 @@
           "Value": "6칸"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super2.png",
+      "IconImageUrl": "../img/Super/에스텔.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대 생명 30%회복 및<br/>공격,지력,방어,마방,기술 +12.66%,'이동력'+1, 6턴 지속.",
       "SubSkills": null,
-      "Animation": "../img/Super/mmexport1569929979605.gif"
+      "Animation": "../img/Super/에스텔_Ani.gif"
     }
   ],
   "Bio": [

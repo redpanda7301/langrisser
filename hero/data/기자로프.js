@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "기자로프/1.png",
+      "ImageUrl": "기자로프/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "기자로프/2.png",
+      "ImageUrl": "기자로프/2.webp",
       "Desc": "형귀스킨"
     },
     {
-      "ImageUrl": "기자로프/3.png",
+      "ImageUrl": "기자로프/3.webp",
       "Desc": "한정판매"
     }
   ],
@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "어둠의 의지",
-      "Icon": "67.png",
+      "Icon": "67.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -78,7 +78,7 @@
   "Equip": {
     "Name": "소멸과 창조의 지팡이(무기)",
     "Stats": "생명 437,지력 107",
-    "Icon": "기자로프.png",
+    "Icon": "기자로프.webp",
     "Ability": "지력, 생명 +5%<br/>액티브 스킬 사용후, 전장에 기자로프의 구조체가 있을 경우 구조체의 랜덤개조 1회"
   },
   "Soldiers": [
@@ -94,16 +94,16 @@
   "Jobs": [
     {
       "Name": "마도 원수",
-      "Icon": "Icon_Occupation_Monster.png",
+      "Icon": "Icon_Occupation_Monster.webp",
       "SD": [
         {
-          "ImageUrl": "기자로프/1/1.png"
+          "ImageUrl": "기자로프/1/1.webp"
         },
         {
-          "ImageUrl": "기자로프/2/1.png"
+          "ImageUrl": "기자로프/2/1.webp"
         },
         {
-          "ImageUrl": "기자로프/3/1.png"
+          "ImageUrl": "기자로프/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -126,16 +126,16 @@
     },
     {
       "Name": "매드 사이언티스트",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "기자로프/1/2.png"
+          "ImageUrl": "기자로프/1/2.webp"
         },
         {
-          "ImageUrl": "기자로프/2/1.png"
+          "ImageUrl": "기자로프/2/1.webp"
         },
         {
-          "ImageUrl": "기자로프/3/1.png"
+          "ImageUrl": "기자로프/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Gizlof.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Gizlof.webp",
       "Desc": "[소환]구조체 1개를 소환해 랜덤으로 1회 '개조'한다.<br/>(구조체의 생명 속성은 생명자의 최대 생명 100% 계승,<br/>나머지 속성은 소환하는 순간 소환자의 해당 속성 100% 계승)",
       "SubSkills": null,
       "Animation": null
@@ -426,7 +426,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -452,7 +452,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -478,7 +478,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Transcendency.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Transcendency.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '초월 영역' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 1턴 내에 적을 처치한 후,<br/>자신의 모든 스킬 쿨타임 1턴 감소.<br/>본인 사망 시 모든 아군의 스킬 쿨타임 1턴 감소,4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -504,7 +504,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkRay2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkRay2.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'승려'와 전투 시 더 큰 피해를 입힌다. 디버프 1개 랜덤 부여.",
       "SubSkills": null,
       "Animation": null
@@ -530,7 +530,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderCrash.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -556,7 +556,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -582,7 +582,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThundeRay2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThundeRay2.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'기병'과 전투 시 더 큰 피해를 입힌다. 적군의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -608,7 +608,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -634,10 +634,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Super32.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/Super/기자로프.webp",
       "Desc": "[지원] 전장에 [구조체]가 있을때 사용,<br/>구조체가 사망시 주위 3칸내 모든 적군에게 0.2배의 마법피해를 주고 디버프 2개 부여.<br/>그후 최후의 구조체 1기 소환.(최후의 구조체의 생명은 소환자 최대 생명의 100%,<br/>기타 능력치는 소환당시의 소환자 속성의 100%, 사망전 구조체가 가지고있던<br/>개조 1개당 능력치 4%상승, 공격 빈도 상승, 기존 구조체의 개조능력 계승.<br/>피격으로 소환당할경우 새로운 행동기회를 가진다.)",
       "SubSkills": null,
-      "Animation": "../img/Super/기자로프.gif"
+      "Animation": "../img/Super/기자로프_Ani.gif"
     }
   ],
   "Bio": [

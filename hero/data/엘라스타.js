@@ -2,19 +2,19 @@
 {
   "Skins": [
     {
-      "ImageUrl": "엘라스타/1.png",
+      "ImageUrl": "엘라스타/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "엘라스타/2.png",
+      "ImageUrl": "엘라스타/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "엘라스타/3.png",
+      "ImageUrl": "엘라스타/3.webp",
       "Desc": "형귀스킨"
     },
     {
-      "ImageUrl": "엘라스타/4.png",
+      "ImageUrl": "엘라스타/4.webp",
       "Desc": "한정판매"
     }
   ],
@@ -56,7 +56,7 @@
   "Talent": [
     {
       "Name": "숲의 권속",
-      "Icon": "73.png",
+      "Icon": "73.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -83,7 +83,7 @@
   "Equip": {
     "Name": "바람을 싣는 날개(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "엘라스타.png",
+    "Icon": "엘라스타.webp",
     "Ability": "마방 +10%<br/>자신이 '숲', '산지', '풀밭'에 있을 경우 호위 무시 공격 가능 및<br/>전투 후 피해량의 20% 만큼 생명 회복"
   },
   "Soldiers": [
@@ -99,19 +99,19 @@
   "Jobs": [
     {
       "Name": "울프 마스터",
-      "Icon": "Icon_Occupation_Archer.png",
+      "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "엘라스타/1/1.png"
+          "ImageUrl": "엘라스타/1/1.webp"
         },
         {
-          "ImageUrl": "엘라스타/2/1.png"
+          "ImageUrl": "엘라스타/2/1.webp"
         },
         {
-          "ImageUrl": "엘라스타/3/1.png"
+          "ImageUrl": "엘라스타/3/1.webp"
         },
         {
-          "ImageUrl": "엘라스타/4/1.png"
+          "ImageUrl": "엘라스타/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -134,19 +134,19 @@
     },
     {
       "Name": "레인저",
-      "Icon": "Icon_Occupation_Archer.png",
+      "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "엘라스타/1/2.png"
+          "ImageUrl": "엘라스타/1/2.webp"
         },
         {
-          "ImageUrl": "엘라스타/2/2.png"
+          "ImageUrl": "엘라스타/2/2.webp"
         },
         {
-          "ImageUrl": "엘라스타/3/2.png"
+          "ImageUrl": "엘라스타/3/2.webp"
         },
         {
-          "ImageUrl": "엘라스타/4/2.png"
+          "ImageUrl": "엘라스타/4/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -380,7 +380,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash5.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.25배 피해를 입힌다.<br/>자신이 처해 있는 지형이 방어 지형일 시 전투 전 1회 고정 피해를 입힌다.<br/>(피해량은 영웅 공격의 1배).",
       "SubSkills": null,
       "Animation": null
@@ -394,7 +394,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.webp",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -408,7 +408,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Nature.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Nature.webp",
       "Desc": "[패시브]'숲','산지','초원'지형에서 근접 피해 감면효과에영향을 받지않으며,<br/>근접전투 진입시, 받는피해감소 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -434,7 +434,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -448,7 +448,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/11.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/11.webp",
       "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br/>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -462,7 +462,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.webp",
       "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -476,7 +476,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf5.webp",
       "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -502,7 +502,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash6.webp",
       "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.<br/>전투 진입 전, 자신의 디버프를 최대 <font color=\"red\">3</font>개 제거한다.<br/>디버프를 <font color=\"red\">1</font>개 제거할 때마다 주는 피해량<font color=\"red\">+10%</font>.<br/>전투 후, 제거한 디버프를 모두 적에게 부여한다.",
       "SubSkills": null,
       "Animation": null
@@ -528,10 +528,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/Skill_Super45.png",
+      "IconImageUrl": "../img/Super/엘라스타.webp",
       "Desc": "[물리 피해]단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.<br/>전투 전 적군의 버프 2개를 디버프로 전환시키며,<br/>전환된 디버프 1개당 입히는피해 +20%.<br/>전투후, 자신의 지형을 \"숲\"지형으로 간주한다. 1턴 지속.",
       "SubSkills": null,
-      "Animation": "../img/Super/엘라스타.gif"
+      "Animation": "../img/Super/엘라스타_Ani.gif"
     }
   ],
   "Bio": [

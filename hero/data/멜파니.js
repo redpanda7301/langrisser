@@ -2,7 +2,7 @@
 {
   "Skins": [
     {
-      "ImageUrl": "멜파니/1.png",
+      "ImageUrl": "멜파니/1.webp",
       "Desc": "기본"
     }
   ],
@@ -44,7 +44,7 @@
   "Talent": [
     {
       "Name": "천우황녀",
-      "Icon": "Gift_Meropeni.png",
+      "Icon": "Gift_Meropeni.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -71,7 +71,7 @@
   "Equip": {
     "Name": "활기찬 소환사(지팡이)",
     "Stats": "생명 437,지력 107",
-    "Icon": "멜파니.png",
+    "Icon": "멜파니.webp",
     "Ability": "치료효과 (<font color=\"red\">+3, +6, +9, +12, +15</font>)%<br/>[지휘] <b>인접 아군에게 '<font color=\"blue\">상처 저주</font>' '<font color=\"blue\">치료 불가</font>' 면역 효과</b> 부여<br/>"
   },
   "Soldiers": [
@@ -85,10 +85,10 @@
   "Jobs": [
     {
       "Name": "위저드",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "멜파니/1/1.png"
+          "ImageUrl": "멜파니/1/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -111,10 +111,10 @@
     },
     {
       "Name": "프린세스",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "멜파니/1/2.png"
+          "ImageUrl": "멜파니/1/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -348,7 +348,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.webp",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -374,7 +374,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -426,7 +426,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.webp",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -452,7 +452,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceCrash.webp",
       "Desc": "[마법 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br/>'창병'에게 더 큰 피해를 준다. 적군 이동력 -1칸, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -478,7 +478,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -504,7 +504,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Meropeni1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Meropeni1.webp",
       "Desc": "[액티브]단일부대의 공격, 지력, 방어 + 20%, 2턴 지속 및 <br/>[호위]부여 : \"2칸내의 아군이 물리공격을 받을시 대신하여 공격을 받는다.\" 2턴 지속,<br/>동시에 시전자의 지력3배의 생명 회복.",
       "SubSkills": null,
       "Animation": null
@@ -530,7 +530,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Bless.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Bless.webp",
       "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br/>모든 디버프에 면역. 2턴 지속.",
       "SubSkills": null,
       "Animation": null

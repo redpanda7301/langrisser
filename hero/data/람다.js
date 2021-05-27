@@ -2,19 +2,19 @@
 {
   "Skins": [
     {
-      "ImageUrl": "람다/1.png",
+      "ImageUrl": "람다/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "람다/2.png",
+      "ImageUrl": "람다/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "람다/3.png",
+      "ImageUrl": "람다/3.webp",
       "Desc": "형귀 스킨"
     },
     {
-      "ImageUrl": "람다/4.png",
+      "ImageUrl": "람다/4.webp",
       "Desc": "한정판매"
     }
   ],
@@ -56,7 +56,7 @@
   "Talent": [
     {
       "Name": "성수의 탄식",
-      "Icon": "69.png",
+      "Icon": "69.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -83,7 +83,7 @@
   "Equip": {
     "Name": "세계수의 꽃(장신구)",
     "Stats": "지력 75,마방 43",
-    "Icon": "람다.png",
+    "Icon": "람다.webp",
     "Ability": "지력 +5%<br/>기술사용시, 매 적군 1기당 피해를 입힐시 10%확률 사용한 기술의 쿨타임-5(최대 50%)"
   },
   "Soldiers": [
@@ -99,19 +99,19 @@
   "Jobs": [
     {
       "Name": "위저드",
-      "Icon": "Icon_Occupation_Magician.png",
+      "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "람다/1/1.png"
+          "ImageUrl": "람다/1/1.webp"
         },
         {
-          "ImageUrl": "람다/2/1.png"
+          "ImageUrl": "람다/2/1.webp"
         },
         {
-          "ImageUrl": "람다/3/1.png"
+          "ImageUrl": "람다/3/1.webp"
         },
         {
-          "ImageUrl": "람다/4/1.png"
+          "ImageUrl": "람다/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -134,19 +134,19 @@
     },
     {
       "Name": "아바탈",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "람다/1/2.png"
+          "ImageUrl": "람다/1/2.webp"
         },
         {
-          "ImageUrl": "람다/2/1.png"
+          "ImageUrl": "람다/2/1.webp"
         },
         {
-          "ImageUrl": "람다/3/1.png"
+          "ImageUrl": "람다/3/1.webp"
         },
         {
-          "ImageUrl": "람다/4/1.png"
+          "ImageUrl": "람다/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -411,7 +411,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -437,7 +437,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/20.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/20.webp",
       "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 공격, 지력 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -463,7 +463,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -489,7 +489,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/18.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -515,7 +515,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderCrash.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -541,7 +541,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SacredTree1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SacredTree1.webp",
       "Desc": "[패시브]이동할 수 있는 지형을 숲으로 취급.<br/>지형으로 인한 이동력 감소 영향을 받지 않는다.<br/>[액티브]본인에게 지휘 효과 부여:<br/>주위 2칸 내 모든 아군이 성수 보호를 받는다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -567,7 +567,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FrostRay.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FrostRay.webp",
       "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br/>'창병'과 전투 시 더큰 피해를 입힌다. 적군의 이동력 -1, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -593,7 +593,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindRay2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindRay2.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 입힌다. 적군의 공격,지력 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -619,7 +619,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SacredRay.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SacredRay.webp",
       "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 0.33배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더큰 피해를 입힌다. 1개 버프 제거.",
       "SubSkills": null,
       "Animation": null
@@ -645,10 +645,10 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "../img/Super/람다.png",
+      "IconImageUrl": "../img/Super/람다.webp",
       "Desc": "[패시브] 자신이 '<b><font color=\"green\">숲</font></b>' 지형에 있을 경우 '<b><font color=\"blue\">공격 지력 감소</font></b>' '<b><font color=\"blue\">침묵</font></b>' 면역<br/>[마법피해] 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <font color=\"red\">0.35</font>배 피해 및 공격하여 전투 진입시 주는피해 <font color=\"red\">-20</font>%, 지속 <font color=\"red\">2</font>턴<br/>명중한 지형에 '<font color=\"blue\">고요한 숨결</font>' 효과 부여 : 해당 지형으로 이동한 적에게 '치명타 확률 <font color=\"red\">-30</font>%' 부여, 지속 <font color=\"red\">1</font>턴",
       "SubSkills": null,
-      "Animation": "../img/Super/람다.gif"
+      "Animation": "../img/Super/람다_Ani.gif"
     }
   ],
   "Bio": [

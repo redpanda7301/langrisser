@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "실버울프/1.png",
+      "ImageUrl": "실버울프/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "실버울프/2.png",
+      "ImageUrl": "실버울프/2.webp",
       "Desc": "스킨상점"
     },
     {
-      "ImageUrl": "실버울프/3.png",
+      "ImageUrl": "실버울프/3.webp",
       "Desc": "서밋아레나 S8 골드스킨"
     }
   ],
@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "늑대의 본성",
-      "Icon": "23.png",
+      "Icon": "23.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -78,7 +78,7 @@
   "Equip": {
     "Name": "의적의 가면(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "실버울프.png",
+    "Icon": "실버울프.webp",
     "Ability": "마방 +5%<br/>공격하여 전투진입시, 상대보다 강화버프가 2배 많을 경우 상대보다 먼저 공격"
   },
   "Soldiers": [
@@ -94,16 +94,16 @@
   "Jobs": [
     {
       "Name": "쉐도우",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "실버울프/1/1.png"
+          "ImageUrl": "실버울프/1/1.webp"
         },
         {
-          "ImageUrl": "실버울프/2/1.png"
+          "ImageUrl": "실버울프/2/1.webp"
         },
         {
-          "ImageUrl": "실버울프/3/1.png"
+          "ImageUrl": "실버울프/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -126,16 +126,16 @@
     },
     {
       "Name": "레인저",
-      "Icon": "Icon_Occupation_Archer.png",
+      "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "실버울프/1/2.png"
+          "ImageUrl": "실버울프/1/2.webp"
         },
         {
-          "ImageUrl": "실버울프/2/1.png"
+          "ImageUrl": "실버울프/2/1.webp"
         },
         {
-          "ImageUrl": "실버울프/3/1.png"
+          "ImageUrl": "실버울프/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Coldblood.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Coldblood.webp",
       "Desc": "[지원]사용 후 자신 부대 치명타율, 치명타 피해량 <font color=\"red\">+15%</font>, <font color=\"red\">2턴</font> 지속.<br/>사용 후 추가로 <font color=\"red\">2칸</font> 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -414,7 +414,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass1.webp",
       "Desc": "[패시브]전투 중 치명타가 발생한 경우<br/>전투 후 적에게 [고정 피해]를 준다.(피해량은 영웅 공격의 2배)",
       "SubSkills": null,
       "Animation": null
@@ -440,7 +440,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash2.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br/>치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
@@ -454,7 +454,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -468,7 +468,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass3.webp",
       "Desc": "[패시브]치명타 피해량 +20%. 전투 중 치명타가 발생한 경우<br/>전투 종료 후 받는 모든 피해량 -30%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -482,7 +482,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TrickStep.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TrickStep.webp",
       "Desc": "[패시브]치명타 확률+10%.<br/>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -508,7 +508,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -534,7 +534,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.webp",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -548,7 +548,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.webp",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -574,10 +574,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/실버울프.png",
+      "IconImageUrl": "../img/Super/실버울프.webp",
       "Desc": "[물리 피해] <b>단일 적 부대를 공격할때 호위를 무시하고</b> <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>전투 진입 전 자신에게</b> 이동력 <font color=\"red\">+1</font>, 기술 <font color=\"red\">+30</font>%, 받는 피해 <font color=\"red\">-20</font>% 효과를 부여한다.<br/>지속 <font color=\"red\">2</font>턴<br/><b>치명타 발동시</b> 해당 스킬 쿨타임<font color=\"red\">-1</font>",
       "SubSkills": null,
-      "Animation": "../img/Super/실버울프.gif"
+      "Animation": "../img/Super/실버울프_Ani.gif"
     }
   ],
   "Bio": [

@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "세레나/1.png",
+      "ImageUrl": "세레나/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "세레나/2.png",
+      "ImageUrl": "세레나/2.webp",
       "Desc": "서밋아레나 S4 골드스킨"
     }
   ],
@@ -47,7 +47,7 @@
   "Talent": [
     {
       "Name": "솔선수범",
-      "Icon": "34.png",
+      "Icon": "34.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -74,7 +74,7 @@
   "Equip": {
     "Name": "여명의 수호자(갑옷)",
     "Stats": "생명 583,방어 65",
-    "Icon": "세레나.png",
+    "Icon": "세레나.webp",
     "Ability": "방어 +10%<br/>자신 주변 3칸 범위내 체력이 80% 미만의 아군을 '병사를 잃은' 상태로 간주"
   },
   "Soldiers": [
@@ -89,13 +89,13 @@
   "Jobs": [
     {
       "Name": "로열 가디언",
-      "Icon": "Icon_Occupation_Marines.png",
+      "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
-          "ImageUrl": "세레나/1/1.png"
+          "ImageUrl": "세레나/1/1.webp"
         },
         {
-          "ImageUrl": "세레나/2/1.png"
+          "ImageUrl": "세레나/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -118,13 +118,13 @@
     },
     {
       "Name": "가디언 마스터",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "세레나/1/2.png"
+          "ImageUrl": "세레나/1/2.webp"
         },
         {
-          "ImageUrl": "세레나/2/1.png"
+          "ImageUrl": "세레나/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -377,7 +377,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 30%확률로 발동, 받는 물리 피해량 <font color=\"#DC143C\">-30%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -391,7 +391,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Solidarity.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Solidarity.webp",
       "Desc": "[패시브] 주위 <font color=\"red\">2</font>칸 내 아군이 <font color=\"red\">1</font>명씩 있을 경우, 방어, 마방 <font color=\"red\">+5%</font>, 최대 <font color=\"red\">+15%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -417,7 +417,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IronBody.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IronBody.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 치명타 피격확률 -20%,<br/>[전력 찌르기]효과 획득: 방어의 1.6배로 공격을 대체, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -431,7 +431,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Barb.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Barb.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입시 전투 후 부대 생명이 50%이상이라면 [미늘]을 발동한다:<br/>전투 종료 후 적 부대에게 영웅 방어 2.5배만큼의 [고정 피해]를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -445,7 +445,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -471,7 +471,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ShieldStrike.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ShieldStrike.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 피해를 준다.<br/>전투 진입 전 적 부대를 1턴 동안 '기절'시킨다.",
       "SubSkills": null,
       "Animation": null
@@ -485,7 +485,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 방어 +15% 및<br/>면역: '방어, 마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -499,7 +499,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Guard2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Guard2.webp",
       "Desc": "[패시브]위치 변환 불가, 호위 중 사망 시 20% 생명 회복 및 부활 (최대 2회).",
       "SubSkills": null,
       "Animation": null
@@ -525,7 +525,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -551,10 +551,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/세레나.png",
+      "IconImageUrl": "../img/Super/세레나.webp",
       "Desc": "[지휘]<b>주위 <font color=\"red\">3</font>칸 범위 내 아군이 부대 생명이 <font color=\"red\">100</font>%일 때 영웅이 받는 피해 <font color=\"red\">-25</font>%</b><br/>[물리피해]<b>직선 상 단일 개체에게 <font color=\"red\">1.5</font>배 피해를 준다. 전투 진입 전 '<font color=\"blue\">전력 찌르기</font>효과 획득:'</b><br/>방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, 지속 <font color=\"#DC143C\">2턴</font><br/>위치 이동 효과 : <b>목표를 <font color =\"red\">3</font>칸 밀치며, 그 경로에 다른 부대나 진입 불가 지형이 있을 경우 <font color =\"red\">기절</font>시킴</font><br/>지속 <font color =\"red\">1</font>행동<br/><b>근접전 병사 대동 시 병사도 함꼐 공격</b><br/><b>(해당 스킬은 근접전 패널티의 영향을 받지 않는다.)</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/세레나.gif"
+      "Animation": "../img/Super/세레나_Ani.webp"
     }
   ],
   "Bio": [

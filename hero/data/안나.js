@@ -2,7 +2,7 @@
 {
   "Skins": [
     {
-      "ImageUrl": "안나/1.png",
+      "ImageUrl": "안나/1.webp",
       "Desc": "기본"
     }
   ],
@@ -43,7 +43,7 @@
   "Talent": [
     {
       "Name": "의외의 축복",
-      "Icon": "4.png",
+      "Icon": "4.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -79,10 +79,10 @@
   "Jobs": [
     {
       "Name": "오라클",
-      "Icon": "Icon_Occupation_Monk.png",
+      "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "안나/1/1.png"
+          "ImageUrl": "안나/1/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -306,7 +306,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.webp",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -332,7 +332,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Heal2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Heal2.webp",
       "Desc": "[지원]액티브 스킬, 단일 아군 부대에게 전투 후 생명을 10% 회복하게한다. 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -358,7 +358,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassDefup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassDefup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -384,7 +384,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Extend.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Extend.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 생명 회복.<br/>회복량은 시전자 지력의 1.5배, 3개 디버프 제거.",
       "SubSkills": null,
       "Animation": null
@@ -410,7 +410,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.webp",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -436,7 +436,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -462,7 +462,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Skeleton02.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Skeleton02.webp",
       "Desc": "해골 부대를 1개 소환한다.",
       "SubSkills": null,
       "Animation": null

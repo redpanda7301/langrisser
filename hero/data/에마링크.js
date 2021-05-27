@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "에마링크/1.png",
+      "ImageUrl": "에마링크/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "에마링크/2.png",
+      "ImageUrl": "에마링크/2.webp",
       "Desc": "서밋아레나 시즌1 골드스킨"
     }
   ],
@@ -47,7 +47,7 @@
   "Talent": [
     {
       "Name": "지장의 장막",
-      "Icon": "25.png",
+      "Icon": "25.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -74,7 +74,7 @@
   "Equip": {
     "Name": "예지(투구)",
     "Stats": "생명 583,마방 48",
-    "Icon": "에마링크.png",
+    "Icon": "에마링크.webp",
     "Ability": "생명 +10%<br/>행동 종료시 주변 2칸이내 모든 적군에게 랜덤한 디버프 1개 부여"
   },
   "Soldiers": [
@@ -91,13 +91,13 @@
   "Jobs": [
     {
       "Name": "마샬",
-      "Icon": "Icon_Occupation_Marines.png",
+      "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
-          "ImageUrl": "에마링크/1/1.png"
+          "ImageUrl": "에마링크/1/1.webp"
         },
         {
-          "ImageUrl": "에마링크/2/1.png"
+          "ImageUrl": "에마링크/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -120,13 +120,13 @@
     },
     {
       "Name": "나이트 마스터",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "에마링크/1/2.png"
+          "ImageUrl": "에마링크/1/2.webp"
         },
         {
-          "ImageUrl": "에마링크/2/2.png"
+          "ImageUrl": "에마링크/2/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -391,7 +391,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -417,7 +417,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -431,7 +431,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -445,7 +445,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSuper.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSuper.webp",
       "Desc": "[패시브]공격 전 이동거리 1칸마다 공격+5% (최대 +15%).",
       "SubSkills": null,
       "Animation": null
@@ -471,7 +471,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash3.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
       "SubSkills": null,
       "Animation": null
@@ -485,7 +485,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakDef.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakDef.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -499,7 +499,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -513,7 +513,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parry.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parry.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격의 7%를 방어에 추가한다.",
       "SubSkills": null,
       "Animation": null
@@ -527,7 +527,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefDown.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -553,7 +553,7 @@
           "Value": "-"
         }
       ],
-      "IconImageUrl": "../img/Super/에마링크_1.png",
+      "IconImageUrl": "../img/Super/에마링크_1.webp",
       "Desc": "[액티브] 이하 스킬중 택일하여 사용<br/> 자신에게 <b><font color=\"blue\">초절 강화</font>의 특수 효과가 있을 경우</b> 사용 후 <font color=\"red\">3</font>칸 재행동 <br/><b>(해당 재행동은 버프 지속 시간을 소모하지 않음)</b>",
       "SubSkills": null,
       "Animation": null
@@ -579,7 +579,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/에마링크_2.png",
+      "IconImageUrl": "../img/Super/에마링크_2.webp",
       "Desc": "[액티브] 단일 부대에 <font color=\"blue\">장막의 그림자</font> 효과 부여 : <br/>[지휘] <b>인접한 모든 적 이동력 -1 및 호위 불가</b>,<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -605,10 +605,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/에마링크_3.png",
+      "IconImageUrl": "../img/Super/에마링크_3.webp",
       "Desc": "[액티브] 단일 부대에 <font color=\"blue\">반계</font> 효과 부여 : <br/><b>전투 진입 전 자신에게 걸린 디버프</b> <font color=\"red\">4</font>개 제거,<br/>제거하는 디버프 <font color=\"red\">1</font>개당 생명 <font color=\"red\">15</font>% 회복, <br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/에마링크.gif"
+      "Animation": "../img/Super/에마링크_Ani.gif"
     }
   ],
   "Bio": [

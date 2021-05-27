@@ -2,21 +2,25 @@
 {
   "Skins": [
     {
-      "ImageUrl": "나암/1.png",
+      "ImageUrl": "나암/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "나암/2.png",
+      "ImageUrl": "나암/2.webp",
       "Desc": "스킨상점"
     },
     {
-      "ImageUrl": "나암/3.png",
+      "ImageUrl": "나암/3.webp",
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "나암/4.png",
+      "ImageUrl": "나암/4.webp",
       "Desc": "이벤트"
-    }
+    },
+    {
+      "ImageUrl": "나암/sp.webp",
+      "Desc": "SP 전직"
+    }	
   ],
   "Name": "나암",
   "CV": "토쿠이 소라",
@@ -30,13 +34,13 @@
     8
   ],
   "HP": 10,
-  "SPHP": 0,
+  "SPHP": 10,
   "Attk": 40,
-  "SPAttk": 0,
+  "SPAttk":40,
   "Def": 35,
-  "SPDef": 0,
+  "SPDef": 25,
   "MagicDef": 10,
-  "SPMagicDef": 0,
+  "SPMagicDef": 25,
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
@@ -56,7 +60,7 @@
   "Talent": [
     {
       "Name": "견제 전술",
-      "Icon": "20.png",
+      "Icon": "20.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -79,12 +83,37 @@
       ]
     }
   ],
-  "SPTalent": null,
+  "SPTalent": [
+    {
+      "Name": "개국의 성스러운 화살",
+      "Icon": "SP_Gift_Nurm.webp",
+      "Abilities": [
+        {
+          "Desc": "1성"
+        },
+        {
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+5</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP 나암으로부터 받는 피해 <font color=\"red\">+5</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+        },
+        {
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+7</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP 나암으로부터 받는 피해 <font color=\"red\">+7</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+        },
+        {
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+10</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP 나암으로부터 받는 피해 <font color=\"red\">+10</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+        },
+        {
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+12</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP 나암으로부터 받는 피해 <font color=\"red\">+12</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+        },
+        {
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+15</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP 나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+        }
+      ]
+    }
+  ],
   "Equip": {
     "Name": "발키리의 샛별(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "나암.png",
-    "Ability": "마방 +10%<br/>영웅의 고유기술 <font color=\"blue\">견제 전술</font> 쿨타임 <font color=\"red\">-1</font>"
+    "Icon": "나암.webp",
+    "Ability": "마방 +10%<br/>영웅의 고유기술 <font color=\"purple\">견제 전술</font> 쿨타임 <font color=\"red\">-1</font>"
   },
   "Soldiers": [
     15,
@@ -93,24 +122,28 @@
     18,
     47,
     50,
-    60
+    60,
+	73
   ],
   "Jobs": [
     {
       "Name": "레인저",
-      "Icon": "Icon_Occupation_Archer.png",
+      "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "나암/1/1.png"
+          "ImageUrl": "나암/1/1.webp"
         },
         {
-          "ImageUrl": "나암/2/1.png"
+          "ImageUrl": "나암/2/1.webp"
         },
         {
-          "ImageUrl": "나암/3/1.png"
+          "ImageUrl": "나암/3/1.webp"
         },
         {
-          "ImageUrl": "나암/4/1.png"
+          "ImageUrl": "나암/4/1.webp"
+        },
+		{
+          "ImageUrl": "나암/1/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -132,21 +165,64 @@
       "HeartFetterBouns2": "부대 생명이 80% 이상일때 치명타 피해 +10%"
     },
     {
-      "Name": "페가수스 마스터",
-      "Icon": "Icon_Occupation_Fly.png",
+      "Name": "레인저 지휘관",
+      "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "나암/1/2.png"
+          "ImageUrl": "나암/sp/1.webp"
         },
         {
-          "ImageUrl": "나암/2/2.png"
+          "ImageUrl": "나암/2/2.webp"
         },
         {
-          "ImageUrl": "나암/3/2.png"
+          "ImageUrl": "나암/3/2.webp"
         },
         {
-          "ImageUrl": "나암/4/2.png"
+          "ImageUrl": "나암/4/2.webp"
+        },
+		{
+          "ImageUrl": "나암/sp/1.webp"
         }
+
+      ],
+      "AttkRange": 2,
+      "Move": 5,
+      "MoveType": "FieldArmy",
+      "HP": 4370,
+      "HPRate": 75,
+      "Attk": 543,
+      "AttkRate": 82,
+      "Int": 222,
+      "IntRate": 37,
+      "Def": 290,
+      "DefRate": 72,
+      "MagicDef": 341,
+      "MagicDefRate": 89,
+      "Skill": 341,
+      "SkillRate": 82,
+      "HeartFetterBouns1": "<b>원거리 공격을 받아 전투 진입시</b><br/>받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>원거리 공격을 받아 전투 진입시</b><br/>주는 피해 <font color=\"red\">+10</font>%"
+    },
+    {
+      "Name": "페가수스 마스터",
+      "Icon": "Icon_Occupation_Fly.webp",
+      "SD": [
+        {
+          "ImageUrl": "나암/1/3.webp"
+        },
+        {
+          "ImageUrl": "나암/2/3.webp"
+        },
+        {
+          "ImageUrl": "나암/3/3.webp"
+        },
+        {
+          "ImageUrl": "나암/4/3.webp"
+        },
+		{
+          "ImageUrl": "나암/sp/1.webp"
+        }
+
       ],
       "AttkRange": 1,
       "Move": 5,
@@ -387,7 +463,178 @@
       ]
     }
   ],
-  "SPOpenConditions": null,
+  "SPOpenConditions": [
+    {
+      "Name": "개방",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/AlterEgo_Nurm.webp",
+          "Amount": 1
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank8-3.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank7-3.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank6-3.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 미션",
+      "Materials": [],
+      "Desc": "쉐리로 파티를 짜서 형귀 헬스장 존스(궁병) 60 이상 클리어"
+    },
+    {
+      "Name": "2단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "2단계 미션",
+      "Materials": [],
+      "Desc": "발키리의 샛별(투구) 50레벨 달성"
+    },
+    {
+      "Name": "3단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
+          "Amount": 2
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "3단계 미션",
+      "Materials": [],
+      "Desc": "나암으로 파티를 짜서 여신의 시련 빙룡 아산테 60레벨 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "레인저 지휘관 전직 가능, 개국의 성스러운 화살(고유 스킬) 획득, SP 일러스트 획득"
+    },
+    {
+      "Name": "4단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h2.webp",
+          "Amount": 60
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h2-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/heart/x.webp",
+          "Amount": 12
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "4단계 미션",
+      "Materials": [],
+      "Desc": "나암,란스로 파티를 짜서 형귀 헬스장 존스(궁병) 65 이상 클리어"
+    },
+    {
+      "Name": "5단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "5단계 미션",
+      "Materials": [],
+      "Desc": "나암, 란스로 파티를 짜서 여신의 시련 암룡 티아메트 65레벨 이상 클리어"
+    },
+    {
+      "Name": "6단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+          "Amount": 600
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Holy2.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Holy6.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Holy5.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "6단계 미션",
+      "Materials": [],
+      "Desc": "나암으로 파티를 짜서 영원의 신전 백룡 리바이엘 65 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "SP 스탯, SP 스킬 2개 활성화, 엘프궁기병 고용가능"
+    }
+  ],
   "Skills": [
     {
       "Name": "우회",
@@ -398,7 +645,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/11.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/11.webp",
       "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br/>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -424,7 +671,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TakeAim.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TakeAim.webp",
       "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -450,7 +697,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/14.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/14.webp",
       "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br/>'비병'과 전투 시 더큰 피해를 준다.<br/>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -464,7 +711,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_CriBuf.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_CriBuf.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -490,7 +737,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash.webp",
       "Desc": "[물리 피해] 단일 적을 1.3배 피해로 공격,<br/>'비병'과 전투 시 더큰 피해를 준다.<br/>전투 전 피해 +30%, 전투 후 적에게 버프 불가 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -504,7 +751,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraMDefUp.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraMDefUp.webp",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 마방 +15%.",
       "SubSkills": null,
       "Animation": null
@@ -518,7 +765,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.webp",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -544,7 +791,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/15.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/15.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 모든 아군의 이동력 +1.<br/>공격, 지력 +20% 및 면역: '이동력 감소', '패시브 무효화', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -558,11 +805,51 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf5.webp",
       "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
-    }
+    },
+    {
+      "Name": "SP : 하늘을 가르는 화살",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/나암/1.webp",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>'비병'과 전투 시 더큰 피해를 준다.</b><br/><b>전투 후 적에게/b>'<font color=\"blue\">재행동 불가</font>' 효과 부여한다.<br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b>",
+      "SubSkills": null,
+      "Animation": null
+    },
+	{
+      "Name": "SP : 발목 가르기",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/나암/2.webp",
+      "Desc": "[패시브]<b>부대 생명이 <font color=\"red\">100</font>%일 경우 선공으로 전투 진입 전</b><br/>목표 이동력 <font color=\"red\">-2</font> 및 호위 불가(지속 <font color=\"red\">1</font>행동)",
+      "SubSkills": null,
+      "Animation": null
+    },
   ],
   "Bio": [
     {

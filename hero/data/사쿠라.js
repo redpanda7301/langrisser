@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "사쿠라/1.png",
+      "ImageUrl": "사쿠라/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "사쿠라/2.png",
+      "ImageUrl": "사쿠라/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
@@ -48,7 +48,7 @@
   "Talent": [
     {
       "Name": "영검 아라타카",
-      "Icon": "70.png",
+      "Icon": "70.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -85,13 +85,13 @@
   "Jobs": [
     {
       "Name": "파사의 혈통",
-      "Icon": "Icon_Occupation_Infantryman.png",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "사쿠라/1/1.png"
+          "ImageUrl": "사쿠라/1/1.webp"
         },
         {
-          "ImageUrl": "사쿠라/2/1.png"
+          "ImageUrl": "사쿠라/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -114,13 +114,13 @@
     },
     {
       "Name": "사쿠라 전용 광무",
-      "Icon": "Icon_Occupation_Cavalry.png",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "사쿠라/1/2.png"
+          "ImageUrl": "사쿠라/1/2.webp"
         },
         {
-          "ImageUrl": "사쿠라/2/1.png"
+          "ImageUrl": "사쿠라/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -342,7 +342,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.webp",
       "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -368,7 +368,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -394,7 +394,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/37.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/37.webp",
       "Desc": "[물리 피해] 직선상의 모든 적을 공격하여 0.3배의 범위피해를 주며,[유혈]효과를 부여한다.<br/>[유혈]: 행동 종료시 공격자의 공격 2배의 [고정피해], 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -408,7 +408,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.webp",
       "Desc": "[패시브]근접 공격으로 전투 진입 시 전투 후 30% 확률로 <br/>이번 전투에서 준 피해량 30%의 생명을 회복한다",
       "SubSkills": null,
       "Animation": null
@@ -422,7 +422,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf3.webp",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -448,7 +448,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/39.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/39.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -462,7 +462,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.webp",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -488,7 +488,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/38.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/38.webp",
       "Desc": "[물리 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>동시에 적군의 '기술-30%','받는피해+30%',[치료 반전] 효과를 부여.<br/>[치료 반전] : 모든 타인에게 주는 치료효과가 치료량의 30% 피해로 전환, 2턴 지속",
       "SubSkills": null,
       "Animation": null
@@ -514,10 +514,10 @@
           "Value": "주위 2칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Super26.png",
+      "IconImageUrl": "../img/Super/사쿠라.webp",
       "Desc": "[물리 피해]자신 주위 2칸 내 모든 적군에게 0.36배 범위 피해를 입히며<br/>적군에게 '치료 방해', 1턴 지속 및 [유혈]부여 :<br/>'행동 종료시 공격자의 공격 2배의 [고정피해]', 2턴 지속.<br/>적중한 적군 1명당 '영검 아라타카' 1중첩 획득(최대 2중첩 획득가능)",
       "SubSkills": null,
-      "Animation": "../img/Super/사쿠라.gif"
+      "Animation": "../img/Super/사쿠라_Ani.gif"
     }
   ],
   "Bio": [

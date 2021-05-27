@@ -2,7 +2,7 @@
 {
   "Skins": [
     {
-      "ImageUrl": "올리버/1.png",
+      "ImageUrl": "올리버/1.webp",
       "Desc": "기본"
     }
   ],
@@ -44,7 +44,7 @@
   "Talent": [
     {
       "Name": "독행 용사",
-      "Icon": "40.png",
+      "Icon": "40.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -71,7 +71,7 @@
   "Equip": {
     "Name": "위대한 왕의 증표(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "올리버.png",
+    "Icon": "올리버.webp",
     "Ability": "생명, 마방 +5%<br/>부대가 치명타공격을 입히면 1개의 강력한 디버프를 부여하고 버프를 1개 강탈."
   },
   "Soldiers": [
@@ -86,10 +86,10 @@
   "Jobs": [
     {
       "Name": "하이 마스터",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "올리버/1/1.png"
+          "ImageUrl": "올리버/1/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -112,10 +112,10 @@
     },
     {
       "Name": "쉐도우 나이트 마스터",
-      "Icon": "Icon_Occupation_Assassin.png",
+      "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "올리버/1/2.png"
+          "ImageUrl": "올리버/1/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -354,7 +354,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash3.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash3.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br/>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
       "SubSkills": null,
       "Animation": null
@@ -368,7 +368,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -382,7 +382,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.webp",
       "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br/>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
       "SubSkills": null,
       "Animation": null
@@ -408,7 +408,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.webp",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -434,7 +434,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash2.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash2.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br/>치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
@@ -448,7 +448,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -462,7 +462,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDexDown.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDexDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 기술 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -488,7 +488,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash5.png",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash5.webp",
       "Desc": "단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>전투 진입 전, <font color=\"red\">1</font>칸 이동할 때마다 기술 <font color=\"red\">+10%</font>. (최대 <font color=\"red\">30%</font> 중첩 가능)",
       "SubSkills": null,
       "Animation": null
