@@ -426,7 +426,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Emilia3.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>전투 진입 전 <font color =\"blue\">성스러운 수호</font>효과를 획득한다:<br/>마방의 <font color =\"red\">1.6</font>배만큼의 수치로 공격을 대체한다.<br/><br><font color =\"red\">2</font>칸 원거리 공격 반격가능</br><font color =\"red\">2</font>턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>전투 진입 전 <font color =\"blue\">성스러운 수호</font>효과를 획득한다:<br/>마방의 <font color =\"red\">1.6</font>배만큼의 수치로 공격을 대체한다.<br/><font color =\"red\">2</font>칸 원거리 공격 반격가능</br><font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
