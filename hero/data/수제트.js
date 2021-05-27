@@ -186,7 +186,38 @@
         }
       ]
     },
-	{
+    {
+      "ClassTitle": "저격수 : 생명+48, 공격+12",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-6",
+            "rank1-1",
+            "rank1-2"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank3-2",
+            "rank3-1",
+            "rank2-2",
+            "rank2-6"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-3",
+            "rank4-1",
+            "rank3-2",
+            "rank3-1"
+          ]
+        }	
+      ]
+    },
+	  {
       "ClassTitle": "라이더 : 공격+12, 기술+5",
       "Tiers": [
         {
@@ -256,37 +287,6 @@
             "rank7-6"
           ]
         }
-      ]
-    },
-    {
-      "ClassTitle": "저격수 : 생명+48, 공격+12",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank2-6",
-            "rank1-1",
-            "rank1-2"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank3-2",
-            "rank3-1",
-            "rank2-3",
-            "rank2-6"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank4-3",
-            "rank4-1",
-            "rank3-2",
-            "rank3-1"
-          ]
-        }	
       ]
     },
     {

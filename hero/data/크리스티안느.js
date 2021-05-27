@@ -98,10 +98,10 @@
       "AttkRange": 1,
       "Move": 5,
       "MoveType": "Ride",
-      "HP": 4911,
-      "HPRate": 82,
-      "Attk": 376,
-      "AttkRate": 58,
+      "HP": 4991,
+      "HPRate": 83,
+      "Attk": 476,
+      "AttkRate": 78,
       "Int": 300,
       "IntRate": 50,
       "Def": 370,
@@ -131,7 +131,7 @@
       "HPRate": 85,
       "Attk": 451,
       "AttkRate": 76,
-      "Int": 27,
+      "Int": 271,
       "IntRate": 45,
       "Def": 356,
       "DefRate": 84,
@@ -374,7 +374,7 @@
           "Value": "고유기"
         }
       ],
-      "IconImageUrl": "../img/ability/Gift_Cristian.webp",
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/ability/Gift_Christiane.webp",
       "Desc": "'<font color=\"blue\">꽃말</font>'효과는 해당 조건이 만족 하면 발동",
       "SubSkills": [
         {

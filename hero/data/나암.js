@@ -27,7 +27,7 @@
   "Rank": [
     1
   ],
-  "SP": false,
+  "SP": true,
   "Groups": [
     1,
     5,
