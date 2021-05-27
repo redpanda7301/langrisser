@@ -201,7 +201,7 @@
       "Skill": 139,
       "SkillRate": 52,
       "HeartFetterBouns1": "<b>원거리 공격을 받을시</b><br/>받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>원거리 공격을 받을시</b><br/>주는 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "<b>원거리 공격을 받아 전투 진입 시</b><br/>주는 피해 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "페가수스 마스터",

@@ -536,7 +536,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "액티브"
+          "Value": "물리피해"
         },
         {
           "Label": "쿨타임",

@@ -523,7 +523,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "소환"
+          "Value": "물리피해"
         },
         {
           "Label": "쿨타임",

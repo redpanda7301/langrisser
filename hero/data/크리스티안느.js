@@ -638,7 +638,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/크리스티안느.webp",
-      "Desc": "[패시브]<b>인접한 아군이 받는 모든 피해를 대신 받는다. <font color=\"blue\">강화 불가</font> 면역</b><br/>[초절강화]범위 내 모든 '<font color=\"pink\">공주 연맹</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>전장에 있는 여성 영웅 <font color=\"red\">1</font>명 당</b> 전투 진입 시 <font color=\"red\">+3</font>%(최대 <font color=\"red\">+18</font>%)(지속 <font color=\"red\">4</font>턴)<br/>호위 범위가 <font color =\"red\">2</font>칸으로 증가<br/>자신의 지휘 스킬 범위<font color =\"red\">+1</font>칸<br/>'<font color =\"blue\">고급 신성한 수호</font>'효과 획득<br/>마방의 <font color =\"red\">1.6</font>배만큼의 수치로 공격을 대체한다,<br/><b><font color =\"red\">2</font>칸 원거리 공격 반격가능<br/>지속 <font color=\"red\">4</font>행동 <br/><b>(고급 신성한 수호는 제거 불가)</b>",
+      "Desc": "[패시브]<b>인접한 아군이 받는 모든 피해를 대신 받는다. <font color=\"blue\">강화 불가</font> 면역</b><br/>[초절강화]범위 내 모든 '<font color=\"dark pink\">공주 연맹</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>전장에 있는 여성 영웅 <font color=\"red\">1</font>명 당</b> 전투 진입 시 <font color=\"red\">+3</font>%(최대 <font color=\"red\">+18</font>%)(지속 <font color=\"red\">4</font>턴)<br/>호위 범위가 <font color =\"red\">2</font>칸으로 증가<br/>자신의 지휘 스킬 범위<font color =\"red\">+1</font>칸<br/>'<font color =\"blue\">고급 신성한 수호</font>'효과 획득<br/>마방의 <font color =\"red\">1.6</font>배만큼의 수치로 공격을 대체한다,<br/><b><font color =\"red\">2</font>칸 원거리 공격 반격가능<br/>지속 <font color=\"red\">4</font>행동 <br/><b>(고급 신성한 수호는 제거 불가)</b>",
       "SubSkills": null,
       "Animation": "../img/Super/크리스티안느_Ani.webp"
     }
