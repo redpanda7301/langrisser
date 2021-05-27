@@ -832,7 +832,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/나암/1.webp",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>'비병'과 전투 시 더큰 피해를 준다.</b><br/><b>전투 후 적에게/b>'<font color=\"blue\">재행동 불가</font>' 효과 부여한다.<br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b>",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>'비병'과 전투 시 더큰 피해를 준다, '비병'이 대상일 경우 <font color=\"blue\">호위 무시</font></b><br/><b>전투 후 적에게</b>'<font color=\"blue\">재행동 불가</font>' 효과 부여한다.<br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
