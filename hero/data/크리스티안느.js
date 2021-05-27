@@ -89,10 +89,10 @@
       "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "크리스티안느/1/2.webp"
+          "ImageUrl": "크리스티안느/1/1.webp"
         },
         {
-          "ImageUrl": "크리스티안느/2/2.webp"
+          "ImageUrl": "크리스티안느/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -108,7 +108,7 @@
       "DefRate": 72,
       "MagicDef": 340,
       "MagicDefRate": 79,
-      "Skill": 90,
+      "Skill": 110,
       "SkillRate": 26,
       "HeartFetterBouns1": "<b>선공으로 전투진입시</b><br/><b>부대가</b>받는피해 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "<b>선공으로 전투진입시</b><br/>주는 피해 <font color=\"red\">+10</font>%"
@@ -118,10 +118,10 @@
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "크리스티안느/1/1.webp"
+          "ImageUrl": "크리스티안느/1/2.webp"
         },
         {
-          "ImageUrl": "크리스티안느/2/1.webp"
+          "ImageUrl": "크리스티안느/2/2.webp"
         }
       ],
       "AttkRange": 1,
