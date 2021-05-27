@@ -92,19 +92,19 @@
           "Desc": "1성"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+5</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP 나암으로부터 받는 피해 <font color=\"red\">+5</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+5</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">3</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+7</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP 나암으로부터 받는 피해 <font color=\"red\">+7</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+7</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">3</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+10</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP 나암으로부터 받는 피해 <font color=\"red\">+10</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+10</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">2</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+12</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP 나암으로부터 받는 피해 <font color=\"red\">+12</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+12</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">2</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+15</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP 나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+15</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
         }
       ]
     }
@@ -198,10 +198,10 @@
       "DefRate": 72,
       "MagicDef": 341,
       "MagicDefRate": 89,
-      "Skill": 341,
-      "SkillRate": 82,
-      "HeartFetterBouns1": "<b>원거리 공격을 받아 전투 진입시</b><br/>받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>원거리 공격을 받아 전투 진입시</b><br/>주는 피해 <font color=\"red\">+10</font>%"
+      "Skill": 139,
+      "SkillRate": 52,
+      "HeartFetterBouns1": "<b>원거리 공격을 받을시</b><br/>받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>원거리 공격을 받을시</b><br/>주는 피해 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "페가수스 마스터",
@@ -499,7 +499,7 @@
     {
       "Name": "1단계 미션",
       "Materials": [],
-      "Desc": "쉐리로 파티를 짜서 형귀 헬스장 존스(궁병) 60 이상 클리어"
+      "Desc": "나암으로 파티를 짜서 형귀 헬스장 존스(궁병) 60 이상 클리어"
     },
     {
       "Name": "2단계 재료",
@@ -610,15 +610,15 @@
           "Amount": 600
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Holy2.webp",
+          "MaterialImgUrl": "../img/stone/StoneA_Shadow2.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Holy6.webp",
+          "MaterialImgUrl": "../img/stone/StoneA_Shadow6.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Holy5.webp",
+          "MaterialImgUrl": "../img/stone/StoneA_Shadow5.webp",
           "Amount": 5
         }
       ],

@@ -438,7 +438,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Suzette/2.webp",
-      "Desc": "[액티브]<b>다른 아군을 선택, 목표 위치에 위치 이동 시킨뒤 <font color =\"red\">3</font>칸 적에게</b><font color =\"red\">0.2</font>배 물리피해<br/>",
+      "Desc": "[액티브]<b>다른 아군을 선택, 목표 위치에 위치 이동 시킨뒤 주변 <font color =\"red\">3</font>칸 적에게</b><font color =\"red\">0.2</font>배 물리피해<br/>",
       "SubSkills": null,
       "Animation": null
     },

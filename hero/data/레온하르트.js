@@ -531,11 +531,11 @@
         },
         {
           "Label": "사거리",
-          "Value": "2바퀴"
+          "Value": "자신"
         },
         {
           "Label": "범위",
-          "Value": "자신"
+          "Value": "2바퀴"
         }
       ],
       "IconImageUrl": "../img/Super/레온하르트.webp",
