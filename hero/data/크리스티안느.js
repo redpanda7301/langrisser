@@ -396,7 +396,7 @@
           "Desc": "<b>생명을 제외한 모든 스탯</b><font color =\"red\">+5</font>%<br/><b>공격받아 전투 진입 전 적에게</b> 마방<font color =\"red\">0.5</font>배 수치 <font color =\"blue\">고정 피해</font>"
         },
         {
-          "Name": "<font color=\"red\">석산</font><br/><b><font color =\"black\">자신을 제외한 아군이 모두 남성이며, 그 수는 <font color =\"red\">1</font>명 이상</b></font>",
+          "Name": "<font color=\"red\">석산</font><br/><b><font color =\"black\">다른 아군이 없을 때</b></font>",
           "Entries": null,
           "IconImageUrl": null,
           "Desc": "<b>생명을 제외한 모든 스탯</b><font color =\"red\">+5</font>%<br/><b>공격받아 전투 진입 시</b> 주는 피해량<font color =\"red\">+10</font>% 및 <br/><b>전투 후</b> 생명<font color =\"red\">20</font>% 회복"
