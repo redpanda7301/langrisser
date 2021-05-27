@@ -120,7 +120,7 @@
           "ImageUrl": "수제트/1/2.webp"
         },
         {
-          "ImageUrl": "수제트/2/1.webp"
+          "ImageUrl": "수제트/2/2.webp"
         }
       ],
       "AttkRange": 2,
