@@ -513,7 +513,7 @@
       "Animation": null
     },
     {
-      "Name": "꽃의 진영",
+      "Name": "꽃의 전쟁",
       "Cost": "COST 2",
       "Entries": [
         {
