@@ -208,7 +208,7 @@
       "Icon": "Icon_Occupation_Fly.webp",
       "SD": [
         {
-          "ImageUrl": "나암/1/3.webp"
+          "ImageUrl": "나암/1/2.webp"
         },
         {
           "ImageUrl": "나암/2/3.webp"
