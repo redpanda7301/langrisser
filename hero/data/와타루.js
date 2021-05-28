@@ -558,7 +558,7 @@
       "IconImageUrl": "../img/Super/와타루.webp",
       "Desc": "[물리피해] 단일 개체 <font color=\"red\">1.9</font>배 피해. 전투 전 버프 <font color=\"red\">5</font>개 제거, <br/>목표 이동력이 <font color=\"red\">1</font>칸 이하일 경우 기절하며 피해 <font color=\"red\">+20</font>% 및 <b>부활 불가</b> (<b>부활 불가 효과는 아레나에서만 발동</b>). <br/>적을 퇴각시킬 경우 자신에게 <font color=\"red\">기진맥진</font> 효과 부여 : <br/>주는 피해 <font color=\"red\">-30</font>%, 행동 종료 시 부대 생명 <font color=\"red\">30</font>% 회복, 지속 <font color=\"red\">1</font>행동. <br/><b>기진맥진 효과는 면역 및 제거 불가</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/와타루_Ani.gif"
+      "Animation": "../img/Super/와타루_Ani1.gif"
     }
   ],
   "Bio": null,
