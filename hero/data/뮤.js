@@ -553,7 +553,7 @@
       "IconImageUrl": "../img/Super/뮤.webp",
       "Desc": "<br/>[마법 피해] 단일 적 부대를 공격하여 <font color=\"red\">1.6</font>배 피해를 준다.<br/><b>전투 진입 전 적이 받는 피해량<font color=\"red\">+20</font>%, '<font color=\"blue\">숲의 씨앗</font>'효과를 부여한다.<br/><font color=\"blue\">숲의 씨앗</font> : <b>사망 시 시전자의</b> '<font color=\"green\">고대 숲의 정령</font>'으로 변화<br/>지속 <font color=\"red\">2</font>턴<br/><b>전투 후 자신과 목표에게</b> '<font color=\"green\">풀밭</font>'효과 부여<br/><font color=\"green\">풀밭</font> : [지휘] <b>주위 <font color=\"red\">1</font>바퀴 범위 안에 있는 모든 부대가 이동 가능한 지형을</b><br/><font color=\"green\">초원</font>으로 간주한다. 지속<font color=\"red\">2</font>턴<br/><font color=\"green\">고대 숲의 정령</font> 최대 수량은 <font color=\"red\">1</font>기",
       "SubSkills": null,
-      "Animation": "../img/Super/뮤_Ani.webp"
+      "Animation": "../img/Super/뮤_Ani.gif"
     }
   ],
   "Bio": null,
