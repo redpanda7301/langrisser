@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>여성이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+15%</font> 받는 피해 <font color=\"red\">-15%</font><br/>선공으로 피해를 입힐 경우 목표에게 \\피로\\효과 부여<br/>\\피로\\ : 피격 치명타 확률 +20% 지속 3행동 중첩 가능 2중첩 된 상태로 행동 종료 시 해당 효과는 \\최면\\으로 대체<br/>\\최면\\ : 기절 피격 치명타 확률 +50% 지속 1행동 (최면 효과는 1번 피격시 사라짐 쿨 3행동)"
+          "Desc": "<b><font color=\"dark pink\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+15</font>% 받는 피해 <font color=\"red\">-15</font>%<br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20</font>% 지속 <font color=\"red\">3</font>행동 중첩 가능 <font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50</font>% 지속 <font color=\"red\">1</font>행동 (최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
         },
         {
-          "Desc": "<b>여성이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+20%</font> 받는 피해 <font color=\"red\">-20%</font><br/>선공으로 피해를 입힐 경우 목표에게 \\피로\\효과 부여<br/>\\피로\\ : 피격 치명타 확률 +20% 지속 3행동 중첩 가능 2중첩 된 상태로 행동 종료 시 해당 효과는 \\최면\\으로 대체<br/>\\최면\\ : 기절 피격 치명타 확률 +50% 지속 1행동 (최면 효과는 1번 피격시 사라짐 쿨 3행동)"
+          "Desc": "<b><font color=\"dark pink\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+20</font>% 받는 피해 <font color=\"red\">-20</font>%<br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20</font>% 지속 <font color=\"red\">3</font>행동 중첩 가능 <font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50</font>% 지속 <font color=\"red\">1</font>행동 (최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
         },
         {
-          "Desc": "<b>여성이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+25%</font> 받는 피해 <font color=\"red\">-25%</font><br/>선공으로 피해를 입힐 경우 목표에게 \\피로\\효과 부여<br/>\\피로\\ : 피격 치명타 확률 +20% 지속 3행동 중첩 가능 2중첩 된 상태로 행동 종료 시 해당 효과는 \\최면\\으로 대체<br/>\\최면\\ : 기절 피격 치명타 확률 +50% 지속 1행동 (최면 효과는 1번 피격시 사라짐 쿨 3행동)"
+          "Desc": "<b><font color=\"dark pink\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+25</font>% 받는 피해 <font color=\"red\">-25</font>%<br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20</font>% 지속 <font color=\"red\">3</font>행동 중첩 가능 <font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50</font>% 지속 <font color=\"red\">1</font>행동 (최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
         },
         {
-          "Desc": "<b>여성이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+30%</font> 받는 피해 <font color=\"red\">-30%</font><br/>선공으로 피해를 입힐 경우 목표에게 \\피로\\효과 부여<br/>\\피로\\ : 피격 치명타 확률 +20% 지속 3행동 중첩 가능 2중첩 된 상태로 행동 종료 시 해당 효과는 \\최면\\으로 대체<br/>\\최면\\ : 기절 피격 치명타 확률 +50% 지속 1행동 (최면 효과는 1번 피격시 사라짐 쿨 3행동)"
+          "Desc": "<b><font color=\"dark pink\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+30</font>% 받는 피해 <font color=\"red\">-30</font>%<br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20</font>% 지속 <font color=\"red\">3</font>행동 중첩 가능 <font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50</font>% 지속 <font color=\"red\">1</font>행동 (최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
         }
       ]
     }
@@ -504,7 +504,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr1.webp",
-      "Desc": "[마법 피해]전장에 있는 단일 개체 0.1배, 목표가 '여성이 아닌 영웅'일 경우 다음 턴 기절,                                        <br/>목표 행동 종료 시 주위 1바퀴 범위 다른 아군에게 고정피해 (목표의 남은 생명력 25% 수치, 해당 효과는 해제 불가)",
+      "Desc": "[마법 피해]전장에 있는 단일 개체 0.1배, 목표가 '<b><font color=\"dark pink\">여성</font>이 아닌 영웅</b>'일 경우 다음 턴 기절,                                        <br/>목표 행동 종료 시 주위 1바퀴 범위 다른 아군에게 고정피해 (목표의 남은 생명력 25% 수치, 해당 효과는 해제 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -530,7 +530,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr2.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.                                        <br/>목표가 '여성이 아닌 영웅'일 경우 피해 +20% 및 호위 무시",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.                                        <br/>목표가 '<b><font color=\"dark pink\">여성</font>이 아닌 영웅</b>'일 경우 피해 <font color=\"red\">+20</font>% 및 호위 무시",
       "SubSkills": null,
       "Animation": null
     },
@@ -544,7 +544,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr3.webp",
-      "Desc": "[패시브]'여성이 아닌 영웅'과 교전해 전투에 들어갈 경우,                                        <br/>전투 후 해당 전투에서 입힌 피해량 30% 수치로 생명 회복",
+      "Desc": "[패시브]'<b><font color=\"dark pink\">여성</font>이 아닌 영웅</b>'과 교전해 전투에 들어갈 경우,                                        <br/>전투 후 해당 전투에서 입힌 피해량 30% 수치로 생명 회복",
       "SubSkills": null,
       "Animation": null
     },
@@ -570,7 +570,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/팟시르.webp",
-      "Desc": "[패시브]팟시르 사망 시, 전장에 있는 적군 중 모든 '여성이 아닌 영웅'에게 '패시브 봉인' 효과 부여 (해제 불가)                                        <br/>마법피해. 3줄 직선 상 적에게 0.1배, 대상이 '방어 지형이 아닌 지형'에 위치해 있을 경우 추가                                         <br/>고정 피해 (지력 2배 수치, 면역 불가), '그림자 저주' 효과 부여                                        <br/>그림자 저주 : '방어 지형이 아닌 지형'에서 행동 종료 시 고정 피해 (지력 1.5배 수치),                                        <br/>면역 불가, 지속 2행동 (그림자 저주 효과는 해제 불가)",
+      "Desc": "[패시브]팟시르 사망 시, 전장에 있는 적군 중 모든 '<b><font color=\"dark pink\">여성</font>이 아닌 영웅</b>'에게 '패시브 봉인' 효과 부여 (해제 불가)                                        <br/>마법피해. 3줄 직선 상 적에게 0.1배, 대상이 '방어 지형이 아닌 지형'에 위치해 있을 경우 추가                                         <br/>고정 피해 (지력 2배 수치, 면역 불가), '그림자 저주' 효과 부여                                        <br/>그림자 저주 : '방어 지형이 아닌 지형'에서 행동 종료 시 고정 피해 (지력 1.5배 수치),                                        <br/>면역 불가, 지속 2행동 (그림자 저주 효과는 해제 불가)",
       "SubSkills": null,
       "Animation": "../img/Super/팟시르_Ani.gif"
     }
