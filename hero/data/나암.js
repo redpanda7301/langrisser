@@ -166,7 +166,7 @@
     },
     {
       "Name": "레인저 지휘관",
-      "Icon": "Icon_Occupation_Archer.webp",
+      "Icon": "Icon_Occupation_ArcherSP.webp",
       "SD": [
         {
           "ImageUrl": "나암/sp/1.webp"

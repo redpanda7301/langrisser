@@ -28,7 +28,6 @@ function initPage() {
     var SkillInfoTemplate = _.template($("#skill-info-template").html());
     var BioInfoTemplate = _.template($("#bio-info-template").html());
     var PerformanceInfoTemplate = _.template($("#performance-info-template").html());
-
     $("#skin-carousel").replaceWith(skinTemplate(data[0]));
     $("#basic-info").replaceWith(basicInfoTemplate(data[0]));
     $("#talent-soldier-info").replaceWith(talentSoldierInfoTemplate(data[0]));
@@ -39,7 +38,6 @@ function initPage() {
     $("#skill-info").replaceWith(SkillInfoTemplate(data[0]));
     $("#bio-info").replaceWith(BioInfoTemplate(data[0]));
     $("#performance-info").replaceWith(PerformanceInfoTemplate(data[0]));
-    
     showSlides(slideIndex);                
 
     $('#input-4').rating({
