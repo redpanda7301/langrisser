@@ -564,7 +564,7 @@
       "IconImageUrl": "../img/Super/오메가.webp",
       "Desc": "[지원] 사용 후 부대 치명타 확률 및 치명타 피해 <font color=\"red\">+15</font>%, <br/>영웅 스킬 사거리 <font color=\"red\">+1</font>, 지속 <font color=\"red\">2</font>턴<br/>사용 후 <font color=\"blue\">재행동</font> 가능,<br/>이동력은 스킬 사용 시점 잔여 이동력 <font color=\"red\">+2</font>,<b>직선으로만 이동 가능</b><br/>(해당 스킬로 인한 재행동은 버프 지속 시간을 소모하지 않음)",
       "SubSkills": null,
-      "Animation": "../img/Super/오메가_Ani.gif"
+      "Animation": "../img/Super/오메가_Ani.webp"
     }
   ],
   "Bio": [

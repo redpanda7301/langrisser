@@ -554,7 +554,7 @@
       "IconImageUrl": "../img/Super/베티.webp",
       "Desc": "[패시브] 범위 스킬로 인해 사망 시 부활 (매 전장에서 최대 <font color=\"red\">3</font>회 발동),<br/>고유 스킬 범위 내에 있는 아군 <font color=\"red\">1</font>명이 피격당할 시 <br/>공격자 및 그 주위 <font color=\"red\">3</font>칸 범위 내 적 <font color=\"red\">2</font>명에게 '피해 <font color=\"red\">-15</font>%' 디버프 부여,지속 <font color=\"red\">1</font>행동<br/>[물리피해] 주위 2바퀴 범위 내 적에게 <font color=\"red\">0.3</font>배 피해 및 고정피해 (베티 공격 <font color=\"red\">1</font>배 수치),<br/>치료 불가 효과 부여, 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/베티_Ani.gif"
+      "Animation": "../img/Super/베티_Ani.webp"
     }
   ],
   "Bio": [

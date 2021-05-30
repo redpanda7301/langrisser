@@ -505,7 +505,7 @@
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Albedo4.webp",
       "Desc": "[패시브]면역 \"기절\", 사망시 부활 및 생명 20%회복. 최대 1회 가능.<br/>[액티브]2칸 범위내 아군을 대신해 모든 공격을 받는다.<br/>[신의 갑옷] 효과 : \"받는 치명타확률 -30%, 공격을 받아 전투 진입시 30%확률로 발동,<br/>부대가 받는 모든피해 -50%\", 3턴 지속.<br/>([신의 갑옷]은 면역 및 제거 불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/알베도_Ani.gif"
+      "Animation": "../img/Super/알베도_Ani.webp"
     }
   ],
   "Bio": null,

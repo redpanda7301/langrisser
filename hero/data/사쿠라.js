@@ -517,7 +517,7 @@
       "IconImageUrl": "../img/Super/사쿠라.webp",
       "Desc": "[물리 피해]자신 주위 2칸 내 모든 적군에게 0.36배 범위 피해를 입히며<br/>적군에게 '치료 방해', 1턴 지속 및 [유혈]부여 :<br/>'행동 종료시 공격자의 공격 2배의 [고정피해]', 2턴 지속.<br/>적중한 적군 1명당 '영검 아라타카' 1중첩 획득(최대 2중첩 획득가능)",
       "SubSkills": null,
-      "Animation": "../img/Super/사쿠라_Ani.gif"
+      "Animation": "../img/Super/사쿠라_Ani.webp"
     }
   ],
   "Bio": [

@@ -580,7 +580,7 @@
       "IconImageUrl": "../img/Super/베른하르트.webp",
       "Desc": "[패시브] <b>선공으로 일반 공격 후, 주위 <font color=\"red\">1</font>바퀴</b> 범위 내 적에게 0.1배 범위 피해. 쿨타임 <font color=\"red\">3</font>행동.<br/>[초절강화] 제국의 빛 부여 (전투 진입 시 피해 +18%, 지속 4행동) +<br/>자신에게 <font color=\"blue\">철혈의 야망</font> 버프 부여 : <br/>이동력 <font color=\"red\">+1</font>, 피해 <font color=\"red\">+15</font>%, <br/><font color=\"blue\">검무</font> 범위 <font color=\"red\">+1</font>, <font color=\"blue\">방패 공격</font> <b>부대 사거리</b> <font color=\"red\">+1</font>, <br/><font color=\"blue\">철완</font> 스킬 장착 시 받는 물리 피해 <font color=\"red\">-25</font>%, <br/>패기 효과 획득, 지속 <font color=\"red\">4</font>행동 <br/><b>(철혈의 야망 효과는 면역 및 해제 불가)</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/베른하르트_Ani.gif"
+      "Animation": "../img/Super/베른하르트_Ani.webp"
     }
   ],
   "Bio": [

@@ -555,7 +555,7 @@
       "IconImageUrl": "../img/Super/렌.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.3배의 범위 피해를 입히며, 1칸 후퇴 시킨다.<br/>적중한 적군의 방어와 마방 속성중 높은 속성 -30%, 2턴 지속.",
       "SubSkills": null,
-      "Animation": "../img/Super/렌_Ani.gif"
+      "Animation": "../img/Super/렌_Ani.webp"
     }
   ],
   "Bio": [

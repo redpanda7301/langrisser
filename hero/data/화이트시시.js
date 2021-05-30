@@ -659,7 +659,7 @@
       "IconImageUrl": "../img/Super/화이트시시_2.webp",
       "Desc": "[액티브] 아군 <font color=\"red\">1</font>개 부대 생명 회복 (지력 <font color=\"red\">2</font>배 수치) 및 '<font color=\"blue\">투자</font>' 효과 부여 : <br/><b>턴 시작 시</b> 랜덤한 버프 <font color=\"red\">1</font>개 획득, <br/><b>격파하는 적 <font color=\"red\">1</font>명 당</b> 화이트 시시가 「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">2</font>개 획득, 지속 <font color=\"red\">3</font>행동, <br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">1</font>개 소모. <b>해제 불가,면역 불가</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/화이트시시_Ani.gif"
+      "Animation": "../img/Super/화이트시시_Ani.webp"
     }
   ],
   "Bio": null,

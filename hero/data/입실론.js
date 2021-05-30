@@ -517,7 +517,7 @@
       "IconImageUrl": "../img/Super/입실론.webp",
       "Desc": "[패시브]<b>전장에 있는 부대가 <font color=\"red\">사망</font>할 때마다</b><br/> <font color=\"blue\">도살</font> 효과 획득 및 <font color=\"orange\">흉성의 마검</font> 쿨타임 <font color=\"red\">-1</font>턴,<br/><font color=\"blue\">도살</font> : 공격 <font color=\"red\">+5</font>%(최대 <font color=\"red\">4</font>중첩),<br/> [물리 피해]<b>단일 적 부대를 공격할때 호위를 무시하고</b><br/>치명타 확률<font color=\"red\">+30</font>%, <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>해당 스킬로 적 격파 시</b><br/>'<font color=\"blue\">도살</font>' <font color=\"red\">1</font>스택 획득",
       "SubSkills": null,
-      "Animation": "../img/Super/입실론_Ani.gif"
+      "Animation": "../img/Super/입실론_Ani.webp"
     }
   ],
   "Bio": null,

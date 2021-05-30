@@ -591,7 +591,7 @@
       "IconImageUrl": "../img/Super/발가스.webp",
       "Desc": "[패시브]근접한 아군을 대신해 <b>물리 피해</b>를 받는다.<br/> 고유 스킬 <font color=\"blue\">불굴</font> 효과 발동 후 [<font color=\"blue\">굳건함</font>] 효과 획득 : <br/>[<font color=\"blue\">굳건함</font>]: <b>전장에 아군이 있을 경우</b> 생명 <font color=\"red\">30</font>% 수치로 <font color=\"blue\">부활</font><br/><b>단, 부대 최대 생명 <font color=\"red\">-35</font>% 감소</b>(패널티)<br/>(<b>해제 불가, 면역 불가, 굳건함의 <font color=\"blue\">불굴</font> 효과는 전장에서 최대 <font color=\"red\">2</font>회 발동</b>)<br/>[액티브]호위 범위가 <font color=\"red\">3</font>칸으로 증가, 받는 치명타 확률 <font color=\"red\">-30</font>%, <br/>'<font color=\"blue\">치료 불가 면역</font>' 효과 부여, '<font color=\"blue\">전력 찌르기</font>' 효과 획득, <br/>지속 <font color=\"red\">3</font>행동, <b>상술된 모든 효과는 제거 불가</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/발가스_Ani.gif"
+      "Animation": "../img/Super/발가스_Ani.webp"
     }
   ],
   "Bio": [

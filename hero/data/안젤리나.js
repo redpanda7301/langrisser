@@ -610,7 +610,7 @@
       "IconImageUrl": "../img/Super/안젤리나.webp",
       "Desc": "[물리피해] 3칸 직선내 모든 적군에게 0.2배의 범위 피해를 주며, 3칸 후퇴 시킨다.<br/>자신이 '수중' 지형일 경우, 20%의 확률으로 적군에게 [빙결]효과 부여, 지속 1회합.<br/>스킬이 3명이상의 적군에게 적중할 경우 1회 재행동 가능하다.<br/>(재행동 효과는 매 회합마다 1회만 발동)",
       "SubSkills": null,
-      "Animation": "../img/Super/안젤리나_Ani.gif"
+      "Animation": "../img/Super/안젤리나_Ani.webp"
     }
   ],
   "Bio": [

@@ -614,7 +614,7 @@
       "IconImageUrl": "../img/Super/노에미.webp",
       "Desc": "[지원] 액티브 스킬. 사용후 자신의 부대가 공격하여 전투진입시 2회 동안<br/>\"받는피해 -20%, 입히는피해 +20%.\" 동시에 \"부대의 사거리+2,<br/>행동종료시 자신의 지력 1.5배의 생명회복, 디버프 1개 제거.\"(제거불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/노에미_Ani.gif"
+      "Animation": "../img/Super/노에미_Ani.webp"
     }
   ],
   "Bio": [

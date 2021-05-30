@@ -574,7 +574,7 @@
       "IconImageUrl": "../img/Super/오토크라토4세.webp",
       "Desc": "[물리피해] <font color=\"red\">3</font>개의 라인에 있는 모든 적군을 공격하여 <font color=\"red\">0.36</font>배 범위 피해를 입힌다.<br/><b>명중한 적의 위치를 랜덤하게 이동시키고 직선으로만 이동할 수 있게 만든다</b>, <br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b> <br/><b>해당 공격으로 <font color=\"red\">3</font>명 이상 적을 명중 시</b> 스킬 쿨타임 <font color=\"red\">-3</font>",
       "SubSkills": null,
-      "Animation": "../img/Super/오토크라토4세_Ani.gif"
+      "Animation": "../img/Super/오토크라토4세_Ani.webp"
     }
   ],
   "Bio": null,

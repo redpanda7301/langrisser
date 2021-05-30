@@ -583,7 +583,7 @@
           "Desc": "[액티브] 호위 범위 <font color=\"red\">2</font>칸으로 확장. 지휘 범위 <font color=\"red\">3</font>칸으로 확장<br/>영웅 병종을 <img src=\"../img/troop/Icon_Occupation_Cavalry.webp\" width=\"20px\"><font color=\"blue\">기병</font>으로 변경 <br/>보병과 전투 시 피해 <font color=\"red\">+20</font>%, 지속 <font color=\"red\">3</font>행동"
         }
       ],
-      "Animation": "../img/Super/힐다_Ani.gif"
+      "Animation": "../img/Super/힐다_Ani.webp"
     }
   ],
   "Bio": null,

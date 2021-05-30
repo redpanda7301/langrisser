@@ -589,7 +589,7 @@
       "IconImageUrl": "../img/Super/그레니어.webp",
       "Desc": "[패시브]인접한 아군이 받는 <b>모든 공격</b>을 대신 받는다.<br/>[액티브]호위 범위 <font color=\"red\">2</font>칸으로 증가. '<font color=\"blue\">전력 찌르기</font>' 효과 획득,  <br/>기술 <font color=\"red\">+30</font>% (지속 <font color=\"red\">3</font>행동), <br/>'<font color=\"purple\">굳센 반격</font>' <font color=\"red\">2</font>스택 획득, <br/><b>행동 종료 시 자신이 위치한 지형에 '<font color=\"purple\">나의 영역</font>'</b> 효과 부여 : <br/><b>아군이 이동 시 통과 가능한 지형을 '<font color=\"silver\">성벽</font>'으로 간주</b>, <br/><b>부대는 지형에 따른 이동력 패널티를 받지 않으며 행동 종료 시</b> 생명 <font color=\"red\">20</font>% 회복, <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/그레니어_Ani.gif"
+      "Animation": "../img/Super/그레니어_Ani.webp"
     }
   ],
   "Bio": [

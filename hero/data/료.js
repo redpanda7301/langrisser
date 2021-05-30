@@ -518,7 +518,7 @@
       "IconImageUrl": "../img/Super/료.webp",
       "Desc": "[패시브] <b>선공으로 전투 진입 전 적에게 <font color=\"blue\">갑옷 융해</font> 효과 부여 :</b> <br/>받는 물리 피해 <font color=\"red\">+10</font>%, 지속 <font color=\"red\">1</font>행동 <b><br/><b><font color=\"purple\">열화의 무장</font> 상태일 경우 <font color=\"red\">15%로 상승</font>)</b><br/>[물리피해]단일 대상에게 <font color=\"red\">1.5</font>배 피해. <b>전투 진입 전 자신 주위 2칸 범위 내 모든 적에게 <font color=\"red\">부활 금지</font> 효과 부여</b><br/>(지속 1행동, 부활 금지 효과는 아레나에서만 발동), <br/><font color=\"purple\">열화의 무장</font> 상태일 경우 해당 스킬은 2회 공격 </b>",
       "SubSkills": null,
-      "Animation": "../img/Super/료_Ani.gif"
+      "Animation": "../img/Super/료_Ani.webp"
     }
   ],
   "Bio": null,

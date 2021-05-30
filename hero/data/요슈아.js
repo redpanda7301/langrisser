@@ -529,7 +529,7 @@
       "IconImageUrl": "../img/Super/요슈아.webp",
       "Desc": "[물리피해]치명타확률 +30%.<br/>3칸 직선상의 모든 적에게 0.3배의 범위피해를 준다.<br/>법사에게 특효. 치명타발생시 1개의 랜덤한 디버프 부여,<br/>공격시, 기술 사거리의 가장먼곳으로 이동.<br/>공격후 3칸 재이동 가능.",
       "SubSkills": null,
-      "Animation": "../img/Super/요슈아_Ani.gif"
+      "Animation": "../img/Super/요슈아_Ani.webp"
     }
   ],
   "Bio": [

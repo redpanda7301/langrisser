@@ -720,7 +720,7 @@
       "IconImageUrl": "../img/Super/쥬그라.webp",
       "Desc": "[물리피해] 스킬 사용 지점으로 순간이동하며<br/><b>(위치 이동 범위는 쥬그라 위치 기준으로 3칸)</b><br/>자신에게 [바다의 수호], [용의 방벽]의 사용효과 효과 획득,<br/>[야수의 공포] 의 이동불가 및 호위불가 효과를 얻는다.<br/>이후 [서리 숨결]을 시전",
       "SubSkills": null,
-      "Animation": "../img/Super/쥬그라_Ani.gif"
+      "Animation": "../img/Super/쥬그라_Ani.webp"
     }
   ],
   "Bio": [

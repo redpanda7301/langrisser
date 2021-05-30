@@ -614,7 +614,7 @@
       "IconImageUrl": "../img/Super/매튜.webp",
       "Desc": "[소환] 사용시 자신의 생명 최대치의 30%를 소모.<br/>자신의 현재 능력치와 동일한 검병 형태의 분신을 자신 주변에 소환한다.<br/>분신은 '바람 칼날' '공격 지휘' '검무' 스킬 보유<br/>분신이 사망후 생명 최대치 정상으로 회복",
       "SubSkills": null,
-      "Animation": "../img/Super/매튜_Ani.gif"
+      "Animation": "../img/Super/매튜_Ani.webp"
     }
   ],
   "Bio": [

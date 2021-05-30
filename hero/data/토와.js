@@ -580,7 +580,7 @@
           "Desc": "지원. '진법 - 절벽' 효과 획득 : 지휘.                                         <br/>주위 3칸 범위 내 아군의 방어 +15%,                                         <br/>'고정 피해' '위치 이동' 면역, 지속 3행동, 해제 불가"
         }
       ],
-      "Animation": "../img/Super/토와_Ani.gif"
+      "Animation": "../img/Super/토와_Ani.webp"
     }
   ],
   "Bio": null,

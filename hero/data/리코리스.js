@@ -645,7 +645,7 @@
       "IconImageUrl": "../img/Super/리코리스.webp",
       "Desc": "[마법피해]주위 5칸 내 모든 적군에게 0.3배 범위 피해를 입히고 디버프 1개 부여.<br/>동시에 범위내 아군의 생명 회복 및 디버프 1개 제거 회복량은 사용자 지력의 3배.",
       "SubSkills": null,
-      "Animation": "../img/Super/리코리스_Ani.gif"
+      "Animation": "../img/Super/리코리스_Ani.webp"
     }
   ],
   "Bio": [

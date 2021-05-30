@@ -555,7 +555,7 @@
       "IconImageUrl": "../img/Super/페라키아.webp",
       "Desc": "[물리 피해]직선상 단일 적군에게 0.2배의 물리피해를 주고<br/>자신의 영웅병종과 적군 영웅의 병종을 변환한다.<br/>적군의 [병종변환]효과는 2회의 피해를 입은후 제거된다, 3턴 지속.<br/>(해당 효과는 제거불가하며, 병종변화는 병종간 상성에만 영향을 준다.)",
       "SubSkills": null,
-      "Animation": "../img/Super/페라키아_Ani.gif"
+      "Animation": "../img/Super/페라키아_Ani.webp"
     }
   ],
   "Bio": [

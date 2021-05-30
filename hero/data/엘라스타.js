@@ -531,7 +531,7 @@
       "IconImageUrl": "../img/Super/엘라스타.webp",
       "Desc": "[물리 피해]단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.<br/>전투 전 적군의 버프 2개를 디버프로 전환시키며,<br/>전환된 디버프 1개당 입히는피해 +20%.<br/>전투후, 자신의 지형을 \"숲\"지형으로 간주한다. 1턴 지속.",
       "SubSkills": null,
-      "Animation": "../img/Super/엘라스타_Ani.gif"
+      "Animation": "../img/Super/엘라스타_Ani.webp"
     }
   ],
   "Bio": [

@@ -542,7 +542,7 @@
       "IconImageUrl": "../img/Super/크림조의왕.webp",
       "Desc": "[패시브] <b>피격으로 피해를 입을 경우</b> '<b><font color=\"blue\">달 그림자</font></b>' 효과 획득 : <br/>받는 범위 피해 <font color=\"red\">-25</font>%, <b>행동 종료 시</b> 자신에게 걸린 디버프 <font color=\"red\">3</font>개 제거, 지속 <font color=\"red\">1</font>행동. <br/><b>'<font color=\"blue\">달 그림자</font>' 효과 보유 시 적의 일반 공격 및 스킬의 목표가 되지 않음</b> 쿨타임 <font color=\"red\">3</font>턴<br/>[액티브] 스킬 사용 지점으로 <font color=\"blue\">텔레포트</font> 후 주위 <font color=\"red\">3</font>칸 범위 내에 있는 적에게 <font color=\"red\">0.35</font>배 피해를 입히며, <br/>버프 <font color=\"red\">1</font>개 를 <b>강탈</b>하고 강력한 디버프 <font color=\"red\">1</font>개 부여 및 '<b><font color=\"purple\">달의 암면</font></b>' 효과 획득 : <br/>자신 주위 <font color=\"red\">2</font>칸 범위 내 모든 적에게 받는 치료 <font color=\"red\">-50</font>% 효과 부여, 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/크림조의왕_Ani.gif"
+      "Animation": "../img/Super/크림조의왕_Ani.webp"
     }
   ],
   "Bio": null,

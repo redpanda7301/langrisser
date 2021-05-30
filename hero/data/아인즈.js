@@ -537,19 +537,19 @@
           "Value": "선택"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Ains5_1.webp",
+      "IconImageUrl": "../img/Super/아인즈_1.webp",
       "Desc": "[액티브]아래 3가지 소원중 1가지 소원을 선택 가능<br/>(이 스킬로 얻은 강화효과는 제거불가)",
       "SubSkills": [
         {
           "Name": "<b><font color=\"#0070c0\">불사의몸</font></b>",
           "Entries": null,
-          "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Ains5_3.webp",
+          "IconImageUrl": "../img/Super/아인즈_2.webp",
           "Desc": "[지원]부대의 최대생명력 +15% 및 생명력회복 100%<br/>(제거불가, 전장중 사용 1회 제한)"
         },
         {
           "Name": "<b><font color=\"#0070c0\">비행</font></b>",
           "Entries": null,
-          "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Ains5_2.webp",
+          "IconImageUrl": "../img/Super/아인즈_3.webp",
           "Desc": "[지원]이동력+1, 부대의 이동방식이 '비행'으로 변한다.<br/>(제거불가, 전장중 사용 1회 제한)"
         },
         {
@@ -572,11 +572,11 @@
               "Value": "4칸"
             }
           ],
-          "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Ains5_4.webp",
+          "IconImageUrl": "../img/Super/아인즈_4.webp",
           "Desc": "[마법피해]범위 내의 다수의 적군에게 0.3배의 범위피해를 입힌다.<br/>적이 방어지형이 아니라면 2개의 강화효과를 약화효과로 변환한다.<br/>별에 소원을 쿨타임을 3턴으로 바꾼다."
         }
       ],
-      "Animation": "../img/Super/아인즈_Ani.gif"
+      "Animation": "../img/Super/아인즈_Ani.webp"
     }
   ],
   "Bio": null,

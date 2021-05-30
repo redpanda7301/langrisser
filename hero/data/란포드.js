@@ -601,7 +601,7 @@
       "IconImageUrl": "../img/Super/란포드.webp",
       "Desc": "[지휘]고유기술 범위내의 모든[혼합부대]는 능력치감소 속성에 면역.<br/>[물리 피해]단일 적에게 1.6배 피해를 입힘, 치명타 확률 +20%.<br/>전투전 적군의 2개 버프 제거.<br/>적 부대 격퇴시, 해당 스킬의 쿨타임 -4,<br/>적 부대를 격퇴하지 못하고 치명타가 발생한 경우, 해당 스킬의 쿨타임 -3.",
       "SubSkills": null,
-      "Animation": "../img/Super/란포드_Ani.gif"
+      "Animation": "../img/Super/란포드_Ani.webp"
     }
   ],
   "Bio": [

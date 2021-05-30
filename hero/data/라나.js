@@ -655,7 +655,7 @@
       "IconImageUrl": "../img/Super/라나.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>진입 전투전 병사의 사거리+1, <br/>전투 후 준 피해량의 30%만큼 회복한다.<br/>'보병','기병','창병','비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
-      "Animation": "../img/Super/라나_Ani.gif"
+      "Animation": "../img/Super/라나_Ani.webp"
     }
   ],
   "Bio": [

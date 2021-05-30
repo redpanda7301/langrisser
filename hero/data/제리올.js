@@ -536,7 +536,7 @@
       "IconImageUrl": "../img/Super/제리올.webp",
       "Desc": "[레이라의 축복]<br/>레이라가 자신의 힘을 제리올이랑 합체하여 다크 나이트로 변신하며 '고급 증폭술'획득<br/>영웅이 입히는 모든 피해를 물리 피해로 간주하고 지력의 50% 수치를 공격에 추가. 지속 2회합<br/>사용후 3칸 이동가능하며 다시 공격 할 수 있다.<br/>지속 2회합이 끝나면 [제리올의 호위]로 변경<br/>해당 스킬은 면역 및 해제 불가",
       "SubSkills": null,
-      "Animation": "../img/Super/제리올_Ani.gif"
+      "Animation": "../img/Super/제리올_Ani.webp"
     }
   ],
   "Bio": [

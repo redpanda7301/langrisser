@@ -591,7 +591,7 @@
       "IconImageUrl": "../img/Super/디하르트.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.치명타율 +20%.<br/>치명타가 발생한다면 전투 후 준 피해량의 30%만큼 회복한다.<br/>전투 전 상대가 가진 버프를 최대 2개 뺏어온다.<br/>이 스킬로 적군을 격파하지 못해도 자신이 보유한 '적군 격파시 발동'효과를 발동.",
       "SubSkills": null,
-      "Animation": "../img/Super/디하르트_Ani.gif"
+      "Animation": "../img/Super/디하르트_Ani.webp"
     }
   ],
   "Bio": [

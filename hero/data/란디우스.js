@@ -599,7 +599,7 @@
       "IconImageUrl": "../img/Super/란디우스.webp",
       "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다. 위치 이동 면역.<br/>[지휘]주위 2칸 내 모든 아군이 받는 치명타 확률 -30%, 받는 원거리 피해 -15%, 받는 치료 효과 +15%.<br/>[액티브]호위 범위 2칸으로 상승, 지휘 범위 3칸으로 상승,<br/>주위 2칸 범위내 모든 적군의 '재이동 불가', 3턴 지속.",
       "SubSkills": null,
-      "Animation": "../img/Super/란디우스_Ani.gif"
+      "Animation": "../img/Super/란디우스_Ani.webp"
     }
   ],
   "Bio": [

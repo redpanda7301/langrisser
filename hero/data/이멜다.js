@@ -612,7 +612,7 @@
       "IconImageUrl": "../img/Super/이멜다.webp",
       "Desc": "[지원]전장에서 단일 아군에게 0.1배의 마법 피해를 입히고,<br/>모든 디버프를 제거하며 이동력+2, 공격능력대폭상승.<br/>(입히는 모든피해,치명타확률,치명타피해,고정피해,공격,지력,기술 +10%)<br/>2턴 지속(제거불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/이멜다_Ani.gif"
+      "Animation": "../img/Super/이멜다_Ani.webp"
     }
   ],
   "Bio": [

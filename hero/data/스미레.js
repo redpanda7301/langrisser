@@ -517,7 +517,7 @@
       "IconImageUrl": "../img/Super/스미레.webp",
       "Desc": "[물리피해] 자신 주변 2바퀴 범위내 모든 적에게 0.36배의 범위 피해 및<br/>[비룡의 춤], [초호위]효과 획득. 지속 2회합<br/>[비룡의 춤] : 부대의 보통 공격 사거리 +1 ;<br/>전투 진입 전, 자신의 기술이 적군보다 높을시, 적군보다 선제 공격.<br/>[초 호위] :2칸 이내 아군이 공격을 받을 시 대신하여 공격을 받는다",
       "SubSkills": null,
-      "Animation": "../img/Super/스미레_Ani.gif"
+      "Animation": "../img/Super/스미레_Ani.webp"
     }
   ],
   "Bio": [

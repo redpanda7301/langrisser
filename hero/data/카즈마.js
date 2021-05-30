@@ -506,7 +506,7 @@
       "IconImageUrl": "../img/Super/카즈마.webp",
       "Desc": "[액티브]자신에게 '<font color=\"blue\">영검 이도류</font>', '<font color=\"blue\">영능 수리검</font>' 효과 부여<br/>영검 이도류 : 피해 <font color=\"red\">+20</font>%, <b>근접 일반 공격시 영웅 공격</b> <font color=\"red\">2</font>회<br/>영능 수리검 : <b>부대 일반 공격 사거리</b> <font color=\"red\">+1</font><br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가, 면역 불가</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/카즈마_Ani.gif"
+      "Animation": "../img/Super/카즈마_Ani.webp"
     }
   ],
   "Bio": [

@@ -521,7 +521,7 @@
       "IconImageUrl": "../img/Super/아슈람.webp",
       "Desc": "[물리피해]단일 개체 <font color=\"red\">1.7</font>배 피해, 전투 진입 전 '[<b><font color=\"blue\">바람타기</font></b>]' 효과 획득, 지속 <font color=\"red\">2</font>턴<br/>스킬 사용 후 <b>해당 스킬 피해 영구 감소 <font color=\"red\">15</font>% (최대 <font color=\"red\">30</font>%)</b><br/>전투 후 <b><font color=\"blue\">재이동</font></b> <font color=\"red\">3</font>칸 기회, 해당 스킬은 '<b><font color=\"blue\">절육</font></b>'으로 변환",
       "SubSkills": null,
-      "Animation": "../img/Super/아슈람_Ani.gif"
+      "Animation": "../img/Super/아슈람_Ani.webp"
     }
   ],
   "Bio": [

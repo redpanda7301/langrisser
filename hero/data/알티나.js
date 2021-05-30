@@ -540,7 +540,7 @@
       "IconImageUrl": "../img/Super/알티나.webp",
       "Desc": "[마법 피해] 범위내 다수의 적군에게 0.4배의 범위 피해를 준다.<br/>동시에 적군에게 \"치명타확률 -20%\",\"치명타피해 -20%\",\"기술-20%\" 부여, 2턴 지속.",
       "SubSkills": null,
-      "Animation": "../img/Super/알티나_Ani.gif"
+      "Animation": "../img/Super/알티나_Ani.webp"
     }
   ],
   "Bio": [

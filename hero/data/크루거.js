@@ -590,7 +590,7 @@
       "IconImageUrl": "../img/Super/크루거_2.webp",
       "Desc": "[마법 피해]. 주위 <font color=\"red\">5</font>칸 <font color=\"red\">0.36</font>배 범위 피해, <br/>명중한 적에게 랜덤한 디버프 <font color=\"red\">2</font>개 부여, <br/>명중한 적 <font color=\"red\">1</font>명 당 '<font color=\"blue\">자라나는 죄악</font>' 쿨 <font color=\"red\">-1</font>, <br/>사용 후 해당 스킬은 '<font color=\"blue\">자라나는 죄악</font>'으로 변경",
       "SubSkills": null,
-      "Animation": "../img/Super/크루거_Ani.gif"
+      "Animation": "../img/Super/크루거_Ani.webp"
     }
   ],
   "Bio": null,

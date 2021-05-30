@@ -619,7 +619,7 @@
       "IconImageUrl": "../img/Super/루나.webp",
       "Desc": "[지원] 사용시 [고급 바람의 포옹] 획득 : 자신의 '마방'의 1.5배를 '공격'으로 대체한다.<br/>(해당효과는 해제불가능), 지속 6회합<br/>또한 [풍신의 영역] 획득 : 자신 주변 2칸내 비병이아닌 다른 아군이 이동시<br/>이동력 제한을 2칸만큼 면제 해준다. 지속 2회합.<br/>사용후 3칸 이동가능하며 다시 공격 할 수 있다.",
       "SubSkills": null,
-      "Animation": "../img/Super/루나_Ani.gif"
+      "Animation": "../img/Super/루나_Ani.webp"
     }
   ],
   "Bio": [

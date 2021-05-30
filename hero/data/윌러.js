@@ -601,7 +601,7 @@
       "IconImageUrl": "../img/Super/윌러.webp",
       "Desc": "[지원]액티브 스킬, 영웅의 남은 체력 99%를 소모하여, 영웅의 고유기술중 [영웅사망]효과를 발동.<br/>동시에 자신을 제외한 모든 아군에게 입히는피해 +15%, 받는피해 -15%, 3턴 지속.",
       "SubSkills": null,
-      "Animation": "../img/Super/윌러_Ani.gif"
+      "Animation": "../img/Super/윌러_Ani.webp"
     }
   ],
   "Bio": [

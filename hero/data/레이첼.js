@@ -622,7 +622,7 @@
       "IconImageUrl": "../img/Super/Skill_SpectralEcho.webp",
       "Desc": "[마법피해] 자신 주위 5칸 범위의 모든 적군에게 0.3배의 범위 피해를 입힌다.<br/>적과의 거리가 가까울수록 피해량이 증가. 거리가 감소할때 마다 피해량 +10%(최대 50%)<br/>및 적군에게 [마력 여파] 디버프 5개부여.<br/>[마력 여파] : 행동 종료시 레이첼 지력의 0.5배의 [고정피해]. 중첩가능하며 지속 2회합.",
       "SubSkills": null,
-      "Animation": "../img/Super/레온_Ani.gif"
+      "Animation": "../img/Super/레온_Ani.webp"
     }
   ],
   "Bio": [

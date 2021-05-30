@@ -984,7 +984,7 @@
       "IconImageUrl": "../img/Super/헤인.webp",
       "Desc": "[마법피해] 범위내 모든 적군에게 0.2배의 범위 피해를 입히며,<br/>공격 범위내 모든 지형에 [마도폐허]를 부여한다.<br/>[마도폐허] : 적군이 해당 위치로 이동할 경우 적군에게 이동력-2, 지속 1회합<br/>헤인의 고유기 [지식 전승]의 중첩이 많을 수록 기술의 사거리및 효과범위 증가<br/>(최대 사거리 4, 최대범위 4까지 증가 가능.)",
       "SubSkills": null,
-      "Animation": "../img/Super/헤인_Ani.gif"
+      "Animation": "../img/Super/헤인_Ani.webp"
     }
   ],
   "Bio": [

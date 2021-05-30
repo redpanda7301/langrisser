@@ -609,7 +609,7 @@
       "IconImageUrl": "../img/Super/레온.webp",
       "Desc": "[물리피해] 단일 적군을 공격하여 1.7배의 물리 피해를 입힌다.<br/>전투후 행동 종료 시 자신 주위 1바퀴 범위내 모든 적군에게 0.3배의 범위피해를 입힌다.<br/>명중한 적군의 위치를 변화시키고 랜덤한 디버프를 부여한다.",
       "SubSkills": null,
-      "Animation": "../img/Super/레온_Ani.gif"
+      "Animation": "../img/Super/레온_Ani.webp"
     }
   ],
   "Bio": [

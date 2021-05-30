@@ -518,7 +518,7 @@
       "IconImageUrl": "../img/Super/올리비에.webp",
       "Desc": "[물리피해] 범위 내 적에게 <font color=\"red\">0.38</font>배 피해 및 <br/>적에게 '피해 <font color=\"red\">-20</font>%' '받는 피해 <font color=\"red\">+20</font>%' 효과 부여, 지속 <font color=\"red\">2</font>행동<br/> <font color=\"red\">15</font>% 확률로 명중된 적 영웅의 <b><font color=\"blue\">일반 공격 봉인</font></b>, 지속 <font color=\"red\">1</font>턴 <b>(해제 불가)</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/올리비에_Ani.gif"
+      "Animation": "../img/Super/올리비에_Ani.webp"
     }
   ],
   "Bio": [

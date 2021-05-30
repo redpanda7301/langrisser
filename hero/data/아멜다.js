@@ -667,7 +667,7 @@
       "IconImageUrl": "../img/Super/아멜다.webp",
       "Desc": "[지원] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 동시에 [조롱] 획득.<br/>[조롱]: \"행동 종료시, 주위 4칸 이내 2기 적군에게 1개의 디버프 부여\", 2턴 지속.",
       "SubSkills": null,
-      "Animation": "../img/Super/아멜다_Ani.gif"
+      "Animation": "../img/Super/아멜다_Ani.webp"
     }
   ],
   "Bio": [

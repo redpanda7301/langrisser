@@ -531,7 +531,7 @@
       "IconImageUrl": "../img/Super/히미코.webp",
       "Desc": "[물리피해]치명타 확률 <font color=\"red\">+20</font>%<br/><font color=\"red\">3</font>줄 직선 적에게 <font color=\"red\">0.38</font>배 피해 및 이동력을 랜덤하게 <font color=\"red\">1~3</font> 저하. <br/>지속 <font color=\"red\">2</font>턴. <br/><b>해당 공격으로 적을 <font color=\"red\">3</font>명 이상 명중시킨 경우</b> 쿨타임 <font color=\"red\">-3</font>",
       "SubSkills": null,
-      "Animation": "../img/Super/히미코_Ani.gif"
+      "Animation": "../img/Super/히미코_Ani.webp"
     }
   ],
   "Bio": null,

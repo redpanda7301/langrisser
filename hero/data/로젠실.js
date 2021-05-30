@@ -541,7 +541,7 @@
       "IconImageUrl": "../img/Super/로젠실.webp",
       "Desc": "[변신]<b>대규모 범위 내 다수의 부대 생명을 로젠실 지력 <font color=\"red\">3</font>배 수치로 회복</b> 및 <br/>'<font color=\"blue\">수정 치유</font>' 효과 획득:<br/><b>피격으로 피해를 입은 후</b> 로젠실 지력 <font color=\"red\">1.5</font>배 수치로 생명 회복, 지속 <font color=\"red\">2</font>행동<br/>사용 후 '<font color=\"blue\">수정 결인</font>' 상태 진입 :<br/><b><font color=\"red\">공격 및 스킬 사용 불가 및 스스로 이동 및 위치 변경 불가</font>(디메리트)</b>, <br/>치유량 <font color=\"red\">+20</font>%, 받는 피해량 <font color=\"red\">-20</font>%, <b><font color=\"purple\">고유 스킬</font> 지휘 효과 범위</b> <font color=\"red\">+1</font>, <font color=\"red\">1</font>회 부활, <br/><b>행동 종료 시 자신의 <font color=\"purple\">고유 스킬</font> 범위 안에 있는 다른 아군을</b><br/>로젠실 지력 <font color=\"red\">2</font>배 수치만큼 회복 및 '<font color=\"blue\">수정 장벽</font>' <font color=\"red\">2</font>개 효과 부여, 지속 <font color=\"red\">2</font>행동<br/>'<font color=\"blue\">수정 결인</font>'의 효과는 <b>해제 불가 및 면역 불가</b>, <br/><b>해당 스킬 지속 시간 동안 <font color=\"blue\">불굴</font> 효과</b>는 최대 <font color=\"red\">1</font>회 발동)",
       "SubSkills": null,
-      "Animation": "../img/Super/로젠실_Ani.gif"
+      "Animation": "../img/Super/로젠실_Ani.webp"
     }
   ],
   "Bio": null,

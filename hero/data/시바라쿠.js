@@ -517,7 +517,7 @@
       "IconImageUrl": "../img/Super/시바라쿠.webp",
       "Desc": "[물리피해] 단일적군을 공격해 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투후 행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 내 적에게 <font color=\"red\">0.33</font>배 범위 피해 및<br/>적에게 다음 턴 행동 종료 시 최대 생명 <font color=\"red\">20</font>% 고정피해 부여",
       "SubSkills": null,
-      "Animation": "../img/Super/시바라쿠_Ani.gif"
+      "Animation": "../img/Super/시바라쿠_Ani.webp"
     }
   ],
   "Bio": null,

@@ -655,7 +655,7 @@
       "IconImageUrl": "../img/Super/플로렌티아.webp",
       "Desc": "[마법피해]사용시 1개의 [전략]획득. 3줄 직선상 모든 적군을 공격하여<br/>0.3배의 마법피해를 입히고, 디버프 1개 부여. <br/>동시에 범위내 아군의 생명을 회복 및 디버프 1개 제거(회복량 지력 3배)<br/>2명 이상의 적군 명중시 전투후 추가로 1개의 전략 획득.",
       "SubSkills": null,
-      "Animation": "../img/Super/플로렌티아_Ani.gif"
+      "Animation": "../img/Super/플로렌티아_Ani.webp"
     }
   ],
   "Bio": [

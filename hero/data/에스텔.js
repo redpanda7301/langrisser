@@ -519,7 +519,7 @@
       "IconImageUrl": "../img/Super/에스텔.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대 생명 30%회복 및<br/>공격,지력,방어,마방,기술 +12.66%,'이동력'+1, 6턴 지속.",
       "SubSkills": null,
-      "Animation": "../img/Super/에스텔_Ani.gif"
+      "Animation": "../img/Super/에스텔_Ani.webp"
     }
   ],
   "Bio": [

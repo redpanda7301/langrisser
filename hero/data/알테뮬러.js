@@ -887,7 +887,7 @@
       "IconImageUrl": "../img/Super/알테뮬러.webp",
       "Desc": "[물리피해] 단일적군을 공격해 1.5배의 피해를 준다.<br/>전투 후 주위 1바퀴 범위내에 2명이상의 적군이 있을경우, <br/>다시 공격이 가능하지만 이동과 재이동은 불가능.<br/>(이 재행동효과는 1회합내 2회 이상 발동불가능.)<br/>이 스킬로 적군을 격파시 쿨타임 -6턴.<br/>([재발동]까지 1턴이 필요)]",
       "SubSkills": null,
-      "Animation": "../img/Super/알테뮬러_Ani.gif"
+      "Animation": "../img/Super/알테뮬러_Ani.webp"
     }
   ],
   "Bio": [

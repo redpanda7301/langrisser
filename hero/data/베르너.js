@@ -604,7 +604,7 @@
           "Desc": "[지원] 자신 부대가 받는 피해 <font color=\"red\">-15</font>%, <b><font color=\"blue\">위치 이동 면역</font></b>, 반격 피해 <font color=\"red\">+20</font>%, <br/>행동 종료 시 부대 생명 <font color=\"red\">35</font>% 수치 생명 회복"
         }
       ],
-      "Animation": "../img/Super/베르너_Ani.gif"
+      "Animation": "../img/Super/베르너_Ani.webp"
     }
   ],
   "Bio": null,

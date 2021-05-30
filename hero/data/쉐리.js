@@ -912,7 +912,7 @@
       "IconImageUrl": "../img/Super/쉐리.webp",
       "Desc": "[물리피해] 단일 적군을 공격하여 1.6배의 물리피해를 입힌다.<br/>전투후 입힌 피해량의 100% 만큼 생명력을 회복.<br/>이 스킬로 적을 처치 시 스킬 쿨타임 -4.<br/>처지 하지 못할 경우 적군에게 [기절] 부여, 지속 1회합(제거불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/쉐리_Ani.gif"
+      "Animation": "../img/Super/쉐리_Ani.webp"
     }
   ],
   "Bio": [

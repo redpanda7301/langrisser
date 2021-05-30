@@ -572,7 +572,7 @@
       "IconImageUrl": "../img/Super/팟시르.webp",
       "Desc": "[패시브]팟시르 사망 시, 전장에 있는 적군 중 모든 '<b><font color=\"dark pink\">여성</font>이 아닌 영웅</b>'에게 '패시브 봉인' 효과 부여 (해제 불가)                                        <br/>마법피해. 3줄 직선 상 적에게 0.1배, 대상이 '방어 지형이 아닌 지형'에 위치해 있을 경우 추가                                         <br/>고정 피해 (지력 2배 수치, 면역 불가), '그림자 저주' 효과 부여                                        <br/>그림자 저주 : '방어 지형이 아닌 지형'에서 행동 종료 시 고정 피해 (지력 1.5배 수치),                                        <br/>면역 불가, 지속 2행동 (그림자 저주 효과는 해제 불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/팟시르_Ani.gif"
+      "Animation": "../img/Super/팟시르_Ani.webp"
     }
   ],
   "Bio": null,

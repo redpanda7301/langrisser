@@ -529,7 +529,7 @@
       "IconImageUrl": "../img/Super/빈센트.webp",
       "Desc": "[패시브] 사망 시 생명 <font color=\"red\">50</font>% 수치로 <font color=\"blue\">부활</font> 및 <font color=\"blue\">파멸의 날개 사망</font> 효과 발동, <br/>해당 효과는 전장에서 최대 <font color=\"red\">1</font>회 발동.<br/>그 후 자신이 가하는 피해 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">1</font>행동, <br/><b>해당 효과는 해제 불가 및 면역 불가</b><br/>[액티브]자신을 선택한 적 <font color=\"red\">1</font>명 곁으로 이동 : <br/>목표를 향해 돌격 후 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해 입힌 후 <b>자신은 최대 생명 <font color=\"red\">30</font>% 수치의 고정피해를 받음</b>, <br/>스킬 사용 후 자신에게 걸린 모든 디버프를 제거 후 '<b>면역</b>' 효과 부여, 지속 <font color=\"red\">1</font>행동 <br/>(<b>해당 스킬의 위치 이동 및 고정 피해는 면역 및 감면 불가</b>)",
       "SubSkills": null,
-      "Animation": "../img/Super/빈센트_Ani.gif"
+      "Animation": "../img/Super/빈센트_Ani.webp"
     }
   ],
   "Bio": null,

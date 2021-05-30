@@ -608,7 +608,7 @@
       "IconImageUrl": "../img/Super/에마링크_3.webp",
       "Desc": "[액티브] 단일 부대에 <font color=\"blue\">반계</font> 효과 부여 : <br/><b>전투 진입 전 자신에게 걸린 디버프</b> <font color=\"red\">4</font>개 제거,<br/>제거하는 디버프 <font color=\"red\">1</font>개당 생명 <font color=\"red\">15</font>% 회복, <br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/에마링크_Ani.gif"
+      "Animation": "../img/Super/에마링크_Ani.webp"
     }
   ],
   "Bio": [

@@ -576,7 +576,7 @@
       "IconImageUrl": "../img/Super/비라쥬.webp",
       "Desc": "[패시브] <font color=\"blue\">불사자</font> 효과 발동 시, 자신이 위치한 지형을 <b><font color=\"blue\">물</font>로 간주</b>,  <br/><b>선공으로 전투 진입 전 해당 전투에 한해 <font color=\"blue\">자신에게 고정 피해 면역 부여</font></b><br/>[액티브]<font color=\"red\">1.5</font>배 단일 피해, 물에 있을 경우 2배 피해.  <br/><b>주위 2칸 범위에 아군이 없는 상태로 행동 종료 시 스킬 쿨 <font color=\"red\">-1</font></b>",
       "SubSkills": null,
-      "Animation": "../img/Super/비라쥬_Ani.gif"
+      "Animation": "../img/Super/비라쥬_Ani.webp"
     }
   ],
   "Bio": [

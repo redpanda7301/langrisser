@@ -560,7 +560,7 @@
       "IconImageUrl": "../img/Super/미지의기사.webp",
       "Desc": "[마법피해]  <font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 범위 피해, <br/><font color=\"blue\">기병에게 더 큰 데미지 준다</font> <br/>적에게 <font color=\"blue\">투구 스킬 상실</font> 부여, <br/>(목표가 플레이어의 캐릭이 아닐 경우 마방 <font color=\"red\">-25</font>%로 대체) 지속 <font color=\"red\">2</font>행동, <br/>명중한 적이 <b><font color=\"green\">숲</font></b>, <font color=\"green\">초원</font>, <font color=\"green\">산지</font>, <font color=\"blue\">물</font>에 <br/><b>위치해있을 경우</b> 랜덤한 버프 <font color=\"red\">1</font>개를 디버프 <font color=\"red\">1</font>개로 변환",
       "SubSkills": null,
-      "Animation": "../img/Super/미지의기사_Ani.gif"
+      "Animation": "../img/Super/미지의기사_Ani.webp"
     }
   ],
   "Bio": [

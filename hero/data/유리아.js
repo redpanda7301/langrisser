@@ -541,7 +541,7 @@
       "IconImageUrl": "../img/Super/유리아.webp",
       "Desc": "<br/>[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <br/><b>전투 전 자신에게 걸린 모든 <font color=\"blue\">디버프 제거</font> 및 생명 <font color=\"red\">30</font>% 회복</b>' 및<br/><b>적 버프 <font color=\"red\">2</font>개 제거</b>, <br/><b>만약 적이 이동력 <font color=\"red\">3</font>칸 미만이나 '기절' 상태일 경우 추가 <font color=\"red\">3</font>개 제거</b><br/><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br/><b>적을 격파 시 해당 스킬 쿨타임 <font color=\"red\">-3</font></b><br/><b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/유리아_Ani.gif"
+      "Animation": "../img/Super/유리아_Ani.webp"
     }
   ],
   "Bio": [

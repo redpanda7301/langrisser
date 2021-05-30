@@ -573,7 +573,7 @@
       "IconImageUrl": "../img/Super/젤다.webp",
       "Desc": "[액티브] 자신에게 걸린 모든 디버프 제거, 모든 병사를 제물로 바쳐 흡혈마검 효과 획득 <br/>(병사 회복 불가, 피해 +30%, 모든 디버프 면역, 공격 후 피해량 50% 수치만큼 생명 회복 ) 및 <br/>적을 퇴각시킨 후 3칸 재이동 기회 획득. 지속 1행동. <br/>사용 후 해당 스킬은 절명 일격으로 대체. <br/>다음 턴 행동 종료 시 마검의 마음으로 대체.",
       "SubSkills": null,
-      "Animation": "../img/Super/젤다_Ani.gif"
+      "Animation": "../img/Super/젤다_Ani.webp"
     }
   ],
   "Bio": [

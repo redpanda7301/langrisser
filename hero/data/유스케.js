@@ -529,7 +529,7 @@
       "IconImageUrl": "../img/Super/유스케.webp",
       "Desc": "[물리 피해]단일 적군을 공격해 1.4배의 피해를 입힌다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.<br/>[마인상태]일 경우 스킬 사거리 +1, 피해상승 +30%, 적군을 격파할 경우 쿨타임 -3<br/>적군을 격파하지 못할 경우 '치료 불가', 2턴 지속(해당 효과는 제거불가)",
       "SubSkills": null,
-      "Animation": "../img/Super/유스케_Ani.gif"
+      "Animation": "../img/Super/유스케_Ani.webp"
     }
   ],
   "Bio": [

@@ -540,7 +540,7 @@
       "IconImageUrl": "../img/Super/아이리스.webp",
       "Desc": "[치료]액티브. 자신을 텔레포트 시킨 후 주위 <font color=\"red\">4</font>칸 범위 내 아군 생명 회복 및 디버프 <font color=\"red\">3</font>개 제거,<br/>회복량은 술자 지력 <font color=\"red\">3</font>배 수치, 그리고 자신에게 효과 부여<br/>행동 종료 시 자신 주위 <font color=\"red\">2</font>칸 범위 내 아군 생명 회복 및 디버프 <font color=\"red\">1</font>개 제거, <br/>회복량은 술자 <font color=\"red\">2.5</font>배 수치, 지속 <font color=\"red\">3</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/아이리스_Ani.gif"
+      "Animation": "../img/Super/아이리스_Ani.webp"
     }
   ],
   "Bio": [

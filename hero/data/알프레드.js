@@ -569,7 +569,7 @@
       "IconImageUrl": "../img/Super/알프레드.webp",
       "Desc": "[패시브] <b>자신이 <font color=\"blue\">물</font>,<font color=\"dark green\">늪</font>, <font color=\"dark blue\">격류</font> 지형에 위치하지 않고</b>, <br/><b>공격을 하지 않고 행동을 종료 할 경우</b> '파도타기' 효과 획득. 지속 <font color=\"red\">1</font>행동 (쿨타임 <font color=\"red\">1</font>)  <br/><b>선공으로 전투 진입 전 해당 전투에 한해 <font color=\"blue\">자신에게 고정 피해 면역 부여</font></b><br/>[액티브]<font color=\"red\">1.6</font>배 단일 피해, 전투 전, '<font color=\"blue\">패시브 봉인</font>','<font color=\"blue\">강화 불가</font>'효과 부여<br/>(지속 <font color=\"red\">1</font>턴, <b>해제 불가</b>)<br/><b>이동력이 남아있다면 공격 후 재이동 가능</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/알프레드_Ani.gif"
+      "Animation": "../img/Super/알프레드_Ani.webp"
     }
   ],
   "Bio": [
