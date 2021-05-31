@@ -65,16 +65,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "적을 공격할 시 공격 <font color=\"red\">+5%</font>.<br/>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br/>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/> (해당 효과 제거 불가 <font color=\"red\">4</font>턴 간격으로 재발동 가능.)"
+          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+5%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">4</font>턴 간격으로 재발동 가능.</b>)"
         },
         {
-          "Desc": "적을 공격할 시 공격 <font color=\"red\">+8%</font>.<br/>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br/>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/> (해당 효과 제거 불가 <font color=\"red\">3</font>턴 간격으로 재발동 가능.)"
+          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+8%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">3</font>턴 간격으로 재발동 가능.</b>)"
         },
         {
-          "Desc": "적을 공격할 시 공격 <font color=\"red\">+11%</font>.<br/>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br/>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/> (해당 효과 제거 불가 <font color=\"red\">3</font>턴 간격으로 재발동 가능.)"
+          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+11%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">3</font>턴 간격으로 재발동 가능.</b>)"
         },
         {
-          "Desc": "적을 공격할 시 공격 <font color=\"red\">+15%</font>.<br/>이번 턴에 공격을 안할 시 및 방어 증가 지형에 있을 시 재행동 <font color=\"red\">1</font>회 가능. <br/>동시에 저격 버프 부여: 부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/> (해당 효과 제거 불가 <font color=\"red\">2</font>턴 간격으로 재발동 가능.)"
+          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+15%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">2</font>턴 간격으로 재발동 가능.</b>)"
         }
       ]
     }
@@ -91,16 +91,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전투 진입 시 공격 <font color=\"red\">+5%</font>  <br/>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br/>\"죽음의 그림자\" 효과 획득 : <br/>부대 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br/>선공 후 \"죽음의 그림자\" 효과 상실 및 <br/>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br/>(죽음의 그림자 효과는 해제 불가)."
+          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+5%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">죽음의 그림자</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">죽음의 그림자</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(죽음의 그림자 효과는 해제 불가)</b>"
         },
         {
-          "Desc": "전투 진입 시 공격 <font color=\"red\">+8%</font>  <br/>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br/>\"죽음의 그림자\" 효과 획득 : <br/>부대 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br/>선공 후 \"죽음의 그림자\" 효과 상실 및 <br/>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br/>(죽음의 그림자 효과는 해제 불가)."
+          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+8%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">죽음의 그림자</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">죽음의 그림자</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(죽음의 그림자 효과는 해제 불가)</b>"
         },
         {
-          "Desc": "전투 진입 시 공격 <font color=\"red\">+11%</font> <br/>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br/>\"죽음의 그림자\" 효과 획득 : <br/>부대 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br/>선공 후 \"죽음의 그림자\" 효과 상실 및 <br/>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br/>(죽음의 그림자 효과는 해제 불가)."
+          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+11%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">죽음의 그림자</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">죽음의 그림자</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(죽음의 그림자 효과는 해제 불가)</b>"
         },
         {
-          "Desc": "전투 진입 시 공격 <font color=\"red\">+15%</font> <br/>해당 턴에서 공격하지 않았을 경우 행동 종료 시 <br/>\"죽음의 그림자\" 효과 획득 : <br/>부대 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br/>선공 후 \"죽음의 그림자\" 효과 상실 및 <br/>영웅이 받는 물리피해<font color=\"red\">-30%</font> <br/>(죽음의 그림자 효과는 해제 불가)."
+          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+15%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">죽음의 그림자</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">죽음의 그림자</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(죽음의 그림자 효과는 해제 불가)</b>"
         }
       ]
     }
@@ -644,7 +644,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash5.webp",
-      "Desc": "[물리 피해]단일 적을 공격 하여 1.25배 피해를 입힌다.<br/>자신이 처해 있는 지형이 방어 지형일 시 전투 전 1회 고정 피해를 입힌다.<br/>(피해량은 영웅 공격의 1배).",
+      "Desc": "[물리 피해]단일 적을 공격 하여 <font color=\"red\">1.25</font>배 피해를 입힌다.<br/><b>자신이 위치한 지형이 방어 지형일 시 전투 전 <font color=\"red\">1</font>회 <font color=\"blue\">고정 피해</font>를 입힌다.</b><br/>(<font color=\"blue\">고정 피해</font> 데미지는 영웅 공격력의 <font color=\"red\">1</font>배).",
       "SubSkills": null,
       "Animation": null
     },
@@ -670,7 +670,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightErrant.webp",
-      "Desc": "[지원]액티브 스킬, 자신이 처해 있는 지형을 숲으로 취급, 1턴 지속.<br/>사용 후 재공격 가능.",
+      "Desc": "[지원]액티브 스킬, <b>자신이 위치한 지형을 <font color=\"green\">숲</font>으로 취급</b>, <font color=\"red\">1</font>턴 지속.<br/><b>사용 후 <font color =\"blue\">재공격</font> 가능</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -684,7 +684,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/11.webp",
-      "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br/>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
+      "Desc": "[패시브]공격 시 주는 피해량 <font color=\"red\">+10</font>%.<br/><b>전투 후</b> 다시 <font color=\"red\">2</font>칸 이동할 수 있다.<br/>재이동 효과는 <font color=\"red\">1</font>턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -698,12 +698,12 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.webp",
-      "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
+      "Desc": "<b>전투 진입 시 부대</b> 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "강풍 저격",
+      "Name": "강풍 <font color =\"purple\">저격</font>",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -724,7 +724,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash4.webp",
-      "Desc": "[물리 피해]단일 적을 공격 하여 0.8배 피해를 입힌다.<br/>목표와 거리가 멀 수록 피해가 커진다. 간격 1칸마다 피해 +15%(최대 90%).<br/>전투 후 자신의 이동력 +2, 1턴 지속.",
+      "Desc": "[물리 피해]단일 적을 공격 하여 <font color=\"red\">0.8</font>배 피해를 입힌다.<br/>목표와 거리가 멀 수록 피해가 커진다. 간격 <font color=\"red\">1</font>칸마다 피해 <font color=\"red\">+15</font>%(최대 90%).<br/><b>전투 후 자신의 이동력 +2</b><br/> <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -750,7 +750,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 공격 피해를 준다. <br/><b>자신이 방어 지형에 있을 시 전투 전</b> 대상에게 <font color =\"blue\">기절</font> 시전<br/><font color =\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -776,7 +776,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Crystal2.webp",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '전설의 저편' 아군의 <br/>공격, 방어가 상승 및 효과 부여: 생명이 80%이하일 시 피해 +15%. 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<font color =#0040D6>전설의 저편</font>' 아군의 <br/>공격, 방어가 상승 및 효과 부여:<br/><b>생명이 <font color =\"red\">80</font>%이하일 시</b> 피해 <font color =\"red\">+15</font>%<br/><font color =\"red\">4</font>턴 지속",
       "SubSkills": null,
       "Animation": null
     },
@@ -790,7 +790,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
+      "Desc": "[패시브]<b>전투 진입전 <font color =\"red\">50</font>% 확률</b>로 적의 공격, 지력 -20%, <font color =\"red\">1</font>턴지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -804,7 +804,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.webp",
-      "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
+      "Desc": "[패시브]<b>공격하여 전투 진입 시</b> 치명타율 <font color =\"red\">+10</font>%, 받는 피해량 <font color =\"red\">-20</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -818,7 +818,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/시그마/1.webp",
-      "Desc": "[패시브]기술 <font color=\"red\">+15%</font><br/>자신에게 죽음의 그림자 효과가 있을 경우, 선공 시 '암살자' 종류 병사는 <br/>영웅과 함께 공격 및 <font color=\"red\">3</font>칸 범위 내 공격 시 호위 무시",
+      "Desc": "[패시브]기술 <font color=\"red\">+15%</font><br/><b>자신에게 <font color=\"purple\">죽음의 그림자</font> 효과가 있을 경우, 선공 시 '암살자' 종류 병사는</b><br/>영웅과 함께 공격 및 <font color=\"red\">3</font>칸 범위 내 공격 시 호위 무시",
       "SubSkills": null,
       "Animation": null
     },
@@ -844,12 +844,12 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/시그마/2.webp",
-      "Desc": "[액티브] 레인저의 인장이 박힌 적 주위 <font color=\"red\">1</font>칸 범위 임의의 위치로 텔레포트 및 대상에게 <font color=\"red\">1.4</font>배 피해<br/>전투 진입 전 자신에게 '<font color=\"blue\">근접전 패널티 무효화</font>','<font color=\"blue\">모든 디버프에 면역</font>' 효과 부여, 지속 <font color=\"red\">2</font>행동<br/> 죽음의 그림자 효과가 있을 경우 전투에서 쌍방 병사는 공격을 하지 않으며, 상대 영웅을 직접 공격<br/> 전투 후 부대 생명 <font color=\"red\">50</font>% 회복 및 '반격 피해 <font color=\"red\">+50</font>%' '이동력 <font color=\"red\">+3</font>' 효과 획득, 지속 <font color=\"red\">1</font>행동 (해당 효과는 해제 불가)<br/>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
+      "Desc": "[액티브]<b><font color =\"blue\">레인저 마크</font>가 박힌 적 주위 <font color=\"red\">1</font>칸 범위 임의의 위치로 <font color =\"blue\">텔레포트</font></b> 및<br/> 대상에게 <font color=\"red\">1.4</font>배 피해<br/><b>전투 진입 전 자신에게</b> '<font color=\"blue\">근접전 패널티 무효화</font>','<font color=\"blue\">모든 디버프에 면역</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b><font color=\"purple\">죽음의 그림자</font> 효과가 있을 경우 전투에서 쌍방 병사는 공격을 하지 않으며<br/>상대 영웅을 직접 공격</b><br/><b>전투 후 부대 생명</b> <font color=\"red\">50</font>% 회복 및 '반격 피해 <font color=\"red\">+50</font>%' '이동력 <font color=\"red\">+3</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>(<b>해당 효과는 해제 불가)<br/>(<b>해당 스킬은 버프 지속 시간을 감소시키지 않음</b>)",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "레인저의 눈",
+      "Name": "레인저 아이",
       "Cost": "COST 3",
       "Entries": [
         {
@@ -870,8 +870,35 @@
         }
       ],
       "IconImageUrl": "../img/Super/시그마.webp",
-      "Desc": "[액티브]액티브 스킬. 목표에게 [레인저의 인장]부여:<br/>\"시그마에게 받는 피해 +15%\"(해제와 면역 불가, <br/>시그마의 공격을 받아 피해를 입은후 [레인저의 인장]해제).<br/>동시에 [바람사냥]으로 전환:<br/>\"[물리피해]단일 적군을 공격하여 1.5배의 피해를 입힌다.<br/>비병에 특효가 있다. 사용후 [레인저의 눈]으로 전환\"",
-      "SubSkills": null,
+      "Desc": "[액티브]목표에게 [<font color=\"blue\">레인저 마크</font>]부여:<br/><b>시그마에게 받는 피해</b> <font color=\"red\">+15</font>%(<b>해제 및 면역 불가</b>)<br/><b>시그마의 공격을 받아 피해를 입은후</b> [<font color=\"blue\">레인저 마크</foint>]해제).<br/>동시에 [<font color=\"blue\">신속한 사냥</font>]으로 전환:",
+      "SubSkills": [
+        {
+          "Name": "신속한 사냥",
+          "Cost": "COST 2",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "물리 피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "사거리",
+              "Value": "4칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/Super/시그마_1.webp",
+          "Desc": "[물리피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배의 피해를 입힌다.<br/><b>'비병'에 더 큰 데미지를 준다.</b>. 사용 후 [<font color=\"blue\">레인저 아이</font>]으로 전환",
+          "SubSkills": null,
+          "Animation": null
+        }
+      ],
       "Animation": "../img/Super/시그마_Ani.webp"
     }
   ],

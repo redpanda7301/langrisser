@@ -334,57 +334,84 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "창병 소환(고유 스킬)",
-      "Cost": null,
+      "Name": "용병 소환",
+      "Cost": "-",
       "Entries": [
         {
           "Label": "유형",
-          "Value": "용병 소환"
+          "Value": "고유기"
         },
         {
           "Label": "쿨타임",
-          "Value": "2턴"
-        }
-      ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_1.webp",
-      "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">저지, 창진</font>",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "보병 소환(고유 스킬)",
-      "Cost": null,
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "용병 소환"
+          "Value": "-"
         },
         {
-          "Label": "쿨타임",
-          "Value": "2턴"
-        }
-      ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_2.webp",
-      "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">힘의 외침, 공격 지휘</font>",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "기병 소환(고유 스킬)",
-      "Cost": null,
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "용병 소환"
+          "Label": "사거리",
+          "Value": "자신"
         },
         {
-          "Label": "쿨타임",
-          "Value": "2턴"
+          "Label": "범위",
+          "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_3.webp",
-      "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">맹렬한 돌격, 폭풍</font>",
-      "SubSkills": null,
+      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/ability/Gift_SissiWhite.webp",
+      "Desc": "<b>행동 종료 전</b> 하기 용병을 선택한다.",
+      "SubSkills": [
+        {
+          "Name": "창병 소환",
+          "Cost": null,
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "용병 소환"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "2턴"
+            }
+          ],
+          "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_1.webp",
+          "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">저지, 창진</font>",
+          "SubSkills": null,
+          "Animation": null
+        },
+        {
+          "Name": "보병 소환",
+          "Cost": null,
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "용병 소환"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "2턴"
+            }
+          ],
+          "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_2.webp",
+          "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">힘의 외침, 공격 지휘</font>",
+          "SubSkills": null,
+          "Animation": null
+        },
+        {
+          "Name": "기병 소환",
+          "Cost": null,
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "용병 소환"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "2턴"
+            }
+          ],
+          "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/WhiteSisi/0_3.webp",
+          "Desc": "[액티브]「<b><font color=\"gold\">전쟁 자금</font></b>」 <font color=\"red\">2</font>개를 소모하며, <font color=\"red\">1</font>개의 부대만 소환가능.<br/>해당 용병은 스킬은 <font color=\"blue\">맹렬한 돌격, 폭풍</font>",
+          "SubSkills": null,
+          "Animation": null
+        }
+      ],
       "Animation": null
     },
     {
@@ -606,61 +633,62 @@
       ],
       "IconImageUrl": "../img/Super/화이트시시_0.webp",
       "Desc": "[패시브] 전장에 있는 소환수 사망 시 전쟁 자금 1개 획득 <br/>[액티브]하기 스킬중 선택",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "올인(상업 전쟁의 모략에서 선택)",
-      "Cost": null,
-      "Entries": [
+      "SubSkills": [
         {
-          "Label": "유형",
-          "Value": "지원"
+          "Name": "올인",
+          "Cost": null,
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "지원"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "2턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "3칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/Super/화이트시시_1.webp",
+          "Desc": "[액티브] 목표 부대 생명 100% 회복 및 '공격 지력' '방어' +30%, '피해 +10%' 부여, 지속 <font color=\"red\">1</font>행동<br/>해당 부대가 <b>이미 행동 종료한 경우</b> <font color=\"blue\">재행동</font><br/><b>해당 스킬을 사용 후 <font color=\"blue\">상업 전쟁의 모략</font>은 쿨 2턴으로 조정</b><br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">5</font>개 소모",
+          "SubSkills": null,
+          "Animation": null
         },
         {
-          "Label": "쿨타임",
-          "Value": "2턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "3칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
+          "Name": "장기투자",
+          "Cost": null,
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "지원"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "사거리",
+              "Value": "3칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/Super/화이트시시_2.webp",
+          "Desc": "[액티브] 아군 <font color=\"red\">1</font>개 부대 생명 회복 (지력 <font color=\"red\">2</font>배 수치) 및 '<font color=\"blue\">투자</font>' 효과 부여 : <br/><b>턴 시작 시</b> 랜덤한 버프 <font color=\"red\">1</font>개 획득, <br/><b>격파하는 적 <font color=\"red\">1</font>명 당</b> 화이트 시시가 「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">2</font>개 획득, 지속 <font color=\"red\">3</font>행동, <br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">1</font>개 소모. <b>해제 불가,면역 불가</b>",
+          "SubSkills": null,
+          "Animation": null
         }
       ],
-      "IconImageUrl": "../img/Super/화이트시시_1.webp",
-      "Desc": "[액티브] 목표 부대 생명 100% 회복 및 '공격 지력' '방어' +30%, '피해 +10%' 부여, 지속 <font color=\"red\">1</font>행동<br/>해당 부대가 <b>이미 행동 종료한 경우</b> <font color=\"blue\">재행동</font><br/><b>해당 스킬을 사용 후 <font color=\"blue\">상업 전쟁의 모략</font>은 쿨 2턴으로 조정</b><br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">5</font>개 소모",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "장기투자(상업 전쟁의 모략에서 선택)",
-      "Cost": null,
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "지원"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "-"
-        },
-        {
-          "Label": "사거리",
-          "Value": "3칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/Super/화이트시시_2.webp",
-      "Desc": "[액티브] 아군 <font color=\"red\">1</font>개 부대 생명 회복 (지력 <font color=\"red\">2</font>배 수치) 및 '<font color=\"blue\">투자</font>' 효과 부여 : <br/><b>턴 시작 시</b> 랜덤한 버프 <font color=\"red\">1</font>개 획득, <br/><b>격파하는 적 <font color=\"red\">1</font>명 당</b> 화이트 시시가 「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">2</font>개 획득, 지속 <font color=\"red\">3</font>행동, <br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">1</font>개 소모. <b>해제 불가,면역 불가</b>",
-      "SubSkills": null,
       "Animation": "../img/Super/화이트시시_Ani.webp"
-    }
+    },
   ],
   "Bio": null,
   "Performance": null

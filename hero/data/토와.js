@@ -57,16 +57,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "아군에게 받는 버프 지속 시간 +1 자신에게 걸린 버프 1개 마다 공격 방어<font color=\"red\">+1%</font> 최대 <font color=\"red\">+5%</font>"
+          "Desc": "<b><font color=\"blue\">아군에게 받는 버프</font></b> 지속 시간 <font color=\"red\">+1</font><br/><b>자신에게 걸린 버프 <font color=\"red\">1</font>개 마다 공격 방어</b><font color=\"red\">+1%</font><<br/>최대 <font color=\"red\">+5%</font>"
         },
         {
-          "Desc": "아군에게 받는 버프 지속 시간 +1 자신에게 걸린 버프 1개 마다 공격 방어<font color=\"red\">+2%</font> 최대 <font color=\"red\">+10%</font>"
+          "Desc": "<b><font color=\"blue\">아군에게 받는 버프</font></b> 지속 시간 <font color=\"red\">+1</font><br/><b>자신에게 걸린 버프 <font color=\"red\">1</font>개 마다 공격 방어</b><font color=\"red\">+2%</font><<br/>최대 <font color=\"red\">+10%</font>"
         },
         {
-          "Desc": "아군에게 받는 버프 지속 시간 +1 자신에게 걸린 버프 1개 마다 공격 방어<font color=\"red\">+3%</font> 최대 <font color=\"red\">+15%</font>"
+          "Desc": "<b><font color=\"blue\">아군에게 받는 버프</font></b> 지속 시간 <font color=\"red\">+1</font><br/><b>자신에게 걸린 버프 <font color=\"red\">1</font>개 마다 공격 방어</b><font color=\"red\">+3%</font><<br/>최대 <font color=\"red\">+15%</font>"
         },
         {
-          "Desc": "아군에게 받는 버프 지속 시간 +1 자신에게 걸린 버프 1개 마다 공격 방어<font color=\"red\">+4%</font> 최대 <font color=\"red\">+20%</font>"
+          "Desc": "<b><font color=\"blue\">아군에게 받는 버프</font></b> 지속 시간 <font color=\"red\">+1</font><br/><b>자신에게 걸린 버프 <font color=\"red\">1</font>개 마다 공격 방어</b><font color=\"red\">+4%</font><<br/>최대 <font color=\"red\">+20%</font>"
         }
       ]
     }
@@ -110,8 +110,8 @@
       "MagicDefRate": 50,
       "Skill": 159,
       "SkillRate": 50,
-      "HeartFetterBouns1": "부대 생명력이 70% 미만일시, 전투진입시 받는 피해감소 10%",
-      "HeartFetterBouns2": "부대 생명력이 100% 일시, 피해증가 10%"
+      "HeartFetterBouns1": "<b>부대 생명력이 <font color =\"red\">70</font>% 미만일시</b><br/>전투진입시 받는 피해량<font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>부대 생명력이 <font color =\"red\">100</font>% 일시</b><br/>주는 피해량 <font color =\"red\">+10</font>%"
     },
     {
       "Name": "페가수스 별의 기사",
@@ -139,8 +139,8 @@
       "MagicDefRate": 70,
       "Skill": 176,
       "SkillRate": 70,
-      "HeartFetterBouns1": "공격하여 전투 진입시, 부대받는피해감소 10%",
-      "HeartFetterBouns2": "공격받아 전투 진입시, 피해증가 10%"
+      "HeartFetterBouns1": "<b>공격하여 전투 진입시</b><br/><b>부대가</b> 받는 피해량<font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>공격받아 전투 진입시</b><br/>주는 피해량 <font color =\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -387,7 +387,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash2.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.                                        <br/>전투 전 [바람 타기]획득:생명이 50% 이상인 경우 전투 진입 시 받는 피해량 -15%, 2턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격하여 <font color =\"red\">1.5</font>배의 전투 피해를 준다. <br/><b>전투 전</b> [<font color =\"blue\">바람 타기</font>]획득 :<br/><b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%, <font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -401,7 +401,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/16.webp",
-      "Desc": "[패시브] 행동 종료 시 20% 확률로 재행동 가능.",
+      "Desc": "[패시브] <b>행동 종료 시 <font color =\"red\">20</font>% 확률</b>로 <font color =\"blue\">재행동</font> 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -415,7 +415,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.webp",
-      "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +10%.",
+      "Desc": "[패시브]<b>주위 <font color =\"red\">3</font>칸 내 아군 부대가 전투 시</b> 기술 <font color =\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -441,7 +441,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Towa1.webp",
-      "Desc": "자신에게 걸린 해제 가능한 버프 3개를 목표 아군에게 복사, 지속 2행동,                                        <br/>사용 후 2칸 재행동 (해당 재행동은 버프 지속 시간을 소모하지 않음)",
+      "Desc": "<b>자신에게 걸린 <font color =\"blue\">해제 가능한 버프</font> <font color =\"red\">3</font>개를 목표 아군에게 복사</b><br/>지속 <font color =\"red\">2</font>행동<br/>사용 후 <font color =\"red\">2</font>칸 재행동 <br/><b>(해당 재행동은 버프 지속 시간을 소모하지 않음)</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -467,7 +467,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parn2.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배의 피해.                                        <br/>전투 진입전 적군에게 '모든 패시브 스킬의 효과를 무효화' 효과 부여, 지속 1행동.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color =\"red\">1.4</font>배의 피해.<br/><b>전투 진입전 대상에 '모든 <font color =\"blue\">패시브 스킬</font>의 효과를 무효화'</b> 효과 부여,<br/> 지속 <font color =\"red\">1</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -481,7 +481,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DoubleAttack.webp",
-      "Desc": "[패시브]공격하여 전투 후 주위 1칸 범위 내 모든 적군에게 0.1배 범위 피해를 입힌다.",
+      "Desc": "[패시브]<b>공격하여 전투 후 주위 1칸 범위 내 모든 적군에게</b> <font color =\"red\">0.1</font>배 <font color =\"blue\">범위 피해</font>를 입힌다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -507,7 +507,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.                                        <br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 공격 피해를 준다. <br/><b>자신이 방어 지형에 있을 시 전투 전</b> 대상에게 <font color =\"blue\">기절</font> 시전<br/><font color =\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -521,7 +521,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.webp",
-      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및                                        <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]<b>행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">2</font>개 다른 아군 부대가</b> 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '<font color =\"blue\">공격, 지력 감소</font>', '<font color =\"blue\">침묵</font>', <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -547,7 +547,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Towa2.webp",
-      "Desc": "[물리 피해]단일 개체 1.5배, 자신에게 걸린 버프 1개당 피해 +2% (최대 10%)                                        <br/>전투 진입 전 자신에게 초절 강화 특수 효과가 있을 경우 선제공격                                        <br/>앞 조건을 만족한 상태에서 적에게 초절 강화 특수 효과가 없을 경우 호위 무시                                        <br/>1) 버프 5개 = 피해 +10%,                                        <br/>2) 리인카 초절을 받은 토와 = 선빵,                                        <br/>3) 리인카 초절을 받은 토와가 노초절 적을 공격 = 선빵 + 호위 무시",
+      "Desc": "[물리 피해]단일 개체 <font color =\"red\">1.5</font>배, 자신에게 걸린 버프 <font color =\"red\">1</font>개당 피해 <font color =\"red\">+2</font>% (최대 <font color =\"red\">10</font>%) <br/><b>전투 진입 전 자신에게 <font color =\"blue\">초절 강화 특수 효과</font>가 있을 경우 선제공격</b><br/><b>앞 조건을 만족한 상태에서 적에게 <font color =\"blue\">초절 강화 특수 효과</font>가 <font color =\"red\">없을 경우</font> <font color =\"blue\">호위 무시</font></b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -565,19 +565,19 @@
         }
       ],
       "IconImageUrl": "../img/Super/토와_선택.webp",
-      "Desc": "[패시브] '강화 불가' 면역, 각성 액티브 효과 보유 시 병사가 받는 물리 피해 -35%                                        [액티브] 이하 효과 중 택일, 사용 후 3칸 재행동 가능",
+      "Desc": "[패시브] '<font color =\"blue\">강화 불가</font>' 면역, <font color =\"blue\">각성 액티브 효과</font> 보유 시 <b>병사가 받는 물리 피해</b> <font color =\"red\">-35</font>%<br/> [액티브] 이하 효과 중 택일,<b>사용 후 <font color =\"red\">3</font>칸 <font color =\"blue\">재행동</font> 가능</b>",
       "SubSkills": [
         {
           "Name": "<b><font color=\"#0070c0\">진법 - 침공</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/토와_1.webp",
-          "Desc": "지원. '진법 - 침공' 효과 획득 : 지휘. 주위 3칸 범위 내 아군의 공격 지력 +15%,                                         <br/>선공으로 전투 진입 전 고정 피해 (공 0.5배 수치),                                         <br/>액티브 스킬로 적 격파 후 해당 스킬 쿨 -1, 지속 3행동, 해제 불가"
+          "Desc": "[지원]'<font color =\"blue\">진법 - 침공</font>' 효과 획득 :<br/>[지휘]<b>주위 <font color =\"red\">3</font>칸 범위 내 아군의 공격 지력 <font color =\"red\">+15</font>%,<br/><b>선공으로 전투 진입 전 고정 피해 (공격력 <font color =\"red\">0.5</font>배 수치)</b><br/><b><font color =\"blue\">액티브 스킬</font>로 적 격파 후 해당 스킬 쿨타임 <font color =\"red\">-1</font></b>,<br/>지속 <font color =\"red\">3</font>행동, <b>해제 불가</b>"
         },
         {
           "Name": "<b><font color=\"#0070c0\">진법 - 절벽</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/토와_2.webp",
-          "Desc": "지원. '진법 - 절벽' 효과 획득 : 지휘.                                         <br/>주위 3칸 범위 내 아군의 방어 +15%,                                         <br/>'고정 피해' '위치 이동' 면역, 지속 3행동, 해제 불가"
+          "Desc": "[지원]'<font color =\"blue\">진법 - 절벽</font>'효과 획득 :<br/>[지휘]<b>주위 <font color =\"red\">3</font>칸 범위 내 아군의 방어 <font color =\"red\">+15</font>%</b>,<br/>'<font color =\"blue\">고정 피해</font>' '<font color =\"blue\">위치 이동</font>' 면역, 지속 <font color =\"red\">3</font>행동, <b>해제 불가</b>"
         }
       ],
       "Animation": "../img/Super/토와_Ani.webp"

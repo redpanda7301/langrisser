@@ -109,8 +109,8 @@
       "MagicDefRate": 66,
       "Skill": 99,
       "SkillRate": 36,
-      "HeartFetterBouns1": "받는 범위 피해감소 -10%",
-      "HeartFetterBouns2": "부대 생명력이 100% 일시, 주는 피해증가 10%"
+      "HeartFetterBouns1": "받는 범위피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명력이 <font color=\"red\">100</font>% 일시<br/> 주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "빛나는 성녀",
@@ -138,8 +138,8 @@
       "MagicDefRate": 68,
       "Skill": 85,
       "SkillRate": 36,
-      "HeartFetterBouns1": "부대 생명력이 80% 이상시, 받는 크리확률감소 10%",
-      "HeartFetterBouns2": "약화효과를 보유한 적군부대와 전투시, 주는 피해증가 10%"
+      "HeartFetterBouns1": "<b>부대 생명력이 <font color=\"red\">80</font>% 이상시</b><br/>받는 치명타 확률<font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>약화효과를 보유한 적군 부대와 전투시</b>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {

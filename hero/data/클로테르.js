@@ -50,7 +50,7 @@
   "HeartFetter": "생명+600, 방어+40, 마방+60",
   "Talent": [
     {
-      "Name": "파멸의 화염문장",
+      "Name": "파멸의 염문",
       "Icon": "Gift_Clotaire.webp",
       "Abilities": [
         {
@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>지력의 <font color=\"red\">10</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 화염 문장</font></b> 부여 <br/><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">-10</font> %<br/>피격 치명타 확률 <font color=\"red\">+10</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br/><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
+          "Desc": "<b>지력의 <font color=\"red\">10</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 염문</font></b> 부여 <br/><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">-10</font> %<br/>피격 치명타 확률 <font color=\"red\">+10</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br/><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
         },                                                                                                                                                                                                                                                                                                                                                                            
         {                                                                                                                                                                                                                                                                                                                                                                             
-          "Desc": "<b>지력의 <font color=\"red\">13</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 화염 문장</font></b> 부여 <br/><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">-13</font> %<br/>피격 치명타 확률 <font color=\"red\">+13</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br/><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
+          "Desc": "<b>지력의 <font color=\"red\">13</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 염문</font></b> 부여 <br/><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">-13</font> %<br/>피격 치명타 확률 <font color=\"red\">+13</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br/><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
         },                                                                                                                                                                                                                                                                                                                                                                            
         {                                                                                                                                                                                                                                                                                                                                                                             
-          "Desc": "<b>지력의 <font color=\"red\">16</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 화염 문장</font></b> 부여 <br/><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">-16</font> %<br/>피격 치명타 확률 <font color=\"red\">+16</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br/><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
+          "Desc": "<b>지력의 <font color=\"red\">16</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 염문</font></b> 부여 <br/><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">-16</font> %<br/>피격 치명타 확률 <font color=\"red\">+16</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br/><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
         },                                                                                                                                                                                                                                                                                                                                                                            
         {                                                                                                                                                                                                                                                                                                                                                                             
-          "Desc": "<b>지력의 <font color=\"red\">20</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 화염 문장</font></b> 부여 <br/><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">-20</font> %<br/>피격 치명타 확률 <font color=\"red\">+20</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br/><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
+          "Desc": "<b>지력의 <font color=\"red\">20</font> % 수치만큼 공격력 증가</b><br/>적에게 피해를 입힌 후 <b><font color =\"purple\">파멸의 염문</font></b> 부여 <br/><b>클로테르에게 피해를 받을 시</b> 방어 마방 <font color=\"red\">-20</font> %<br/>피격 치명타 확률 <font color=\"red\">+20</font> % 및 <b><font color =\"blue\">부활</font> 효과 무효화</b> 지속 <font color=\"red\">2</font> 행동 <br/><b>(<b><font color =\"blue\">부활</font> 효과 무효화</b> 효과는 아레나에서만 활성화<br/> 광역기 사용시에도 화염 문장 발동)</b>"
         }
       ]
     }
@@ -87,7 +87,7 @@
   ],
   "Jobs": [
     {
-      "Name": "화염 검사 마스터",
+      "Name": "염검의 사령관",
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
@@ -115,11 +115,11 @@
       "MagicDefRate": 66,
       "Skill": 113,
       "SkillRate": 36,
-      "HeartFetterBouns1": "공격으로 전투 진입시, 부대 피해감소 10%",
-      "HeartFetterBouns2": "피격으로 전투 진입시, 주는 피해증가 10%"
+      "HeartFetterBouns1": "<b>공격으로 전투 진입시</b><br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>공격 받아 전투 진입시</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
-      "Name": "화염 수정 마도사",
+      "Name": "화염 수정의 마법사",
       "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
@@ -147,8 +147,8 @@
       "MagicDefRate": 68,
       "Skill": 113,
       "SkillRate": 36,
-      "HeartFetterBouns1": "부대 생명력 70% 이하시, 전투 진입후 받는피해감소 10%",
-      "HeartFetterBouns2": "공격으로 전투 진입시, 주는 피해증가 10%"
+      "HeartFetterBouns1": "<b>부대 생명력 <font color=\"red\">70</font>% 이하시</b><br/>전투 진입후 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>공격으로 전투 진입시</b><br/>주는 피해증가 <font color=\"red\">10</font>%"
     }
   ],
   "Materials": {
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "ClassTitle": "화염 검사 : 생명+48, 공격+12",
+      "ClassTitle": "화염 검술사 : 생명+48, 공격+12",
       "Tiers": [
         {
           "Name": "T1",
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "ClassTitle": "화염 검사 마스터 : 공격+25, 방어+15, 지력+15",
+      "ClassTitle": "염검의 사령관 : 공격+25, 방어+15, 지력+15",
       "Tiers": [
         {
           "Name": "T1",
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "ClassTitle": "화염 수정 사도 : 생명+80, 공격+7, 지력+7",
+      "ClassTitle": "화염 수정의 사도 : 생명+80, 공격+7, 지력+7",
       "Tiers": [
         {
           "Name": "T1",
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "ClassTitle": "화염 수정 마도사 : 생명+90, 공격+15, 지력+25",
+      "ClassTitle": "화염 수정의 마법사 : 생명+90, 공격+15, 지력+25",
       "Tiers": [
         {
           "Name": "T1",
@@ -364,7 +364,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/1.webp",
-      "Desc": "[마법 피해]단일 개체 1.5배 피해, 대 보병 특효,<br/>근접전 병사 대동 시 병사도 함께 공격, 해당 스킬은 근접전 패널티 무효화.",
+      "Desc": "[마법 피해]단일 개체 <font color=\"red\">1.5</font>배 피해, 대 보병 특효,<br/>근접전 병사 대동 시 병사도 함께 공격, <br/><b>해당 스킬은 근접전 패널티 무효화</b>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -422,7 +422,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/3.webp",
-      "Desc": "[마법피해]주위 3바퀴 범위 내 적에게 0.33 피해. 대 보병 특효 및 적에게 '작열' 효과 부여<br/>다음 턴 행동 종료 시 공격자 지력 <font color=\"red\">2</font>배 수치 고정피해, 지속 2행동",
+      "Desc": "[마법피해]주위 <font color=\"red\">3</font>바퀴 범위 내 적에게 <font color=\"red\">0.33</font> 피해. 대 보병 특효 및 적에게 '<font color=\"red\">작열</font>' 효과 부여<br/><b>다음 턴 행동 종료 시</b> 공격자 지력 <font color=\"red\">2</font>배 수치 고정피해<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -448,7 +448,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.webp",
-      "Desc": "[마법피해]범위 내 0.36배 피해. 대 보병 특효. 적에게 다음 턴 행동 종료 시 최대 생명 <font color=\"red\">20%</font> 수치 고정피해 부여.",
+      "Desc": "[마법피해]범위 내 <font color=\"red\">0.36</font>배 피해. 대 보병 특효. 적에게 다음 턴 행동 종료 시 최대 생명 <font color=\"red\">20%</font> 수치 고정피해 부여.",
       "SubSkills": null,
       "Animation": null
     },
@@ -474,7 +474,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/4.webp",
-      "Desc": "[지원]지원. 부대에 '불태우기' 효과 부여 : <br/>선공으로 피해를 입힌 후 고정피해. 피해 수치는 클로테르 지력 + 공격 1배 수치,지속 4행동. 사용 후 2칸 재행동,   <br/>스킬 사용 후 해당 행동은 자신에게 걸린 버프 지속 시간이 감소하지 않음",
+      "Desc": "[지원]지원. 부대에 '<font color=\"red\">불태우기</font>' 효과 부여 : <br/>선공으로 피해를 입힌 후 고정피해. 피해 수치는 클로테르 지력 + 공격 <font color=\"red\">1</font>배 수치,지속 <font color=\"red\">4</font>행동. 사용 후 <font color=\"red\">2</font>칸 재행동,   <br/>스킬 사용 후 해당 행동은 자신에게 걸린 버프 지속 시간이 감소하지 않음",
       "SubSkills": null,
       "Animation": null
     },
@@ -500,7 +500,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/5.webp",
-      "Desc": "[물리 피해]1줄 직선 상 적에게 0.3배 피해. 대 보병 특효. 적에게 소각 효과 부여 : <br/>다음 턴 행동 종료 시 클로테르 공격 + 지력 1배 수치 고정피해. 지속 2행동 (해제 불가)",
+      "Desc": "[물리 피해]1줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해. 대 보병 특효. 적에게 소각 효과 부여 : <br/>다음 턴 행동 종료 시 클로테르 공격 + 지력 <font color=\"red\">1</font>배 수치 고정피해. 지속 <font color=\"red\">2</font>행동 (해제 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -531,29 +531,82 @@
       "Animation": null
     },
     {
-      "Name": "화염환상",
+      "Name": "이그니스의 환상",
       "Cost": "COST 3",
       "Entries": [
         {
           "Label": "유형",
-          "Value": "액티브"
+          "Value": "선택"
         },
         {
           "Label": "쿨타임",
-          "Value": "4턴"
+          "Value": "-"
         },
         {
           "Label": "사거리",
-          "Value": "자신"
+          "Value": "-"
         },
         {
           "Label": "범위",
-          "Value": "1칸"
+          "Value": "-"
         }
       ],
       "IconImageUrl": "../img/Super/클로테르.webp",
-      "Desc": "[패시브] 한 번의 공격으로 2명 이상의 적에게 피해를 입힐 경우 공격 후 지휘 효과 획득 :<br/>주위 3칸 범위 내에 있는 모든 아군이 '파멸의 화염 문장' 효과를 가진 <br/>적에게 공격 받아 전투 진입 시 부대 사거리 +1, 지속 2행동<br/>[액티브]아래 스킬 중 하나를 선택 사용<br/>1)화염 파멸<br/>[물리피해] 단일 개체 1.8배 피해, 전투 전 적 버프 5개 제거<br/>목표에게 '파멸의 화염 문장'이 있을 경우 해당 공격은 호위 무시 및 '화염 환상'의 쿨을 4행동으로 변경<br/>2)화염 파한<br/>[마법피해] 3줄 직선 상 적에게 0.36배 피해, 대 보병 특효<br/>적에게 받는 고정 피해 +20% 및 '소각' 효과 부여<br/>소각 : 다음 행동 종료 시 클로테르의 공격 + 지력 1배 수치의 고정피해, 지속 2행동 및 <br/>화염환상의 쿨을 4행동으로 변경, 화염 파한의 모든 효과는 해제 불가",
-      "SubSkills": null,
+      "Desc": "[패시브]<b>한 번의 공격으로 <font color=\"red\">2</font>명 이상의 적에게 피해를 입힐 경우 공격 후</b> 지휘 효과 획득 :<br/>[지휘]주위 <font color=\"red\">3</font>칸 범위 내에 있는 모든 아군이 <font color =\"purple\">파멸의 염문</font> 효과를 가진 <br/>적에게 공격 받아 전투 진입 시 부대 사거리 <font color=\"red\">+1</font>, 지속 <font color=\"red\">2</font>행동<br/>[액티브]아래 스킬 중 하나를 선택 사용",
+      "SubSkills": [
+        {
+          "Name": "겁화 - 멸",
+          "Cost": "COST 2",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "마법 피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "4턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "1칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/Super/클로테르_1.webp",
+          "Desc": "[물리피해]단일 개체 <font color=\"red\">1.8</font>배 피해, 전투 전 적 버프 <font color=\"red\">5</font>개 제거<br/><b>대상에게 '<font color =\"purple\">파멸의 염문</font>'이 있을 경우 해당 공격은 <font color=\"blue\">호위 무시</font></b></br><font color=\"blue\">이그니스의 환상</font>의 쿨타임을 <font color=\"red\">4</font>턴으로 변경",
+          "SubSkills": null,
+          "Animation": null
+        },
+        {
+          "Name": "겁화 - 린",
+          "Cost": "COST 2",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "물리 피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "4턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "5칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "직선"
+            }
+          ],
+          "IconImageUrl": "../img/Super/클로테르_2.webp",
+          "Desc": "[마법피해]<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 피해, 대 보병 특효<br/>적에게 받는 고정 피해 <font color=\"red\">+20</font>% 및 '<font color=\"red\">작염</font>'을 획득한다<br/><b>다음 행동 종료 시 클로테르의 공격력 + 지력 <font color=\"red\">1</font>배 수치의 고정피해</b><br/>지속 <font color=\"red\">2</font>행동 및 <br/><font color=\"blue\">이그니스의 환상</font>의 쿨타임을 <font color=\"red\">4</font>턴으로 변경<br/><b><font color=\"blue\">겁화 - 린</font>에 부여된 효과는 해제 불가</b>",
+          "SubSkills": null,
+          "Animation": null
+        }
+      ],
       "Animation": "../img/Super/클로테르_Ani.webp"
     }
   ],

@@ -563,35 +563,36 @@
       ],
       "IconImageUrl": "../img/Super/크루거_1.webp",
       "Desc": "[액티브] 목표에 '<font color=\"blue\">죄악</font>' 효과 부여 :<br/>행동 종료 시 자신 주위 3칸 범위 내 3개 아군에게 랜덤한 디버프 <font color=\"red\">3</font>개 부여, <br/>지속 <font color=\"red\">3</font>행동, <b>해당 효과는 해제 불가 </b><br/><b>동시에 스킬은 '<font color=\"blue\">어두운 심연</font>'으로 변경</b>",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "어두운 심연(자라나는 죄악에서 변경)",
-      "Cost": null,
-      "Entries": [
+      "SubSkills": [
         {
-          "Label": "유형",
-          "Value": "마법 피해"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "5턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "자신"
-        },
-        {
-          "Label": "범위",
-          "Value": "5칸"
+          "Name": "어두운 심연",
+          "Cost": null,
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "마법 피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "사거리",
+              "Value": "자신"
+            },
+            {
+              "Label": "범위",
+              "Value": "5칸"
+            }
+          ],
+          "IconImageUrl": "../img/Super/크루거_2.webp",
+          "Desc": "[마법 피해]. 주위 <font color=\"red\">5</font>칸 <font color=\"red\">0.36</font>배 범위 피해, <br/>명중한 적에게 랜덤한 디버프 <font color=\"red\">2</font>개 부여, <br/>명중한 적 <font color=\"red\">1</font>명 당 '<font color=\"blue\">자라나는 죄악</font>' 쿨 <font color=\"red\">-1</font>, <br/>사용 후 해당 스킬은 '<font color=\"blue\">자라나는 죄악</font>'으로 변경",
+          "SubSkills": null,
+          "Animation": null,
         }
       ],
-      "IconImageUrl": "../img/Super/크루거_2.webp",
-      "Desc": "[마법 피해]. 주위 <font color=\"red\">5</font>칸 <font color=\"red\">0.36</font>배 범위 피해, <br/>명중한 적에게 랜덤한 디버프 <font color=\"red\">2</font>개 부여, <br/>명중한 적 <font color=\"red\">1</font>명 당 '<font color=\"blue\">자라나는 죄악</font>' 쿨 <font color=\"red\">-1</font>, <br/>사용 후 해당 스킬은 '<font color=\"blue\">자라나는 죄악</font>'으로 변경",
-      "SubSkills": null,
       "Animation": "../img/Super/크루거_Ani.webp"
-    }
+    },
   ],
   "Bio": null,
   "Performance": null

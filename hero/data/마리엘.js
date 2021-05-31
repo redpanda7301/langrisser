@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "생명 <font color=\"red\">50</font>% 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-10%</font> 공격<font color=\"red\">+10</font>% <br/> 전장 시작 시 [계율] 효과 획득<br/>[계율] : 치료량 <font color=\"red\">50</font>% 받는 모든 피해 <font color=\"red\">-25</font>% 가하는 모든피해 <font color=\"red\">-50%</font><br/>선공 후 [계율] 효과는 사라지며 재행동 가능"
+          "Desc": "<b>생명 <font color=\"red\">50</font>% 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-10%</font> 공격<font color=\"red\">+10</font>%</b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50</font>% 받는 모든 피해 <font color=\"red\">-25</font>% 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
         },
         {
-          "Desc": "생명 <font color=\"red\">50</font>% 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-15%</font> 공격<font color=\"red\">+13</font>% <br/> 전장 시작 시 [계율] 효과 획득<br/>[계율] : 치료량 <font color=\"red\">50</font>% 받는 모든 피해 <font color=\"red\">-25</font>% 가하는 모든피해 <font color=\"red\">-50%</font><br/>선공 후 [계율] 효과는 사라지며 재행동 가능"
+          "Desc": "<b>생명 <font color=\"red\">50</font>% 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-15%</font> 공격<font color=\"red\">+13</font>%</b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50</font>% 받는 모든 피해 <font color=\"red\">-25</font>% 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
         },
         {
-          "Desc": "생명 <font color=\"red\">50</font>% 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-20%</font> 공격<font color=\"red\">+16</font>% <br/> 전장 시작 시 [계율] 효과 획득<br/>[계율] : 치료량 <font color=\"red\">50</font>% 받는 모든 피해 <font color=\"red\">-25</font>% 가하는 모든피해 <font color=\"red\">-50%</font><br/>선공 후 [계율] 효과는 사라지며 재행동 가능"
+          "Desc": "<b>생명 <font color=\"red\">50</font>% 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-20%</font> 공격<font color=\"red\">+16</font>%</b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50</font>% 받는 모든 피해 <font color=\"red\">-25</font>% 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
         },
         {
-          "Desc": "생명 <font color=\"red\">50</font>% 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-30%</font> 공격<font color=\"red\">+20</font>% <br/> 전장 시작 시 [계율] 효과 획득<br/>[계율] : 치료량 <font color=\"red\">50</font>% 받는 모든 피해 <font color=\"red\">-25</font>% 가하는 모든피해 <font color=\"red\">-50%</font><br/>선공 후 [계율] 효과는 사라지며 재행동 가능"
+          "Desc": "<b>생명 <font color=\"red\">50</font>% 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-30%</font> 공격<font color=\"red\">+20</font>%</b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50</font>% 받는 모든 피해 <font color=\"red\">-25</font>% 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
         }
       ]
     }
@@ -108,8 +108,8 @@
       "MagicDefRate": 73,
       "Skill": 138,
       "SkillRate": 37,
-      "HeartFetterBouns1": "적군을 공격하여 전투진입시, 부대 받는 피해감소 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 체력이 <font color=\"red\">100</font>%일 경우 입히는 피해  <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>공격하여 전투 진입시</b>, <br/>부대 받는 피해감소 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>부대 체력이 <font color=\"red\">100</font>%일 경우</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "신성 신관",
@@ -137,7 +137,7 @@
       "MagicDefRate": 80,
       "Skill": 138,
       "SkillRate": 37,
-      "HeartFetterBouns1": "자신보다 생명 백분비 높은 적에게 피격 받을시,<br/>받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "<b>자신보다 생명 백분비 높은 적에게 공격 받을시</b>,<br/>받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "치유량 <font color=\"red\">+10</font>%"
     }
   ],
@@ -385,7 +385,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 공격 피해를 준다. <br/><b>자신이 방어 지형에 있을 시 전투 전</b> 대상에게 <font color =\"blue\">기절</font> 시전<br/><font color =\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -399,7 +399,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf2.webp",
-      "Desc": "[패시브]전투 진입 시 자신 부대 공격 +7%.",
+      "Desc": "[패시브]<b>전투 진입 시 자신의 부대 공격력</b> <font color=\"red\">+7</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -413,7 +413,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.webp",
-      "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
+      "Desc": "[지휘]주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%",
       "SubSkills": null,
       "Animation": null
     },
@@ -439,7 +439,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.webp",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 <font color=\"red\">+20</font>%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, <font color=\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -481,7 +481,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "0턴"
+          "Value": "-"
         },
         {
           "Label": "사거리",
@@ -493,7 +493,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mariel/1.webp",
-      "Desc": "[치료] 액티브 스킬. 단일 개체 생명 회복, <br/>회복량은 술자 공격의 <font color=\"red\">3.5배</font> 수치, 디버프 <font color=\"red\">2</font>개 제거.",
+      "Desc": "[치료] 액티브 스킬. 단일 개체 생명 회복, <br/>회복량은 술자 공격력 <font color=\"red\">3.5배</font> 수치, 디버프 <font color=\"red\">2</font>개 제거.",
       "SubSkills": null,
       "Animation": null
     },
@@ -545,34 +545,35 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mariel/3.webp",
-      "Desc": "[지원] 액티브. 범위 내 아군 생명 회복, 회복량은 술자 공격의 <font color=\"red\">2.5</font>배 수치, <br/>디버프 <font color=\"red\">1</font>개 제거 및 <font color=\"red\">2</font>개의 랜덤한 면역 효과 부여, 지속 <font color=\"red\">2</font>행동. <br/>자신에게 걸린 [계율] 효과가 사라진 후, 해당 스킬은 [성왕의 맹렬한 공격]으로 변경",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "성왕의 맹렬한 공격(성왕의 비호에서 변경)",
-      "Cost": null,
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "물리 피해"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "3턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "1칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
+      "Desc": "[지원]액티브. <b>범위 내 아군</b> 생명 회복, 회복량은 술자 공격력의 <font color=\"red\">2.5</font>배 수치, <br/><b>디버프 <font color=\"red\">1</font>개 제거 및 <font color=\"red\">2</font>개의 무작위 <font color=\"blue\">면역</font> 효과 부여</b>지속 <font color=\"red\">2</font>턴.<br/><b>자신에게 걸린 [<font color=\"purple\">계율</font>] 효과가 사라진 후, 해당 스킬은 [<font color=\"blue\">성왕의 맹렬한 공격</font>]으로 변경</b>",
+      "SubSkills": [
+      {
+          "Name": "성왕의 맹렬한 공격",
+          "Cost": null,
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "물리 피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "3턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "1칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mariel/4.webp",
+          "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배 피해, <br/>적을 위치 이동 시킴 : 목표를 <font color=\"red\">3</font>칸 밀침, <br/>전투 후 피해량 <font color=\"red\">50</font>% 수치로 생명 회복, 재이동 <font color=\"red\">2</font>칸",
+          "SubSkills": null,
+          "Animation": null
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Mariel/4.webp",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배 피해, <br/>적을 위치 이동 시킴 : 목표를 <font color=\"red\">3</font>칸 밀침, <br/>전투 후 피해량 <font color=\"red\">50</font>% 수치로 생명 회복, 재이동 <font color=\"red\">2</font>칸",
-      "SubSkills": null,
       "Animation": null
     },
     {
@@ -597,7 +598,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/마리엘.webp",
-      "Desc": "[패시브] 자신이 [<font color=\"blue\">계율</font>] 효과를 보유 하지 않을 경우, 이동력 <font color=\"red\">+3</font>. <br/>자신이 [<font color=\"blue\">계율</font>] 효과를 보유하고 있을 경우,<br/><b>행동 종료 시 생명력이 가장 낮은 아군 <font color=\"red\">2</font>명 <font color=\"blue\">생명 회복</font></b>, <br/>회복량은 마리엘 공격의 <font color=\"red\">1.5</font>배 수치<br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해, <b>전투 전</b> 적 버프 <font color=\"red\">3</font>개 제거, <br/>적을 위치 이동 시킴 : 적을 <font color=\"red\">3</font>칸 밀침. <br/>호위 받는 적을 공격 시 피해 <font color=\"red\">+15</font>% 추가 증가, 전투 후 스킬 쿨 <font color=\"red\">-3</font>, <br/>자신은 [<font color=\"blue\">성스러운 분노</font>] 효과 획득 :<br/>피해 <font color=\"red\">+20</font>%, 호위 무시 공격, <br/>지속 <font color=\"red\">1</font>행동, <br/><b>성스러운 분노 효과는 면역 및 제거 불가</b>",
+      "Desc": "[패시브]자신이 [<font color=\"blue\">계율</font>] 효과를 보유 하지 않을 경우, 이동력 <font color=\"red\">+3</font>. <br/>자신이 [<font color=\"blue\">계율</font>] 효과를 보유하고 있을 경우 <br/><b>행동 종료 시 생명력이 가장 낮은 아군 <font color=\"red\">2</font>명 <font color=\"blue\">생명 회복</font></b>, <br/>회복량은 마리엘 공격력의 <font color=\"red\">1.5</font>배 수치<br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해, <b>전투 전</b> 적의 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 제거 및 <br/>적을 <font color=\"blue\">위치 이동</font> 시킴<br/> 적을 <font color=\"red\">3</font>칸 밀침. <br/><b>호위 받는 적을 공격 시 피해 <font color=\"red\">+15</font>% 추가 증가 및 전투 후 스킬 쿨타임 <font color=\"red\">-3</font></b>, <br/>자신은 [<font color=\"blue\">성스러운 분노</font>] 효과 획득 :<br/>주는 피해량 <font color=\"red\">+20</font>%, <font color=\"blue\">호위 무시</font> 공격, <br/>지속 <font color=\"red\">1</font>턴 <br/><b><font color=\"blue\">성스러운 분노</font> 효과는 면역 및 제거 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/마리엘_Ani.webp"
     }
