@@ -155,7 +155,7 @@ function propose(){
     var img_height=img.height;
     var win=img.height+30;
     var OpenWindow=window.open('','_blank', 'width='+img_width+', height='+img_height+', menubars=no, scrollbars=auto');
-    OpenWindow.document.write("<style>body{margin:0px;}</style><img id ='propose_Img' src='"+url+"' width='"+win_width+"'/>");
+    OpenWindow.document.write("<style>body{margin:0px;}</style><img id ='propose_Img' src='"+url+"'/>");
     //OpenWindow.document.write("<style>body{margin:0px;}</style><img src=../img/propose/유리아.gif width='"+win_width+"'>");
 }
 /*
