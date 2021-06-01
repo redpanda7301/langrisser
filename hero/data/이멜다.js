@@ -615,6 +615,7 @@
       "Animation": "../img/Super/이멜다_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

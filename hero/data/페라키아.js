@@ -558,6 +558,7 @@
       "Animation": "../img/Super/페라키아_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

@@ -611,6 +611,7 @@
       "Animation": "../img/Super/에마링크_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

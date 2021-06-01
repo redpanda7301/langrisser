@@ -521,6 +521,7 @@
       "Animation": "../img/Super/료_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

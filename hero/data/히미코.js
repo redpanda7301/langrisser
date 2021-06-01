@@ -534,6 +534,7 @@
       "Animation": "../img/Super/히미코_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

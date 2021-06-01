@@ -556,6 +556,7 @@
       "Animation": "../img/Super/뮤_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

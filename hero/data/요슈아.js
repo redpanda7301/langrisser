@@ -532,6 +532,7 @@
       "Animation": "../img/Super/요슈아_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

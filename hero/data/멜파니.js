@@ -536,6 +536,7 @@
       "Animation": null
     }
   ],
+  "Propose": true,
   "Bio": null,
   "Performance": null
 }];

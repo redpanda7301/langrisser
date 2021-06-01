@@ -613,6 +613,7 @@
       "Animation": "../img/Super/안젤리나_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

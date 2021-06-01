@@ -658,6 +658,7 @@
       "Animation": "../img/Super/라나_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

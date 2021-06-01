@@ -594,6 +594,7 @@
       "Animation": "../img/Super/크루거_Ani.webp"
     },
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

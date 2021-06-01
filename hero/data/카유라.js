@@ -523,6 +523,7 @@
       "Animation": "../img/Super/카유라_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

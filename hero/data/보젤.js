@@ -648,6 +648,7 @@
       "Animation": "../img/Super/보젤_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

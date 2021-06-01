@@ -545,6 +545,7 @@ var data = [
       "Animation": "../img/Super/일루시아_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

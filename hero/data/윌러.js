@@ -604,6 +604,7 @@
       "Animation": "../img/Super/윌러_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

@@ -902,6 +902,7 @@
       "Animation": "../img/Super/시그마_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

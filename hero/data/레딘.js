@@ -615,6 +615,7 @@
       "Animation": "../img/Super/레딘.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

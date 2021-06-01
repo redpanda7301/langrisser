@@ -582,6 +582,7 @@
       "Animation": "../img/Super/키리카제_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

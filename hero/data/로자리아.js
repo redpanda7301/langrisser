@@ -599,6 +599,7 @@
       "Animation": "../img/Super/로자리아_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

@@ -582,6 +582,7 @@
       "Animation": "../img/Super/소니아.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

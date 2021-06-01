@@ -603,6 +603,7 @@
       "Animation": "../img/Super/마리엘_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": null,
   "Performance": null
 }];

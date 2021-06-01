@@ -546,6 +546,7 @@
       "Animation": "../img/Super/헬레나_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

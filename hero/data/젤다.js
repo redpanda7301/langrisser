@@ -576,6 +576,7 @@
       "Animation": "../img/Super/젤다_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

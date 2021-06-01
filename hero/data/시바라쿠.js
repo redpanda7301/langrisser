@@ -520,6 +520,7 @@
       "Animation": "../img/Super/시바라쿠_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

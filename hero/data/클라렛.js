@@ -601,6 +601,7 @@
       "Animation": "../img/Super/클라렛.gif"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

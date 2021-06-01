@@ -508,6 +508,7 @@
       "Animation": "../img/Super/알베도_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

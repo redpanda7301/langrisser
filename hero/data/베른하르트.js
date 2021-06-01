@@ -583,6 +583,7 @@
       "Animation": "../img/Super/베른하르트_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

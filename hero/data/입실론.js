@@ -520,6 +520,7 @@
       "Animation": "../img/Super/입실론_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

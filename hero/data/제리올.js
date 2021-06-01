@@ -539,6 +539,7 @@
       "Animation": "../img/Super/제리올_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

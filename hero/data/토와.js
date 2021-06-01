@@ -583,6 +583,7 @@
       "Animation": "../img/Super/토와_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

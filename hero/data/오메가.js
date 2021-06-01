@@ -567,6 +567,7 @@
       "Animation": "../img/Super/오메가_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

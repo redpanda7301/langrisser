@@ -543,6 +543,7 @@
       "Animation": "../img/Super/알티나_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

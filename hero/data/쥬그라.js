@@ -723,6 +723,7 @@
       "Animation": "../img/Super/쥬그라_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

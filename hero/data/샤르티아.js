@@ -511,6 +511,7 @@
       "Animation": "../img/Super/샤르티아_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

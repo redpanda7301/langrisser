@@ -499,6 +499,7 @@
       "Animation": "../img/Super/도구로_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

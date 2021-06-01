@@ -586,6 +586,7 @@
       "Animation": "../img/Super/힐다_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": null,
   "Performance": null
 }];

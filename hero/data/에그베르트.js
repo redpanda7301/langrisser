@@ -618,6 +618,7 @@
       "Animation": "../img/Super/에그베르트_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

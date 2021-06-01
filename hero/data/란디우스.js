@@ -602,6 +602,7 @@
       "Animation": "../img/Super/란디우스_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

@@ -544,6 +544,7 @@
       "Animation": "../img/Super/로젠실_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": null,
   "Performance": null
 }];

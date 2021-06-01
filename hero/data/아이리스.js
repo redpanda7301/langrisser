@@ -543,6 +543,7 @@
       "Animation": "../img/Super/아이리스_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

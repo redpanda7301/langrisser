@@ -987,6 +987,7 @@
       "Animation": "../img/Super/헤인_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

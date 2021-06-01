@@ -520,6 +520,7 @@
       "Animation": "../img/Super/사쿠라_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

@@ -547,6 +547,7 @@
       "Animation": "../img/Super/실린카_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

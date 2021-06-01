@@ -655,6 +655,7 @@
       "Animation": null
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

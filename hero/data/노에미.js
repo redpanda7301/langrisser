@@ -617,6 +617,7 @@
       "Animation": "../img/Super/노에미_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

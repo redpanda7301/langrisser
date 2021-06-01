@@ -628,6 +628,7 @@
       "Animation": "../img/Super/여신의화신_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

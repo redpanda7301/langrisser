@@ -622,6 +622,7 @@
       "Animation": "../img/Super/셀파닐_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

@@ -572,6 +572,7 @@
       "Animation": "../img/Super/아카야_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

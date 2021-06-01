@@ -589,6 +589,7 @@
       "Animation": "../img/Super/수제트_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

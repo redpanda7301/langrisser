@@ -592,6 +592,7 @@
       "Animation": "../img/Super/레나타_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

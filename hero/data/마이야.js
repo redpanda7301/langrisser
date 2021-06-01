@@ -602,6 +602,7 @@
       "Animation": "../img/Super/마이야.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

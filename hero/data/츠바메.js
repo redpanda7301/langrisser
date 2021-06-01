@@ -580,6 +580,7 @@
       "Animation": "../img/Super/츠바메_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

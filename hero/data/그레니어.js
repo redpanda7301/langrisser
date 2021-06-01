@@ -592,6 +592,7 @@
       "Animation": "../img/Super/그레니어_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",
@@ -723,5 +724,5 @@
       "Entry": "「상호작용 - 특수2」",
       "Desc": "그럼 오늘은 여기까지!"
     }
-  ]
+    ]
 }];

@@ -522,6 +522,7 @@
       "Animation": "../img/Super/에스텔_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

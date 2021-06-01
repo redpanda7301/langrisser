@@ -521,6 +521,7 @@
       "Animation": "../img/Super/올리비에_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

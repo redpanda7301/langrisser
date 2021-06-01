@@ -610,6 +610,7 @@
       "Animation": "../img/Super/클로테르_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

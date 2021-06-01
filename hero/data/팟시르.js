@@ -575,6 +575,7 @@
       "Animation": "../img/Super/팟시르_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

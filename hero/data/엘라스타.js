@@ -534,6 +534,7 @@
       "Animation": "../img/Super/엘라스타_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

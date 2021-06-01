@@ -690,6 +690,7 @@
       "Animation": "../img/Super/화이트시시_Ani.webp"
     },
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

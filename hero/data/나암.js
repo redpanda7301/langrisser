@@ -836,7 +836,7 @@
       "SubSkills": null,
       "Animation": null
     },
-	{
+	  {
       "Name": "SP : 발목 가르기",
       "Cost": "COST 1",
       "Entries": [
@@ -851,6 +851,7 @@
       "Animation": null
     },
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",
@@ -998,5 +999,5 @@
       "Entry": "「상호작용 - 특수2」",
       "Desc": "다른 사람들하고도 사이좋게 지내자!"
     }
-  ]
+    ]
 }];

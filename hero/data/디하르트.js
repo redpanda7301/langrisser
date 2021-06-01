@@ -594,6 +594,7 @@
       "Animation": "../img/Super/디하르트_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

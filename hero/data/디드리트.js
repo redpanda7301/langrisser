@@ -532,6 +532,7 @@
       "Animation": "../img/Super/디드리트_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

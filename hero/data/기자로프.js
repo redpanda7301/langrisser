@@ -634,12 +634,13 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/Super/기자로프.webp",
+      "IconImageUrl": "../img/Super/기자로프.webp",
       "Desc": "[지원] 전장에 [구조체]가 있을때 사용,<br/>구조체가 사망시 주위 3칸내 모든 적군에게 0.2배의 마법피해를 주고 디버프 2개 부여.<br/>그후 최후의 구조체 1기 소환.(최후의 구조체의 생명은 소환자 최대 생명의 100%,<br/>기타 능력치는 소환당시의 소환자 속성의 100%, 사망전 구조체가 가지고있던<br/>개조 1개당 능력치 4%상승, 공격 빈도 상승, 기존 구조체의 개조능력 계승.<br/>피격으로 소환당할경우 새로운 행동기회를 가진다.)",
       "SubSkills": null,
       "Animation": "../img/Super/기자로프_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

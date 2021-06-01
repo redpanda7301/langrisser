@@ -557,6 +557,7 @@
       "Animation": "../img/Super/베티_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

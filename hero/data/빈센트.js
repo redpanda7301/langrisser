@@ -532,6 +532,7 @@
       "Animation": "../img/Super/빈센트_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

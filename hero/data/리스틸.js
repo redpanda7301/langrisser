@@ -597,6 +597,7 @@
       "Animation": "../img/Super/리스틸_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

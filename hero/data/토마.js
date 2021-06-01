@@ -496,6 +496,7 @@
       "Animation": "../img/Super/토마_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

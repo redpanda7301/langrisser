@@ -520,6 +520,7 @@
       "Animation": "../img/Super/스미레_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

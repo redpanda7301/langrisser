@@ -563,6 +563,7 @@
       "Animation": "../img/Super/미지의기사_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

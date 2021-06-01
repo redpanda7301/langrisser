@@ -579,6 +579,7 @@
       "Animation": "../img/Super/비라쥬_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

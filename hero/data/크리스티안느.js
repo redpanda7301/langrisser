@@ -643,6 +643,7 @@
       "Animation": "../img/Super/크리스티안느_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

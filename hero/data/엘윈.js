@@ -888,6 +888,7 @@
       "Animation": null
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

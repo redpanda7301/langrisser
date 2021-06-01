@@ -541,6 +541,7 @@
       "Animation": "../img/Super/세계수의현자_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

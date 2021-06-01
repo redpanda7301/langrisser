@@ -561,6 +561,7 @@
       "Animation": "../img/Super/와타루_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

@@ -28,6 +28,7 @@ function initPage() {
     var SkillInfoTemplate = _.template($("#skill-info-template").html());
     var BioInfoTemplate = _.template($("#bio-info-template").html());
     var PerformanceInfoTemplate = _.template($("#performance-info-template").html());
+    //var ProposeInfoTemplate = _.template($("#propose-info-template").html());
     $("#skin-carousel").replaceWith(skinTemplate(data[0]));
     $("#basic-info").replaceWith(basicInfoTemplate(data[0]));
     $("#talent-soldier-info").replaceWith(talentSoldierInfoTemplate(data[0]));
@@ -38,8 +39,8 @@ function initPage() {
     $("#skill-info").replaceWith(SkillInfoTemplate(data[0]));
     $("#bio-info").replaceWith(BioInfoTemplate(data[0]));
     $("#performance-info").replaceWith(PerformanceInfoTemplate(data[0]));
-    showSlides(slideIndex);                
-
+    //$("#propose-info").replaceWith(ProposeInfoTemplate(data[0]));
+    showSlides(slideIndex);
     $('#input-4').rating({
         min: 0, max: 6, stars: 6,
         captionElement: "#kv-caption",
@@ -132,3 +133,54 @@ function showSlides(n) {
     }
     // dots[slideIndex-1].className += " active";
 }
+function changeSuper(){
+    var imgTag = document.getElementById("Super");
+    var imgSrc = document.getElementById("Super").getAttribute("src");
+    imgSrc = imgSrc.substring(0,imgSrc.lastIndexOf("_",imgSrc.length));
+    if(imgTag.src.match("_Ani.webp")){
+        imgTag.setAttribute("src",imgSrc+"_Standing.webp");
+    } else {
+        imgTag.setAttribute("src",imgSrc+"_Ani.webp");
+    }
+    
+}
+function propose(){
+    var heroName = getParameterByName("name");    
+    var img =new Image();
+    $(location).attr('protocol') + $(location).attr('host');
+    var url = "../../img/propose/"+heroName+".gif";
+    img.src = url;
+    var img_width=img.width;
+    var win_width=img.width+25;
+    var img_height=img.height;
+    var win=img.height+30;
+    var OpenWindow=window.open('','_blank', 'width='+img_width+', height='+img_height+', menubars=no, scrollbars=auto');
+    OpenWindow.document.write("<style>body{margin:0px;}</style><img id ='propose_Img' src='"+url+"' width='"+win_width+"'/>");
+    //OpenWindow.document.write("<style>body{margin:0px;}</style><img src=../img/propose/유리아.gif width='"+win_width+"'>");
+}
+/*
+function propose_Animation(){
+    var imgTag = document.getElementById("propose_Img");
+    var imgSrc = document.getElementById("propose_Img").getAttribute("src");
+    imgSrc = imgSrc.substring(0,imgSrc.lastIndexOf(".",imgSrc.length));
+    alert(imgSrc);
+    if(imgTag.src.match("gif")){
+        imgTag.setAttribute("src",imgSrc+".webp");
+    } else {
+        imgTag.setAttribute("src",imgSrc+".gif");
+    }
+    
+}
+*/
+/*
+function propose(url){
+    var img=new Image();
+    img.src=url;
+    var img_width=img.width;
+    var win_width=img.width+25;
+    var img_height=img.height;
+    var win=img.height+30;
+    var OpenWindow=window.open('','_blank', 'width='+img_width+', height='+img_height+', menubars=no, scrollbars=auto');
+    OpenWindow.document.write("<style>body{margin:0px;}</style><img src='"+url+"' width='"+win_width+"'>");
+}
+*/

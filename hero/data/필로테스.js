@@ -510,6 +510,7 @@
       "Animation": "../img/Super/필로테스_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

@@ -651,6 +651,7 @@
       "Animation": "../img/Super/람다_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

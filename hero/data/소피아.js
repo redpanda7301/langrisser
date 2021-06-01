@@ -627,6 +627,7 @@
       "Animation": "../img/Super/소피아_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

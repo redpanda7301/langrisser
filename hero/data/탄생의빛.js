@@ -625,6 +625,7 @@
       "Animation": "../img/Super/탄생의빛_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": null,
   "Performance": null
 }];

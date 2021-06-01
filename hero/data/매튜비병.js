@@ -629,6 +629,7 @@
       "Animation": "../img/Super/매튜_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

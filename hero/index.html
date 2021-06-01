@@ -38,7 +38,9 @@
                         <div id="bio-info"></div>
                         <!-- Performance Info -->
                         <div id="performance-info"></div>
-                    </div>                    
+                        <!-- Propose Info -->
+                        <!--<div id="propose-info"></div>-->
+                    </div>
                 </div>                
             </div>
         </div>
@@ -156,6 +158,14 @@
                         <tr>
                             <th><img src="https://storage.googleapis.com/langmosheet-data/img/Icon/Icon_pink.webp" width="32" height="32" /></th>
                             <td colspan="3"><%=HeartFetter%></td>
+                        </tr>
+                        <tr>
+                            <%if (Propose) {%>
+                            <th><img src="../img/Icon/ICON_Confession.webp" width="32" height="32" /></th>
+                                <td colspan="3">
+                                    <label id ="propose_label" onclick="propose()">테스트</label>
+                                </td>
+                            <%}%>
                         </tr>
                     </table>
                 </section>
@@ -541,7 +551,9 @@
                         <%}%> -->
                         <%if (skill.Animation != null) {%>
                         <tr>
-                            <td colspan="4"><img src="<%=skill.Animation%>" width="70%" /></td>
+                            <td colspan="4">
+                                <img id="Super" onclick="changeSuper()" src="<%=skill.Animation%>"  width="70%" />
+                            </td>
                         </tr>
                         <%}%>
                     </table>
@@ -549,7 +561,6 @@
                 </section>
             </div>
         </script>
-
         <!-- Bio Info -->        
         <script type="text/html" id="bio-info-template">
             <%if (Bio != null) {%>
@@ -599,5 +610,17 @@
             </div>
             <%}%>
         </script>
+        <!-- Propose Info -->
+        <!--
+        <script type="text/html" id="propose-info-template">
+            <%if (Propose) {%>
+                <section>
+                    <p style="text-align: center;">
+                        <img src="../img/propose/<%=Name%>.webp" height="400px"/>
+                    </p>
+                </section>
+            <%}%>
+        </script>
+        -->
     </body>
 </html>

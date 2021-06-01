@@ -581,6 +581,7 @@
       "Animation": "../img/Super/레인폴스_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

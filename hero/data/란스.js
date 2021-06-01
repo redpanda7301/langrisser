@@ -583,6 +583,7 @@
       "Animation": "../img/Super/란스_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

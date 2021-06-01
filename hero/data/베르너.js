@@ -607,6 +607,7 @@
       "Animation": "../img/Super/베르너_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

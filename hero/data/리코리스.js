@@ -648,6 +648,7 @@
       "Animation": "../img/Super/리코리스_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

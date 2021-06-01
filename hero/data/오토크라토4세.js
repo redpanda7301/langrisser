@@ -577,6 +577,7 @@
       "Animation": "../img/Super/오토크라토4세_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

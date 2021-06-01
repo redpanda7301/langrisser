@@ -509,6 +509,7 @@
       "Animation": "../img/Super/카즈마_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

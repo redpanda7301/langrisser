@@ -670,6 +670,7 @@
       "Animation": "../img/Super/아멜다_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

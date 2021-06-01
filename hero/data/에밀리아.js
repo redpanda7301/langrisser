@@ -567,6 +567,7 @@
       "Animation": "../img/Super/에밀리아_Ani.webp"
     }
   ],
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

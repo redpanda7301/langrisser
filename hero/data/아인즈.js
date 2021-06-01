@@ -579,6 +579,7 @@
       "Animation": "../img/Super/아인즈_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];

@@ -558,6 +558,7 @@
       "Animation": "../img/Super/렌_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

@@ -522,6 +522,7 @@
       "Animation": "../img/Super/아리안로드_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": [
     {
       "Entry": "영웅소개",

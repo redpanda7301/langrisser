@@ -545,6 +545,7 @@
       "Animation": "../img/Super/크림조의왕_Ani.webp"
     }
   ],
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];
