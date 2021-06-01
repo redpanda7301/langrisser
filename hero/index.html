@@ -161,10 +161,11 @@
                         </tr>
                         <tr>
                             <%if (Propose) {%>
-                            <th><img src="../img/Icon/ICON_Confession.webp" width="32" height="32" /></th>
+                            <!--<th><img src="../img/Icon/ICON_Confession.webp" width="32" height="32" /></th>
                                 <td colspan="3">
-                                    <label id ="propose_label" onclick="propose()">고백(gif 데이터 주의)</label>
+                                    <label id ="lbPropose" onclick="propose()">고백(gif 데이터 주의)</label>
                                 </td>
+                            -->
                             <%}%>
                         </tr>
                     </table>
@@ -552,7 +553,8 @@
                         <%if (skill.Animation != null) {%>
                         <tr>
                             <td colspan="4">
-                                <img id="Super" onclick="changeSuper()" src="<%=skill.Animation%>"  width="70%" />
+                                <!--<img id="Super" onclick="changeSuper()" src="<%=skill.Animation%>"  width="70%" />-->
+                                <img id="Super" src="<%=skill.Animation%>"  width="70%" />
                             </td>
                         </tr>
                         <%}%>
