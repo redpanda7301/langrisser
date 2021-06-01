@@ -148,7 +148,7 @@ function propose(){
     var heroName = getParameterByName("name");    
     var img =new Image();
     $(location).attr('protocol') + $(location).attr('host');
-    var url = "../../img/propose/"+heroName+".gif";
+    var url = "../img/propose/"+heroName+".gif";
     img.src = url;
     var img_width=img.width;
     var win_width=img.width+25;
