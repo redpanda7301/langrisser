@@ -38,8 +38,6 @@
                         <div id="bio-info"></div>
                         <!-- Performance Info -->
                         <div id="performance-info"></div>
-                        <!-- Propose Info -->
-                        <!--<div id="propose-info"></div>-->
                     </div>
                 </div>                
             </div>
@@ -161,11 +159,10 @@
                         </tr>
                         <tr>
                             <%if (Propose) {%>
-                            <!--<th><img src="../img/Icon/ICON_Confession.webp" width="32" height="32" /></th>
+                            <th><img src="../img/Icon/ICON_Confession.webp" width="32" height="32" /></th>
                                 <td colspan="3">
-                                    <label id ="lbPropose" onclick="propose()">고백(gif 데이터 주의)</label>
-                                </td>
-                            -->
+                                    <a style="cursor:pointer;" onclick="propose('https://redpanda7301.github.io/langrisser/img/propose/')">고백(gif 데이터 주의)</a>
+                                </td>                            
                             <%}%>
                         </tr>
                     </table>
@@ -612,17 +609,5 @@
             </div>
             <%}%>
         </script>
-        <!-- Propose Info -->
-        <!--
-        <script type="text/html" id="propose-info-template">
-            <%if (Propose) {%>
-                <section>
-                    <p style="text-align: center;">
-                        <img src="../img/propose/<%=Name%>.webp" height="400px"/>
-                    </p>
-                </section>
-            <%}%>
-        </script>
-        -->
     </body>
 </html>

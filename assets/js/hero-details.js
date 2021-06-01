@@ -135,7 +135,7 @@ function showSlides(n) {
 }
 function changeSuper(){
     var imgTag = document.getElementById("Super");
-    var imgSrc = imgTag.getAttribute("src");
+    var imgSrc = document.getElementById("Super").getAttribute("src");
     imgSrc = imgSrc.substring(0,imgSrc.lastIndexOf("_",imgSrc.length));
     if(imgTag.src.match("_Ani.webp")){
         imgTag.setAttribute("src",imgSrc+"_Standing.webp");
@@ -144,47 +144,18 @@ function changeSuper(){
     }
     
 }
-function propose(){
-    var heroName = getParameterByName("name");    
-    var img =new Image();
-    var imgPath = $(location).attr('protocol') + $(location).attr('host');
-    var url = "/img/propose/"+heroName+".gif";
-    var imgSize = imgPath.substring(imgPath,0,imgPath.lastIndexOf("/",imgPath.length)) + url
-    
-    img.src = imgSize;
-    alert(imgSize);
-    var img_width=img.width;
-    var win_width=img.width+25;
-    var img_height=img.height;
-    var win=img.height+30;
-    
-    var OpenWindow=window.open('','_blank', 'width='+img_width+', height='+img_height+', menubars=no, scrollbars=auto');
-    OpenWindow.document.write("<style>body{margin:0px;}</style><img id ='propose_Img' src='../"+url+"'/>");
-    //OpenWindow.document.write("<style>body{margin:0px;}</style><img src=../img/propose/유리아.gif width='"+win_width+"'>");
-}
-/*
-function propose_Animation(){
-    var imgTag = document.getElementById("propose_Img");
-    var imgSrc = document.getElementById("propose_Img").getAttribute("src");
-    imgSrc = imgSrc.substring(0,imgSrc.lastIndexOf(".",imgSrc.length));
-    alert(imgSrc);
-    if(imgTag.src.match("gif")){
-        imgTag.setAttribute("src",imgSrc+".webp");
-    } else {
-        imgTag.setAttribute("src",imgSrc+".gif");
-    }
-    
-}
-*/
-/*
 function propose(url){
+    var heroName = getParameterByName("name");  
+    var imgUrl = url + heroName+".gif";
     var img=new Image();
-    img.src=url;
+    img.src=imgUrl;
     var img_width=img.width;
     var win_width=img.width+25;
     var img_height=img.height;
-    var win=img.height+30;
-    var OpenWindow=window.open('','_blank', 'width='+img_width+', height='+img_height+', menubars=no, scrollbars=auto');
-    OpenWindow.document.write("<style>body{margin:0px;}</style><img src='"+url+"' width='"+win_width+"'>");
+    var win_height=img.height+30;
+
+    //var OpenWindow=window.open('','_blank', 'width='+img_width+', height='+img_height+', menubars=no, scrollbars=auto');
+    //OpenWindow.document.write("<style>body{margin:0px;}</style><img src='"+imgUrl+"' width='"+win_width+"'>");
+    var OpenWindow=window.open('','_blank', 'width=70%, status=no, toolbar=no, menubars=no, scrollbars=no');
+    OpenWindow.document.write("<style>body{margin:0px;}</style><img src='"+imgUrl+"' width=100%; height=100%'/>");
 }
-*/
