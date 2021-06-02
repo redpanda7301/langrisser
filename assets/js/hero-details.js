@@ -146,7 +146,8 @@ function changeSuper(){
 }
 function propose(url){
     var heroName = getParameterByName("name");  
-    var imgUrl = url + heroName+".gif";
+    var imgUrl = url+"propose/" + heroName+".gif";
+    var bgimgUrl = url +"propose_background/"+heroName+".webp";
     var img=new Image();
     img.src=imgUrl;
     var img_width=img.width;
@@ -157,5 +158,5 @@ function propose(url){
     //var OpenWindow=window.open('','_blank', 'width='+img_width+', height='+img_height+', menubars=no, scrollbars=auto');
     //OpenWindow.document.write("<style>body{margin:0px;}</style><img src='"+imgUrl+"' width='"+win_width+"'>");
     var OpenWindow=window.open('','_blank', 'width=70%, status=no, toolbar=no, menubars=no, scrollbars=no');
-    OpenWindow.document.write("<style>body{margin:0px;}</style><img src='"+imgUrl+"' width=100%; height=100%'/>");
+    OpenWindow.document.write("<style>body{margin:0px;}</style><img src='"+imgUrl+"' style='height:100%; width:100%; background-image: url('"+bgimgUrl+"')/>");
 }
