@@ -86,7 +86,7 @@
   "SPTalent": null,
   "Equip": {
     "Name": "여신의 성스러운 옷(갑옷)",
-    "Stats": "생명 583,마방 54",
+    "Stats": "생명 583,방어 54",
     "Icon": "유리아.webp",
     "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>))%<br/><b>영웅이 <font color =\"purple\">고유 스킬</font>로 부활시<br/><b>전투 진입 전 적에게</b> 지력 <font color =\"red\">2</font>배 수치 <font color =\"blue\">고정피해</font> 및 <br/><b>자신에게</b> 지력 <font color =\"red\">2</font>배 수치의 <font color =\"blue\">생명 회복</font><br/>지속 <font color =\"red\">1</font>행동"
   },
