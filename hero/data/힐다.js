@@ -116,8 +116,8 @@
       "MagicDefRate": 28,
       "Skill": 106,
       "SkillRate": 37,
-      "HeartFetterBouns1": "공격하여 전투진입 시, 부대 받는 피해감소 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "공격받아 전투진입 시, 입히는 피해  <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "공격하여 전투진입 시<br/> 부대 받는 피해감소 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "공격받아 전투진입 시<br?> 입히는 피해  <font color=\"red\">+10</font>%"
     },
     {
       "Name": "로열나이트",
@@ -148,8 +148,8 @@
       "MagicDefRate": 60,
       "Skill": 118,
       "SkillRate": 33,
-      "HeartFetterBouns1": "부대 체력이 <font color=\"red\">80</font>%이상일 시, 받는 치명타확률 <font color=\"red\">-10</font>% 감소",
-      "HeartFetterBouns2": "공격하여 전투진입 시, 주는 피해량 <font color=\"red\">+10</font>% 증가"
+      "HeartFetterBouns1": "부대 체력이 <font color=\"red\">80</font>% 이상일 시,<br/> 받는 치명타확률 <font color=\"red\">-10</font>% 감소",
+      "HeartFetterBouns2": "공격하여 전투진입 시,<br/> 주는 피해량 <font color=\"red\">+10</font>% 증가"
     }
   ],
   "Materials": {
@@ -436,7 +436,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Hilder/1.webp",
-      "Desc": "[패시브]근접 공격으로 전투 진입 시 공격 <font color=\"red\">+15</font>%,<br/>전투 전 <b><font color=\"blue\">적의 무기 스킬 무효화 (최대 생명 수치 제외)</font></b>,<br/>목표가 NPC 일 경우 해당 효과는 '공격 지력 <font color=\"red\">-25</font>%'로 대체, <br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브]근접 공격으로 전투 진입 시 공격 <font color=\"red\">+15</font>%,<br/>전투 전 <b><font color=\"blue\">적의 무기 스킬 무효화</font>(최대 생명 수치 제외)</b>,<br/>목표가 NPC 일 경우 해당 효과는 '공격 지력 <font color=\"red\">-25</font>%'로 대체, <br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -488,7 +488,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Hilder/2.webp",
-      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 호위<br/>[액티브]직선 상 적에게 0.1배 물리 피해 및 자신의 호위 범위 <font color=\"red\">2</font>칸으로 증가   <br/>피격 치명타 확률 <font color=\"red\">-20</font>%, 지속 <font color=\"red\">2</font>행동<br/>적이 혼합 부대일 경우 해당 고정 피해는 면역 불가.<br/>스킬 명중한 지형에 '<b><font color=\"blue\">함몰</font></b>' 효과 부여 : <br/>해당 지형으로 이동한 적군은 '<b><font color=\"blue\">재이동</font> 및 <font color=\"blue\">재행동</font></b> 불가'",
+      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 호위<br/>[액티브]직선 상 적에게 <font color =\"red\">0.1</font>배 물리 피해 및 자신의 호위 범위 <font color=\"red\">2</font>칸으로 증가   <br/>피격 치명타 확률 <font color=\"red\">-20</font>%, 지속 <font color=\"red\">2</font>행동<br/>적이 혼합 부대일 경우 해당 고정 피해는 면역 불가.<br/>스킬 명중한 지형에 '<b><font color=\"blue\">함몰</font></b>' 효과 부여 : <br/>해당 지형으로 이동한 적군은 '<b><font color=\"blue\">재이동</font> 및 <font color=\"blue\">재행동</font></b> 불가'",
       "SubSkills": null,
       "Animation": null
     },
