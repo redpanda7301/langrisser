@@ -542,7 +542,7 @@
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Hilder/3.webp",
-      "Desc": "[패시브]원거리 공격받아 전투 진입 시 공격 <font color=\"red\">+15</font>%, 받는 피해량 <font color=\"red\">-10</font>%<br/>최대 <font color=\"red\">3</font>칸 <b><font color=\"blue\">원거리 물리 공격 반격</font></b>",
+      "Desc": "[패시브]<b>원거리 <font color =\"blue\">물리 공격</font>받아 전투 진입 시</b> 공격 <font color=\"red\">+15</font>%, 받는 피해량 <font color=\"red\">-10</font>%<br/>최대 <font color=\"red\">3</font>칸 <b><font color=\"blue\">원거리 물리 공격 반격</font></b>",
       "SubSkills": null,
       "Animation": null
     },
