@@ -59,6 +59,8 @@
 <section>
 	<img class="filterDiv 극성의나라" style="cursor:pointer;" onclick="openForm20()" src="https://storage.googleapis.com/langmosheet-data/img/banner/Mystsries_008.webp" width=100%/>	
 		<div class="chat-popup" id="myForm20">
+			<form class="form-container">
+			<button type="button" class="btn cancel" onclick="closeForm20()">Close</button>
 			<div class="view_title">토르</div>
 			<table border="0" cellpadding="0" cellspacing="1">
 				<tr>
@@ -73,7 +75,7 @@
 					<br/><font color=#DC143C>일반 맵에서 고대신을 소환하여 전장에서 아군을 도와주는 아군으로도 활용할수있다.</font>
 				</tr>
 			</table>
-			<div class="view_title">초기능력치(모든 능력치 +3% X Lv)</div>
+			<div class="view_title">초기능력치(모든 능력치 +3% * Lv)</div>
 			<table border="0" cellpadding="0" cellspacing="1">
 				<colgroup>
 					<col width="40%">
@@ -85,8 +87,8 @@
 					<col width="*">
 				</colgroup>
 				<tr>
-					<th rowspan="8" colspan="2"><img src="https://storage.googleapis.com/langmosheet-data/img/norse/토르.webp"/>
-					</th>
+					<td rowspan="8" colspan="2" background-color="#ffffff"><img src="https://storage.googleapis.com/langmosheet-data/img/norse/토르.webp" width="50%"/>
+					</td>
 				</tr>
 				<tr>
 					<!--사거리-->
@@ -172,17 +174,9 @@
 				</tr>
 			</table>
 			<table border="0" cellpadding="0" cellspacing="1">
-					<colgroup>
-						<col width="25%">
-						<col width="25%">
-						<col width="25%">
-						<col width="25%">
-					</colgroup>
+				<tr><th colspan="2">고유기술 : 천둥신의 망치</th></tr>
+				<tr><td><img src="https://storage.googleapis.com/langmosheet-data/img/norse/토르/Gift_Thor.webp" width="100px" height="90px" /></td></tr>
 					<tr>
-						<td colspan="4"><b><font color="#0070c0">고유 스킬 : 천둥신의 망치</font></b></td>
-					</tr>
-					<tr>
-						<td class="td_pd10"><img src="https://storage.googleapis.com/langmosheet-data/img/norse/토르/0.webp" width="100px" height="90px"/></td>
 						<td colspan="3"><b>토르가 전장에 있을 경우, <font color="purple">천둥신의 망치</font></b> 주위 <font color="red">2</font>칸 범위 내에 있는 
 						<br/><b>다른 아군에게</b> [<font color ="blue">천둥의 힘</font>] 지휘 효과 부여
 						<br/>[<font color ="blue">천둥의 힘</font>]:<b>선공으로 전투 진입 후 행동 종료 시 피해를 입힐 때마다</b> <font color ="blue">천둥의 힘</font>가 [<font color ="dark blue">천둥 폭발</font>] 효과 발동
@@ -264,6 +258,8 @@
 					<tr>
 						<th>유형</th>
 						<td>지휘</td>
+						<th>쿨타임</th>
+						<td>-</td>
 					</tr>
 					<tr>
 						<th>사거리</th>
