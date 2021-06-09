@@ -109,7 +109,7 @@
       "MagicDefRate": 64,
       "Skill": 159,
       "SkillRate": 45,
-      "HeartFetterBouns1": "부대 생명이 70%이하일떄 전투중 받는피해 -10%",
+      "HeartFetterBouns1": "부대 생명이 70%이하일때 전투중 받는피해 -10%",
       "HeartFetterBouns2": "부대 생명이 70%이하일때 전투중 입히는피해 +10%"
     },
     {

@@ -184,7 +184,7 @@
       "Skill": 99,
       "SkillRate": 28,
       "HeartFetterBouns1": "'약화효과'가 있는 대상에게 공격받아 전투진입시 받는피해 -10%",
-      "HeartFetterBouns2": "생명이 80%이상일떄 전투중 입히는피해 +10%"
+      "HeartFetterBouns2": "생명이 80%이상일때 전투중 입히는피해 +10%"
     }
   ],
   "Materials": {

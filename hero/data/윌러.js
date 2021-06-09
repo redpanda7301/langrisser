@@ -121,7 +121,7 @@
       "MagicDefRate": 67,
       "Skill": 80,
       "SkillRate": 22,
-      "HeartFetterBouns1": "생명이 100%일떄 받는피해 -10%",
+      "HeartFetterBouns1": "생명이 100%일때 받는피해 -10%",
       "HeartFetterBouns2": "생명이 100%일때 입히는피해 +10%"
     },
     {

@@ -149,7 +149,7 @@
       "Skill": 125,
       "SkillRate": 36,
       "HeartFetterBouns1": "공격하여 전투진입시 받는피해 -10%",
-      "HeartFetterBouns2": "생명이 70%이하일떄 입히는피해 +10%"
+      "HeartFetterBouns2": "생명이 70%이하일때 입히는피해 +10%"
     }
   ],
   "Materials": {
