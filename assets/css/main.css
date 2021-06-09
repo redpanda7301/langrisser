@@ -2197,3 +2197,7 @@ div.view_title { position: relative; height: 32px; line-height: 32px; font-size:
 	border-bottom: 2px solid #ec5e00;}
 div.view_title a { position: absolute; top: 12px; right: 0; display: block; width: 50px; height: 20px; line-height: 22px; text-align: center; font-size: 12px;
 	color: #fff; background-color: #555;}
+
+#banner-wrapper img {
+	width: 100%;
+}
