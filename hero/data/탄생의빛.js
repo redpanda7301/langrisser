@@ -321,7 +321,7 @@
       ]
     },
     {
-      "ClassTitle": "세인트 : 지력+25, 마방<font color=\"red\">+1</font>0, 생명+90",
+      "ClassTitle": "세인트 : 지력+25, 마방 +10, 생명+90",
       "Tiers": [
         {
           "Name": "T1",
@@ -335,7 +335,7 @@
         {
           "Name": "T2",
           "Materials": [
-            "rank6-4",
+            "rank6-8",
             "rank6-7",
             "rank5-4",
             "rank5-5"
