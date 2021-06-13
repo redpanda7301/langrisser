@@ -560,7 +560,7 @@
           "Entries": [
             {
               "Label": "유형",
-              "Value": "마법 피해"
+              "Value": "물리 피해"
             },
             {
               "Label": "쿨타임",
@@ -586,7 +586,7 @@
           "Entries": [
             {
               "Label": "유형",
-              "Value": "물리 피해"
+              "Value": "마법 피해"
             },
             {
               "Label": "쿨타임",
