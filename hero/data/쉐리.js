@@ -7,7 +7,7 @@
     },
     {
       "ImageUrl": "쉐리/4.webp",
-      "Desc": "형귀스킨"
+      "Desc": "한정판매"
     },
     {
       "ImageUrl": "쉐리/2.webp",
@@ -15,7 +15,7 @@
     },
     {
       "ImageUrl": "쉐리/3.webp",
-      "Desc": "한정판매"
+      "Desc": "형귀스킨"
     },
     {
       "ImageUrl": "쉐리/5.webp",
