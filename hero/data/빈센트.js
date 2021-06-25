@@ -75,7 +75,7 @@
   "Equip": {
     "Name": "맹세를 저버린 자의 폭풍(갑옷)",
     "Stats": "생명 509,방어 59",
-    "Icon": "헬레나.webp",
+    "Icon": "빈센트.webp",
     "Ability": "방어 <font color=\"red\">+10</font>%<br/><b>이동력 <font color=\"red\">1</font>칸 당 치명타 확률 <font color=\"red\">+1</font>% (최대 <font color=\"red\">+3</font>%)<br/><b>선공으로 전투 진입시 치명타 발동 후</b> 적의 <font color=\"blue\">버프</font><font color=\"red\">1</font>개 제거"
   },
   "Soldiers": [
