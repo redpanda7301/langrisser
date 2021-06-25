@@ -84,7 +84,7 @@
   ],
   "Jobs": [
     {
-      "Name": "검사 대장",
+      "Name": "검사 대장(스탯확인중)",
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {

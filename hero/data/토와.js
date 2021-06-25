@@ -583,7 +583,7 @@
       "Animation": "../img/Super/토와_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",
