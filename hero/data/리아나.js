@@ -415,7 +415,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.webp",
+      "IconImageUrl": "../img/skills/17.webp",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -441,7 +441,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_NewTurn.webp",
+      "IconImageUrl": "../img/skills/Skill_NewTurn.webp",
       "Desc": "[지원]액티브 스킬, 행동을 마친 아군 1부대를 다시 행동할 수 있게 하며<br/>사용자 지력 2배의 생명을 회복시킨다.",
       "SubSkills": null,
       "Animation": null
@@ -467,7 +467,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.webp",
+      "IconImageUrl": "../img/skills/Skill_WindStrike.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -493,7 +493,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassDefup.webp",
+      "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -519,7 +519,7 @@
           "Value": "6칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HealSuper.webp",
+      "IconImageUrl": "../img/skills/Skill_HealSuper.webp",
       "Desc": "[지원]광범위 부대에게 지력 4배만큼 생명을 회복한다.<br/>그리고 행동 종료 시 생명을 20% 회복한다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -545,7 +545,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
+      "IconImageUrl": "../img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -559,7 +559,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/22.webp",
+      "IconImageUrl": "../img/skills/22.webp",
       "Desc": "[패시브] 부대 생명이 90%이상일 시 지력, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -585,7 +585,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SkyArcher01.webp",
+      "IconImageUrl": "../img/skills/Skill_SkyArcher01.webp",
       "Desc": "[소환] 천공사수 1기 소환",
       "SubSkills": null,
       "Animation": null
@@ -611,7 +611,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Bless.webp",
+      "IconImageUrl": "../img/skills/Skill_Bless.webp",
       "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br/>모든 디버프에 면역. 2턴 지속.",
       "SubSkills": null,
       "Animation": null

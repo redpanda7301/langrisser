@@ -643,7 +643,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Barb.webp",
+      "IconImageUrl": "../img/skills/Passive_Barb.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입시 전투 후 부대 생명이 50%이상이라면 [미늘]을 발동한다:<br/>전투 종료 후 적 부대에게 영웅 방어 2.5배만큼의 [고정 피해]를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -657,7 +657,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/26.webp",
+      "IconImageUrl": "../img/skills/26.webp",
       "Desc": "[패시브]받는 물리 피해량 -5%,<br/>근접한 아군 부대가 물리 공격을 받을 시 대신하여 전투에 진입한다.",
       "SubSkills": null,
       "Animation": null
@@ -683,7 +683,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BitterlyHit.webp",
+      "IconImageUrl": "../img/skills/Skill_BitterlyHit.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br/>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -709,7 +709,7 @@
           "Value": "맵 전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Origin1.webp",
+      "IconImageUrl": "../img/skills/SuperBuff_Origin1.webp",
       "Desc": "[초절강화] 액티브 스킬. 범위 내 모든 '빛의 기원' 아군의 공격, 방어 능력치가 크게<br/>상승하고 4턴 지속. (이 효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -723,7 +723,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.webp",
+      "IconImageUrl": "../img/skills/Passive_Parry.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -737,7 +737,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf1.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf1.webp",
       "Desc": "[패시브]공격을 받아 전투 진입 전 자신 방어 <font color=\"red\">+5%</font>, <font color=\"red\">1턴</font> 지속. 중첩 가능.",
       "SubSkills": null,
       "Animation": null
@@ -763,7 +763,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IronRose.webp",
+      "IconImageUrl": "../img/skills/Skill_IronRose.webp",
       "Desc": "[패시브]근접한 아군을 대신해 마법 공격을 받는다.<br/>[액티브]호위 범위 2칸으로 상승. 받는 마법 피해-20%,<br/>[강철 장미]효과 부여:'마방'의 0.8배로 '방어'대체,<br/>전투 종료 후 적에게 영웅 마방의 2.5배 [고정 피해]를 입힌다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -777,7 +777,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Dedication.webp",
+      "IconImageUrl": "../img/skills/Skill_Dedication.webp",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br/>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -803,7 +803,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassDefup.webp",
+      "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -817,7 +817,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/프레아/1.webp",
+      "IconImageUrl": "../img/skills/sp/프레아/1.webp",
       "Desc": "[패시브]피격으로 전투 전투 진입 후 적에게 프레아 방어 + 마방 <font color=\"red\">1</font>배 수치의 고정피해,<br/><b>적이 혼합 부대일 경우 해당 고정 피해는 <font color=\"red\">면역 불가</font></b>",
       "SubSkills": null,
       "Animation": null
@@ -843,10 +843,36 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/프레아/2.webp",
+      "IconImageUrl": "../img/skills/sp/프레아/2.webp",
       "Desc": "[패시브] 인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>[액티브]직선 상 적에게 <font color=\"red\">0.1</font>배 물리 피해 및 프레아 방어 + 마방 <font color=\"red\">1</font>배 수치의 <b>고정피해</b>.<br/><b>적이 혼합 부대일 경우 해당 고정 피해는 <font color=\"red\">면역 불가</font></b>.<br/>호위 범위가 2칸으로 확장 및 '<font color=\"blue\">장미 덩쿨</font>' 효과 부여 :<br/> 전투 후 '<font color=\"blue\">수정 가시</font>의 '<font color=\"blue\">고정 피해</font> 효과가 반드시 발동한다. <br/><font color=\"red\">2</font>턴지속)",
       "SubSkills": null,
       "Animation": null
+    },
+    {
+      "Name": "만개한 장미",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "초절강화"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "맵전체"
+        }
+      ],
+      "IconImageUrl": "../img/Super/프레아.webp",
+      "Desc": "[패시브]<b>인접한 아군이 받는 모든 피해를 대신 받는다. <font color=\"blue\">치료 불가</font> 면역</b><br/>호위 범위가 <font color =\"red\">2</font>칸으로 증가 '<font color =\"blue\">장미의 진</font>'효과 획득 <br/><font color =\"blue\">장미의 진</font> : 전투 종료 후 <font color =\"blue\">수정 가시</font>의 <b><font color=\"blue\">고정 피해</font>가 반드시 발동한다.</b><br/>[초절강화]범위 내 모든 '<font color=\"green\">빛의 기원</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승 및 <br/><b>전투 진입 시 피해량 <font color=\"red\">+12</font>% <br/>자신의 부대가 혼합 부대가 아닐 경우 추가 피해 <font color=\"red\">+5</font>%",
+      "SubSkills": null,
+      "Animation": "../img/Super/프레아_Ani.webp"
     }
   ],
   "Propose": true,

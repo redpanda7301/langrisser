@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Gizlof.webp",
+      "IconImageUrl": "../img/skills/Skill_Gizlof.webp",
       "Desc": "[소환]구조체 1개를 소환해 랜덤으로 1회 '개조'한다.<br/>(구조체의 생명 속성은 생명자의 최대 생명 100% 계승,<br/>나머지 속성은 소환하는 순간 소환자의 해당 속성 100% 계승)",
       "SubSkills": null,
       "Animation": null
@@ -426,7 +426,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
+      "IconImageUrl": "../img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -452,7 +452,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.webp",
+      "IconImageUrl": "../img/skills/25.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -478,7 +478,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Transcendency.webp",
+      "IconImageUrl": "../img/skills/Skill_Transcendency.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '초월 영역' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 1턴 내에 적을 처치한 후,<br/>자신의 모든 스킬 쿨타임 1턴 감소.<br/>본인 사망 시 모든 아군의 스킬 쿨타임 1턴 감소,4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -504,7 +504,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkRay2.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkRay2.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'승려'와 전투 시 더 큰 피해를 입힌다. 디버프 1개 랜덤 부여.",
       "SubSkills": null,
       "Animation": null
@@ -530,7 +530,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_ThunderCrash.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -556,7 +556,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.webp",
+      "IconImageUrl": "../img/skills/Skill_JamMove.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -582,7 +582,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThundeRay2.webp",
+      "IconImageUrl": "../img/skills/Skill_ThundeRay2.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'기병'과 전투 시 더 큰 피해를 입힌다. 적군의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -608,7 +608,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
+      "IconImageUrl": "../img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null

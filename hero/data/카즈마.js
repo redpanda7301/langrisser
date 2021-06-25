@@ -343,7 +343,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Guard.webp",
+      "IconImageUrl": "../img/skills/Passive_Guard.webp",
       "Desc": "[액티브] 액티브 스킬, 근접한 <font color=\"red\">2</font>칸 내 아군이 물리 공격을 받을 시 대신 전투에 진입한다. <font color=\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -357,7 +357,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.webp",
+      "IconImageUrl": "../img/skills/Passive_AtkBuf6.webp",
       "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -383,7 +383,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordDance.webp",
+      "IconImageUrl": "../img/skills/Skill_SwordDance.webp",
       "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -397,7 +397,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.webp",
+      "IconImageUrl": "../img/skills/Skill_Again.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -423,7 +423,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Kazuma2.webp",
+      "IconImageUrl": "../img/skills/Skill_Kazuma2.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/>전투 전, 적 버프<font color=\"red\">2</font>개를 무작위 디버프로 변환.",
       "SubSkills": null,
       "Animation": null
@@ -449,7 +449,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Kazuma1.webp",
+      "IconImageUrl": "../img/skills/Skill_Kazuma1.webp",
       "Desc": "[패시브] 치명적 피해를 입을 경우 사망하지 않고 생명 <font color=\"red\">10%</font> 회복.<br/>이 효과는 최대 <font color=\"red\">1</font>회만 발동 가능.<br/>[액티브] 주위 <font color=\"red\">2</font>칸 내 아군을 대신하여 물리 피해를 받는다.<br/>동시에 [건강] 이 발동 (건강: 공격의 <font color=\"red\">0.6</font>배 수치를 방어로 전환) (2턴 지속)",
       "SubSkills": null,
       "Animation": null
@@ -463,7 +463,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -477,7 +477,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.webp",
+      "IconImageUrl": "../img/skills/Passive_Parry.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
       "SubSkills": null,
       "Animation": null

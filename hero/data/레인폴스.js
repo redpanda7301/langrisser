@@ -401,7 +401,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Lainforce1.webp",
+      "IconImageUrl": "../img/skills/Skill_Lainforce1.webp",
       "Desc": "[물리 피해] 라인에 있는 모든 적을 관통하며 0.18배 범위 피해를 입힌다.<br/>치명타 발생시 스킬 쿨타임 -1턴.",
       "SubSkills": null,
       "Animation": null
@@ -415,7 +415,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TrickStep.webp",
+      "IconImageUrl": "../img/skills/Skill_TrickStep.webp",
       "Desc": "[패시브]치명타 확률+10%.<br/>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -441,7 +441,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/0.webp",
+      "IconImageUrl": "../img/skills/0.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -455,7 +455,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_CriBuf.webp",
+      "IconImageUrl": "../img/skills/Passive_CriBuf.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -481,7 +481,7 @@
           "Value": "2칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Lainforce3.webp",
+      "IconImageUrl": "../img/skills/Skill_Lainforce3.webp",
       "Desc": "[물리 피해] 스킬 사용 지점으로 순간이동 하며 <br/>주위 2칸 범위의 모든 적에게 0.3배의 피해 및 강화버프를 1개 강탈한다.<br/>치명타 발생시 강력한 디버프 1개 부여.",
       "SubSkills": null,
       "Animation": null
@@ -495,7 +495,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass3.webp",
+      "IconImageUrl": "../img/skills/Passive_Ass3.webp",
       "Desc": "[패시브]치명타 피해량 +20%. 전투 중 치명타가 발생한 경우<br/>전투 종료 후 받는 모든 피해량 -30%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -509,7 +509,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.webp",
+      "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
       "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -535,7 +535,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Lainforce2.webp",
+      "IconImageUrl": "../img/skills/Skill_Lainforce2.webp",
       "Desc": "[물리 피해] 라인에 있는 모든 적을 관통하며 0.33배 범위 피해를 입힌다.<br/>공격 중 스킬의 가장 먼 사거리로 이동하며<br/>2명 이상의 적에게 적중 시 적중당한 적의 위치를 랜덤하게 변경한다.",
       "SubSkills": null,
       "Animation": null
@@ -549,7 +549,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BothBuf1.webp",
+      "IconImageUrl": "../img/skills/Passive_BothBuf1.webp",
       "Desc": "[패시브]부대 생명이 90% 이상일 시 공격,방어 +10%.",
       "SubSkills": null,
       "Animation": null

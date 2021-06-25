@@ -368,7 +368,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.webp",
+      "IconImageUrl": "../img/skills/Skill_KnightCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -382,7 +382,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helena1.webp",
+      "IconImageUrl": "../img/skills/Skill_Helena1.webp",
       "Desc": "[패시브]행동종료시, 주위 1바퀴 범위내 모든 적군에게 0.1배의 범위피해를 주고,<br/>25%확률로 적군에게 '임의의 장비스킬 무효화(최대생명치제외)', 2턴 지속.<br/>NPC의 경우 임의의 속성 -25%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -408,7 +408,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.webp",
+      "IconImageUrl": "../img/skills/Passive_Punch.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -422,7 +422,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.webp",
+      "IconImageUrl": "../img/skills/Passive_KnightWave.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null
@@ -448,7 +448,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helena2.webp",
+      "IconImageUrl": "../img/skills/Skill_Helena2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.6배의 피해를 준다.<br/>전투후 적군의 '장신구 스킬 무효화', 2턴 지속. 제거불가.<br/>NPC의 경우 '받는피해상승 +30%', 2턴 지속. 제거불가.",
       "SubSkills": null,
       "Animation": null
@@ -474,7 +474,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash3.webp",
+      "IconImageUrl": "../img/skills/Skill_KnightCrash3.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 다음 턴 행동 불가 부여.",
       "SubSkills": null,
       "Animation": null
@@ -488,7 +488,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
+      "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 공격, 지력 -20%, 1턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -514,7 +514,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSoul.webp",
+      "IconImageUrl": "../img/skills/Skill_KnightSoul.webp",
       "Desc": "[지원]액티브 스킬, 자신 부대의 공격+30%, 동시에 [면역],[폭풍],[증원]효과 부여, 2턴 지속.<br/>사용 후 추가로 3칸 이동할 수 있고 공격이 가능하다.",
       "SubSkills": null,
       "Animation": null

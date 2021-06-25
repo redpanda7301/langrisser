@@ -354,7 +354,7 @@
           "Value": "2칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Rean4.webp",
+      "IconImageUrl": "../img/skills/Skill_Rean4.webp",
       "Desc": "[물리 피해]범위내 다수의 적군에게 0.1배의 범위피해를 입힌다.<br/>[귀신화]상태일경우 '멸 단풍베기'로 변환.<br/>[멸 단풍베기]: 기술 범위+1, 피해계수 0.15배. 50%확률로 적군에게 디버프 1개 부여.",
       "SubSkills": null,
       "Animation": null
@@ -380,7 +380,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.webp",
+      "IconImageUrl": "../img/skills/36.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -406,7 +406,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Rean3.webp",
+      "IconImageUrl": "../img/skills/Skill_Rean3.webp",
       "Desc": "[물리 피해]1줄 직선상의 모든 적군에게 0.2배의 범위피해를 입힌다.<br/>50%확률로 적군에게 디버프 1개 부여.<br/>[귀신화]상태일경우 '멸 호영참'으로 변환.<br/>[멸 호영참]: 기술 범위+1, 피해계수 0.3배. 100%확률로 적군에게 디버프 1개 부여.",
       "SubSkills": null,
       "Animation": null
@@ -432,7 +432,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordCrash3.webp",
+      "IconImageUrl": "../img/skills/Skill_SwordCrash3.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배 피해를 준다. 치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
@@ -446,7 +446,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_SwordSpirit.webp",
+      "IconImageUrl": "../img/skills/Passive_SwordSpirit.webp",
       "Desc": "[패시브]받는 치료 효과 +15%.<br/>근접 공격을 받아 전투 진입 시 공격,방어 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -472,7 +472,7 @@
           "Value": "자신"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Rean1.webp",
+      "IconImageUrl": "../img/skills/Skill_Rean1.webp",
       "Desc": "[변신]스킬 사용후 모든 기술의 쿨타임 -1턴.(신기합일포함)<br/>[귀신화] 상태 진입 : \"입히는피해 +30%, 받는피해-30%, 이동력+1,<br/>동시에 적에게 피해를 입힌후 디버프 1개 부여\", 3턴 지속.<br/>이미 [귀신화]일 경우 버프지속 +3턴.<br/>[귀신화]상태 종료후 스킬사용불가 2턴 지속.<br/>(해당 스킬로 인한 모든 효과는 제거 및 면역 불가 : 스킬사용후, 행동 종료시<br/>자신이 보유중인 모든 강화버프 효과의 지속시간이 감소하지않음).",
       "SubSkills": null,
       "Animation": null
@@ -486,7 +486,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Eye.webp",
+      "IconImageUrl": "../img/skills/Passive_Eye.webp",
       "Desc": "[패시브]치명타율 +15%. 전투 진입 시 치명타가 발생한다면 전투 후<br/>적 부대의 모든 패시브 스킬의 효과를 무효화한다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -512,7 +512,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Rean2.webp",
+      "IconImageUrl": "../img/skills/Skill_Rean2.webp",
       "Desc": "[물리 피해]범위내 다수의 적군에게 0.2배의 범위피해를 입히고<br/>50% 확률로 디버프 1개 부여.<br/>[귀신화]상태일경우 '이질풍'로 변환.<br/>[이질풍]: 기술 범위+1, 피해계수 0.3배. 100%확률로 적군에게 디버프 1개 부여.",
       "SubSkills": null,
       "Animation": null

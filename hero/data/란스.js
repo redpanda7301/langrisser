@@ -391,7 +391,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.webp",
+      "IconImageUrl": "../img/skills/8.webp",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
       "SubSkills": null,
       "Animation": null
@@ -417,7 +417,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_FlyCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
       "SubSkills": null,
       "Animation": null
@@ -431,7 +431,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_FlyControl.webp",
+      "IconImageUrl": "../img/skills/Passive_FlyControl.webp",
       "Desc": "[패시브]생명이 50% 이상인 경우 전투 진입시 받는 모든 피해량 -15%.",
       "SubSkills": null,
       "Animation": null
@@ -457,7 +457,7 @@
           "Value": "맵 전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Empire1.webp",
+      "IconImageUrl": "../img/skills/SuperBuff_Empire1.webp",
       "Desc": "[초절강화] 액티브 스킬. 범위 내 모든 '제국의 빛' 아군의 공격, 방어 능력치가 크게<br/>상승하고 4턴 지속. (이 효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -471,7 +471,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefDown.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraDefDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -497,7 +497,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.webp",
+      "IconImageUrl": "../img/skills/Passive_Punch.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -511,7 +511,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.webp",
+      "IconImageUrl": "../img/skills/2.webp",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -525,7 +525,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightSuper.webp",
+      "IconImageUrl": "../img/skills/Skill_KnightSuper.webp",
       "Desc": "[패시브]공격 전 이동거리 1칸마다 공격+5% (최대 +15%).",
       "SubSkills": null,
       "Animation": null
@@ -551,7 +551,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.webp",
+      "IconImageUrl": "../img/skills/Skill_PHeal2.webp",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
       "SubSkills": null,
       "Animation": null

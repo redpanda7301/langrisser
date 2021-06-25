@@ -306,7 +306,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WaterCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_WaterCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>물 속에 있을 경우 2배의 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -332,7 +332,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ChainHook.webp",
+      "IconImageUrl": "../img/skills/Skill_ChainHook.webp",
       "Desc": "[물리 피해]전장 위 단일 적에게 0.25배의 물리 피해를 주고 자신의 곁으로 끌어온다.<br/>동시에 대상의 이동력-2, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -346,7 +346,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf3.webp",
+      "IconImageUrl": "../img/skills/Passive_AtkBuf3.webp",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -372,7 +372,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WaterControl.webp",
+      "IconImageUrl": "../img/skills/Skill_WaterControl.webp",
       "Desc": "[지원]사용 후 이동 시 통과하는 모든 지형을 '물 속'으로 취급한다.2턴 지속.<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -398,7 +398,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.webp",
+      "IconImageUrl": "../img/skills/Skill_PHeal2.webp",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -412,7 +412,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.webp",
+      "IconImageUrl": "../img/skills/13.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -438,7 +438,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/39.webp",
+      "IconImageUrl": "../img/skills/39.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
       "SubSkills": null,
       "Animation": null

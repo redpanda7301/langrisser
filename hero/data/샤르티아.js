@@ -357,7 +357,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Shalltear2.webp",
+      "IconImageUrl": "../img/skills/Skill_Shalltear2.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.3배</font>의 피해를 준다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.<br/>전투전 적군의 강화효과 2개 제거, 전투후 적군에게<br/>[상처저주] : 받는 치유량의 10% 수치로 피해 전환, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -371,7 +371,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_SPDBuf1.webp",
+      "IconImageUrl": "../img/skills/Passive_SPDBuf1.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 이동력+1 및<br/>면역:'이동력 저하','치료 반전', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -385,7 +385,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDexDown.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraDexDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 기술 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -399,7 +399,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.webp",
+      "IconImageUrl": "../img/skills/Skill_Again.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -413,7 +413,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Shalltear1.webp",
+      "IconImageUrl": "../img/skills/Skill_Shalltear1.webp",
       "Desc": "[패시브]공격하여 전투진입 2회이후 행동종료시, 재행동 1회 및 [광란]효과.<br/>[광란] : \"<b>받는 모든피해 <font color=\"red\">+15</font></b>%, <font color=\"red\">2</font>턴 지속(제거 및 면역불가)\",<br/>재행동 이후 다시 공격횟수 계산",
       "SubSkills": null,
       "Animation": null
@@ -439,7 +439,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/43.webp",
+      "IconImageUrl": "../img/skills/43.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br/>전투 후, 적 방어 -30%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -465,7 +465,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Shalltear3.webp",
+      "IconImageUrl": "../img/skills/Skill_Shalltear3.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.2배의 전투 피해를 준다.<br/>공격 전 이동 1칸마다 입히는 피해 +15%(최대 +45%).<br/>전투 진입전 적군에게 제거불가 강력한 약화효과 부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -479,7 +479,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.webp",
+      "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
       "SubSkills": null,
       "Animation": null
@@ -505,7 +505,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Shalltear4.webp",
+      "IconImageUrl": "../img/skills/Skill_Shalltear4.webp",
       "Desc": "[패시브]면역 \"상처 저주\",\"치료 반전\".<br/>[물리 피해] 단일 적 부대를 공격해 1.7배의 전투 피해를 준다.<br/>전투후 적군에게 \"치료 불가\",[피의 저주]부여, 2턴 지속(해제 불가)<br/>[피의 저주] : \"행동 종료시, 고정피해를 받고(피해량은 최대생명의 15%),<br/>동시에 모든 적군에게 피해량만큼의 생명회복\"",
       "SubSkills": null,
       "Animation": "../img/Super/샤르티아_Ani.webp"

@@ -410,7 +410,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FatalBlow.webp",
+      "IconImageUrl": "../img/skills/Skill_FatalBlow.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 피해를 준다.<br/>만약 전투 전 자신의 병사가 모두 죽었다면 호위를 무시하고<br/>직접 적 영웅에게 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -424,7 +424,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf3.webp",
+      "IconImageUrl": "../img/skills/Passive_AtkBuf3.webp",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -438,7 +438,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DorsalThorns.webp",
+      "IconImageUrl": "../img/skills/Skill_DorsalThorns.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 적 부대 생명이 100%일 경우<br/>전투 전 영웅 공격 2배의 고정 피해를 1회 입힘.",
       "SubSkills": null,
       "Animation": null
@@ -464,7 +464,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/6.webp",
+      "IconImageUrl": "../img/skills/6.webp",
       "Desc": "[물리 피해] 호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -478,7 +478,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TrickStep.webp",
+      "IconImageUrl": "../img/skills/Skill_TrickStep.webp",
       "Desc": "[패시브]치명타 확률+10%.<br/>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -492,7 +492,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.webp",
+      "IconImageUrl": "../img/skills/Passive_Ass2.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -518,7 +518,7 @@
           "Value": "맵 전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SureStrike.webp",
+      "IconImageUrl": "../img/skills/Skill_SureStrike.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '메테오 스트라이크' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 주위 1칸 내 아군이 없을 시 피해량+10%,<br/>적 부대 처치 후 2칸 재이동 가능, 행동 종료 시 20%생명 회복, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -544,7 +544,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MagicSword.webp",
+      "IconImageUrl": "../img/skills/Skill_MagicSword.webp",
       "Desc": "[액티브]모든 병사를 제물로 바친 후 '병사 회복 불가',<br/>'공격으로 전투 진입 시 피해량 +30%','모든 디버프 면역',<br/>'공격 후 입힌 피해량의 50%만큼 생명 회복'효과를 부여한다.<br/>제거 불가, 1턴 지속.",
       "SubSkills": null,
       "Animation": null

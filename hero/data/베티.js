@@ -401,7 +401,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.webp",
+      "IconImageUrl": "../img/skills/Skill_Thump.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -415,7 +415,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/42.webp",
+      "IconImageUrl": "../img/skills/42.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시, 공격 +12%",
       "SubSkills": null,
       "Animation": null
@@ -441,7 +441,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IronHand.webp",
+      "IconImageUrl": "../img/skills/Skill_IronHand.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br/>[응수]효과 획득, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -455,7 +455,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_SwordSpirit.webp",
+      "IconImageUrl": "../img/skills/Passive_SwordSpirit.webp",
       "Desc": "[패시브]받는 치료 효과 +15%.<br/>근접 공격을 받아 전투 진입 시 공격,방어 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -469,7 +469,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helmet.webp",
+      "IconImageUrl": "../img/skills/Skill_Helmet.webp",
       "Desc": "[패시브] 원거리 공격을 받을 시 <font color=\"#DC143C\">25%</font>확률로 부대가 받는 모든 피해 <font color=\"#DC143C\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -483,7 +483,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DoubleAttack.webp",
+      "IconImageUrl": "../img/skills/Passive_DoubleAttack.webp",
       "Desc": "[패시브]공격하여 전투 후 주위 1칸 범위 내 모든 적군에게 0.1배 범위 피해를 입힌다.",
       "SubSkills": null,
       "Animation": null
@@ -497,7 +497,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Solidarity.webp",
+      "IconImageUrl": "../img/skills/Skill_Solidarity.webp",
       "Desc": "[패시브] 주위 <font color=\"red\">2</font>칸 내 아군이 <font color=\"red\">1</font>명씩 있을 경우, 방어, 마방 <font color=\"red\">+5%</font>, 최대 <font color=\"red\">+15%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -511,7 +511,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDexDown.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraDexDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 기술 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -525,7 +525,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DexBuf5.webp",
+      "IconImageUrl": "../img/skills/Passive_DexBuf5.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 기술 +20% 및<br/>면역:'치료 반전','재행동 불가', 1턴 지속.",
       "SubSkills": null,
       "Animation": null

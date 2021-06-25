@@ -343,7 +343,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/17.webp",
+      "IconImageUrl": "../img/skills/17.webp",
       "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -369,7 +369,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MagicAttack.webp",
+      "IconImageUrl": "../img/skills/Skill_MagicAttack.webp",
       "Desc": "[지원]'마무'시전: 영웅이 입히는 모든 물리 피해를 마법 피해로 취급.<br/>공격의 10%를 지력에 추가, 4턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -395,7 +395,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_ValkCrash.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -409,7 +409,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Belief.webp",
+      "IconImageUrl": "../img/skills/Passive_Belief.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br/>전투 후 가장 생명이 적은 다른 아군 생명 회복, 회복량은 자신 지력의 <font color=\"red\">2</font>배.",
       "SubSkills": null,
       "Animation": null
@@ -435,7 +435,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HolyStar.webp",
+      "IconImageUrl": "../img/skills/Skill_HolyStar.webp",
       "Desc": "[마법 피해]공격 범위 내 다수의 적군에게 0.36배 범위 피해를 입힌다.<br/>동시에 적의 1개 버프 제거.",
       "SubSkills": null,
       "Animation": null
@@ -461,7 +461,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.webp",
+      "IconImageUrl": "../img/skills/23.webp",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -487,7 +487,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_IceCrash.webp",
       "Desc": "[마법 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br/>'창병'에게 더 큰 피해를 준다. 적군 이동력 -1칸, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -513,7 +513,7 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_LightRing.webp",
+      "IconImageUrl": "../img/skills/Skill_LightRing.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 디버프 최대 5개 제거,<br/>버프 시전:'고정 피해'면역. 행동 종료 시 생명 50%회복, 2턴 지속.",
       "SubSkills": null,
       "Animation": null

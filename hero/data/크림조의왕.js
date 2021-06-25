@@ -355,7 +355,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HolyStrike.webp",
+      "IconImageUrl": "../img/skills/Skill_HolyStrike.webp",
       "Desc": "[마법 피해]단일 적군에게 1.5배로 공격.<br/>전투 후 피해의 30%만큼 생명 회복.",
       "SubSkills": null,
       "Animation": null
@@ -369,7 +369,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.webp",
+      "IconImageUrl": "../img/skills/Passive_Cancel.webp",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -395,7 +395,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamAtk.webp",
+      "IconImageUrl": "../img/skills/Skill_JamAtk.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '강화 방해'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -409,7 +409,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/LOC/1.webp",
+      "IconImageUrl": "../img/skills/LOC/1.webp",
       "Desc": "[패시브]사망 시 <font color=\"red\">20</font>% 생명으로 <font color=\"blue\">부활</font>, <br/><b>해당 효과 발동 후 적에게 피해를 입힐 경우</b> '<font color=\"blue\">선혈 수정의 힘</font>' <font color=\"red\">1</font>스택 획득:<br/>[선혈 수정의 힘] 받는 피해  <font color=\"red\">-2</font>%, 중첩 가능 (최대  <font color=\"red\">5</font>중첩)<br/>'<font color=\"blue\">선혈 수정의 힘</font>' <font color=\"red\">5</font>중첩일 경우,<br/><b>행동 종료시 모든 스택 상실 후</b>  <font color=\"blue\">부활</font> 효과 <font color=\"red\">1</font>회 획득, <br/>'<font color=\"blue\">선혈 수정의 힘</font>'은 <b>제거 불가, 면역 불가</b>",
       "SubSkills": null,
       "Animation": null
@@ -435,7 +435,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkHole.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkHole.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>각 부대에게 무작위 디버프를 2개씩 부여한다.",
       "SubSkills": null,
       "Animation": null
@@ -461,7 +461,7 @@
           "Value": "2칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Sanction.webp",
+      "IconImageUrl": "../img/skills/Skill_Sanction.webp",
       "Desc": "[마법 피해]주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>동시에 적의 2개 버프 제거.",
       "SubSkills": null,
       "Animation": null
@@ -487,7 +487,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
+      "IconImageUrl": "../img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -513,7 +513,7 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/LOC/2.webp",
+      "IconImageUrl": "../img/skills/LOC/2.webp",
       "Desc": "[마법피해]<font color=\"red\">4</font>개의 <font color=\"red\">운석</font>을 소환해 <b>범위 안에 있는 랜덤한 적을 공격</b>, 각 운석은 <font color=\"red\">0.3</font>배 피해를 입힌다. <br/><b>동일한 적에게 최대 <font color=\"red\">2</font>개까지 중첩해서 떨어지고, 두번째 운석은 <font color=\"red\">50</font>%의 피해만 입힌다</b>. <br/><b>명중하는 적</b> <font color=\"red\">1</font>명 당 스킬 쿨 <font color=\"red\">-1</font>",
       "SubSkills": null,
       "Animation": null

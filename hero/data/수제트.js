@@ -385,7 +385,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash5.webp",
+      "IconImageUrl": "../img/skills/Skill_ArrowCrash5.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 <font color =\"red\">1.25</font>배 피해를 입힌다.<br/><b>자신이 속한 지형이 <font color=\"green\">방어 지형</font>일 시 전투 전 <font color =\"red\">1</font>회 <font color =\"blue\">고정 피해</font>를 입힌다.</b><br/>(피해량은 영웅 공격의 <font color =\"red\">1</font>배).",
       "SubSkills": null,
       "Animation": null
@@ -411,7 +411,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Suzette/1.webp",
+      "IconImageUrl": "../img/skills/Suzette/1.webp",
       "Desc": "[액티브]<b>모든 스킬 쿨타임 <font color =\"red\">-4</font> 및 부대 치명타율 <font color =\"red\">+30</font>%</b><br/><font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -437,7 +437,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Suzette/2.webp",
+      "IconImageUrl": "../img/skills/Suzette/2.webp",
       "Desc": "[액티브]<b>다른 아군을 선택, 목표 위치에 위치 이동 시킨뒤 주변 <font color =\"red\">3</font>칸 적에게</b><font color =\"red\">0.2</font>배 물리피해<br/>",
       "SubSkills": null,
       "Animation": null
@@ -451,7 +451,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDexDown.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraDexDown.webp",
       "Desc": "[패시브]<b>행동 종료 시 주위 <font color=\"red\">3</font>칸 내 모든 적 부대</b> 기술 <font color=\"red\">-20</font>%, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -477,7 +477,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Suzette/3.webp",
+      "IconImageUrl": "../img/skills/Suzette/3.webp",
       "Desc": "[물리피해] <b><font color=\"red\">1</font>줄 직선 범위 내 적을 다수 공격해 <font color=\"red\">0.25</font>배의 피해를 가한다.<br/><b>적 <font color=\"red\">2</font>명 명중 시 가장 멀리있는 적에게 가하는 피해량<font color=\"red\">+50</font>%</b><br/><b>적 <font color=\"red\">3</font>명 명중 시 가장 멀리있는 적에게 가하는 피해량<font color=\"red\">+100</font>%</b>",
       "SubSkills": null,
       "Animation": null
@@ -503,7 +503,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash2.webp",
+      "IconImageUrl": "../img/skills/Skill_BladeCrash2.webp",
       "Desc": "[물리 피해]호위를 무시하고 <font color=\"red\">1.2</font>배의 피해를 주고<br/>치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
@@ -517,7 +517,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.webp",
+      "IconImageUrl": "../img/skills/Passive_Cancel.webp",
       "Desc": "[패시브]치명타율 <font color=\"red\">+10</font>%.<br/><b>피해를 줄 때 <font color=\"red\">50</font>%의 확률로 적 부대의</b> <font color=\"blue\">패시브 스킬</font>을 무효화한다.<br/><font color=\"red\">2</font>턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -531,7 +531,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass3.webp",
+      "IconImageUrl": "../img/skills/Passive_Ass3.webp",
       "Desc": "[패시브]치명타 피해량 <font color=\"red\">+20</font>%. <br/><b>전투 중 치명타가 발생한 경우</b><br/>전투 종료 후 받는 모든 피해량 <font color=\"red\">-30</font>%<br/><font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -557,7 +557,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowRain.webp",
+      "IconImageUrl": "../img/skills/Skill_ArrowRain.webp",
       "Desc": "[물리 피해]<b>범위 내 모든 적에게</b> <font color=\"red\">0.3</font>배의 범위 피해를 입힌다.<br/><b>'비병'을 상대할 시 더 큰 피해를 준다,<br/> 버프 <font color=\"red\">1</font>개 제거. 전투 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재이동</font> 가능</b>.",
       "SubSkills": null,
       "Animation": null

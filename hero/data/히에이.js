@@ -354,7 +354,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Hiei2.webp",
+      "IconImageUrl": "../img/skills/Skill_Hiei2.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해<br/>1.2배의 피해를 주고, 전투전 적군의 버프 2개를 제거한다.<br/>치명타 발생시 전투 후 자신과 적에게 [고정피해](피해량은 영웅의 공격 2배)<br/>[흑룡파상태]시 부작용 없음.",
       "SubSkills": null,
       "Animation": null
@@ -368,7 +368,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.webp",
+      "IconImageUrl": "../img/skills/Passive_Hide.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -382,7 +382,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraAtkDown.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraAtkDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 모든 적 부대 공격, 지력 -15%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -396,7 +396,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.webp",
+      "IconImageUrl": "../img/skills/Passive_Cancel.webp",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -422,7 +422,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Hiei3.webp",
+      "IconImageUrl": "../img/skills/Skill_Hiei3.webp",
       "Desc": "[물리피해] 자신과 주변 4칸내 모든 적군에게 0.3배의 범위피해를 입힌다.<br/>(스킬 사용시 사망하지 않음.) 발동후 [흑룡파상태]획득<br/>[흑룡파상태]: 이동력+1, 치명피해 +20%, 공격후 재행동(재행동 효과는 매 턴당 1번만 발동), 3턴 지속.<br/>[흑룡파상태]종료시 기절 1턴.(이 기술의 효과는 해제, 면역 불가)",
       "SubSkills": null,
       "Animation": null
@@ -448,7 +448,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Hiei1.webp",
+      "IconImageUrl": "../img/skills/Skill_Hiei1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 피해를 준다.<br/>치명타 발생시, 전투 후 자신과 적군에게 [사화]부여<br/>[사화]: 받는 피해+15%, 받는 치유가 피해로 변환(피해량은 치료량의 50%), 2턴 지속.(제거불가)<br/>[흑룡파상태]시 부작용 없음.",
       "SubSkills": null,
       "Animation": null
@@ -462,7 +462,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Adversity.webp",
+      "IconImageUrl": "../img/skills/Skill_Adversity.webp",
       "Desc": "[패시브] 부대 생명 <font color=\"red\">70%</font>이하일 때 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -476,7 +476,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DorsalThorns.webp",
+      "IconImageUrl": "../img/skills/Skill_DorsalThorns.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 적 부대 생명이 100%일 경우<br/>전투 전 영웅 공격 2배의 고정 피해를 1회 입힘.",
       "SubSkills": null,
       "Animation": null

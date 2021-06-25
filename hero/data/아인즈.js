@@ -365,7 +365,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
+      "IconImageUrl": "../img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -379,7 +379,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Ains2.webp",
+      "IconImageUrl": "../img/skills/Skill_Ains2.webp",
       "Desc": "[패시브]공격을 받아 전투진입시 30%확률로 발동,적군의 입히는 피해 -90%(이 효과는 발동 후 2턴이 지나야 다시 발동)",
       "SubSkills": null,
       "Animation": null
@@ -405,7 +405,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Ains3.webp",
+      "IconImageUrl": "../img/skills/Skill_Ains3.webp",
       "Desc": "[지원]액티브 스킬, 자신을 범위 안의 임의 1칸으로 이동시키고,<br/>자신에게 \"받는피해 감소 -20%\" 및 \"행동종료시 생명력회복 20%\" 부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -431,7 +431,7 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Ains4.webp",
+      "IconImageUrl": "../img/skills/Skill_Ains4.webp",
       "Desc": "[마법 피해]자신 주위 5칸 내 모든 적군에게 0.32배의 범위 피해를 입힌다.<br/>[비병]과 전투 시 더 큰 피해를 준다. 목표의 이동력이 높을 수록 입히는 피해 증가<br/>이동력 1마다 입히는 피해 +5%(최대 +25%)",
       "SubSkills": null,
       "Animation": null
@@ -457,7 +457,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -483,7 +483,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Ains1.webp",
+      "IconImageUrl": "../img/skills/Skill_Ains1.webp",
       "Desc": "[마법 피해]단일 적군을 공격하여 1.5배의 피해를 입힌다.<br/>치명타확률 +15%, 먼저 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -497,7 +497,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefBuf.webp",
+      "IconImageUrl": "../img/skills/Passive_MDefBuf.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br/>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -523,7 +523,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkHole.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkHole.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>각 부대에게 무작위 디버프를 2개씩 부여한다.",
       "SubSkills": null,
       "Animation": null

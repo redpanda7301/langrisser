@@ -370,7 +370,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -396,7 +396,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka1.webp",
+      "IconImageUrl": "../img/skills/Skill_Aka1.webp",
       "Desc": "[지원]사용 후 자신의 공격과 지력 중 낮은 능력치를 50%만큼 상승, 3턴 지속.<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -422,7 +422,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka3.webp",
+      "IconImageUrl": "../img/skills/Skill_Aka3.webp",
       "Desc": "[지원]전장에 [늑대혼]이 있을시 사용가능<br/>늑대혼을 소멸시키며 늑대혼 주변 3칸 이내 모든 적군에게 0.2배의 물리범위 피해를 입힌다.<br/>이후 0.2배의 마법범위 피해도 입힌다. 또한, 약화효과 2개 부여",
       "SubSkills": null,
       "Animation": null
@@ -448,7 +448,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.webp",
+      "IconImageUrl": "../img/skills/25.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -474,7 +474,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka4.webp",
+      "IconImageUrl": "../img/skills/Skill_Aka4.webp",
       "Desc": "[지원]전장에 [늑대혼]이 있을시 사용가능<br/>늑대혼을 소멸시키며, 1개의 아군 부대를 늑대 영혼의 위치로 순간이동,<br/>이미 행동종료된 경우일 경우, 재행동 가능(플레이어 유닛에게만 사용가능)",
       "SubSkills": null,
       "Animation": null
@@ -500,7 +500,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Aka2.webp",
+      "IconImageUrl": "../img/skills/Skill_Aka2.webp",
       "Desc": "[지원]전장에 [늑대혼]이 있을시 사용가능<br/>늑대혼을 소멸시키며 자신주위 3칸이내 모든 아군에게<br/>'이동력+2','공격,지력 +30%' 부여, 2턴 지속",
       "SubSkills": null,
       "Animation": null
@@ -514,7 +514,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefUp.webp",
+      "IconImageUrl": "../img/skills/Passive_DefUp.webp",
       "Desc": "[패시브]부대 생명 90% 이상일시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -540,7 +540,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Javelin.webp",
+      "IconImageUrl": "../img/skills/Skill_Javelin.webp",
       "Desc": "[물리 피해]단일 적에게 0.8배 피해를 입힘.<br/>공격 전 이동거리 1칸마다 피해 +20%(최대 +60%).<br/>전투 후 재이동 +2칸, 근접 병사를 휴대 시 병사도 동시에 공격 가능.",
       "SubSkills": null,
       "Animation": null

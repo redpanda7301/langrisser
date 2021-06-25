@@ -366,7 +366,7 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "꽃말",
+      "Name": "<img src=\"../img/skills/Christiane/꽃말.webp\"/>꽃말",
       "Cost": null,
       "Entries": [
         {
@@ -374,29 +374,29 @@
           "Value": "고유기"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/ability/Gift_Christiane.webp",
+      "IconImageUrl": "../img/ability/Gift_Christiane.webp",
       "Desc": "'<font color=\"blue\">꽃말</font>'효과는 해당 조건이 만족 하면 발동",
       "SubSkills": [
         {
-          "Name": "<font color=\"#EE82EE\">제비꽃</font><br/><font color=\"black\">없음</font>",
+          "Name": "<img src=\"../img/skills/Christiane/제비꽃.webp\"/><font color=\"#EE82EE\">제비꽃</font><br/><font color=\"black\">없음</font>",
           "Entries": null,
           "IconImageUrl": null,
           "Desc": "<b>생명을 제외한 모든 스탯</b> <font color =\"red\">+5</font>% "
         },
         {
-          "Name": "<font color=\"pink\">백합</font></b><br/><b><font color =\"black\">자신을 제외한 아군이 모두 여성이며, 그 수는 <font color =\"red\">1</font>명 이상</b></font>",
+          "Name": "<img src=\"../img/skills/Christiane/백합.webp\"/><font color=\"pink\">백합</font></b><br/><b><font color =\"black\">자신을 제외한 아군이 모두 여성이며, 그 수는 <font color =\"red\">1</font>명 이상</b></font>",
           "Entries": null,
           "IconImageUrl": null,
           "Desc": "<b>생명을 제외한 모든 스탯</b><font color =\"red\">+5</font>%<br/>[지휘]<b>전장의 모든 여성 아군</b> 방어,마방 <font color =\"red\">+5</font>%"
         },
         {
-          "Name": "<font color=\"#8d192b\">장미</font><br/><b><font color =\"black\">자신을 제외한 아군이 모두 <font color=\"#8d192b\">남성</font>이며, 그 수는 <font color =\"red\">1</font>명 이상</b></font>",
+          "Name": "<img src=\"../img/skills/Christiane/장미.webp\"/><font color=\"#8d192b\">장미</font><br/><b><font color =\"black\">자신을 제외한 아군이 모두 <font color=\"#8d192b\">남성</font>이며, 그 수는 <font color =\"red\">1</font>명 이상</b></font>",
           "Entries": null,
           "IconImageUrl": null,
           "Desc": "<b>생명을 제외한 모든 스탯</b><font color =\"red\">+5</font>%<br/><b>공격받아 전투 진입 전 적에게</b> 마방<font color =\"red\">0.5</font>배 수치 <font color =\"blue\">고정 피해</font>"
         },
         {
-          "Name": "<font color=\"red\">석산</font><br/><b><font color =\"black\">다른 아군이 없을 때</b></font>",
+          "Name": "<img src=\"../img/skills/Christiane/석산.webp\"/><font color=\"red\">석산</font><br/><b><font color =\"black\">다른 아군이 없을 때</b></font>",
           "Entries": null,
           "IconImageUrl": null,
           "Desc": "<b>생명을 제외한 모든 스탯</b><font color =\"red\">+5</font>%<br/><b>공격받아 전투 진입 시</b> 주는 피해량<font color =\"red\">+10</font>% 및 <br/><b>전투 후</b> 생명<font color =\"red\">20</font>% 회복"
@@ -425,7 +425,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Emilia3.webp",
+      "IconImageUrl": "../img/skills/Skill_Emilia3.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>전투 진입 전 <font color =\"blue\">성스러운 수호</font>효과를 획득한다:<br/>마방의 <font color =\"red\">1.6</font>배만큼의 수치로 공격을 대체한다.<br/><font color =\"red\">2</font>칸 원거리 공격 반격가능</br><font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -439,7 +439,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_HolyShield.webp",
+      "IconImageUrl": "../img/skills/Passive_HolyShield.webp",
       "Desc": "[패시브]<b>전투 진입 시</b> 마방 <font color =\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
@@ -465,7 +465,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Emilia1.webp",
+      "IconImageUrl": "../img/skills/Skill_Emilia1.webp",
       "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>[액티브]호위 범위가 <font color =\"red\">2</font>칸으로 증가, [성스러운 수호]효과를 얻는다:<br/>'마방'의 <font color =\"red\">1.6</font>배로 공격을 대신한다.<br/><b><font color =\"red\">2</font>칸 원거리 공격에 대한 반격가능</b>, <font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -479,7 +479,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefUp.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",
       "Desc": "[지휘] 주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -493,7 +493,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
+      "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
       "Desc": "[패시브]<b>전투 진입전 <font color =\"red\">50</font>% 확률로 적의</b> 공격, 지력 <font color =\"red\">-20</font>%, <font color =\"red\">1</font>턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -507,7 +507,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraMDefUp.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
       "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15</font>%.",
       "SubSkills": null,
       "Animation": null
@@ -521,7 +521,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Christiane/1.webp",
+      "IconImageUrl": "../img/skills/Christiane/1.webp",
       "Desc": null,
       "SubSkills": [        
         {
@@ -552,7 +552,7 @@
           "Value": "1턴"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Christiane/2.webp",
+      "IconImageUrl": "../img/skills/Christiane/2.webp",
       "Desc": "[액티브]이하 스킬 중 하나 선택해서 사용",
       "SubSkills": [
         {
@@ -574,7 +574,7 @@
             "Label": "범위",
             "Value": "단일"
           }],
-          "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Christiane/2_1.webp",
+          "IconImageUrl": "../img/skills/Christiane/2_1.webp",
           "Desc": "[지원]<b>아군 여성 영웅에게 사용</b><br/>'<font color =\"blue\">꽃잎 장막</font>'<font color =\"red\">1</font>중첩을 소모하여 대상에게 [<font color =\"blue\">꽃의 의복</font>] 효과를 부여:<br/>받는 범위 피해 <font color =\"red\">-35</font>%,<br/><b><font color =\"red\">1</font>회 한정, 해제 불가</b>"
         },
         {
@@ -596,7 +596,7 @@
             "Label": "범위",
             "Value": "단일"
           }],
-          "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Christiane/2_2.webp",
+          "IconImageUrl": "../img/skills/Christiane/2_2.webp",
           "Desc": "[지원]<b>아군 여성 영웅에게 사용</b><br/>'<font color =\"blue\">꽃잎 장막</font>'<font color =\"red\">1</font>중첩을 소모하여 대상에게 [<font color =\"blue\">꽃무리</font>] 효과를 부여:<br/><b>피해를 입히지 않고 행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 내</b> 적에게 <font color=\"red\">0.1</font>배 물리 범위 피해 가한다.<br/>지속<font color =\"red\">2</font>행동,<br/><b>해제 불가</b>"
         }
       ],
@@ -611,7 +611,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Christiane/3.webp",
+      "IconImageUrl": "../img/skills/Christiane/3.webp",
       "Desc": "[패시브]<b>전장에 출전한 <font color =\"red\">1</font>부대씩 사망할 때마다</b> '<font color =\"blue\">꽃잎 장막</font>' <font color =\"red\">1</font>중첩 감소.<br/><b>근접 공격받아 전투 진입 시</b> 받는 피해 <font color =\"red\">-5</font>%, 주는 피해 <font color =\"red\">+10</font>%,<br/><b>만약 목표의 생명이 <font color =\"red\">100</font>% 미만일 경우 해당 효과는 <font color =\"red\">2<font>배로 적용</b>",
       "SubSkills": null,
       "Animation": null
@@ -638,7 +638,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/크리스티안느.webp",
-      "Desc": "[패시브]<b>인접한 아군이 받는 모든 피해를 대신 받는다. <font color=\"blue\">강화 불가</font> 면역</b><br/>[초절강화]범위 내 모든 '<font color=\"dark pink\">공주 연맹</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>전장에 있는 여성 영웅 <font color=\"red\">1</font>명 당</b> 전투 진입 시 주는 피해량 <font color=\"red\">+3</font>%(최대 <font color=\"red\">+18</font>%)(지속 <font color=\"red\">4</font>턴)<br/>호위 범위가 <font color =\"red\">2</font>칸으로 증가<br/>자신의 지휘 스킬 범위<font color =\"red\">+1</font>칸<br/>'<font color =\"blue\">고급 신성한 수호</font>'효과 획득<br/>마방의 <font color =\"red\">1.6</font>배만큼의 수치로 공격을 대체한다,<br/><b><font color =\"red\">2</font>칸 원거리 공격 반격가능<br/>지속 <font color=\"red\">4</font>행동 <br/><b>(고급 신성한 수호는 제거 불가)</b>",
+      "Desc": "[패시브]<b>인접한 아군이 받는 모든 피해를 대신 받는다. <font color=\"blue\">강화 불가</font>면역</b><br/>호위 범위가 <font color =\"red\">2</font>칸으로 증가<br/>자신의 지휘 스킬 범위<font color =\"red\">+1</font>칸<br/>'<font color =\"blue\">고급 신성한 수호</font>'효과 획득<br/>마방의 <font color =\"red\">1.6</font>배 만큼의 수치로 공격을 대체한다.<br/><b><font color =\"red\">2</font>칸 원거리 공격 반격 가능<br/><b>(<font color=\"blue\">고급 신성한 수호</font>는 제거 불가)</b><br/>[초절강화]범위 내 모든 '<font color=\"dark pink\">공주 연맹</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>전장에 있는 여성 영웅 <font color=\"red\">1</font>명 당</b> 전투 진입 시 주는 피해량 <font color=\"red\">+3</font>%(최대 <font color=\"red\">+18</font>%) <br/>지속 <font color=\"red\">4</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/크리스티안느_Ani.webp"
     }

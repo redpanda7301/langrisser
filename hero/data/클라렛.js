@@ -421,7 +421,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/8.webp",
+      "IconImageUrl": "../img/skills/8.webp",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
       "SubSkills": null,
       "Animation": null
@@ -447,7 +447,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.webp",
+      "IconImageUrl": "../img/skills/Skill_PHeal2.webp",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -461,7 +461,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FollowingWind.webp",
+      "IconImageUrl": "../img/skills/Skill_FollowingWind.webp",
       "Desc": "[패시브]공격 전 매 이동 1칸당 물리피해증가 5%(최대 25%)",
       "SubSkills": null,
       "Animation": null
@@ -475,7 +475,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf1.webp",
+      "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 +12%.",
       "SubSkills": null,
       "Animation": null
@@ -501,7 +501,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlySuper2.webp",
+      "IconImageUrl": "../img/skills/Skill_FlySuper2.webp",
       "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>적 부대 격퇴 시, 해당 스킬의 쿨타임 <font color=\"red\">-3</font>.<br/>적 부대를 격퇴하지 못할 경우, 재행동할 수 있으며 [사기 저하] 효과를 받는다.<br/>(사기 저하: 주는 피해량 <font color=\"red\">-50%</font>.) (<font color=\"red\">1</font>턴 지속)",
       "SubSkills": null,
       "Animation": null
@@ -527,7 +527,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.webp",
+      "IconImageUrl": "../img/skills/36.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -541,7 +541,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Adversity.webp",
+      "IconImageUrl": "../img/skills/Skill_Adversity.webp",
       "Desc": "[패시브] 부대 생명 <font color=\"red\">70%</font>이하일 때 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -555,7 +555,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.webp",
+      "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
       "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +20%.",
       "SubSkills": null,
       "Animation": null
@@ -569,7 +569,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_KnightWave.webp",
+      "IconImageUrl": "../img/skills/Passive_KnightWave.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null

@@ -399,7 +399,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.webp",
+      "IconImageUrl": "../img/skills/Skill_WindStrike.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -413,7 +413,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefBuf.webp",
+      "IconImageUrl": "../img/skills/Passive_MDefBuf.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br/>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -439,7 +439,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/20.webp",
+      "IconImageUrl": "../img/skills/20.webp",
       "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 공격, 지력 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -453,7 +453,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.webp",
+      "IconImageUrl": "../img/skills/Skill_Again.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -479,7 +479,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamDef.webp",
+      "IconImageUrl": "../img/skills/Skill_JamDef.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '치료 방해'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -505,7 +505,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
+      "IconImageUrl": "../img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -531,7 +531,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.webp",
+      "IconImageUrl": "../img/skills/25.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -557,7 +557,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SummonBomb.webp",
+      "IconImageUrl": "../img/skills/Skill_SummonBomb.webp",
       "Desc": "[소환]마법 폭탄을 1개 소환한다.<br/>(폭탄은 지력은 당시 소환사 지력의 2배)",
       "SubSkills": null,
       "Animation": null
@@ -583,7 +583,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TakeAim.webp",
+      "IconImageUrl": "../img/skills/Skill_TakeAim.webp",
       "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null

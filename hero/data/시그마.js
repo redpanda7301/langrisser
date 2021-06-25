@@ -643,7 +643,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash5.webp",
+      "IconImageUrl": "../img/skills/Skill_ArrowCrash5.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 <font color=\"red\">1.25</font>배 피해를 입힌다.<br/><b>자신이 위치한 지형이 방어 지형일 시 전투 전 <font color=\"red\">1</font>회 <font color=\"blue\">고정 피해</font>를 입힌다.</b><br/>(<font color=\"blue\">고정 피해</font> 데미지는 영웅 공격력의 <font color=\"red\">1</font>배).",
       "SubSkills": null,
       "Animation": null
@@ -669,7 +669,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightErrant.webp",
+      "IconImageUrl": "../img/skills/Skill_KnightErrant.webp",
       "Desc": "[지원]액티브 스킬, <b>자신이 위치한 지형을 <font color=\"green\">숲</font>으로 취급</b>, <font color=\"red\">1</font>턴 지속.<br/><b>사용 후 <font color =\"blue\">재공격</font> 가능</b>",
       "SubSkills": null,
       "Animation": null
@@ -683,7 +683,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/11.webp",
+      "IconImageUrl": "../img/skills/11.webp",
       "Desc": "[패시브]공격 시 주는 피해량 <font color=\"red\">+10</font>%.<br/><b>전투 후</b> 다시 <font color=\"red\">2</font>칸 이동할 수 있다.<br/>재이동 효과는 <font color=\"red\">1</font>턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -697,7 +697,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.webp",
+      "IconImageUrl": "../img/skills/Passive_AtkBuf6.webp",
       "Desc": "<b>전투 진입 시 부대</b> 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -723,7 +723,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash4.webp",
+      "IconImageUrl": "../img/skills/Skill_ArrowCrash4.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 <font color=\"red\">0.8</font>배 피해를 입힌다.<br/>목표와 거리가 멀 수록 피해가 커진다. 간격 <font color=\"red\">1</font>칸마다 피해 <font color=\"red\">+15</font>%(최대 90%).<br/><b>전투 후 자신의 이동력 +2</b><br/> <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -749,7 +749,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.webp",
+      "IconImageUrl": "../img/skills/Skill_Thump.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 공격 피해를 준다. <br/><b>자신이 방어 지형에 있을 시 전투 전</b> 대상에게 <font color =\"blue\">기절</font> 시전<br/><font color =\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -775,7 +775,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Crystal2.webp",
+      "IconImageUrl": "../img/skills/Skill_Crystal2.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<font color =#0040D6>전설의 저편</font>' 아군의 <br/>공격, 방어가 상승 및 효과 부여:<br/><b>생명이 <font color =\"red\">80</font>%이하일 시</b> 피해 <font color =\"red\">+15</font>%<br/><font color =\"red\">4</font>턴 지속",
       "SubSkills": null,
       "Animation": null
@@ -789,7 +789,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakAtk.webp",
+      "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
       "Desc": "[패시브]<b>전투 진입전 <font color =\"red\">50</font>% 확률</b>로 적의 공격, 지력 -20%, <font color =\"red\">1</font>턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -803,7 +803,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Hide.webp",
+      "IconImageUrl": "../img/skills/Passive_Hide.webp",
       "Desc": "[패시브]<b>공격하여 전투 진입 시</b> 치명타율 <font color =\"red\">+10</font>%, 받는 피해량 <font color =\"red\">-20</font>%.",
       "SubSkills": null,
       "Animation": null
@@ -817,7 +817,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/시그마/1.webp",
+      "IconImageUrl": "../img/skills/sp/시그마/1.webp",
       "Desc": "[패시브]기술 <font color=\"red\">+15%</font><br/><b>자신에게 <font color=\"purple\">죽음의 그림자</font> 효과가 있을 경우, 선공 시 '암살자' 종류 병사는</b><br/>영웅과 함께 공격 및 <font color=\"red\">3</font>칸 범위 내 공격 시 호위 무시",
       "SubSkills": null,
       "Animation": null
@@ -843,7 +843,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/시그마/2.webp",
+      "IconImageUrl": "../img/skills/sp/시그마/2.webp",
       "Desc": "[액티브]<b><font color =\"blue\">레인저 마크</font>가 박힌 적 주위 <font color=\"red\">1</font>칸 범위 임의의 위치로 <font color =\"blue\">텔레포트</font></b> 및<br/> 대상에게 <font color=\"red\">1.4</font>배 피해<br/><b>전투 진입 전 자신에게</b> '<font color=\"blue\">근접전 패널티 무효화</font>','<font color=\"blue\">모든 디버프에 면역</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b><font color=\"purple\">죽음의 그림자</font> 효과가 있을 경우 전투에서 쌍방 병사는 공격을 하지 않으며<br/>상대 영웅을 직접 공격</b><br/><b>전투 후 부대 생명</b> <font color=\"red\">50</font>% 회복 및 '반격 피해 <font color=\"red\">+50</font>%' '이동력 <font color=\"red\">+3</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>(<b>해당 효과는 해제 불가)<br/>(<b>해당 스킬은 버프 지속 시간을 감소시키지 않음</b>)",
       "SubSkills": null,
       "Animation": null

@@ -353,7 +353,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
+      "IconImageUrl": "../img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>'<font color=\"blue\">기병</font>'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -379,7 +379,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.webp",
+      "IconImageUrl": "../img/skills/Skill_JamMove.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<b>모든 패시브 스킬 무효</b>'부여, <font color=\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -405,7 +405,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamDef.webp",
+      "IconImageUrl": "../img/skills/Skill_JamDef.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<b>치료 방해</b>'부여, <font color=\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -431,7 +431,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Cruger/1.webp",
+      "IconImageUrl": "../img/skills/Cruger/1.webp",
       "Desc": "[지원] 액티브 스킬, 단일 부대에 '<font color=\"blue\">어둠의 장벽</font>' 효과 부여, <br/>자신 최대 생명 <font color=\"red\">20</font>% 수치 <font color=\"blue\">피해 감소</font>, 지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>, <br/>사용 후 <font color=\"red\">2</font>칸 재행동 가능 <br/>(해당 스킬 사용으로 인해 버프 지속 시간이 줄어들지 않음)",
       "SubSkills": null,
       "Animation": null
@@ -457,7 +457,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkHole.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkHole.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.36</font>배의 광역 피해를 준다.<br/>각 부대에게 무작위 디버프를 <font color=\"red\">2</font>개씩 부여한다.",
       "SubSkills": null,
       "Animation": null
@@ -483,7 +483,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>적의 마방을 <font color=\"red\">30</font>% 무시. 전투 후 준 피해량의 <font color=\"red\">50</font>%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -509,7 +509,7 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Cruger/2.webp",
+      "IconImageUrl": "../img/skills/Cruger/2.webp",
       "Desc": "[마법 피해]주위 <font color=\"red\">5</font>칸 <font color=\"red\">0.3</font>배 범위 피해 및 랜덤한 디버프 <font color=\"red\">1</font>개 부여, <br/>범위 안 모든 아군 피해 <font color=\"red\">+10</font>%, <br/>선공으로 전투 진입 시 전투 후 피해량 <font color=\"red\">15</font>% 수치 생명 회복, 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -535,7 +535,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkRay2.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkRay2.webp",
       "Desc": "[마법 피해] <font color=\"red\">3</font>개의 라인에 있는 모든 적군을 공격하여 <font color=\"red\">0.36</font>배 범위 피해를 입힌다.<br/><b>'승려'와 전투 시 더 큰 피해를 입힌다</b>. 디버프 <font color=\"red\">1</font>개 랜덤 부여.",
       "SubSkills": null,
       "Animation": null

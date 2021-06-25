@@ -354,7 +354,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.webp",
+      "IconImageUrl": "../img/skills/Skill_WindStrike.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -380,7 +380,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Bless.webp",
+      "IconImageUrl": "../img/skills/Skill_Bless.webp",
       "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br/>모든 디버프에 면역. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -394,7 +394,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef2.webp",
+      "IconImageUrl": "../img/skills/Passive_BreakMDef2.webp",
       "Desc": "[패시브]전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방  <font color=\"red\">-25%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -408,7 +408,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_SPDBuf1.webp",
+      "IconImageUrl": "../img/skills/Passive_SPDBuf1.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 이동력+1 및<br/>면역:'이동력 저하','치료 반전', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -434,7 +434,7 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Deedlit2.webp",
+      "IconImageUrl": "../img/skills/Skill_Deedlit2.webp",
       "Desc": "[지원]액티브 스킬,범위 내 모든 아군의 최대 2개 약화효과 제거,<br/>시전자의 지력 2배만큼의 생명력 회복, 모든 기술의 쿨타임 -1,<br/>'입히는피해 +15%', 2턴 지속",
       "SubSkills": null,
       "Animation": null
@@ -460,7 +460,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Deedlit3.webp",
+      "IconImageUrl": "../img/skills/Skill_Deedlit3.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.<br/>전투전 적군의 버프를 1개 제거하며,'공격,지력' -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -474,7 +474,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -500,7 +500,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Deedlit1.webp",
+      "IconImageUrl": "../img/skills/Skill_Deedlit1.webp",
       "Desc": "[마법 피해]단일 적군을 공격하여 1.6배의 피해를 입힌다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.<br/>전투전[엘프의 숲]: [지휘] 주변 2칸 범위내 모든 아군이 통과하는 지형을<br/>숲으로 간주하며, 지형에 따른 이동력 감소 효과를 받지 않는다.<br/>또한 행동종료시 생명력 30% 회복, 2턴 지속.",
       "SubSkills": null,
       "Animation": null

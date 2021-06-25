@@ -400,7 +400,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Extend.webp",
+      "IconImageUrl": "../img/skills/Passive_Extend.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 다수 부대의 생명 회복.<br/>회복량은 시전자 지력의 1.5배, 3개 디버프 제거.",
       "SubSkills": null,
       "Animation": null
@@ -426,7 +426,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
+      "IconImageUrl": "../img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -452,7 +452,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.webp",
+      "IconImageUrl": "../img/skills/23.webp",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -466,7 +466,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefUp.webp",
+      "IconImageUrl": "../img/skills/Passive_MDefUp.webp",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -492,7 +492,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TacticalEvacuation.webp",
+      "IconImageUrl": "../img/skills/Skill_TacticalEvacuation.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 생명이 100% 미만인 아군 부대를 자신의<br/>옆으로 이동시켜 시전자 지력의 3배만큼 생명 회복.",
       "SubSkills": null,
       "Animation": null
@@ -518,7 +518,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Rally.webp",
+      "IconImageUrl": "../img/skills/Skill_Rally.webp",
       "Desc": "[지원]액티브 스킬,행동이 끝나고 병사가 전멸한 아군 부대 1개에게<br/>재행동을 부여하고 시전자 지력의 5배만큼 생명 회복.",
       "SubSkills": null,
       "Animation": null
@@ -532,7 +532,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -558,7 +558,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.webp",
+      "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -572,7 +572,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/35.webp",
+      "IconImageUrl": "../img/skills/35.webp",
       "Desc": "[패시브]전투 진입 시 방어+7%.",
       "SubSkills": null,
       "Animation": null

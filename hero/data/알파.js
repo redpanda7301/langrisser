@@ -11,11 +11,11 @@
     }
   ],
   "Name": "알파",
-  "CV": "",
+  "CV": "이토 시즈카",
   "Rank": [
     0
   ],
-  "SP": true,
+  "SP": false,
   "Groups": [
     2,
     4
@@ -34,7 +34,7 @@
       "Condition": "알파를 출전시켜 아레나 5승 달성"
     },
     {
-      "Condition": "알파을 출전시켜 시공의 균열 3-1[정예] 클리어"
+      "Condition": "알파를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
       "Condition": "입실론의 도움 하에 운명의문4 클리어"
@@ -43,11 +43,11 @@
       "Condition": "초월자의 도움 하에 운명의문5 클리어"
     }
   ],
-  "HeartFetter": "생명+900, 방어+60, 마방+40",
+  "HeartFetter": "생명+900, 방어+60, 마방+30",
   "Talent": [
     {
-      "Name": "용사의 의지",
-      "Icon": "46.webp",
+      "Name": "불멸의 자수정",
+      "Icon": "Gift_Alpha.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+10%</font>.<br/> 전투 후 <font color=\"red\">50%</font>확률로 생명 회복<br/> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
+          "Desc": "피해량 <font color=\"red\">+5</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+5</font>%<br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-20</font>% <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-20</font>% <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
         },
         {
-          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+15%</font>.<br/> 전투 후 <font color=\"red\">60%</font>확률로 생명 회복<br/> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
+          "Desc": "피해량 <font color=\"red\">+8</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+8</font>%<br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-25</font>% <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-25</font>% <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
         },
         {
-          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+20%</font>.<br/> 전투 후 <font color=\"red\">80%</font>확률로 생명 회복<br/> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
+          "Desc": "피해량 <font color=\"red\">+11</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+11</font>%<br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-30</font>% <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-30</font>% <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
         },
         {
-          "Desc": "공격하여 전투 진입 시 피해 <font color=\"red\">+30%</font>.<br/> 전투 후 <font color=\"red\">100%</font>확률로 생명 회복<br/> 회복량은 영웅이 입힌 피해의 <font color=\"red\">30%</font>."
+          "Desc": "피해량 <font color=\"red\">+15</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+15</font>%<br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-40</font>% <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-40</font>% <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
         }
       ]
     }
@@ -73,15 +73,14 @@
   "SPTalent":null,
   "Equip": null,
   "Soldiers": [
-    20,
+    28,
+    36,
     25,
-    27,
-    31,
-    34,
-    35,
-    49,
-    57,
-    54
+    22,
+    75,
+    26,
+    33,
+    21  
   ],
   "Jobs": [
     {
@@ -110,8 +109,8 @@
       "MagicDefRate": 60,
       "Skill": 154,
       "SkillRate": 44,
-      "HeartFetterBouns1": "생명 80%이상일때 <br/>전투중 받는피해 -10%",
-      "HeartFetterBouns2": "생명 80%이상일때 <br/>전투중 입히는피해 +10%"
+      "HeartFetterBouns1": "<b>선공으로 전투 진입 시</b><br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>근접 공격 받아 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10</font>%",
     },
     {
       "Name": "자수정 대장",
@@ -119,7 +118,7 @@
       "SD": [
         {
           "ImageUrl": "알파/1/2.webp"
-        }
+        },
         {
           "ImageUrl": "알파/2/1.webp"
         }
@@ -127,18 +126,18 @@
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 5129,
-      "HPRate": 85,
-      "Attk": 544,
-      "AttkRate": 84,
-      "Int": 235,
+      "HP": 4863,
+      "HPRate": 80,
+      "Attk": 579,
+      "AttkRate": 88,
+      "Int": 233,
       "IntRate": 39,
-      "Def": 378,
-      "DefRate": 84,
-      "MagicDef": 217,
+      "Def": 357,
+      "DefRate": 79,
+      "MagicDef": 220,
       "MagicDefRate": 48,
-      "Skill": 116,
-      "SkillRate": 33,
+      "Skill": 172,
+      "SkillRate": 56,
       "HeartFetterBouns1": "<b>원거리 공격 받아 전투 진입 시</b><br/>받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "<b>디버프가 걸린 부대와 전투 시</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
@@ -176,13 +175,13 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank1-1"
+            "rank1-2"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank1-1"
+            "rank1-2"
           ]
         }
       ]
@@ -193,31 +192,31 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank2-3",
-            "rank1-3",
+            "rank2-1",
+            "rank1-2",
             "rank1-1"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank3-3",
-            "rank3-2",
-            "rank2-3",
+            "rank3-6",
+            "rank3-1",
+            "rank2-2",
             "rank2-1"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank4-6",
             "rank4-1",
-            "rank3-3",
-            "rank3-2"
+            "rank4-2",
+            "rank3-6",
+            "rank3-1"
           ]
         }
       ]
-    }
+    },
     {
       "ClassTitle": "검사 대장 : 공격+25, 방어+10, 마방+10",
       "Tiers": [
@@ -251,10 +250,10 @@
         {
           "Name": "T4",
           "Materials": [
+            "rank8-2",
             "rank8-1",
-            "rank8-5",
-            "rank7-2",
-            "rank7-4"
+            "rank7-1",
+            "rank7-7"
           ]
         }
       ]
@@ -265,7 +264,7 @@
           {
             "Name": "T1",
             "Materials": [
-              "rank2-1",
+              "rank2-2",
               "rank1-1",
               "rank1-2"
             ]
@@ -275,15 +274,15 @@
             "Materials": [
               "rank3-1",
               "rank3-6",
-              "rank2-1",
-              "rank2-2"
+              "rank2-2",
+              "rank2-6"
             ]
           },
           {
             "Name": "T3",
             "Materials": [
-              "rank4-1",
               "rank4-2",
+              "rank4-6",
               "rank3-1",
               "rank3-6"
             ]
@@ -335,44 +334,44 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "태양 베기",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "물리 피해"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "2턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "1칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
-      "SubSkills": null,
-      "Animation": null
-    },
+        "Name": "관통",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "물리 피해"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "2턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "1칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/skills/43.webp",
+        "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%, <font color=\"red\">2</font>턴 지속.",
+        "SubSkills": null,
+        "Animation": null
+      },
     {
-      "Name": "간파",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.webp",
-      "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
-      "SubSkills": null,
-      "Animation": null
+        "Name": "증원",
+        "Cost": "COST 1",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "패시브"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
+        "Desc": "[패시브]행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% 회복.",
+        "SubSkills": null,
+        "Animation": null
     },
     {
       "Name": "힘의 외침",
@@ -395,65 +394,116 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+      "IconImageUrl": "../img/skills/36.webp",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color=\"red\">1.3</font>배 피해를 준다.<br/>전투 전 상대 버프 <font color=\"red\">2</font>개 제거와 동시에 상대의 공격 및 지력 <font color=\"red\">-20</font>% <br/><font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "불멸의 휘광",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "초절강화"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "3턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "자신"
-        },
-        {
-          "Label": "범위",
-          "Value": "맵전체"
-        }
-      ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Light2.webp",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>생명이 80% 이상일 경우 전투 중 주는 피해량 +15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
-      "SubSkills": null,
-      "Animation": null
+        "Name": "응수",
+        "Cost": "COST 1",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "패시브"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Skill_Parry.webp",
+        "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격 <font color=\"red\">7</font>% 만큼 방어 상승",
+        "SubSkills": null,
+        "Animation": null
     },
     {
-      "Name": "검혼",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "물리 피해"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "5턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "1칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordSoul.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.8배 피해를 준다.<br/>전투 전 적 부대의 버프 5개 제거 및 적 부대에게 '치료 방해' 부여, 2턴 지속<br/>이 효과는 제거되지 않는다.",
-      "SubSkills": null,
-      "Animation": null
-    },
+        "Name": "수정 칼날",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "선택"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "2턴"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Alpha/1.webp",
+        "Desc": "[액티브]이하 스킬 중 하나 선택해서 사용",
+        "SubSkills": [
+          {
+            "Name": "<font color=\"blue\">장막</font>",
+            "Entries": [        
+            {
+              "Label": "유형",
+              "Value": "물리 피해"
+            },
+            {
+              "Label": "사거리",
+              "Value": "1칸"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }],
+            "IconImageUrl": "../img/skills/Alpha/1_1.webp",
+            "Desc": "[물리 피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배 피해를 준다.<br/><b>전투 전</b><font color=\"purple\">자수정 장막</font> 효과 획득<br/>전투 후 해당 전투에서 입힌 피해량 <font color =\"red\">30</font>% 수치 생명 회복"
+          },
+          {
+            "Name": "<font color=\"blue\">방패</font>",
+            "Entries": [        
+            {
+              "Label": "유형",
+              "Value": "물리 피해"
+            },
+            {
+              "Label": "사거리",
+              "Value": "1칸"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }],
+            "IconImageUrl": "../img/skills/Alpha/1_2.webp",
+            "Desc": "[물리 피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배 피해를 준다.<br/><b>전투 전</b><font color=\"purple\">자수정 방패</font> 효과 획득<br/>전투 후 해당 전투에서 입힌 피해량 <font color =\"red\">30</font>% 수치 생명 회복"
+          }
+        ],
+        "Animation": null
+      },
+      {
+        "Name": "수정 호위",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "액티브"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "2턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "자신"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Alpha/2.webp",
+        "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"red\">2</font>칸으로 증가, 공격 지력 <font color=\"red\">+20</font>% 및 '<font color=\"blue\">증원</font>'과 '<font color=\"blue\">응수</font>' 획득, <br/>지속 <font color=\"red\">2</font>행동 <br/><font color=\"blue\">증원</font> : 행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% 회복 <br/><font color=\"blue\">응수</font> : 공격을 받을 시 공격 <font color=\"red\">7</font>% 만큼 방어 상승",
+        "SubSkills": null,
+        "Animation": null
+      },
     {
-      "Name": "장갑 파괴",
+      "Name": "재생하는 수정 핵",
       "Cost": "COST 1",
       "Entries": [
         {
@@ -461,22 +511,8 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakDef.webp",
-      "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "미늘",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Barb.webp",
-      "Desc": "[패시브]근접 공격을 받아 전투 진입시 전투 후 부대 생명이 50%이상이라면 [미늘]을 발동한다:<br/>전투 종료 후 적 부대에게 영웅 방어 2.5배만큼의 [고정 피해]를 준다.",
+      "IconImageUrl": "../img/skills/Alpha/3.webp",
+      "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/><b>공격을 받은 후 자신의 공격</b> <font color =\"red\">1.5</font>배 수치 생명 회복",
       "SubSkills": null,
       "Animation": null
     },
@@ -501,65 +537,37 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Support.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.7배 피해를 준다.<br/>전투 전 공격의 20%가 방어에 추가되며, 적 부대에게 '모든 패시브 스킬을 무효화한다'부여,2턴 지속,<br/>이 효과는 제거되지 않는다.",
+      "IconImageUrl": "../img/skills/Skill_Support.webp",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color=\"red\">1.7</font>배 피해를 준다.<br/>전투 전 공격의 <font color=\"red\">20</font>%가 방어에 추가되며, 적 부대에게 '모든 패시브 스킬 봉인'부여 <br/><font color=\"red\">2</font>턴 지속,<br/>이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "제압",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf1.webp",
-      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 +12%.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "SP : 빛의 급습",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "지원"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "4턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "자신"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/알파/1.webp",
-      "Desc": "[액티브] 자신에게 '전설의 빛' 효과 부여 :<br/>알파 전용 장비 효과 발동 확률을 <font color=\"red\">100%</font>로 조절, 지속 1행동 및 '면역' 효과, 지속 2행동, <br/>사용 후 재행동 <font color=\"red\">3</font>칸 가능,부대가 혼합 병종이 아닐 경우 <font color=\"red\">4</font>칸 재행동<br/>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "SP : 고독한 강자",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/알파/2.webp",
-      "Desc": "[패시브]아군 퇴각 시 부대 생명 <font color=\"red\">20%</font> 회복 및 고독한 강자 효과 획득.<br/>피격으로 전투 진입 전 생명 회복 <font color=\"red\">30%</font>, <br/>전투 후 피해량 <font color=\"red\">30%</font> 수치만큼 생명 회복, 지속 <font color=\"red\">1</font>행동",
-      "SubSkills": null,
-      "Animation": null
-    }
+        "Name": "자수정 폭발",
+        "Cost": "COST 3",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "물리피해"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "5턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "자신"
+          },
+          {
+            "Label": "범위",
+            "Value": "4칸"
+          }
+        ],
+        "IconImageUrl": "../img/Super/알파.webp",
+        "Desc": "[패시브] 사망 시 생명 <font color=\"red\">100</font>% 수치로 <font color=\"blue\">부활</font> 및 <font color=\"blue\">모든 스킬 쿨타임 <font color=\"red\">-5</font></font> 및 <br/><b>'<font color=\"purple\">자수정 장막</font>','<font color=\"purple\">자수정 방패</font>' 영구 상실 및 재획득 불가(디메리트)</b><br/>최대 <font color=\"red\">1</font>회 발동.<br/>[액티브]<b>자신과 주위 <font color=\"red\">4</font>칸 <font color=\"red\">0.3</font>배 범위 피해</b><br/>사용 전 <b>자신에게 걸린</b> 모든 <font color =\"blue\">디버프 해제</font><br/>자신의 생명이 낮을 수록 피해량 증가 <br/>최대 <font color =\"red\">100</font>%",
+        "SubSkills": null,
+        "Animation": "../img/Super/알파_Ani.webp"
+      }
   ],
   "Propose": false,
   "Bio": null,

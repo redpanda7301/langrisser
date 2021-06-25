@@ -399,7 +399,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Emilia1.webp",
+      "IconImageUrl": "../img/skills/Skill_Emilia1.webp",
       "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 증가, [성스러운 수호]효과를 얻는다:<br/>'마방'의 1.6배로 공격을 대신한다. 2칸 원거리공격에 대한 반격가능, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -413,7 +413,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Fair.webp",
+      "IconImageUrl": "../img/skills/Passive_Fair.webp",
       "Desc": "[패시브]부대 생명 90% 이상에서 자신의 방어가 적군보다 방어가 높을 경우 선제 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -427,7 +427,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_HolyShield.webp",
+      "IconImageUrl": "../img/skills/Passive_HolyShield.webp",
       "Desc": "[패시브]전투 진입 시 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -441,7 +441,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helmet.webp",
+      "IconImageUrl": "../img/skills/Skill_Helmet.webp",
       "Desc": "[패시브] 원거리 공격을 받을 시 <font color=\"#DC143C\">25%</font>확률로 부대가 받는 모든 피해 <font color=\"#DC143C\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -467,7 +467,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Emilia2.webp",
+      "IconImageUrl": "../img/skills/Skill_Emilia2.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.5배 피해를 준다.<br/>전투 후, 적에게 '주는 피해량' -20% 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -481,7 +481,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefUp.webp",
+      "IconImageUrl": "../img/skills/Passive_MDefUp.webp",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -495,7 +495,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Dedication.webp",
+      "IconImageUrl": "../img/skills/Skill_Dedication.webp",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br/>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -521,7 +521,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Emilia3.webp",
+      "IconImageUrl": "../img/skills/Skill_Emilia3.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 진입 전[성스러운 수호]효과를 획득한다:<br/>마방의 1.6배만큼의 수치로 공격을 대체한다,2칸 원거리공격 반격가능. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -535,7 +535,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefBuf.webp",
+      "IconImageUrl": "../img/skills/Passive_MDefBuf.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 마방 +20% 및<br/>면역: '기절','강화 방해','이동력 감소', 1턴 지속.",
       "SubSkills": null,
       "Animation": null

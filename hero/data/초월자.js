@@ -35,7 +35,7 @@
       "Condition": "초월자를 출전시켜 아레나 5회 승리"
     },
     {
-      "Condition": "초월자를 매드 사이언티스트로 전직"
+      "Condition": "초월자를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
       "Condition": "입실론의 도움 하에 운명의문4  클리어"
@@ -44,7 +44,7 @@
       "Condition": "기자로프의 도움 하에 운명의문5 클리어"
     }
   ],
-  "HeartFetter": "생명+400, 방어+40, 마방+50",
+  "HeartFetter": "생명+550, 방어+40, 마방+50",
   "Talent": [
     {
       "Name": "파멸과 창세의 위력",
@@ -73,7 +73,7 @@
   ],
   "SPTalent": null,
   "Equip": null,
-  "Soldie rs": [
+  "Soldiers": [
     17,
     46,
     43,
@@ -355,7 +355,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BreakEvil.webp",
+      "IconImageUrl": "../img/skills/Skill_BreakEvil.webp",
       "Desc": "[마법 피해]치명타율+15%, 범위 내 모든 적에게 0.3배의 광격 피해를 주고<br/>적이 가진 버프 1개를 제거한다.'마물'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -369,7 +369,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
       "Desc": "[패시브]부대 생명이 <font color =\"red\">50</font>% 이하로 전투 진입 시 방어, 마방 <font color =\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
@@ -395,7 +395,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SacredRay.webp",
+      "IconImageUrl": "../img/skills/Skill_SacredRay.webp",
       "Desc": "[마법 피해]<font color=\"red\">1</font>개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.33</font>배 범위 피해를 입힌다.<br/><b>'마물'과 전투 시</b> 더 큰 피해를 입힌다. <font color =\"red\">1</font>개 <font color =\"blue\">버프 제거</font>.",
       "SubSkills": null,
       "Animation": null
@@ -421,7 +421,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Transcendent/1.webp",
+      "IconImageUrl": "../img/skills/Transcendent/1.webp",
       "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.25</font>배 범위 및 <font color =\"blue\">위치 이동</font>효과 부여<br/><font color =\"blue\">위치 이동</font> : 대상을 <font color =\"red\">2</font>칸 당기고 이동력<font color =\"red\">-2</font><br/>지속 <font color=\"red\">1</font>턴",
       "SubSkills": null,
       "Animation": null
@@ -447,7 +447,7 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Transcendent/2.webp",
+      "IconImageUrl": "../img/skills/Transcendent/2.webp",
       "Desc": "[마법 피해]주위 <font color =\"red\">5</font>칸 내 모든 적군에게 <font color =\"red\">0.45</font>배 범위 피해 및<br/>'공격,지력 <font color =\"red\">-25</font>%'<br/>'<b>적의 방어와 마방 중 높은 쪽</b> <font color =\"red\">-25</font>% 디버프 부여'<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -473,7 +473,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
+      "IconImageUrl": "../img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 <font color =\"red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -499,7 +499,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Transcendent/3.webp",
+      "IconImageUrl": "../img/skills/Transcendent/3.webp",
       "Desc": "[마법 피해]<font color=\"red\">1</font>개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.35</font>배 범위 및 <br/>적에게 <font color =\"blue\">주는 피해량</font> <font color =\"red\">-10</font>% 효과 부여<br/>지속 <font color=\"red\">2</font>턴",
       "SubSkills": null,
       "Animation": null
@@ -525,7 +525,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkRay2.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkRay2.webp",
       "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'승려'와 전투 시 더 큰 피해를 입힌다. 디버프 1개 랜덤 부여.",
       "SubSkills": null,
       "Animation": null

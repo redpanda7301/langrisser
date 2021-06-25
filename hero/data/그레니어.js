@@ -401,7 +401,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Guard.webp",
+      "IconImageUrl": "../img/skills/Passive_Guard.webp",
       "Desc": "[액티브] 액티브 스킬, 근접한 <font color=\"red\">2</font>칸 내 아군이 물리 공격을 받을 시 대신 전투에 진입한다. <font color=\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -427,7 +427,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SpearCrash1.webp",
+      "IconImageUrl": "../img/skills/Skill_SpearCrash1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br/>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -453,7 +453,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BitterlyHit.webp",
+      "IconImageUrl": "../img/skills/Skill_BitterlyHit.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br/>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -479,7 +479,7 @@
           "Value": "맵 전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Light1.webp",
+      "IconImageUrl": "../img/skills/SuperBuff_Light1.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의 공격, 방어 능력치가 크게 상승하고 <font color=\"#DC143C\">4턴</font> 지속.<br/>(이 효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -493,7 +493,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.webp",
+      "IconImageUrl": "../img/skills/Passive_Parry.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 30%확률로 발동, 받는 물리 피해량 <font color=\"#DC143C\">-30%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -507,7 +507,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -521,7 +521,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_CounterAttack2.webp",
+      "IconImageUrl": "../img/skills/Skill_CounterAttack2.webp",
       "Desc": "[패시브] 공격을 받아 전투 진입 시 <font color=\"#DC143C\">10%</font>의 확률로 적보다 먼저 공격한다.<br/>기술 <font color=\"#DC143C\">10</font>마다 확률 <font color=\"#DC143C\">+1%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -535,7 +535,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helmet.webp",
+      "IconImageUrl": "../img/skills/Skill_Helmet.webp",
       "Desc": "[패시브] 원거리 공격을 받을 시 <font color=\"#DC143C\">25%</font>확률로 부대가 받는 모든 피해 <font color=\"#DC143C\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -561,7 +561,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_KnightCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br/>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
       "SubSkills": null,
       "Animation": null

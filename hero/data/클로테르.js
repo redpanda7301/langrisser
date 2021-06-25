@@ -363,7 +363,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/1.webp",
+      "IconImageUrl": "../img/skills/Clotaire/1.webp",
       "Desc": "[마법 피해]단일 개체 <font color=\"red\">1.5</font>배 피해, 대 보병 특효,<br/>근접전 병사 대동 시 병사도 함께 공격, <br/><b>해당 스킬은 근접전 패널티 무효화</b>.",
       "SubSkills": null,
       "Animation": null
@@ -377,7 +377,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.webp",
+      "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로<br/>적 마방 -25%, 지속 1행동",
       "SubSkills": null,
       "Animation": null
@@ -395,7 +395,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/2.webp",
+      "IconImageUrl": "../img/skills/Clotaire/2.webp",
       "Desc": "[지원]공격의 15% 수치만큼 지력 증가,지속 4행동, 사용 후 재행동 2칸,<br/>스킬 사용 후 해당 행동은 자신에게 걸린 버프 지속 시간이 감소하지 않음.",
       "SubSkills": null,
       "Animation": null
@@ -421,7 +421,7 @@
           "Value": "주위 3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/3.webp",
+      "IconImageUrl": "../img/skills/Clotaire/3.webp",
       "Desc": "[마법피해]주위 <font color=\"red\">3</font>바퀴 범위 내 적에게 <font color=\"red\">0.33</font> 피해. 대 보병 특효 및 적에게 '<font color=\"red\">작열</font>' 효과 부여<br/><b>다음 턴 행동 종료 시</b> 공격자 지력 <font color=\"red\">2</font>배 수치 고정피해<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -447,7 +447,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.webp",
+      "IconImageUrl": "../img/skills/Skill_Metro.webp",
       "Desc": "[마법피해]범위 내 <font color=\"red\">0.36</font>배 피해. 대 보병 특효. 적에게 다음 턴 행동 종료 시 최대 생명 <font color=\"red\">20%</font> 수치 고정피해 부여.",
       "SubSkills": null,
       "Animation": null
@@ -473,7 +473,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/4.webp",
+      "IconImageUrl": "../img/skills/Clotaire/4.webp",
       "Desc": "[지원]지원. 부대에 '<font color=\"red\">불태우기</font>' 효과 부여 : <br/>선공으로 피해를 입힌 후 고정피해. 피해 수치는 클로테르 지력 + 공격 <font color=\"red\">1</font>배 수치,지속 <font color=\"red\">4</font>행동. 사용 후 <font color=\"red\">2</font>칸 재행동,   <br/>스킬 사용 후 해당 행동은 자신에게 걸린 버프 지속 시간이 감소하지 않음",
       "SubSkills": null,
       "Animation": null
@@ -499,7 +499,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Clotaire/5.webp",
+      "IconImageUrl": "../img/skills/Clotaire/5.webp",
       "Desc": "[물리 피해]1줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해. 대 보병 특효. 적에게 소각 효과 부여 : <br/>다음 턴 행동 종료 시 클로테르 공격 + 지력 <font color=\"red\">1</font>배 수치 고정피해. 지속 <font color=\"red\">2</font>행동 (해제 불가)",
       "SubSkills": null,
       "Animation": null
@@ -525,7 +525,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/4.webp",
+      "IconImageUrl": "../img/skills/4.webp",
       "Desc": "[물리 피해] 주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.",
       "SubSkills": null,
       "Animation": null

@@ -385,7 +385,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordDance.webp",
+      "IconImageUrl": "../img/skills/Skill_SwordDance.webp",
       "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -399,7 +399,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Autokrato/1.webp",
+      "IconImageUrl": "../img/skills/Autokrato/1.webp",
       "Desc": "[패시브]선공으로 피해를 입힌 후 적에게 도발 효과 부여 :<br/>이동하지 않은 채로 행동 종료 시 공격 3배 수치 고정피해, <br/>이동 <font color=\"red\">1</font>칸당 고정 피해 계수 <font color=\"red\">-0.5</font>, 지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>.",
       "SubSkills": null,
       "Animation": null
@@ -425,7 +425,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ShieldStrike.webp",
+      "IconImageUrl": "../img/skills/Skill_ShieldStrike.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1배의 피해를 준다.<br/>전투 진입 전 적 부대를 1턴 동안 '기절'시킨다.",
       "SubSkills": null,
       "Animation": null
@@ -439,7 +439,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parry.webp",
+      "IconImageUrl": "../img/skills/Skill_Parry.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격의 7%를 방어에 추가한다.",
       "SubSkills": null,
       "Animation": null
@@ -465,7 +465,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Autokrato/2.webp",
+      "IconImageUrl": "../img/skills/Autokrato/2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/><b>해당 공격으로 호위 받지 않는 적 공격 시 전투 후</b> <br/><font color=\"blue\">텔레포트</font> 효과 발동 : <br/><b>적을 직선 방향 뒤쪽으로</b> <font color=\"blue\">텔레포트</font> 최대 <font color=\"red\">3</font>칸",
       "SubSkills": null,
       "Animation": null
@@ -479,7 +479,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Empire.webp",
+      "IconImageUrl": "../img/skills/Passive_Empire.webp",
       "Desc": "[패시브]근접 공격으로 전투 진입전 상대가 보유한 버프 1개 제거 및<br/>상대 부대 방어-20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -505,7 +505,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Autokrato/3.webp",
+      "IconImageUrl": "../img/skills/Autokrato/3.webp",
       "Desc": "[물리피해]직선 범위에 있는 단일 적 부대에게 <font color=\"red\">1.5</font>배 피해,<br/><b>전투 후</b> 최대 <font color=\"red\">3</font>개 버프 강탈 및 목표를 <font color=\"red\">3</font>칸 밀침",
       "SubSkills": null,
       "Animation": null
@@ -519,7 +519,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DoubleAttack.webp",
+      "IconImageUrl": "../img/skills/Passive_DoubleAttack.webp",
       "Desc": "[패시브]공격하여 전투 후 주위 1칸 범위 내 모든 적군에게 0.1배 범위 피해를 입힌다.",
       "SubSkills": null,
       "Animation": null
@@ -545,7 +545,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IronHand.webp",
+      "IconImageUrl": "../img/skills/Skill_IronHand.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br/>[응수]효과 획득, 2턴 지속.",
       "SubSkills": null,
       "Animation": null

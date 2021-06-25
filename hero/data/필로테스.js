@@ -345,7 +345,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash2.webp",
+      "IconImageUrl": "../img/skills/Skill_BladeCrash2.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.2배의 피해를 주고<br/>치명타율 +20%.",
       "SubSkills": null,
       "Animation": null
@@ -359,7 +359,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.webp",
+      "IconImageUrl": "../img/skills/Passive_Ass2.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -373,7 +373,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.webp",
+      "IconImageUrl": "../img/skills/2.webp",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -387,7 +387,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf5.webp",
+      "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
       "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -413,7 +413,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Pirotess2.webp",
+      "IconImageUrl": "../img/skills/Skill_Pirotess2.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.3배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 진입전 적군보다 기술이 높을 경우, 전투후 적군에게 '이동력' -2,<br/>반대의 경우 '공격, 지력' -30%, 1턴 지속. (해당 효과는 제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -439,7 +439,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BladeCrash3.webp",
+      "IconImageUrl": "../img/skills/Skill_BladeCrash3.webp",
       "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br/>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
       "SubSkills": null,
       "Animation": null
@@ -453,7 +453,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TrickStep.webp",
+      "IconImageUrl": "../img/skills/Skill_TrickStep.webp",
       "Desc": "[패시브]치명타 확률+10%.<br/>전투 중 적 부대를 격퇴할 시 3칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -479,7 +479,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Pirotess1.webp",
+      "IconImageUrl": "../img/skills/Skill_Pirotess1.webp",
       "Desc": "[지원]사용 후 자신 부대의 '기술'+30%, 2턴지속.<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null

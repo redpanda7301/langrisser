@@ -374,7 +374,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Lucretia/Puppet_1.webp",
+      "IconImageUrl": "../img/skills/Lucretia/Puppet_1.webp",
       "Desc": "[패시브]<b>마력 꼭두각시 소환사의 부대 사거리</b> <font color=\"red\">+2</font>",
       "SubSkills": null,
       "Animation": null
@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Lucretia/Puppet_2.webp",
+      "IconImageUrl": "../img/skills/Lucretia/Puppet_2.webp",
       "Desc": "[액티브] 목표의 모든 스킬 쿨 <font color=\"red\">-1</font>",
       "SubSkills": null,
       "Animation": null
@@ -426,7 +426,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Lucretia/Puppet_3.webp",
+      "IconImageUrl": "../img/skills/Lucretia/Puppet_3.webp",
       "Desc": "[액티브]<b>꼭두각시 소환사와 위치 교환</b> 및 재행동",
       "SubSkills": null,
       "Animation": null
@@ -452,7 +452,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
+      "IconImageUrl": "../img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -478,7 +478,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -504,7 +504,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Lucretia/1.webp",
+      "IconImageUrl": "../img/skills/Lucretia/1.webp",
       "Desc": "[마법피해]<b>자신 혹은 자신의 소환수 주위 <font color=\"red\">4</font>칸 범위 내</b> <br/>적에게 <font color=\"red\">0.3</font>배 피해 및 명중한 적에게 ,<br/><font color=\"blue\">치료불가</font>, <font color=\"blue\">강화불가</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -518,7 +518,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Lucretia/2.webp",
+      "IconImageUrl": "../img/skills/Lucretia/2.webp",
       "Desc": "[패시브]<b>선공으로 피해를 입힌 후</b> 적에게 <font color=\"blue\">그림자 각인</font> 부여, <br/><b>마력 꼭두각시가 그림자 각인을 가진 적과 교전 시</b> <br/><font color=\"blue\">호위 무시</font>, 피해 <font color=\"red\">+30</font>%, 받는 피해 <font color=\"red\">-50</font>%.",
       "SubSkills": null,
       "Animation": null
@@ -544,7 +544,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Lucretia/3.webp",
+      "IconImageUrl": "../img/skills/Lucretia/3.webp",
       "Desc": "[마법 피해] 직선상 적에게 <font color=\"red\">0.33</font>배 피해, <br/>신관과 전투시 더 큰 데미지를 입힌다. <br/>랜덤한 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여",
       "SubSkills": null,
       "Animation": null
@@ -570,7 +570,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkHole.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkHole.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>각 부대에게 무작위 디버프를 2개씩 부여한다.",
       "SubSkills": null,
       "Animation": null
@@ -596,7 +596,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
+      "IconImageUrl": "../img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -622,7 +622,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassATKup.webp",
+      "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -648,7 +648,7 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HolySuper.webp",
+      "IconImageUrl": "../img/skills/Skill_HolySuper.webp",
       "Desc": "[마법 피해]치명타 확률 +50%, 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null

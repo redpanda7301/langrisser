@@ -369,7 +369,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/0.webp",
+      "IconImageUrl": "../img/skills/0.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -383,7 +383,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Sirink1.webp",
+      "IconImageUrl": "../img/skills/Passive_Sirink1.webp",
       "Desc": "[패시브]근접병사를 휴대시, 부대의 이동방식을 '비행'으로 변경.<br/>공격을 받아 전투 진입 후, 적군에게 [고정피해]를 입히며(피해량은 적군의 '공격'+'지력'의 1배),<br/>자신의 생명 회복(회복량은 적군의 '공격'+'지력'의 1배),<br/>[휴면상태]의 경우 2배 효과.",
       "SubSkills": null,
       "Animation": null
@@ -409,7 +409,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/14.webp",
+      "IconImageUrl": "../img/skills/14.webp",
       "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br/>'비병'과 전투 시 더큰 피해를 준다.<br/>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -435,7 +435,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
+      "IconImageUrl": "../img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -449,7 +449,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf6.webp",
+      "IconImageUrl": "../img/skills/Passive_AtkBuf6.webp",
       "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -475,7 +475,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Sirink1.webp",
+      "IconImageUrl": "../img/skills/Skill_Sirink1.webp",
       "Desc": "[패시브]원거리병사를 휴대시, 부대의 이동방식을 '비행'으로 변경.<br/>[지원]액티브 스킬, 자신을 순간이동하여 임의의 위치로 이동할 시 <br/>'이동력 +2, [말살]버프 시전:<br/>공격하여 전투 진입 전 적군 주위 1칸내 1명 이상의 적군이 있을경우 영웅을 직접 공격',<br/>1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -489,7 +489,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakDef.webp",
+      "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -515,7 +515,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Sirink2.webp",
+      "IconImageUrl": "../img/skills/Skill_Sirink2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/>자신 주위 3칸 범위 내에 아군이 없을 경우, 호위를 무시하고 공격한다.<br/>이 스킬로 적군을 격파한 경우 2칸 재이동 가능.",
       "SubSkills": null,
       "Animation": null

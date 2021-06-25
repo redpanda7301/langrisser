@@ -380,7 +380,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash5.webp",
+      "IconImageUrl": "../img/skills/Skill_ArrowCrash5.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.25배 피해를 입힌다.<br/>자신이 처해 있는 지형이 방어 지형일 시 전투 전 1회 고정 피해를 입힌다.<br/>(피해량은 영웅 공격의 1배).",
       "SubSkills": null,
       "Animation": null
@@ -394,7 +394,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -408,7 +408,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Nature.webp",
+      "IconImageUrl": "../img/skills/Skill_Nature.webp",
       "Desc": "[패시브]'숲','산지','초원'지형에서 근접 피해 감면효과에영향을 받지않으며,<br/>근접전투 진입시, 받는피해감소 -20%.",
       "SubSkills": null,
       "Animation": null
@@ -434,7 +434,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.webp",
+      "IconImageUrl": "../img/skills/Skill_KnightCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -448,7 +448,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/11.webp",
+      "IconImageUrl": "../img/skills/11.webp",
       "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br/>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -462,7 +462,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.webp",
+      "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
       "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -476,7 +476,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf5.webp",
+      "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
       "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -502,7 +502,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash6.webp",
+      "IconImageUrl": "../img/skills/Skill_ArrowCrash6.webp",
       "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.<br/>전투 진입 전, 자신의 디버프를 최대 <font color=\"red\">3</font>개 제거한다.<br/>디버프를 <font color=\"red\">1</font>개 제거할 때마다 주는 피해량<font color=\"red\">+10%</font>.<br/>전투 후, 제거한 디버프를 모두 적에게 부여한다.",
       "SubSkills": null,
       "Animation": null

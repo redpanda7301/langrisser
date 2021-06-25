@@ -395,7 +395,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash3.webp",
+      "IconImageUrl": "../img/skills/Skill_KnightCrash3.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"red\">1</font>배의 공격 피해를 준다.<br/>대상을 <font color=\"red\">2</font>칸 밀쳐내며 다음 턴 행동 불가 부여.",
       "SubSkills": null,
       "Animation": null
@@ -421,7 +421,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.webp",
+      "IconImageUrl": "../img/skills/Passive_Punch.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 <font color=\"red\">2</font>칸 밀쳐내며 이동력 <font color=\"red\">-2</font>, '호위 불가'부여, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -435,7 +435,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Hilder/1.webp",
+      "IconImageUrl": "../img/skills/Hilder/1.webp",
       "Desc": "[패시브]근접 공격으로 전투 진입 시 공격 <font color=\"red\">+15</font>%,<br/>전투 전 <b><font color=\"blue\">적의 무기 스킬 무효화</font>(최대 생명 수치 제외)</b>,<br/>목표가 NPC 일 경우 해당 효과는 '공격 지력 <font color=\"red\">-25</font>%'로 대체, <br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -461,7 +461,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Reincar2.webp",
+      "IconImageUrl": "../img/skills/SuperBuff_Reincar2.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<b>전생</b>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>단일 개체 스킬 피해 <font color=\"red\">+12</font>% 및 반격 피해 <font color=\"red\">+12</font>%, 지속 <font color=\"red\">4</font>행동<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -487,7 +487,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Hilder/2.webp",
+      "IconImageUrl": "../img/skills/Hilder/2.webp",
       "Desc": "[패시브] 인접한 아군이 받는 모든 공격 호위<br/>[액티브]직선 상 적에게 <font color =\"red\">0.1</font>배 물리 피해 및 자신의 호위 범위 <font color=\"red\">2</font>칸으로 증가   <br/>피격 치명타 확률 <font color=\"red\">-20</font>%, 지속 <font color=\"red\">2</font>행동<br/>적이 혼합 부대일 경우 해당 고정 피해는 면역 불가.<br/>스킬 명중한 지형에 '<b><font color=\"blue\">함몰</font></b>' 효과 부여 : <br/>해당 지형으로 이동한 적군은 '<b><font color=\"blue\">재이동</font> 및 <font color=\"blue\">재행동</font></b> 불가'",
       "SubSkills": null,
       "Animation": null
@@ -513,7 +513,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BitterlyHit.webp",
+      "IconImageUrl": "../img/skills/Skill_BitterlyHit.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br/>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -527,7 +527,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.webp",
+      "IconImageUrl": "../img/skills/Passive_Parry.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 <font color=\"red\">25%</font>확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -541,7 +541,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Hilder/3.webp",
+      "IconImageUrl": "../img/skills/Hilder/3.webp",
       "Desc": "[패시브]<b>원거리 <font color =\"blue\">물리 공격</font>받아 전투 진입 시</b> 공격 <font color=\"red\">+15</font>%, 받는 피해량 <font color=\"red\">-10</font>%<br/>최대 <font color=\"red\">3</font>칸 <b><font color=\"blue\">원거리 물리 공격 반격</font></b>",
       "SubSkills": null,
       "Animation": null

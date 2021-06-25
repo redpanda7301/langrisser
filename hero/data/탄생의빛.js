@@ -385,7 +385,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
+      "IconImageUrl": "../img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다. <br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -411,7 +411,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
+      "IconImageUrl": "../img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다. <br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -437,7 +437,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
+      "IconImageUrl": "../img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 <font color =\"red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -463,7 +463,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Teleport.webp",
+      "IconImageUrl": "../img/skills/Skill_Teleport.webp",
       "Desc": "[지원]액티브 스킬, 아군 <font color=\"red\">1</font>부대를 범위 안의 임의 <font color=\"red\">1</font>칸으로 이동시킨다.<br/>(텔레포트 범위는 대상을 기준으로 <font color=\"red\">7</font>칸)</br><br/>(유저의 부대에게만 쓸 수 있다.)",
       "SubSkills": null,
       "Animation": null
@@ -489,7 +489,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.webp",
+      "IconImageUrl": "../img/skills/Skill_Metro.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.36</font>배의 광역 피해를 준다.<br/>'보병'에게 더 큰 피해를 준다. <br/>적은 다음 행동 종료 시 생명의 <font color=\"red\">20</font>%를 잃는다.",
       "SubSkills": null,
       "Animation": null
@@ -515,7 +515,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/성스러운빛.webp",
+      "IconImageUrl": "../img/skills/성스러운빛.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.4</font>배의 피해를 준다.<br/><b>전투 후 생명 수치가 가장 낮은 아군을</b> <font color =\"blue\">회복</font><br/> 회복량은 술사 지력의 <font color =\"red\">2</font>배 수치",
       "SubSkills": null,
       "Animation": null
@@ -541,7 +541,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/24.webp",
+      "IconImageUrl": "../img/skills/24.webp",
       "Desc": "[마법 피해] <font color =\"red\">3</font>개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.36</font>배 범위 피해를 입힌다. <br/>'마물'과 전투 시 더 큰 피해를 입힌다. 버프를 <font color =\"red\">1</font>개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -567,7 +567,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/성스러운 영광.webp",
+      "IconImageUrl": "../img/skills/성스러운 영광.webp",
       "Desc": "[마법 피해] 단일 개체 <font color=\"red\">1.5</font>배 피해,'마물'에게 더 큰 피해를 준다, <br/><b>전투 후 명중한 위치 및 인접한 지형 (십자 형태)에 <font color=\"blue\">성스러운 영광</font> 효과 부여, 지속 <font color=\"red\">2</font>행동<br/>[<font color=\"blue\">성스러운 영광</font>] : <b>적이 해당 지형에 위치한 후 행동 종료 시</b> 버프 <font color=\"red\">1</font>개 제거",
       "SubSkills": null,
       "Animation": null
@@ -593,7 +593,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
+      "IconImageUrl": "../img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null

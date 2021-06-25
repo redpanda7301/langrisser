@@ -344,7 +344,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ShadowSpear.webp",
+      "IconImageUrl": "../img/skills/Skill_ShadowSpear.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'승려'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -370,7 +370,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_IceBolt.webp",
+      "IconImageUrl": "../img/skills/Skill_IceBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -396,7 +396,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DisasterThrow.webp",
+      "IconImageUrl": "../img/skills/Skill_DisasterThrow.webp",
       "Desc": "[마법 피해]라인에 있는 모든 적군을 관통하며 0.33배 범위 피해를 입힌다.<br/>랜덤으로 2개 디버프 시전.",
       "SubSkills": null,
       "Animation": null
@@ -422,7 +422,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
+      "IconImageUrl": "../img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -448,7 +448,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamAtk.webp",
+      "IconImageUrl": "../img/skills/Skill_JamAtk.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '강화 방해'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -474,7 +474,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkSubstance.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkSubstance.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>적군이 주는 치료 효과-100%, 2턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -500,7 +500,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WindStrike.webp",
+      "IconImageUrl": "../img/skills/Skill_WindStrike.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -526,7 +526,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Annihilation.webp",
+      "IconImageUrl": "../img/skills/Skill_Annihilation.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적군이 3개 이상 디버프를 소지 시 이번 공격에서 적의 마방 -100%.",
       "SubSkills": null,
       "Animation": null

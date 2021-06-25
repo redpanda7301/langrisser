@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
+      "IconImageUrl": "../img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -426,7 +426,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
+      "IconImageUrl": "../img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -452,7 +452,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
+      "IconImageUrl": "../img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -478,7 +478,7 @@
           "Value": "자신"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PeakJessica1.webp",
+      "IconImageUrl": "../img/skills/Skill_PeakJessica1.webp",
       "Desc": "[변신]자신의 모든 스킬 쿨타임 -3 및 [신력대행] 상태로 변신:<br/>이동력 -3, 스킬 사용시 부대 사거리 +3, 행동 종료시 지력 1.5배 수치의 생명 회복 및 1개의 디버프 제거.<br/>[신력대행]상태는 신력 대행 스킬로 취소 가능 후 재행동 가능(해당 효과는 면역 및 제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -504,7 +504,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PeakJessica3.webp",
+      "IconImageUrl": "../img/skills/Skill_PeakJessica3.webp",
       "Desc": "[마법 피해]범위 안의 적들을 공격해 0.3배의 피해를 주고 적이 가진 버프 1개를 제거한다.<br/>'마물'과 전투 시 더 큰 피해를 입힌다. 동시에 범위 내 모든 아군의 디버프 1개 제거 및<br/>시전자 지력의 3배 만큼의 생명 회복.",
       "SubSkills": null,
       "Animation": null
@@ -530,7 +530,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MassMDefKup.webp",
+      "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
       "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -544,7 +544,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 방어 +15% 및<br/>면역: '방어, 마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -570,7 +570,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.webp",
+      "IconImageUrl": "../img/skills/Skill_Metro.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>'보병'에게 더 큰 피해를 준다.<br/>적은 다음 행동 종료 시 생명의 20%를 잃는다.",
       "SubSkills": null,
       "Animation": null
@@ -596,7 +596,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/23.webp",
+      "IconImageUrl": "../img/skills/23.webp",
       "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
       "SubSkills": null,
       "Animation": null

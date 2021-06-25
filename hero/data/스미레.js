@@ -343,7 +343,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Adversity.webp",
+      "IconImageUrl": "../img/skills/Skill_Adversity.webp",
       "Desc": "[패시브] 부대 생명 <font color=\"red\">70%</font>이하일 때 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -357,7 +357,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/42.webp",
+      "IconImageUrl": "../img/skills/42.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시, 공격 +12%",
       "SubSkills": null,
       "Animation": null
@@ -383,7 +383,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/44.webp",
+      "IconImageUrl": "../img/skills/44.webp",
       "Desc": "[물리 피해]자신 주위의 적 부대에게 0.3배의 광역 피해를 주며 [유혈] 효과를 부여한다.<br/>[유혈]: 행동 종료시 공격자의 공격 2배의 [고정피해], 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -409,7 +409,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/43.webp",
+      "IconImageUrl": "../img/skills/43.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 전투 피해를 준다.<br/>전투 후, 적 방어 -30%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -423,7 +423,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Helmet.webp",
+      "IconImageUrl": "../img/skills/Skill_Helmet.webp",
       "Desc": "[패시브] 원거리 공격을 받을 시 <font color=\"#DC143C\">25%</font>확률로 부대가 받는 모든 피해 <font color=\"#DC143C\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -449,7 +449,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/5.webp",
+      "IconImageUrl": "../img/skills/5.webp",
       "Desc": "[지원]액티브 스킬, 공격 +20%, 1턴 지속.<br/>사용 후 3칸 추가 이동 및 재공격 가능.",
       "SubSkills": null,
       "Animation": null
@@ -463,7 +463,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -489,7 +489,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/40.webp",
+      "IconImageUrl": "../img/skills/40.webp",
       "Desc": "[물리피해] 자신 주위의 2칸 범위 내 모든 적 부대에게 0.35배의<br/>광역 피해를 주며 [열반],[창진] 효과를 획득, 2턴 지속.<br/>[열반]: 사망 시 부활 및 생명 10% 회복.<br/>이 효과는 버프 지속시간 내 1회 발동<br/>[창진] : 호위 범위가 2칸으로 늘어나며 방어+20%.<br/>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다.",
       "SubSkills": null,
       "Animation": null

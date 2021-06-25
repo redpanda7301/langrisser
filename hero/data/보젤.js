@@ -420,7 +420,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamSleep.webp",
+      "IconImageUrl": "../img/skills/Skill_JamSleep.webp",
       "Desc": "[마법 피해]전장의 적 1부대에게 0.25배의 피해를 주고 버프를 3개<br/>제거하며 다음 턴 행동할 수 없게 한다.(제거불가)",
       "SubSkills": null,
       "Animation": null
@@ -446,7 +446,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
+      "IconImageUrl": "../img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -472,7 +472,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamAtk.webp",
+      "IconImageUrl": "../img/skills/Skill_JamAtk.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '강화 방해'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -486,7 +486,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMute.webp",
+      "IconImageUrl": "../img/skills/Skill_JamMute.webp",
       "Desc": "[패시브]적에게 피해를 줬을 경우 50%확률로 적에게 '침묵' 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -512,7 +512,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkHole.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkHole.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>각 부대에게 무작위 디버프를 2개씩 부여한다.",
       "SubSkills": null,
       "Animation": null
@@ -538,7 +538,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -564,7 +564,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Dark1.webp",
+      "IconImageUrl": "../img/skills/SuperBuff_Dark1.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '어둠의 윤회' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>전투 중 상대에게 디버프가 3개 이상 걸려 있을 경우 자신 부대가 주는 피해량+15%,<br/>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -590,7 +590,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_EarthQuake.webp",
+      "IconImageUrl": "../img/skills/Skill_EarthQuake.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.4배의 광역 피해를 준다.<br/>'비병'에게 피해를 줄 수 없다.<br/>그리고 적의 '공격,지력,방어 -20%', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -616,7 +616,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Skeleton04.webp",
+      "IconImageUrl": "../img/skills/Skill_Skeleton04.webp",
       "Desc": "망령술사 부대를 1개 소환한다.",
       "SubSkills": null,
       "Animation": null

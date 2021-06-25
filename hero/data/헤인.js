@@ -641,7 +641,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
+      "IconImageUrl": "../img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'보병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -667,7 +667,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
+      "IconImageUrl": "../img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -693,7 +693,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Teleport.webp",
+      "IconImageUrl": "../img/skills/Skill_Teleport.webp",
       "Desc": "[지원]액티브 스킬, 아군 1부대를 범위 안의 임의 1칸으로 이동시킨다.<b>(텔레포트 범위는 대상을 기준으로 7칸)</b><br/>(유저의 부대에게만 쓸 수 있다.)",
       "SubSkills": null,
       "Animation": null
@@ -719,7 +719,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_ThunderCrash.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -745,7 +745,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Metro.webp",
+      "IconImageUrl": "../img/skills/Skill_Metro.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.36배의 광역 피해를 준다.<br/>'보병'에게 더 큰 피해를 준다.<br/>적은 다음 행동 종료 시 생명의 20%를 잃는다.",
       "SubSkills": null,
       "Animation": null
@@ -771,7 +771,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash2.webp",
+      "IconImageUrl": "../img/skills/Skill_ValkCrash2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -797,7 +797,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/25.webp",
+      "IconImageUrl": "../img/skills/25.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -823,7 +823,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.webp",
+      "IconImageUrl": "../img/skills/Skill_JamMove.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 '모든 패시브 스킬 무효'부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -849,7 +849,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ATKup.webp",
+      "IconImageUrl": "../img/skills/Skill_ATKup.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 +20% 및<br/> 면역: '공격, 지력 감소', '침묵', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -875,7 +875,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/1.webp",
+      "IconImageUrl": "../img/skills/sp/헤인/1.webp",
       "Desc": "[패시브]<font color=\"blue\">마도의 극의</font>(<b>각성기</b>) 피해 <font color=\"red\">+50</font>%, <br/>지력 <font color=\"red\">1</font>배 수치 고정 피해 추가<br/>[액티브] 자신 부대에 '<font color=\"blue\">마법 장벽</font>' 부여 : '<b>처음 받는 마법 피해 <font color=\"red\">-30</font>%</b>',<br/>지속 <font color=\"red\">3</font>행동,<br/>사용 후 <font color=\"red\">2</font>칸 재행동. <br/><b>해당 스킬은 버프 지속 시간을 소모하지 않음</b>",
       "SubSkills": null,
       "Animation": null
@@ -901,7 +901,7 @@
           "Value": "-"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/2.webp",
+      "IconImageUrl": "../img/skills/sp/헤인/2.webp",
       "Desc": "[액티브] 아래 3가지중 하나를 선택하여 사용한다.<br/>사거리, 범위는 인게임 실장되면 수정예정",
       "SubSkills": null,
       "Animation": null
@@ -919,7 +919,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/3.webp",
+      "IconImageUrl": "../img/skills/sp/헤인/3.webp",
       "Desc": "[마법피해] 0.38배 범위 피해, <b>보병에게 더 큰 데미지 준다</b><br/>명중한 적은 다음 턴 행동 종료 시 지력 <font color=\"red\">1</font>배 수치의 <b>고정 피해</b>를 받음",
       "SubSkills": null,
       "Animation": null
@@ -937,7 +937,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/4.webp",
+      "IconImageUrl": "../img/skills/sp/헤인/4.webp",
       "Desc": "[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <b>기병에게 더 큰 데미지 준다</b><br/>전투 진입 전 병사 사거리 <font color=\"red\">+1</font>,<br/>적 방어 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -955,7 +955,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/헤인/5.webp",
+      "IconImageUrl": "../img/skills/sp/헤인/5.webp",
       "Desc": "<font color=\"red\">1</font>개의 아군 부대를 텔레포트 및 피해 <font color=\"red\">+10</font>%, 지속 <font color=\"red\">1</font>행동. <br/><b>(텔레포트 범위는 대상을 기준으로 7칸)</b> <br/><b>(유저의 부대에게만 쓸 수 있다.)</b>",
       "SubSkills": null,
       "Animation": null

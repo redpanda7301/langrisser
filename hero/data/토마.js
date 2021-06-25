@@ -342,7 +342,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/14.webp",
+      "IconImageUrl": "../img/skills/14.webp",
       "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -356,7 +356,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/11.webp",
+      "IconImageUrl": "../img/skills/11.webp",
       "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br/>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -382,7 +382,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.webp",
+      "IconImageUrl": "../img/skills/Skill_ArrowCrash2.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -396,7 +396,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Touma/1.webp",
+      "IconImageUrl": "../img/skills/Touma/1.webp",
       "Desc": "[패시브]<b>전투 진입 전 목표 이동력이 <font color=\"red\">4</font>칸 이상일 경우</b> <br/>이동력 <font color=\"red\">-2</font> 및 <font color=\"blue\">호위 무시</font>, 지속 <font color=\"red\">1<font>턴</font></font>",
       "SubSkills": null,
       "Animation": null
@@ -422,7 +422,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Touma/2.webp",
+      "IconImageUrl": "../img/skills/Touma/2.webp",
       "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.4</font>배 피해, <br/>'비병'을 상대할 시 더 큰 피해를 준다. <br/><b>전투 전 공격 대상 버프 <font color=\"red\">2</font>개 제거, <br/><b><font color=\"purple\">천공의 무장</font> 상태일 경우 전투 후 추가 <font color=\"blue\">고정 피해</font></b> (영웅 공격력<font color=\"red\">1</font>배 수치)</b>",
       "SubSkills": null,
       "Animation": null
@@ -436,7 +436,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PHeal1.webp",
+      "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
       "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
       "SubSkills": null,
       "Animation": null
@@ -450,7 +450,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -464,7 +464,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.webp",
+      "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
       "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +10%.",
       "SubSkills": null,
       "Animation": null

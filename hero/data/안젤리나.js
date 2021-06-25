@@ -421,7 +421,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_FlyCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
       "SubSkills": null,
       "Animation": null
@@ -435,7 +435,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_LonelyMoon.webp",
+      "IconImageUrl": "../img/skills/Skill_LonelyMoon.webp",
       "Desc": "[패시브]근접 전투 진입 시 영웅이 받는 피해 -20%.<br/>행동 종료 시 자신의 병사가 모두 죽었다면 재행동 가능. 3턴 후 재시전 가능.",
       "SubSkills": null,
       "Animation": null
@@ -461,7 +461,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_WaterControl.webp",
+      "IconImageUrl": "../img/skills/Skill_WaterControl.webp",
       "Desc": "[지원]사용 후 이동 시 통과하는 모든 지형을 '물 속'으로 취급한다.2턴 지속.<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -487,7 +487,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Replace.webp",
+      "IconImageUrl": "../img/skills/Skill_Replace.webp",
       "Desc": "[지원]액티브 스킬, 아군 한 명을 자신의 위치와 바꾼다.<br/>사용 후 2칸 재이동, 공격 가능.",
       "SubSkills": null,
       "Animation": null
@@ -501,7 +501,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraAtkDown.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraAtkDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 모든 적 부대 공격, 지력 -15%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -515,7 +515,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.webp",
+      "IconImageUrl": "../img/skills/2.webp",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -541,7 +541,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Punch.webp",
+      "IconImageUrl": "../img/skills/Passive_Punch.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 2칸 밀쳐내며 이동력 -2, '호위 불가'부여, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -567,7 +567,7 @@
           "Value": "2칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DragonSuper.webp",
+      "IconImageUrl": "../img/skills/Skill_DragonSuper.webp",
       "Desc": "[물리 피해]주위 2칸 내 모든 적군에게 0.36배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤 디버프를 시전, 전투 후 [바람 타기]시전:<br/>생명 50%이상으로 전투 진입 시 받는 피해 -15%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -581,7 +581,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_MDefUp.webp",
+      "IconImageUrl": "../img/skills/Passive_MDefUp.webp",
       "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
       "SubSkills": null,
       "Animation": null

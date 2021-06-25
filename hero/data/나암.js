@@ -645,7 +645,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/11.webp",
+      "IconImageUrl": "../img/skills/11.webp",
       "Desc": "[패시브] 공격 시 주는 피해량 +10%. 전투 후 다시 2칸 이동할 수 있다.<br/>재이동 효과는 1턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -671,7 +671,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TakeAim.webp",
+      "IconImageUrl": "../img/skills/Skill_TakeAim.webp",
       "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -697,7 +697,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/14.webp",
+      "IconImageUrl": "../img/skills/14.webp",
       "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br/>'비병'과 전투 시 더큰 피해를 준다.<br/>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -711,7 +711,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_CriBuf.webp",
+      "IconImageUrl": "../img/skills/Passive_CriBuf.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -737,7 +737,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_ArrowCrash.webp",
       "Desc": "[물리 피해] 단일 적을 1.3배 피해로 공격,<br/>'비병'과 전투 시 더큰 피해를 준다.<br/>전투 전 피해 +30%, 전투 후 적에게 버프 불가 부여, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -751,7 +751,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraMDefUp.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 마방 +15%.",
       "SubSkills": null,
       "Animation": null
@@ -765,7 +765,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf3.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
       "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -791,7 +791,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/15.webp",
+      "IconImageUrl": "../img/skills/15.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 모든 아군의 이동력 +1.<br/>공격, 지력 +20% 및 면역: '이동력 감소', '패시브 무효화', 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -805,7 +805,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf5.webp",
+      "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
       "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -831,7 +831,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/나암/1.webp",
+      "IconImageUrl": "../img/skills/sp/나암/1.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>'비병'과 전투 시 더큰 피해를 준다, '비병'이 대상일 경우 <font color=\"blue\">호위 무시</font></b><br/><b>전투 후 적에게</b>'<font color=\"blue\">재행동 불가</font>' 효과 부여한다.<br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b>",
       "SubSkills": null,
       "Animation": null
@@ -845,11 +845,37 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/sp/나암/2.webp",
+      "IconImageUrl": "../img/skills/sp/나암/2.webp",
       "Desc": "[패시브]<b>부대 생명이 <font color=\"red\">100</font>%일 경우 선공으로 전투 진입 전</b><br/>목표 이동력 <font color=\"red\">-2</font> 및 호위 불가(지속 <font color=\"red\">1</font>행동)",
       "SubSkills": null,
       "Animation": null
     },
+    {
+      "Name": "태양을 꿰뚫는 성스러운 화살",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/Super/나암.webp",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.6</font>배의 피해를 준다.<br/><b>전투 진입 전 목표의 이동력이 <font color=\"red\">2</font>칸 이하일 경우</b> <font color=\"blue\">호위 무시</font><br/><b>전투 후 적에게</b> '<font color=\"blue\">침묵</font>', '<font color=\"blue\">패시브 봉인</font>' 효과 부여한다.<br/>지속 <font color=\"red\">2</font>행동 <br/><b>해제 불가</br>",
+      "SubSkills": null,
+      "Animation": "../img/Super/나암_Ani.webp"
+    }
   ],
   "Propose": true,
   "Bio": [

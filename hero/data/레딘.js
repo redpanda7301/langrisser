@@ -411,7 +411,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.webp",
+      "IconImageUrl": "../img/skills/1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -425,7 +425,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.webp",
+      "IconImageUrl": "../img/skills/Passive_Parry.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 30%확률로 발동, 받는 물리 피해량 <font color=\"#DC143C\">-30%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -451,7 +451,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_PalGuard.webp",
+      "IconImageUrl": "../img/skills/Passive_PalGuard.webp",
       "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 증가, 치명타를 받을 확률 -20%, 그리고<br/>[신의 수호]효과를 얻는다 : '마방'+'방어'의 1배의 수치로<br/>공격을 대신한다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -477,7 +477,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Trial.webp",
+      "IconImageUrl": "../img/skills/Skill_Trial.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.2배</font>의 피해를 준다.<br/>전투 진입 전 자신 부대의 방어, 마방 <font color=\"red\">+30%</font>, <font color=\"red\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -491,7 +491,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Dedication.webp",
+      "IconImageUrl": "../img/skills/Skill_Dedication.webp",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br/>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -505,7 +505,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_SwordSpirit.webp",
+      "IconImageUrl": "../img/skills/Passive_SwordSpirit.webp",
       "Desc": "[패시브]받는 치료 효과 +15%.<br/>근접 공격을 받아 전투 진입 시 공격,방어 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -531,7 +531,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/SuperBuff_Light1.webp",
+      "IconImageUrl": "../img/skills/SuperBuff_Light1.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>공격을 받을 시 주는 피해량+20%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -557,7 +557,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SwordSuper.webp",
+      "IconImageUrl": "../img/skills/Skill_SwordSuper.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>전투 전 [신의 수호]효과를 획득한다:<br/>마방+방어의 1배만큼의 수치로 공격을 대체한다. 2턴 지속.<br/>전투 후 가한 피해량 50%만큼의 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -583,7 +583,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_BitterlyHit.webp",
+      "IconImageUrl": "../img/skills/Skill_BitterlyHit.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br/>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null

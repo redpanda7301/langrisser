@@ -361,7 +361,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_KnightCrash2.webp",
+      "IconImageUrl": "../img/skills/Skill_KnightCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 부대의 방어, 마방 +30%.",
       "SubSkills": null,
       "Animation": null
@@ -375,7 +375,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/13.webp",
+      "IconImageUrl": "../img/skills/13.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 주는 피해량 +10%.<br/>남은 이동력이 있을 경우 공격 후 재이동 가능.",
       "SubSkills": null,
       "Animation": null
@@ -401,7 +401,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_MagicAttack.webp",
+      "IconImageUrl": "../img/skills/Skill_MagicAttack.webp",
       "Desc": "[지원]'마무'시전: 영웅이 입히는 모든 물리 피해를 마법 피해로 취급.<br/>공격의 10%를 지력에 추가, 4턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -427,7 +427,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/39.webp",
+      "IconImageUrl": "../img/skills/39.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.4배의 공격 피해를 준다.<br/>대상을 2칸 밀쳐내며 방어 -20%, '호위 불가' 부여, 2턴지속.",
       "SubSkills": null,
       "Animation": null
@@ -441,7 +441,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/2.webp",
+      "IconImageUrl": "../img/skills/2.webp",
       "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
       "SubSkills": null,
       "Animation": null
@@ -467,7 +467,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PhysicalAttack.webp",
+      "IconImageUrl": "../img/skills/Skill_PhysicalAttack.webp",
       "Desc": "[지원]'증폭'시전: 영웅이 입히는 모든 물리 피해를 마법 피해로 취급.<br/>지력의 10%를 공격에 추가, 4턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -493,7 +493,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/19.webp",
+      "IconImageUrl": "../img/skills/19.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
       "SubSkills": null,
       "Animation": null
@@ -507,7 +507,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/22.webp",
+      "IconImageUrl": "../img/skills/22.webp",
       "Desc": "[패시브] 부대 생명이 90%이상일 시 지력, 마방 +10%.",
       "SubSkills": null,
       "Animation": null

@@ -385,7 +385,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Fireball.webp",
+      "IconImageUrl": "../img/skills/Skill_Fireball.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/><b>'보병'에게 더 큰 피해를 준다.</b>",
       "SubSkills": null,
       "Animation": null
@@ -411,7 +411,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ThunderBolt.webp",
+      "IconImageUrl": "../img/skills/Skill_ThunderBolt.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/><b>'기병'에게 더큰 피해를 준다.</b>",
       "SubSkills": null,
       "Animation": null
@@ -437,7 +437,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_JamMove.webp",
+      "IconImageUrl": "../img/skills/Skill_JamMove.webp",
       "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<font color=\"blue\">모든 패시브 스킬 무효</font>'부여<br/><font color=\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -451,7 +451,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef.webp",
+      "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">3</font>칸 내 모든 적 부대 마방 <font color=\"red\">-20</font>%, <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -477,7 +477,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DarkCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>적의 마방을 <font color=\"red\">30</font>% 무시.<b>전투 후 준 피해량</b>f의 <font color=\"red\">50</font>%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -503,7 +503,7 @@
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr1.webp",
+      "IconImageUrl": "../img/skills/Skill_Patsyr1.webp",
       "Desc": "[마법 피해]전장에 있는 단일 개체 <font color=\"red\">0.1</font>배, 목표가 '<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>'일 경우 다음 턴 <font color=\"blue\">기절</font>,<br/><b>목표 행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 다른 아군에게</b> <font color=\"blue\">고정피해</font><br/>(<b>고정피해량은 대상의 남은 생명력 <font color=\"red\">25</font>% 수치, 해당 효과는 해제 불가</b>)",
       "SubSkills": null,
       "Animation": null
@@ -529,7 +529,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr2.webp",
+      "IconImageUrl": "../img/skills/Skill_Patsyr2.webp",
       "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다. <br/>목표가 '<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>'일 경우 피해 <font color=\"red\">+20</font>% 및 <font color=\"blue\">호위 무시</font>",
       "SubSkills": null,
       "Animation": null
@@ -543,7 +543,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Patsyr3.webp",
+      "IconImageUrl": "../img/skills/Skill_Patsyr3.webp",
       "Desc": "[패시브]'<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅과 교전하여 전투에 진입시</b><br/><b>전투 후 해당 전투에서 입힌 피해량</b> <font color=\"red\">30</font>% 수치로 생명 회복",
       "SubSkills": null,
       "Animation": null

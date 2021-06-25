@@ -479,7 +479,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Shelter.webp",
+      "IconImageUrl": "../img/skills/Skill_Shelter.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 모든 공격을 받는다.<br/>공격을 받아 전투 진입 전 30%확률로 적의 1개 버프를 제거한다.",
       "SubSkills": null,
       "Animation": null
@@ -493,7 +493,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefDown.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraDefDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -519,7 +519,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_PHeal2.webp",
+      "IconImageUrl": "../img/skills/Skill_PHeal2.webp",
       "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -545,7 +545,7 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Beasts.webp",
+      "IconImageUrl": "../img/skills/Skill_Beasts.webp",
       "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 기원' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 부대의 남은 생명 비율이 <br/>상대보다 높을 경우 공격으로 전투 진입 시 입히는 피해량+15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
@@ -571,7 +571,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Deterrence.webp",
+      "IconImageUrl": "../img/skills/Skill_Deterrence.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 전 [야수의공포]효과를 부여한다:'마방'과 '방어'의 40% 수치를 '공격'에 더하고,<br/>1칸 범위로 근접한 모든 적에게 '이동 불가','호위 불가' 효과를 부여한다. 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -597,7 +597,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SeaGuard.webp",
+      "IconImageUrl": "../img/skills/Skill_SeaGuard.webp",
       "Desc": "[패시브]근접한 아군을 대신해 물리 공격을 받는다.<br/>물 속에 있으면 '방어'의 1.4배 수치로 '공격'을 대체한다.<br/>[액티브]호위 범위가 2칸으로 늘어나며, '파도 타기'효과를 획득한다:<br/>자신이 있는 지형을 '물 속'으로 취급한다. 2턴 지속",
       "SubSkills": null,
       "Animation": null
@@ -611,7 +611,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf2.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -637,7 +637,7 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FrostBreath.webp",
+      "IconImageUrl": "../img/skills/Skill_FrostBreath.webp",
       "Desc": "[물리 피해]자신 범위 4칸 내 모든 적군에게 0.25배 피해를 입힌다.<br/>처해 있는 지형을 '물 속'으로 취급, 2턴 지속.<br/>턴 종료 시 [파도타기] 시전: 자신이 처해 있는 지형을 '물 속'으로 취급, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -651,7 +651,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Snarl.webp",
+      "IconImageUrl": "../img/skills/Passive_Snarl.webp",
       "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br/>공격, 방어 -10%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -677,7 +677,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DragonShield.webp",
+      "IconImageUrl": "../img/skills/Skill_DragonShield.webp",
       "Desc": "[패시브]근접한 아군을 대신해 마법 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 '용의 방벽'효과를 획득한다:<br/>'마방'의 1.4배 수치로 '공격'을 대체하며, 주위 2칸 내 모든 아군에게<br/>'고정 피해'면역 효과를 부여한다. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -691,7 +691,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraMDefUp.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
       "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <fo%. color=\"red\">+15</fo%.",
       "SubSkills": null,
       "Animation": null

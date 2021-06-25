@@ -386,7 +386,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_FlyCrash2.webp",
+      "IconImageUrl": "../img/skills/Skill_FlyCrash2.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격하여 <font color =\"red\">1.5</font>배의 전투 피해를 준다. <br/><b>전투 전</b> [<font color =\"blue\">바람 타기</font>]획득 :<br/><b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%, <font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -400,7 +400,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/16.webp",
+      "IconImageUrl": "../img/skills/16.webp",
       "Desc": "[패시브] <b>행동 종료 시 <font color =\"red\">20</font>% 확률</b>로 <font color =\"blue\">재행동</font> 가능.",
       "SubSkills": null,
       "Animation": null
@@ -414,7 +414,7 @@
           "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DexCommand.webp",
+      "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
       "Desc": "[패시브]<b>주위 <font color =\"red\">3</font>칸 내 아군 부대가 전투 시</b> 기술 <font color =\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
@@ -440,7 +440,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Towa1.webp",
+      "IconImageUrl": "../img/skills/Skill_Towa1.webp",
       "Desc": "<b>자신에게 걸린 <font color =\"blue\">해제 가능한 버프</font> <font color =\"red\">3</font>개를 목표 아군에게 복사</b><br/>지속 <font color =\"red\">2</font>행동<br/>사용 후 <font color =\"red\">2</font>칸 재행동 <br/><b>(해당 재행동은 버프 지속 시간을 소모하지 않음)</b>",
       "SubSkills": null,
       "Animation": null
@@ -466,7 +466,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Parn2.webp",
+      "IconImageUrl": "../img/skills/Skill_Parn2.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 <font color =\"red\">1.4</font>배의 피해.<br/><b>전투 진입전 대상에 '모든 <font color =\"blue\">패시브 스킬</font>의 효과를 무효화'</b> 효과 부여,<br/> 지속 <font color =\"red\">1</font>행동.",
       "SubSkills": null,
       "Animation": null
@@ -480,7 +480,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DoubleAttack.webp",
+      "IconImageUrl": "../img/skills/Passive_DoubleAttack.webp",
       "Desc": "[패시브]<b>공격하여 전투 후 주위 1칸 범위 내 모든 적군에게</b> <font color =\"red\">0.1</font>배 <font color =\"blue\">범위 피해</font>를 입힌다.",
       "SubSkills": null,
       "Animation": null
@@ -506,7 +506,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Thump.webp",
+      "IconImageUrl": "../img/skills/Skill_Thump.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 공격 피해를 준다. <br/><b>자신이 방어 지형에 있을 시 전투 전</b> 대상에게 <font color =\"blue\">기절</font> 시전<br/><font color =\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -520,7 +520,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.webp",
+      "IconImageUrl": "../img/skills/Skill_Again.webp",
       "Desc": "[패시브]<b>행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">2</font>개 다른 아군 부대가</b> 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '<font color =\"blue\">공격, 지력 감소</font>', '<font color =\"blue\">침묵</font>', <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -546,7 +546,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Towa2.webp",
+      "IconImageUrl": "../img/skills/Skill_Towa2.webp",
       "Desc": "[물리 피해]단일 개체 <font color =\"red\">1.5</font>배, 자신에게 걸린 버프 <font color =\"red\">1</font>개당 피해 <font color =\"red\">+2</font>% (최대 <font color =\"red\">10</font>%) <br/><b>전투 진입 전 자신에게 <font color =\"blue\">초절 강화 특수 효과</font>가 있을 경우 선제공격</b><br/><b>앞 조건을 만족한 상태에서 적에게 <font color =\"blue\">초절 강화 특수 효과</font>가 <font color =\"red\">없을 경우</font> <font color =\"blue\">호위 무시</font></b>",
       "SubSkills": null,
       "Animation": null

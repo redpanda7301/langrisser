@@ -400,7 +400,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/6.webp",
+      "IconImageUrl": "../img/skills/6.webp",
       "Desc": "[물리 피해] 호위를 무시하고 단일 적 부대를 공격해 1.3배의 피해를 준다.",
       "SubSkills": null,
       "Animation": null
@@ -414,7 +414,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_DorsalThorns.webp",
+      "IconImageUrl": "../img/skills/Skill_DorsalThorns.webp",
       "Desc": "[패시브]공격하여 전투 진입 시 적 부대 생명이 100%일 경우<br/>전투 전 영웅 공격 2배의 고정 피해를 1회 입힘.",
       "SubSkills": null,
       "Animation": null
@@ -428,7 +428,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Ass2.webp",
+      "IconImageUrl": "../img/skills/Passive_Ass2.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -442,7 +442,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Tsubame1.webp",
+      "IconImageUrl": "../img/skills/Skill_Tsubame1.webp",
       "Desc": "[패시브]부대의 생명이 90%이상일때, 전투진입전 적군보다 기술이 높으면 선제 공격.",
       "SubSkills": null,
       "Animation": null
@@ -468,7 +468,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Tsubame2.webp",
+      "IconImageUrl": "../img/skills/Skill_Tsubame2.webp",
       "Desc": "[액티브]스킬 사거리의 가장 먼곳으로 이동하며,<br/>이동경로 상의 모든 적군의 강화효과를 1개씩 훔쳐온다.",
       "SubSkills": null,
       "Animation": null
@@ -494,7 +494,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ArrowCrash2.webp",
+      "IconImageUrl": "../img/skills/Skill_ArrowCrash2.webp",
       "Desc": "[물리 피해]단일 적을 공격 하여 1.4배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력-1, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -520,7 +520,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Pirotess1.webp",
+      "IconImageUrl": "../img/skills/Skill_Pirotess1.webp",
       "Desc": "[지원]사용 후 자신 부대의 '기술'+30%, 2턴지속.<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -534,7 +534,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/10.webp",
+      "IconImageUrl": "../img/skills/10.webp",
       "Desc": "[패시브]이동 시 통과할 수 있는 모든 지형을 '평지'로 취급한다.<br/>위치한 지형에 방어 상승 효과가 있을 경우 공격도 똑같이 상승한다.",
       "SubSkills": null,
       "Animation": null
@@ -548,7 +548,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDefDown.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraDefDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 적 부대의 방어 <font color=\"red\">-15%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null

@@ -343,7 +343,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_TakeAim.webp",
+      "IconImageUrl": "../img/skills/Skill_TakeAim.webp",
       "Desc": "[지원]사용 후 부대가 주는 피해량+10%, 1턴 지속<br/>사용 후 추가로 2칸 이동할 수 있고 다시 공격할 수 있다.",
       "SubSkills": null,
       "Animation": null
@@ -369,7 +369,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_RoaringBomb.webp",
+      "IconImageUrl": "../img/skills/Skill_RoaringBomb.webp",
       "Desc": "[물리 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br/>적군의 입히는 피해 -20%, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -395,7 +395,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/14.webp",
+      "IconImageUrl": "../img/skills/14.webp",
       "Desc": "[물리 피해] 단일 적을 1.4배 피해로 공격,<br/>'비병'과 전투 시 더큰 피해를 준다.<br/>전투 후 50%확률로 스킬사용 불가 부여, 1턴 지속.(제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -409,7 +409,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AtkBuf2.webp",
+      "IconImageUrl": "../img/skills/Passive_AtkBuf2.webp",
       "Desc": "[패시브]전투 진입 시 자신 부대 공격 +7%.",
       "SubSkills": null,
       "Animation": null
@@ -435,7 +435,7 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Inspire.webp",
+      "IconImageUrl": "../img/skills/Skill_Inspire.webp",
       "Desc": "[지원]액티브 스킬, 범위 내 다수의 부대 생명 30%회복, 이동력+1,<br/>재생 버프 시전, 2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -449,7 +449,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Again.webp",
+      "IconImageUrl": "../img/skills/Skill_Again.webp",
       "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2칸</font> 내 <font color=\"red\">2개</font> 다른 아군 부대가 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -463,7 +463,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakDef.webp",
+      "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
       "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -489,7 +489,7 @@
           "Value": "5칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Requiem.webp",
+      "IconImageUrl": "../img/skills/Skill_Requiem.webp",
       "Desc": "[물리 피해]자신 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br/>적군의 치명타 확률 -30%, 재이동 불가, 2턴 지속.",
       "SubSkills": null,
       "Animation": null

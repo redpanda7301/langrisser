@@ -390,7 +390,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ValkCrash.webp",
+      "IconImageUrl": "../img/skills/Skill_ValkCrash.webp",
       "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
@@ -404,7 +404,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_BreakMDef2.webp",
+      "IconImageUrl": "../img/skills/Passive_BreakMDef2.webp",
       "Desc": "[패시브]전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방  <font color=\"red\">-25%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -418,7 +418,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf1.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf1.webp",
       "Desc": "[패시브]공격을 받아 전투 진입 전 자신 방어 <font color=\"red\">+5%</font>, <font color=\"red\">1턴</font> 지속. 중첩 가능.",
       "SubSkills": null,
       "Animation": null
@@ -432,7 +432,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Dedication.webp",
+      "IconImageUrl": "../img/skills/Skill_Dedication.webp",
       "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br/>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -458,7 +458,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_HolyJudgement.webp",
+      "IconImageUrl": "../img/skills/Skill_HolyJudgement.webp",
       "Desc": "[마법 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투 진입 전, 해당 적 부대의 버프 <font color=\"red\">5</font>개를 제거한다.<br/>또한 적에게 '재행동 불가'와 '버프 불가'를 부여한다. (<font color=\"red\">2</font>턴 지속) (제거 불가)",
       "SubSkills": null,
       "Animation": null
@@ -472,7 +472,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Belief.webp",
+      "IconImageUrl": "../img/skills/Passive_Belief.webp",
       "Desc": "[패시브] 공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br/>전투 후 가장 생명이 적은 다른 아군 생명 회복, 회복량은 자신 지력의 <font color=\"red\">2</font>배.",
       "SubSkills": null,
       "Animation": null
@@ -486,7 +486,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf4.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
       "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -512,7 +512,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Pledge.webp",
+      "IconImageUrl": "../img/skills/Skill_Pledge.webp",
       "Desc": "[마법 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투 진입 전, 적에게 자신의 지력 <font color=\"red\">2</font>배만큼 '고정 피해'를 주고, <br/>자신의 지력 <font color=\"red\">2</font>배만큼 생명을 회복한다. (<font color=\"red\">2</font>턴 지속)<br/>전투 진입 전, '신의 위엄'을 발동한다.<br/>(신의 위엄: 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 이동력 <font color=\"red\">-3</font>) 또한 '호위 불가'를 부여한다. (<font color=\"red\">1</font>턴 지속)",
       "SubSkills": null,
       "Animation": null

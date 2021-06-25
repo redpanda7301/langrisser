@@ -379,7 +379,7 @@ var data = [
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SeaGuard.webp",
+      "IconImageUrl": "../img/skills/Skill_SeaGuard.webp",
       "Desc": "[패시브]근접한 아군을 대신해 물리 공격을 받는다.<br/>물 속에 있으면 '방어'의 1.4배 수치로 '공격'을 대체한다.<br/>[액티브]호위 범위가 2칸으로 늘어나며, '파도 타기'효과를 획득한다:<br/>자신이 있는 지형을 '물 속'으로 취급한다. 2턴 지속",
       "SubSkills": null,
       "Animation": null
@@ -393,7 +393,7 @@ var data = [
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Elucia1.webp",
+      "IconImageUrl": "../img/skills/Passive_Elucia1.webp",
       "Desc": "[패시브]행동종료시 피해를 입히지 않은 상태라면 부대의 생명 회복 20% 및<br/>[파도타기] 시전: 자신이 처해 있는 지형을 '물 속'으로 취급,2턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -407,7 +407,7 @@ var data = [
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Parry.webp",
+      "IconImageUrl": "../img/skills/Passive_Parry.webp",
       "Desc": "[패시브]근접 공격을 받아 전투 진입 시 25%확률로 발동, 받는 물리 피해량 <font color=\"red\">-50%</font>.",
       "SubSkills": null,
       "Animation": null
@@ -433,7 +433,7 @@ var data = [
           "Value": "1칸"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_ChainHook.webp",
+      "IconImageUrl": "../img/skills/Skill_ChainHook.webp",
       "Desc": "[물리 피해]전장 위 단일 적에게 0.25배의 물리 피해를 주고 자신의 곁으로 끌어온다.<br/>동시에 대상의 이동력-2, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -447,7 +447,7 @@ var data = [
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefBuf1.webp",
+      "IconImageUrl": "../img/skills/Passive_DefBuf1.webp",
       "Desc": "[패시브]공격을 받아 전투 진입 전 자신 방어 <font color=\"red\">+5%</font>, <font color=\"red\">1턴</font> 지속. 중첩 가능.",
       "SubSkills": null,
       "Animation": null
@@ -461,7 +461,7 @@ var data = [
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_AuraDexDown.webp",
+      "IconImageUrl": "../img/skills/Passive_AuraDexDown.webp",
       "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 기술 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -487,7 +487,7 @@ var data = [
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_Alfred1.webp",
+      "IconImageUrl": "../img/skills/Skill_Alfred1.webp",
       "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 모든지형을 수중처럼 이동가능, 지속 1턴",
       "SubSkills": null,
       "Animation": null

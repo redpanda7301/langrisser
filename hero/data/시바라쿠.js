@@ -342,7 +342,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Skill_SpearCrash1.webp",
+      "IconImageUrl": "../img/skills/Skill_SpearCrash1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br/>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
@@ -368,7 +368,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/36.webp",
+      "IconImageUrl": "../img/skills/36.webp",
       "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -382,7 +382,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_DefUp.webp",
+      "IconImageUrl": "../img/skills/Passive_DefUp.webp",
       "Desc": "[패시브]부대 생명 90% 초과 시 방어 마방 +10%",
       "SubSkills": null,
       "Animation": null
@@ -396,7 +396,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Cancel.webp",
+      "IconImageUrl": "../img/skills/Passive_Cancel.webp",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
@@ -422,7 +422,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/1.webp",
+      "IconImageUrl": "../img/skills/1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
@@ -448,7 +448,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Shibaraku/2.webp",
+      "IconImageUrl": "../img/skills/Shibaraku/2.webp",
       "Desc": "[치료]액티브 스킬, 부대 생명 <font color=\"red\">70</font>% 회복 및 <br/>자신에게 <b><font color=\"blue\">공격 불가</font></b>,<b><font color=\"blue\">이동 불가</font></b>,<b><font color=\"blue\">침묵</font></b>,<br/>'<b><font color=\"blue\">부대 보통 공격 및 스킬 타게팅 불가</font></b>, <b><font color=\"blue\">호위 불가</font></b>,<b><font color=\"blue\">면역</font></b> 효과 부여, <br/>지속 <font color=\"red\">1</font>행동 (<b>해제 및 면역 불가</b>)",
       "SubSkills": null,
       "Animation": null
@@ -462,7 +462,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Passive_Snarl.webp",
+      "IconImageUrl": "../img/skills/Passive_Snarl.webp",
       "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br/>공격, 방어 -10%, 1턴 지속.",
       "SubSkills": null,
       "Animation": null
@@ -488,7 +488,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/skills/Shibaraku/1.webp",
+      "IconImageUrl": "../img/skills/Shibaraku/1.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br/>적 부대에게 <b><font color='blue'>호위 불가</font></b> 부여, <font color=\"#DC143C\">2턴</font> 지속.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+15%</font> (최대 <font color=\"#DC143C\">+75%</font>)",
       "SubSkills": null,
       "Animation": null
