@@ -218,7 +218,7 @@
       ]
     },
     {
-      "ClassTitle": "잔잔한 빛 : 생명+48, 지력<font color=\"red\">+1</font>2",
+      "ClassTitle": "빛의 물결 : 생명+48, 지력<font color=\"red\">+1</font>2",
       "Tiers": [
         {
           "Name": "T1",
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "ClassTitle": "심판의 위광 : 생명+90, 마방<font color=\"red\">+1</font>0, 지력+25",
+      "ClassTitle": "여신의 심판 : 생명+90, 마방<font color=\"red\">+1</font>0, 지력+25",
       "Tiers": [
         {
           "Name": "T1",
