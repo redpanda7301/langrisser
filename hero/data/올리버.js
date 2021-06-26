@@ -95,6 +95,9 @@
       "SD": [
         {
           "ImageUrl": "올리버/1/1.webp"
+        },
+        {
+          "ImageUrl": "올리버/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -121,6 +124,9 @@
       "SD": [
         {
           "ImageUrl": "올리버/1/2.webp"
+        },
+        {
+          "ImageUrl": "올리버/2/2.webp"
         }
       ],
       "AttkRange": 2,
