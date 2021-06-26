@@ -84,7 +84,7 @@
   ],
   "Jobs": [
     {
-      "Name": "검사 대장(스탯확인중)",
+      "Name": "검사 대장",
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
@@ -97,16 +97,16 @@
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4822,
-      "HPRate": 80,
-      "Attk": 573,
-      "AttkRate": 88,
+      "HP": 3933,
+      "HPRate": 78,
+      "Attk": 579,
+      "AttkRate": 89,
       "Int": 258,
       "IntRate": 43,
-      "Def": 356,
-      "DefRate": 79,
-      "MagicDef": 270,
-      "MagicDefRate": 60,
+      "Def": 321,
+      "DefRate": 76,
+      "MagicDef": 253,
+      "MagicDefRate": 58,
       "Skill": 154,
       "SkillRate": 44,
       "HeartFetterBouns1": "<b>선공으로 전투 진입 시</b><br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
@@ -552,7 +552,7 @@
           },
           {
             "Label": "쿨타임",
-            "Value": "5턴"
+            "Value": "6턴"
           },
           {
             "Label": "사거리",
