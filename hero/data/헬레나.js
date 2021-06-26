@@ -12,6 +12,10 @@
     {
       "ImageUrl": "헬레나/3.webp",
       "Desc": "형귀뽑기"
+    },
+    {
+      "ImageUrl": "헬레나/4.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "헬레나",
@@ -103,6 +107,9 @@
         },
         {
           "ImageUrl": "헬레나/3/1.webp"
+        },
+        {
+          "ImageUrl": "헬레나/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -135,6 +142,9 @@
         },
         {
           "ImageUrl": "헬레나/3/1.webp"
+        },
+        {
+          "ImageUrl": "헬레나/4/1.webp"
         }
       ],
       "AttkRange": 1,

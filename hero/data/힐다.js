@@ -11,7 +11,10 @@
     },
     {
       "ImageUrl": "힐다/3.webp",
-      "Desc": "서밋아레나 시즌7 패자 스킨"
+      "Desc": "서밋아레나 S7 패자 스킨"
+    },
+    {
+      "ImageUrl": "힐다/4.webp"
     }
   ],
   "Name": "힐다",
@@ -99,6 +102,9 @@
         },
         {
           "ImageUrl": "힐다/3/1.webp"
+        },
+        {
+          "ImageUrl": "힐다/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -131,6 +137,9 @@
         },
         {
           "ImageUrl": "힐다/3/2.webp"
+        },
+        {
+          "ImageUrl": "힐다/4/2.webp"
         }
       ],
       "AttkRange": 1,

@@ -4,6 +4,10 @@
     {
       "ImageUrl": "올리버/1.webp",
       "Desc": "기본"
+    },
+    {
+      "ImageUrl": "올리버/2.webp",
+      "Desc": "서밋아레나 S9 골드스킨"
     }
   ],
   "Name": "올리버",

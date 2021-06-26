@@ -8,6 +8,10 @@
     {
       "ImageUrl": "마리엘/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "마리엘/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "마리엘",
@@ -91,6 +95,9 @@
         },
         {
           "ImageUrl": "마리엘/2/1.webp"
+        },
+        {
+          "ImageUrl": "마리엘/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -120,6 +127,9 @@
         },
         {
           "ImageUrl": "마리엘/2/1.webp"
+        },
+        {
+          "ImageUrl": "마리엘/3/1.webp"
         }
       ],
       "AttkRange": 1,

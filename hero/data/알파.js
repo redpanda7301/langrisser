@@ -101,7 +101,7 @@
       "HPRate": 78,
       "Attk": 579,
       "AttkRate": 89,
-      "Int": 258,
+      "Int": 256,
       "IntRate": 43,
       "Def": 321,
       "DefRate": 76,
