@@ -832,7 +832,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/나암/1.webp",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>'비병'과 전투 시 더큰 피해를 준다, '비병'이 대상일 경우 <font color=\"blue\">호위 무시</font></b><br/><b>전투 후 적에게</b>'<font color=\"blue\">재행동 불가</font>' 효과 부여한다.<br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b>",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>'비병'과 전투 시 더 큰 피해를 준다, '비병'이 대상일 경우 <font color=\"blue\">호위 무시</font></b><br/><b>전투 후 적에게</b>'<font color=\"blue\">재행동 불가</font>' 효과 부여한다.<br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -860,7 +860,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "5턴"
+          "Value": "4턴"
         },
         {
           "Label": "사거리",
@@ -872,7 +872,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/나암.webp",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.6</font>배의 피해를 준다.<br/><b>전투 진입 전 목표의 이동력이 <font color=\"red\">2</font>칸 이하일 경우</b> <font color=\"blue\">호위 무시</font><br/><b>전투 후 적에게</b> '<font color=\"blue\">침묵</font>', '<font color=\"blue\">패시브 봉인</font>' 효과 부여한다.<br/>지속 <font color=\"red\">2</font>행동 <br/><b>해제 불가</br>",
+      "Desc": "[패시브]피해량 <font color=\"red\">+10</font>%. <b>전투 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸 가능 <br/>[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.6</font>배의 피해를 준다.<br/><b>'<font color=\"#ffdf00\">비병</font>'과 전투 시</b> 더큰 피해를 준다.<br/><b>전투 진입 전 목표의 이동력이 <font color=\"red\">2</font>칸 이하일 경우</br> <font color=\"blue\">호위 무시</font><br/><b>전투 후 적에게</b> '<font color=\"blue\">침묵</font>', '<font color=\"blue\">패시브 봉인</font>' 효과 부여한다.<br/>지속 <font color=\"red\">2</font>행동 <br/><b>해제 불가</br>",
       "SubSkills": null,
       "Animation": "../img/Super/나암_Ani.webp"
     }
