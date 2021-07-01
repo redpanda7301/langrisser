@@ -556,6 +556,20 @@
       "Animation": null
     },
     {
+      "Name": "무기 파괴",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
+      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력 -20%, 1턴지속.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
       "Name": "핏빛 호령",
       "Cost": "COST 3",
       "Entries": [
