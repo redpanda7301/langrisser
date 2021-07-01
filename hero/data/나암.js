@@ -113,7 +113,7 @@
     "Name": "발키리의 샛별(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "나암.webp",
-    "Ability": "마방 +10%<br/>영웅의 고유기술 <font color=\"purple\">견제 전술</font> 쿨타임 <font color=\"red\">-1</font>"
+    "Ability": "마방 <font color =\"red\">+10</font>% <br/>영웅의 <font color =\"purple\">고유기술</font> 쿨타임 <font color=\"red\">-1</font>"
   },
   "Soldiers": [
     15,
