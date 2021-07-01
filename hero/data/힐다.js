@@ -557,15 +557,27 @@
     },
     {
       "Name": "무기 파괴",
-      "Cost": "COST 1",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
-          "Value": "패시브"
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>턴지속.",
+      "IconImageUrl": "../img/skills/Skill_Emilia2.webp",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color =\"red\">1.5</font>배 피해를 준다.<br/>전투 후, 적에게 '주는 피해량' <font color =\"red\">-20</font>% 부여,<br/><font color=\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
