@@ -1,0 +1,21 @@
+body, h1{ 
+    margin: 0; 
+}
+#skin_header{ 
+    position: fixed; 
+    left: 0; 
+    right: 0; 
+    top: 0; 
+    height: 4rem; 
+    background: lightgray; 
+    line-height: 4rem; 
+    text-align: center; 
+} 
+#skin_contents{ 
+    position: fixed; 
+    top: 4rem; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    overflow: auto; 
+}

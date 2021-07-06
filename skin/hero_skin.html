@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>랑그릿사 모바일</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />        
+        <link rel="stylesheet" href="../assets/css/main.css" />
+        <link rel="stylesheet" href="../assets/css/hero_skin.css" />
+        <link rel="stylesheet" href="../assets/css/star-rating.css" media="all" type="text/css" />
+        <link rel="icon" type="image/png" href="../favicon.webp">
+        <script src="../assets/js/jquery.min.js"></script>
+        <script src="../assets/js/util.js"></script>
+        <script src="../assets/js/include-util.js"></script>
+		<script src="../assets/js/hero_skin.js"></script>
+    </head>
+    <body>
+        <!-- Header -->
+        <div data-include-path="../includes/header.html"></div>        
+        <div id="skin_header">
+          <select id="ddlStageList" required autofocus>
+            <option value="-">- 선택 -</option>
+            <option value="엘윈">엘윈</option>
+          </select>
+        </div>
+				<div id="main">
+					<div class="container">
+						<!--하단에 참조 추가시 asset/js/apex.js 추가할것-->
+
+						<div>
+							<img id="imgStage" src="#" style="width:695; height:595"onError="this.style.visibility='hidden'"/>
+						</div>
+					</div>
+				</div>
+
+        <!-- Footer -->
+        <div data-include-path="../includes/footer.html"></div>
+        <!-- Scripts -->        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js" integrity="sha512-Cr/vBVYBUW9CxSdZ1p2iPKL/wlSVs7Bnu8baot+D9RJ+o+4SjD8h+keBv98ilU2O5/ZjolQGSV5ZjFfoqB27jg==" crossorigin="anonymous"></script>
+        <script src="../assets/js/browser.min.js"></script>
+        <script src="../assets/js/breakpoints.min.js"></script>        
+        <script src="../assets/js/main_new.js"></script>
+		<script src="../assets/js/jquery.min.js"></script>
+	</body>
+</html>
