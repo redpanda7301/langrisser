@@ -19,3 +19,69 @@ body, h1{
     bottom: 0; 
     overflow: auto; 
 }
+.select_card img {
+	width : 15%;
+	max-width: 100px;
+	height: auto;
+}
+.sliding-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    margin: 0 auto;
+    max-width: 1020px;
+    height: auto;
+    justify-content: space-between;
+}
+
+.sliding-box .left,
+.sliding-box .right {
+    width: 15%;
+    max-width: 150px;
+    height: auto;
+    cursor: pointer;
+}
+
+.sliding-box .right {
+    -webkit-transform: rotate(-180deg);
+    -ms-transform: rotate(-180deg);
+    -moz-transform: rotate(-180deg);
+    -o-transform: rotate(-180deg);
+    transform: rotate(-180deg);
+}
+
+.sliding-viwe {
+    overflow: hidden;
+    position: relative;
+    flex-basis: 900px;
+    width: 900px;
+    height: 180px;
+}
+
+.sliding-viwe .containner {
+    position: absolute;
+    left: 0;
+    margin: 0px;
+    width: 1800px;
+    background-color: #fff;
+}
+
+.sliding-viwe .containner li {
+    float: left;
+    margin: 0px;
+    width: 180px;
+    height: 180px;
+    text-align: center;
+}
+.sliding-viwe .containner li img {
+    width: 15%;
+    max-width: 150px;
+    height: auto;
+}
+/*
+.sliding-viwe .containner li img {
+    margin: 15px auto;
+    width: 150px;
+}
+*/

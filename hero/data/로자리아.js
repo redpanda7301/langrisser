@@ -42,10 +42,10 @@
       "Condition": "시공 3-1 하드"
     },
     {
-      "Condition": "마이야와 함께 운명의문"
+      "Condition": "마이야와 함께 운명의문3"
     },
     {
-      "Condition": "아레스와 함께 운명의문"
+      "Condition": "아레스와 함께 운명의문5"
     }
   ],
   "HeartFetter": "생명+850, 방어+30, 마방+50",
