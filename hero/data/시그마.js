@@ -703,7 +703,7 @@
       "Animation": null
     },
     {
-      "Name": "강풍 <font color =\"purple\">저격</font>",
+      "Name": "강풍 저격",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -724,7 +724,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash4.webp",
-      "Desc": "[물리 피해]단일 적을 공격 하여 <font color=\"red\">0.8</font>배 피해를 입힌다.<br/>목표와 거리가 멀 수록 피해가 커진다. 간격 <font color=\"red\">1</font>칸마다 피해 <font color=\"red\">+15</font>%(최대 90%).<br/><b>전투 후 자신의 이동력 +2</b><br/> <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해]단일 적을 공격 하여 <font color=\"red\">0.8</font>배 피해를 입힌다.<br/>목표와 거리가 멀 수록 피해가 커진다. 간격 <font color=\"red\">1</font>칸마다 피해 <font color=\"red\">+15</font>%(최대 90%).<br/><b>전투 후 자신의 이동력 <font color=\"red\">+2</font></b><br/> <font color=\"red\">1</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
