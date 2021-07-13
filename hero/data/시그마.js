@@ -818,7 +818,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/시그마/1.webp",
-      "Desc": "[패시브]기술 <font color=\"red\">+15%</font><br/><b>자신에게 <font color=\"purple\">죽음의 그림자</font> 효과가 있을 경우</b>,<br/>(1) <b>선공 시</b> '<font color =\"purple\">암살자</font>' 종류 병사는 영웅과 함께 공격<br/>(2) <font color=\"red\">3</font>칸 범위 내 공격 시 호위 무시",
+      "Desc": "기술 <font color=\"red\">+15%</font><br/><b>자신에게 <font color=\"purple\">죽음의 그림자</font> 효과가 있을 경우</b>,<br/>(1) <b>선공 시</b> '<font color =\"purple\">암살자</font>' 종류 병사는 영웅과 함께 공격<br/>(2) <font color=\"red\">3</font>칸 범위 내 공격 시 호위 무시",
       "SubSkills": null,
       "Animation": null
     },
