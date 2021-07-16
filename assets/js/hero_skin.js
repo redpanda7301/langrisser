@@ -1,131 +1,68 @@
-/*
-	Minimaxing by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-var slideIndex = 1;
-var currentMenu = "navHero";
-
-$(document).ready(function () {                
-    var heroName = getParameterByName("name");
-    if (heroName !== null) {                    
-        $.getScript("../hero/data/" + heroName + ".js")
-            .done(function() {
-                initPage();
-            })
-            .fail(function() {
-                location.href = "../skin/hero_skin.html";
-            });
-    }
-    else {
-        location.href = "../skin/hero_skin.html";
-    }
+const slideList = document.querySelector('.slide_list'); // Slide parent dom
+const slideContents = document.querySelectorAll('.slide_content'); // each slide dom
+const slideBtnNext = document.querySelector('.slide_btn_next'); // next button
+const slideBtnPrev = document.querySelector('.slide_btn_prev'); // prev button
+const pagination = document.querySelector('.slide_pagination');
+const slideLen = slideContents.length; // slide length
+const slideWidth = 400; // slide width
+const slideSpeed = 300; // slide speed
+slideList.style.width = slideWidth * (slideLen) + "px";
+let curIndex = 0; // current slide index (except copied slide)
+/** Next Button Event */
+slideBtnNext.addEventListener('click', function() {
+if (curIndex < slideLen - 1) {
+slideList.style.transition = slideSpeed + "ms";
+slideList.style.transform = "translate3d(-" + (slideWidth * (curIndex + 1)) + "px, 0px, 0px)";
+} else {
+slideList.style.transform = "translate3d(0px, 0px, 0px)";
+curIndex = -1;
+}
+curSlide = slideContents[++curIndex];
 });
-$(function(){
+/*
+var gall  = setInterval(galleryFun, 2000);
+var inter = true;
+var idx = 2;
 
-	// 무한 반복 슬라이딩 //		
-		let current= 0;
-		let show = 5;
-		let containner = $('#slidingMenu .sliding-viwe .containner');
-		let length = containner.find('>li').length;
-		let viwe =  $('#slidingMenu .sliding-viwe').width();
-		let tt = viwe/show; //이동거리 -한칸씩 움직이기//
-		let next = $('#slidingMenu .sliding-box .right');
-		let prev = $('#slidingMenu .sliding-box .left');
-		
-	   containner.css('width','length*tt');//컨테이너 길이 초기화//
-	
-		next.on({
-			click:function(){
-				
-				if(current == length) {//마지막 엘리먼트에 다다르면 current 초기화//
-					current = 0;
-				}
-				
-				if(current == 0){
-					//먼저 복사된 엘리먼트 삭제하고 위치 초기화//
-					containner.find('>li').eq(length-1).nextAll().remove();
-					containner.css({left:0}).stop();
-				
-					//이동//
-					current++;
-					containner.stop().animate({left:tt*current*-1},{duration:900});	
-					
-					//엘리먼트 복사 - 컨네이너의 자식 모두 복사//
-					let cloneEl = containner.children().clone();
-					//복사된 엘리먼트 수 만큼 길이 늘리고 붙이기//
-					containner.css({width:containner.innerWidth()+(tt*length)});
-					cloneEl.appendTo(containner);
-				}
-				else if(current >= 1){
-					
-					current++;
-					containner.stop().animate({left:tt*current*-1},{duration:900});	
-				}			
-				
-			},
-			mouseenter:function(){
-				clearInterval(Sliding);
-			},
-			mouseleave:function(){
-				slidingTimer();
-			}
-		});
-		
-		prev.on({
-			click:function(){
-				if(current == 0){
-					//먼저 복사된 엘리먼트 삭제하고 위치 초기화//
-					containner.find('>li').eq(length-1).nextAll().remove();
-					containner.css({left:0}).stop();
-					
-					//인덱스 순서를 length로 치환해줌//
-					current=length;
-					
-					//앞쪽으로 엘리먼트 복사해서 붙이기//
-					//길이 & 위치 초기화 -앞쪽으로 붙었기 떄문에 늘어난 길이 만큼 left시작 위치가 -가 되어야함//
-					let cloneEl = containner.children().clone();
-					
-					containner.css({left:tt*length*-1,width:containner.innerWidth()+(tt*length)}).stop();
-					cloneEl.prependTo(containner);
-				
-					//붙이고 나서 바로 이동 되도록//
-					current--;
-					containner.stop().animate({left:tt*current*-1},{duration:900});
-				}
-				else if(current > 0 ){
-					current--;
-					containner.stop().animate({left:tt*current*-1},{duration:900});
-				}
-				
-			},
-			mouseenter:function(){
-				clearInterval(Sliding);
-			},
-			mouseleave:function(){
-				slidingTimer();
-			}
-		});
-		
-		
-		//컨테이너에 hover 되면 타이머 일시정지//
-		containner.on({
-			mouseenter:function(){
-				clearInterval(Sliding);
-			},
-			mouseleave:function(){
-				slidingTimer();
-			}
-		});
-	
-		slidingTimer();
-			
-		//자동 슬라이딩 타미머 함수 정의//
-		function slidingTimer(){
-			Sliding = setInterval(function(){
-				
-					next.trigger('click');
-				
-			},3000);
-		}
-	});
+ function galleryFun(){
+   
+	$(".gallery ul").animate({
+	  "left":-300*idx+"px"
+	},300);
+   $(".g_item ul li").eq(idx-1).addClass("on").siblings().removeClass("on");
+   idx++;
+   if(idx> $(".gallery ul li").length-3){
+	 $(".gallery ul").animate({
+	   "left":0
+	 },0);
+	 idx=0;
+	 
+   }
+ }
+ 
+ 
+ 
+ $(".gallery , .g_item").hover(function(){
+   if(inter==true){
+	 clearInterval(gall);
+	 inter=false;
+   }
+ },function(){
+   if(inter==false){
+	 gall  = setInterval(galleryFun, 2000);
+	 inter=true;
+   }
+   
+ });
+ 
+ 
+ 
+ $(".g_item ul li").on('click',function(){
+   $(this).addClass("on").siblings().removeClass("on");
+   idx = $(this).index()+1;
+   $(".gallery ul").animate({
+	  "left":-300*idx+"px"
+	},1000);
+   
+ });
+ */

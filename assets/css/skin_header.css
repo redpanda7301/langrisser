@@ -1,87 +1,51 @@
-body, h1{ 
-    margin: 0; 
-}
-#skin_header{ 
-    position: fixed; 
-    left: 0; 
-    right: 0; 
-    top: 0; 
-    height: 4rem; 
-    background: lightgray; 
-    line-height: 4rem; 
-    text-align: center; 
-} 
-#skin_contents{ 
-    position: fixed; 
-    top: 4rem; 
-    left: 0; 
-    right: 0; 
-    bottom: 0; 
-    overflow: auto; 
-}
-.select_card img {
-	width : 15%;
-	max-width: 100px;
-	height: auto;
-}
-.sliding-box {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-    margin: 0 auto;
-    max-width: 1020px;
-    height: auto;
-    justify-content: space-between;
-}
-
-.sliding-box .left,
-.sliding-box .right {
-    width: 15%;
-    max-width: 150px;
-    height: auto;
-    cursor: pointer;
-}
-
-.sliding-box .right {
-    -webkit-transform: rotate(-180deg);
-    -ms-transform: rotate(-180deg);
-    -moz-transform: rotate(-180deg);
-    -o-transform: rotate(-180deg);
-    transform: rotate(-180deg);
-}
-
-.sliding-viwe {
-    overflow: hidden;
-    position: relative;
-    flex-basis: 900px;
-    width: 900px;
-    height: 180px;
-}
-
-.sliding-viwe .containner {
-    position: absolute;
-    left: 0;
-    margin: 0px;
-    width: 1800px;
-    background-color: #fff;
-}
-
-.sliding-viwe .containner li {
-    float: left;
-    margin: 0px;
-    width: 180px;
-    height: 180px;
+.card_container{
+    width: 100%;
+    max-width: auto; 
+    margin: 0 auto; 
+    border: 1px solid #ccc; 
+    overflow: hidden; 
+    padding-left:0; 
     text-align: center;
+    grid-template-columns: 200px 200px 200px
 }
-.sliding-viwe .containner li img {
-    width: 15%;
-    max-width: 150px;
-    height: auto;
+@media screen and (max-width: 1680px) {
+    .card_container {
+        width: 1200px;
+    }
 }
-/*
-.sliding-viwe .containner li img {
-    margin: 15px auto;
-    width: 150px;
+
+@media screen and (max-width: 1280px) {
+    .card_container {
+        width: calc(100% - 70px);
+    }
+
 }
-*/
+
+@media screen and (max-width: 980px) {
+    .card_container {
+        width: calc(100% - 100px);
+    }
+
+}
+
+@media screen and (max-width: 736px) {
+    .card_container {
+        width: calc(100% - 40px);
+    }
+
+}
+.slide_wrap { 
+    position: relative; 
+    width: 400px; 
+    margin: auto; 
+}
+.slide_box { 
+    width: 100%; 
+    margin: auto; 
+    overflow-x: hidden; 
+}
+.slide_content { 
+    display: table; 
+    float: left; 
+    width: 400px; 
+}
