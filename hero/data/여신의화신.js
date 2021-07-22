@@ -12,6 +12,10 @@
     {
       "ImageUrl": "여신의화신/3.webp",
       "Desc": "형귀 스킨"
+    },
+    {
+      "ImageUrl": "여신의화신/4.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "여신의 화신",
@@ -104,6 +108,9 @@
         },
         {
           "ImageUrl": "여신의화신/3/1.webp"
+        },
+        {
+          "ImageUrl": "여신의화신/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -136,6 +143,9 @@
         },
         {
           "ImageUrl": "여신의화신/3/1.webp"
+        },
+        {
+          "ImageUrl": "여신의화신/4/1.webp"
         }
       ],
       "AttkRange": 2,

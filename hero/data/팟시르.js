@@ -575,7 +575,7 @@
       "Animation": "../img/Super/팟시르_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

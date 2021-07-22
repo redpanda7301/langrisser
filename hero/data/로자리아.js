@@ -76,7 +76,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "성광의 검(검)",
+    "Stats": "생명 437,공격 107",
+    "Icon": "엘윈.webp",
+    "Ability": "공격 +<font color=\"red\">10%</font><br/>자신이 <font color =\"blue\">수호의 검</font> 효과 범위 안에 있을 경우,<br/>지형에 따른 이동 효과를 받지 않음, <br/>부대 받는 치명타 확률 <font color=\"red\">-20</font>%"
+  },
   "Soldiers": [
     52,
     48,

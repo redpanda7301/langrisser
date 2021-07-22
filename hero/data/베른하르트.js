@@ -400,7 +400,7 @@
         },
         {
           "Label": "범위",
-          "Value": "1칸"
+          "Value": "1바퀴"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordDance.webp",

@@ -534,6 +534,32 @@
       "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br/>모든 디버프에 면역. 2턴 지속.",
       "SubSkills": null,
       "Animation": null
+    },
+    {
+      "Name": "왕가의 수훈",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
+      "IconImageUrl": "../img/Super/멜파니.webp",
+      "Desc": "[패시브]<b>다른 아군이 <font color =\"blue\">호위</font> 발동 시 <font color =\"blue\">호위</font>를 발동한 대상에게 '<font color =\"blue\">공훈</font>' 효과 <font color =\"red\">1</font>개 부여 <br/><font color =\"blue\">공훈</font> : 생명을 제외한 모든 스탯  <font color =\"red\">+2</font>%, 최대  <font color =\"red\">3</font>중첩.<br/><font color =\"blue\">공훈</font> <font color =\"red\">3</font>중첩 효과 : <b>다른 아군 호위 시 전투 진입 전 자신 부대</b> 생명 <font color =\"red\">20</font>% 회복<br/>[액티브]범위 내 아군 생명 회복 및 디버프 <font color =\"red\">2</font>개 제거 <br/>(회복량은 멜파니 지력 <font color =\"red\">3</font>배 수치)",
+      "SubSkills": null,
+      "Animation": "../img/Super/멜파니_Ani.webp"
     }
   ],
   "Propose": true,

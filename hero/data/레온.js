@@ -20,6 +20,10 @@
     {
       "ImageUrl": "레온/5.webp",
       "Desc": "서밋아레나 S2 패자스킨"
+    },
+    {
+      "ImageUrl": "레온/6.webp",
+      "Desc": "빛의 메아리"
     }
   ],
   "Name": "레온",
@@ -119,7 +123,10 @@
         },
         {
           "ImageUrl": "레온/5/1.webp"
-        }
+        },
+        {
+          "ImageUrl": "레온/6/1.webp"
+        },
       ],
       "AttkRange": 1,
       "Move": 5,
@@ -157,6 +164,9 @@
         },
         {
           "ImageUrl": "레온/5/1.webp"
+        },
+        {
+          "ImageUrl": "레온/6/1.webp"
         }
       ],
       "AttkRange": 1,

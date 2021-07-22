@@ -130,8 +130,8 @@
       "MagicDefRate": 91,
       "Skill": 88,
       "SkillRate": 25,
-      "HeartFetterBouns1": "부대생명이 50% 이하일때 받는피해 -10%",
-      "HeartFetterBouns2": "공격하여 전투진입시 입히는피해 +10%"
+      "HeartFetterBouns1": "부대생명이 <font color=\"red\">50</font>% 이하일때 <br/>받는 피해량<font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "공격하여 전투진입시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "허미트",
@@ -168,8 +168,8 @@
       "MagicDefRate": 83,
       "Skill": 103,
       "SkillRate": 29,
-      "HeartFetterBouns1": "원거리 공격을 받아 전투진입시 받는 마법피해 -10%",
-      "HeartFetterBouns2": "물리 공격을 받아 전투진입시 입히는피해 +10%"
+      "HeartFetterBouns1": "원거리 공격을 받아 전투진입시 <br/>받는 마법피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "물리 공격을 받아 전투진입시 <br/>주는 피해량<font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -416,7 +416,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/17.webp",
-      "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "[치료]액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 <font color =\"red\">5</font>배. 그리고 디버프를 <font color =\"red\">1</font>개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -442,7 +442,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_NewTurn.webp",
-      "Desc": "[지원]액티브 스킬, 행동을 마친 아군 1부대를 다시 행동할 수 있게 하며<br/>사용자 지력 2배의 생명을 회복시킨다.",
+      "Desc": "[지원]액티브 스킬, 행동을 마친 아군 <font color =\"red\">1</font>부대를 다시 행동할 수 있게 하며<br/>사용자 지력 <font color =\"red\">2</font>배의 생명을 회복시킨다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -468,7 +468,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_WindStrike.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -494,7 +494,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 +20%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 <font color =\"red\">+20</font>%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, <font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -520,7 +520,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HealSuper.webp",
-      "Desc": "[지원]광범위 부대에게 지력 4배만큼 생명을 회복한다.<br/>그리고 행동 종료 시 생명을 20% 회복한다. 2턴 지속.",
+      "Desc": "[지원]광범위 부대에게 지력 <font color =\"red\">4</font>배만큼 생명을 회복한다.<br/>그리고 행동 종료 시 생명을 <font color =\"red\">20</font>% 회복한다. <font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -546,7 +546,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -560,7 +560,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/22.webp",
-      "Desc": "[패시브] 부대 생명이 90%이상일 시 지력, 마방 +10%.",
+      "Desc": "[패시브] 부대 생명이 <font color =\"red\">90</font>%이상일 시 지력, 마방 <font color =\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -586,7 +586,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SkyArcher01.webp",
-      "Desc": "[소환] 천공사수 1기 소환",
+      "Desc": "[소환] 천공사수 <font color =\"red\">1</font>기 소환",
       "SubSkills": null,
       "Animation": null
     },
@@ -612,9 +612,35 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Bless.webp",
-      "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 +20% 및<br/>모든 디버프에 면역. 2턴 지속.",
+      "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 <font color =\"red\">+20</font>% 및<br/><b>모든 <font color =\"blue\">디버프</font> 면역</b>. <br/><font color =\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
+    },
+    {
+      "Name": "창생의 송가",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/Super/리아나.webp",
+      "Desc": "[패시브]<b><font color=\"orange\">고유 스킬</font>로 <font color=\"blue\">디버프</font> 제거 후, 제거하는 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개당 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 부여</b><br/>[액티브]단일 부대의 공격 지력 방어 <font color =\"red\">+20</font>%, <b>모든 <font color =\"blue\">디버프 면역</font></b> 효과 부여<br/><b>행동 종료 시 대상 주위 <font color=\"red\">2</font>칸 범위 내 모든 아군</b> 생명 회복 <br/>(리아나 지력 <font color=\"red\">2</font>배 수치) 및 디버프 <font color=\"red\">2</font>개 제거 <br/>지속 <font color=\"red\">2</font>행동. <br/>동시에 자신은 <b>모든 <font color =\"blue\">디버프 면역</font></b> 효과 획득 <br/>지속 <font color =\"red\">1</font>턴",
+      "SubSkills": null,
+      "Animation": "../img/Super/리아나_Ani.webp"
     }
   ],
   "Propose": true,
