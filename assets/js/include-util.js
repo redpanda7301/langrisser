@@ -47,7 +47,8 @@ window.addEventListener('load', function() {
 					el.outerHTML = this.responseText;
 					if (includePath == "../includes/header.html") {
 						setMobileMenu();
-						setCurrentMenu(currentMenu);
+						//영웅 카드 슬라이딩 Include를 위해 주석처리 07-18 폭사함
+						//setCurrentMenu(currentMenu);						
 					}
 				}
 			};

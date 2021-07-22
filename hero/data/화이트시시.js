@@ -631,7 +631,7 @@
           "Value": "-"
         }
       ],
-      "IconImageUrl": "../img/Super/화이트시시_0.webp",
+      "IconImageUrl": "../img/Super/화이트시시.webp",
       "Desc": "[패시브] 전장에 있는 소환수 사망 시 전쟁 자금 1개 획득 <br/>[액티브]하기 스킬중 선택",
       "SubSkills": [
         {

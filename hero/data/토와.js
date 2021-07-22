@@ -564,7 +564,7 @@
           "Value": "5턴"
         }
       ],
-      "IconImageUrl": "../img/Super/토와_선택.webp",
+      "IconImageUrl": "../img/Super/토와.webp",
       "Desc": "[패시브] '<font color =\"blue\">강화 불가</font>' 면역, <font color =\"blue\">각성 액티브 효과</font> 보유 시 <b>병사가 받는 물리 피해</b> <font color =\"red\">-35</font>%<br/> [액티브] 이하 효과 중 택일,<b>사용 후 <font color =\"red\">3</font>칸 <font color =\"blue\">재행동</font> 가능</b>",
       "SubSkills": [
         {
