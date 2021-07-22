@@ -106,16 +106,16 @@
           "Desc": "2성"
         },
         {
-		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+4</font>%, 최대 <font color=\"red\">+20</font>%<br/><font color=#ffa700>근접 병사</font>보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font>보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
+		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+4</font>%, 최대 <font color=\"red\">+20</font>%<br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
         },
         {
-		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+5</font>%, 최대 <font color=\"red\">+25</font>%<br/><font color=#ffa700>근접 병사</font>보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font>보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
+		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+5</font>%, 최대 <font color=\"red\">+25</font>%<br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
         },
         {
-		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+6</font>%, 최대 <font color=\"red\">+30</font>%<br/><font color=#ffa700>근접 병사</font>보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font>보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
+		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+6</font>%, 최대 <font color=\"red\">+30</font>%<br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
         },
         {
-		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+7</font>%, 최대 <font color=\"red\">+35</font>%<br/><font color=#ffa700>근접 병사</font>보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font>보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
+		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+7</font>%, 최대 <font color=\"red\">+35</font>%<br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
         }
       ]
     }
@@ -253,6 +253,12 @@
         },
         {
           "ImageUrl": "라나/6/1.webp"
+        },
+        {
+          "ImageUrl": "라나/7/1.webp"
+        },
+        {
+          "ImageUrl": "라나/sp/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -954,7 +960,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/라나.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.5배의 피해를 준다.<br/><b>전투 진입 전 병사의 사거리</b> <font color =\"red\">+1</font>, <br/>전투 후 준 피해량의 <font color =\"red\">30</font>%만큼 회복한다.<br/>'보병','기병','창병','비병'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/><b>전투 진입 전 병사의 사거리</b> <font color =\"red\">+1</font>, <br/>전투 후 준 피해량의 <font color =\"red\">30</font>%만큼 회복한다.<br/>'보병','기병','창병','비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": "../img/Super/라나_Ani.webp"
     }
