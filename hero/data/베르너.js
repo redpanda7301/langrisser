@@ -8,6 +8,10 @@
     {
       "ImageUrl": "베르너/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "베르너/3.webp",
+      "Desc": "형귀 뽑기"
     }
   ],
   "Name": "베르너",
@@ -91,6 +95,9 @@
         },
         {
           "ImageUrl": "베르너/2/1.webp"
+        },
+        {
+          "ImageUrl": "베르너/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -120,6 +127,9 @@
         },
         {
           "ImageUrl": "베르너/2/1.webp"
+        },
+        {
+          "ImageUrl": "베르너/3/1.webp"
         }
       ],
       "AttkRange": 1,
