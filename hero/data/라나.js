@@ -500,8 +500,6 @@
       ]
     }
   ],
-  "SPOpenConditions": null,
-  /*
   "SPOpenConditions": [
     {
       "Name": "개방",
@@ -525,11 +523,11 @@
           "Amount": 30
         },
         {
-          "MaterialImgUrl": "../img/classup/rank7-4.webp",
+          "MaterialImgUrl": "../img/classup/rank7-6.webp",
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/classup/rank6-4.webp",
+          "MaterialImgUrl": "../img/classup/rank6-7.webp",
           "Amount": 50
         }
       ],
@@ -538,7 +536,7 @@
     {
       "Name": "1단계 미션",
       "Materials": [],
-      "Desc": "라나로 파티를 짜서 형귀 헬스장 나임(승병) 60클리어"
+      "Desc": "라나로 파티를 짜서 형귀 헬스장 샘슨(창병) 60클리어"
     },
     {
       "Name": "2단계 재료",
@@ -584,7 +582,7 @@
     {
       "Name": "3단계 미션",
       "Materials": [],
-      "Desc": "라나로 파티를 짜서 여신의 시련 - 화룡 파프니르 60레벨 클리어"
+      "Desc": "라나로 파티를 짜서 여신의 시련 - 빙룡 아산테 60레벨 클리어"
     },
     {
       "Name": "",
@@ -599,11 +597,11 @@
           "Amount": 40
         },
         {
-          "MaterialImgUrl": "../img/heart/h1.webp",
+          "MaterialImgUrl": "../img/heart/h3.webp",
           "Amount": 60
         },
         {
-          "MaterialImgUrl": "../img/heart/h1-1.webp",
+          "MaterialImgUrl": "../img/heart/h3-1.webp",
           "Amount": 30
         },
         {
@@ -616,7 +614,7 @@
     {
       "Name": "4단계 미션",
       "Materials": [],
-      "Desc": "라나, 레온으로 파티를 짜서 형귀 헬스장 나임(승병) 70클리어"
+      "Desc": "라나로 파티를 짜서 형귀 헬스장 샘슨(창병) 65클리어"
     },
     {
       "Name": "5단계 재료",
@@ -639,7 +637,7 @@
     {
       "Name": "5단계 미션",
       "Materials": [],
-      "Desc": "라나, 레온으로 파티를 짜서 - 화룡 파프니르 70레벨 클리어"
+      "Desc": "라나로 파티를 짜서 - 빙룡 아산테 65레벨 클리어"
     },
     {
       "Name": "6단계 재료",
@@ -649,11 +647,11 @@
           "Amount": 600
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Magic1.webp",
+          "MaterialImgUrl": "../img/stone/StoneA_Magic3.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Magic3.webp",
+          "MaterialImgUrl": "../img/stone/StoneA_Magic5.webp",
           "Amount": 5
         },
         {
@@ -674,7 +672,7 @@
       "Desc": "SP 스탯, SP 스킬 2개 활성화, 속죄자 고용가능"
     }
   ],
-  */
+  
   "Skills": [
     {
       "Name": "어둠의 낫",
