@@ -647,15 +647,15 @@
           "Amount": 600
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Magic3.webp",
+          "MaterialImgUrl": "../img/stone/StoneA_Holy3.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Magic5.webp",
+          "MaterialImgUrl": "../img/stone/StoneA_Holy5.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Magic6.webp",
+          "MaterialImgUrl": "../img/stone/StoneA_Holy6.webp",
           "Amount": 5
         }
       ],
