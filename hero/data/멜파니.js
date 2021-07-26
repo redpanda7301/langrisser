@@ -553,7 +553,7 @@
         },
         {
           "Label": "범위",
-          "Value": "3칸"
+          "Value": "4칸"
         }
       ],
       "IconImageUrl": "../img/Super/멜파니.webp",
