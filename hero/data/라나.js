@@ -190,7 +190,7 @@
       "Icon": "Icon_Occupation_MonkSP.webp",
       "SD": [
         {
-          "ImageUrl": "라나/1/1.webp"
+          "ImageUrl": "라나/sp/1.webp"
         },
         {
           "ImageUrl": "라나/2/1.webp"
@@ -229,8 +229,8 @@
       "MagicDefRate": 83,
       "Skill": 167,
       "SkillRate": 57,
-      "HeartFetterBouns1": "확인중_1",
-      "HeartFetterBouns2": "확인중_2"
+      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">70</font>% 이하시, <br/><b>전투중 받는 피해량</b> <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b><font color =\"blue\">약화효과</font>를 보유한 부대와 전투 시</b><br/> 주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "세인트",
@@ -512,7 +512,7 @@
       "Desc": ""
     },
     {
-      "Name": "1단계 재료(확인중)",
+      "Name": "1단계 재료",
       "Materials": [
         {
           "MaterialImgUrl": "../img/item/오락기.webp",
@@ -932,7 +932,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/라나/2.webp",
-      "Desc": "<b>현재 위치를 <font color=\"blue\">마킹</font> 후</b>, 자신을 일정 범위내 장소로 <font color=\"blue\">텔레포트</font> 및 '<font color=\"blue\">위상</font>' 효과 획득<br/><font color=\"blue\">위상</font> : 영웅이 받는 피해 <font color=\"red\">-75</font>%, <b>선공으로 전투 진입 전 자신 부대</b> 생명 <font color=\"red\">100</font>% 회복<br/><b>행동 종료 시 자신 부대를 <font color=\"blue\">마킹</font>한 위치로 <font color=\"blue\">텔레포트</font></b><br/>지속 <font color=\"red\">1</font>행동<br/><b>해제 불가</b><br/><b>(텔레포트 범위는 대상을 기준으로 <font color=\"red\">7</font>칸 -확인중-)</b>",
+      "Desc": "<b>현재 위치를 <font color=\"blue\">마킹</font> 후</b>, 자신을 일정 범위내 장소로 <font color=\"blue\">텔레포트</font> 및 '<font color=\"blue\">위상</font>' 효과 획득<br/><font color=\"blue\">위상</font> : 영웅이 받는 피해 <font color=\"red\">-75</font>%, <b>선공으로 전투 진입 전 자신 부대</b> 생명 <font color=\"red\">100</font>% 회복<br/><b>행동 종료 시 자신 부대를 <font color=\"blue\">마킹</font>한 위치로 <font color=\"blue\">텔레포트</font></b><br/>지속 <font color=\"red\">1</font>행동<br/><b>해제 불가</b><br/><b>(텔레포트 범위는 대상을 기준으로 <font color=\"red\">7</font>칸)</b>",
       "SubSkills": null,
       "Animation": null
     },
