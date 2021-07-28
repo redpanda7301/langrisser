@@ -337,7 +337,7 @@
   "Skills": [
     {
       "Name": "약탈 기습",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
