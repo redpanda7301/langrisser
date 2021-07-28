@@ -586,7 +586,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/레나타.webp",
+      "IconImageUrl": "../img/Super/레나타.webp",
       "Desc": "[물리피해]단일 적 부대를 공격해 1.6배의 공격 피해를 준다.<br/>적군이 '비행'타입이동이 아니라면 선제 공격.<br/>적군이 '용인'버프를 보유시 전투전 [불굴]효과 획득 : <br/>'사망 시 부활 및 생명 20%회복. 최대 1회 가능.', 2턴 지속.<br/>",
       "SubSkills": null,
       "Animation": "../img/Super/레나타_Ani.webp"

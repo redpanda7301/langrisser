@@ -556,7 +556,7 @@
       "SubSkills": [
         {
           "Name": "겁화 - 멸",
-          "Cost": "COST 2",
+          "Cost": "-",
           "Entries": [
             {
               "Label": "유형",
@@ -582,7 +582,7 @@
         },
         {
           "Name": "겁화 - 린",
-          "Cost": "COST 2",
+          "Cost": "-",
           "Entries": [
             {
               "Label": "유형",

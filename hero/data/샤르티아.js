@@ -505,7 +505,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Shalltear4.webp",
+      "IconImageUrl": "../img/Super/샤르티아.webp",
       "Desc": "[패시브]면역 \"상처 저주\",\"치료 반전\".<br/>[물리 피해] 단일 적 부대를 공격해 1.7배의 전투 피해를 준다.<br/>전투후 적군에게 \"치료 불가\",[피의 저주]부여, 2턴 지속(해제 불가)<br/>[피의 저주] : \"행동 종료시, 고정피해를 받고(피해량은 최대생명의 15%),<br/>동시에 모든 적군에게 피해량만큼의 생명회복\"",
       "SubSkills": null,
       "Animation": "../img/Super/샤르티아_Ani.webp"
