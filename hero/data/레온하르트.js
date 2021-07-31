@@ -509,7 +509,7 @@
         },
         {
           "Label": "범위",
-          "Value": "주위 2칸"
+          "Value": "2바퀴"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ShadowSword.webp",
