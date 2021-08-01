@@ -91,16 +91,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+5%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">죽음의 그림자</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">죽음의 그림자</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(죽음의 그림자 효과는 해제 불가)</b>"
+          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+5%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">킬링 쉐도우</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">킬링 쉐도우</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(킬링 쉐도우 효과는 해제 불가)</b>"
         },
         {
-          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+8%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">죽음의 그림자</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">죽음의 그림자</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(죽음의 그림자 효과는 해제 불가)</b>"
+          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+8%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">킬링 쉐도우</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">1</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">킬링 쉐도우</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(킬링 쉐도우 효과는 해제 불가)</b>"
         },
         {
-          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+11%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">죽음의 그림자</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">죽음의 그림자</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(죽음의 그림자 효과는 해제 불가)</b>"
+          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+11%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">킬링 쉐도우</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">킬링 쉐도우</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(킬링 쉐도우 효과는 해제 불가)</b>"
         },
         {
-          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+15%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">죽음의 그림자</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">죽음의 그림자</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(죽음의 그림자 효과는 해제 불가)</b>"
+          "Desc": "<b>전투 진입 시 공격 <font color=\"red\">+15%</font></b><br/><b>해당 턴에서 공격하지 않았을 경우 행동 종료 시</b><br/><font color=\"purple\">킬링 쉐도우</font> 효과 획득<br/><b>부대</b> 사거리 <font color=\"red\">2</font>칸 이동력 <font color=\"red\">+1</font>칸<br/><b>선공 후</b> <font color=\"purple\">킬링 쉐도우</font> 효과 상실 및 <br/><b>영웅이 받는 물리피해</b><font color=\"red\">-30%</font> <br/><b>(킬링 쉐도우 효과는 해제 불가)</b>"
         }
       ]
     }
@@ -159,7 +159,7 @@
       "HeartFetterBouns2": "근접 전투시 입히는피해 +10%"
     },
     {
-      "Name": "초월자의 칼날",
+      "Name": "오버테이커",
       "Icon": "Icon_Occupation_AssassinSP.webp",
       "SD": [
         {
@@ -536,7 +536,7 @@
     {
       "Name": "",
       "Materials": [],
-      "Desc": "초월자의 칼날 전직 가능, 초월자의 의지(SP 고유기술)스킬 획득, SP 일러스트 획득"
+      "Desc": "오버테이커 전직 가능, 초월자의 의지(SP 고유기술)스킬 획득, SP 일러스트 획득"
     },
     {
       "Name": "4단계 재료",
@@ -809,7 +809,7 @@
       "Animation": null
     },
     {
-      "Name": "SP : 사냥의 그림자",
+      "Name": "SP : 쉐도우 헌트",
       "Cost": "COST 1",
       "Entries": [
         {
@@ -818,12 +818,12 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/시그마/1.webp",
-      "Desc": "기술 <font color=\"red\">+15%</font><br/><b>자신에게 <font color=\"purple\">죽음의 그림자</font> 효과가 있을 경우</b>,<br/>(1) <b>선공 시</b> '<font color =\"purple\">암살자</font>' 종류 병사는 영웅과 함께 공격<br/>(2) <font color=\"red\">3</font>칸 범위 내 공격 시 호위 무시",
+      "Desc": "기술 <font color=\"red\">+15%</font><br/><b>자신에게 <font color=\"purple\">킬링 쉐도우</font> 효과가 있을 경우</b>,<br/>(1) <b>선공 시</b> '<font color =\"purple\">암살자</font>' 종류 병사는 영웅과 함께 공격<br/>(2) <font color=\"red\">3</font>칸 범위 내 공격 시 호위 무시",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "SP : 죽음의 대결",
+      "Name": "SP : 쉐도우 듀얼",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -844,7 +844,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/시그마/2.webp",
-      "Desc": "[액티브]<b><font color =\"blue\">레인저 마크</font>가 박힌 적 주위 <font color=\"red\">1</font>칸 범위 임의의 위치로 <font color =\"blue\">텔레포트</font></b> 및<br/> 대상에게 <font color=\"red\">1.4</font>배 피해<br/><b>전투 진입 전 자신에게</b> '<font color=\"blue\">근접전 패널티 무효화</font>','<font color=\"blue\">모든 디버프에 면역</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b><font color=\"purple\">죽음의 그림자</font> 효과가 있을 경우 전투에서 쌍방 병사는 공격을 하지 않으며<br/>상대 영웅을 직접 공격</b><br/><b>전투 후 부대 생명</b> <font color=\"red\">50</font>% 회복 및 '반격 피해 <font color=\"red\">+50</font>%' '이동력 <font color=\"red\">+3</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>(<b>해당 효과는 해제 불가)<br/>(<b>해당 스킬은 버프 지속 시간을 감소시키지 않음</b>)",
+      "Desc": "[액티브]<b><font color =\"blue\">레인저 마크</font>가 박힌 적 주위 <font color=\"red\">1</font>칸 범위 임의의 위치로 <font color =\"blue\">텔레포트</font></b> 및<br/> 대상에게 <font color=\"red\">1.4</font>배 피해<br/><b>전투 진입 전 자신에게</b> '<font color=\"blue\">근접전 패널티 무효화</font>','<font color=\"blue\">모든 디버프에 면역</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b><font color=\"purple\">킬링 쉐도우</font> 효과가 있을 경우 전투에서 쌍방 병사는 공격을 하지 않으며<br/>상대 영웅을 직접 공격</b><br/><b>전투 후 부대 생명</b> <font color=\"red\">50</font>% 회복 및 '반격 피해 <font color=\"red\">+50</font>%' '이동력 <font color=\"red\">+3</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>(<b>해당 효과는 해제 불가)<br/>(<b>해당 스킬은 버프 지속 시간을 감소시키지 않음</b>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -927,6 +927,10 @@
     {
       "Entry": "영웅담5",
       "Desc": "소환된 시그마는 계속 코드 네임을 사용하며 새로운 시공에서 동료들과 자신이 싸우는 목적과 의미를 찾고, 자신만의 정의의 길을 걷는다.<br/><font color=\"#DC143C\"><size=33><i>「정의... 맞아, 모든 기억이 다 사라진다고 해도 나는 내 본성이 정의롭다고 확신한다.」</i> </size=33></font>"
+    },
+    {
+      "Entry": "영웅담6 (SP)",
+      "Desc": "기자로프의 사악한 계획으로 시그마는 마음이 없는 살육 기계가 되었을 터였다.<br/>허나 기자로프는 유대의 힘을 얕보고 있었다......<br/>동료들이 부르는 목소리에 답하여, 지고한 의지는 드디어 새로운 힘과 함께 각성했다!<br/><font color=\"#DC143C\"><size=33><i>「난...... 어둠 속에서 춤추는 칼날......지옥에서 되돌아온 영혼......<br/>나야말로, 모든 것을 초월할 자다.」</i> </size=33></font>"
     }
   ],
   "Performance": [
