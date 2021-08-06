@@ -322,7 +322,7 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "전력 찌르기",
+      "Name": "관통",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -342,8 +342,8 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_SpearCrash1.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br/>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
+      "IconImageUrl": "../img/skills/43.webp",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%, <br/><font color=\"red\">2</font>턴 지속.",
       "SubSkills": null,
       "Animation": null
     },
