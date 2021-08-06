@@ -127,7 +127,7 @@
       "Skill": 164,
       "SkillRate": 48,
       "HeartFetterBouns1": "받는 범위 피해량이 <font color=\"red\">-10</font>% 감소",
-      "HeartFetterBouns2": "<b>근접 공격으로 전투 진입시</b> 피해량 +<font color=\"red\">10</font>%"
+      "HeartFetterBouns2": "<b>근접 공격을 받아 전투 진입시</b> 피해량 +<font color=\"red\">10</font>%"
     }
   ],
   "Materials": {
