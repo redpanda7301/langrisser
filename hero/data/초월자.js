@@ -552,7 +552,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/초월자.webp",
-      "Desc": "[패시브]<b><font color = \"blue\">해당 스킬은 근접전 패널티 영향을 받지 않는다</font></b><br/><b>피해를 입은 후 부대 생명이 처음으로 <font color=\"red\">50</font>% 미만으로 감소 시</b> [<font color=\"blue\">보호 방패</font>]효과 획득<br/><font color=\"blue\">보호 방패</font> : 자신의 최대 생명 <font color=\"red\">50</font>% 이상의 피해를 막음, <b>해제 불가</b><br/><font color=\"blue\">보호 방패</font>효과는 <font color=\"red\">1</font> 종류만 발동<br/>[액티브] : 적 하나를 선택해 <b>백분비 생명 수치</b>교환 및 사용 후 <font color=\"blue\">재행동</font><br/><b>해당 스킬은 버프 지속시간을 감소시키지 않음</b>",
+      "Desc": "[패시브]<b><font color = \"blue\">부대가 근접전 패널티 영향을 받지 않는다</font></b><br/><b>피해를 입은 후 부대 생명이 처음으로 <font color=\"red\">50</font>% 미만으로 감소 시</b> [<font color=\"blue\">보호 방패</font>]효과 획득<br/><font color=\"blue\">보호 방패</font> : 자신의 최대 생명 <font color=\"red\">50</font>% 이상의 피해를 막음, <b>해제 불가</b><br/><font color=\"blue\">보호 방패</font>효과는 <font color=\"red\">1</font> 종류만 발동<br/>[액티브] : 적 하나를 선택해 <b>백분비 생명 수치</b>교환 및 사용 후 <font color=\"blue\">재행동</font><br/><b>해당 스킬은 버프 지속시간을 감소시키지 않음</b>",
       "SubSkills": null,
       "Animation": "../img/Super/초월자_Ani.webp"
     }
