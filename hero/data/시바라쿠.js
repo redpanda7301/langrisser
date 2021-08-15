@@ -42,26 +42,26 @@
   "HeartFetter": "생명+800, 방어+60, 마방+30",
   "Talent": [
     {
-      "Name": "비기 - 야규류",
+      "Name": "야규 시바라쿠류",
       "Icon": "Gift_Shibaraku.webp",
       "Abilities": [
         {
           "Desc": "1성"
         },
         {
-          "Desc": "사망시 <font color=\"red\">+5%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
+          "Desc": "사망시 <font color=\"red\">+10%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
         },
         {
-          "Desc": "사망시 <font color=\"red\">+10%</font>회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
+          "Desc": "사망시 <font color=\"red\">+15%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
         },
         {
-          "Desc": "사망시 <font color=\"red\">+15%</font>회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
+          "Desc": "사망시 <font color=\"red\">+20%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
         },
         {
-          "Desc": "사망시 <font color=\"red\">+20%</font>회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
+          "Desc": "사망시 <font color=\"red\">+25%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
         },
         {
-          "Desc": "사망시 <font color=\"red\">+25%</font>회복 후 부활 최대 <font color=\"red\">2</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
+          "Desc": "사망시 <font color=\"red\">+30%</font> 회복 후 부활 최대 <font color=\"red\">2</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
         }
       ]
     }
