@@ -503,7 +503,33 @@
       "Desc": "단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>전투 진입 전, <font color=\"red\">1</font>칸 이동할 때마다 기술 <font color=\"red\">+10%</font>. (최대 <font color=\"red\">30%</font> 중첩 가능)",
       "SubSkills": null,
       "Animation": null
-    }
+    }/*,
+    {
+      "Name": "왕자의 필살기!",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/Super/올리버.webp",
+      "Desc": "<b>호위를 무시하고</b> 단일 적 부대를 공격해 <font color =\"red\">1.3</font>배의 피해, 기술 <font color =\"red\">+30</font>% <br/>전투 후 상대가 가진 버프를 <font color=\"red\">2</font>개 강탈 <br/><b>적을 격파 시</b> <font color =\"blue\">재이동</font> <font color=\"red\">3</font>칸 및 쿨타임 <font color=\"red\">-3</font>",
+      "SubSkills": null,
+      "Animation": "../img/Super/올리버_Ani.webp"
+    }*/
   ],
   "Propose": false,
   "Bio": [
