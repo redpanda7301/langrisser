@@ -32,6 +32,10 @@
     {
       "ImageUrl": "라나/sp.webp",
       "Desc": "SP 각성"
+    },
+    {
+      "ImageUrl": "라나/8.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "라나",
@@ -135,7 +139,8 @@
     44,
     62,
     70,
-    67
+    67,
+    76
   ],
   "Jobs": [
     {
@@ -165,6 +170,9 @@
         },
         {
           "ImageUrl": "라나/sp/1.webp"
+        },
+        {
+          "ImageUrl": "라나/8/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -212,6 +220,9 @@
         },
         {
           "ImageUrl": "라나/sp/1.webp"
+        },
+        {
+          "ImageUrl": "라나/8/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -259,6 +270,9 @@
         },
         {
           "ImageUrl": "라나/sp/1.webp"
+        },
+        {
+          "ImageUrl": "라나/8/1.webp"
         }
       ],
       "AttkRange": 2,

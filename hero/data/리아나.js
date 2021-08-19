@@ -20,6 +20,10 @@
     {
       "ImageUrl": "리아나/5.webp",
       "Desc": "KFC 콜라보 이벤트"
+    },
+    {
+      "ImageUrl": "리아나/6.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "리아나",
@@ -92,7 +96,8 @@
     17,
     29,
     44,
-    58
+    58,
+    76
   ],
   "Jobs": [
     {
@@ -113,6 +118,9 @@
         },
         {
           "ImageUrl": "리아나/5/1.webp"
+        },
+        {
+          "ImageUrl": "리아나/6/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -151,6 +159,9 @@
         },
         {
           "ImageUrl": "리아나/5/1.webp"
+        },
+        {
+          "ImageUrl": "리아나/6/1.webp"
         }
       ],
       "AttkRange": 2,
