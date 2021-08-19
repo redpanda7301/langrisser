@@ -906,7 +906,7 @@
       "SubSkills": [
         {
           "Name": "운명(죽음)",
-          "Cost": "<font color=\"orange\">화염</font>4",
+          "Cost": null,
           "Entries": [
             {
               "Label": "사거리",
@@ -918,13 +918,13 @@
             }
           ],
           "IconImageUrl": "../img/skills/sp/헤인/3.webp",
-          "Desc": "[마법피해] <font color=\"red\">0.38</font>배 범위 피해, <b>보병에게 더 큰 데미지 준다</b><br/>명중한 적은 다음 턴 행동 종료 시 지력 <font color=\"red\">1</font>배 수치의 <b>고정 피해</b>를 받음",
+          "Desc": "<font color=\"orange\">화염</font> <font color =\"red\">4</font>개 소모<br/>[마법피해] <font color=\"red\">0.38</font>배 범위 피해, <b>보병에게 더 큰 데미지 준다</b><br/>명중한 적은 다음 턴 행동 종료 시 지력 <font color=\"red\">1</font>배 수치의 <b>고정 피해</b>를 받음",
           "SubSkills": null,
           "Animation": null
         },
         {
           "Name": "분노의 번개",
-          "Cost": "<font color=\"blue\">번개</font>4",
+          "Cost": null,
           "Entries": [
             {
               "Label": "사거리",
@@ -936,13 +936,13 @@
             }
           ],
           "IconImageUrl": "../img/skills/sp/헤인/4.webp",
-          "Desc": "[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <b>기병에게 더 큰 데미지 준다</b><br/>전투 진입 전 병사 사거리 <font color=\"red\">+1</font>,<br/>적 방어 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">2</font>행동",
+          "Desc": "<font color=\"blue\">번개</font> <font color =\"red\">4</font>개 소모<br/>[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <b>기병에게 더 큰 데미지 준다</b><br/>전투 진입 전 병사 사거리 <font color=\"red\">+1</font>,<br/>적 방어 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">2</font>행동",
           "SubSkills": null,
           "Animation": null
         },
         {
           "Name": "비전 텔레포트",
-          "Cost": "<font color=\"orange\">화염</font>2, <font color=\"blue\">번개</font>4",
+          "Cost": null,
           "Entries": [
             {
               "Label": "사거리",
@@ -954,7 +954,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/sp/헤인/5.webp",
-          "Desc": "<font color=\"red\">1</font>개의 아군 부대를 텔레포트 및 피해 <font color=\"red\">+10</font>%, 지속 <font color=\"red\">1</font>행동. <br/><b>(텔레포트 범위는 대상을 기준으로 7칸)</b> <br/><b>(유저의 부대에게만 쓸 수 있다.)</b>",
+          "Desc": "<font color=\"orange\">화염</font> <font color =\"red\">2</font>개 소모, <font color=\"blue\">번개</font> <font color =\"red\">2</font>개 소모<br/><font color=\"red\">1</font>개의 아군 부대를 텔레포트 및 피해 <font color=\"red\">+10</font>%, 지속 <font color=\"red\">1</font>행동. <br/><b>(텔레포트 범위는 대상을 기준으로 7칸)</b> <br/><b>(유저의 부대에게만 쓸 수 있다.)</b>",
           "SubSkills": null,
           "Animation": null
         }
