@@ -1,0 +1,576 @@
+﻿var data = [
+{
+  "Skins": [
+    {
+      "ImageUrl": "웨탐/1.webp",
+      "Desc": "기본"
+    }
+  ],
+  "Name": "웨탐",
+  "CV": "카키하라 테츠야",
+  "Rank": [
+    3,
+    0
+  ],
+  "SP": false,
+  "Groups": [
+    0,
+    4,
+    10
+  ],
+  "HP": 15,
+  "SPHP": 0,
+  "Attk": 35,
+  "SPAttk": 0,
+  "Def": 30,
+  "SPDef": 0,
+  "MagicDef": 15,
+  "SPMagicDef": 0,
+  "HowToGet": "영웅 소환",
+  "Fetters": [
+    {
+      "Condition": "호감도 총합 32"
+    },
+    {
+      "Condition": "호감도 총합 52"
+    },
+    {
+      "Condition": "호감도 총합 72"
+    },
+    {
+      "Condition": "호감도 총합 92"
+    }
+  ],
+  "HeartFetter": "생명+750, 방어+50, 마방+50",
+  "Talent": [
+    {
+      "Name": "인연의 종말",
+      "Icon": "Gift_Wehttam.webp",
+      "Abilities": [
+        {
+          "Desc": "1성"
+        },
+        {
+          "Desc": "2성"
+        },
+        {
+          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+5</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">1</font></b>에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>턴"
+        },
+        {
+          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+8</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">2</font></b>에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>턴"
+        },
+        {
+          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+11</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">2</font></b>에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>턴"
+        },
+        {
+          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+15</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">3</font></b>에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>턴"
+        }
+      ]
+    }
+  ],
+  "SPTalent": null,
+  "Equip": null,
+  "Soldiers": [
+    46,
+    60,
+    36,
+    64,
+    51,
+    53,
+    72,
+    75
+  ],
+  "Jobs": [
+    {
+      "Name": "마족의 날개",
+      "Icon": "Icon_Occupation_Fly.webp",
+      "SD": [
+        {
+          "ImageUrl": "웨탐/1/1.webp"
+        }
+      ],
+      "AttkRange": 1,
+      "Move": 5,
+      "MoveType": "Fly",
+      "HP": 4202,
+      "HPRate": 70,
+      "Attk": 553,
+      "AttkRate": 0,
+      "Int": 231,
+      "IntRate": 0,
+      "Def": 293,
+      "DefRate": 0,
+      "MagicDef": 310,
+      "MagicDefRate": 0,
+      "Skill": 171,
+      "SkillRate": 0,
+      "HeartFetterBouns1": "공격하여 전투진입시 받는 피해감소 -10%",
+      "HeartFetterBouns2": "공격받아 전투 진입시 입히는피해 +10%"
+    },
+    {
+      "Name": "혼돈의 대행자",
+      "Icon": "Icon_Occupation_Monster.webp",
+      "SD": [
+        {
+          "ImageUrl": "웨탐/1/2.webp"
+        }
+      ],
+      "AttkRange": 1,
+      "Move": 3,
+      "MoveType": "Walk",
+      "HP": 4511,
+      "HPRate": 75,
+      "Attk": 553,
+      "AttkRate": 85,
+      "Int": 254,
+      "IntRate": 42,
+      "Def": 317,
+      "DefRate": 70,
+      "MagicDef": 277,
+      "MagicDefRate": 61,
+      "Skill": 154,
+      "SkillRate": 44,
+      "HeartFetterBouns1": "버프5개이상일경우 전투시 받는피해-10%",
+      "HeartFetterBouns2": "버프5개이상일경우 전투시 입히는피해+10%"
+    }
+  ],
+  "Materials": {
+    "HeartFetter": [
+      "h1",
+      "h2",
+      "h4",
+      "h3",
+      "h1-1",
+      "h2-1",
+      "h4-1",
+      "h3-1",
+      "x"
+    ],
+    "Fetter": [
+      "5",
+      "5-1",
+      "5-2",
+      "5-3",
+      "5-4"
+    ],
+    "Awaken": [
+      "ranka2",
+      "ranka5",
+      "ranka2-1",
+      "ranka5-1"
+    ]
+  },
+  "ClassUp": [
+    {
+      "ClassTitle": "어둠의 자식 : 공격+9, 생명+36",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank1-1"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank1-1"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "사악한 용의 사자 : 기술+8, 생명+48",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-3",
+            "rank1-3",
+            "rank1-1"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank3-3",
+            "rank3-2",
+            "rank2-3",
+            "rank2-2"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-6",
+            "rank4-2",
+            "rank3-3",
+            "rank3-2"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "마족의 날개 : 공격+25, 생명+90, 마방+10",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank5-3",
+            "rank5-2",
+            "rank4-6",
+            "rank4-4"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank6-5",
+            "rank6-3",
+            "rank5-3",
+            "rank5-2"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank7-4",
+            "rank7-7",
+            "rank6-5",
+            "rank6-3"
+          ]
+        },
+        {
+          "Name": "T4",
+          "Materials": [
+            "rank8-3",
+            "rank8-2",
+            "rank7-4",
+            "rank7-3"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "혼돈의 그림자 : 생명+80, 기술+5",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-1",
+            "rank1-1",
+            "rank1-2"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank3-1",
+            "rank3-6",
+            "rank2-1",
+            "rank2-2"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-1",
+            "rank4-2",
+            "rank3-1",
+            "rank3-6"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "혼돈의 대행자 : 공격+25, 생명+90, 방어+10",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank5-1",
+            "rank5-6",
+            "rank4-1",
+            "rank4-2"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank6-1",
+            "rank6-2",
+            "rank5-1",
+            "rank5-6"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank7-2",
+            "rank7-1",
+            "rank6-1",
+            "rank6-2"
+          ]
+        },
+        {
+          "Name": "T4",
+          "Materials": [
+            "rank8-1",
+            "rank8-5",
+            "rank7-2",
+            "rank7-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "SPOpenConditions": null,
+  "Skills": [
+    {
+      "Name": "바람칼날",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/0.webp",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "제압",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
+      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 <br/>전투 중 공격 <font color=\"red\">+12</font>%.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "뇌광",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Skill_FlyCrash.webp",
+      "Desc": "[물리 피해]단일 적 부대를 공격하여 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/> <b>이 스킬로 적을 처치 시</b> 스킬 쿨타임 <font color=\"red\">-3</font>",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "바람 타기",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_FlyControl.webp",
+      "Desc": "[패시브]생명이 <font color=\"red\">50</font>% 이상인 경우 전투 진입시 받는 모든 피해량 <font color=\"red\">-15</font>%.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "마룡의 노호",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Wehttam/1.webp",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 적군에게 <font color=\"red\">0.33</font>배 범위 피해를 입힌다.<br/>명중한 적에게 '<font color=\"blue\">치료 불가</font>','<font color=\"blue\">호위 불가</font>' 효과 부여 <br/>지속 <font color=\"red\">2</font>행동. <br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "공격 지휘",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/2.webp",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "그림자 전이",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "7칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Wehttam/2.webp",
+      "Desc": "<b>생명 백분비 <font color=\"red\">100</font>% 미만인 적</b>을 선택, 해당 적 옆으로 <font color=\"blue\">텔레포트</font> <br/>만약 <b>자신 주위 <font color=\"red\">3</font>칸 범위 안에 <font color=\"red\">알하자드의 그림자</font>가 있거나 '<font color=\"purple\">절망</font>' 디버프를 보유한 적이 인접해 있을 경우 <font color=\"blue\">재행동</font></b> <br/>(해당 스킬은 보유한 <font color=\"blue\">버프</font> 지속 시간을 소모하지 않음)",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "그림자 전이",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Wehttam/3.webp",
+      "Desc": "단일 적군을 공격하여 <font color=\"red\">1.8</font>배 피해를 준다.<br/>전투 전 적 부대의 버프 <font color=\"red\">5</font>개 제거 및 적 부대에게 '<font color=\"blue\">상처 저주</font>' 부여<br/><font color=\"blue\">상처 저주</font> : 받는 치유 효과를 치유량 <font color=\"red\">50</font>% 수치를 피해로 전환한다. <br/><font color =\"red\">2</font>턴 지속<br/>이 효과는 제거되지 않는다.<br/>(해당 스킬은 보유한 <font color=\"blue\">버프</font> 지속 시간을 소모하지 않음)",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "알하자드의 그림자",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "-"
+        }
+      ],
+      "IconImageUrl": "../img/Super/웨탐.webp",
+      "Desc": "[패시브] : <b>'신관' 클래스와 전투 시 영웅의</b> 공격, 방어, 마방 <font color=\"red\">+15</font>% <br/><b>영웅 병종이 '마물'</b>일 경우 해당 효과는 <font color=\"red\">60</font>로 상승 <br/>[액티브] : 지정 위치 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.15</font>배 피해 및 <font color=\"blue\">알하자드의 그림자</font> 소환 <br/>그와 동시에 자신 부대에 공격 <font color=\"red\">+20</font>% 및 면역 효과 획득 <br/>스킬 사용후 <font color =\"blue\">재행동</font> <font color=\"red\">3</font>칸",
+      "SubSkills": null,
+      "Animation": "../img/Super/웨탐_Ani.webp"
+    },
+    {
+      "Name": "알하자드의 그림자",
+      "Cost": "-",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "소환물"
+        },
+        {
+          "Label": "클래스",
+          "Value": "마물"
+        },
+        {
+          "Label": "사거리",
+          "Value": "-"
+        },
+        {
+          "Label": "범위",
+          "Value": "-"
+        }
+      ],
+      "IconImageUrl": "../img/Super/웨탐.webp",
+      "Desc": "소환자 최대 생명 <font color=\"red\">75</font>% 수치 계승 <br/>'<b>공격, 이동, 치유</b>' 불가(<font color=\"red\">디메리트</font>) <br/><font color=\"blue\">모든 디버프 면역</font> 및 <b>적에 의한</b><font color=\"blue\">위치 이동</font> 면역",
+      "SubSkills":[
+        {
+          "Name": "<b><font color=\"#0070c0\">마검의 비호</font></b>",
+          "Entries": null,
+          "IconImageUrl": "../img/skills/Wehttam/4.webp",
+          "Desc": "[지휘][액티브] <font color=\"red\">3</font>칸 범위 내 적 <font color=\"red\">1</font>명 당 <b>소환자가 받는 피해</b> <font color=\"red\">-15</font>%(최대 <font color=\"red\">-45</font>%)"
+        },
+        {
+          "Name": "<b><font color=\"#0070c0\">어둠의 통솔</font></b>",
+          "Entries": null,
+          "IconImageUrl": "../img/skills/Wehttam/5.webp",
+          "Desc": "[지휘] 전장에 모든 <b><font color=\"purple\">어둠의 윤회 진영</font> 영웅의 생명을 제외한</b> 모든 스탯 <font color=\"red\">+5</font>%"
+        },
+        {
+          "Name": "<b><font color=\"#0070c0\">더러운 피의 재생</font></b>",
+          "Entries": null,
+          "IconImageUrl": "../img/skills/Wehttam/6.webp",
+          "Desc": "[패시브] 행동 종료 시 소환자의 생명 <font color=\"red\">30</font>% 회복"
+        }
+      ],
+      "Animation": null
+    }
+    
+  ],
+  "Propose": false,
+  "Bio": null,
+  "Performance": null
+}];

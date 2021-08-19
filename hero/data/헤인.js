@@ -881,7 +881,7 @@
       "Animation": null
     },
     {
-      "Name": "비법 마도서",
+      "Name": "SP : 비법 마도서",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -902,62 +902,63 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/헤인/2.webp",
-      "Desc": "[액티브] 아래 3가지중 하나를 선택하여 사용한다.<br/>사거리, 범위는 인게임 실장되면 수정예정",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "마법피해",
-      "Cost": null,
-      "Entries": [
+      "Desc": "[액티브] 아래 3가지중 하나를 선택하여 사용한다.",
+      "SubSkills": [
         {
-          "Label": "사거리",
-          "Value": "3칸"
+          "Name": "운명(죽음)",
+          "Cost": "<font color=\"orange\">화염</font>4",
+          "Entries": [
+            {
+              "Label": "사거리",
+              "Value": "3칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "4칸"
+            }
+          ],
+          "IconImageUrl": "../img/skills/sp/헤인/3.webp",
+          "Desc": "[마법피해] <font color=\"red\">0.38</font>배 범위 피해, <b>보병에게 더 큰 데미지 준다</b><br/>명중한 적은 다음 턴 행동 종료 시 지력 <font color=\"red\">1</font>배 수치의 <b>고정 피해</b>를 받음",
+          "SubSkills": null,
+          "Animation": null
         },
         {
-          "Label": "범위",
-          "Value": "4칸"
-        }
-      ],
-      "IconImageUrl": "../img/skills/sp/헤인/3.webp",
-      "Desc": "[마법피해] 0.38배 범위 피해, <b>보병에게 더 큰 데미지 준다</b><br/>명중한 적은 다음 턴 행동 종료 시 지력 <font color=\"red\">1</font>배 수치의 <b>고정 피해</b>를 받음",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "마법피해",
-      "Cost": null,
-      "Entries": [
-        {
-          "Label": "사거리",
-          "Value": "2칸"
+          "Name": "분노의 번개",
+          "Cost": "<font color=\"blue\">번개</font>4",
+          "Entries": [
+            {
+              "Label": "사거리",
+              "Value": "2칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/skills/sp/헤인/4.webp",
+          "Desc": "[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <b>기병에게 더 큰 데미지 준다</b><br/>전투 진입 전 병사 사거리 <font color=\"red\">+1</font>,<br/>적 방어 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">2</font>행동",
+          "SubSkills": null,
+          "Animation": null
         },
         {
-          "Label": "범위",
-          "Value": "단일"
+          "Name": "비전 텔레포트",
+          "Cost": "<font color=\"orange\">화염</font>2, <font color=\"blue\">번개</font>4",
+          "Entries": [
+            {
+              "Label": "사거리",
+              "Value": "2칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/skills/sp/헤인/5.webp",
+          "Desc": "<font color=\"red\">1</font>개의 아군 부대를 텔레포트 및 피해 <font color=\"red\">+10</font>%, 지속 <font color=\"red\">1</font>행동. <br/><b>(텔레포트 범위는 대상을 기준으로 7칸)</b> <br/><b>(유저의 부대에게만 쓸 수 있다.)</b>",
+          "SubSkills": null,
+          "Animation": null
         }
       ],
-      "IconImageUrl": "../img/skills/sp/헤인/4.webp",
-      "Desc": "[마법피해]<font color=\"red\">1.6</font>배 단일 피해, <b>기병에게 더 큰 데미지 준다</b><br/>전투 진입 전 병사 사거리 <font color=\"red\">+1</font>,<br/>적 방어 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">2</font>행동",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "지원",
-      "Cost": null,
-      "Entries": [
-        {
-          "Label": "사거리",
-          "Value": "2칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/sp/헤인/5.webp",
-      "Desc": "<font color=\"red\">1</font>개의 아군 부대를 텔레포트 및 피해 <font color=\"red\">+10</font>%, 지속 <font color=\"red\">1</font>행동. <br/><b>(텔레포트 범위는 대상을 기준으로 7칸)</b> <br/><b>(유저의 부대에게만 쓸 수 있다.)</b>",
-      "SubSkills": null,
       "Animation": null
     },
     {
