@@ -57,16 +57,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 <br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+2</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <font color=\"blue\">액티브 스킬</font>사용, 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">2</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">1.5</font>배 수치로 치료"
+          "Desc": "주위 <font color=\"red\">2</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 <br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+2</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <font color=\"blue\">액티브 스킬</font>사용 또는 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">2</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">1.5</font>배 수치로 치료"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 <br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+3</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <font color=\"blue\">액티브 스킬</font>사용, 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">2</font>배 수치로 치료"
+          "Desc": "주위 <font color=\"red\">3</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 <br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+3</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <font color=\"blue\">액티브 스킬</font>사용 또는 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">2</font>배 수치로 치료"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 <br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+4</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <font color=\"blue\">액티브 스킬</font>사용, 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">2.5</font>배 수치로 치료"
+          "Desc": "주위 <font color=\"red\">3</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 <br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+4</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <font color=\"blue\">액티브 스킬</font>사용 또는 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">2.5</font>배 수치로 치료"
         },
         {
-          "Desc": "주위 <font color=\"red\">4</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 <br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+5</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <font color=\"blue\">액티브 스킬</font>사용, 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">4</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">3</font>배 수치로 치료"
+          "Desc": "주위 <font color=\"red\">4</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 <br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+5</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <font color=\"blue\">액티브 스킬</font>사용 또는 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">4</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">3</font>배 수치로 치료"
         }
       ]
     }
@@ -85,7 +85,7 @@
   ],
   "Jobs": [
     {
-      "Name": "마나의 관리자",
+      "Name": "마나 관리자",
       "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
@@ -110,7 +110,7 @@
       "MagicDefRate": 86,
       "Skill": 92,
       "SkillRate": 26,
-      "HeartFetterBouns1": "<b>생명 백분비가 자신보다 높은 부대에게 공격 받을 시</b> <br/>받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "<b>생명 백분비가 자신보다 높은 부대에게 공격 받을 시</b> <br/>전투 진입 후 받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "<b>마법 피격으로 전투 진입 시</b> <br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
@@ -386,7 +386,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Mariandel/1.webp",
-      "Desc": "[액티브]지력 <font color=\"red\">5</font>배 수치로 단일 부대 생명 회복 및 <font color=\"red\">2</font>개의 <font color=\"blue\">무작위 면역</font> 효과 부여 <br/>보유한 '<font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 당",
+      "Desc": "[액티브]지력 <font color=\"red\">5</font>배 수치로 단일 부대 생명 회복 및 <font color=\"red\">2</font>개의 <font color=\"blue\">무작위 면역</font> 효과 부여 <br/>지속 <font color=\"red\">1</font>턴 <br/>보유한 '<font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 당 <font color =\"blue\">디버프</font> <font color=\"red\">1</font> 제거 및 <font color =\"blue\">버프</font> <font color=\"red\">1</font>개 부여",
       "SubSkills": null,
       "Animation": null
     },
@@ -426,7 +426,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Mariandel/2.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다. <br/>전투 후 적에게 <font color=\"blue\">가시 손길</font>효과 부여 <br/><font color=\"blue\">가시 손길</font> : <font color=\"green\">숲</font>, <font color=\"green\">초원</font>에서 <b>행동 종료 시</b> 시전자의 지력 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정 피해</font> <br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b> <br/>보유한 <font color=\"purple\">마나 에너지</font>' <font color=\"red\">1</font>개 당, 지속 시간 <font color=\"red\">+1</font>턴 <br/>(최대 <font color=\"red\">+2</font>턴)",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다. <br/>전투 후 적에게 <font color=\"blue\">가시 손길</font>효과 부여 <br/><font color=\"blue\">가시 손길</font> : <font color=\"green\">숲</font>, <font color=\"green\">초원</font>에서 <b>행동 종료 시</b> 시전자의 지력 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정 피해</font> <br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b> <br/>보유한 <font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 당, 지속 시간 <font color=\"red\">+1</font>턴 <br/>(최대 <font color=\"red\">+2</font>턴)",
       "SubSkills": null,
       "Animation": null
     },
@@ -448,11 +448,11 @@
         },
         {
           "Label": "범위",
-          "Value": "단일"
+          "Value": "1칸"
         }
       ],
       "IconImageUrl": "../img/skills/Mariandel/3.webp",
-      "Desc": "단일 적 부대에게 <font color=\"red\">0.25</font>배의 피해를 준다. <br/> 적에게 <font color=\"blue\">이동 불가</font> 및 <font color=\"blue\">호위 불가</font>효과 부여 <br/> 지속 <font color=\"red\">+1</font>턴 <br/>적이 <font color=#b8860b>산지</font> 혹은 <font color=#708090>성벽</font>에 있을 경우 해당 효과는 <b>해제 불가</b> <br/>보유한 <font color=\"purple\">마나 에너지</font>' <font color=\"red\">1</font>개 당, 적의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 <font color=\"blue\">디버프</font>로 전환 <br/>(최대 <font color=\"red\">3</font>개 전환)",
+      "Desc": "단일 적 부대에게 <font color=\"red\">0.25</font>배의 피해를 준다. <br/> 적에게 <font color=\"blue\">이동 불가</font> 및 <font color=\"blue\">호위 불가</font>효과 부여 <br/> 지속 <font color=\"red\">1</font>턴 <br/>적이 <font color=#b8860b>산지</font> 혹은 <font color=#708090>성벽</font>에 있을 경우 해당 효과는 <b>해제 불가</b> <br/>보유한 <font color=\"purple\">마나 에너지</font>' <font color=\"red\">1</font>개 당, 적의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 <font color=\"blue\">디버프</font>로 전환 <br/>(최대 <font color=\"red\">3</font>개 전환)",
       "SubSkills": null,
       "Animation": null
     },
@@ -504,7 +504,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Mariandel/4.webp",
-      "Desc": "주위 <font color=\"red\">4</font>칸 내 적에게 <font color=\"red\">0.3</font>배의 피해를 준다. <br/><font color=#20b2aa>물</font> 지형에 위치한 적의 버프<font color=\"red\">2</font>개 제거 <br/> 보유한 <font color=\"purple\">마나 에너지</font>' <font color=\"red\">1</font>개 당, 공격 후 시전자 지력<font color=\"red\">0.5</font>배 수치로 <br/>자신 혹은 주위 <font color=\"red\">4</font>칸 범위 내 아군 생명 회복 및 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 제거",
+      "Desc": "주위 <font color=\"red\">4</font>칸 내 적에게 <font color=\"red\">0.3</font>배의 피해를 준다. <br/><font color=#20b2aa>물</font> 지형에 위치한 적의 버프<font color=\"red\">2</font>개 제거 <br/> 보유한 <font color=\"purple\">마나 에너지</font>' <font color=\"red\">1</font>개 당, 공격 후 시전자 지력<font color=\"red\">0.5</font>배 수치로 <br/>자신을 포함한 주위 <font color=\"red\">4</font>칸 범위 내 아군 생명 회복 및 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 제거",
       "SubSkills": null,
       "Animation": null
     },

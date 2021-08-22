@@ -80,7 +80,7 @@
     77,
     17,
     12,
-    9,
+    8,
     71
   ],
   "Jobs": [
@@ -491,7 +491,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Verner/2.webp",
-      "Desc": "<b>자신이 <font color=\"green\">방어 지형</font>에 있는 상태에서 전투 진입 시</b> <br/><b>전투 후</b> 적에게 공격<font color=\"red\">+1</font>배 수치 <font color=\"blue\">고정피해</font> 및 부대 생명 <font color=\"red\">20</font>% 회복 <br/><b>선공으로 전투 진입 후</b> <font color=\"blue\">재이동</font> <font color =\"red\">3</font> 칸",
+      "Desc": "<b>자신이 <font color=\"green\">방어 지형</font>에 있는 상태에서 전투 진입 시</b> <br/><b>전투 후</b> 적에게 공격<font color=\"red\">1</font>배 수치 <font color=\"blue\">고정피해</font> 및 부대 생명 <font color=\"red\">20</font>% 회복 <br/><b>선공으로 전투 진입 후</b> <font color=\"blue\">재이동</font> <font color =\"red\">3</font> 칸",
       "SubSkills": null,
       "Animation": null
     },
