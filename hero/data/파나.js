@@ -575,7 +575,7 @@
       "Animation": null
     },
     {
-      "Name": "치명적인 화살",
+      "Name": "치명적인 화살비",
       "Cost": "COST 3",
       "Entries": [
         {
@@ -596,7 +596,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/파나.webp",
-      "Desc": "[물리피해] 범위 내 적에게 <font color=\"red\">0.33</font>배 피해를 준다. <br/><br/>'비병'을 상대할 시 더 큰 피해를 준다<br/>적의 <font color=\"blue\">버프</font> <font color =\"red\">2</font>개 제거 및 '<font color=\"blue\">받는 범위 피해</font> <font color=\"red\">+10</font>%' 효과 부여 <br/>지속 <font color=\"red\">2</font>턴 <br/>전투 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재이동</font> 가능",
+      "Desc": "[물리피해] 범위 내 적에게 <font color=\"red\">0.33</font>배 피해를 준다. <br/>'비병'을 상대할 시 더 큰 피해를 준다<br/>적의 <font color=\"blue\">버프</font> <font color =\"red\">2</font>개 제거 및 '<font color=\"blue\">받는 범위 피해</font> <font color=\"red\">+10</font>%' 효과 부여 <br/>지속 <font color=\"red\">2</font>턴 <br/>전투 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재이동</font> 가능",
       "SubSkills": null,
       "Animation": "../img/Super/파나_Ani.webp"
     }
