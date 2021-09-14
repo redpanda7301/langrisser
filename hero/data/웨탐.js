@@ -572,7 +572,6 @@
       ],
       "Animation": null
     }
-    
   ],
   "Propose": false,
   "Bio": null,
