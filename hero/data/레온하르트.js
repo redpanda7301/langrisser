@@ -513,7 +513,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ShadowSword.webp",
-      "Desc": "[물리 피해]자신 주위 2칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>적의 2개 버프를 제거, 적이 재이동 시전 불가, 3턴 지속.(제거 불가).",
+      "Desc": "[물리 피해]자신 주위 <font color=\"red\">2</font>칸 내 모든 적군에게 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>적의 <font color=\"red\">2</font>개 버프를 제거, 적이 <font color=\"blue\">재행동 불가</font>, <br/><font color=\"red\">3</font>턴 지속.(제거 불가).",
       "SubSkills": null,
       "Animation": null
     },

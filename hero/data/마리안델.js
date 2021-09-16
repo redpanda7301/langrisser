@@ -386,7 +386,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Mariandel/1.webp",
-      "Desc": "[액티브]지력 <font color=\"red\">5</font>배 수치로 단일 부대 생명 회복 및 <font color=\"red\">2</font>개의 <font color=\"blue\">무작위 면역</font> 효과 부여 <br/>지속 <font color=\"red\">1</font>턴 <br/>보유한 '<font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 당 <font color =\"blue\">디버프</font> <font color=\"red\">1</font> 제거 및 <font color =\"blue\">버프</font> <font color=\"red\">1</font>개 부여",
+      "Desc": "[액티브]지력 <font color=\"red\">5</font>배 수치로 단일 부대 <font color=\"green\">생명 회복</font> 및 <font color=\"red\">2</font>개의 <font color=\"blue\">무작위 면역</font> 효과 부여 <br/>지속 <font color=\"red\">1</font>턴 <br/>보유한 '<font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 당 <font color =\"blue\">디버프</font> <font color=\"red\">1</font> 제거 및 <font color =\"blue\">버프</font> <font color=\"red\">1</font>개 부여",
       "SubSkills": null,
       "Animation": null
     },
@@ -504,7 +504,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Mariandel/4.webp",
-      "Desc": "주위 <font color=\"red\">4</font>칸 내 적에게 <font color=\"red\">0.3</font>배의 피해를 준다. <br/><font color=#20b2aa>물</font> 지형에 위치한 적의 버프<font color=\"red\">2</font>개 제거 <br/> 보유한 <font color=\"purple\">마나 에너지</font>' <font color=\"red\">1</font>개 당, 공격 후 시전자 지력<font color=\"red\">0.5</font>배 수치로 <br/>자신을 포함한 주위 <font color=\"red\">4</font>칸 범위 내 아군 생명 회복 및 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 제거",
+      "Desc": "주위 <font color=\"red\">4</font>칸 내 적에게 <font color=\"red\">0.3</font>배의 피해를 준다. <br/><font color=#20b2aa>물</font> 지형에 위치한 적의 버프<font color=\"red\">2</font>개 제거 <br/> 보유한 <font color=\"purple\">마나 에너지</font>' <font color=\"red\">1</font>개 당, 공격 후 시전자 지력<font color=\"red\">0.5</font>배 수치로 <br/>자신을 포함한 주위 <font color=\"red\">4</font>칸 범위 내 아군 <font color=\"green\">생명 회복</font> 및 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 제거",
       "SubSkills": null,
       "Animation": null
     },

@@ -7,27 +7,11 @@
     },
     {
       "ImageUrl": "엘마/2.webp",
-      "Desc": "스킨상점"
-    },
-    {
-      "ImageUrl": "엘마/3.webp",
-      "Desc": "형귀 스킨"
-    },
-    {
-      "ImageUrl": "엘마/4.webp",
-      "Desc": "한정판매"
-    },
-    {
-      "ImageUrl": "엘마/5.webp",
-      "Desc": "KFC 콜라보 이벤트"
-    },
-    {
-      "ImageUrl": "엘마/6.webp",
-      "Desc": "한정판매"
+      "Desc": "빛의 메아리"
     }
   ],
   "Name": "엘마",
-  "CV": "코시미즈 아미",
+  "CV": "우에사카 스미레",
   "Rank": [
     0
   ],
@@ -54,16 +38,16 @@
       "Condition": "엘마를 프로핏으로 전직"
     },
     {
-      "Condition": "헤인의 도움 하에 '빛과 어둠의 쌍둥이' 클리어"
+      "Condition": "아레스의 도움 받아 유대의문 4 클리어"
     },
     {
-      "Condition": "엘윈의 도움 하에 '의무반고' 클리어"
+      "Condition": "탄생의빛 도움을 받아 유대의문 5 클리어"
     }
   ],
   "HeartFetter": "생명+650, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "성결한 수녀",
+      "Name": "성스러운 불의 칭송자",
       "Icon": "Gift_Elma.webp",
       "Abilities": [
         {
@@ -90,14 +74,14 @@
   "SPTalent": null,
   "Equip": null,
   "Soldiers": [
-    0,
-    2,
-    4,
     17,
-    29,
-    44,
-    58,
-    76
+    4,
+    0,
+    31,
+    2,
+    1,
+    76,
+    29
   ],
   "Jobs": [
     {
@@ -402,7 +386,7 @@
           "Value": "-"
         }
       ],
-      "IconImageUrl": "../img/skills/Elma/0.webp",
+      "IconImageUrl": "../img/ability/Gift_Elma1.webp",
       "Desc": "<b>이동 및 공격 불가</b>, <font color=\"blue\">모든 디버프 면역</font> <br/>주위 <font color=\"red\">3</font>칸 범위 안 모든 아군에게 <font color=\"blue\">받는 마법 피해</font> <font color=\"red\">-20</font>%",
       "SubSkills":[
         {
@@ -415,13 +399,13 @@
           "Name": "<b><font color=\"#ff8c00\">등불의 보호</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/skills/Elma/0_2.webp",
-          "Desc": "[패시브] <b>피격으로 피해를 입은 후</b>, 자신 주위 <font color=\"red\">3</font>칸 범위 안 모든 아군 <font color =\"blue\">생명 회복</font> <br/>회복량은 자신 지력의 <font color=\"red\">1</font>배"
+          "Desc": "[패시브] <b>피격으로 피해를 입은 후</b>, 자신 주위 <font color=\"red\">3</font>칸 범위 안 모든 아군 <font color=\"green\">생명 회복</font> <br/>회복량은 자신 지력의 <font color=\"red\">1</font>배"
         },
         {
           "Name": "<b><font color=\"#ff8c00\">성광의 치유</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/skills/Elma/0_3.webp",
-          "Desc": "[치료]<b>자신이나 소환자에게 사용</b> <br/>회복 범위 안 다수 부대 <font color =\"blue\">생명 회복</font> 및 디버프 <font color=\"red\">1</font>개 제거 <br/>회복량은 시전자 지력 <font color=\"red\">1.5</font>배"
+          "Desc": "[치료]<b>자신이나 소환자에게 사용</b> <br/>회복 범위 안 다수 부대 <font color=\"green\">생명 회복</font> 및 디버프 <font color=\"red\">1</font>개 제거 <br/>회복량은 시전자 지력 <font color=\"red\">1.5</font>배"
         }
       ],
       "Animation": null
@@ -448,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/17.webp",
-      "Desc": "[치료]액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 <font color =\"red\">5</font>배. 그리고 디버프를 <font color =\"red\">1</font>개 제거한다.",
+      "Desc": "단일 부대의 <font color=\"green\">생명 회복</font>시킨다.<br/>회복량은 사용자 지력의 <font color =\"red\">5</font>배. 그리고 디버프를 <font color =\"red\">1</font>개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -500,7 +484,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash.webp",
-      "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -526,7 +510,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/23.webp",
-      "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+      "Desc": "범위 내 아군들의 <font color=\"green\">생명 회복</font>시킨다.<br/>회복량은 사용자 지력의 <font color=\"red\">3</font>배. 그리고 <font color=\"blue\">디버프</font>를 <font color=\"red\">1</font>개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -592,7 +576,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/19.webp",
-      "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
+      "Desc": "단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
       "SubSkills": null,
       "Animation": null
     },
@@ -606,21 +590,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/22.webp",
-      "Desc": "[패시브] 부대 생명이 <font color =\"red\">90</font>%이상일 시 지력, 마방 <font color =\"red\">+10</font>%.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "명상",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/22.webp",
-      "Desc": "[패시브] 부대 생명이 <font color =\"red\">90</font>%이상일 시 지력, 마방 <font color =\"red\">+10</font>%.",
+      "Desc": "부대 생명이 <font color =\"red\">90</font>% 이상일 시 지력, 마방 <font color =\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
     },
