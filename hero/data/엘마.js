@@ -614,11 +614,11 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "7턴"
+          "Value": "2턴"
         },
         {
           "Label": "사거리",
-          "Value": "2칸"
+          "Value": "3칸"
         },
         {
           "Label": "범위",
@@ -640,15 +640,15 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "3턴"
+          "Value": "4턴"
         },
         {
           "Label": "사거리",
-          "Value": "3칸"
+          "Value": "자신"
         },
         {
           "Label": "범위",
-          "Value": "단일"
+          "Value": "5칸"
         }
       ],
       "IconImageUrl": "../img/Super/엘마.webp",

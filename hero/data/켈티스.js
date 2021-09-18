@@ -480,7 +480,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "3턴"
+          "Value": "5턴"
         },
         {
           "Label": "사거리",
@@ -488,7 +488,7 @@
         },
         {
           "Label": "범위",
-          "Value": "3칸"
+          "Value": "4칸"
         }
       ],
       "IconImageUrl": "../img/skills/Kertesz/2.webp",
