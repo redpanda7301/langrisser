@@ -103,16 +103,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+10%</font><br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">10%</font> 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+10</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">10</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+15%</font><br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">13%</font> 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+15</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">13</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+20%</font><br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">16%</font> 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+20</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">16</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+25%</font><br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">20%</font> 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+25</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">20</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         }
       ]
     }
@@ -121,7 +121,7 @@
     "Name": "방랑의 기사(무기)",
     "Stats": "생명 437,공격 107",
     "Icon": "엘윈.webp",
-    "Ability": "공격 +<font color=\"red\">10%</font><br/>기술을 사용하여 피해를 입힐시, <font color=\"red\">30%</font> 확률로 해당 기술의 쿨타임 -5"
+    "Ability": "공격 <font color=\"red\">+10</font>%<br/>기술을 사용하여 피해를 입힐시, <font color=\"red\">30%</font> 확률로 해당 기술의 쿨타임 -5"
   },
   "Soldiers": [
     20,
@@ -176,8 +176,8 @@
       "MagicDefRate": 60,
       "Skill": 154,
       "SkillRate": 44,
-      "HeartFetterBouns1": "생명 80%이상일때 <br/>전투중 받는피해 -10%",
-      "HeartFetterBouns2": "생명 80%이상일때 <br/>전투중 입히는피해 +10%"
+      "HeartFetterBouns1": "생명 <font color=\"red\">80</font>% 이상일때 <br/>전투중 받는 피해량<font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "생명 <font color=\"red\">80</font>% 이상일때 <br/>전투중 주는 피해량<font color=\"red\">+10</font>%"
     },
     {
       "Name": "광룡 기사단장",
@@ -220,8 +220,8 @@
       "MagicDefRate": 60,
       "Skill": 130,
       "SkillRate": 37,
-      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해 -10%",
-      "HeartFetterBouns2": "부대 생명 70% 미만 시 <br/>피해 +10%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만 시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "마샬",
@@ -264,8 +264,8 @@
       "MagicDefRate": 48,
       "Skill": 116,
       "SkillRate": 33,
-      "HeartFetterBouns1": "생명비율이 낮은상대와 <br/>전투시 받는피해 -10%",
-      "HeartFetterBouns2": "생명비율이 낮은상대와 <br/>전투시 입히는피해 +10%"
+      "HeartFetterBouns1": "생명비율이 낮은상대와 <br/>전투시 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "생명비율이 낮은상대와 <br/>전투시 주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -749,7 +749,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/SuperBuff_Light2.webp",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '빛의 군단' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>생명이 80% 이상일 경우 전투 중 주는 피해량 +15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<font color =\"#b8860b\">빛의 군단</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>생명이 <font color=\"red\">80</font>% 이상일 경우 전투 중 주는 피해량 <font color=\"red\">+15</font>%, <br/><font color=\"red\">4</font>턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -869,7 +869,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/엘윈/1.webp",
-      "Desc": "[액티브] 자신에게 '전설의 빛' 효과 부여 :<br/>엘윈 전용 장비 효과 발동 확률을 <font color=\"red\">100%</font>로 조절, 지속 1행동 및 '면역' 효과, 지속 2행동, <br/>사용 후 재행동 <font color=\"red\">3</font>칸 가능,부대가 혼합 병종이 아닐 경우 <font color=\"red\">4</font>칸 재행동<br/>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
+      "Desc": "자신에게 '<font color=\"blue\">전설의 빛</font>' 효과 부여 <br/><font color=\"blue\">전설의 빛</font> : 엘윈 전용 장비 효과 발동 확률을 <font color=\"red\">100</font>%로 조절(지속 <font color=\"red\">1</font>행동) <br/>'<font color=\"blue\">모든 디버프 면역</font>' 효과(지속 <font color=\"red\">2</font>행동), <br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">3</font>칸 가능, <b>부대가 혼합 병종이 아닐 경우</b> <font color=\"red\">4</font>칸 <font color=\"blue\">재행동</font><br/>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
       "SubSkills": null,
       "Animation": null
     },
@@ -883,7 +883,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/엘윈/2.webp",
-      "Desc": "[패시브]아군 퇴각 시 부대 생명 <font color=\"red\">20%</font> 회복 및 고독한 강자 효과 획득.<br/>피격으로 전투 진입 전 생명 회복 <font color=\"red\">30%</font>, <br/>전투 후 피해량 <font color=\"red\">30%</font> 수치만큼 생명 회복, 지속 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브]아군 퇴각 시 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font> 및 <font color=\"blue\">고독한 강자</font> 효과 획득.<br/><font color=\"blue\">고독한 강자</font> : 피격으로 전투 진입 전 <font color=\"green\">생명 회복</font> <font color=\"red\">30</font>%, <br/>전투 후 피해량 <font color=\"red\">30</font>% 수치 만큼 <font color=\"green\">생명 회복</font> <br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -909,7 +909,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/엘윈.webp",
-      "Desc": "[패시브] 전투 시작 및 아군 사망 시 마다 전장에 있는 '<font color =\"#fdee00\">빛의 군단</font>' 아군의 공방 대폭 상승, 전투 중 피해 <font color=\"red\">+15</font>%, <br/>아군 <font color=\"red\">1</font> 명이 사망시마다 추가 <font color=\"red\">+3</font>% (최대 <font color=\"red\">+12</font>%), <br/>지속 <font color=\"red\">4</font>행동 (해당 효과는 다른 초절 효과와 중첩 불가)<br/>[액티브] 단일 개체 <font color=\"red\">1.8</font>배 피해, 전투 전 적 버프 <font color=\"red\">5</font>개 제거 및 적에게 '<font color=\"blue\">패시브 봉인</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동), <br/>전투 후 적에게 '<font color=\"blue\">치료 불가</font>' 부여 (지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>) ",
+      "Desc": "[패시브] 전투 시작 및 아군 사망 시 마다 전장에 있는 '<font color =\"#b8860b\">빛의 군단</font>' 아군의 공방 대폭 상승, <br/>전투 중 피해 <font color=\"red\">+15</font>%, <br/>아군 <font color=\"red\">1</font> 명이 사망시마다 추가 <font color=\"red\">+3</font>% (최대 <font color=\"red\">+12</font>%), <br/>지속 <font color=\"red\">4</font>행동 <br/>(해당 효과는 다른 초절 효과와 중첩 불가)<br/>[액티브] 단일 개체 <font color=\"red\">1.8</font>배 피해, <br/>전투 전 적 버프 <font color=\"red\">5</font>개 제거 및 적에게 '<font color=\"blue\">패시브 봉인</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동), <br/>전투 후 적에게 '<font color=\"blue\">치료 불가</font>' 부여 (지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>) ",
       "SubSkills": null,
       "Animation": "../img/Super/엘윈_Ani.webp",
     }    

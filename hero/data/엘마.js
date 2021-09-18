@@ -8,6 +8,10 @@
     {
       "ImageUrl": "엘마/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "엘마/2_1.webp",
+      "Desc": "빛의 메아리(인겜 전투)"
     }
   ],
   "Name": "엘마",
@@ -93,6 +97,9 @@
         },
         {
           "ImageUrl": "엘마/2/1.webp"
+        },
+        {
+          "ImageUrl": "엘마/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -119,6 +126,9 @@
       "SD": [
         {
           "ImageUrl": "엘마/1/2.webp"
+        },
+        {
+          "ImageUrl": "엘마/2/1.webp"
         },
         {
           "ImageUrl": "엘마/2/1.webp"
@@ -550,7 +560,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <fo%. color=\"red\">+15</fo%.",
+      "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15</font>%",
       "SubSkills": null,
       "Animation": null
     },
@@ -615,7 +625,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Elma/3.webp",
+      "IconImageUrl": "../img/skills/Elma/2.webp",
       "Desc": "단일 부대에 <font color =\"blue\">면역</font> 및 <font color =\"blue\">모든 디버프 반사</font>효과 부여 <br/>피격 후 시전자 지력 <font color =\"red\">1.5</font>배 수치 생명 회복 <br/> 공격자에게 시전자 지력 <font color =\"red\">2</font>배 수치 <font color =\"blue\">고정 피해</font> 부여 <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -644,10 +654,10 @@
       "IconImageUrl": "../img/Super/엘마.webp",
       "Desc": "범위 내 부대 주는 피해량 <font color=\"red\">+15</font>%, 받는 피해량 <font color=\"red\">-15</font>% 효과 부여 <br/>(지속 <font color=\"red\">2</font>행동) <br/> 시전자 지력 <font color=\"red\">3</font>배 수치 <font color=\"blue\">생명 회복</font> 및 자신은 '<font color=\"blue\">성광의 거울</font>' 지휘 효과 획득 <br/>자신 주위 <font color=\"red\">3</font>칸 범위 내 모든 아군에게 <font color=\"blue\">치료 불가</font>면역 <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/엘마_Ani.gif"
+      "Animation": "../img/Super/엘마_Ani.webp"
     }
   ],
-  "Propose": true,
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];
