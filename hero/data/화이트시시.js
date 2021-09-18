@@ -80,8 +80,7 @@
     12,
     23,
     25,
-    43,
-    76
+    43
   ],
   "Jobs": [
     {
@@ -691,7 +690,7 @@
       "Animation": "../img/Super/화이트시시_Ani.webp"
     },
   ],
-  "Propose": true,
+  "Propose": null,
   "Bio": [
       {
         "Entry": "영웅소개",

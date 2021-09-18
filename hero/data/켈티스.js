@@ -20,13 +20,13 @@
     4,
     11
   ],
-  "HP": 40,
+  "HP": 25,
   "SPHP": 0,
-  "Attk": 10,
+  "Attk": 35,
   "SPAttk": 0,
-  "Def": 10,
+  "Def": 20,
   "SPDef": 0,
-  "MagicDef": 40,
+  "MagicDef": 20,
   "SPMagicDef": 0,
   "HowToGet": "영웅 소환",
   "Fetters": [
@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+20</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+20</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+25</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+25</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+30</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+30</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+40</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+40</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         }
       ]
     }
@@ -97,20 +97,20 @@
       "AttkRange": 2,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4737,
-      "HPRate": 79,
-      "Attk": 278,
-      "AttkRate": 43,
-      "Int": 407,
-      "IntRate": 68,
-      "Def": 309,
-      "DefRate": 69,
-      "MagicDef": 387,
-      "MagicDefRate": 86,
-      "Skill": 88,
-      "SkillRate": 25,
-      "HeartFetterBouns1": "'약화효과'가 있는 대상에게 공격받아 전투 진입시 받는피해 -10%",
-      "HeartFetterBouns2": "마법공격을 받아 전투 진입시 입히는피해 +10%"
+      "HP": 4295,
+      "HPRate": 72,
+      "Attk": 269,
+      "AttkRate": 40,
+      "Int": 588,
+      "IntRate": 87,
+      "Def": 270,
+      "DefRate": 54,
+      "MagicDef": 362,
+      "MagicDefRate": 81,
+      "Skill": 112,
+      "SkillRate": 30,
+      "HeartFetterBouns1": "확인중",
+      "HeartFetterBouns2": "확인중"
     },
     {
       "Name": "주술사",
@@ -126,20 +126,20 @@
       "AttkRange": 2,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4096,
-      "HPRate": 68,
-      "Attk": 287,
-      "AttkRate": 44,
-      "Int": 407,
-      "IntRate": 68,
-      "Def": 288,
-      "DefRate": 64,
-      "MagicDef": 377,
-      "MagicDefRate": 84,
-      "Skill": 88,
+      "HP": 3816,
+      "HPRate": 65,
+      "Attk": 269,
+      "AttkRate": 41,
+      "Int": 559,
+      "IntRate": 83,
+      "Def": 250,
+      "DefRate": 56,
+      "MagicDef": 362,
+      "MagicDefRate": 81,
+      "Skill": 86,
       "SkillRate": 25,
-      "HeartFetterBouns1": "원거리 공격을 받아 전투 진입시 받는 물리피해 -10%",
-      "HeartFetterBouns2": "물리공격을 받아 전투 진입시 입히는피해 +10%"
+      "HeartFetterBouns1": "확인중",
+      "HeartFetterBouns2": "확인중"
     }
   ],
   "Materials": {

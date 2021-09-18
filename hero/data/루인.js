@@ -3,8 +3,12 @@
   "Skins": [
     {
       "ImageUrl": "루인/1.webp",
-      "Desc": "기본"
-    }
+      "Desc": "기본"      
+    },
+    {
+      "ImageUrl": "루인/sp.webp",
+      "Desc": "SP 각성"      
+    },
   ],
   "Name": "루인",
   "CV": "하타나카 타스쿠",
@@ -94,8 +98,8 @@
   "Equip": {
     "Name": "고대 성왕의 왕관(투구)",
     "Stats": "생명 583,마방 48",
-    "Icon": "엘윈.webp",
-    "Ability": "방어 <font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위에 아군이 있을 경우, 영웅 피해 <font color=\"red\">+10</font>% <br/><font color =\"#fdee00\">빛의 군단</font> 초절 효과를 받음"
+    "Icon": "루인.webp",
+    "Ability": "방어 <font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위에 아군이 있을 경우, 영웅 피해 <font color=\"red\">+10</font>% <br/><font color =\"#b8860b\">빛의 군단</font> 초절 효과를 받음"
   },
   "Soldiers": [
     24,
@@ -103,8 +107,13 @@
     31,
     34,
     39,
+<<<<<<< HEAD
     75,
-    77
+    77,
+    78
+=======
+    75
+>>>>>>> parent of d27fc314 (3.1주년 Data 2차 작업(입실론,뮤 프로필 추가예정))
   ],
   "Jobs": [
     {
@@ -113,7 +122,11 @@
       "SD": [
         {
           "ImageUrl": "루인/1/1.webp"
+        },
+        {
+          "ImageUrl": "루인/sp/1.webp"
         }
+        
       ],
       "AttkRange": 1,
       "Move": 3,
@@ -132,6 +145,35 @@
       "SkillRate": 39,
       "HeartFetterBouns1": "강화버프 5개이상일 경우 전투시 받는피해 -10%",
       "HeartFetterBouns2": "강화버프 5개이상일 경우 전투시 입히는피해 +10%"
+    },
+    {
+      "Name": "기원의 군왕",
+      "Icon": "Icon_Occupation_MarinesSP.webp",
+      "SD": [
+        {
+          "ImageUrl": "루인/sp/1.webp"
+        },
+        {
+          "ImageUrl": "루인/sp/1.webp"
+        }
+      ],
+      "AttkRange": 1,
+      "Move": 3,
+      "MoveType": "Walk",
+      "HP": "4862",
+      "HPRate": 80,
+      "Attk": "529",
+      "AttkRate": 80,
+      "Int": "233",
+      "IntRate": 39,
+      "Def": "332",
+      "DefRate": 74,
+      "MagicDef": "228",
+      "MagicDefRate": 52,
+      "Skill": "172",
+      "SkillRate": 45,
+      "HeartFetterBouns1": "확인중",
+      "HeartFetterBouns2": "확인중"
     }
   ],
   "Materials": {
@@ -318,7 +360,7 @@
       "Name": "개방",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/AlterEgo_Elwin.webp",
+          "MaterialImgUrl": "../img/item/AlterEgo_Rune.webp",
           "Amount": 1
         }
       ],
@@ -695,7 +737,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/루인.webp",
-      "Desc": "[패시브] '<font color =\"blue\">상처 저주 면역</font>','<font color =\"blue\">치료 반전 면역</font>' <br/>[액티브] 범위 내 적에게 <font color=\"red\">0.36</font>배 피해, 대 마물 특효 <br/>명중한 모든 지형에 '<font color =\"#fdee33\">성결한 대지</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동)<br/><font color =\"#fdee33\">성결한 대지</font> : 적이 해당 위치에서 행동 종료 시 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 제거 및 시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>",
+      "Desc": "[패시브] '<font color =\"blue\">상처 저주 면역</font>','<font color =\"blue\">치료 반전 면역</font>' <br/>[액티브] 범위 내 적에게 <font color=\"red\">0.36</font>배 피해, 대 마물 특효 <br/>명중한 모든 지형에 '<font color =\"#daa520\">성결한 대지</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동)<br/><font color =\"#daa520\">성결한 대지</font> : 적이 해당 위치에서 행동 종료 시 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 제거 및 시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>",
       "SubSkills": null,
       "Animation": "../img/Super/루인_Ani.webp"
     }

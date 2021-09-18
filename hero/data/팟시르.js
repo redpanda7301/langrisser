@@ -71,13 +71,7 @@
     }
   ],
   "SPTalent": null,
-  "Equip": {
-    "Name": "매혹의 면사포(투구)",
-    "Stats": "생명 364,마방 65",
-    "Icon": "팟시르.webp",
-    "Ability": "생명, 마방 +5% <br/>적에게 '비 여성 영웅'이 있을 경우 이동력 <font color=\"red\">+1</font> <br/><b>행동 종료 시</b> 주위 <font color=\"red\">3</font>칸 범위 내에 있는 랜덤한 '비 여성 영웅' <font color=\"red\">1</font>명에게 '<font color =\"purple\">피로</font>' 효과 부여"
-  },
-  
+  "Equip": null,
   "Soldiers": [
     43,
     22,

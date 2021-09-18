@@ -8,6 +8,10 @@
     {
       "ImageUrl": "엘마/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "엘마/2_1.webp",
+      "Desc": "빛의 메아리(인겜 전투)"
     }
   ],
   "Name": "엘마",
@@ -21,11 +25,11 @@
     1,
     11
   ],
-  "HP": 40,
+  "HP": 20,
   "SPHP": 0,
   "Attk": 10,
   "SPAttk": 0,
-  "Def": 10,
+  "Def": 30,
   "SPDef": 0,
   "MagicDef": 40,
   "SPMagicDef": 0,
@@ -93,22 +97,25 @@
         },
         {
           "ImageUrl": "엘마/2/1.webp"
+        },
+        {
+          "ImageUrl": "엘마/2/1.webp"
         }
       ],
       "AttkRange": 2,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 3853,
-      "HPRate": 64,
-      "Attk": 321,
-      "AttkRate": 49,
-      "Int": 408,
-      "IntRate": 68,
-      "Def": 275,
+      "HP": 3595,
+      "HPRate": 67,
+      "Attk": 333,
+      "AttkRate": 50,
+      "Int": 462,
+      "IntRate": 77,
+      "Def": 278,
       "DefRate": 61,
-      "MagicDef": 408,
-      "MagicDefRate": 91,
-      "Skill": 88,
+      "MagicDef": 361,
+      "MagicDefRate": 81,
+      "Skill": 85,
       "SkillRate": 25,
       "HeartFetterBouns1": "확인중",
       "HeartFetterBouns2": "확인중"
@@ -122,23 +129,26 @@
         },
         {
           "ImageUrl": "엘마/2/1.webp"
+        },
+        {
+          "ImageUrl": "엘마/2/1.webp"
         }
       ],
       "AttkRange": 2,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4026,
-      "HPRate": 67,
-      "Attk": 295,
-      "AttkRate": 45,
-      "Int": 443,
-      "IntRate": 74,
-      "Def": 275,
-      "DefRate": 61,
-      "MagicDef": 374,
-      "MagicDefRate": 83,
-      "Skill": 103,
-      "SkillRate": 29,
+      "HP": 3424,
+      "HPRate": 57,
+      "Attk": 333,
+      "AttkRate": 50,
+      "Int": 462,
+      "IntRate": 77,
+      "Def": 256,
+      "DefRate": 57,
+      "MagicDef": 370,
+      "MagicDefRate": 80,
+      "Skill": 85,
+      "SkillRate": 25,
       "HeartFetterBouns1": "확인중",
       "HeartFetterBouns2": "확인중"
     }
@@ -438,7 +448,7 @@
     },
     {
       "Name": "성광 소환",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -450,7 +460,7 @@
         },
         {
           "Label": "사거리",
-          "Value": "2칸"
+          "Value": "7칸"
         },
         {
           "Label": "범위",
@@ -550,7 +560,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <fo%. color=\"red\">+15</fo%.",
+      "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15</font>%",
       "SubSkills": null,
       "Animation": null
     },
@@ -596,7 +606,7 @@
     },
     {
       "Name": "성광의 거울",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -604,18 +614,18 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "2턴"
+          "Value": "7턴"
         },
         {
           "Label": "사거리",
-          "Value": "3칸"
+          "Value": "2칸"
         },
         {
           "Label": "범위",
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Elma/3.webp",
+      "IconImageUrl": "../img/skills/Elma/2.webp",
       "Desc": "단일 부대에 <font color =\"blue\">면역</font> 및 <font color =\"blue\">모든 디버프 반사</font>효과 부여 <br/>피격 후 시전자 지력 <font color =\"red\">1.5</font>배 수치 생명 회복 <br/> 공격자에게 시전자 지력 <font color =\"red\">2</font>배 수치 <font color =\"blue\">고정 피해</font> 부여 <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
@@ -644,10 +654,10 @@
       "IconImageUrl": "../img/Super/엘마.webp",
       "Desc": "범위 내 부대 주는 피해량 <font color=\"red\">+15</font>%, 받는 피해량 <font color=\"red\">-15</font>% 효과 부여 <br/>(지속 <font color=\"red\">2</font>행동) <br/> 시전자 지력 <font color=\"red\">3</font>배 수치 <font color=\"blue\">생명 회복</font> 및 자신은 '<font color=\"blue\">성광의 거울</font>' 지휘 효과 획득 <br/>자신 주위 <font color=\"red\">3</font>칸 범위 내 모든 아군에게 <font color=\"blue\">치료 불가</font>면역 <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/엘마_Ani.gif"
+      "Animation": "../img/Super/엘마_Ani.webp"
     }
   ],
-  "Propose": true,
+  "Propose": false,
   "Bio": null,
   "Performance": null
 }];
