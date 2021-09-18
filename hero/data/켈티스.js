@@ -34,7 +34,7 @@
       "Condition": "켈티스을 출전시켜 시공의 균열 3-6 클리어"
     },
     {
-      "Condition": "켈티스을 단말마의 주인로 전직"
+      "Condition": "켈티스을 단말마의 주인으로 전직"
     },
     {
       "Condition": "리코리스의 도움을 받아 운명의문 4 클리어"
@@ -43,7 +43,7 @@
       "Condition": "팟시르의 도움을 받아 운명의문 5 클리어"
     }
   ],
-  "HeartFetter": "생명+750, 방어+40, 마방+30",
+  "HeartFetter": "생명+750, 방어+40, 마방+40",
   "Talent": [
     {
       "Name": "영혼을 사냥하는 화가",
@@ -85,7 +85,7 @@
   "Jobs": [
     {
       "Name": "단말마의 주인",
-      "Icon": "Icon_Occupation_Magician.webp",
+      "Icon": "Icon_Occupation_Monster.webp",
       "SD": [
         {
           "ImageUrl": "켈티스/1/1.webp"
@@ -96,7 +96,7 @@
       ],
       "AttkRange": 2,
       "Move": 3,
-      "MoveType": "Fly",
+      "MoveType": "Walk",
       "HP": 4737,
       "HPRate": 79,
       "Attk": 278,
@@ -125,7 +125,7 @@
       ],
       "AttkRange": 2,
       "Move": 3,
-      "MoveType": "Fly",
+      "MoveType": "Walk",
       "HP": 4096,
       "HPRate": 68,
       "Attk": 287,
@@ -162,10 +162,10 @@
       "1-4"
     ],
     "Awaken": [
-      "ranka1",
-      "ranka4",
-      "ranka1-1",
-      "ranka4-1"
+      "ranka2",
+      "ranka5",
+      "ranka2-1",
+      "ranka5-1"
     ]
   },
   "ClassUp": [

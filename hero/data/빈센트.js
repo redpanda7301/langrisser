@@ -8,6 +8,10 @@
     {
       "ImageUrl": "빈센트/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "빈센트/3.webp",
+      "Desc": "빛의 메아리"
     }
   ],
   "Name": "빈센트",
@@ -97,6 +101,9 @@
         },
         {
           "ImageUrl": "빈센트/2/1.webp"
+        },
+        {
+          "ImageUrl": "빈센트/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -126,6 +133,9 @@
         },
         {
           "ImageUrl": "빈센트/2/2.webp"
+        },
+        {
+          "ImageUrl": "빈센트/3/1.webp"
         }
       ],
       "AttkRange": 1,

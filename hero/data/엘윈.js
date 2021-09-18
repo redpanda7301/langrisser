@@ -887,6 +887,23 @@
       "SubSkills": null,
       "Animation": null
     }
+    /*
+    ,
+    {
+      "Name": "영원의 빛",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/엘윈/2.webp",
+      "Desc": "[패시브]아군 퇴각 시 부대 생명 <font color=\"red\">20%</font> 회복 및 고독한 강자 효과 획득.<br/>피격으로 전투 진입 전 생명 회복 <font color=\"red\">30%</font>, <br/>전투 후 피해량 <font color=\"red\">30%</font> 수치만큼 생명 회복, 지속 <font color=\"red\">1</font>행동",
+      "SubSkills": null,
+      "Animation": null
+    }
+    */
   ],
   "Propose": false,
   "Bio": [

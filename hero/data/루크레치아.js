@@ -680,7 +680,7 @@
       "Animation": "../img/Super/루크레치아_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

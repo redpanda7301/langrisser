@@ -4,6 +4,10 @@
     {
       "ImageUrl": "알프레드/1.webp",
       "Desc": "기본"
+    },
+    {
+      "ImageUrl": "알프레드/2.webp",
+      "Desc": "서밋아레나 S10 골드스킨 "
     }
   ],
   "Name": "알프레드",
@@ -90,6 +94,9 @@
       "SD": [
         {
           "ImageUrl": "알프레드/1/1.webp"
+        },
+        {
+          "ImageUrl": "알프레드/2/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -116,6 +123,9 @@
       "SD": [
         {
           "ImageUrl": "알프레드/1/2.webp"
+        },
+        {
+          "ImageUrl": "알프레드/2/2.webp"
         }
       ],
       "AttkRange": 1,

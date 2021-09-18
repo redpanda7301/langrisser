@@ -8,6 +8,10 @@
     {
       "ImageUrl": "탄생의빛/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "탄생의빛/3.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "탄생의빛",
@@ -92,7 +96,10 @@
         },
         {
           "ImageUrl": "탄생의빛/2/1.webp"
-        }
+        },
+        {
+          "ImageUrl": "탄생의빛/3/1.webp"
+        }        
       ],
       "AttkRange": 2,
       "Move": 3,
@@ -121,6 +128,9 @@
         },
         {
           "ImageUrl": "탄생의빛/2/1.webp"
+        },
+        {
+          "ImageUrl": "탄생의빛/3/1.webp"
         }
       ],
       "AttkRange": 2,

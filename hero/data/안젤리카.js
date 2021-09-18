@@ -597,63 +597,56 @@
       ],
       "IconImageUrl": "../img/skills/Skill_Angelica2.webp",
       "Desc": "액티브 스킬. 아래 3가지중 하나를 선택하여 사용한다",
-      "SubSkills": null,
+      "SubSkills": [    
+          {
+            "Name": "<b><font color=\"#ff8c00\">재구성 - 보병</font></b>",
+            "Entries": null,
+            "IconImageUrl": "../img/skills/Skill_Angelica3.webp",
+            "Desc": "아군  <font color=\"red\">1</font> 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font> 및 <font color =\"blue\">모든 디버프 제거</font>, <br/>추가로 '<font color=\"blue\">장갑 파괴</font>'를  부여한다.<br/><font color=\"blue\">장갑 파괴</font> : [패시브] 전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%, <font color=\"red\">-20</font> <font color=\"red\">1</font>턴 지속. <br/> 해당 효과 부여 지속 <font color=\"red\">2</font>행동 <br/><font color=\"red\">영웅</font> 병종을 보병이 된다. <br/>지속 <font color=\"red\">1</font>턴"
+          },
+          {
+            "Name": "<b><font color=\"#ff8c00\">재구성 - 창병</font></b>",
+            "Entries": null,
+            "IconImageUrl": "../img/skills/Skill_Angelica4.webp",
+            "Desc": "아군  <font color=\"red\">1</font> 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font> 및 <font color =\"blue\">모든 디버프 제거</font>, <br/>추가로 '<font color=\"green\">재생</font>'을 부여한다.<br/><font color=\"green\">재생</font> : [지원] 전투 후 생명을 <font color=\"red\">10</font>% <font color=\"green\">회복</font> 하게한다. <br/>지속 <font color=\"red\">2</font>행동 <br/><font color=\"red\">영웅</font> 병종을 창병이 된다. <br/>지속 <font color=\"red\">1</font>턴"
+          },
+          {
+            "Name": "<b><font color=\"#ff8c00\">재구성 - 기병</font></b>",
+            "Entries": null,
+            "IconImageUrl": "../img/skills/Skill_Angelica5.webp",
+            "Desc": "아군  <font color=\"red\">1</font> 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font> 및 <font color =\"blue\">모든 디버프 제거</font>, <br/>추가로 '<font color=\"purple\">폭풍</font>'을 부여한다.<br/><font color=\"purple\">폭풍</font> : [패시브]공격하여 전투 진입 시 부대 생명이 <font color=\"red\">80</font>% 이상 이라면<br/>전투 중 받는 피해량 <font color=\"red\">-30</font>% <br/>지속 <font color=\"red\">2</font>행동 <br/><font color=\"red\">영웅</font> 병종을 기병이 된다. <br/>지속 <font color=\"red\">1</font>턴"
+          }
+      ],
       "Animation": null
-    },
+    }
+    /*
     {
-      "Name": "지원",
+      "Name": "절대 확신 방사선",
       "Cost": null,
       "Entries": [
         {
+          "Label": "유형",
+          "Value": "치료"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3"
+        },
+        {
           "Label": "사거리",
-          "Value": "2칸"
+          "Value": "3칸"
         },
         {
           "Label": "범위",
-          "Value": "단일"
+          "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Angelica3.webp",
-      "Desc": "아군  <font color=\"red\">1</font>명 부대 생명 <font color=\"red\">100%</font> 회복 및 모든 디버프 제거, <br/>목표는 '갑옷 파괴' 스킬 획득, 지속 <font color=\"red\">2</font>행동 :<br/>전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%, <font color=\"red\">1</font>턴 지속.<br/><font color=\"red\">영웅</font> 병종을 보병으로 변경, 지속 <font color=\"red\">1</font>행동",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "지원",
-      "Cost": null,
-      "Entries": [
-        {
-          "Label": "사거리",
-          "Value": "2칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Skill_Angelica4.webp",
-      "Desc": "아군  <font color=\"red\">1</font>명 부대 생명 <font color=\"red\">100%</font> 회복 및 모든 디버프 제거, <br/>목표는 '재생' 스킬 획득, 지속 <font color=\"red\">2</font>행동 :<br/>전투 후 생명을 <font color=\"red\">10</font>% 회복한다. 2턴지속<br/><font color=\"red\">영웅</font> 병종을 창병으로 변경, 지속 <font color=\"red\">1</font>행동",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "지원",
-      "Cost": null,
-      "Entries": [
-        {
-          "Label": "사거리",
-          "Value": "2칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Skill_Angelica5.webp",
-      "Desc": "아군  <font color=\"red\">1</font>명 부대 생명 <font color=\"red\">100%</font> 회복 및 모든 디버프 제거, <br/>목표는 '폭풍' 스킬 획득, 지속 <font color=\"red\">2</font>행동 :<br/>공격하여 전투 진입 시 부대 생명이 <font color=\"red\">80</font>% 이상이라면 <br/>전투 중 받는 피해량 <font color=\"red\">-30</font>%.<br/><font color=\"red\">영웅</font> 병종을 기병으로 변경, 지속 <font color=\"red\">1</font>행동",
+      "IconImageUrl": "../img/Super/안젤리카.webp",
+      "Desc": "범위 내 다수 부대에게 시전자 지력  <font color=\"red\">3</font>배 수치 <font color=\"green\">생명 회복</font> 및 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 제거, <br/>사용 후 <font color=\"red\">50</font>% 확률로 해당 스킬 쿨타임 <font color=\"red\">-1</font> <br/><font color=\"blue\">치료 방사선</font>은 부작용이 발생 할 수 있다.<br/>- <font color=\"red\">50</font>확률로 이하 부작용 중 하나 발생 <br/><font color=\"blue\">영체화</font> : <font color=\"blue\">야전</font> 효과 및 적 통과 가능, 지속 <font color=\"red\">1</font>행동<br/>- <font color=\"blue\">거대화</font> : 주는 피해량 <font color=\"red\">+10</font>%, 받는 피해량 <font color=\"red\">+5</font>%, 지속 <font color=\"red\">1</font>행동<br/>- <font color=\"blue\">소형화</font> : 주는 피해량 <font color=\"red\">-5</font>%, 받는 범위 피해량 <font color=\"red\">-10</font>%, 지속 <font color=\"red\">1</font>행동<br/>- <font color=\"blue\">강체화</font> : <font color=\"blue\">위치 이동 불가</font>, 지속 <font color=\"red\">1</font>행동(타 영웅이 주는 위치 이동 효과)",
       "SubSkills": null,
       "Animation": null
     }
+    */
   ],
   "Propose": true,
   "Bio": [

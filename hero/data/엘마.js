@@ -32,10 +32,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "엘마를 출전시켜 시공의 균열 3-6 클리어"
+      "Condition": "엘마를 출전시켜 아레나 5승 달성"
     },
     {
-      "Condition": "엘마를 프로핏으로 전직"
+      "Condition": "엘마를 출전시켜 시공의 균열 3-1(정예) 클리어"
     },
     {
       "Condition": "아레스의 도움 받아 유대의문 4 클리어"
@@ -44,7 +44,7 @@
       "Condition": "탄생의빛 도움을 받아 유대의문 5 클리어"
     }
   ],
-  "HeartFetter": "생명+650, 방어+40, 마방+50",
+  "HeartFetter": "생명+400, 방어+30, 마방+30",
   "Talent": [
     {
       "Name": "성스러운 불의 칭송자",
@@ -110,8 +110,8 @@
       "MagicDefRate": 91,
       "Skill": 88,
       "SkillRate": 25,
-      "HeartFetterBouns1": "부대생명이 <font color=\"red\">50</font>% 이하일때 <br/>받는 피해량<font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "공격하여 전투진입시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "확인중",
+      "HeartFetterBouns2": "확인중"
     },
     {
       "Name": "성자",
@@ -139,28 +139,28 @@
       "MagicDefRate": 83,
       "Skill": 103,
       "SkillRate": 29,
-      "HeartFetterBouns1": "원거리 공격을 받아 전투진입시 <br/>받는 마법피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "물리 공격을 받아 전투진입시 <br/>주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "확인중",
+      "HeartFetterBouns2": "확인중"
     }
   ],
   "Materials": {
     "HeartFetter": [
-      "h2",
       "h3",
-      "h1",
       "h4",
-      "h2-1",
+      "h2",
+      "h1",
       "h3-1",
-      "h1-1",
       "h4-1",
+      "h2-1",
+      "h1-1",
       "x"
     ],
     "Fetter": [
-      "3",
-      "3-1",
-      "3-2",
-      "3-3",
-      "3-4"
+      "6",
+      "6-1",
+      "6-2",
+      "6-3",
+      "6-4"
     ],
     "Awaken": [
       "ranka1",
@@ -386,7 +386,7 @@
           "Value": "-"
         }
       ],
-      "IconImageUrl": "../img/ability/Gift_Elma1.webp",
+      "IconImageUrl": "../img/skills/Elma/0.webp",
       "Desc": "<b>이동 및 공격 불가</b>, <font color=\"blue\">모든 디버프 면역</font> <br/>주위 <font color=\"red\">3</font>칸 범위 안 모든 아군에게 <font color=\"blue\">받는 마법 피해</font> <font color=\"red\">-20</font>%",
       "SubSkills":[
         {
@@ -615,7 +615,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Elma/2.webp",
+      "IconImageUrl": "../img/skills/Elma/3.webp",
       "Desc": "단일 부대에 <font color =\"blue\">면역</font> 및 <font color =\"blue\">모든 디버프 반사</font>효과 부여 <br/>피격 후 시전자 지력 <font color =\"red\">1.5</font>배 수치 생명 회복 <br/> 공격자에게 시전자 지력 <font color =\"red\">2</font>배 수치 <font color =\"blue\">고정 피해</font> 부여 <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
