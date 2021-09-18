@@ -690,7 +690,7 @@
       "Animation": "../img/Super/화이트시시_Ani.webp"
     },
   ],
-  "Propose": null,
+  "Propose": true,
   "Bio": [
       {
         "Entry": "영웅소개",

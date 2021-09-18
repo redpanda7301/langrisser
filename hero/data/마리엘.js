@@ -75,7 +75,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "성스러운 프레일(무기)",
+    "Stats": "생명 583,공격 85",
+    "Icon": "마리엘.webp",
+    "Ability": "공격 <font color=\"red\">+10</font>%<br/><font color=\"purple\">계율</font>보유 시 스킬 사용 후 스킬 쿨타임 <font color=\"red\">-1</font><br/><font color=\"purple\">계율</font> 미보유 시 영웅이 주는 피해량 <font color=\"red\">+10</font>%<br/>쿨타임 <font color=\"red\">2</font>턴"
+  },
   "Soldiers": [
     31,
     20,

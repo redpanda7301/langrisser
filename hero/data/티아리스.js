@@ -625,6 +625,32 @@
       "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
+    },
+    {
+      "Name": "진격의 송가",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "9턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
+      "IconImageUrl": "../img/Super/티아리스.webp",
+      "Desc": "범위 내 모든 아군 이동력 <font color=\"red\">+1</font>, 공격,지력<font color=\"red\">+15</font>% <br/>선공으로 전투 진입 시 피해량 <font color=\"red\">+30</font>%, 받는 피해량 <font color=\"red\">-50</font>%, <font color=\"green\">받는 반사 피해량</font> <font color=\"red\">-30</font>%<br/><font color=\"blue\">공격, 지력 감소 면역</font> 부여 <br/>지속 <font color=\"red\">2</font>행동",
+      "SubSkills": null,
+      "Animation": "../img/Super/티아리스_Ani.webp"
     }
   ],
   "Propose": true,
