@@ -21,11 +21,11 @@
     1,
     11
   ],
-  "HP": 40,
+  "HP": 20,
   "SPHP": 0,
   "Attk": 10,
   "SPAttk": 0,
-  "Def": 10,
+  "Def": 30,
   "SPDef": 0,
   "MagicDef": 40,
   "SPMagicDef": 0,
@@ -98,17 +98,17 @@
       "AttkRange": 2,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 3853,
-      "HPRate": 64,
-      "Attk": 321,
-      "AttkRate": 49,
-      "Int": 408,
-      "IntRate": 68,
-      "Def": 275,
+      "HP": 3595,
+      "HPRate": 67,
+      "Attk": 333,
+      "AttkRate": 50,
+      "Int": 462,
+      "IntRate": 77,
+      "Def": 278,
       "DefRate": 61,
-      "MagicDef": 408,
-      "MagicDefRate": 91,
-      "Skill": 88,
+      "MagicDef": 361,
+      "MagicDefRate": 81,
+      "Skill": 85,
       "SkillRate": 25,
       "HeartFetterBouns1": "확인중",
       "HeartFetterBouns2": "확인중"
@@ -127,18 +127,18 @@
       "AttkRange": 2,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4026,
-      "HPRate": 67,
-      "Attk": 295,
-      "AttkRate": 45,
-      "Int": 443,
-      "IntRate": 74,
-      "Def": 275,
-      "DefRate": 61,
-      "MagicDef": 374,
-      "MagicDefRate": 83,
-      "Skill": 103,
-      "SkillRate": 29,
+      "HP": 3424,
+      "HPRate": 57,
+      "Attk": 333,
+      "AttkRate": 50,
+      "Int": 462,
+      "IntRate": 77,
+      "Def": 256,
+      "DefRate": 57,
+      "MagicDef": 370,
+      "MagicDefRate": 80,
+      "Skill": 85,
+      "SkillRate": 25,
       "HeartFetterBouns1": "확인중",
       "HeartFetterBouns2": "확인중"
     }
@@ -438,7 +438,7 @@
     },
     {
       "Name": "성광 소환",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -450,7 +450,7 @@
         },
         {
           "Label": "사거리",
-          "Value": "2칸"
+          "Value": "7칸"
         },
         {
           "Label": "범위",
@@ -596,7 +596,7 @@
     },
     {
       "Name": "성광의 거울",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -604,11 +604,11 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "2턴"
+          "Value": "7턴"
         },
         {
           "Label": "사거리",
-          "Value": "3칸"
+          "Value": "2칸"
         },
         {
           "Label": "범위",

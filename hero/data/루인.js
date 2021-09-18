@@ -3,8 +3,12 @@
   "Skins": [
     {
       "ImageUrl": "루인/1.webp",
-      "Desc": "기본"
-    }
+      "Desc": "기본"      
+    },
+    {
+      "ImageUrl": "루인/sp.webp",
+      "Desc": "SP 각성"      
+    },
   ],
   "Name": "루인",
   "CV": "하타나카 타스쿠",
@@ -65,8 +69,38 @@
       ]
     }
   ],
-  "SPTalent": null,
-  "Equip": null,
+  "SPTalent": [
+    {
+      "Name": "빛의 선조",
+      "Icon": "SP_Gift_Rune.webp",
+      "Abilities": [
+        {
+          "Desc": "1성"
+        },
+        {
+          "Desc": "공격 및 방어 <font color=\"red\">+5</font>%<br/><b>전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+        },
+        {
+          "Desc": "공격 및 방어 <font color=\"red\">+10</font>%<br/><b>전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+        },
+        {
+          "Desc": "공격 및 방어 <font color=\"red\">+15</font>%<br/><b>전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+        },
+        {
+          "Desc": "공격 및 방어 <font color=\"red\">+20</font>%<br/><b>전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+        },
+        {
+          "Desc": "공격 및 방어 <font color=\"red\">+30</font>%<br/><b>전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+        }
+      ]
+    }
+  ],
+  "Equip": {
+    "Name": "고대 성왕의 왕관(투구)",
+    "Stats": "생명 583,마방 48",
+    "Icon": "엘윈.webp",
+    "Ability": "방어 <font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위에 아군이 있을 경우, 영웅 피해 <font color=\"red\">+10</font>% <br/><font color =\"#fdee00\">빛의 군단</font> 초절 효과를 받음"
+  },
   "Soldiers": [
     24,
     25,
@@ -74,7 +108,8 @@
     34,
     39,
     75,
-    77
+    77,
+    78
   ],
   "Jobs": [
     {
@@ -83,7 +118,11 @@
       "SD": [
         {
           "ImageUrl": "루인/1/1.webp"
+        },
+        {
+          "ImageUrl": "루인/sp/1.webp"
         }
+        
       ],
       "AttkRange": 1,
       "Move": 3,
@@ -102,6 +141,35 @@
       "SkillRate": 39,
       "HeartFetterBouns1": "강화버프 5개이상일 경우 전투시 받는피해 -10%",
       "HeartFetterBouns2": "강화버프 5개이상일 경우 전투시 입히는피해 +10%"
+    },
+    {
+      "Name": "기원의 군왕",
+      "Icon": "Icon_Occupation_MarinesSP.webp",
+      "SD": [
+        {
+          "ImageUrl": "루인/sp/1.webp"
+        },
+        {
+          "ImageUrl": "루인/sp/1.webp"
+        }
+      ],
+      "AttkRange": 1,
+      "Move": 3,
+      "MoveType": "Walk",
+      "HP": "4862",
+      "HPRate": 80,
+      "Attk": "529",
+      "AttkRate": 80,
+      "Int": "233",
+      "IntRate": 39,
+      "Def": "332",
+      "DefRate": 74,
+      "MagicDef": "228",
+      "MagicDefRate": 52,
+      "Skill": "172",
+      "SkillRate": 45,
+      "HeartFetterBouns1": "확인중",
+      "HeartFetterBouns2": "확인중"
     }
   ],
   "Materials": {
@@ -283,7 +351,178 @@
       ]
     }
   ],
-  "SPOpenConditions": null,
+  "SPOpenConditions": [
+    {
+      "Name": "개방",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/AlterEgo_Elwin.webp",
+          "Amount": 1
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank8-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank7-2.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank6-1.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 미션",
+      "Materials": [],
+      "Desc": "루인을 파티에 넣어 형귀 바란(창병) 60 이상 클리어"
+    },
+    {
+      "Name": "2단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "2단계 미션",
+      "Materials": [],
+      "Desc": "고대 성왕의 왕관(투구) 레벨 50 달성"
+    },
+    {
+      "Name": "3단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
+          "Amount": 2
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "3단계 미션",
+      "Materials": [],
+      "Desc": "루인을 파티에 넣어 뇌룡 카르코사 60 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "기원의 군왕 전직 가능, 빛의 선조(SP 고유기), SP 일러스트 획득"
+    },
+    {
+      "Name": "4단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h3.webp",
+          "Amount": 60
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h3-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/heart/x.webp",
+          "Amount": 12
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "4단계 미션",
+      "Materials": [],
+      "Desc": "루인을 파티에 넣어 형귀 샘슨(기병) 65 이상 클리어"
+    },
+    {
+      "Name": "5단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "5단계 미션",
+      "Materials": [],
+      "Desc": "루인을 파티에 넣어 뇌룡 카르코사 65 이상 클리어"
+    },
+    {
+      "Name": "6단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+          "Amount": 600
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior1.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior2.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior4.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "6단계 미션",
+      "Materials": [],
+      "Desc": "루인을 파티에 넣어 발키리 65 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "SP 스탯, SP 스킬 2개 활성화, 사막용병 고용가능"
+    }
+  ],
   "Skills": [
     {
       "Name": "힘의 외침",
@@ -406,6 +645,97 @@
       "Desc": "[패시브]공격하여 전투 진입 시 부대 생명이 80% 이상이라면<br/>전투 중 받는 피해량-30%.",
       "SubSkills": null,
       "Animation": null
+    },
+    {
+      "Name": "SP : 빛의 심판",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/루인/1.webp",
+      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해 대 마물 특효 <br/>전투 전 적 <font color=\"blue\">버프</font> 제거 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>% 효과 부여 <br/>지속 <font color=\"red\">2</font>, <b>해제 불가</b> <br/>전투 후 자신 주위 <font color=\"red\">2</font>칸 범위 내 모든 아군 생명 공격 <font color=\"red\">2</font>배 수치로 <font color =\"green\">회복</font>",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 빛의 성유",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/루인/2.webp",
+      "Desc": "[패시브]'<font color=\"blue\">정벌</font>'효과를 보유한 적 혹은 '<font color=\"blue\">대피</font>' 효과를 보유한 아군이 있을 시, 자신 부대 이동력 <font color=\"red\">+2</font> <br/>이하 스킬 중 택일",
+      "SubSkills":[
+        {
+          "Name": "<b><font color=\"#ff8c00\">성유 - 정벌</font></b>",
+          "Entries": null,
+          "IconImageUrl": "../img/skills/sp/루인/2_1.webp",
+          "Desc": "[액티브]적 <font color=\"red\">1</font>명에게 '<font color=\"blue\">정벌</font>' 효과 부여 <br/><font color=\"blue\">정벌</font> : <font color=\"red\">2</font>칸 범위 내에 있는 시전자 아군의 공격, 지력 <font color=\"red\">+10</font>%<br/>지속 <font color=\"red\">3</font>행동<br/>아군이 '<font color=\"blue\">정벌</font>' 대상을 <b>선공 시</b> 전투 진입 전 적 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 제거 및 <br/>해당 목표 격파 시 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font>"
+        },
+        {
+          "Name": "<b><font color=\"#ff8c00\">성유 - 대피</font></b>",
+          "Entries": null,
+          "IconImageUrl": "../img/skills/sp/루인/2_2.webp",
+          "Desc": "[액티브] 아군 <font color=\"red\">1</font>명에게 '<font color=\"blue\">대피</font>' 효과 부여, <br/><font color=\"blue\">대피</font> : <b><font color =\"blue\">일반 공격</font> 및 <font color=\"blue\">액티브 스킬</font>사용 불가</b>(<font color=\"red\">디메리트</font>) <br/>피격으로 전투 진입 전 시전자 공격 <font color=\"red\">3</font>배 수치 <font color=\"green\">생명 회복</font> <br/>지속 <font color=\"red\">1</font> 행동"
+        },
+      ],
+      "Animation": null
+    },
+    {
+      "Name": "성혼의 분노",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "4칸"
+        }
+      ],
+      "IconImageUrl": "../img/Super/루인.webp",
+      "Desc": "[패시브] '<font color =\"blue\">상처 저주 면역</font>','<font color =\"blue\">치료 반전 면역</font>' <br/>[액티브] 범위 내 적에게 <font color=\"red\">0.36</font>배 피해, 대 마물 특효 <br/>명중한 모든 지형에 '<font color =\"#fdee33\">성결한 대지</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동)<br/><font color =\"#fdee33\">성결한 대지</font> : 적이 해당 위치에서 행동 종료 시 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 제거 및 시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>",
+      "SubSkills": null,
+      "Animation": "../img/Super/루인_Ani.webp"
     }
   ],
   "Propose": false,

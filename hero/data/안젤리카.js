@@ -619,7 +619,6 @@
       ],
       "Animation": null
     }
-    /*
     {
       "Name": "절대 확신 방사선",
       "Cost": null,
@@ -630,7 +629,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "3"
+          "Value": "1턴"
         },
         {
           "Label": "사거리",
@@ -638,15 +637,14 @@
         },
         {
           "Label": "범위",
-          "Value": "3칸"
+          "Value": "4칸"
         }
       ],
       "IconImageUrl": "../img/Super/안젤리카.webp",
       "Desc": "범위 내 다수 부대에게 시전자 지력  <font color=\"red\">3</font>배 수치 <font color=\"green\">생명 회복</font> 및 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 제거, <br/>사용 후 <font color=\"red\">50</font>% 확률로 해당 스킬 쿨타임 <font color=\"red\">-1</font> <br/><font color=\"blue\">치료 방사선</font>은 부작용이 발생 할 수 있다.<br/>- <font color=\"red\">50</font>확률로 이하 부작용 중 하나 발생 <br/><font color=\"blue\">영체화</font> : <font color=\"blue\">야전</font> 효과 및 적 통과 가능, 지속 <font color=\"red\">1</font>행동<br/>- <font color=\"blue\">거대화</font> : 주는 피해량 <font color=\"red\">+10</font>%, 받는 피해량 <font color=\"red\">+5</font>%, 지속 <font color=\"red\">1</font>행동<br/>- <font color=\"blue\">소형화</font> : 주는 피해량 <font color=\"red\">-5</font>%, 받는 범위 피해량 <font color=\"red\">-10</font>%, 지속 <font color=\"red\">1</font>행동<br/>- <font color=\"blue\">강체화</font> : <font color=\"blue\">위치 이동 불가</font>, 지속 <font color=\"red\">1</font>행동(타 영웅이 주는 위치 이동 효과)",
       "SubSkills": null,
-      "Animation": null
+      "Animation": "../img/Super/안젤리카_Ani.webp",
     }
-    */
   ],
   "Propose": true,
   "Bio": [

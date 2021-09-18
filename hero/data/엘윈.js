@@ -886,24 +886,33 @@
       "Desc": "[패시브]아군 퇴각 시 부대 생명 <font color=\"red\">20%</font> 회복 및 고독한 강자 효과 획득.<br/>피격으로 전투 진입 전 생명 회복 <font color=\"red\">30%</font>, <br/>전투 후 피해량 <font color=\"red\">30%</font> 수치만큼 생명 회복, 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
-    }
-    /*
-    ,
+    },
     {
       "Name": "영원의 빛",
-      "Cost": "COST 1",
+      "Cost": "COST 3",
       "Entries": [
         {
           "Label": "유형",
-          "Value": "패시브"
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/sp/엘윈/2.webp",
-      "Desc": "[패시브]아군 퇴각 시 부대 생명 <font color=\"red\">20%</font> 회복 및 고독한 강자 효과 획득.<br/>피격으로 전투 진입 전 생명 회복 <font color=\"red\">30%</font>, <br/>전투 후 피해량 <font color=\"red\">30%</font> 수치만큼 생명 회복, 지속 <font color=\"red\">1</font>행동",
+      "IconImageUrl": "../img/Super/엘윈.webp",
+      "Desc": "[패시브] 전투 시작 및 아군 사망 시 마다 전장에 있는 '<font color =\"#fdee00\">빛의 군단</font>' 아군의 공방 대폭 상승, 전투 중 피해 <font color=\"red\">+15</font>%, <br/>아군 <font color=\"red\">1</font> 명이 사망시마다 추가 <font color=\"red\">+3</font>% (최대 <font color=\"red\">+12</font>%), <br/>지속 <font color=\"red\">4</font>행동 (해당 효과는 다른 초절 효과와 중첩 불가)<br/>[액티브] 단일 개체 <font color=\"red\">1.8</font>배 피해, 전투 전 적 버프 <font color=\"red\">5</font>개 제거 및 적에게 '<font color=\"blue\">패시브 봉인</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동), <br/>전투 후 적에게 '<font color=\"blue\">치료 불가</font>' 부여 (지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>) ",
       "SubSkills": null,
-      "Animation": null
-    }
-    */
+      "Animation": "../img/Super/엘윈_Ani.webp",
+    }    
   ],
   "Propose": false,
   "Bio": [
