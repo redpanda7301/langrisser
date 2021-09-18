@@ -403,7 +403,7 @@
           "Name": "<b><font color=\"#ff8c00\">강림</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/skills/Elma/0_1.webp",
-          "Desc": "[액티브] <b>소환자의 곁에</b> <font color=\"blue\">텔레포트</font>%"
+          "Desc": "[액티브] <b>소환자의 곁에</b> <font color=\"blue\">텔레포트</font>"
         },
         {
           "Name": "<b><font color=\"#ff8c00\">등불의 보호</font></b>",
