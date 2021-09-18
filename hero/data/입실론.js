@@ -72,12 +72,16 @@
     }
   ],
   "SPTalent": null,
+<<<<<<< HEAD
   "Equip": {
     "Name": "소멸 - 개 -(무기)",
     "Stats": "생명 437,공격 107",
     "Icon": "입실론.webp",
     "Ability": "공격 <font color=\"red\">+10</font>%<br/>부대 병종 상성 무시<br/>적 사망 시 자신에게 걸린 디버프 <font color=\"red\">1</font>개 제거, 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font> 및 <br/> '<font color=\"blue\">마검의 장벽</font>' 효과 획득 <br/><font color=\"blue\">마검의 장벽</font> : 다음에 부대가 받는 피해 <font color=\"red\">-80</font>% <br/>(쿨타임 <font color=\"red\">1</font> 행동)"
   },
+=======
+  "Equip": null,
+>>>>>>> parent of f0f6aea8 (2차 작업 완료)
   "Soldiers": [
     31,
     28,
