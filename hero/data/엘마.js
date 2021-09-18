@@ -89,6 +89,38 @@
   ],
   "Jobs": [
     {
+      "Name": "성자",
+      "Icon": "Icon_Occupation_Monk.webp",
+      "SD": [
+        {
+          "ImageUrl": "엘마/1/2.webp"
+        },
+        {
+          "ImageUrl": "엘마/2/1.webp"
+        },
+        {
+          "ImageUrl": "엘마/2/1.webp"
+        }
+      ],
+      "AttkRange": 2,
+      "Move": 3,
+      "MoveType": "Walk",
+      "HP": 3595,
+      "HPRate": 59,
+      "Attk": 333,
+      "AttkRate": 50,
+      "Int": 462,
+      "IntRate": 77,
+      "Def": 256,
+      "DefRate": 57,
+      "MagicDef": 370,
+      "MagicDefRate": 80,
+      "Skill": 85,
+      "SkillRate": 25,
+      "HeartFetterBouns1": "확인중",
+      "HeartFetterBouns2": "확인중"
+    },
+    {
       "Name": "신탁 사제",
       "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
@@ -115,38 +147,6 @@
       "DefRate": 61,
       "MagicDef": 361,
       "MagicDefRate": 81,
-      "Skill": 85,
-      "SkillRate": 25,
-      "HeartFetterBouns1": "확인중",
-      "HeartFetterBouns2": "확인중"
-    },
-    {
-      "Name": "성자",
-      "Icon": "Icon_Occupation_Monk.webp",
-      "SD": [
-        {
-          "ImageUrl": "엘마/1/2.webp"
-        },
-        {
-          "ImageUrl": "엘마/2/1.webp"
-        },
-        {
-          "ImageUrl": "엘마/2/1.webp"
-        }
-      ],
-      "AttkRange": 2,
-      "Move": 3,
-      "MoveType": "Walk",
-      "HP": 3424,
-      "HPRate": 57,
-      "Attk": 333,
-      "AttkRate": 50,
-      "Int": 462,
-      "IntRate": 77,
-      "Def": 256,
-      "DefRate": 57,
-      "MagicDef": 370,
-      "MagicDefRate": 80,
       "Skill": 85,
       "SkillRate": 25,
       "HeartFetterBouns1": "확인중",
@@ -198,7 +198,38 @@
       ]
     },
     {
-      "ClassTitle": "빛의 검사 : 마방+8, 생명+48",
+      "ClassTitle": "빛의 검사 : 공격+12, 생명+48",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-1",
+            "rank1-4",
+            "rank1-1"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank3-4",
+            "rank3-1",
+            "rank2-5",
+            "rank2-1"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-1",
+            "rank4-5",
+            "rank3-4",
+            "rank3-1"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "성도 : 마방+8, 지력+7",
       "Tiers": [
         {
           "Name": "T1",
@@ -211,19 +242,60 @@
         {
           "Name": "T2",
           "Materials": [
-            "rank3-4",
             "rank3-5",
-            "rank2-5",
-            "rank2-4"
+            "rank3-6",
+            "rank2-4",
+            "rank2-5"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [  
+            "rank4-4",
+            "rank4-5",
+            "rank3-5",
+            "rank3-6"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "성자 : 생명+90, 마방+10, 지력+25",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank5-5",
+            "rank5-4",
+            "rank4-4",
+            "rank4-5"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank6-8",
+            "rank6-7",
+            "rank5-5",
+            "rank5-4"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank4-5",
-            "rank4-4",
-            "rank3-4",
-            "rank3-5"
+            "rank7-6",
+            "rank7-5",
+            "rank6-8",
+            "rank6-7"
+          ]
+        },
+        {
+          "Name": "T4",
+          "Materials": [
+            "rank8-6",
+            "rank8-4",
+            "rank7-4",
+            "rank7-5"
           ]
         }
       ]
@@ -242,78 +314,6 @@
         {
           "Name": "T2",
           "Materials": [
-            "rank3-4",
-            "rank3-5",
-            "rank2-5",
-            "rank2-4"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank4-5",
-            "rank4-4",
-            "rank3-4",
-            "rank3-5"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "신탁 사제 : 생명+90, 방어+10, 지력+25",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank5-4",
-            "rank5-5",
-            "rank4-5",
-            "rank4-4"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank6-8",
-            "rank6-7",
-            "rank5-4",
-            "rank5-5"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank7-5",
-            "rank7-6",
-            "rank6-8",
-            "rank6-7"
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-            "rank8-6",
-            "rank8-4",
-            "rank7-5",
-            "rank7-6"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "성도 : 생명+80, 방어+5",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank2-4",
-            "rank1-5",
-            "rank1-4"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
             "rank3-5",
             "rank3-6",
             "rank2-4",
@@ -322,7 +322,7 @@
         },
         {
           "Name": "T3",
-          "Materials": [
+          "Materials": [  
             "rank4-4",
             "rank4-5",
             "rank3-5",
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "ClassTitle": "성자 : 생명+150, 방어+10, 마방+10",
+      "ClassTitle": "신탁 사제 : 생명+90, 마방+16, 지력+15",
       "Tiers": [
         {
           "Name": "T1",
@@ -346,8 +346,8 @@
         {
           "Name": "T2",
           "Materials": [
+            "rank6-8",
             "rank6-7",
-            "rank6-5",
             "rank5-5",
             "rank5-4"
           ]
@@ -357,17 +357,17 @@
           "Materials": [
             "rank7-6",
             "rank7-5",
-            "rank6-7",
-            "rank6-5"
+            "rank6-8",
+            "rank6-7"
           ]
         },
         {
           "Name": "T4",
           "Materials": [
+            "rank8-6",
             "rank8-4",
-            "rank8-8",
             "rank7-6",
-            "rank7-4"
+            "rank7-5"
           ]
         }
       ]
@@ -384,12 +384,12 @@
           "Value": "소환물"
         },
         {
-          "Label": "클래스",
+          "Label": "쿨타임",
           "Value": "-"
         },
         {
           "Label": "사거리",
-          "Value": "-"
+          "Value": "4"
         },
         {
           "Label": "범위",
@@ -401,19 +401,70 @@
       "SubSkills":[
         {
           "Name": "<b><font color=\"#ff8c00\">강림</font></b>",
-          "Entries": null,
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "지원"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "2턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "자신"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
           "IconImageUrl": "../img/skills/Elma/0_1.webp",
           "Desc": "[액티브] <b>소환자의 곁에</b> <font color=\"blue\">텔레포트</font>"
         },
         {
           "Name": "<b><font color=\"#ff8c00\">등불의 보호</font></b>",
-          "Entries": null,
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "패시브"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "사거리",
+              "Value": "-"
+            },
+            {
+              "Label": "범위",
+              "Value": "-"
+            }
+          ],
           "IconImageUrl": "../img/skills/Elma/0_2.webp",
           "Desc": "[패시브] <b>피격으로 피해를 입은 후</b>, 자신 주위 <font color=\"red\">3</font>칸 범위 안 모든 아군 <font color=\"green\">생명 회복</font> <br/>회복량은 자신 지력의 <font color=\"red\">1</font>배"
         },
         {
           "Name": "<b><font color=\"#ff8c00\">성광의 치유</font></b>",
-          "Entries": null,
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "치료"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "1턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "자신"
+            },
+            {
+              "Label": "범위",
+              "Value": "3칸"
+            }
+          ],
           "IconImageUrl": "../img/skills/Elma/0_3.webp",
           "Desc": "[치료]<b>자신이나 소환자에게 사용</b> <br/>회복 범위 안 다수 부대 <font color=\"green\">생명 회복</font> 및 디버프 <font color=\"red\">1</font>개 제거 <br/>회복량은 시전자 지력 <font color=\"red\">1.5</font>배"
         }
@@ -606,7 +657,7 @@
     },
     {
       "Name": "성광의 거울",
-      "Cost": "COST 1",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
@@ -652,7 +703,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/엘마.webp",
-      "Desc": "범위 내 부대 주는 피해량 <font color=\"red\">+15</font>%, 받는 피해량 <font color=\"red\">-15</font>% 효과 부여 <br/>(지속 <font color=\"red\">2</font>행동) <br/> 시전자 지력 <font color=\"red\">3</font>배 수치 <font color=\"blue\">생명 회복</font> 및 자신은 '<font color=\"blue\">성광의 거울</font>' 지휘 효과 획득 <br/>자신 주위 <font color=\"red\">3</font>칸 범위 내 모든 아군에게 <font color=\"blue\">치료 불가</font>면역 <br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 부대 주는 피해량 <font color=\"red\">+15</font>%, 받는 피해량 <font color=\"red\">-15</font>% 효과 부여 <br/>(지속 <font color=\"red\">2</font>행동) <br/> 시전자 지력 <font color=\"red\">3</font>배 수치 <font color=\"blue\">생명 회복</font> 및 자신은 '<font color=\"blue\">성광의 거울</font>' 지휘 효과 획득 <br/>[지휘]자신 주위 <font color=\"red\">3</font>칸 범위 내 모든 아군에게 <font color=\"blue\">치료 불가</font>면역 <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/엘마_Ani.webp"
     }

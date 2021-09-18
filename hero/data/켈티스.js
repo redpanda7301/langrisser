@@ -155,11 +155,11 @@
       "x"
     ],
     "Fetter": [
-      "1",
-      "1-1",
-      "1-2",
-      "1-3",
-      "1-4"
+      "6",
+      "6-1",
+      "6-2",
+      "6-3",
+      "6-4"
     ],
     "Awaken": [
       "ranka2",
@@ -187,23 +187,54 @@
       ]
     },
     {
-      "ClassTitle": "장군 : 생명+80, 방어+5",
+      "ClassTitle": "장군 : 생명+80, 공격+7",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-2",
+            "rank1-1",
+            "rank1-2"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank3-1",
+            "rank3-6",
+            "rank2-1",
+            "rank2-2"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-2",
+            "rank4-6",
+            "rank3-1",
+            "rank3-6"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "어둠의 화가 : 생명+48, 지력+12",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
             "rank2-4",
             "rank1-5",
-            "rank1-4"
+            "rank1-1"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
             "rank3-5",
-            "rank3-6",
+            "rank3-4",
             "rank2-4",
-            "rank2-5"
+            "rank2-6"
           ]
         },
         {
@@ -212,20 +243,61 @@
             "rank4-4",
             "rank4-5",
             "rank3-5",
-            "rank3-6"
+            "rank3-4"
           ]
         }
       ]
     },
     {
-      "ClassTitle": "대마법사 : 생명+48, 마방+8",
+      "ClassTitle": "단말마의 주인 : 지력+25, 마방+10, 생명+90",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank5-5",
+            "rank5-4",
+            "rank4-4",
+            "rank4-5"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank6-4",
+            "rank6-5",
+            "rank5-5",
+            "rank5-4"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank7-6",
+            "rank7-4",
+            "rank6-4",
+            "rank6-5"
+          ]
+        },
+        {
+          "Name": "T4",
+          "Materials": [
+            "rank8-8",
+            "rank8-3",
+            "rank7-6",
+            "rank7-4"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "대마법사 : 지력+12, 생명+48",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
             "rank2-4",
             "rank1-5",
-            "rank1-1"
+            "rank1-4"
           ]
         },
         {
@@ -263,8 +335,8 @@
         {
           "Name": "T2",
           "Materials": [
+            "rank6-7",
             "rank6-4",
-            "rank6-5",
             "rank5-5",
             "rank5-4"
           ]
@@ -274,89 +346,17 @@
           "Materials": [
             "rank7-6",
             "rank7-4",
-            "rank6-4",
-            "rank6-5"
+            "rank6-7",
+            "rank6-4"
           ]
         },
         {
           "Name": "T4",
           "Materials": [
-            "rank8-8",
-            "rank8-3",
+            "rank8-9",
+            "rank8-4",
             "rank7-6",
-            "rank7-4"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "어둠의 화가 : 생명+80, 방어+5",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank2-4",
-            "rank1-5",
-            "rank1-1"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank3-5",
-            "rank3-4",
-            "rank2-4",
-            "rank2-6"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank4-4",
-            "rank4-5",
-            "rank3-5",
-            "rank3-4"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "단말마의 주인 : 생명+150, 방어+10, 마방+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank5-5",
-            "rank5-4",
-            "rank4-4",
-            "rank4-5"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank6-4",
-            "rank6-5",
-            "rank5-5",
-            "rank5-4"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank7-6",
-            "rank7-4",
-            "rank6-4",
-            "rank6-5"
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-            "rank8-8",
-            "rank8-3",
-            "rank7-6",
-            "rank7-4"
+            "rank7-3"
           ]
         }
       ]
@@ -364,6 +364,104 @@
   ],
   "SPOpenConditions": null,
   "Skills": [
+    /*
+    {
+      "Name": "성광의 등불",
+      "Cost": "-",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "소환물"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "4"
+        },
+        {
+          "Label": "범위",
+          "Value": "-"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Elma/0.webp",
+      "Desc": "<b>이동 및 공격 불가</b>, <font color=\"blue\">모든 디버프 면역</font> <br/>주위 <font color=\"red\">3</font>칸 범위 안 모든 아군에게 <font color=\"blue\">받는 마법 피해</font> <font color=\"red\">-20</font>%",
+      "SubSkills":[
+        {
+          "Name": "<b><font color=\"#ff8c00\">강림</font></b>",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "지원"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "2턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "자신"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/skills/Elma/0_1.webp",
+          "Desc": "[액티브] <b>소환자의 곁에</b> <font color=\"blue\">텔레포트</font>"
+        },
+        {
+          "Name": "<b><font color=\"#ff8c00\">등불의 보호</font></b>",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "패시브"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "사거리",
+              "Value": "-"
+            },
+            {
+              "Label": "범위",
+              "Value": "-"
+            }
+          ],
+          "IconImageUrl": "../img/skills/Elma/0_2.webp",
+          "Desc": "[패시브] <b>피격으로 피해를 입은 후</b>, 자신 주위 <font color=\"red\">3</font>칸 범위 안 모든 아군 <font color=\"green\">생명 회복</font> <br/>회복량은 자신 지력의 <font color=\"red\">1</font>배"
+        },
+        {
+          "Name": "<b><font color=\"#ff8c00\">성광의 치유</font></b>",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "치료"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "1턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "자신"
+            },
+            {
+              "Label": "범위",
+              "Value": "3칸"
+            }
+          ],
+          "IconImageUrl": "../img/skills/Elma/0_3.webp",
+          "Desc": "[치료]<b>자신이나 소환자에게 사용</b> <br/>회복 범위 안 다수 부대 <font color=\"green\">생명 회복</font> 및 디버프 <font color=\"red\">1</font>개 제거 <br/>회복량은 시전자 지력 <font color=\"red\">1.5</font>배"
+        }
+      ],
+      "Animation": null
+    },
+    */
     {
       "Name": "썬더",
       "Cost": "COST 1",
