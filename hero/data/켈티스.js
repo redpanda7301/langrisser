@@ -408,7 +408,7 @@
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/kertesz/0_1.webp",
+          "IconImageUrl": "../img/skills/Kertesz/0_1.webp",
           "Desc": "<font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/>자신과 적 영웅의 병종이 동일할 경우 전투 시 지력 증가",
         },
         {
@@ -431,7 +431,7 @@
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/kertesz/0_2.webp",
+          "IconImageUrl": "../img/skills/Kertesz/0_2.webp",
           "Desc": "<font color=\"red\">1</font>명의 비소환물 적에게 지력 <font color=\"red\">0.1</font>배 범위 피해를 주며 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/>그림 꼭두각시 스킬은 하기 스킬탭에 서술"
         }
       ],
@@ -458,7 +458,7 @@
           "Value": "-"
         }
       ],
-      "IconImageUrl": "../img/skills/kertesz/0_2.webp",
+      "IconImageUrl": "../img/skills/Kertesz/0_2.webp",
       "Desc": "<font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다.",
       "SubSkills":[
         {
@@ -473,7 +473,7 @@
               "Value": "-"
             }
           ],
-          "IconImageUrl": "../img/skills/kertesz/0_3.webp",
+          "IconImageUrl": "../img/skills/Kertesz/0_3.webp",
           "Desc": "선공으로 공격 시 <font color=\"blue\">호위 무시</font> 및 <font color=\"blue\">선제 공격</font>"
         },
         {
@@ -488,7 +488,7 @@
               "Value": "-"
             }
           ],
-          "IconImageUrl": "../img/skills/kertesz/0_4.webp",
+          "IconImageUrl": "../img/skills/Kertesz/0_4.webp",
           "Desc": "행동 종료 시 자신 주위 <font color=\"red\">2</font>칸 범위 내 적 <b>랜덤한 스탯 <font color=\"red\">1</font>개</b> <font color=\"red\">-20</font>% <br/>지속 <font color=\"red\">1</font>행동"
         }
       ],
