@@ -109,8 +109,8 @@
       "MagicDefRate": 81,
       "Skill": 112,
       "SkillRate": 30,
-      "HeartFetterBouns1": "확인중",
-      "HeartFetterBouns2": "확인중"
+      "HeartFetterBouns1": "피격으로 전투 진입 시 <br/>받는 물리 피해량 <font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "선공으로 전투 진입 시 <br/>주는 피해량 <font color =\"red\">+10</font>%"
     },
     {
       "Name": "주술사",
@@ -138,8 +138,8 @@
       "MagicDefRate": 81,
       "Skill": 86,
       "SkillRate": 25,
-      "HeartFetterBouns1": "확인중",
-      "HeartFetterBouns2": "확인중"
+      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해량 <font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "피격으로 전투 진입 시 <br/>주는 피해량 <font color =\"red\">+10</font>%"
     }
   ],
   "Materials": {

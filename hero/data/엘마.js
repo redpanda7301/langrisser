@@ -117,8 +117,8 @@
       "MagicDefRate": 80,
       "Skill": 85,
       "SkillRate": 25,
-      "HeartFetterBouns1": "확인중",
-      "HeartFetterBouns2": "확인중"
+      "HeartFetterBouns1": "자신보다 생명 백분비가 높은 적에게 공격받아 전투 진입 시 <br/>받는 피해량 <font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "원거리 피격으로 전투 진입시 <br/>주는 피해량 <font color =\"red\">+10</font>%"
     },
     {
       "Name": "신탁 사제",
@@ -149,8 +149,8 @@
       "MagicDefRate": 81,
       "Skill": 85,
       "SkillRate": 25,
-      "HeartFetterBouns1": "확인중",
-      "HeartFetterBouns2": "확인중"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70</font>% 미만일 경우 <br/>받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "디버프가 걸린 적과 전투시 <br/>주는 피해량 <font color=\"red\">+10</font>"
     }
   ],
   "Materials": {

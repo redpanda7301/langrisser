@@ -8,13 +8,10 @@
     {
       "ImageUrl": "토와/2.webp",
       "Desc": "빛의 메아리"
-<<<<<<< HEAD
     },
     {
       "ImageUrl": "토와/3.webp",
       "Desc": "형귀 뽑기"
-=======
->>>>>>> parent of d27fc314 (3.1주년 Data 2차 작업(입실론,뮤 프로필 추가예정))
     }
   ],
   "Name": "토와",

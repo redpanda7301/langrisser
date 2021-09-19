@@ -139,7 +139,7 @@
       "MagicDefRate": 82,
       "Skill": 92,
       "SkillRate": 26,
-      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">50</font>% 미만  시</b> <br/>받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">50</font>% 미만 시</b> <br/>받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "<b>치료효과</b> <font color=\"red\">+10</font>%"
     }
   ],
@@ -148,15 +148,15 @@
       "h1",
       "4",
       "h2",
-      "4",
       "h4",
       "4-1",
       "h3",
-      "4-1",
       "h1-1",
+      "4-2",
       "h2-1",
       "h4-1",
       "h3-1",
+      "4-2",
       "x"
     ],
     "Fetter": [

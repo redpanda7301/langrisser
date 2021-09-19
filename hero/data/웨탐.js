@@ -35,17 +35,10 @@
       "Condition": "호감도 총합 52"
     },
     {
-<<<<<<< HEAD
       "Condition": "보젤의 도움을 받아 운명의문 4 클리어"
     },
     {
       "Condition": "젤다의 도움을 받아 운명의문 5 클리어"
-=======
-      "Condition": "호감도 총합 72"
-    },
-    {
-      "Condition": "호감도 총합 92"
->>>>>>> parent of d27fc314 (3.1주년 Data 2차 작업(입실론,뮤 프로필 추가예정))
     }
   ],
   "HeartFetter": "생명+750, 방어+50, 마방+50",
@@ -102,17 +95,17 @@
       "HP": 4202,
       "HPRate": 70,
       "Attk": 553,
-      "AttkRate": 0,
+      "AttkRate": 85,
       "Int": 231,
-      "IntRate": 0,
+      "IntRate": 37,
       "Def": 293,
-      "DefRate": 0,
+      "DefRate": 64,
       "MagicDef": 310,
-      "MagicDefRate": 0,
+      "MagicDefRate": 70,
       "Skill": 171,
-      "SkillRate": 0,
-      "HeartFetterBouns1": "공격하여 전투진입시 받는 피해감소 -10%",
-      "HeartFetterBouns2": "공격받아 전투 진입시 입히는피해 +10%"
+      "SkillRate": 47,
+      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만 시<br/>전투 진입 후 주는 피해량<font color=\"red\">+10</font>%"
     },
     {
       "Name": "혼돈의 대행자",
@@ -137,28 +130,32 @@
       "MagicDefRate": 61,
       "Skill": 154,
       "SkillRate": 44,
-      "HeartFetterBouns1": "버프5개이상일경우 전투시 받는피해-10%",
-      "HeartFetterBouns2": "버프5개이상일경우 전투시 입히는피해+10%"
+      "HeartFetterBouns1": "자신이 위험 범위에 있을 경우 <br/>피격 치명타 확률 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">80</font>% 초과 시 <br/>전투 중 주는 피해량<font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
     "HeartFetter": [
-      "h1",
-      "h2",
       "h4",
+      "1",
+      "h1",      
       "h3",
+      "1-1",
+      "h2",
       "h1-1",
+      "1-2",
       "h2-1",
       "h4-1",
       "h3-1",
+      "1-3",
       "x"
     ],
     "Fetter": [
-      "5",
-      "5-1",
-      "5-2",
-      "5-3",
-      "5-4"
+      "6",
+      "6-1",
+      "6-2",
+      "6-3",
+      "6-4"
     ],
     "Awaken": [
       "ranka2",
@@ -169,7 +166,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "어둠의 자식 : 공격+9, 생명+36",
+      "ClassTitle": "어둠의 자식 : 공격+9, 방어+4",
       "Tiers": [
         {
           "Name": "T1",
@@ -191,81 +188,9 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank2-3",
-            "rank1-3",
-            "rank1-1"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank3-3",
-            "rank3-2",
-            "rank2-3",
-            "rank2-2"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank4-6",
-            "rank4-2",
-            "rank3-3",
-            "rank3-2"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "마족의 날개 : 공격+25, 생명+90, 마방+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank5-3",
-            "rank5-2",
-            "rank4-6",
-            "rank4-4"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank6-5",
-            "rank6-3",
-            "rank5-3",
-            "rank5-2"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank7-4",
-            "rank7-7",
-            "rank6-5",
-            "rank6-3"
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-            "rank8-3",
-            "rank8-2",
-            "rank7-4",
-            "rank7-3"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "혼돈의 그림자 : 생명+80, 기술+5",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
             "rank2-1",
-            "rank1-1",
-            "rank1-2"
+            "rank1-2",
+            "rank1-1"
           ]
         },
         {
@@ -289,41 +214,113 @@
       ]
     },
     {
-      "ClassTitle": "혼돈의 대행자 : 공격+25, 생명+90, 방어+10",
+      "ClassTitle": "마족의 날개 : 공격+25, 생명+90, 마방+10",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
             "rank5-1",
-            "rank5-6",
+            "rank5-2",
             "rank4-1",
-            "rank4-2"
+            "rank4-3"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
             "rank6-1",
-            "rank6-2",
+            "rank6-3",
             "rank5-1",
-            "rank5-6"
+            "rank5-2"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
             "rank7-2",
-            "rank7-1",
+            "rank7-4",
             "rank6-1",
-            "rank6-2"
+            "rank6-3"
           ]
         },
         {
           "Name": "T4",
           "Materials": [
             "rank8-1",
-            "rank8-5",
+            "rank8-2",
             "rank7-2",
+            "rank7-4"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "혼돈의 그림자 : 생명+48, 공격+12",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-6",
+            "rank1-1",
+            "rank1-4"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank3-3",
+            "rank3-6",
+            "rank2-3",
+            "rank2-6"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-5",
+            "rank4-6",
+            "rank3-3",
+            "rank3-6"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "혼돈의 대행자 : 공격+25, 생명+90, 방어+10",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank5-3",
+            "rank5-4",
+            "rank4-5",
+            "rank4-2"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank6-3",
+            "rank6-7",
+            "rank5-3",
+            "rank5-4"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank7-5",
+            "rank7-7",
+            "rank6-3",
+            "rank6-7"
+          ]
+        },
+        {
+          "Name": "T4",
+          "Materials": [
+            "rank8-6",
+            "rank8-7",
+            "rank7-5",
             "rank7-4"
           ]
         }
@@ -354,7 +351,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/0.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -551,25 +548,25 @@
           "Value": "-"
         }
       ],
-      "IconImageUrl": "../img/Super/웨탐.webp",
+      "IconImageUrl": "../img/Super/웨탐_1.webp",
       "Desc": "소환자 최대 생명 <font color=\"red\">75</font>% 수치 계승 <br/>'<b>공격, 이동, 치유</b>' 불가(<font color=\"red\">디메리트</font>) <br/><font color=\"blue\">모든 디버프 면역</font> 및 <b>적에 의한</b><font color=\"blue\">위치 이동</font> 면역",
       "SubSkills":[
         {
           "Name": "<b><font color=\"#0070c0\">마검의 비호</font></b>",
           "Entries": null,
-          "IconImageUrl": "../img/skills/Wehttam/4.webp",
+          "IconImageUrl": "../img/Super/웨탐_2.webp",
           "Desc": "[지휘][액티브] <font color=\"red\">3</font>칸 범위 내 적 <font color=\"red\">1</font>명 당 <b>소환자가 받는 피해</b> <font color=\"red\">-15</font>%(최대 <font color=\"red\">-45</font>%)"
         },
         {
           "Name": "<b><font color=\"#0070c0\">어둠의 통솔</font></b>",
           "Entries": null,
-          "IconImageUrl": "../img/skills/Wehttam/5.webp",
+          "IconImageUrl": "../img/Super/웨탐_3.webp",
           "Desc": "[지휘] 전장에 모든 <b><font color=\"purple\">어둠의 윤회 진영</font> 영웅의 생명을 제외한</b> 모든 스탯 <font color=\"red\">+5</font>%"
         },
         {
           "Name": "<b><font color=\"#0070c0\">더러운 피의 재생</font></b>",
           "Entries": null,
-          "IconImageUrl": "../img/skills/Wehttam/6.webp",
+          "IconImageUrl": "../img/Super/웨탐_4.webp",
           "Desc": "[패시브] 행동 종료 시 소환자의 생명 <font color=\"red\">30</font>% 회복"
         }
       ],
