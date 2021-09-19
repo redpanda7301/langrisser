@@ -21,7 +21,8 @@
   "Name": "헤인",
   "CV": "사카구치 다이스케",
   "Rank": [
-    1
+    1,
+    4
   ],
   "SP": true,
   "Groups": [
@@ -29,11 +30,11 @@
     2
   ],
   "HP": 10,
-  "SPHP": 0,
+  "SPHP": 10,
   "Attk": 40,
-  "SPAttk": 0,
+  "SPAttk": 40,
   "Def": 10,
-  "SPDef": 0,
+  "SPDef": 10,
   "MagicDef": 35,
   "SPMagicDef": 40,
   "HowToGet": "영웅 소환",

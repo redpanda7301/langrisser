@@ -29,7 +29,8 @@
   "Name": "알테뮬러",
   "CV": "코야스 타케히토",
   "Rank": [
-    0
+    0,
+    4
   ],
   "SP": true,
   "Groups": [
@@ -38,13 +39,13 @@
     4
   ],
   "HP": 40,
-  "SPHP": 0,
+  "SPHP": 40,
   "Attk": 40,
-  "SPAttk": 0,
+  "SPAttk": 40,
   "Def": 10,
-  "SPDef": 0,
+  "SPDef": 10,
   "MagicDef": 10,
-  "SPMagicDef": 0,
+  "SPMagicDef": 10,
   "HowToGet": "영웅 소환",
   "Fetters": [
     {

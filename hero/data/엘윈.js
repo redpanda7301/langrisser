@@ -33,7 +33,8 @@
   "Name": "엘윈",
   "CV": "호시 소이치로",
   "Rank": [
-    0
+    0,
+    4
   ],
   "SP": true,
   "Groups": [
@@ -42,13 +43,13 @@
     2
   ],
   "HP": 15,
-  "SPHP": 0,
+  "SPHP": 15,
   "Attk": 35,
-  "SPAttk": 0,
+  "SPAttk": 35,
   "Def": 35,
-  "SPDef": 0,
+  "SPDef": 35,
   "MagicDef": 15,
-  "SPMagicDef": 0,
+  "SPMagicDef": 15,
   "HowToGet": "영웅 소환",
   "Fetters": [
     {

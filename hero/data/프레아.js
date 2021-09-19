@@ -25,7 +25,8 @@
   "Name": "프레아",
   "CV": "호리에 유이",
   "Rank": [
-    1
+    1,
+    4
   ],
   "SP": true,
   "Groups": [
@@ -33,9 +34,9 @@
     5
   ],
   "HP": 35,
-  "SPHP": 0,
+  "SPHP": 35,
   "Attk": 10,
-  "SPAttk": 0,
+  "SPAttk": 10,
   "Def": 40,
   "SPDef": 35,
   "MagicDef": 10,

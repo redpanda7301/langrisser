@@ -17,16 +17,17 @@
   ],
   "SP": false,
   "Groups": [
-    3
+    3,
+    4
   ],
   "HP": 20,
-  "SPHP": 0,
+  "SPHP": 20,
   "Attk": 30,
-  "SPAttk": 0,
+  "SPAttk": 30,
   "Def": 15,
-  "SPDef": 0,
+  "SPDef": 25,
   "MagicDef": 25,
-  "SPMagicDef": 0,
+  "SPMagicDef": 25,
   "HowToGet": "영웅 소환, 우정티켓 소환",
   "Fetters": [
     {
@@ -139,8 +140,8 @@
       "MagicDefRate": 56,
       "Skill": 137,
       "SkillRate": 39,
-      "HeartFetterBouns1": "강화버프 5개이상일 경우 전투시 받는피해 -10%",
-      "HeartFetterBouns2": "강화버프 5개이상일 경우 전투시 입히는피해 +10%"
+      "HeartFetterBouns1": "강화버프 <font color =\"red\">5</font>개 이상일 경우 전투시 <br/>받는 피해량 <font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "강화버프 <font color =\"red\">5</font>개 이상일 경우 전투시 <br/>주는 피해량 <font color =\"red\">+10</font>%"
     },
     {
       "Name": "기원의 군왕",
@@ -168,8 +169,8 @@
       "MagicDefRate": 52,
       "Skill": "172",
       "SkillRate": 45,
-      "HeartFetterBouns1": "확인중",
-      "HeartFetterBouns2": "확인중"
+      "HeartFetterBouns1": "피격으로 전투 진입 시 <br/>받는 마법 피해량 <font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "근접 피격으로 전투 진입 시 <br/>주는 피해량 <font color =\"red\">+10</font>%"
     }
   ],
   "Materials": {
