@@ -97,6 +97,9 @@
         },
         {
           "ImageUrl": "토와/2/1.webp"
+        },
+        {
+          "ImageUrl": "토와/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -126,6 +129,9 @@
         },
         {
           "ImageUrl": "토와/2/2.webp"
+        },
+        {
+          "ImageUrl": "토와/3/2.webp"
         }
       ],
       "AttkRange": 1,
