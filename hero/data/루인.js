@@ -669,7 +669,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/루인/1.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해 대 마물 특효 <br/>전투 전 적 <font color=\"blue\">버프</font> 제거 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>% 효과 부여 <br/>지속 <font color=\"red\">2</font>, <b>해제 불가</b> <br/>전투 후 자신 주위 <font color=\"red\">2</font>칸 범위 내 모든 아군 생명 공격 <font color=\"red\">2</font>배 수치로 <font color =\"green\">회복</font>",
+      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해 대 마물 특효 <br/>전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 제거 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>% 효과 부여 <br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b> <br/>전투 후 자신 주위 <font color=\"red\">2</font>칸 범위 내 모든 아군 생명 공격 <font color=\"red\">2</font>배 수치로 <font color =\"green\">회복</font>",
       "SubSkills": null,
       "Animation": null
     },

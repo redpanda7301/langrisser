@@ -605,7 +605,7 @@
             "Desc": "아군  <font color=\"red\">1</font> 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font> 및 <font color =\"blue\">모든 디버프 제거</font>, <br/>추가로 '<font color=\"blue\">장갑 파괴</font>'를  부여한다.<br/><font color=\"blue\">장갑 파괴</font> : [패시브] 전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%, <font color=\"red\">-20</font> <font color=\"red\">1</font>턴 지속. <br/> 해당 효과 부여 지속 <font color=\"red\">2</font>행동 <br/><font color=\"red\">영웅</font> 병종을 보병이 된다. <br/>지속 <font color=\"red\">1</font>턴"
           },
           {
-            "Name": "<b><font color=\"#7cfc00\">재구성 - 창병</font></b>",
+            "Name": "<b><font color=\"#006400\">재구성 - 창병</font></b>",
             "Entries": null,
             "IconImageUrl": "../img/skills/Skill_Angelica4.webp",
             "Desc": "아군  <font color=\"red\">1</font> 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font> 및 <font color =\"blue\">모든 디버프 제거</font>, <br/>추가로 '<font color=\"green\">재생</font>'을 부여한다.<br/><font color=\"green\">재생</font> : [지원] 전투 후 생명을 <font color=\"red\">10</font>% <font color=\"green\">회복</font> 하게한다. <br/>지속 <font color=\"red\">2</font>행동 <br/><font color=\"red\">영웅</font> 병종을 창병이 된다. <br/>지속 <font color=\"red\">1</font>턴"

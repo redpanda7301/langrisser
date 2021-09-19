@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+20</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+20</font>%"
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+25</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+25</font>%"
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+30</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+30</font>%"
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전 <br/>1) <font color=\"blue\">영혼 묘사</font> : <font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/><b>자신과 적 영웅의 병종이 동일할 경우 전투 시</b> 지력 <font color=\"red\">+40</font>% <br/>2) <font color=\"purple\">영혼 파열</font> : '<font color=\"blue\">영혼의 낙인</font>' 효과를 보유한 적에게 범위 피해, <br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+40</font>% "
         }
       ]
     }
@@ -364,9 +364,81 @@
   ],
   "SPOpenConditions": null,
   "Skills": [
-    /*
     {
-      "Name": "성광의 등불",
+      "Name": "영혼을 사냥하는 화가",
+      "Cost": "-",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "-"
+        },
+        {
+          "Label": "범위",
+          "Value": "-"
+        }
+      ],
+      "IconImageUrl": "../img/ability/Gift_Kertesz.webp",
+      "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전",
+      "SubSkills":[
+        {
+          "Name": "<b><font color=\"purple\">영혼 묘사</font></b>",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "액티브"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "사거리",
+              "Value": "전맵"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/skills/kertesz/0_1.webp",
+          "Desc": "<font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/>자신과 적 영웅의 병종이 동일할 경우 전투 시 지력 증가",
+        },
+        {
+          "Name": "<b><font color=\"purple\">영혼 파열</font></b>",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "액티브"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "사거리",
+              "Value": "5칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/skills/kertesz/0_2.webp",
+          "Desc": "<font color=\"red\">1</font>명의 비소환물 적에게 지력 <font color=\"red\">0.1</font>배 범위 피해를 주며 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><b>만약 해당 스킬로 적을 격파한 경우</b> '<font color=\"blue\">그림 꼭두각시</font>' 소환.<br/>그림 꼭두각시 스킬은 하기 스킬탭에 서술"
+        }
+      ],
+      "Animation": null
+    },
+    {
+      "Name": "그림 꼭두각시",
       "Cost": "-",
       "Entries": [
         {
@@ -379,41 +451,33 @@
         },
         {
           "Label": "사거리",
-          "Value": "4"
+          "Value": "-"
         },
         {
           "Label": "범위",
           "Value": "-"
         }
       ],
-      "IconImageUrl": "../img/skills/Elma/0.webp",
-      "Desc": "<b>이동 및 공격 불가</b>, <font color=\"blue\">모든 디버프 면역</font> <br/>주위 <font color=\"red\">3</font>칸 범위 안 모든 아군에게 <font color=\"blue\">받는 마법 피해</font> <font color=\"red\">-20</font>%",
+      "IconImageUrl": "../img/skills/kertesz/0_2.webp",
+      "Desc": "<font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다.",
       "SubSkills":[
         {
-          "Name": "<b><font color=\"#ff8c00\">강림</font></b>",
+          "Name": "<b><font color=\"#purple\">절망의 꿈</font></b>",
           "Entries": [
             {
               "Label": "유형",
-              "Value": "지원"
-            },
-            {
-              "Label": "쿨타임",
-              "Value": "2턴"
+              "Value": "패시브"
             },
             {
               "Label": "사거리",
-              "Value": "자신"
-            },
-            {
-              "Label": "범위",
-              "Value": "단일"
+              "Value": "-"
             }
           ],
-          "IconImageUrl": "../img/skills/Elma/0_1.webp",
-          "Desc": "[액티브] <b>소환자의 곁에</b> <font color=\"blue\">텔레포트</font>"
+          "IconImageUrl": "../img/skills/kertesz/0_3.webp",
+          "Desc": "선공으로 공격 시 <font color=\"blue\">호위 무시</font> 및 <font color=\"blue\">선제 공격</font>"
         },
         {
-          "Name": "<b><font color=\"#ff8c00\">등불의 보호</font></b>",
+          "Name": "<b><font color=\"#purple\">죽음의 노래</font></b>",
           "Entries": [
             {
               "Label": "유형",
@@ -422,46 +486,14 @@
             {
               "Label": "쿨타임",
               "Value": "-"
-            },
-            {
-              "Label": "사거리",
-              "Value": "-"
-            },
-            {
-              "Label": "범위",
-              "Value": "-"
             }
           ],
-          "IconImageUrl": "../img/skills/Elma/0_2.webp",
-          "Desc": "[패시브] <b>피격으로 피해를 입은 후</b>, 자신 주위 <font color=\"red\">3</font>칸 범위 안 모든 아군 <font color=\"green\">생명 회복</font> <br/>회복량은 자신 지력의 <font color=\"red\">1</font>배"
-        },
-        {
-          "Name": "<b><font color=\"#ff8c00\">성광의 치유</font></b>",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "치료"
-            },
-            {
-              "Label": "쿨타임",
-              "Value": "1턴"
-            },
-            {
-              "Label": "사거리",
-              "Value": "자신"
-            },
-            {
-              "Label": "범위",
-              "Value": "3칸"
-            }
-          ],
-          "IconImageUrl": "../img/skills/Elma/0_3.webp",
-          "Desc": "[치료]<b>자신이나 소환자에게 사용</b> <br/>회복 범위 안 다수 부대 <font color=\"green\">생명 회복</font> 및 디버프 <font color=\"red\">1</font>개 제거 <br/>회복량은 시전자 지력 <font color=\"red\">1.5</font>배"
+          "IconImageUrl": "../img/skills/kertesz/0_4.webp",
+          "Desc": "행동 종료 시 자신 주위 <font color=\"red\">2</font>칸 범위 내 적 <b>랜덤한 스탯 <font color=\"red\">1</font>개</b> <font color=\"red\">-20</font>% <br/>지속 <font color=\"red\">1</font>행동"
         }
       ],
       "Animation": null
     },
-    */
     {
       "Name": "썬더",
       "Cost": "COST 1",
@@ -490,7 +522,7 @@
     },
     {
       "Name": "위장",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -498,7 +530,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "2턴"
+          "Value": "3턴"
         },
         {
           "Label": "사거리",
