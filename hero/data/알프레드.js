@@ -97,7 +97,7 @@
           "ImageUrl": "알프레드/1/1.webp"
         },
         {
-          "ImageUrl": "알프레드/2/2.webp"
+          "ImageUrl": "알프레드/2/1.webp"
         }
       ],
       "AttkRange": 1,

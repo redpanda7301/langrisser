@@ -120,7 +120,7 @@
           "ImageUrl": "켈티스/1/2.webp"
         },
         {
-          "ImageUrl": "켈티스/2/2.webp"
+          "ImageUrl": "켈티스/2/1.webp"
         }
       ],
       "AttkRange": 2,
