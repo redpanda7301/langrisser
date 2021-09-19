@@ -91,18 +91,18 @@
       "AttkRange": 1,
       "Move": 5,
       "MoveType": "Fly",
-      "HP": 4202,
-      "HPRate": 70,
-      "Attk": 553,
-      "AttkRate": 85,
-      "Int": 231,
+      "HP": 4411,
+      "HPRate": 73,
+      "Attk": 614,
+      "AttkRate": 91,
+      "Int": 235,
       "IntRate": 37,
-      "Def": 293,
-      "DefRate": 64,
-      "MagicDef": 310,
-      "MagicDefRate": 70,
-      "Skill": 171,
-      "SkillRate": 47,
+      "Def": 337,
+      "DefRate": 76,
+      "MagicDef": 305,
+      "MagicDefRate": 69,
+      "Skill": 162,
+      "SkillRate": 45,
       "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만 시<br/>전투 진입 후 주는 피해량<font color=\"red\">+10</font>%"
     },
@@ -117,18 +117,18 @@
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4511,
-      "HPRate": 75,
-      "Attk": 553,
-      "AttkRate": 85,
-      "Int": 254,
-      "IntRate": 42,
-      "Def": 317,
-      "DefRate": 70,
-      "MagicDef": 277,
-      "MagicDefRate": 61,
-      "Skill": 154,
-      "SkillRate": 44,
+      "HP": 5059,
+      "HPRate": 87,
+      "Attk": 614,
+      "AttkRate": 91,
+      "Int": 235,
+      "IntRate": 40,
+      "Def": 388,
+      "DefRate": 81,
+      "MagicDef": 253,
+      "MagicDefRate": 58,
+      "Skill": 164,
+      "SkillRate": 42,
       "HeartFetterBouns1": "자신이 위험 범위에 있을 경우 <br/>피격 치명타 확률 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "부대 생명 <font color=\"red\">80</font>% 초과 시 <br/>전투 중 주는 피해량<font color=\"red\">+10</font>%"
     }
@@ -418,7 +418,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "2턴"
+          "Value": "5턴"
         },
         {
           "Label": "사거리",
@@ -426,7 +426,7 @@
         },
         {
           "Label": "범위",
-          "Value": "1칸"
+          "Value": "2칸"
         }
       ],
       "IconImageUrl": "../img/skills/Wehttam/1.webp",
@@ -458,11 +458,11 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "2턴"
+          "Value": "4턴"
         },
         {
           "Label": "사거리",
-          "Value": "7칸"
+          "Value": "전맵"
         },
         {
           "Label": "범위",
@@ -475,34 +475,8 @@
       "Animation": null
     },
     {
-      "Name": "그림자 전이",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "액티브"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "2턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "1칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Wehttam/3.webp",
-      "Desc": "단일 적군을 공격하여 <font color=\"red\">1.8</font>배 피해를 준다.<br/>전투 전 적 부대의 버프 <font color=\"red\">5</font>개 제거 및 적 부대에게 '<font color=\"blue\">상처 저주</font>' 부여<br/><font color=\"blue\">상처 저주</font> : 받는 치유 효과를 치유량 <font color=\"red\">50</font>% 수치를 피해로 전환한다. <br/><font color =\"red\">2</font>턴 지속<br/> <b>해제 불가</b> <br/>(해당 스킬은 보유한 <font color=\"blue\">버프</font> 지속 시간을 소모하지 않음)",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "알하자드의 그림자",
-      "Cost": "COST 3",
+      "Name": "어둠의 파멸",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
@@ -518,7 +492,33 @@
         },
         {
           "Label": "범위",
-          "Value": "-"
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Wehttam/3.webp",
+      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해 <br/>전투 전 적 부대의 버프 <font color=\"red\">5</font>개 제거 및 적 부대에게 '<font color=\"blue\">상처 저주</font>' 부여<br/><font color=\"blue\">상처 저주</font> : 받는 치유 효과를 치유량 <font color=\"red\">50</font>% 수치를 피해로 전환한다. <br/><font color =\"red\">2</font>턴 지속<br/> <b>해제 불가</b> <br/>(해당 스킬은 보유한 <font color=\"blue\">버프</font> 지속 시간을 소모하지 않음)",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "알하자드의 그림자",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "7턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
         }
       ],
       "IconImageUrl": "../img/Super/웨탐.webp",
