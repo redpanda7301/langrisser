@@ -15,10 +15,9 @@
   "Rank": [
     2
   ],
-  "SP": false,
+  "SP": true,
   "Groups": [
-    3,
-    4
+    3
   ],
   "HP": 20,
   "SPHP": 20,
