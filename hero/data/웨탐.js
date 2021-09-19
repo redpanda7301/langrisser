@@ -18,21 +18,21 @@
     4,
     10
   ],
-  "HP": 15,
+  "HP": 35,
   "SPHP": 0,
   "Attk": 35,
   "SPAttk": 0,
-  "Def": 30,
+  "Def": 15,
   "SPDef": 0,
   "MagicDef": 15,
   "SPMagicDef": 0,
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "호감도 총합 32"
+      "Condition": "웨탐을 출전시켜  시공의 균열 3-6 클리어"
     },
     {
-      "Condition": "호감도 총합 52"
+      "Condition": "웨탐을 출전시켜  [정예]시공의 균열 3-1 클리어"
     },
     {
       "Condition": "보젤의 도움을 받아 운명의문 4 클리어"
@@ -41,7 +41,7 @@
       "Condition": "젤다의 도움을 받아 운명의문 5 클리어"
     }
   ],
-  "HeartFetter": "생명+750, 방어+50, 마방+50",
+  "HeartFetter": "생명+900, 방어+60, 마방+40",
   "Talent": [
     {
       "Name": "인연의 종말",
