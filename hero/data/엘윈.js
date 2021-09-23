@@ -909,7 +909,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/엘윈.webp",
-      "Desc": "[패시브] 전투 시작 및 아군 사망 시 마다 전장에 있는 '<font color =\"#b8860b\">빛의 군단</font>' 아군의 공방 대폭 상승, <br/>전투 중 피해 <font color=\"red\">+15</font>%, <br/>아군 <font color=\"red\">1</font> 명이 사망시마다 추가 <font color=\"red\">+3</font>% (최대 <font color=\"red\">+12</font>%), <br/>지속 <font color=\"red\">4</font>행동 <br/>(해당 효과는 다른 초절 효과와 중첩 불가)<br/>[액티브] 단일 개체 <font color=\"red\">1.8</font>배 피해, <br/>전투 전 적 버프 <font color=\"red\">5</font>개 제거 및 적에게 '<font color=\"blue\">패시브 봉인</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동), <br/>전투 후 적에게 '<font color=\"blue\">치료 불가</font>' 부여 (지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>) ",
+      "Desc": "[패시브] 전장(스테이지) 시작 및 아군 사망 시 마다 전장에 있는 '<font color =\"#b8860b\">빛의 군단</font>' 아군의 공방 대폭 상승, <br/>전투 중 피해 <font color=\"red\">+15</font>%, <br/>아군 <font color=\"red\">1</font> 명이 사망시마다 추가 <font color=\"red\">+3</font>% (최대 <font color=\"red\">+12</font>%), <br/>지속 <font color=\"red\">4</font>행동 <br/>(해당 효과는 다른 초절 효과와 중첩 불가)<br/>[액티브] 단일 개체 <font color=\"red\">1.8</font>배 피해, <br/>전투 전 적 버프 <font color=\"red\">5</font>개 제거 및 적에게 '<font color=\"blue\">패시브 봉인</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동), <br/>전투 후 적에게 '<font color=\"blue\">치료 불가</font>' 부여 (지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>) ",
       "SubSkills": null,
       "Animation": "../img/Super/엘윈_Ani.webp",
     }    
