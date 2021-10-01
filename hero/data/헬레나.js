@@ -54,7 +54,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+40",
   "Talent": [
     {
-      "Name": "크리스탈의 기사",
+      "Name": "황금 수정의 기사",
       "Icon": "Gift_Helena.webp",
       "Abilities": [
         {
@@ -384,7 +384,7 @@
       "Animation": null
     },
     {
-      "Name": "수정 꽃잎 폭풍",
+      "Name": "크리스탈 스톰",
       "Cost": "COST 1",
       "Entries": [
         {
@@ -438,7 +438,7 @@
       "Animation": null
     },
     {
-      "Name": "크리스탈 강습",
+      "Name": "수정 광휘 돌격",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -530,7 +530,7 @@
       "Animation": null
     },
     {
-      "Name": "피어나는 광휘 수정",
+      "Name": "피어나는 황금 수정",
       "Cost": "COST 3",
       "Entries": [
         {
