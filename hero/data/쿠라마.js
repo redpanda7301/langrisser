@@ -57,16 +57,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "\"숲\" \"산지\" \"풀밭\" \"동굴\" \"늪지\" \"수중\"에 있을 경우 지력 마방 <font color=\"red\">+10%</font>.<br/> 행동 종료 시 <font color=\"red\">40%</font>의 확률로 모든 스킬 쿨타임 <font color=\"red\">-1</font>"
+          "Desc": "\"숲\" \"산지\" \"풀밭\" \"동굴\" \"늪지\" \"수중\"에 있을 경우 지력, 마방 <font color=\"red\">+10%</font>,<br/> 행동 종료 시 <font color=\"red\">40%</font>의 확률로 모든 스킬 쿨타임 <font color=\"red\">-1</font>"
         },
         {
-          "Desc": "\"숲\" \"산지\" \"풀밭\" \"동굴\" \"늪지\" \"수중\"에 있을 경우 지력 마방 <font color=\"red\">+13%</font>.<br/> 행동 종료 시 <font color=\"red\">60%</font>의 확률로 모든 스킬 쿨타임 <font color=\"red\">-1</font>"
+          "Desc": "\"숲\" \"산지\" \"풀밭\" \"동굴\" \"늪지\" \"수중\"에 있을 경우 지력, 마방 <font color=\"red\">+13%</font>,<br/> 행동 종료 시 <font color=\"red\">60%</font>의 확률로 모든 스킬 쿨타임 <font color=\"red\">-1</font>"
         },
         {
-          "Desc": "\"숲\" \"산지\" \"풀밭\" \"동굴\" \"늪지\" \"수중\"에 있을 경우 지력 마방 <font color=\"red\">+16%</font>.<br/> 행동 종료 시 <font color=\"red\">80%</font>의 확률로 모든 스킬 쿨타임 <font color=\"red\">-1</font>"
+          "Desc": "\"숲\" \"산지\" \"풀밭\" \"동굴\" \"늪지\" \"수중\"에 있을 경우 지력, 마방 <font color=\"red\">+16%</font>,<br/> 행동 종료 시 <font color=\"red\">80%</font>의 확률로 모든 스킬 쿨타임 <font color=\"red\">-1</font>"
         },
         {
-          "Desc": "\"숲\" \"산지\" \"풀밭\" \"동굴\" \"늪지\" \"수중\"에 있을 경우 지력 마방 <font color=\"red\">+20%</font>.<br/> 행동 종료 시 <font color=\"red\">100%</font>의 확률로 모든 스킬 쿨타임 <font color=\"red\">-1</font>"
+          "Desc": "\"숲\" \"산지\" \"풀밭\" \"동굴\" \"늪지\" \"수중\"에 있을 경우 지력, 마방 <font color=\"red\">+20%</font>,<br/> 행동 종료 시 <font color=\"red\">100%</font>의 확률로 모든 스킬 쿨타임 <font color=\"red\">-1</font>"
         }
       ]
     }
