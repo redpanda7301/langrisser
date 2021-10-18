@@ -57,13 +57,13 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+4</font>%(최대 <font color=\"red\">+20</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+1</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
+          "Desc": "주위 <font color=\"red\">1</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+4</font>%(최대 <font color=\"red\">+20</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+1</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+5</font>%(최대 <font color=\"red\">+25</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
+          "Desc": "주위 <font color=\"red\">2</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+5</font>%(최대 <font color=\"red\">+25</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+6</font>%(최대 <font color=\"red\">+30</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
+          "Desc": "주위 <font color=\"red\">2</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+6</font>%(최대 <font color=\"red\">+30</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
         },
         {
           "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+7</font>%(최대 <font color=\"red\">+35</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+3</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
