@@ -79,7 +79,7 @@
     44,
     64,
     70,
-    44,
+    45,
     65,
     81
   ],
@@ -111,7 +111,7 @@
       "Skill": 87,
       "SkillRate": 27,
       "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">80</font>% 이상 일 경우 <br/>피격 치명타확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">70</font>% 이하인 경우 <br/>전투 진입시 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">70</font>% 이하인 경우 <br/>전투시 주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "빛과 어둠의 사자",
@@ -557,7 +557,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "5턴"
+          "Value": "6턴"
         },
         {
           "Label": "사거리",

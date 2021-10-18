@@ -57,16 +57,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+4</font>%(최대 <font color=\"red\">+20</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/>"
+          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+4</font>%(최대 <font color=\"red\">+20</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+1</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+5</font>%(최대 <font color=\"red\">+25</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/>"
+          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+5</font>%(최대 <font color=\"red\">+25</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+6</font>%(최대 <font color=\"red\">+30</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/>"
+          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+6</font>%(최대 <font color=\"red\">+30</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+7</font>%(최대 <font color=\"red\">+35</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/>"
+          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+7</font>%(최대 <font color=\"red\">+35</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+3</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
         }
       ]
     }
@@ -79,7 +79,7 @@
     48,
     60,
     50,
-    66,
+    54,
     78,
     80
   ],
@@ -361,7 +361,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Loviner/0.webp",
-      "Desc": "<font color=\"purple\">배치</font> : <b>행동 종료 전 서로 다른 <font color=\"red\">2</font>개의 다른 아군을 <font color=\"purple\">배치</font><br/>사용 후 자신은 이동력 <font color=\"red\">+3</font> 획득<br/>지속 <font color=\"red\">1</font> 턴<br/>",
+      "Desc": "<font color=\"purple\">배치</font> : <b>행동 종료 전 서로 다른 <font color=\"red\">2</font>개의 다른 아군을 <font color=\"purple\">배치</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -493,7 +493,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Loviner/2.webp",
-      "Desc": "[물리 피해]단일 개체 <font color=\"red\">1.4</font>배 피해<br/><b>자신의 이동력이 적보다 높을 경우</b> <font color=\"blue\">선제 공격</font><br/><b>근접 병사 대동 시 함께 공격한다.</b><br/>해당 스킬은 <font color=\"blue\">근접 피해 감면</font>의 영향을 받지 않는다.",
+      "Desc": "[물리 피해]단일 개체 <font color=\"red\">1.4</font>배 피해<br/><b>자신의 이동력이 적보다 높을 경우</b> <font color=\"blue\">선제 공격</font><br/><b>근접 병사 대동 시 함께 공격한다.</b><br/>해당 스킬은 <font color=\"blue\">근접 피해 감면</font>의 영향을 받지 않는다.<br/>전투 후 <font color=\"red\">20</font>% 피해 수치만큼 <font color=\"green\">생명 회복</font> 한다.",
       "SubSkills": null,
       "Animation": null
     },
