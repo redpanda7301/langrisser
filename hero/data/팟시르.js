@@ -8,6 +8,10 @@
     {
       "ImageUrl": "팟시르/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "팟시르/3.webp",
+      "Desc": "형귀 스킨"
     }
   ],
   "Name": "팟시르",
@@ -97,6 +101,9 @@
         },
         {
           "ImageUrl": "팟시르/2/1.webp"
+        },
+        {
+          "ImageUrl": "팟시르/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -126,6 +133,9 @@
         },
         {
           "ImageUrl": "팟시르/2/1.webp"
+        },
+        {
+          "ImageUrl": "팟시르/3/1.webp"
         }
       ],
 	  "AttkRange": 2,

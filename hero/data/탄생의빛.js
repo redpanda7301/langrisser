@@ -12,6 +12,10 @@
     {
       "ImageUrl": "탄생의빛/3.webp",
       "Desc": "서밋아레나 S9 패자 스킨"
+    },
+    {
+      "ImageUrl": "탄생의빛/4.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "탄생의빛",
@@ -99,7 +103,10 @@
         },
         {
           "ImageUrl": "탄생의빛/3/1.webp"
-        }        
+        },
+        {
+          "ImageUrl": "탄생의빛/4/1.webp"
+        }
       ],
       "AttkRange": 2,
       "Move": 3,
@@ -131,6 +138,9 @@
         },
         {
           "ImageUrl": "탄생의빛/3/1.webp"
+        },
+        {
+          "ImageUrl": "탄생의빛/4/1.webp"
         }
       ],
       "AttkRange": 2,

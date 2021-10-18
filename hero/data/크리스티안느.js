@@ -8,6 +8,10 @@
     {
       "ImageUrl": "크리스티안느/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "크리스티안느/3.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "크리스티안느",
@@ -93,6 +97,9 @@
         },
         {
           "ImageUrl": "크리스티안느/2/1.webp"
+        },
+        {
+          "ImageUrl": "크리스티안느/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -122,6 +129,9 @@
         },
         {
           "ImageUrl": "크리스티안느/2/2.webp"
+        },
+        {
+          "ImageUrl": "크리스티안느/3/2.webp"
         }
       ],
       "AttkRange": 1,

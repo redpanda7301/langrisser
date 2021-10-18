@@ -557,7 +557,7 @@
       "Animation": "../img/Super/뮤_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": [
     {
       "Entry": "영웅소개",

@@ -71,7 +71,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "상업적 리더(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "화이트시시.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><b>턴 시작시</b> <font color=\"red\">50</font>% 확률로 <font color =\"gold\">전쟁 자금</font> <font color=\"red\">2</font>개 획득<br/><b>만약 얻지 못한 경우 다음 턴 때</b> 확률<font color=\"red\">+50</font>% <br/><font color =\"gold\">전쟁 자금</font> 획득 후 확률은 다시 <font color=\"red\">50</font>%로 초기화"
+  },
   "Soldiers": [
     0,
     1,

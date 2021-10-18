@@ -79,7 +79,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+      "Name": "마족의 뿔투구(투구)",
+      "Stats": "생명 437,마방 59",
+      "Icon": "리스틸.webp",
+      "Ability": "생명 <font color=\"red\">+10</font>%<br/>부대 생명이 <font color=\"red\">80</font>% 이상일 경우 방어, 마방 <font color=\"red\">+10</font>%<br/>적에게 피해를 입힌 후 <font color=\"blue\">주는 마법 피해</font> <font color=\"red\">-20</font>% 부여 <br/>지속 <font color=\"red\">2</font>턴"
+    },
   "Soldiers": [
     19,
     22,

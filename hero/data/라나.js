@@ -789,7 +789,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkHole.webp",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 <font color =\"red\">0.36</font>배의 광역 피해를 준다.<br/>각 부대에게 <b>무작위 <font color=\"blue\">디버프</font></b>를 <font color =\"red\">2</font>개씩 부여한다.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 <font color =\"red\">0.36</font>배의 광역 피해를 준다.<br/>각 부대에게 <b><font color=\"blue\">무작위 디버프</font></b>를 <font color =\"red\">2</font>개씩 부여한다.",
       "SubSkills": null,
       "Animation": null
     },
