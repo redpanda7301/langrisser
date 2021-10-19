@@ -569,7 +569,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/방주의성녀.webp",
-      "Desc": "직선 <font color=\"red\">3</font>칸 상 적에게 <font color=\"red\">0.33</font>배 피해를 입히고 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여 <br/>자신이 <font color=\"blue\">마족화</font> 상태일 경우, <font color=\"#778899\">신관</font> 병종인 <b>적 영웅의 병종을</b> <font color=\"#000044\">마물</font>로 전환<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "직선 <font color=\"red\">3</font>칸 상 적에게 <font color=\"red\">0.38</font>배 피해를 입히고 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여 <br/>자신이 <font color=\"blue\">마족화</font> 상태일 경우, <font color=\"#778899\">신관</font> 병종인 <b>적 영웅의 병종을</b> <font color=\"#000044\">마물</font>로 전환<br/>지속 <font color=\"red\">2</font>턴",
       "SubSkills": null,
       "Animation": "../img/Super/방주의성녀_Ani.webp"
     }
