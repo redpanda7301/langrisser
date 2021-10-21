@@ -361,7 +361,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Loviner/0.webp",
-      "Desc": "<font color=\"purple\">배치</font> : <b>행동 종료 전 서로 다른 <font color=\"red\">2</font>개의 다른 아군을 <font color=\"purple\">배치</font>",
+      "Desc": "<font color=\"purple\">배치</font> : <b>행동 종료 전 서로 다른 <font color=\"red\">2</font>개의 다른 아군을 <font color=\"purple\">배치</font><br/><font color=\"purple\">배치</font> 대상은 해당 위치에서 <font color=\"red\">2</font>칸",
       "SubSkills": null,
       "Animation": null
     },
