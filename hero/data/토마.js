@@ -398,7 +398,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Touma/1.webp",
-      "Desc": "[패시브]<b>전투 진입 전 목표 이동력이 <font color=\"red\">4</font>칸 이상일 경우</b> <br/>이동력 <font color=\"red\">-2</font> 및 <font color=\"blue\">호위 무시</font>, 지속 <font color=\"red\">1<font>턴</font></font>",
+      "Desc": "[패시브]<b>전투 진입 전 목표 이동력이 <font color=\"red\">4</font>칸 이상일 경우</b> <br/>이동력 <font color=\"red\">-2</font> 및 <font color=\"blue\">호위 불가 디버프</font> 부여, 지속 <font color=\"red\">1<font>턴</font></font>",
       "SubSkills": null,
       "Animation": null
     },
