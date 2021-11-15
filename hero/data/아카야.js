@@ -94,7 +94,7 @@
   ],
   "Jobs": [
     {
-      "Name": "시카 영매술사",
+      "Name": "시카의 초혼사",
       "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
@@ -126,7 +126,7 @@
       "HeartFetterBouns2": "생명이 70%이하일때 입히는피해 +10%"
     },
     {
-      "Name": "시카 성녀",
+      "Name": "시카의 성녀",
       "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
