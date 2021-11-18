@@ -603,19 +603,19 @@
         {
           "Name": "<b><font color=\"#0070c0\">신속 모드</font></b>",
           "Entries": null,
-          "IconImageUrl": null,
+          "IconImageUrl": "../img/Super/베르너_1.webp",
           "Desc": "[지원][액티브]자신 부대 이동력 <font color=\"red\">+3</font>칸, <br/>전투 진입 전 이동 거리가 <font color=\"red\">4</font>칸 이상일 경우 <b><font color=\"blue\">선공</font></b>"
         },
         {
           "Name": "<b><font color=\"#0070c0\">강습 모드</font></b>",
           "Entries": null,
-          "IconImageUrl": null,
+          "IconImageUrl": "../img/Super/베르너_2.webp",
           "Desc": "[지원] 자신 부대가 공격 전 이동한 거리 <font color=\"red\">1</font>칸 당 피해 <font color=\"red\">+3</font>% (최대 <font color=\"red\">15</font>%)"
         },
         {
           "Name": "<b><font color=\"#0070c0\">방어 모드</font></b>",
           "Entries": null,
-          "IconImageUrl": null,
+          "IconImageUrl": "../img/Super/베르너_3.webp",
           "Desc": "[지원] 자신 부대가 받는 피해 <font color=\"red\">-15</font>%, <b><font color=\"blue\">위치 이동 면역</font></b>, 반격 피해 <font color=\"red\">+20</font>%, <br/>행동 종료 시 부대 생명 <font color=\"red\">35</font>% 수치 생명 회복"
         }
       ],

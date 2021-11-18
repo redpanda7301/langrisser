@@ -72,6 +72,14 @@
   ],
   "SPTalent": null,
   "Equip": null,
+/*
+  "Equip": {
+    "Name": "황권의 갑옷(갑옷)",
+    "Stats": "생명 437,방어 65",
+    "Icon": "오토크라토4세.webp",
+    "Ability": "방어,마방 <font color=\"red\">+5</font>%<br/>선공으로 피해를 입힐 경우 적 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 강탈<br/>모든 적이 갖고 있는 '<font color=\"blue\">도발</font>' 효과 <font color=\"red\">1</font>개당 <br/>부대의 생명을 제외한 모든 스탯 <font color=\"red\">+2</font>% <br/>(최대 <font color=\"red\">10</font>%)"
+  },
+  */
   "Soldiers": [
     31,
     52,
