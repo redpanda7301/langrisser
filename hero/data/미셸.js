@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+10</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>턴, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
+          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+10</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>턴, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
         },
         {
-          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+12</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>턴, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
+          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+12</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>턴, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
         },
         {
-          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+15</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>턴, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
+          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+15</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>턴, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
         },
         {
-          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+20</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>턴, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
+          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+20</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>턴, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
         }
       ]
     }
@@ -192,7 +192,7 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank2-1",
+            "rank2-2",
             "rank1-2",
             "rank1-1"
           ]
@@ -202,15 +202,15 @@
           "Materials": [
             "rank3-1",
             "rank3-6",
-            "rank2-1",
+            "rank2-2",
             "rank2-6"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank4-1",
             "rank4-2",
+            "rank4-6",
             "rank3-1",
             "rank3-6"
           ]
@@ -223,27 +223,27 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank2-1",
-            "rank1-2",
-            "rank1-1"
+            "rank2-5",
+            "rank1-4",
+            "rank1-5"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank3-1",
-            "rank3-6",
-            "rank2-1",
-            "rank2-2"
+            "rank3-4",
+            "rank3-5",
+            "rank2-4",
+            "rank2-5"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank4-1",
-            "rank4-2",
-            "rank3-1",
-            "rank3-6"
+            "rank4-4",
+            "rank4-5",
+            "rank3-4",
+            "rank3-5"
           ]
         }
       ]
@@ -254,37 +254,37 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank5-6",
-            "rank5-3",
-            "rank4-2",
-            "rank4-6"
+            "rank5-4",
+            "rank5-5",
+            "rank4-4",
+            "rank4-5"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank6-2",
-            "rank6-1",
-            "rank5-6",
-            "rank5-3"
+            "rank6-6",
+            "rank6-7",
+            "rank5-4",
+            "rank5-5"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank7-1",
-            "rank7-7",
-            "rank6-2",
-            "rank6-1"
+            "rank7-5",
+            "rank7-6",
+            "rank6-6",
+            "rank6-7"
           ]
         },
         {
           "Name": "T4",
           "Materials": [
-            "rank8-2",
-            "rank8-1",
-            "rank7-1",
-            "rank7-7"
+            "rank8-4",
+            "rank8-8",
+            "rank7-4",
+            "rank7-6"
           ]
         }
       ]
@@ -303,8 +303,8 @@
           {
             "Name": "T2",
             "Materials": [
-              "rank3-6",
               "rank3-1",
+              "rank3-6",
               "rank2-2",
               "rank2-1"
             ]
@@ -312,16 +312,16 @@
           {
             "Name": "T3",
             "Materials": [
+              "rank4-1",
               "rank4-2",
-              "rank4-6",
-              "rank3-6",
-              "rank3-1"
+              "rank3-1",
+              "rank3-6"
             ]
           }
         ]
       },
     {
-      "ClassTitle": "마갑 투장 - 개량형 : 생명+90, 공격+25, 방어+10",
+      "ClassTitle": "검투 대장 : 생명+90, 공격+25, 방어+10",
       "Tiers": [
         {
           "Name": "T1",
@@ -551,7 +551,7 @@
       "Animation": null
     },
     {
-        "Name": "자수정 폭발",
+        "Name": "화염 가르기",
         "Cost": "COST 3",
         "Entries": [
           {

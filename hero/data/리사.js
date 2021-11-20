@@ -224,37 +224,6 @@
       ]
     },
     {
-      "ClassTitle": "저격수 : 공격+12, 생명+48",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank2-1",
-            "rank1-1",
-            "rank1-4"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank3-1",
-            "rank3-4",
-            "rank2-1",
-            "rank2-5"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank4-1",
-            "rank4-5",
-            "rank3-1",
-            "rank3-4"
-          ]
-        }
-      ]
-    },
-    {
       "ClassTitle": "독행협객 : 공격+25, 생명+90, 기술+10",
       "Tiers": [
         {
@@ -296,7 +265,38 @@
       ]
     },
     {
-      "ClassTitle": "독행협객 : 공격+25, 생명+90, 기술+10",
+      "ClassTitle": "저격수 : 공격+12, 생명+48",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-1",
+            "rank1-1",
+            "rank1-4"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank3-1",
+            "rank3-4",
+            "rank2-1",
+            "rank2-5"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-1",
+            "rank4-5",
+            "rank3-1",
+            "rank3-4"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "레인저 : 공격+25, 생명+90, 기술+10",
       "Tiers": [
         {
           "Name": "T1",

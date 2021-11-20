@@ -176,13 +176,13 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank1-5"
+            "rank1-4"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank1-5"
+            "rank1-4"
           ]
         }
       ]
@@ -193,25 +193,25 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank2-4",
-            "rank1-4",
-            "rank1-5"
+            "rank2-2",
+            "rank1-1",
+            "rank1-2"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank3-4",
-            "rank3-5",
-            "rank2-4",
-            "rank2-5"
+            "rank3-1",
+            "rank3-6",
+            "rank2-1",
+            "rank2-2"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
+            "rank4-2",
             "rank4-4",
-            "rank4-5",
             "rank3-4",
             "rank3-5"
           ]
@@ -224,27 +224,27 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank2-3",
+            "rank2-1",
             "rank1-1",
-            "rank1-3"
+            "rank1-4"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank3-3",
-            "rank3-2",
-            "rank2-3",
-            "rank2-2"
+            "rank3-1",
+            "rank3-4",
+            "rank2-1",
+            "rank2-5"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank4-6",
-            "rank4-2",
-            "rank3-3",
-            "rank3-2"
+            "rank4-1",
+            "rank4-5",
+            "rank3-1",
+            "rank3-4"
           ]
         }
       ]
@@ -296,7 +296,7 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank2-5",
+            "rank2-4",
             "rank1-4",
             "rank1-5"
           ]
@@ -354,10 +354,10 @@
         {
           "Name": "T4",
           "Materials": [
-            "rank8-6",
-            "rank8-8",
-            "rank7-4",
-            "rank7-6"
+            "rank8-4",
+            "rank8-9",
+            "rank7-3",
+            "rank7-4"
           ]
         }
       ]
