@@ -46,7 +46,7 @@
   "HeartFetter": "생명+700, 방어+40, 마방+60",
   "Talent": [
     {
-      "Name": "불멸의 자수정",
+      "Name": "마장 갑주",
       "Icon": "Gift_Michelle.webp",
       "Abilities": [
         {
