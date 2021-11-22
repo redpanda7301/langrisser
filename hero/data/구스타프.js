@@ -38,7 +38,7 @@
       "Condition": "구스타프를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "리코리스의 도움을 받아 운명의문 4번 클리어"
+      "Condition": "리코리스의 도움을 받아 운명의문 3번 클리어"
     },
     {
       "Condition": "보젤의 도움을 받아 운명의문 5번 클리어"
@@ -57,16 +57,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+4</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">50</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+4</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">50</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">2</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">50</font>% 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
         },
         {
-          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+6</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">65</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+6</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">65</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">2</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">65</font>% 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
         },
         {
-          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+8</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">80</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+8</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">80</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">3</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">80</font>% 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
         },
         {
-          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+10</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">100</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+10</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">100</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">3</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">100</font>% 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
         }
       ]
     }

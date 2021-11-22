@@ -167,7 +167,7 @@
       "Icon": "Icon_Occupation_CavalrySP.webp",
       "SD": [
         {
-          "ImageUrl": "디하르트/1/3.webp"
+          "ImageUrl": "디하르트/sp/1.webp"
         },
         {
           "ImageUrl": "디하르트/2/3.webp"
@@ -211,7 +211,7 @@
           "ImageUrl": "디하르트/3/2.webp"
         },
         {
-          "ImageUrl": "디하르트/sp/1.webp"
+          "ImageUrl": "디하르트/1/2.webp"
         }
       ],
       "AttkRange": 2,
