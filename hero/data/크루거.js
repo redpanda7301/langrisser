@@ -8,6 +8,10 @@
     {
       "ImageUrl": "크루거/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "크루거/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "사신 크루거",
@@ -91,6 +95,9 @@
         },
         {
           "ImageUrl": "크루거/2/1.webp"
+        },
+        {
+          "ImageUrl": "크루거/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -120,6 +127,9 @@
         },
         {
           "ImageUrl": "크루거/2/1.webp"
+        },
+        {
+          "ImageUrl": "크루거/3/1.webp"
         }
       ],
       "AttkRange": 2,

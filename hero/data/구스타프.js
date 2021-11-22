@@ -57,16 +57,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "스킬 사용 후 지력 마방 <font color=\"red\">+4</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">50</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color\"red\">1</font>행동"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+4</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">50</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "스킬 사용 후 지력 마방 <font color=\"red\">+6</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">65</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color\"red\">1</font>행동"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+6</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">65</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "스킬 사용 후 지력 마방 <font color=\"red\">+8</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">80</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color\"red\">1</font>행동"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+8</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">80</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "스킬 사용 후 지력 마방 <font color=\"red\">+10</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">100</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color\"red\">1</font>행동"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+10</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">100</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동"
         }
       ]
     }

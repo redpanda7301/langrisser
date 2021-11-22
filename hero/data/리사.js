@@ -4,10 +4,6 @@
     {
       "ImageUrl": "리사/1.webp",
       "Desc": "기본"
-    },
-    {
-      "ImageUrl": "리사/2.webp",
-      "Desc": "빛의 메아리"
     }
   ],
   "Name": "리사",
@@ -47,8 +43,8 @@
   "HeartFetter": "생명+700, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "고고한 의지",
-      "Icon": "68.webp",
+      "Name": "광야를 누비는 영혼",
+      "Icon": "Gift_Liza.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -90,9 +86,6 @@
       "SD": [
         {
           "ImageUrl": "리사/1/1.webp"
-        },
-        {
-          "ImageUrl": "리사/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -119,9 +112,6 @@
       "SD": [
         {
           "ImageUrl": "리사/1/2.webp"
-        },
-        {
-          "ImageUrl": "리사/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -681,7 +671,7 @@
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/Super/리사_4.webp",
+          "IconImageUrl": "../img/skills/Liza/1.webp",
           "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해, <br/><b>전투 전 적을 <font color=\"blue\">기절</font>시킨다.<br/>지속 <font color=\"red\">1</font>행동<br/><b>전투 후</b> 적에게 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"blue\">고정피해</font> 및 <br/>공격 <font color=\"red\">2</font>배 수치로 모든 <br/>아군 <font color=\"green\">생명 회복</font>"
         },
       ],

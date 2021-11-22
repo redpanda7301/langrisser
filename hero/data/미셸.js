@@ -31,10 +31,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "미셸를 출전시켜 아레나 5승 달성"
+      "Condition": "미셸을 출전시켜 아레나 5승 달성"
     },
     {
-      "Condition": "미셸를 출전시켜 시공의 균열 3-1[정예] 클리어"
+      "Condition": "미셸을 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
       "Condition": "마리안델의 도움 하에 운명의문4 클리어"
@@ -545,7 +545,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/skills/Michelle/2.webp",
+      "IconImageUrl": "../img/skills/Michelle/3.webp",
       "Desc": "<font color=\"red\">1</font>줄 직선상 적에게 <font color=\"red\">0.33</font>배 피해 및 <font color=\"blue\">위치 이동</font><br/><font color=\"blue\">위치 이동</font> : 목표를 <font color=\"red\">2</font>칸 밀침",
       "SubSkills": null,
       "Animation": null

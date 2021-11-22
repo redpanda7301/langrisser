@@ -591,7 +591,7 @@
       "Animation": "../img/Super/수제트_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null
 }];

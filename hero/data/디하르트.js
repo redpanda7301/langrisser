@@ -12,6 +12,10 @@
     {
       "ImageUrl": "디하르트/3.webp",
       "Desc": "비경상점"
+    },
+    {
+      "ImageUrl": "디하르트/sp.webp",
+      "Desc": "SP 각성"
     }
   ],
   "Name": "디하르트",
@@ -19,20 +23,20 @@
   "Rank": [
     0
   ],
-  "SP": false,
+  "SP": true,
   "Groups": [
     0,
     3,
     8
   ],
   "HP": 20,
-  "SPHP": 0,
+  "SPHP": 30,
   "Attk": 35,
-  "SPAttk": 0,
+  "SPAttk": 35,
   "Def": 35,
-  "SPDef": 0,
+  "SPDef": 25,
   "MagicDef": 10,
-  "SPMagicDef": 0,
+  "SPMagicDef": 10,
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
@@ -75,7 +79,33 @@
       ]
     }
   ],
-  "SPTalent": null,
+  "SPTalent": [
+    {
+      "Name": "성실한 의지",
+      "Icon": "SP_Gift_Dehault.webp",
+      "Abilities": [
+        {
+          "Desc": "1성"
+        },
+        {
+          "Desc": "2성"
+        },
+        {
+          "Desc": "치명타, 치명타 피해 <font color=\"red\">+10</font>% <br/>자신 <font color=\"red\">2</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-10</font>%, <br/>행동 종료 시 부대 생명 <font color=\"red\">10</font>% <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
+        },
+        {
+          "Desc": "치명타, 치명타 피해 <font color=\"red\">+15</font>% <br/>자신 <font color=\"red\">2</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-12</font>%, <br/>행동 종료 시 부대 생명 <font color=\"red\">15</font>% <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
+        },
+        {
+          "Desc": "치명타, 치명타 피해 <font color=\"red\">+20</font>% <br/>자신 <font color=\"red\">3</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-15</font>%, <br/>행동 종료 시 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
+        },
+        {
+          "Desc": "치명타, 치명타 피해 <font color=\"red\">+25</font>% <br/>자신 <font color=\"red\">3</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-20</font>%, <br/>행동 종료 시 부대 생명 <font color=\"red\">25</font>% <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
+
+        }
+      ]
+    }
+  ],
   "Equip": {
     "Name": "황금 사자(투구)",
     "Stats": "생명 583,마방 48",
@@ -93,7 +123,8 @@
     60,
     71,
     73,
-    79
+    79,
+    10
   ],
   "Jobs": [
     {
@@ -108,6 +139,9 @@
         },
         {
           "ImageUrl": "디하르트/3/1.webp"
+        },
+        {
+          "ImageUrl": "디하르트/sp/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -129,6 +163,41 @@
       "HeartFetterBouns2": "생명이 70%이하일때 치명타피해 +10%"
     },
     {
+      "Name": "이국의 협객",
+      "Icon": "Icon_Occupation_CavalrySP.webp",
+      "SD": [
+        {
+          "ImageUrl": "디하르트/1/3.webp"
+        },
+        {
+          "ImageUrl": "디하르트/2/3.webp"
+        },
+        {
+          "ImageUrl": "디하르트/3/3.webp"
+        },
+        {
+          "ImageUrl": "디하르트/sp/1.webp"
+        }
+      ],
+      "AttkRange": 1,
+      "Move": 5,
+      "MoveType": "FieldArmy",
+      "HP": 4481,
+      "HPRate": 74,
+      "Attk": 585,
+      "AttkRate": 89,
+      "Int": 222,
+      "IntRate": 37,
+      "Def": 304,
+      "DefRate": 68,
+      "MagicDef": 283,
+      "MagicDefRate": 63,
+      "Skill": 164,
+      "SkillRate": 46,
+      "HeartFetterBouns1": "부대 생명 백분비가 자신보다 낮은 부대와 전투 시 <br/>전투 진입 후 받는 피해량 <font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "생명 백분비가 자신보다 낮은 부대와 교전할 경우, <br/>전투 진입 후 주는 피해량 <font color =\"red\">+10</font>%"
+    },
+    {
       "Name": "하이 마스터",
       "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
@@ -140,6 +209,9 @@
         },
         {
           "ImageUrl": "디하르트/3/2.webp"
+        },
+        {
+          "ImageUrl": "디하르트/sp/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -381,7 +453,178 @@
       ]
     }
   ],
-  "SPOpenConditions": null,
+  "SPOpenConditions": [
+    {
+      "Name": "개방",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/AlterEgo_Dehault.webp",
+          "Amount": 1
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank8-7.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank7-7.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank6-6.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 미션",
+      "Materials": [],
+      "Desc": "디하르트를 파티에 넣어 형귀 샘슨(기병) 60 이상 클리어"
+    },
+    {
+      "Name": "2단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "2단계 미션",
+      "Materials": [],
+      "Desc": "황금 사자(투구) 레벨 50 달성"
+    },
+    {
+      "Name": "3단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
+          "Amount": 2
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "3단계 미션",
+      "Materials": [],
+      "Desc": "디하르트를 파티에 넣어 화룡 파프닐 60 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "이국의 협객 전직 가능, 성실한 의지(SP 고유기), SP 일러스트 획득"
+    },
+    {
+      "Name": "4단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h2.webp",
+          "Amount": 60
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h2-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/heart/x.webp",
+          "Amount": 12
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "4단계 미션",
+      "Materials": [],
+      "Desc": "디하르트를 파티에 넣어 형귀 샘슨(기병) 65 이상 클리어"
+    },
+    {
+      "Name": "5단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "5단계 미션",
+      "Materials": [],
+      "Desc": "디하르트를 파티에 넣어 화룡 파프닐 65 이상 클리어"
+    },
+    {
+      "Name": "6단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+          "Amount": 600
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Rider1.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Rider2.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Rider6.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "6단계 미션",
+      "Materials": [],
+      "Desc": "디하르트를 파티에 넣어 발키리 65 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "SP 스탯, SP 스킬 2개 활성화, 고블린 나이트 고용가능"
+    }
+  ],
   "Skills": [
     {
       "Name": "질풍 돌격",
@@ -566,6 +809,58 @@
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.webp",
       "Desc": "[패시브]치명타율 +10%. 피해를 줄 때 50%의 확률로 적 부대의 패시브 스킬을 무효화한다.<br/>2턴 지속, 치명타 발생 시 반드시 발동.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 인연의 맹세",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "맵전체"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/디하르트/1.webp",
+      "Desc": "[액티브]<b>아군 여성 <font color=\"red\">1</font>명에게 사용<br/>자신과 목표의 공,방 능력 대폭 상승<br/>자신에겐 추가로 주는 피해량 <font oclor=\"red\">+15</font>%, <br/>'<font oclor=\"blue\">호위 무시</font> 공격 시 <font oclor=\"blue\">병종 상성 무시</font>' 효과 부여 지속 <font oclor=\"red\">4</font>턴 <br/>여성이 '<font color=\"green\">빛의 기원</font>' 진영일 경우 쌍방은 추가로 '<font color=\"blue\">계약</font>' 효과를 받는다, 지속 <font color=\"red\">4</font>행동, <b>해제 불가</b><br/><font color=\"blue\">계약</font> : <b><font color=\"blue\">계약</font> 효과를 가진 아군 사망 시 다른 계약 대상은</b> 생명 <font color=\"red\">60</font>% <font color=\"green\">회복</font> 및 '<font color=\"blue\">면역</font>' 효과 획득 <br/>지속 <font color=\"red\">2</font>턴",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 나는 것처럼",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/디하르트/2.webp",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>치명타 확률 <font color=\"red\">+20</font>% <br/>전투 후 아군 여성 영웅 <font color=\"red\">1</font>명당 해당 스킬 쿨타임 <font color=\"red\">-1</font>",
       "SubSkills": null,
       "Animation": null
     },
