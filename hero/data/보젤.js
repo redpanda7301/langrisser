@@ -616,7 +616,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Skeleton04.webp",
+      "IconImageUrl": "../img/skills/Skill_Teleport.webp",
       "Desc": "망령술사 부대를 1개 소환한다.",
       "SubSkills": null,
       "Animation": null
