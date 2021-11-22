@@ -2209,3 +2209,19 @@ div.view_title a { position: absolute; top: 12px; right: 0; display: block; widt
 #banner-wrapper img {
 	width: 100%;
 }
+
+p.other-names {
+	font-size: 15px;
+}
+
+#misc-content {
+	display: none;
+}
+
+#misc-control::before {
+	content: "(열기 \0023F7)"
+}
+
+#misc-control.opened::before {
+	content: "(닫기 \0023F6)"
+}
