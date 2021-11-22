@@ -19,7 +19,7 @@
   ],
   "HP": 30,
   "SPHP": 0,
-  "Attk": 300,
+  "Attk": 30,
   "SPAttk": 0,
   "Def": 20,
   "SPDef": 0,

@@ -32,7 +32,7 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "구스타프가 레벨30에 도달"
+      "Condition": "아레나 5승 달성"
     },
     {
       "Condition": "구스타프를 출전시켜 시공의 균열 3-1[정예] 클리어"
