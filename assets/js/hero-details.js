@@ -28,6 +28,7 @@ function initPage() {
     var SkillInfoTemplate = _.template($("#skill-info-template").html());
     var BioInfoTemplate = _.template($("#bio-info-template").html());
     var PerformanceInfoTemplate = _.template($("#performance-info-template").html());
+	var MiscInfoTemplate = _.template($("#misc-info-template").html());
     //var ProposeInfoTemplate = _.template($("#propose-info-template").html());
     $("#skin-carousel").replaceWith(skinTemplate(data[0]));
     $("#basic-info").replaceWith(basicInfoTemplate(data[0]));
@@ -39,6 +40,7 @@ function initPage() {
     $("#skill-info").replaceWith(SkillInfoTemplate(data[0]));
     $("#bio-info").replaceWith(BioInfoTemplate(data[0]));
     $("#performance-info").replaceWith(PerformanceInfoTemplate(data[0]));
+	$("#misc-info").replaceWith(MiscInfoTemplate(data[0]));
     //$("#propose-info").replaceWith(ProposeInfoTemplate(data[0]));
     showSlides(slideIndex);
     $('#input-4').rating({
@@ -74,6 +76,11 @@ function initPage() {
             emptyStar: '<img src="../img/Icon/Icon_StarGray.webp" width="35">',
         });
     }
+	
+	$("#misc-label").click(function() {
+		$("#misc-content").toggle();
+		$("#misc-control").toggleClass("opened");
+	});
 }
 
 function getParameterByName(name, url = window.location.href) {

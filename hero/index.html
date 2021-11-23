@@ -38,6 +38,8 @@
                         <div id="bio-info"></div>
                         <!-- Performance Info -->
                         <div id="performance-info"></div>
+						<!-- Misc Info -->
+                        <div id="misc-info"></div>
                     </div>
                 </div>                
             </div>
@@ -68,6 +70,26 @@
         
         <!-- Basic Info Template -->
         <script type="text/html" id="basic-info-template">
+			<%
+				var name = Name;
+				
+				try {				
+					if (ChName.length || JapName.length || EngName.length) {
+						name += "<p class=\'other-names\'>("
+						if (ChName.length) {
+							name += "<span>" + ChName + "</span>";
+						}
+						if (JapName.length) {
+							name += " / <span>" + JapName + "</span>";
+						}
+						if (EngName.length) {
+							name += " / <span>" + EngName + "</span>";
+						}
+						name += ")</p>";
+					}
+				}
+				catch(e) {}
+			%>
             <div class="col-5 col-12-medium">
                 <section>
                     <table border="0" cellpadding="0" cellspacing="1">
@@ -80,7 +102,7 @@
                         <tr>
                         <tr>
                             <th>이름</th>
-                            <td colspan="3"><%=Name%></td>
+                            <td colspan="3"><%=name%></td>
                         </tr>
                         <tr>
                             <th>CV</th>
@@ -157,15 +179,15 @@
                             <th><img src="../img/Icon/Icon_pink.webp" width="32" height="32" /></th>
                             <td colspan="3"><%=HeartFetter%></td>
                         </tr>
-                        <tr>
-                            <%if (Propose) {%>
+						<%if (Propose) {%>
+                        <tr>                            
                             <th><img src="../img/Icon/ICON_Confession.webp" width="32" height="32" /></th>
-                                <td colspan="3">
-                                    <a style="cursor:pointer;" onclick="propose('https://redpanda7301.github.io/langrisser/img/')">고백</a>
-                                    <br/><label>(gif 데이터 주의 및 일부 영웅 비율 개선중)</label>
-                                </td>                            
-                            <%}%>
+							<td colspan="3">
+								<a style="cursor:pointer;" onclick="propose('https://redpanda7301.github.io/langrisser/img/')">고백</a>
+								<br/><label>(gif 데이터 주의 및 일부 영웅 비율 개선중)</label>
+							</td>
                         </tr>
+						<%}%>						
                     </table>
                 </section>
             </div>
@@ -605,6 +627,35 @@
                             </td>
                         </tr>
                         <%});%>
+                    </table>
+                </section>
+            </div>
+            <%}%>
+        </script>
+		
+		<!-- Misc Info -->
+        <script type="text/html" id="misc-info-template">
+			<%
+				var misc = "";
+				
+				try {
+					misc = Misc;
+				}
+				catch(e) { }
+			%>
+            <%if (misc.length) {%>
+            <div class="col-12">
+                <section>
+                    <div id="misc-label" class="view_title">
+						<div style="float: left;">기타</div>
+						<div id="misc-control" style="float: right; font-size: 14px; font-weight: bold;"></div>
+					</div>
+                    <table id="misc-content" border="0" cellpadding="0" cellspacing="1">
+						<tr>
+                            <td>
+                                <%=Misc%>
+                            </td>
+                        </tr>
                     </table>
                 </section>
             </div>
