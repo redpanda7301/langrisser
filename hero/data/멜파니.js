@@ -7,6 +7,9 @@
     }
   ],
   "Name": "멜파니",
+  "ChName": "梅露帕妮",
+  "EngName": "Melania",
+  "JapName": "メルパーニ",
   "CV": "히다카 리나",
   "Rank": [
     1

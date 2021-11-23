@@ -15,6 +15,9 @@
     }
   ],
   "Name": "로젠실",
+  "ChName": "罗泽希尔",
+  "EngName": "Rozenciel",
+  "JapName": "ローゼンシル",
   "CV": "타나카 리에",
   "Rank": [
     0

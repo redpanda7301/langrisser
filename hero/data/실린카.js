@@ -15,6 +15,9 @@
     }
   ],
   "Name": "실린카",
+  "ChName": "希琳卡",
+  "EngName": "Shilinka",
+  "JapName": "シリカ",
   "CV": "카와스미 아야코",
   "Rank": [
     0

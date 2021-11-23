@@ -15,6 +15,9 @@
     }
   ],
   "Name": "베르너",
+  "ChName": "沃尔纳",
+  "EngName": "Werner",
+  "JapName": "ヴェルナー",
   "CV": "이시카와 카이토",
   "Rank": [
     0

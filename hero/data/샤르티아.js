@@ -11,6 +11,9 @@
     }
   ],
   "Name": "샤르티아 블러드폴른",
+  "ChName": "夏提雅",
+  "EngName": "Shalltear",
+  "JapName": "シャルティア",
   "CV": "우에사카 스미레",
   "Rank": [
     0

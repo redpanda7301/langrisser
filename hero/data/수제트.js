@@ -11,6 +11,9 @@
     }
   ],
   "Name": "수제트",
+  "ChName": "红月之王",
+  "EngName": "Lord of Crimzo",
+  "JapName": "",
   "CV": "니시다 노조미",
   "Rank": [
     0

@@ -8,6 +8,9 @@
   ],
   "Name": "아론",
   "CV": "모가미 츠구오",
+  "ChName": "阿伦",
+  "EngName": "Aaron",
+  "JapName": "アーロン",
   "Rank": [
     2
   ],

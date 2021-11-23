@@ -11,6 +11,9 @@
     }
   ],
   "Name": "우라메시 유스케",
+  "ChName": "浦饭幽助",
+  "EngName": "Yusuke",
+  "JapName": "浦飯幽助",
   "CV": "사사키 노조무",
   "Rank": [
     0

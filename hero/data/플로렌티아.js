@@ -15,6 +15,9 @@
     }
   ],
   "Name": "플로렌티아",
+  "ChName": "弗洛朗蒂娅",
+  "EngName": "Florentia",
+  "JapName": "フロレンティア",
   "CV": "혼다 마리코",
   "Rank": [
     0

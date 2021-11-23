@@ -8,6 +8,9 @@
   ],
   "Name": "레아드",
   "CV": "이노우에 유우키",
+  "ChName": "利亚特",
+  "EngName": "Laird",
+  "JapName": "レアード",
   "Rank": [
     2
   ],

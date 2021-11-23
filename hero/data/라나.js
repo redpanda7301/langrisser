@@ -35,6 +35,9 @@
     }
   ],
   "Name": "라나",
+  "ChName": "拉娜",
+  "EngName": "Lana",
+  "JapName": "ラーナ",
   "CV": "코시미즈 아미",
   "Rank": [
     0

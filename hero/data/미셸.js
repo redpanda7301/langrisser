@@ -11,6 +11,9 @@
     }
   ],
   "Name": "미셸",
+  "ChName": "米歇尔",
+  "EngName": "Michelle",
+  "JapName": "",
   "CV": "사사키 미코이",
   "Rank": [
     0

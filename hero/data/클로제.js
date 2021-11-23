@@ -7,6 +7,9 @@
     }
   ],
   "Name": "클로제",
+  "ChName": "科洛丝",
+  "EngName": "Klose",
+  "JapName": "クローゼ",
   "CV": "미나구치 유우코",
   "Rank": [
     1

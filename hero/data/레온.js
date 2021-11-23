@@ -28,6 +28,9 @@
   ],
   "Name": "레온",
   "CV": "오키아유 료타로",
+  "ChName": "利昂",
+  "EngName": "Leon",
+  "JapName": "レオン",
   "Rank": [
     0
   ],

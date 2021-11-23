@@ -19,6 +19,9 @@
     }
   ],
   "Name": "미지의기사",
+  "ChName": "谜之骑士",
+  "EngName": "Knight of Mystery",
+  "JapName": "謎の騎士",
   "CV": "이시카와 유이",
   "Rank": [
     0

@@ -16,6 +16,9 @@
   ],
   "Name": "소피아",
   "CV": "타카하시 아오",
+  "ChName": "索菲亚",
+  "EngName": "Sofia",
+  "JapName": "ソフィア",
   "Rank": [
     1
   ],

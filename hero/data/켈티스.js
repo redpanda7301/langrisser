@@ -11,6 +11,9 @@
     }
   ],
   "Name": "켈티스",
+  "ChName": "凯尔蒂斯",
+  "EngName": "Kertesz",
+  "JapName": "",
   "CV": "야나기타 준이치",
   "Rank": [
     0
@@ -56,16 +59,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+20</font>%"
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+20</font>% <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+25</font>%"
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+25</font>% <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+30</font>%"
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+30</font>% <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+40</font>% "
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+40</font>% <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         }
       ]
     }
@@ -459,7 +462,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Kertesz/0_2.webp",
-      "Desc": "<font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다.",
+      "Desc": "사망 시 자신 주위 <font color=\"red\">3</font>칸 내의 적에게 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개를 부여한다.",
       "SubSkills":[
         {
           "Name": "<b><font color=\"#purple\">절망의 꿈</font></b>",

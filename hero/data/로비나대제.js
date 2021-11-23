@@ -11,6 +11,9 @@
     }
   ],
   "Name": "로비나 대제",
+  "ChName": "洛维奈尔大帝",
+  "EngName": "Emperor Loviner",
+  "JapName": "",
   "CV": "모리시마 슈타",
   "Rank": [
     0

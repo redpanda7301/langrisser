@@ -16,6 +16,9 @@
   ],
   "Name": "실버울프",
   "CV": "시무라 토모유키",
+  "ChName": "银狼",
+  "EngName": "SilverWolf",
+  "JapName": "シルバーウルフ",
   "Rank": [
     1
   ],

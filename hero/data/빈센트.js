@@ -15,6 +15,9 @@
     }
   ],
   "Name": "빈센트",
+  "ChName": "文森特",
+  "EngName": "Vincent",
+  "JapName": "ヴィンセント",
   "CV": "미도리카와 히카루",
   "Rank": [
     0

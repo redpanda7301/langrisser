@@ -20,6 +20,9 @@
   ],
   "Name": "크리스",
   "CV": "사쿠라 아야네",
+  "ChName": "克丽丝",
+  "EngName": "Chris",
+  "JapName": "",
   "Rank": [
     1
   ],

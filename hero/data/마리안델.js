@@ -11,6 +11,9 @@
     }
   ],
   "Name": "마리안델",
+  "ChName": "玛丽安蒂尔",
+  "EngName": "Mariandel",
+  "JapName": "",
   "CV": "미나구치 유우코",
   "Rank": [
     0

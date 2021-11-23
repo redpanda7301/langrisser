@@ -15,6 +15,9 @@
     }
   ],
   "Name": "팟시르",
+  "ChName": "帕希尔",
+  "EngName": "Patsyr",
+  "JapName": "パツィル",
   "CV": "타카하시 치아키",
   "Rank": [
     0

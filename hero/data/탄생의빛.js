@@ -19,6 +19,9 @@
     }
   ],
   "Name": "탄생의빛",
+  "ChName": "降生之光",
+  "EngName": "Light of Genesis",
+  "JapName": "光の巫女",
   "CV": "유우키 아오이",
   "Rank": [
     0

@@ -7,6 +7,9 @@
     }
   ],
   "Name": "하시바 토마",
+  "ChName": "羽柴当麻",
+  "EngName": "Touma",
+  "JapName": "羽柴当麻",
   "CV": "히로시 타케무라",
   "Rank": [
     1

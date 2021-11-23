@@ -7,6 +7,9 @@
     }
   ],
   "Name": "시노비베 히미코",
+  "ChName": "忍部火美子",
+  "EngName": "Himiko",
+  "JapName": "忍部ヒミコ",
   "CV": "하야시바라 메구미",
   "Rank": [
     0

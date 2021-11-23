@@ -11,6 +11,9 @@
     }
   ],
   "Name": "신구지 사쿠라",
+  "ChName": "真宫寺樱",
+  "EngName": "Sakura",
+  "JapName": "真宮寺さくら",
   "CV": "요코야마 치사",
   "Rank": [
     0

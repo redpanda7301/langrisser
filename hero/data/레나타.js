@@ -15,6 +15,9 @@
     }
   ],
   "Name": "레나타",
+  "ChName": "蕾娜塔",
+  "EngName": "Renata",
+  "JapName": "レナータ",
   "CV": "타카하시 미나미",
   "Rank": [
     0

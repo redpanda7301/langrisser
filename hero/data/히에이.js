@@ -11,6 +11,9 @@
     }
   ],
   "Name": "히에이",
+  "ChName": "飞影",
+  "EngName": "Hiei",
+  "JapName": "飛影",
   "CV": "히야마 노부유키",
   "Rank": [
     0

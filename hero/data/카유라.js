@@ -7,6 +7,9 @@
     }
   ],
   "Name": "카유라",
+  "ChName": "迦游罗",
+  "EngName": "Kayura",
+  "JapName": "迦遊羅",
   "CV": "카츠키 마사코",
   "Rank": [
     0

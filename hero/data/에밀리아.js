@@ -15,6 +15,9 @@
     }
   ],
   "Name": "에밀리아",
+  "ChName": "艾米莉亚",
+  "EngName": "Emilia",
+  "JapName": "エミリア",
   "CV": "쿠기미야 리에",
   "Rank": [
     0

@@ -20,6 +20,9 @@
   ],
   "Name": "란디우스",
   "CV": "오키아유 료타로",
+  "ChName": "兰迪乌斯",
+  "EngName": "Landius",
+  "JapName": "ランディウス",
   "Rank": [
     0
   ],

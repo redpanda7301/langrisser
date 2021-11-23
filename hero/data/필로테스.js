@@ -7,6 +7,9 @@
     }
   ],
   "Name": "필로테스",
+  "ChName": "比萝蒂丝",
+  "EngName": "Pirotess",
+  "JapName": "ピロテース",
   "CV": "타마가와 사키코",
   "Rank": [
     1

@@ -7,6 +7,9 @@
     }
   ],
   "Name": "카구라",
+  "ChName": "神乐",
+  "EngName": "Kagura",
+  "JapName": "",
   "CV": "치바 시게루",
   "Rank": [
     0

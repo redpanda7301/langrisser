@@ -15,6 +15,9 @@
     }
   ],
   "Name": "레인폴스",
+  "ChName": "雷因法鲁斯",
+  "EngName": "Rainforce",
+  "JapName": "レインフォルス",
   "CV": "하야미 쇼",
   "Rank": [
     0

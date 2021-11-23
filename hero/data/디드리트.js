@@ -11,6 +11,9 @@
     }
   ],
   "Name": "디드리트",
+  "ChName": "蒂德莉特",
+  "EngName": "Deedlit",
+  "JapName": "ディードリット",
   "CV": "토마 유미",
   "Rank": [
     0

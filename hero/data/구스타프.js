@@ -11,6 +11,9 @@
     }
   ],
   "Name": "구스타프",
+  "ChName": "古斯塔夫",
+  "EngName": "GusTav",
+  "JapName": "",
   "CV": "코바야시 유우",
   "Rank": [
     0
@@ -92,7 +95,7 @@
           "ImageUrl": "구스타프/1/1.webp"
         },
         {
-          "ImageUrl": "구스타프/1/1.webp"
+          "ImageUrl": "구스타프/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -121,7 +124,7 @@
           "ImageUrl": "구스타프/1/2.webp"
         },
         {
-          "ImageUrl": "구스타프/1/1.webp"
+          "ImageUrl": "구스타프/2/1.webp"
         }
       ],
       "AttkRange": 2,

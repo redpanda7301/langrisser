@@ -15,6 +15,9 @@
     }
   ],
   "Name": "마리엘",
+  "ChName": "玛丽埃尔",
+  "EngName": "Mariel",
+  "JapName": "マリエル",
   "CV": "야마모토 아야노",
   "Rank": [
     0

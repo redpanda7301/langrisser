@@ -11,6 +11,9 @@
     }
   ],
   "Name": "뮤",
+  "ChName": "茉",
+  "EngName": "Mu",
+  "JapName": "ミュー",
   "CV": "쿠와하라 유우키",
   "Rank": [
     0

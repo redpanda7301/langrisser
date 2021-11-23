@@ -7,6 +7,9 @@
     }
   ],
   "Name": "신파치",
+  "ChName": "志村新八",
+  "EngName": "Shinpachi",
+  "JapName": "",
   "CV": "치바 시게루",
   "Rank": [
     0

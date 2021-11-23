@@ -15,6 +15,9 @@
     }
   ],
   "Name": "아카야",
+  "ChName": "阿卡娅",
+  "EngName": "Aka",
+  "JapName": "アカヤ",
   "CV": "토요사키 아키",
   "Rank": [
     0

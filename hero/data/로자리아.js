@@ -15,6 +15,9 @@
     }
   ],
   "Name": "로자리아",
+  "ChName": "罗莎莉娅",
+  "EngName": "Rozalia",
+  "JapName": "ロザリア",
   "CV": "이구치 유카",
   "Rank": [
     0

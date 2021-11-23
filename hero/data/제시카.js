@@ -12,6 +12,9 @@
   ],
   "Name": "제시카",
   "CV": "타카하시 아오",
+  "ChName": "杰西卡",
+  "EngName": "Jessica",
+  "JapName": "ジェシカ",
   "Rank": [
     2
   ],

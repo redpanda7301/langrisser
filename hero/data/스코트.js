@@ -8,6 +8,9 @@
   ],
   "Name": "스코트",
   "CV": "이노우에 유우키",
+  "ChName": "斯科特",
+  "EngName": "Scott",
+  "JapName": "スコット",
   "Rank": [
     2
   ],

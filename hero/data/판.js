@@ -11,6 +11,9 @@
     }
   ],
   "Name": "판",
+  "ChName": "帕恩",
+  "EngName": "Parn",
+  "JapName": "パーン",
   "CV": "쿠사오 타케시",
   "Rank": [
     1

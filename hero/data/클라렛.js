@@ -23,6 +23,9 @@
     }
   ],
   "Name": "클라렛",
+  "ChName": "克拉蕾特",
+  "EngName": "Clarett",
+  "JapName": "クラレット",
   "CV": "유우키 아오이",
   "Rank": [
     0

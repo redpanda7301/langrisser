@@ -20,6 +20,9 @@
   ],
   "Name": "헤인",
   "CV": "사카구치 다이스케",
+  "ChName": "海恩",
+  "EngName": "Hein",
+  "JapName": "ヘイン",
   "Rank": [
     1
   ],

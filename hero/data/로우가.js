@@ -8,6 +8,9 @@
   ],
   "Name": "로우가",
   "CV": "타카하시 켄지",
+  "ChName": "洛加",
+  "EngName": "Rohga",
+  "JapName": "ロウガ",
   "Rank": [
     2
   ],

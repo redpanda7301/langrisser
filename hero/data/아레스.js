@@ -15,6 +15,9 @@
     }
   ],
   "Name": "아레스",
+  "ChName": "阿雷斯",
+  "EngName": "Ares",
+  "JapName": "アレス",
   "CV": "모리시마 슈타",
   "Rank": [
     0

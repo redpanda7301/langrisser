@@ -11,6 +11,9 @@
     }
   ],
   "Name": "베르너",
+  "ChName": "维尔纳",
+  "EngName": "Verner",
+  "JapName": "",
   "CV": "미도리카와 히카루",
   "Rank": [
     0

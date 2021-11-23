@@ -15,6 +15,9 @@
     }
   ],
   "Name": "오메가",
+  "ChName": "欧米伽",
+  "EngName": "Omega",
+  "JapName": "オメガ",
   "CV": "야노 토모야",
   "Rank": [
     0

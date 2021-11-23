@@ -16,6 +16,9 @@
   ],
   "Name": "윌러",
   "CV": "스즈무라 켄이치",
+  "ChName": "威拉",
+  "EngName": "Wiler",
+  "JapName": "ウィラー",
   "Rank": [
     0
   ],

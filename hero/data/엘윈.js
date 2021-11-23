@@ -32,6 +32,9 @@
   ],
   "Name": "엘윈",
   "CV": "호시 소이치로",
+  "ChName": "艾尔文",
+  "EngName": "Elwin",
+  "JapName": "エルウィン",
   "Rank": [
     0
   ],

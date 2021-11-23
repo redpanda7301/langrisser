@@ -15,6 +15,9 @@
     }
   ],
   "Name": "노에미",
+  "ChName": "诺埃米",
+  "EngName": "Noemi",
+  "JapName": "ノエミ",
   "CV": "무라카와 리에",
   "Rank": [
     0

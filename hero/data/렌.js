@@ -7,6 +7,9 @@
     }
   ],
   "Name": "렌",
+  "ChName": "玲",
+  "EngName": "Renne",
+  "JapName": "レン",
   "CV": "유우키 아오이",
   "Rank": [
     0

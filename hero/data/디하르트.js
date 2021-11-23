@@ -19,6 +19,9 @@
     }
   ],
   "Name": "디하르트",
+  "ChName": "迪哈尔特",
+  "EngName": "Dieharte",
+  "JapName": "ディハルト",
   "CV": "히라카와 다이스케",
   "Rank": [
     0

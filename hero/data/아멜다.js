@@ -28,6 +28,9 @@
   ],
   "Name": "아멜다",
   "CV": "우치다 마아야",
+  "ChName": "艾梅达",
+  "EngName": "Almeda",
+  "JapName": "アメルダ",
   "Rank": [
     3,
     0

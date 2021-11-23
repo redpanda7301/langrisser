@@ -7,6 +7,9 @@
     }
   ],
   "Name": "츠루기베 시바라쿠",
+  "ChName": "剑部武一郎",
+  "EngName": "Shibaraku",
+  "JapName": "剣部シバラク",
   "CV": "니시무라 토모미치",
   "Rank": [
     1

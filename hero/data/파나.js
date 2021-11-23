@@ -20,6 +20,9 @@
   ],
   "Name": "파나",
   "CV": "테라이 사오리",
+  "ChName": "法娜",
+  "EngName": "Fana",
+  "JapName": "ファーナ",
   "Rank": [
     1
   ],

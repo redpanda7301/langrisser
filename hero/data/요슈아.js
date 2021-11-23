@@ -11,6 +11,9 @@
     }
   ],
   "Name": "요슈아",
+  "ChName": "约修亚",
+  "EngName": "Joshua",
+  "JapName": "ヨシュア",
   "CV": "사이가 미츠키",
   "Rank": [
     0

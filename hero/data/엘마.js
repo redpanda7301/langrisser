@@ -15,6 +15,9 @@
     }
   ],
   "Name": "엘마",
+  "ChName": "艾尔玛",
+  "EngName": "Elma",
+  "JapName": "",
   "CV": "우에사카 스미레",
   "Rank": [
     0

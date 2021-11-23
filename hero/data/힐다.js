@@ -18,6 +18,9 @@
     }
   ],
   "Name": "힐다",
+  "ChName": "希尔达",
+  "EngName": "Hilda",
+  "JapName": "ヒルダ",
   "CV": "아라나미 카즈사",
   "Rank": [
     0

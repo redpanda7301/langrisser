@@ -7,6 +7,9 @@
     }
   ],
   "Name": "디오스",
+  "ChName": "迪欧斯",
+  "EngName": "Dios",
+  "JapName": "ディオス",
   "CV": "시모야마 요시미츠",
   "Rank": [
     2

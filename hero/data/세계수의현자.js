@@ -15,6 +15,9 @@
     }
   ],
   "Name": "세계수의 현자",
+  "ChName": "树之贤者",
+  "EngName": "Sage of the Trees",
+  "JapName": "世界樹の賢者",
   "CV": "오키아유 료타로",
   "Rank": [
     0

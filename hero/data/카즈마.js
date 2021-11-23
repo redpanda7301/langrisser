@@ -7,6 +7,9 @@
     }
   ],
   "Name": "쿠와바라 카즈마",
+  "ChName": "桑原和真",
+  "EngName": "Kuwabara",
+  "JapName": "桑原和真",
   "CV": "치바 시게루",
   "Rank": [
     1

@@ -15,6 +15,9 @@
     }
   ],
   "Name": "사신 크루거",
+  "ChName": "邪神库鲁加",
+  "EngName": "Kreuger",
+  "JapName": "邪神クルーガー",
   "CV": "마츠오카 요시츠구",
   "Rank": [
     0

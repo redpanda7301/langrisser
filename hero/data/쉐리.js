@@ -30,8 +30,11 @@
       "Desc": "SP 각성"
     }
   ],
-  "Name": "쉐리",
+  "Name": "雪莉",
   "CV": "호리에 유이",
+  "ChName": "海恩",
+  "EngName": "Cherie",
+  "JapName": "シェリー",
   "Rank": [
     0
   ],

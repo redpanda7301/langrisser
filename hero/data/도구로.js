@@ -7,7 +7,10 @@
     }
   ],
   "Name": "도구로 형제",
-  "CV": "겐다 테쇼",
+  "ChName": "户愚吕兄弟",
+  "EngName": "Toguro Bros",
+  "JapName": "戸愚呂兄弟",
+  "CV": "겐다 테쇼&카츠미 스즈키",
   "Rank": [
     0
   ],

@@ -11,6 +11,9 @@
     }
   ],
   "Name": "초월자",
+  "ChName": "超越之人",
+  "EngName": "Transcendent",
+  "JapName": "",
   "CV": "스와베 준이치",
   "Rank": [
     0

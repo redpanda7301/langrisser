@@ -15,6 +15,9 @@
     }
   ],
   "Name": "베티",
+  "ChName": "贝蒂",
+  "EngName": "Betty",
+  "JapName": "ベティ",
   "CV": "토죠 히사코",
   "Rank": [
     0

@@ -11,6 +11,9 @@
     }
   ],
   "Name": "아이리스",
+  "ChName": "爱丽丝",
+  "EngName": "Iris",
+  "JapName": "アイリス",
   "CV": "니시하라 쿠미코",
   "Rank": [
     1

@@ -16,6 +16,9 @@
   ],
   "Name": "발가스",
   "CV": "모가미 츠구오",
+  "ChName": "巴尔加斯",
+  "EngName": "Vargas",
+  "JapName": "バルガス",
   "Rank": [
     1
   ],

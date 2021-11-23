@@ -28,6 +28,9 @@
   ],
   "Name": "루나",
   "CV": "하야미 사오리",
+  "ChName": "露娜",
+  "EngName": "Luna",
+  "JapName": "ルナ",
   "Rank": [
     0
   ],

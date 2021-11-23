@@ -20,6 +20,9 @@
   ],
   "Name": "매튜(암살자)",
   "CV": "카키하라 테츠야",
+  "ChName": "马修",
+  "EngName": "Matthew",
+  "JapName": "マシュー",
   "Rank": [
     3,
     0

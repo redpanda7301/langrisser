@@ -7,6 +7,9 @@
     }
   ],
   "Name": "긴토키",
+  "ChName": "坂田银时",
+  "EngName": "Gintoki",
+  "JapName": "",
   "CV": "치바 시게루",
   "Rank": [
     0

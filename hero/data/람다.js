@@ -20,6 +20,9 @@
   ],
   "Name": "람다",
   "CV": "미나구치 유우코",
+  "ChName": "拉姆达",
+  "EngName": "Lambda",
+  "JapName": "ラムダ",
   "Rank": [
     0
   ],

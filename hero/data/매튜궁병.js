@@ -19,6 +19,9 @@
     }
   ],
   "Name": "매튜(궁병)",
+  "ChName": "马修",
+  "EngName": "Matthew",
+  "JapName": "マシュー",
   "CV": "카키하라 테츠야",
   "Rank": [
     3,

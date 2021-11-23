@@ -11,6 +11,9 @@
     }
   ],
   "Name": "알파",
+  "ChName": "阿尔法",
+  "EngName": "Alpha",
+  "JapName": "",
   "CV": "이토 시즈카",
   "Rank": [
     0

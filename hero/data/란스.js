@@ -12,6 +12,9 @@
   ],
   "Name": "란스",
   "CV": "모가미 츠구오",
+  "ChName": "兰斯",
+  "EngName": "Lance",
+  "JapName": "ランス",
   "Rank": [
     1
   ],

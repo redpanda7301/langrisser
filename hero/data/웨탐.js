@@ -7,6 +7,9 @@
     }
   ],
   "Name": "웨탐",
+  "ChName": "维坦",
+  "EngName": "Wehttam",
+  "JapName": "",
   "CV": "카키하라 테츠야",
   "Rank": [
     0

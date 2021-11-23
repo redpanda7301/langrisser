@@ -11,6 +11,9 @@
     }
   ],
   "Name": "쿠라마",
+  "ChName": "藏马",
+  "EngName": "Kurama",
+  "JapName": "蔵馬",
   "CV": "오가타 메구미",
   "Rank": [
     0

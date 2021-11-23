@@ -7,6 +7,9 @@
     }
   ],
   "Name": "아슈람",
+  "ChName": "亚修拉姆",
+  "EngName": "Ashram",
+  "JapName": "アシュラム",
   "CV": "카미야 아키라",
   "Rank": [
     0

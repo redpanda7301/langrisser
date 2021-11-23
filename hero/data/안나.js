@@ -8,6 +8,9 @@
   ],
   "Name": "안나",
   "CV": "사쿠라바 아리사",
+  "ChName": "安娜",
+  "EngName": "Anna",
+  "JapName": "アンナ",
   "Rank": [
     2
   ],

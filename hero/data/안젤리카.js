@@ -16,6 +16,9 @@
   ],
   "Name": "안젤리카",
   "CV": "토모나가 아카네",
+  "ChName": "安杰丽卡",
+  "EngName": "Angelica",
+  "JapName": "アンジェリカ",
   "Rank": [
     1
   ],

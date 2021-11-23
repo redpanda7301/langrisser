@@ -24,6 +24,9 @@
   ],
   "Name": "레이첼",
   "CV": "타네다 리사",
+  "ChName": "蕾伽尔",
+  "EngName": "Rachel",
+  "JapName": "レイチェル",
   "Rank": [
     0
   ],

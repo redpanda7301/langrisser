@@ -11,6 +11,9 @@
     }
   ],
   "Name": "방주의 성녀",
+  "ChName": "方舟圣女",
+  "EngName": "Saint of the Ark",
+  "JapName": "",
   "CV": "토야마 나오",
   "Rank": [
     0

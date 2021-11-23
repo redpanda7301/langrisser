@@ -12,6 +12,9 @@
   ],
   "Name": "제리올 & 레이라",
   "CV": "나가츠카 타쿠마",
+  "ChName": "杰利奥鲁&蕾拉",
+  "EngName": "Gerold & Layla",
+  "JapName": "ジェリオール&レイラ",
   "Rank": [
     0
   ],

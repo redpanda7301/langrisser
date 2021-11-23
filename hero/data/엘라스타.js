@@ -19,6 +19,9 @@
     }
   ],
   "Name": "엘라스타",
+  "ChName": "艾拉斯卓",
+  "EngName": "Alustriel",
+  "JapName": "エラスタ",
   "CV": "나가츠마 쥬리",
   "Rank": [
     0

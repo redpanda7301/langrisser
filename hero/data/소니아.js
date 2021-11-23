@@ -16,6 +16,9 @@
   ],
   "Name": "소니아",
   "CV": "사토 미유키",
+  "ChName": "索尼娅",
+  "EngName": "Sonia",
+  "JapName": "ソニア",
   "Rank": [
     1
   ],

@@ -23,6 +23,9 @@
     }
   ],
   "Name": "여신의 화신",
+  "ChName": "女神化身",
+  "EngName": "Jessica (Young)",
+  "JapName": "転生ジェシカ",
   "CV": "Lynn",
   "Rank": [
     0

@@ -16,6 +16,9 @@
   ],
   "Name": "리파니",
   "CV": "사토 미유키",
+  "ChName": "莉法妮",
+  "EngName": "Liffany",
+  "JapName": "リファニー",
   "Rank": [
     1
   ],

@@ -24,6 +24,9 @@
   ],
   "Name": "보젤",
   "CV": "모리카와 토시유키",
+  "ChName": "波赞鲁",
+  "EngName": "Bozel",
+  "JapName": "ボーゼル",
   "Rank": [
     0
   ],

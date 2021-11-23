@@ -12,6 +12,9 @@
   ],
   "Name": "에그베르트",
   "CV": "시모야마 요시미츠",
+  "ChName": "埃格贝尔特",
+  "EngName": "Egbert",
+  "JapName": "エグベルト",
   "Rank": [
     1
   ],

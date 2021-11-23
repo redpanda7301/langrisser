@@ -12,6 +12,9 @@
   ],
   "Name": "알프레드",
   "CV": "에노키 쥰야",
+  "ChName": "阿尔弗雷德",
+  "EngName": "Alfred",
+  "JapName": "アルフレッド",
   "Rank": [
     1
   ],

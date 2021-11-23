@@ -15,6 +15,9 @@
     }
   ],
   "Name": "크리스티안느",
+  "ChName": "克里斯蒂安妮",
+  "EngName": "Christiane",
+  "JapName": "",
   "CV": "사쿠라이 하루미",
   "Rank": [
     0

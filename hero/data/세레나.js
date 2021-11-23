@@ -12,6 +12,9 @@ var data = [
   ],
   "Name": "세레나",
   "CV": "토마츠 하루카",
+  "ChName": "塞蕾娜",
+  "EngName": "Serena",
+  "JapName": "セレナ",
   "Rank": [
     1
   ],

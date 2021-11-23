@@ -19,6 +19,9 @@
     }
   ],
   "Name": "헬레나",
+  "ChName": "海伦娜",
+  "EngName": "Helena",
+  "JapName": "ヘレナ",
   "CV": "이노우에 마리나",
   "Rank": [
     0

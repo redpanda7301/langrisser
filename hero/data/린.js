@@ -11,6 +11,9 @@
     }
   ],
   "Name": "린",
+  "ChName": "黎恩",
+  "EngName": "Rean",
+  "JapName": "リィン",
   "CV": "우치야마 코우키",
   "Rank": [
     0

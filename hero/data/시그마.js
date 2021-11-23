@@ -20,6 +20,9 @@
   ],
   "Name": "시그마",
   "CV": "미도리카와 히카루",
+  "ChName": "西格玛",
+  "EngName": "Sigma",
+  "JapName": "シグマ",
   "Rank": [
     0
   ],

@@ -11,6 +11,9 @@
     }
   ],
   "Name": "크림조의왕",
+  "ChName": "红月之王",
+  "EngName": "Lord of Crimzo",
+  "JapName": "赤き月の王",
   "CV": "하야미 쇼",
   "Rank": [
     0

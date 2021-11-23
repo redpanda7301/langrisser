@@ -12,6 +12,9 @@
   ],
   "Name": "키리카제",
   "CV": "시모야마 요시미츠",
+  "ChName": "雾风",
+  "EngName": "Kirikaze",
+  "JapName": "霧風",
   "Rank": [
     1
   ],

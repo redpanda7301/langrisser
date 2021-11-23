@@ -23,6 +23,9 @@
     }
   ],
   "Name": "리코리스",
+  "ChName": "丽可丽丝",
+  "EngName": "Licorice",
+  "JapName": "リコリス",
   "CV": "토야마 나오",
   "Rank": [
     0

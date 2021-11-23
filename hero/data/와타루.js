@@ -7,6 +7,9 @@
     }
   ],
   "Name": "이쿠사베 와타루",
+  "ChName": "战部渡",
+  "EngName": "Wataru",
+  "JapName": "戦部ワタル",
   "CV": "타나카 마유미",
   "Rank": [
     0

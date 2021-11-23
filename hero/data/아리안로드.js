@@ -7,6 +7,9 @@
     }
   ],
   "Name": "아리안로드",
+  "ChName": "阿瑞安赫德",
+  "EngName": "Arianrhod",
+  "JapName": "アリアンロード",
   "CV": "히사카와 아야",
   "Rank": [
     0

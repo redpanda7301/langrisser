@@ -20,6 +20,9 @@
   ],
   "Name": "란포드",
   "CV": "코마다 와타루",
+  "ChName": "兰芳特",
+  "EngName": "Lanford",
+  "JapName": "ランフォード",
   "Rank": [
     0
   ],

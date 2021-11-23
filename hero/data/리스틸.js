@@ -20,6 +20,9 @@
   ],
   "Name": "리스틸",
   "CV": "우치야마 마리",
+  "ChName": "妮丝蒂尔",
+  "EngName": "Listell",
+  "JapName": "リスティル",
   "Rank": [
     0
   ],

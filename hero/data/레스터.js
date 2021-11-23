@@ -8,6 +8,9 @@
   ],
   "Name": "레스터",
   "CV": "무라카미 사토시",
+  "ChName": "利斯塔",
+  "EngName": "Lester",
+  "JapName": "レスター",
   "Rank": [
     2
   ],

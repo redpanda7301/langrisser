@@ -28,6 +28,9 @@
   ],
   "Name": "티아리스",
   "CV": "노토 마미코",
+  "ChName": "蒂亚莉丝",
+  "EngName": "Tiaris",
+  "JapName": "ティアリス",
   "Rank": [
     0
   ],

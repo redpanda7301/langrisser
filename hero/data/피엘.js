@@ -8,6 +8,9 @@
   ],
   "Name": "피엘",
   "CV": "타카하시 코우지",
+  "ChName": "皮耶鲁",
+  "EngName": "Pierre",
+  "JapName": "ピエール",
   "Rank": [
     2
   ],

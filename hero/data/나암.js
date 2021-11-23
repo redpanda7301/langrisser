@@ -23,6 +23,9 @@
     }	
   ],
   "Name": "나암",
+  "ChName": "娜姆",
+  "EngName": "Narm",
+  "JapName": "ナーム",
   "CV": "토쿠이 소라",
   "Rank": [
     1

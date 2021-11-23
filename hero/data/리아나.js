@@ -28,6 +28,9 @@
   ],
   "Name": "리아나",
   "CV": "코시미즈 아미",
+  "ChName": "莉亚娜",
+  "EngName": "Riana",
+  "JapName": "リアナ",
   "Rank": [
     0
   ],

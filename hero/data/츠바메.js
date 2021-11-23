@@ -15,6 +15,9 @@
     }
   ],
   "Name": "츠바메",
+  "ChName": "燕",
+  "EngName": "Tsubame",
+  "JapName": "ツバメ",
   "CV": "타무라 나오",
   "Rank": [
     0

@@ -11,6 +11,9 @@
     }
   ],
   "Name": "올리버",
+  "ChName": "奥利佛",
+  "EngName": "Oliver",
+  "JapName": "オリヴァー",
   "CV": "오카모토 노부히코",
   "Rank": [
     1

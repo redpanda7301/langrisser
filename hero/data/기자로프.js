@@ -15,6 +15,9 @@
     }
   ],
   "Name": "기자로프",
+  "ChName": "基扎洛夫",
+  "EngName": "Gizarof",
+  "JapName": "ギザロフ",
   "CV": "히로타 코세이",
   "Rank": [
     0

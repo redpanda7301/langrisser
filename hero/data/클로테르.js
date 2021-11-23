@@ -15,6 +15,9 @@
     }
   ],
   "Name": "클로테르",
+  "ChName": "克洛泰尔",
+  "EngName": "Clotaire",
+  "JapName": "クロテール",
   "CV": "나카무라 유이치",
   "Rank": [
     0

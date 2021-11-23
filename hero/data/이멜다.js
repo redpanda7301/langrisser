@@ -16,6 +16,9 @@
   ],
   "Name": "이멜다",
   "CV": "타카하시 아오",
+  "ChName": "伊梅尔达",
+  "EngName": "Imelda",
+  "JapName": "イメルダ",
   "Rank": [
     1
   ],

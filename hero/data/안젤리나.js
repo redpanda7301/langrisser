@@ -24,6 +24,9 @@
   ],
   "Name": "안젤리나",
   "CV": "아마미 유리나",
+  "ChName": "安洁丽娜",
+  "EngName": "Angelina",
+  "JapName": "アンジェリナ",
   "Rank": [
     0
   ],

@@ -11,6 +11,9 @@
     }
   ],
   "Name": "오토크라토 4세",
+  "ChName": "奥托克拉托四世",
+  "EngName": "Autokrato",
+  "JapName": "オウトクラト4世",
   "CV": "오키츠 카즈유키",
   "Rank": [
     0

@@ -11,6 +11,9 @@
     }
   ],
   "Name": "칸자키 스미레",
+  "ChName": "神崎堇",
+  "EngName": "Sumire",
+  "JapName": "神崎すみれ",
   "CV": "토미자와 미치에",
   "Rank": [
     0

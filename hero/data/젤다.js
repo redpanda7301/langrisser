@@ -32,6 +32,9 @@
   ],
   "Name": "젤다",
   "CV": "니시다 노조미",
+  "ChName": "泽瑞达",
+  "EngName": "Zelrda",
+  "JapName": "ゼルダ",
   "Rank": [
     0
   ],

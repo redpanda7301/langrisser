@@ -28,6 +28,9 @@
   ],
   "Name": "셀파닐",
   "CV": "시라키 나오",
+  "ChName": "雪露法妮尔",
+  "EngName": "Shelfaniel",
+  "JapName": "シェルファニール",
   "Rank": [
     0
   ],

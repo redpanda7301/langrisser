@@ -28,6 +28,9 @@
   ],
   "Name": "알테뮬러",
   "CV": "코야스 타케히토",
+  "ChName": "亚鲁特缪拉",
+  "EngName": "Altemuller",
+  "JapName": "アルテミュラー",
   "Rank": [
     0
   ],

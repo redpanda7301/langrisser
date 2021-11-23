@@ -11,6 +11,9 @@
     }
   ],
   "Name": "레온하르트",
+  "ChName": "莱恩哈特",
+  "EngName": "Leonhardt",
+  "JapName": "レオンハルト",
   "CV": "미도리카와 히카루",
   "Rank": [
     0

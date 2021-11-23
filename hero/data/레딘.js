@@ -20,6 +20,9 @@
   ],
   "Name": "레딘",
   "CV": "오키아유 료타로",
+  "ChName": "雷丁",
+  "EngName": "Ledin",
+  "JapName": "レディン",
   "Rank": [
     0
   ],

@@ -11,6 +11,9 @@
     }
   ],
   "Name": "입실론",
+  "ChName": "伊普西龙",
+  "EngName": "Epsilon",
+  "JapName": "イプシロン",
   "CV": "우치야마 코우키",
   "Rank": [
     0

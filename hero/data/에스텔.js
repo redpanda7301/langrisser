@@ -7,6 +7,9 @@
     }
   ],
   "Name": "에스텔",
+  "ChName": "艾丝蒂尔",
+  "EngName": "Estelle",
+  "JapName": "エステル",
   "CV": "칸다 아케미",
   "Rank": [
     0

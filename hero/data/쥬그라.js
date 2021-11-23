@@ -20,6 +20,9 @@
   ],
   "Name": "쥬그라",
   "CV": "코야스 타케히토",
+  "ChName": "古巨拉",
+  "EngName": "Jugler",
+  "JapName": "ジュグラー",
   "Rank": [
     0
   ],

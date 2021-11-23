@@ -16,6 +16,9 @@
   ],
   "Name": "베른하르트",
   "CV": "와카모토 노리오",
+  "ChName": "巴恩哈特",
+  "EngName": "Bernhardt",
+  "JapName": "ベルンハルト",
   "Rank": [
     0
   ],

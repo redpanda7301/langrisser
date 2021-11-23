@@ -7,6 +7,9 @@
     }
   ],
   "Name": "리사",
+  "ChName": "丽莎",
+  "EngName": "Liza",
+  "JapName": "",
   "CV": "카토 에미리",
   "Rank": [
     1

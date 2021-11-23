@@ -11,6 +11,9 @@
     }
   ],
   "Name": "알베도",
+  "ChName": "雅儿贝德",
+  "EngName": "Albedo",
+  "JapName": "アルベド",
   "CV": "하라 유미",
   "Rank": [
     0

@@ -12,6 +12,9 @@
   ],
   "Name": "페라키아",
   "CV": "테라이 사오리",
+  "ChName": "弗拉基亚",
+  "EngName": "Feraquea",
+  "JapName": "フェラキア",
   "Rank": [
     1
   ],

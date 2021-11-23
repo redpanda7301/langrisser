@@ -23,6 +23,9 @@
     }
   ],
   "Name": "유리아",
+  "ChName": "尤利娅",
+  "EngName": "Yulia",
+  "JapName": "ユリア",
   "CV": "이시하라 아이리",
   "Rank": [
     0

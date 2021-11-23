@@ -12,6 +12,9 @@
   ],
   "Name": "에마링크",
   "CV": "타치바나 신노스케",
+  "ChName": "艾马林克",
+  "EngName": "Emerick",
+  "JapName": "エマーリンク",
   "Rank": [
     1
   ],

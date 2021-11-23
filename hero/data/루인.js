@@ -12,6 +12,9 @@
   ],
   "Name": "루인",
   "CV": "하타나카 타스쿠",
+  "ChName": "路因",
+  "EngName": "Lewin",
+  "JapName": "ルイン",
   "Rank": [
     2
   ],

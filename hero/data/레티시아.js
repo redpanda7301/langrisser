@@ -12,6 +12,9 @@
   ],
   "Name": "레티시아",
   "CV": "마츠우라 치에",
+  "ChName": "蕾蒂西亚",
+  "EngName": "Leticia",
+  "JapName": "レティシア",
   "Rank": [
     2
   ],

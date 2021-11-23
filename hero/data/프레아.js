@@ -24,6 +24,9 @@
   ],
   "Name": "프레아",
   "CV": "호리에 유이",
+  "ChName": "芙蕾雅",
+  "EngName": "Freya",
+  "JapName": "フレア",
   "Rank": [
     1
   ],

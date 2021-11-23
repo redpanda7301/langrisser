@@ -19,6 +19,9 @@
     }
   ],
   "Name": "마이야",
+  "ChName": "梅雅",
+  "EngName": "Maiya",
+  "JapName": "マイヤ",
   "CV": "우치야마 유미",
   "Rank": [
     0

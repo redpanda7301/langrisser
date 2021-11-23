@@ -11,6 +11,9 @@
     }
   ],
   "Name": "사나다 료",
+  "ChName": "真田辽",
+  "EngName": "Ryo",
+  "JapName": "真田遼",
   "CV": "쿠사오 다케시",
   "Rank": [
     0

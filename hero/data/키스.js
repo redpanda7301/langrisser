@@ -8,6 +8,9 @@
   ],
   "Name": "키스",
   "CV": "타카하시 켄지",
+  "ChName": "基斯",
+  "EngName": "Keith",
+  "JapName": "キース",
   "Rank": [
     2
   ],

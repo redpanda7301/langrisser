@@ -11,6 +11,9 @@
     }
   ],
   "Name": "알티나",
+  "ChName": "亚尔缇娜",
+  "EngName": "Altina",
+  "JapName": "アルティナ",
   "CV": "미나세 이노리",
   "Rank": [
     1

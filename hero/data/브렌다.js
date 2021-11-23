@@ -15,6 +15,9 @@
     }
   ],
   "Name": "브렌다",
+  "ChName": "布琳达",
+  "EngName": "Brenda",
+  "JapName": "ブレンダ",
   "CV": "오오하라 사야카",
   "Rank": [
     0

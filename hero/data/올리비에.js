@@ -7,6 +7,9 @@
     }
   ],
   "Name": "올리비에",
+  "ChName": "奥利维尔",
+  "EngName": "Olivier",
+  "JapName": "オリビエ",
   "CV": "코야스 타케히토",
   "Rank": [
     1
