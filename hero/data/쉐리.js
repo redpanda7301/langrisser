@@ -96,7 +96,7 @@
   ],
   "SPTalent": [
     {
-      "Name": "나라를 되찾은 공주",
+      "Name": "부흥의 공주",
       "Icon": "SP_Gift_Sherry.webp",
       "Abilities": [
         {
