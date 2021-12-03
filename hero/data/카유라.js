@@ -328,7 +328,7 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "징벌",
+      "Name": "턴언데드",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -337,7 +337,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "1턴"
+          "Value": "2턴"
         },
         {
           "Label": "사거리",
@@ -348,8 +348,8 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_ValkCrash.webp",
-      "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
+      "IconImageUrl": "../img/skills/Skill_ValkCrash2.webp",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. <br/><b>전투 후</b> 대상의 <font color =\"blue\">버프</font>를 <font color =\"red\">2</font>개 제거한다.",
       "SubSkills": null,
       "Animation": null
     },
