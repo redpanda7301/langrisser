@@ -74,7 +74,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "만개한 화관(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "뮤.webp",
+    "Ability": "생명 (<font color=\"red\">+10</font>)% <br/>행동 종료 자신에게 '주위 <font color=\"red\">3</font>칸 범위 내 모든 부대 지형을 <font color=\"green\">초원</font>으로 간주' 효과 부여<br/>지속 <font color=\"red\">1</font>턴<br/>해당 효과 쿨타임 <font color=\"red\">3</font>턴"
+  },
   "Soldiers": [
     44,
     17,
@@ -84,7 +89,8 @@
     43,
     15,
     73,
-    76
+    76,
+    85
   ],
   "Jobs": [
     {

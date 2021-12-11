@@ -74,7 +74,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "빛의 심판관(무기)",
+    "Stats": "공격 107, 기술 43",
+    "Icon": "수제트.webp",
+    "Ability": "공격 <font color=\"red\">+10</font>%<br/><font color =\"#b8860b\">빛의 군단</font> 초절 효과를 받음<br/><font color=\"blue\">범위 피해 스킬</font>을 지형에 조준해 사용 가능<br/>자신과 거리가 멀수록 <font color=\"blue\">치명타 확률</font> 증가<br/>(<font color=\"red\">1</font>칸당 <font color=\"red\">+3</font>%, 최대 <font color=\"red\">+15</font>%)"
+  },
   "Soldiers": [
     17,
     13,
