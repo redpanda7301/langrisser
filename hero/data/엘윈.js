@@ -67,7 +67,7 @@
   "HeartFetter": "생명+900, 방어+60, 마방+40",
   "Talent": [
     {
-      "Name": "용사의 의지",
+      "Name": "용사의 의지",
       "Icon": "46.webp",
       "Abilities": [
         {

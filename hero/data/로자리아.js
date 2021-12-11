@@ -12,6 +12,10 @@
     {
       "ImageUrl": "로자리아/3.webp",
       "Desc": "형귀스킨"
+    },
+    {
+      "ImageUrl": "로자리아/4.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "로자리아",
@@ -105,6 +109,9 @@
         },
         {
           "ImageUrl": "로자리아/3/1.webp"
+        },
+        {
+          "ImageUrl": "로자리아/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -137,6 +144,9 @@
         },
         {
           "ImageUrl": "로자리아/3/1.webp"
+        },
+        {
+          "ImageUrl": "로자리아/4/1.webp"
         }
       ],
       "AttkRange": 1,

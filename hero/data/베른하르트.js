@@ -12,6 +12,10 @@
     {
       "ImageUrl": "베른하르트/3.webp",
       "Desc": "서밋아레나 S1 패자스킨"
+    },
+    {
+      "ImageUrl": "베른하르트/4.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "베른하르트",
@@ -107,6 +111,9 @@
         },
         {
           "ImageUrl": "베른하르트/3/1.webp"
+        },
+        {
+          "ImageUrl": "베른하르트/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -139,6 +146,9 @@
         },
         {
           "ImageUrl": "베른하르트/3/1.webp"
+        },
+        {
+          "ImageUrl": "베른하르트/4/1.webp"
         }
       ],
       "AttkRange": 1,

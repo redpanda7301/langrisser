@@ -8,6 +8,10 @@
     {
       "ImageUrl": "크림조의왕/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "크림조의왕/2.webp",
+      "Desc": "형귀 스킨"
     }
   ],
   "Name": "크림조의왕",

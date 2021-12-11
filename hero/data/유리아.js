@@ -20,6 +20,10 @@
     {
       "ImageUrl": "유리아/5.webp",
       "Desc": "한정 판매"
+    },
+    {
+      "ImageUrl": "유리아/6.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "유리아",
@@ -119,6 +123,9 @@
         },
         {
           "ImageUrl": "유리아/5/1.webp"
+        },
+        {
+          "ImageUrl": "유리아/6/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -157,6 +164,9 @@
         },
         {
           "ImageUrl": "유리아/5/1.webp"
+        },
+        {
+          "ImageUrl": "유리아/6/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -391,7 +401,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash.webp",
-      "Desc": "[마법 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
     },
