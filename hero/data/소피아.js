@@ -12,6 +12,10 @@
     {
       "ImageUrl": "소피아/3.webp",
       "Desc": "서밋아레나 S7 골드스킨"
+    },
+    {
+      "ImageUrl": "소피아/4.webp",
+      "Desc": "마루가메 국수 콜라보"
     }
   ],
   "Name": "소피아",
@@ -107,6 +111,9 @@
         },
         {
           "ImageUrl": "소피아/3/1.webp"
+        },
+        {
+          "ImageUrl": "소피아/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -139,6 +146,9 @@
         },
         {
           "ImageUrl": "소피아/3/1.webp"
+        },
+        {
+          "ImageUrl": "소피아/4/1.webp"
         }
       ],
       "AttkRange": 2,
