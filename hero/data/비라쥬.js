@@ -16,7 +16,7 @@
   ],
   "Name": "비라쥬",
   "ChName": "维拉玖",
-  "EngName": "Brenda",
+  "EngName": "Virash",
   "JapName": "ヴィラージュ",
   "CV": "후쿠야마 쥰",
   "Rank": [
