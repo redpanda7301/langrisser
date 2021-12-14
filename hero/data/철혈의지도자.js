@@ -371,7 +371,7 @@
     },
     {
       "Name": "지도자의 위엄",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -531,7 +531,7 @@
     },
     {
       "Name": "눈부신 철혈의 빛",
-      "Cost": "COST 5",
+      "Cost": "COST 3",
       "Entries": [
         {
           "Label": "유형",
