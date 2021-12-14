@@ -11,7 +11,7 @@
     }
   ],
   "Name": "루크레치아",
-  "ChName": "奥托克拉托四世",
+  "ChName": "卢克蕾蒂娅",
   "EngName": "Lucretia",
   "JapName": "ルクレチア",
   "CV": "후쿠엔 미사토",

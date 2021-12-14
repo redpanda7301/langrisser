@@ -98,7 +98,7 @@
           "ImageUrl": "철혈의지도자/2/1.webp"
         }
       ],
-      "AttkRange": 2,
+      "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
       "HP": 3998,
@@ -127,7 +127,7 @@
           "ImageUrl": "철혈의지도자/2/1.webp"
         }
       ],
-      "AttkRange": 2,
+      "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
       "HP": 3695,
@@ -358,7 +358,7 @@
           "Name": "<b><font color=\"purple\">강공의 진</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/skills/Chancellor/0_1.webp",
-          "Desc": "자신의 사선 <font color=\"red\">1</font>칸 범위 안에 아군 <font color=\"red\">2</font>명이 있을 경우 <br/>자신과 아군 <font color=\"red\">2</font>명은 '<font color=\"purple\">강공</font>' 효과 획득<br/><font color=\"purple\">강공</font> : 병사 공격력 <font color=\"red\">+25</font>%<br/>기본 이동력 <font color=\"red\">5</font> 미만인 아군 부대 <font color=\"blue\">이동력 상승</font><br/>(증가 숫자는 <font color=\"red\">5/font>에서 부대 이동력을 뺸 수치)<br/>지속 <font color=\"Red\">3</font>행동"
+          "Desc": "자신의 사선 <font color=\"red\">1</font>칸 범위 안에 아군 <font color=\"red\">2</font>명이 있을 경우 <br/>자신과 아군 <font color=\"red\">2</font>명은 '<font color=\"purple\">강공</font>' 효과 획득<br/><font color=\"purple\">강공</font> : 병사 공격력 <font color=\"red\">+25</font>%<br/>기본 이동력 <font color=\"red\">5</font> 미만인 아군 부대 <font color=\"blue\">이동력 상승</font><br/>(증가 숫자는 <font color=\"red\">5</font>에서 부대 이동력을 뺸 수치)<br/>지속 <font color=\"Red\">3</font>행동"
         },
         {
           "Name": "<b><font color=\"purple\">수비의 진</font></b>",
@@ -391,7 +391,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Chancellor/1.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/><font color=\"purple\">강공</font> 효과 보유 시 전투 중 적 방어, 마방 <font color=\"Red\">30</font>% 무시<br/><font color=\"purple\">수비</font> 효과 보유 시 전투 후 아군 전체 생명 회복 (지력 2배 수치) 및 해당 스킬 쿨 -1, 해당 스킬은 근접 패널티를 받지 않음",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/><font color=\"purple\">강공</font> 효과 보유 시 전투 중 적 방어, 마방 <font color=\"Red\">30</font>% 무시<br/><font color=\"purple\">수비</font> 효과 보유 시 전투 후 아군 전체 생명 <font color=\"green\">회복</font> (지력 <font color=\"red\">2</font>배 수치) 및 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font><br/><b>해당 스킬은 근접 패널티를 받지 않음</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -485,7 +485,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 회복한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 <font color=\"green\">회복</font>한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -525,7 +525,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Dedication.webp",
-      "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 회복시킨다.<br/>회복량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
+      "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 <font color=\"green\">회복</font>시킨다.<br/><font color=\"green\">회복</font>량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -551,12 +551,118 @@
         }
       ],
       "IconImageUrl": "../img/Super/철혈의지도자.webp",
-      "Desc": "<font color=\"red\">1.7</font>배 단일 피해, <br/>전투 후 대상에게 영구적인 '<font color=\"blue\">패산</font>' 효과 부여<br/><font color=\"blue\">패산</font> : 병사가 받는 치료 효과 <font color=\"red\">-80</font>%, <b>해제 불가</b><br/><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br/><font color=\"purple\">강공</font> 효과를 보유할 경우, <font color=\"blue\">선제 공격</font> 및 전투 전 적 버프<font color=\"red\">5</font>개 제거<br/><font color=\"purple\">수비</font> 효과를 보유할 경우 전투 후 <font color=\"blue\">재이동</font> 및 <font color=\"red\">3</font>칸 및 <br/>행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 내 모든 아군에게<br/>'<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' '전투 후 병사 생명<font color=\"red\">30</font>% <font color=\"green\">회복</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>턴<b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해를 준다, <br/>전투 후 대상에게 영구적인 '<font color=\"blue\">패산</font>' 효과 부여<br/><font color=\"blue\">패산</font> : <font color=\"blue\">병사가 받는 치료 효과</font> <font color=\"red\">-80</font>%, <b>해제 불가</b><br/><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br/><font color=\"purple\">강공</font> 효과를 보유할 경우, <font color=\"blue\">선제 공격</font> 및 전투 전 적 버프<font color=\"red\">5</font>개 제거<br/><font color=\"purple\">수비</font> 효과를 보유할 경우 전투 후 <font color=\"blue\">재이동</font> 및 <font color=\"red\">3</font>칸 및 <br/>행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 내 모든 아군에게<br/>'<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' '전투 후 병사 생명<font color=\"red\">30</font>% <font color=\"green\">회복</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>턴<br/><b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
       "SubSkills": null,
       "Animation": "../img/Super/철혈의지도자_Ani.webp"
     }
   ],
-  "Propose": true,
+  "Propose": false,
   "Bio": null,
-  "Performance": null
+  "Performance": [
+    {
+      "Entry": "「소환 - 등장대사」",
+      "Desc": "우리들의 결의는 강철처럼 단단하고, 의지는 선혈보다 짙다.<br/>나는 플로렌티아 유스티츠. 엘리시온 계획의 총지휘관이다!"
+    },
+    {
+      "Entry": "「전투 - 전직1」",
+      "Desc": "이걸로 또 그의 바람에 일보 가까워졌습니다.<br/>......그래, 엘리시온 계획의 실현에."
+    },
+    {
+      "Entry": "「전투 - 전직2」",
+      "Desc": "비원에 이를 때까지 우리는 멈추지 않을 겁니다.<br/>이 무너져내린 세계에 맹세합니다!"
+    },
+    {
+      "Entry": "「전투 - 스킬시전1」",
+      "Desc": "전함, 진군!"
+    },
+    {
+      "Entry": "「전투 - 스킬시전2」",
+      "Desc": "녀석들의 진형을 무너뜨려라!"
+    },
+    {
+      "Entry": "「전투 - 선택1」",
+      "Desc": "다음 한 수를 생각하고 있습니다."
+    },
+    {
+      "Entry": "「전투 - 선택2」",
+      "Desc": "당신의 전략을 들려주세요."
+    },
+    {
+      "Entry": "「전투 - 전투불능」",
+      "Desc": "아레스 씨...... 죄송해요...... 저......!"
+    },
+    {
+      "Entry": "「대화 - 친밀도1」",
+      "Desc": "제 의지는 곧 방주의 의지입니다.<br/>그건 이 세상에 남은 마지막 힘이기도 합니다."
+    },
+    {
+      "Entry": "「대화 - 친밀도2」",
+      "Desc": "빛의 여신...? 혼돈의 신...? 전부 환상에 지나지 않습니다. <br/>이 잔혹한 세상에는 구세주 따윈 없어...... 의지할 수 있는 건 자기 자신뿐입니다!"
+    },
+    {
+      "Entry": "「대화 - 친밀도3」",
+      "Desc": "'아레스 씨... 그는 리더로서는 분방하고 경솔하고 감정적이었습니다.<br/>하지만 그의 모습은 저희의 마음의 지주였습니다. ......그날까지는"
+    },
+    {
+      "Entry": "「대화 - 친밀도4」",
+      "Desc": "방주의 한 사람 한 사람이 그 절망의 세계를 떠날 때 맹세한 겁니다. <br/>결의는 단단하고 변하는 일은 없습니다!"
+    },
+    {
+      "Entry": "「대화 - 친밀도5」",
+      "Desc": "피로... 고통... 의심...... 그리 말하는 감정을 느낀 적도 있습니다.<br/>하지만 엘리시온 계획을 위해선 그러한 건 필요 없습니다!"
+    },
+    {
+      "Entry": "「대화 - 일상1」",
+      "Desc": "대국을 위해 저희는 치밀하게 계획하고 충분한 준비를 거듭해 <br/>그리고 모든 것을 희생할 결심을 한 겁니다."
+    },
+    {
+      "Entry": "「대화 - 기쁨」",
+      "Desc": "제 계획은 착실히 나아가고 있습니다. <br/>아레스 씨, 당신의 소원, 제가 반드시 이루겠습니다..."
+    },
+    {
+      "Entry": "「대화 - 분노」",
+      "Desc": "신들의 망언에 현혹된 사람들이여, 그 환상, 방주의 함포 사격으로 쳐부숴드리겠습니다!"
+    },
+    {
+      "Entry": "「대화 - 슬픔」",
+      "Desc": "아레스 씨...... 언니...... 당신들을 잃은 고통과 분노......<br/>어떻게 해야 억누를 수 있는 걸까요...?"
+    },
+    {
+      "Entry": "「대화 - 수줍음」",
+      "Desc": "제가 아직 그러한 감정을 가지고 있을 거라 생각한다면...... 큰 착각이에요."
+    },
+    {
+      "Entry": "「상호작용 - 대사1」",
+      "Desc": "예전의 저는 정무에 몰두해 거기서 해결책을 찾아내려 했습니다.<br/>하지만 지금은 철과 선혈만이 모든 것을 해결한다고 믿고 있습니다."
+    },
+    {
+      "Entry": "「상호작용 - 대사2」",
+      "Desc": "이미 원주민들의 허언, 망언은 싫증 나도록 들었습니다.<br/>그들의 마나를 끊어버리고, 저희의 위대한 목표를 준비하는 게 올바른 선택인 겁니다."
+    },
+    {
+      "Entry": "「상호작용 - 대사3」",
+      "Desc": "감정을 버리고, 대업을 위해 이 몸을 소비하는 저는 당신이 보기엔 지독한 꼴이겠죠.<br/>하지만 제가 세계의 마지막 희망이 되고 있다고 한다면...... 조금은 이해해 주려나......"
+    },
+    {
+      "Entry": "「상호작용 - 호감」",
+      "Desc": "엘리시온의 환경은 너무 조용할 때가 있으니까 당신 같은 분이 있는 것도 좋을지도 모르겠네요.<br/>......앗, 오해하진 말아주세요. 아주 조금 체재를 허가하는 것뿐이니까요."
+    },
+    {
+      "Entry": "「상호작용 - 반감1」",
+      "Desc": "물러서세요!"
+    },
+    {
+      "Entry": "「상호작용 - 특수1」",
+      "Desc": "엘리시온은 당신의 조력에 감사합니다.<br/>당신이 영원히 저희의 맹우이기를..."
+    },
+    {
+      "Entry": "「상호작용 - 특수2」",
+      "Desc": "여기까지 하도록 하죠."
+    },
+    {
+      "Entry": "「고백」",
+      "Desc": "이제까지 몇 번이고 소중한 사람을 잃을 때마다, 자신의 결의를 의심하고, 마음을 닫아왔습니다.<br/>하지만 당신과 만난 것으로 다시 이 마음을 열 수 있을지도 모른다고… 그렇게 생각했어요."
+    }
+  ],
+  "Misc": ""
 }];

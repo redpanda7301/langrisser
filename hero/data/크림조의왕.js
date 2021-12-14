@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "크림조의왕/2.webp",
+      "ImageUrl": "크림조의왕/3.webp",
       "Desc": "형귀 스킨"
     }
   ],
@@ -106,6 +106,9 @@
         },
         {
           "ImageUrl": "크림조의왕/2/1.webp"
+        },
+        {
+          "ImageUrl": "크림조의왕/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -135,6 +138,9 @@
         },
         {
           "ImageUrl": "크림조의왕/2/2.webp"
+        },
+        {
+          "ImageUrl": "크림조의왕/3/2.webp"
         }
       ],
       "AttkRange": 1,
