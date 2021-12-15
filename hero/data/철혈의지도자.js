@@ -371,7 +371,7 @@
     },
     {
       "Name": "지도자의 위엄",
-      "Cost": "COST 1",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
@@ -425,7 +425,7 @@
     },
     {
       "Name": "핏빛 의지",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -433,7 +433,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "3턴"
+          "Value": "4턴"
         },
         {
           "Label": "사거리",

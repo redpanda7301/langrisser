@@ -429,7 +429,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Consul/2.webp",
-      "Desc": "<font color=\"red\">사망</font> 시 생명 <font color=\"red\">10</font>% <font color=\"green\">회복</font> 후 <font color=\"blue\">부활</font><br/><font color=\"blue\">물 속</font>에 있을 경우 <font color=\"green\">회복</font>량 <font color=\"red\">60</font>%로 상승<br/>최대 <font color=\"red\">1</font>%회 발동",
+      "Desc": "<font color=\"red\">사망</font> 시 생명 <font color=\"red\">10</font>% <font color=\"green\">회복</font> 후 <font color=\"blue\">부활</font><br/><font color=\"blue\">물 속</font>에 있을 경우 <font color=\"green\">회복</font>량 <font color=\"red\">60</font>%로 상승<br/>최대 <font color=\"red\">1</font>회 발동",
       "SubSkills": null,
       "Animation": null
     },
