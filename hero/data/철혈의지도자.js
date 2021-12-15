@@ -356,13 +356,47 @@
       "SubSkills": [
         {
           "Name": "<b><font color=\"purple\">강공의 진</font></b>",
-          "Entries": null,
+          "Entries": [
+          {
+            "Label": "유형",
+            "Value": "고유기"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "-"
+          },
+          {
+            "Label": "사거리",
+            "Value": "4칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
           "IconImageUrl": "../img/skills/Chancellor/0_1.webp",
           "Desc": "자신의 사선 <font color=\"red\">1</font>칸 범위 안에 아군 <font color=\"red\">2</font>명이 있을 경우 <br/>자신과 아군 <font color=\"red\">2</font>명은 '<font color=\"purple\">강공</font>' 효과 획득<br/><font color=\"purple\">강공</font> : 병사 공격력 <font color=\"red\">+25</font>%<br/>기본 이동력 <font color=\"red\">5</font> 미만인 아군 부대 <font color=\"blue\">이동력 상승</font><br/>(증가 숫자는 <font color=\"red\">5</font>에서 부대 이동력을 뺸 수치)<br/>지속 <font color=\"Red\">3</font>행동"
         },
         {
           "Name": "<b><font color=\"purple\">수비의 진</font></b>",
-          "Entries": null,
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "고유기"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "사거리",
+              "Value": "4칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
           "IconImageUrl": "../img/skills/Chancellor/0_2.webp",
           "Desc": "직선상 <font color=\"red\">3</font>명의 아군이 연달아 있을 경우 사용<br/>아군 부대 병사  <font color=\"red\">70</font>% 수치 <font color=\"green\">생명 회복</font> 및 자신과 아군 <font color=\"red\">3</font>명은 '<font color =\"purple\">수비</font> 효과 획득'<br/><font color =\"purple\">수비</font> : 병사의 방어,마방 <font color=\"red\">+15</font>%, <b><font color =\"blue\">위치 이동 면역</font><br/>지속 <font color=\"Red\">3</font>행동"
         },

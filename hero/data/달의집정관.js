@@ -101,20 +101,20 @@
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Water",
-      "HP": 4155,
-      "HPRate": 69,
-      "Attk": 614,
-      "AttkRate": 94,
+      "HP": 4071,
+      "HPRate": 68,
+      "Attk": 592,
+      "AttkRate": 92,
       "Int": 259,
       "IntRate": 43,
-      "Def": 310,
-      "DefRate": 69,
-      "MagicDef": 252,
+      "Def": 323,
+      "DefRate": 71,
+      "MagicDef": 255,
       "MagicDefRate": 56,
-      "Skill": 150,
+      "Skill": 145,
       "SkillRate": 43,
-      "HeartFetterBouns1": "생명이 70%이하일때 전투중 받는피해 -10%",
-      "HeartFetterBouns2": "공격을 받아 전투진입시 입히는피해 +10%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70</font>% 미만 시 <br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     },
     {
       "Name": "집정관",
@@ -130,20 +130,20 @@
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Water",
-      "HP": 4472,
-      "HPRate": 75,
-      "Attk": 582,
-      "AttkRate": 90,
+      "HP": 4338,
+      "HPRate": 74,
+      "Attk": 592,
+      "AttkRate": 92,
       "Int": 285,
       "IntRate": 48,
-      "Def": 334,
-      "DefRate": 74,
-      "MagicDef": 271,
-      "MagicDefRate": 60,
-      "Skill": 150,
-      "SkillRate": 43,
-      "HeartFetterBouns1": "공격하여 전투진입시 받는피해 -10%",
-      "HeartFetterBouns2": "'약화효과'가 있는 상대와 전투시 입히는피해 +10%"
+      "Def": 323,
+      "DefRate": 72,
+      "MagicDef": 247,
+      "MagicDefRate": 57,
+      "Skill": 121,
+      "SkillRate": 40,
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80</font>% 초과 시 피격 치명타 확률 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 적을 공격해 전투 진입 후<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -178,7 +178,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "민정관 : 공격+9, 생명+36",
+      "ClassTitle": "민정관 : 공격+5, 방어+6",
       "Tiers": [
         {
           "Name": "T1",
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "ClassTitle": "집정관 : 공격+25, 방어+10, 마방+10",
+      "ClassTitle": "집정관 : 공격+15, 방어+16, 마방+10",
       "Tiers": [
         {
           "Name": "T1",
@@ -359,7 +359,7 @@
         },
         {
           "Label": "범위",
-          "Value": "직선"
+          "Value": "단일"
         }
       ],
       "IconImageUrl": "../img/skills/Consul/1.webp",
@@ -527,7 +527,7 @@
         },
         {
           "Label": "사거리",
-          "Value": "4칸"
+          "Value": "3칸"
         },
         {
           "Label": "범위",
@@ -535,7 +535,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/달의집정관.webp",
-      "Desc": "직선에 있는 단일 개체 <font color=\"red\">0.26</font>배 범위 피해 및 '<font color=\"blue\">위치 이동</font>' 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 자신에게 끌어당기고 목표 이동력 <font color=\"red\">-2</font>, 지속 <font color=\"red\">2</font>턴<br/><b>해제 불가</b><br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">달의 조수</font>'로 변경",
+      "Desc": "직선에 있는 단일 개체 <font color=\"red\">0.26</font>배 범위 피해 및 '<font color=\"blue\">위치 이동</font>' 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 자신에게 끌어당기고 목표 이동력 <font color=\"red\">-2</font>, 지속 <font color=\"red\">1</font>턴<br/><b>해제 불가</b><br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">달의 조수</font>'로 변경",
       "SubSkills": [
         {
           "Name": "달의 조수",

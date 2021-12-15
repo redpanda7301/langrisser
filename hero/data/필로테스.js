@@ -510,7 +510,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/필로테스.webp",
-      "Desc": "[패시브]<b>전투 진입 전 <b>현재 부대 생명 <font color=\"red\">5</font>%당 피해를 입고</b> <font color=\"blue\">주는 피해량</font> <font color=\"red\">+10</font>%</b><br/>[물리피해]<font color=\"blue\">호위 무시</font> <font color=\"red\">1.3</font>배 피해, <br/><b>전투 진입 전 부대의 5% 생명력을 소모하여</b><br/>치명타 확률 <font color=\"red\">+20</font>%, 병사 사거리 <font color=\"red\">+1</font><br/><b>자신의 기술이 적보다 높을 경우 전투 후</b> 피해량 <font color=\"red\">20</font>% 수치로 생명 회복",
+      "Desc": "[패시브]<b>전투 진입 전</b> 현재 부대 생명 <font color=\"red\">5</font>% 수치 피해를 입고</b> <font color=\"blue\">주는 피해량</font> <font color=\"red\">+10</font>%</b><br/>[물리피해]<font color=\"blue\">호위 무시</font> <font color=\"red\">1.3</font>배 피해, <br/><b>전투 진입 전 부대의 5% 생명력을 소모하여</b><br/>치명타 확률 <font color=\"red\">+20</font>%, 병사 사거리 <font color=\"red\">+1</font><br/><b>자신의 기술이 적보다 높을 경우 전투 후</b> 피해량 <font color=\"red\">20</font>% 수치로 생명 회복",
       "SubSkills": null,
       "Animation": "../img/Super/필로테스_Ani.webp"
     }
