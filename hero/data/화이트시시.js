@@ -12,7 +12,7 @@
   ],
   "Name": "화이트 시시",
   "ChName": "怀特·茜茜",
-  "EngName": "Sissy White",
+  "EngName": "SissiWhite",
   "JapName": "シシ・ホワイト",
   "CV": "쿠로키 호노카",
   "Rank": [
