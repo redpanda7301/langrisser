@@ -933,7 +933,7 @@
           "Entries": [
             {
               "Label": "사거리",
-              "Value": "2칸"
+              "Value": "3칸"
             },
             {
               "Label": "범위",
