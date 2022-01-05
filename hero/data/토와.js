@@ -429,7 +429,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "[패시브]<b>주위 <font color =\"red\">3</font>칸 내 아군 부대가 전투 시</b> 기술 <font color =\"red\">+10</font>%.",
+      "Desc": "[패시브]<b>주위 <font color =\"red\">3</font>칸 내 아군 부대가 전투 시</b> 기술 <font color =\"red\">+20</font>%.",
       "SubSkills": null,
       "Animation": null
     },

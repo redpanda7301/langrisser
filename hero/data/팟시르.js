@@ -566,6 +566,32 @@
       "SubSkills": null,
       "Animation": null
     },
+	{
+      "Name": "하트 어택",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Skill_BreakMDef.webp",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 주며<br/>적에게 받는 마법 피해량 +20%, 2턴 지속.",
+      "SubSkills": null,
+      "Animation": null
+    },
     {
       "Name": "파멸의 그림자 저주",
       "Cost": "COST 3",

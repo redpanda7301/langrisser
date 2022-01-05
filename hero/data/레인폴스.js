@@ -514,7 +514,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +10%.",
+      "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +20%.",
       "SubSkills": null,
       "Animation": null
     },
