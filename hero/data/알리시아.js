@@ -437,7 +437,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Alicia/2.webp",
-      "Desc": "범위 내 적에게 <font color=\"Red\">0.3</font>배의 피해 및 '<font color=\"blue\">위치 이동</font>' 효과<br/><font color=\"blue\">위치 이동</font> : 목표를 중심으로 인접한 모든 적을 <font color=\"Red\">1</font> ~ <font color=\"Red\">2</font><br/>최대 사용 횟수 <font color=\"Red\">3</font>회",
+      "Desc": "범위 내 적에게 <font color=\"Red\">0.3</font>배의 피해 및 '<font color=\"blue\">위치 이동</font>' 효과<br/><font color=\"blue\">위치 이동</font> : 목표를 중심으로 인접한 모든 적을 <font color=\"Red\">1</font> ~ <font color=\"Red\">2</font>칸 밀침<br/>최대 사용 횟수 <font color=\"Red\">3</font>회",
       "SubSkills": null,
       "Animation": null
     },

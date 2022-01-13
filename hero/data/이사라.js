@@ -52,16 +52,16 @@
           "Desc": "1성"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-5</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-40</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-10</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-40</font>%"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-10</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-50</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-15</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-50</font>%"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-15</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-60</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-20</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-60</font>%"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-20</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-70</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-25</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-70</font>%"
         },
         {
           "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-30</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-80</font>%"
@@ -116,7 +116,7 @@
           "ImageUrl": "이사라/1/2.webp"
         }
       ],
-      "AttkRange": 2,
+      "AttkRange": 1,
       "Move": 5,
       "MoveType": "FieldArmy",
       "HP": 4537,
