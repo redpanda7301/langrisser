@@ -188,7 +188,7 @@
       "Icon": "Icon_Occupation_MonkSP.webp",
       "SD": [
         {
-          "ImageUrl": "쉐리/1/3.webp"
+          "ImageUrl": "쉐리/sp/1.webp"
         },
         {
           "ImageUrl": "쉐리/2/3.webp"
@@ -224,8 +224,8 @@
       "MagicDefRate": 70,
       "Skill": 164,
       "SkillRate": 54,
-      "HeartFetterBouns1": "<b>공격받아 전투 진입 시</b> <br/>받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입 시</b> <br/>주는 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>공격받아 전투 진입 시</b> <br/>받는 마법 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입 시</b> <br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "하이 마스터",

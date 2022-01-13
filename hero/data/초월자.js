@@ -75,7 +75,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "끝없는 순환(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "초월자.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>선공으로 전투 진입 시 피해 <font color=\"Red\">+15</font>%<br/>전투 시작 시 '<font color=\"purple\">파멸과 창생의 위력</font>' <font color=\"Red\">1</font>스택 획득 <br/><font color=\"blue\">운명의 반전</font> 사용 시 적에게서 버프 <font color=\"Red\">3</font>개 강탈"
+  },
   "Soldiers": [
     17,
     46,

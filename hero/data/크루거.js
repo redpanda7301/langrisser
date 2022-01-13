@@ -78,7 +78,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "조롱꾼의 웃음(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "크루거.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>영웅 사망 시 주위 <font color=\"Red\">5</font>칸 범위 내 적이 보유한 <font color=\"blue\">버프</font> <font color=\"Red\">2</font>개를 랜덤한 <font color=\"blue\">디버프</font>로 전환"
+  },
   "Soldiers": [
     22,
     26,

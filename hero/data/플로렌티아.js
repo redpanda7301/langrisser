@@ -12,6 +12,10 @@
     {
       "ImageUrl": "플로렌티아/3.webp",
       "Desc": "형귀뽑기"
+    },
+    {
+      "ImageUrl": "플로렌티아/4.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "플로렌티아",
@@ -107,8 +111,11 @@
         {
           "ImageUrl": "플로렌티아/2/1.webp"
         },
-		{
+		    {
           "ImageUrl": "플로렌티아/3/1.webp"
+        },
+		    {
+          "ImageUrl": "플로렌티아/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -139,8 +146,11 @@
         {
           "ImageUrl": "플로렌티아/2/1.webp"
         },
-		{
+		    {
           "ImageUrl": "플로렌티아/3/1.webp"
+        },
+		    {
+          "ImageUrl": "플로렌티아/4/1.webp"
         }
       ],
       "AttkRange": 2,

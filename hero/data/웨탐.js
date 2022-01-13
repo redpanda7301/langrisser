@@ -4,6 +4,10 @@
     {
       "ImageUrl": "웨탐/1.webp",
       "Desc": "기본"
+    },
+    {
+      "ImageUrl": "웨탐/2.webp",
+      "Desc": "확인중"
     }
   ],
   "Name": "웨탐",
@@ -89,6 +93,9 @@
       "SD": [
         {
           "ImageUrl": "웨탐/1/1.webp"
+        },
+        {
+          "ImageUrl": "웨탐/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -115,6 +122,9 @@
       "SD": [
         {
           "ImageUrl": "웨탐/1/2.webp"
+        },
+        {
+          "ImageUrl": "웨탐/2/2.webp"
         }
       ],
       "AttkRange": 1,

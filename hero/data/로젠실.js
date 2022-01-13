@@ -12,6 +12,10 @@
     {
       "ImageUrl": "로젠실/3.webp",
       "Desc": "서밋아레나 S8 패자스킨"
+    },
+    {
+      "ImageUrl": "로젠실/4.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "로젠실",
@@ -103,6 +107,9 @@
         },
         {
           "ImageUrl": "로젠실/3/1.webp"
+        },
+        {
+          "ImageUrl": "로젠실/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -135,7 +142,10 @@
         },
         {
           "ImageUrl": "로젠실/3/1.webp"
-        }        
+        },
+        {
+          "ImageUrl": "로젠실/4/1.webp"
+        }
       ],
       "AttkRange": 2,
       "Move": 3,

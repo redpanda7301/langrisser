@@ -188,7 +188,7 @@
       "Icon": "Icon_Occupation_CavalrySP.webp",
       "SD": [
         {
-          "ImageUrl": "엘윈/1/2.webp"
+          "ImageUrl": "엘윈/sp/1.webp"
         },
         {
           "ImageUrl": "엘윈/2/2.webp"

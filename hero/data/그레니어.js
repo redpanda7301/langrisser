@@ -8,7 +8,11 @@
     {
       "ImageUrl": "그레니어/2.webp",
       "Desc": "스킨상점"
-    }
+    },
+    {
+      "ImageUrl": "그레니어/sp.webp",
+      "Desc": "SP 각성"
+    },
   ],
   "Name": "그레니어",
   "ChName": "格尼尔",
@@ -19,18 +23,18 @@
     3,
     0
   ],
-  "SP": false,
+  "SP": true,
   "Groups": [
     1
   ],
   "HP": 20,
-  "SPHP": 0,
+  "SPHP": 25,
   "Attk": 30,
-  "SPAttk": 0,
+  "SPAttk": 35,
   "Def": 35,
-  "SPDef": 0,
+  "SPDef": 30,
   "MagicDef": 10,
-  "SPMagicDef": 0,
+  "SPMagicDef": 1,
   "HowToGet": "기본지급",
   "Fetters": [
     {
@@ -73,7 +77,32 @@
       ]
     }
   ],
-  "SPTalent": null,
+  "SPTalent": [
+    {
+      "Name": "용사의 강인함",
+      "Icon": "SP_Gift_Grenier.webp",
+      "Abilities": [
+        {
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">50%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+5</font>%, 받는 물리 피해 <font color=\"red\">-2</font>%<br/>지속 <font color=\"red\">2</font>턴<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
+        },
+        {
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">60%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+6</font>%, 받는 물리 피해 <font color=\"red\">-3</font>%<br/>지속 <font color=\"red\">2</font>턴<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
+        },
+        {
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">70%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+7</font>%, 받는 물리 피해 <font color=\"red\">-3</font>%<br/>지속 <font color=\"red\">2</font>턴<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"          
+        },
+        {
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">80%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+8</font>%, 받는 물리 피해 <font color=\"red\">-4</font>%<br/>지속 <font color=\"red\">2</font>턴<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"  
+        },
+        {
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">90%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+9</font>%, 받는 물리 피해 <font color=\"red\">-4</font>%<br/>지속 <font color=\"red\">2</font>턴<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
+        },
+        {
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">100%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+10</font>%, 받는 물리 피해 <font color=\"red\">-5</font>%<br/>지속 <font color=\"red\">2</font>턴<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
+        }
+      ]
+    }
+  ],
   "Equip": {
     "Name": "꿈을 쫓는 이의 관(투구)",
     "Stats": "생명 583,마방 48",
@@ -88,7 +117,8 @@
     25,
     31,
     32,
-    73
+    73,
+    81
   ],
   "Jobs": [
     {
@@ -100,6 +130,9 @@
         },
         {
           "ImageUrl": "그레니어/2/1.webp"
+        },
+        {
+          "ImageUrl": "그레니어/sp/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -121,6 +154,38 @@
       "HeartFetterBouns2": "근접 공격을 받아 전투시 입히는피해 +10%"
     },
     {
+      "Name": "휘파람 기사",
+      "Icon": "Occupation_ArcherSp.webp",
+      "SD": [
+        {
+          "ImageUrl": "그레니어/sp/1.webp"
+        },
+        {
+          "ImageUrl": "그레니어/2/2.webp"
+        },
+        {
+          "ImageUrl": "그레니어/sp/1.webp"
+        }
+      ],
+      "AttkRange": 2,
+      "Move": 5,
+      "MoveType": "Ride",
+      "HP": 4902,
+      "HPRate": 79,
+      "Attk": 502,
+      "AttkRate": 80,
+      "Int": 250,
+      "IntRate": 41,
+      "Def": 360,
+      "DefRate": 79,
+      "MagicDef": 304,
+      "MagicDefRate": 71,
+      "Skill": 180,
+      "SkillRate": 50,
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70</font>% 이하 시<br/><b>전투 중</b> 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 이하 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+    },
+    {
       "Name": "보우마스터",
       "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
@@ -129,6 +194,9 @@
         },
         {
           "ImageUrl": "그레니어/2/2.webp"
+        },
+        {
+          "ImageUrl": "그레니어/sp/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -144,8 +212,8 @@
       "DefRate": 63,
       "MagicDef": 308,
       "MagicDefRate": 68,
-      "Skill": 157,
-      "SkillRate": 44,
+      "Skill": 172,
+      "SkillRate": 48,
       "HeartFetterBouns1": "공격을 받아 전투시 받는 물리피해 -10%",
       "HeartFetterBouns2": "원거리 공격을 받아 전투시 입히는피해 +10%"
     }
@@ -381,7 +449,178 @@
       ]
     }
   ],
-  "SPOpenConditions": null,
+  "SPOpenConditions": [
+    {
+      "Name": "개방",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/AlterEgo_Grenier.webp",
+          "Amount": 1
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank8-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank7-7.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank6-6.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 미션",
+      "Materials": [],
+      "Desc": "그레니어를 출전 시켜 형귀 헬스장 존스(궁병) 60레벨 이상 클리어"
+    },
+    {
+      "Name": "2단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "2단계 미션",
+      "Materials": [],
+      "Desc": "꿈을 쫓는 이의 관(투구) 레벨 50 달성"
+    },
+    {
+      "Name": "3단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
+          "Amount": 2
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "3단계 미션",
+      "Materials": [],
+      "Desc": "그레니어를 출전 시켜 여신의 시련 - 빙룡 아산테 60레벨 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "휘파람 기사 전직 가능, 용사의 강인함(SP 고유기술)스킬 획득, SP 일러스트 획득"
+    },
+    {
+      "Name": "4단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h3.webp",
+          "Amount": 60
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h3-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/heart/x.webp",
+          "Amount": 12
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "4단계 미션",
+      "Materials": [],
+      "Desc": "그레니어를 출전 시켜 형귀 헬스장 존스 65레벨 이상 클리어"
+    },
+    {
+      "Name": "5단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "5단계 미션",
+      "Materials": [],
+      "Desc": "그레니어를 출전 시켜 여신의 시련 - 암룡 티아메트 65레벨 이상 클리어"
+    },
+    {
+      "Name": "6단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+          "Amount": 600
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Shadow2.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Shadow4.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Shadow6.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "6단계 미션",
+      "Materials": [],
+      "Desc": "그레니어를 출전시켜 영원의 신전 - 스퀼라 65레벨 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "SP 스탯, SP 스킬 2개 활성화, 공성 발리스타 고용가능"
+    }
+  ],
   "Skills": [
     {
       "Name": "호위",
@@ -566,6 +805,46 @@
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash.webp",
       "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1배</font>의 피해를 준다.<br/>적 부대에게 '치료 방해' 부여, <font color=\"#DC143C\">1턴</font> 지속.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 중노원호",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/그레니어/1.webp",
+      "Desc": "<b>자신과 인접한 아군이 있는 상태에서 행동 종료 시</b> '<font color=\"blue\">선제 반격</font>' 효과 및 <font color=\"blue\">반격 사거리 증가</font> 획득<br/>증가 수치는 인접한 아군 숫자와 동일<br/>지속 <font color=\"red\">1</font> 턴",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 덤벼라!",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/그레니어/2.webp",
+      "Desc": "범위 내 적에게 <font color=\"Red\">0.3</font>배 피해, <font color=\"blue\">버프</font> <font color=\"Red\">1</font>개 제거 <br/>적에게 '<font color=\"blue\">선동</font>' 효과 부여<br/><font color=\"blue\">선동</font> : <b>그레니어와 교전 시</b> 피해 <font color=\"red\">-15</font>%, 받는 피해 <font color=\"red\">+30</font>%<br/>지속 <font color=\"red\">2</font>턴",
       "SubSkills": null,
       "Animation": null
     },

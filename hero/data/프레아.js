@@ -172,7 +172,7 @@
       "Icon": "Icon_Occupation_MonkSP.webp",
       "SD": [
         {
-          "ImageUrl": "프레아/1/2.webp"
+          "ImageUrl": "프레아/sp/1.webp"
         },
         {
           "ImageUrl": "프레아/2/2.webp"

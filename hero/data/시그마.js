@@ -166,7 +166,7 @@
       "Icon": "Icon_Occupation_AssassinSP.webp",
       "SD": [
         {
-          "ImageUrl": "시그마/1/2.webp"
+          "ImageUrl": "시그마/sp/1.webp"
         },
         {
           "ImageUrl": "시그마/2/2.webp"

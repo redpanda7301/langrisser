@@ -182,7 +182,7 @@
       "Icon": "Icon_Occupation_FlySP.webp",
       "SD": [
         {
-          "ImageUrl": "알테뮬러/1/2.webp"
+          "ImageUrl": "알테뮬러/sp/1.webp"
         },
         {
           "ImageUrl": "알테뮬러/2/2.webp"

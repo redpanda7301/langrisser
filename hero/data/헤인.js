@@ -166,7 +166,7 @@
       "Icon": "Icon_Occupation_MagicianSP.webp",
       "SD": [
         {
-          "ImageUrl": "헤인/1/2.webp"
+          "ImageUrl": "헤인/sp/1.webp"
         },
         {
           "ImageUrl": "헤인/2/1.webp"

@@ -546,13 +546,13 @@
         {
           "Name": "<b><font color=\"#0070c0\">불사의몸</font></b>",
           "Entries": null,
-          "IconImageUrl": "../img/Super/아인즈_2.webp",
+          "IconImageUrl": "../img/Super/아인즈_3.webp",
           "Desc": "[지원]부대의 최대생명력 +15% 및 생명력회복 100%<br/>(제거불가, 전장중 사용 1회 제한)"
         },
         {
           "Name": "<b><font color=\"#0070c0\">비행</font></b>",
           "Entries": null,
-          "IconImageUrl": "../img/Super/아인즈_3.webp",
+          "IconImageUrl": "../img/Super/아인즈_2.webp",
           "Desc": "[지원]이동력+1, 부대의 이동방식이 '비행'으로 변한다.<br/>(제거불가, 전장중 사용 1회 제한)"
         },
         {

@@ -8,7 +8,12 @@
     {
       "ImageUrl": "루크레치아/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "루크레치아/3.webp",
+      "Desc": "한정 판매"
     }
+    
   ],
   "Name": "루크레치아",
   "ChName": "卢克蕾蒂娅",
@@ -96,6 +101,9 @@
         },
         {
           "ImageUrl": "루크레치아/2/1.webp"
+        },
+        {
+          "ImageUrl": "루크레치아/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -125,6 +133,9 @@
         },
         {
           "ImageUrl": "루크레치아/2/1.webp"
+        },
+        {
+          "ImageUrl": "루크레치아/3/1.webp"
         }
       ],
       "AttkRange": 2,

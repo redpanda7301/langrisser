@@ -9,6 +9,10 @@
       "ImageUrl": "루인/sp.webp",
       "Desc": "SP 각성"      
     },
+    {
+      "ImageUrl": "루인/2.webp",
+      "Desc": "서밋아레나 S11 골드스킨"      
+    }
   ],
   "Name": "루인",
   "CV": "하타나카 타스쿠",
@@ -33,10 +37,10 @@
   "HowToGet": "영웅 소환, 우정티켓 소환",
   "Fetters": [
     {
-      "Condition": "루인을 레벨 30 달성"
+      "Condition": "루인을 레벨 30 달성"
     },
     {
-      "Condition": "루인을 출전시켜 시공의 균열 3-1[정예] 클리어"
+      "Condition": "루인을 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
       "Condition": "키리카제를 도와 운명의 문 3을 클리어"
@@ -48,26 +52,26 @@
   "HeartFetter": "생명+700, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "빛의 기원",
+      "Name": "빛의 기원",
       "Icon": "10.webp",
       "Abilities": [
         {
           "Desc": "1성"
         },
         {
-          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+5%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">50%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+5%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">50%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+7%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">60%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+7%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">60%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+9%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">70%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+9%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">70%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+12%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">80%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+12%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">80%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+15%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">100%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "공격하여 전투 진입 전 부대 공격 방어 <font color=\"red\">+15%</font> <font color=\"red\">1턴</font> 지속.<br/> 전투 후 <font color=\"red\">100%</font> 확률로 부대 생명 <font color=\"red\">30%</font> 회복."
         }
       ]
     }
@@ -124,6 +128,9 @@
         },
         {
           "ImageUrl": "루인/sp/1.webp"
+        },
+        {
+          "ImageUrl": "루인/2/1.webp"
         }
         
       ],
@@ -154,7 +161,11 @@
         },
         {
           "ImageUrl": "루인/sp/1.webp"
+        },
+        {
+          "ImageUrl": "루인/2/1.webp"
         }
+
       ],
       "AttkRange": 1,
       "Move": 3,
