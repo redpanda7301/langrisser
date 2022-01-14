@@ -577,7 +577,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Selvaria/3.webp",
-      "Desc": "<b>방어 지형</b>에 있을 경우 <br/>치명타 확률 <font color=\"red\">+15%</font>, <font color=\"blue\">고정 피해</font> <font color=\"red\">+15%</font>, <font color=\"green\">받는 치료 효과</font> <font color=\"red\">+30%</font>",
+      "Desc": "<b>방어 지형</b>에 있을 경우 <br/>치명타 확률 <font color=\"red\">+30%</font>, <font color=\"blue\">고정 피해</font> <font color=\"red\">+15%</font>, <font color=\"green\">받는 치료 효과</font> <font color=\"red\">+30%</font>",
       "SubSkills": null,
       "Animation": null
     },

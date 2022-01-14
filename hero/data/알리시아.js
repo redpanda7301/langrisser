@@ -100,7 +100,7 @@
       ],
       "AttkRange": 2,
       "Move": 3,
-      "MoveType": "FieldArmy",
+      "MoveType": "Walk",
       "HP": 3614,
       "HPRate": 71,
       "Attk": 564,
@@ -129,7 +129,7 @@
       ],
       "AttkRange": 1,
       "Move": 3,
-      "MoveType": "FieldArmy",
+      "MoveType": "Walk",
       "HP": 4227,
       "HPRate": 82,
       "Attk": 564,
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "ClassTitle": "정찰병 : 공격+12, 방패+5",
+      "ClassTitle": "정찰병 : 공격+12, 방어+5",
       "Tiers": [
         {
           "Name": "T1",
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "ClassTitle": "돌격병 : 공격+12, 방패+5",
+      "ClassTitle": "돌격병 : 공격+12, 방어+5",
       "Tiers": [
         {
           "Name": "T1",
@@ -425,7 +425,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "-"
+          "Value": "1턴"
         },
         {
           "Label": "사거리",
@@ -545,7 +545,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/알리시아.webp",
-      "Desc": "직선 범위 위에 있는 단일 부대 <font color=\"red\">1.6</font>배 피해<br/><b>근접전 패널티 무효화</b><br/>전투 전 자신 생명 <font color=\"red\">100</font>% <font color=\"green\">회복</font>, 적 버프 <font color=\"red\">5</font>개 제거, 작 방어 <font color=\"red\">-30</font>% <br/>지속 <font color=\"red\">2</font>턴, <b>해제 불가</b><br/>전투 후 목표 직선 방향 <font color=\"red\">4</font>칸 범위 안에 적이 있을 경우 <font color=\"red\">0.25</font>배 <font color =\"blue\">고정 피해</font>",
+      "Desc": "직선 범위 위에 있는 단일 부대 <font color=\"red\">1.6</font>배 피해<br/><b>근접전 패널티 무효화</b><br/>전투 전 자신 생명 <font color=\"red\">100</font>% <font color=\"green\">회복</font>, 적 버프 <font color=\"red\">5</font>개 제거, 적 방어 <font color=\"red\">-30</font>% <br/>지속 <font color=\"red\">2</font>턴, <b>해제 불가</b><br/>전투 후 목표 직선 방향 <font color=\"red\">4</font>칸 범위 안에 적이 있을 경우 <font color=\"red\">0.25</font>배 <font color =\"blue\">고정 피해</font>",
       "SubSkills": null,
       "Animation": "../img/Super/알리시아_Ani.webp"
     }
