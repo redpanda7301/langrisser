@@ -127,7 +127,7 @@
           "ImageUrl": "알리시아/2/2.webp"
         }
       ],
-      "AttkRange": 1,
+      "AttkRange": 2,
       "Move": 3,
       "MoveType": "Walk",
       "HP": 4227,
