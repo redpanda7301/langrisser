@@ -371,13 +371,13 @@
         {
           "Name": "<b><font color=\"blue\">용의 위엄(<font color=\"blue\">정수 축적</font>으로 인한 효과)</font></b>",
           "Entries": null,
-          "IconImageUrl": null,
-          "Desc": "이동력 <font color=\"red\">+1</font>, 영웅의 공격 방어 마방 <font color=\"red\">+7</font>% <br/>최대 <font color=\"red\">4</font>중첩<br/>각 중첩별로 이하 효과 발동<br/><font color=\"blue\">선공으로 전투 후 가한 피해 <font colror =\"red\>25</font>% 수치 <font color=\"green\">생명 회복</font></font><br/>'<font color=\"blue\">부대 사거리 <font color=\"red\">+2</font>'</font><br/><font color=\"blue\">모든 디버프 면역</font><br/><font color=\"blue\">주는 피해량 <font color=\"red\">+15</font>% 및 호위 무시 공격'<br/>누적 가능 "
+          "IconImageUrl":  "../img/skills/oboro/1_1.webp",
+          "Desc": "이동력 <font color=\"red\">+1</font>, 영웅의 공격 방어 마방 <font color=\"red\">+7</font>% <br/>최대 <font color=\"red\">4</font>중첩<br/>각 중첩별로 이하 효과 발동<br/>'<font color=\"blue\">선공으로 전투 후 가한 피해 <font colror =\"red\>25</font>% 수치 <font color=\"green\">생명 회복</font>'</font><br/><font color=\"blue\">부대 사거리 <font color=\"red\">+2</font>'</font><br/><font color=\"blue\">모든 디버프 면역</font><br/><font color=\"blue\">주는 피해량 <font color=\"red\">+15</font>% 및 호위 무시 공격'<br/>누적 가능 "
         },
         {
           "Name": "<b><font color=\"blue\">용화</font>(<font color=\"blue\">용의 위엄</font>누적 수량으로 활성화)</b>",
           "Entries": null,
-          "IconImageUrl": null,
+          "IconImageUrl":  "../img/skills/oboro/1_2.webp",
           "Desc": "<font이동력 color=\"blue\">텔레포트</font> 후 '<font color=\"blue\">정수 축적</font>' 효과 상실 <br/><font color=\"red\">자신의 모든 병사를 제물로 바쳐</font><br/>'영웅 최대 생명 <font color=\"red\">+30</font>% 및 자신의 생명 <font color=\"red\">50</font>% <font color=\"green\">생명 회복</font>,<br/>전투 진입 시 <font color=\"blue\">추가 공격 <font color=\"red\">1</font>회</font>,<br/>병사 생명 <font color=\"red\">-90</font>% 및 <font color=\"blue\">치료 불가</font>(디메리트),<br/>'<font color=\"blue\>이동 방식을 <font color=\"gold\">비행</font> 으로 변경</font>' 효과 영구 획득,<br/>사용 후 <font color=\"blue\">재행동</font> 가능하며 '<font color=\"blue\">용의 위엄</font>' 누적 수량에 따른다.<br/><font color=\"blue\">정수 축적</font>은 <font color=\"blue\">용화</font>로 변경"
         },
       ],
