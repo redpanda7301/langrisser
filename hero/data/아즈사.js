@@ -47,7 +47,7 @@
       "Condition": "오보로의 도움을 받아 운명의문 5 클리어"
     }
   ],
-  "HeartFetter": "",
+  "HeartFetter": "생명+800 방어+50 마방+50",
   "Talent": [
     {
       "Name": "존자쌍원",
@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격 <font color=\"red\">+10</font>% <br/>공격 <font color=\"red\">1</font>배 수치로 <font color =\"blue\">지력 대체</font><br>전투 시작시 '<font color=\"purple\">쌍원호체</font>' 효과 획득<br/><font color=\"purple\">쌍원호체</font> : 이동력 <font color=\"red\">+3</font>, <b>피격으로 전투 진입 전</b><br/> 적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>낮을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">물리 피해</font>로 공격<br/>적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>높을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">마법 피해</font>로 공격<br/>피격 <font color=\"red\">1</font>회 후 <font color=\"purple\">쌍원호체</font> 효과 상실<br/>영웅이 <font color=\"blue\">물리 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">강</font>' 효과 획득<br/>영웅이 <font color=\"blue\">마법 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">유</font>' 효과를 획득<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과를 모두 보유한 상태로 행동 종료 시<br/>부대 생명 <font color=\"red\">50</font>% 수치 '<font color=\"green\">생명 회복</font> 및 '<font color=\"purple\">쌍원호체</font> 효과 회복<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>','<font color=\"purple\">쌍원호체</font>' 효과는 <b>면역 및 해제 불가<b/>"
+          "Desc": "공격 <font color=\"red\">+10</font>% <br/>공격 <font color=\"red\">1</font>배 수치로 <font color =\"blue\">지력 대체</font><br>전투 시작시 '<font color=\"purple\">쌍원호체</font>' 효과 획득<br/><font color=\"purple\">쌍원호체</font> : 이동력 <font color=\"red\">+3</font>, <b>피격으로 전투 진입 전</b><br/> 적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>낮을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">물리 피해</font>로 공격<br/>적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>높을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">마법 피해</font>로 공격<br/>피격 <font color=\"red\">1</font>회 후 <font color=\"purple\">쌍원호체</font> 효과 상실<br/>영웅이 <font color=\"blue\">물리 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">강</font>' 효과 획득<br/>영웅이 <font color=\"blue\">마법 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">유</font>' 효과를 획득<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과를 모두 보유한 상태로 행동 종료 시<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과 제거 및 부대 생명 <font color=\"red\">50</font>% 수치 '<font color=\"green\">생명 회복</font> 및 '<font color=\"purple\">쌍원호체</font> 효과 회복<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>','<font color=\"purple\">쌍원호체</font>' 효과는 <b>면역 및 해제 불가<b/>"
         },
         {
-          "Desc": "공격 <font color=\"red\">+12</font>% <br/>공격 <font color=\"red\">1</font>배 수치로 <font color =\"blue\">지력 대체</font><br>전투 시작시 '<font color=\"purple\">쌍원호체</font>' 효과 획득<br/><font color=\"purple\">쌍원호체</font> : 이동력 <font color=\"red\">+3</font>, <b>피격으로 전투 진입 전</b><br/> 적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>낮을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">물리 피해</font>로 공격<br/>적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>높을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">마법 피해</font>로 공격<br/>피격 <font color=\"red\">1</font>회 후 <font color=\"purple\">쌍원호체</font> 효과 상실<br/>영웅이 <font color=\"blue\">물리 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">강</font>' 효과 획득<br/>영웅이 <font color=\"blue\">마법 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">유</font>' 효과를 획득<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과를 모두 보유한 상태로 행동 종료 시<br/>부대 생명 <font color=\"red\">60</font>% 수치 '<font color=\"green\">생명 회복</font> 및 '<font color=\"purple\">쌍원호체</font> 효과 회복<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>','<font color=\"purple\">쌍원호체</font>' 효과는 <b>면역 및 해제 불가<b/>"
+          "Desc": "공격 <font color=\"red\">+12</font>% <br/>공격 <font color=\"red\">1</font>배 수치로 <font color =\"blue\">지력 대체</font><br>전투 시작시 '<font color=\"purple\">쌍원호체</font>' 효과 획득<br/><font color=\"purple\">쌍원호체</font> : 이동력 <font color=\"red\">+3</font>, <b>피격으로 전투 진입 전</b><br/> 적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>낮을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">물리 피해</font>로 공격<br/>적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>높을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">마법 피해</font>로 공격<br/>피격 <font color=\"red\">1</font>회 후 <font color=\"purple\">쌍원호체</font> 효과 상실<br/>영웅이 <font color=\"blue\">물리 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">강</font>' 효과 획득<br/>영웅이 <font color=\"blue\">마법 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">유</font>' 효과를 획득<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과를 모두 보유한 상태로 행동 종료 시<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과 제거 및 부대 생명 <font color=\"red\">60</font>% 수치 '<font color=\"green\">생명 회복</font> 및 '<font color=\"purple\">쌍원호체</font> 효과 회복<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>','<font color=\"purple\">쌍원호체</font>' 효과는 <b>면역 및 해제 불가<b/>"
         },
         {
-          "Desc": "공격 <font color=\"red\">+15</font>% <br/>공격 <font color=\"red\">1</font>배 수치로 <font color =\"blue\">지력 대체</font><br>전투 시작시 '<font color=\"purple\">쌍원호체</font>' 효과 획득<br/><font color=\"purple\">쌍원호체</font> : 이동력 <font color=\"red\">+3</font>, <b>피격으로 전투 진입 전</b><br/> 적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>낮을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">물리 피해</font>로 공격<br/>적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>높을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">마법 피해</font>로 공격<br/>피격 <font color=\"red\">1</font>회 후 <font color=\"purple\">쌍원호체</font> 효과 상실<br/>영웅이 <font color=\"blue\">물리 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">강</font>' 효과 획득<br/>영웅이 <font color=\"blue\">마법 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">유</font>' 효과를 획득<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과를 모두 보유한 상태로 행동 종료 시<br/>부대 생명 <font color=\"red\">80</font>% 수치 '<font color=\"green\">생명 회복</font> 및 '<font color=\"purple\">쌍원호체</font> 효과 회복<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>','<font color=\"purple\">쌍원호체</font>' 효과는 <b>면역 및 해제 불가<b/>"
+          "Desc": "공격 <font color=\"red\">+15</font>% <br/>공격 <font color=\"red\">1</font>배 수치로 <font color =\"blue\">지력 대체</font><br>전투 시작시 '<font color=\"purple\">쌍원호체</font>' 효과 획득<br/><font color=\"purple\">쌍원호체</font> : 이동력 <font color=\"red\">+3</font>, <b>피격으로 전투 진입 전</b><br/> 적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>낮을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">물리 피해</font>로 공격<br/>적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>높을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">마법 피해</font>로 공격<br/>피격 <font color=\"red\">1</font>회 후 <font color=\"purple\">쌍원호체</font> 효과 상실<br/>영웅이 <font color=\"blue\">물리 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">강</font>' 효과 획득<br/>영웅이 <font color=\"blue\">마법 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">유</font>' 효과를 획득<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과를 모두 보유한 상태로 행동 종료 시<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과 제거 및 부대 생명 <font color=\"red\">80</font>% 수치 '<font color=\"green\">생명 회복</font> 및 '<font color=\"purple\">쌍원호체</font> 효과 회복<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>','<font color=\"purple\">쌍원호체</font>' 효과는 <b>면역 및 해제 불가<b/>"
         },
         {
-          "Desc": "공격 <font color=\"red\">+20</font>% <br/>공격 <font color=\"red\">1</font>배 수치로 <font color =\"blue\">지력 대체</font><br>전투 시작시 '<font color=\"purple\">쌍원호체</font>' 효과 획득<br/><font color=\"purple\">쌍원호체</font> : 이동력 <font color=\"red\">+3</font>, <b>피격으로 전투 진입 전</b><br/> 적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>낮을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">물리 피해</font>로 공격<br/>적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>높을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">마법 피해</font>로 공격<br/>피격 <font color=\"red\">1</font>회 후 <font color=\"purple\">쌍원호체</font> 효과 상실<br/>영웅이 <font color=\"blue\">물리 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">강</font>' 효과 획득<br/>영웅이 <font color=\"blue\">마법 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">유</font>' 효과를 획득<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과를 모두 보유한 상태로 행동 종료 시<br/>부대 생명 <font color=\"red\">100</font>% 수치 '<font color=\"green\">생명 회복</font> 및 '<font color=\"purple\">쌍원호체</font> 효과 회복<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>','<font color=\"purple\">쌍원호체</font>' 효과는 <b>면역 및 해제 불가<b/>"
+          "Desc": "공격 <font color=\"red\">+20</font>% <br/>공격 <font color=\"red\">1</font>배 수치로 <font color =\"blue\">지력 대체</font><br>전투 시작시 '<font color=\"purple\">쌍원호체</font>' 효과 획득<br/><font color=\"purple\">쌍원호체</font> : 이동력 <font color=\"red\">+3</font>, <b>피격으로 전투 진입 전</b><br/> 적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>낮을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">물리 피해</font>로 공격<br/>적의 <font color=\"blue\">공격</font>이 <font color=\"blue\">지력</font>보다 <b>높을 경우</b> 해당 전투에서 적 영웅은 <font color=\"blue\">마법 피해</font>로 공격<br/>피격 <font color=\"red\">1</font>회 후 <font color=\"purple\">쌍원호체</font> 효과 상실<br/>영웅이 <font color=\"blue\">물리 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">강</font>' 효과 획득<br/>영웅이 <font color=\"blue\">마법 피해 스킬</font>을 사용해 전투 진입시 '<font color=\"blue\">유</font>' 효과를 획득<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과를 모두 보유한 상태로 행동 종료 시<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>' 효과 제거 및 부대 생명 <font color=\"red\">100</font>% 수치 '<font color=\"green\">생명 회복</font> 및 '<font color=\"purple\">쌍원호체</font> 효과 회복<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>','<font color=\"purple\">쌍원호체</font>' 효과는 <b>면역 및 해제 불가<b/>"
         }
       ]
     }
@@ -78,7 +78,7 @@
   "Equip": null,
   "Soldiers": [
     4,
-    58,
+    59,
     24,
     47,
     3,
@@ -114,8 +114,8 @@
       "MagicDefRate": 74,
       "Skill": 141,
       "SkillRate": 39,
-      "HeartFetterBouns1": "<b>선공으로 전투 진입시</b>,<br/>부대 받는 피해량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>자신 부대 보다 생명 백분비가 높은 부대를 선공해서 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>선공으로 전투 진입시</b>,<br/>부대가 받는 피해량<font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>자신 부대 보다 생명 백분비가 높은 부대를<br/> 선공해서 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "퇴마 존자",
@@ -143,8 +143,8 @@
       "MagicDefRate": 82,
       "Skill": 141,
       "SkillRate": 39,
-      "HeartFetterBouns1": "<b>부대 생명이 <font color=\"red\">70</font>% 미만 시 전투 진입 후</b><br/><br/>받는 피해량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>자신 부대 보다 생명 백분비가 낮은 부대를 선공해서 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명이 <font color=\"red\">70</font>% 미만 시 전투 진입 후</b><br/>받는 피해량<font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>자신 부대 보다 생명 백분비가 낮은 부대를<br/>선공해서 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -345,7 +345,7 @@
   "Skills": [
     {
       "Name": "기공파",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -353,11 +353,11 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "2턴"
+          "Value": "1턴"
         },
         {
           "Label": "사거리",
-          "Value": "2칸"
+          "Value": "1칸"
         },
         {
           "Label": "범위",
@@ -479,7 +479,7 @@
             "Value": "단일"
           }],
           "IconImageUrl": "../img/skills/azusa/2_1.webp",
-          "Desc": "단일 개체 <font color=\"red\">1.5</font>피해를 입힌 후<br/>적의 방어력 <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>턴"
+          "Desc": "단일 개체 <font color=\"red\">1.5</font>피해<br/>적의 방어력 <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>턴"
         },
         {
           "Name": "<b><font color=\"blue\">환령격 - 유</font></b>",
@@ -606,7 +606,7 @@
           },
           {
             "Label": "쿨타임",
-            "Value": "5턴"
+            "Value": "4턴"
           },
           {
             "Label": "사거리",
@@ -617,7 +617,7 @@
             "Value": "단일"
           }],
           "IconImageUrl": "../img/Super/아즈사_1.webp",
-          "Desc": "단일 개체 <font color=\"red\">1.7</font><br/>피해"
+          "Desc": "단일 개체 <font color=\"red\">1.7</font>배 피해"
         },
         {
           "Name": "<b><font color=\"blue\">영종비록 - 유</font></b>",
@@ -628,7 +628,7 @@
             },
             {
               "Label": "쿨타임",
-              "Value": "5턴"
+              "Value": "4턴"
             },
             {
               "Label": "사거리",
