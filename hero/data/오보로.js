@@ -51,7 +51,7 @@
   "Talent": [
     {
       "Name": "용의 전생",
-      "Icon": "Gift_oboro.webp",
+      "Icon": "Gift_Oboro.webp",
       "Abilities": [
         {
           "Desc": "1성"
