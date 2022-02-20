@@ -16,6 +16,10 @@
     {
       "ImageUrl": "헬레나/4.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "헬레나/5.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "헬레나",
@@ -113,6 +117,9 @@
         },
         {
           "ImageUrl": "헬레나/4/1.webp"
+        },
+        {
+          "ImageUrl": "헬레나/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -148,6 +155,9 @@
         },
         {
           "ImageUrl": "헬레나/4/1.webp"
+        },
+        {
+          "ImageUrl": "헬레나/5/1.webp"
         }
       ],
       "AttkRange": 1,

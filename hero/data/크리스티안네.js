@@ -2,19 +2,19 @@
 {
   "Skins": [
     {
-      "ImageUrl": "크리스티안느/1.webp",
+      "ImageUrl": "크리스티안네/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "크리스티안느/2.webp",
+      "ImageUrl": "크리스티안네/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "크리스티안느/3.webp",
+      "ImageUrl": "크리스티안네/3.webp",
       "Desc": "한정 판매"
     }
   ],
-  "Name": "크리스티안느",
+  "Name": "크리스티안네",
   "ChName": "克里斯蒂安妮",
   "EngName": "Christiane",
   "JapName": "",
@@ -39,7 +39,7 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "크리스티안느 출전시켜<br/> 시공의 균열 3-6 클리어"
+      "Condition": "크리스티안네 출전시켜<br/> 시공의 균열 3-6 클리어"
     },
     {
       "Condition": "클래스 황실 방패 호위 전직"
@@ -96,13 +96,13 @@
       "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
-          "ImageUrl": "크리스티안느/1/1.webp"
+          "ImageUrl": "크리스티안네/1/1.webp"
         },
         {
-          "ImageUrl": "크리스티안느/2/1.webp"
+          "ImageUrl": "크리스티안네/2/1.webp"
         },
         {
-          "ImageUrl": "크리스티안느/3/1.webp"
+          "ImageUrl": "크리스티안네/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -128,13 +128,13 @@
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "크리스티안느/1/2.webp"
+          "ImageUrl": "크리스티안네/1/2.webp"
         },
         {
-          "ImageUrl": "크리스티안느/2/2.webp"
+          "ImageUrl": "크리스티안네/2/2.webp"
         },
         {
-          "ImageUrl": "크리스티안느/3/2.webp"
+          "ImageUrl": "크리스티안네/3/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -650,10 +650,10 @@
           "Value": "맵전체"
         }
       ],
-      "IconImageUrl": "../img/Super/크리스티안느.webp",
+      "IconImageUrl": "../img/Super/크리스티안네.webp",
       "Desc": "[패시브]인접한 아군이 받는 모든 피해를 대신 받는다. <br/><font color=\"blue\">강화 불가 면역</font><br/>[액티브]호위 범위가 <font color =\"red\">2</font>칸으로 증가 및 자신의 <font color=\"blue\">지휘 스킬</font> 범위<font color =\"red\">+1</font>칸 증가<br/>'<font color =\"blue\">고급 신성한 수호</font>' 효과 획득<br/><font color =\"blue\">고급 신성한 수호</font> : 마방의 <font color =\"red\">1.6</font>배 만큼의 수치로 공격을 대체한다.<br/><b><font color =\"red\">2</font>칸 원거리 공격 반격 가능<br/><b>(<font color=\"blue\">고급 신성한 수호</font>는 제거 불가)</b><br/>[초절강화] 범위 내 모든 '<font color=\"#ff1493\">공주 연맹</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>전장에 있는 여성 영웅 <font color=\"red\">1</font>명 당</b> 전투 진입 시 주는 피해량 <font color=\"red\">+3</font>%(최대 <font color=\"red\">+18</font>%) <br/>지속 <font color=\"red\">4</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/크리스티안느_Ani.webp"
+      "Animation": "../img/Super/크리스티안네_Ani.webp"
     }
   ],
   "Propose": true,

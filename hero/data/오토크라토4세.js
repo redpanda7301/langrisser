@@ -8,6 +8,10 @@
     {
       "ImageUrl": "오토크라토4세/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "오토크라토4세/3.webp",
+      "Desc": "형귀 스킨"
     }
   ],
   "Name": "오토크라토 4세",
@@ -102,6 +106,9 @@
         },
         {
           "ImageUrl": "오토크라토4세/2/1.webp"
+        },
+        {
+          "ImageUrl": "오토크라토4세/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -131,6 +138,9 @@
         },
         {
           "ImageUrl": "오토크라토4세/2/1.webp"
+        },
+        {
+          "ImageUrl": "오토크라토4세/3/1.webp"
         }
       ],
       "AttkRange": 1,

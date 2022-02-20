@@ -82,7 +82,7 @@
     "Name": "염룡의 빛(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "발가스.webp",
-    "Ability": "방어 +10%<br/>[전력 찌르기]효과를 보유시 원거리2칸 공격에 대해 반격가능."
+    "Ability": "방어 +10%<br/><font color=\"blue\">전력 찌르기</font>효과를 보유시<br/>원거리 <font color=\"red\">2</font>칸 물리 공격에 대해 <font color=\"blue\">반격</font>."
   },
   "Soldiers": [
     20,
@@ -516,32 +516,6 @@
       ],
       "IconImageUrl": "../img/skills/Passive_Snarl.webp",
       "Desc": "[패시브]공격하여 전투 진입 전 적 부대의 버프 1개 제거 및<br/>공격, 방어 -10%, 1턴 지속.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "전력 찌르기",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "물리 피해"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "2턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "1칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Skill_SpearCrash1.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"#DC143C\">1.5배</font>의 전투 피해를 준다.<br/>전투 전 [전력 찌르기] 효과 획득: 방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, <font color=\"#DC143C\">2턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },

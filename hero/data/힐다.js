@@ -82,7 +82,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "핏빛 무장(갑옷)",
+    "Stats": "생명 437,방어 65",
+    "Icon": "힐다.webp",
+    "Ability": "생명,방어 <font color=\"red\">+5</font>%<br/><font color=\"blue\">코스트 제한 해제</font><br/>근접전으로 전투 진입 전 적 <font color=\"blue\">무기 스킬 무효화</font>(최대 생명 수치 제외)<br/>목표가 NPC일 경우 <font color=\"blue\">공격, 지력 <font color=\"red\">-25</font>% </font> 대체<br/>지속 <font color=\"red\">1</font>턴"
+  },
   "Soldiers": [
     25,
     22,
