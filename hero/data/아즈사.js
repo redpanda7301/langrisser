@@ -150,21 +150,26 @@
   "Materials": {
     "HeartFetter": [
       "h4",
+      "3",
       "h1",
+      "3",
       "h3",
+      "3-1",
       "h2",
+      "3-1",
       "h4-1",
       "h1-1",
       "h3-1",
       "h2-1",
-      "x"
+      "x",
+      "3-2",
     ],
     "Fetter": [
-      "3",
-      "3-1",
-      "3-2",
-      "3-3",
-      "3-4"
+      "6",
+      "6-1",
+      "6-2",
+      "6-3",
+      "6-4"
     ],
     "Awaken": [
       "ranka1",
@@ -269,26 +274,26 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank2-5",
-            "rank1-5",
+            "rank2-6",
+            "rank1-1",
             "rank1-4"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank3-4",
+            "rank3-3",
             "rank3-5",
-            "rank2-5",
-            "rank2-4"
+            "rank2-3",
+            "rank2-6"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
             "rank4-5",
-            "rank4-4",
-            "rank3-4",
+            "rank4-6",
+            "rank3-3",
             "rank3-5"
           ]
         }
@@ -300,10 +305,10 @@
         {
           "Name": "T1",
           "Materials": [
-            "rank5-4",
-            "rank5-5",
-            "rank4-4",
-            "rank4-5"
+            "rank5-1",
+            "rank5-3",
+            "rank4-5",
+            "rank4-6"
           ]
         },
         {
@@ -311,15 +316,15 @@
           "Materials": [
             "rank6-7",
             "rank6-8",
-            "rank5-4",
-            "rank5-5"
+            "rank5-1",
+            "rank5-3"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
             "rank7-5",
-            "rank7-6",
+            "rank7-7",
             "rank6-7",
             "rank6-8"
           ]
@@ -328,9 +333,9 @@
           "Name": "T4",
           "Materials": [
             "rank8-4",
-            "rank8-6",
+            "rank8-7",
             "rank7-5",
-            "rank7-6"
+            "rank7-4"
           ]
         }
       ]
