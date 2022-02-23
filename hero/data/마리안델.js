@@ -565,7 +565,7 @@
       "Animation": "../img/Super/마리안델_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null
 }];

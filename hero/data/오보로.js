@@ -95,7 +95,7 @@
           "ImageUrl": "오보로/1/2.webp"
         },
         {
-          "ImageUrl": "오보로/2/2.webp"
+          "ImageUrl": "오보로/2/1.webp"
         }
       ],
       "AttkRange": 1,
