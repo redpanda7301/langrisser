@@ -36,7 +36,7 @@
   "SPHP": 0,
   "Attk": 15,
   "SPAttk": 0,
-  "Def": 25,
+  "Def": 35,
   "SPDef": 0,
   "MagicDef": 20,
   "SPMagicDef": 0,
