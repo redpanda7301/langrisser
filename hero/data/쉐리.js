@@ -188,7 +188,7 @@
       "Icon": "Icon_Occupation_MonkSP.webp",
       "SD": [
         {
-          "ImageUrl": "쉐리/sp/1.webp"
+          "ImageUrl": "쉐리/1/3.webp"
         },
         {
           "ImageUrl": "쉐리/2/3.webp"
