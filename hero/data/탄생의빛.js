@@ -83,7 +83,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "전생의 명문(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "탄생의빛.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><b>영웅 고유 스킬로 누적할 수 있는 위광 갯수</b> <font color=\"red\">+1</font><br/><font color=\"blue\">재행동</font>시 <font color=\"blue\">버프</font> 지속 시간 소모되지 않음"
+  },
   "Soldiers": [
     44,
     13,
