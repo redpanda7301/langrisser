@@ -50,7 +50,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+30",
   "Talent": [
     {
-      "Name": "기갑 대장",
+      "Name": "반중력 엔진",
       "Icon": "Gift_Carolian.webp",
       "Abilities": [
         {
