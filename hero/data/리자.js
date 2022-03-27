@@ -2,11 +2,11 @@
 {
   "Skins": [
     {
-      "ImageUrl": "리사/1.webp",
+      "ImageUrl": "리자/1.webp",
       "Desc": "기본"
     }
   ],
-  "Name": "리사",
+  "Name": "리자",
   "ChName": "丽莎",
   "EngName": "Liza",
   "JapName": "",
@@ -88,7 +88,7 @@
       "Icon": "Icon_Occupation_Assassin.webp",
       "SD": [
         {
-          "ImageUrl": "리사/1/1.webp"
+          "ImageUrl": "리자/1/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -114,7 +114,7 @@
       "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": "리사/1/2.webp"
+          "ImageUrl": "리자/1/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -582,7 +582,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/리사.webp",
+      "IconImageUrl": "../img/Super/리자.webp",
       "Desc": "현재 형태에 따라 다른 액티브 스킬로 변환 <br/>형태 변환 후 즉시 스킬 쿨 초기화",
       "SubSkills": [
         {
@@ -605,7 +605,7 @@
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/Super/리사_1.webp",
+          "IconImageUrl": "../img/Super/리자_1.webp",
           "Desc": "단일 개체 <font color=\"red\">1.3</font>배 피해, <br/><b>전투 전 적을 <font color=\"blue\">기절</font>시킨다.<br/>지속 <font color=\"red\">1</font>행동"
         },
         {
@@ -628,7 +628,7 @@
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/Super/리사_2.webp",
+          "IconImageUrl": "../img/Super/리자_2.webp",
           "Desc": "호위 무시 단일 개체 <font color=\"red\">1.3</font>배 피해, <br/><b>전투 후</b> 적에게 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정피해</font>"
         },
         {
@@ -651,7 +651,7 @@
               "Value": "2칸"
             }
           ],
-          "IconImageUrl": "../img/Super/리사_3.webp",
+          "IconImageUrl": "../img/Super/리자_3.webp",
           "Desc": "공격 <font color=\"red\">2</font>배 수치로 범위 내 <br/>아군 <font color=\"green\">생명 회복</font> 및 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 제거"
         },
         {
@@ -678,7 +678,7 @@
           "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해, <br/><b>전투 전 적을 <font color=\"blue\">기절</font>시킨다.<br/>지속 <font color=\"red\">1</font>행동<br/><b>전투 후</b> 적에게 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"blue\">고정피해</font> 및 <br/>공격 <font color=\"red\">2</font>배 수치로 모든 <br/>아군 <font color=\"green\">생명 회복</font>"
         },
       ],
-      "Animation": "../img/Super/리사_Ani.webp"
+      "Animation": "../img/Super/리자_Ani.webp"
     }
   ],
   "Propose": false,

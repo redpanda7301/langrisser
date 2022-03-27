@@ -711,7 +711,7 @@
       "Animation": "../img/Super/엘마_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null
 }];

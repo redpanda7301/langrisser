@@ -166,10 +166,10 @@
       "6-4"
     ],
     "Awaken": [
-      "star",
+      
       "ranka2",
       "ranka6",
-      "moon",
+      
       "ranka2-1",
       "ranka6-1"
     ]
