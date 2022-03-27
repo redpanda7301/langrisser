@@ -575,7 +575,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/캐롤리안.webp",
-      "Desc": "지정 장소 <font color=\"Red\">2</font>칸 범위 안 적에게 <font color=\"Red\">0.4</font>배 피해 및 해당 지형에 '<font color=\"blue\">붕괴의 기창</font>' 효과 부여 <br/><font color=\"blue\">붕괴의 기창</font> : [지휘] <font color=\"red\">2</font>칸 범위 안 적이 캐롤리안과 교전시 '공격 및 지력 <font color=\"red\">-15</font>%',<br/><font color=\"blue\">붕괴의 기창</font> 밖 지형으로 이동시 칸마다 추가 이동력 <font color=\"red\">1</font>칸 소모,<br/>피해를 입히기 전 혹은 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/><font color=\"blue\">고정 피해</font>수치는 목표의 추가 이동력에 비례하며<br/>최대 캐롤리안 공격력의 <font color=\"red\">3.5</font>배 수치<br/>해당 스킬로 적이 부여한 지형 효과를 제거 시 추가로 직선 이동 <font color=\"red\">4</font>칸 가능<br/><font color=\"blue\">붕괴의 기창</font>지형 효과는 우선 순위를 가지낟.",
+      "Desc": "지정 장소 <font color=\"Red\">2</font>칸 범위 안 적에게 <font color=\"Red\">0.4</font>배 피해 및 해당 지형에 '<font color=\"blue\">붕괴의 기창</font>' 효과 부여 <br/><font color=\"blue\">붕괴의 기창</font> : [지휘] <font color=\"red\">2</font>칸 범위 안 적이 캐롤리안과 교전시 '공격 및 지력 <font color=\"red\">-15</font>%',<br/><font color=\"blue\">붕괴의 기창</font> 밖 지형으로 이동시 칸마다 추가 이동력 <font color=\"red\">1</font>칸 소모,<br/>피해를 입히기 전 혹은 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/><font color=\"blue\">고정 피해</font>수치는 목표의 추가 이동력에 비례하며<br/>최대 캐롤리안 공격력의 <font color=\"red\">3.5</font>배 수치<br/>해당 스킬로 적이 부여한 지형 효과를 제거 시 추가로 직선 이동 <font color=\"red\">4</font>칸 가능<br/><font color=\"blue\">붕괴의 기창</font>지형 효과는 우선 순위를 가진다.",
       "SubSkills": null,
       "Animation": "../img/Super/캐롤리안_Ani.webp"
     }
