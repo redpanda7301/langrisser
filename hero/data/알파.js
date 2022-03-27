@@ -459,7 +459,7 @@
               "Value": "단일"
             }],
             "IconImageUrl": "../img/skills/Alpha/1_1.webp",
-            "Desc": "[물리 피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배 피해를 준다.<br/><b>전투 전</b><font color=\"purple\">자수정 장막</font> 효과 획득<br/>전투 후 해당 전투에서 입힌 피해량 <font color =\"red\">30</font>% 수치 생명 회복"
+            "Desc": "[물리 피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배 피해를 준다.<br/><b>전투 전</b> <font color=\"purple\">자수정 장막</font> 효과 획득<br/>전투 후 해당 전투에서 입힌 피해량 <font color =\"red\">30</font>% 수치 생명 회복"
           },
           {
             "Name": "<font color=\"blue\">방패</font>",
@@ -481,7 +481,7 @@
               "Value": "단일"
             }],
             "IconImageUrl": "../img/skills/Alpha/1_2.webp",
-            "Desc": "[물리 피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배 피해를 준다.<br/><b>전투 전</b><font color=\"purple\">자수정 방패</font> 효과 획득<br/>전투 후 해당 전투에서 입힌 피해량 <font color =\"red\">30</font>% 수치 생명 회복"
+            "Desc": "[물리 피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배 피해를 준다.<br/><b>전투 전</b> <font color=\"purple\">자수정 방패</font> 효과 획득<br/>전투 후 해당 전투에서 입힌 피해량 <font color =\"red\">30</font>% 수치 생명 회복"
           }
         ],
         "Animation": null
