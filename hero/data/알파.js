@@ -94,7 +94,7 @@
   ],
   "Jobs": [
     {
-      "Name": "검사 대장",
+      "Name": "소드 마스터",
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
@@ -123,7 +123,7 @@
       "HeartFetterBouns2": "<b>근접 공격 받아 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10</font>%",
     },
     {
-      "Name": "자수정 대장",
+      "Name": "애머시스트 마스터",
       "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
@@ -180,7 +180,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "사관 : 공격+5, 방어+6",
+      "ClassTitle": "서전트 : 공격+5, 방어+6",
       "Tiers": [
         {
           "Name": "T1",
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "ClassTitle": "검사 : 생명+80, 기술+5",
+      "ClassTitle": "소드맨 : 생명+80, 기술+5",
       "Tiers": [
         {
           "Name": "T1",
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "ClassTitle": "검사 대장 : 공격+25, 방어+10, 마방+10",
+      "ClassTitle": "소드 마스터 : 공격+25, 방어+10, 마방+10",
       "Tiers": [
         {
           "Name": "T1",
@@ -300,7 +300,7 @@
         ]
       },
     {
-      "ClassTitle": "자수정 대장 : 생명+90, 공격+25, 방어+10",
+      "ClassTitle": "애머시스트 마스터 : 생명+90, 공격+25, 방어+10",
       "Tiers": [
         {
           "Name": "T1",
