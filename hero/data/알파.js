@@ -78,7 +78,7 @@
     "Name": "개조육체 α EX(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "알파.webp",
-    "Ability": "생명,방어 <font color=\"red\">+5</font>% 이동력 <font color=\"red\">+1</font><br/>자신에게 '<font color=\"purple\">자수정 방패</font>'가 있을 경우 피격 물리 공격을 피해량 <font color=\"red\">60</font>% <font color=\"green\">반사</font><br/>'<font color=\"purple\">자수정 장막</font>'이 있을 경우 피격 마법 공격을 피해량 <font color=\"red\">60</font>% <font color=\"green\">반사</font>"
+    "Ability": "생명,방어 <font color=\"red\">+5</font>% 이동력 <font color=\"red\">+1</font><br/>자신에게 '<font color=\"purple\">자수정 방패</font>'가 있을 경우 피격 물리 공격을 피해량 <font color=\"red\">60</font>% <font color=\"green\">반사</font><br/>'<font color=\"purple\">자수정 장막</font>'이 있을 경우 피격 마법 공격을 피해량 <font color=\"red\">60</font>% <font color=\"green\">반사</font><br/>둘다 없는 경우 영웅이 주는 피해량 <font color=\"red\">+15</font>%"
   },
   "Soldiers": [
     28,

@@ -8,6 +8,10 @@
     {
       "ImageUrl": "초월자/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "초월자/3.webp",
+      "Desc": "형귀 스킨"
     }
   ],
   "Name": "초월자",
@@ -102,6 +106,9 @@
         },
         {
           "ImageUrl": "초월자/2/1.webp"
+        },
+        {
+          "ImageUrl": "초월자/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -131,6 +138,9 @@
         },
         {
           "ImageUrl": "초월자/2/1.webp"
+        },
+        {
+          "ImageUrl": "초월자/3/1.webp"
         }
       ],
       "AttkRange": 2,

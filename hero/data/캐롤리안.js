@@ -38,7 +38,7 @@
       "Condition": "캐롤리안 레벨 30 달성"
     },
     {
-      "Condition": "캐롤리안을 출전시켜 시공의 균열 3-1[정예] 클리어"
+      "Condition": "캐롤리안을 기갑 기사로 전직"
     },
     {
       "Condition": "철혈재상의 도움을 받아 운명의문 4 클리어"
@@ -47,7 +47,7 @@
       "Condition": "로자리아의 도움을 받아 운명의문 5 클리어"
     }
   ],
-  "HeartFetter": "생명+600, 방어+30, 마방+30",
+  "HeartFetter": "생명+850, 방어+30, 마방+50",
   "Talent": [
     {
       "Name": "반중력 엔진",
@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">1</font>칸 범위 내에 있는 아군 <font color=\"red\">2</font>명에게 이동력 <font color=\"red\">+1</font>회 및 <br/>[횡단] 효과 부여 : 방어 지형 통과 시 이동력 감소 <font color=\"red\">1</font>칸 면제 지속 <font color=\"red\">1</font>행동"
+          "Desc": "방어 <font color=\"red\">+5</font>%<br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+1</font>%<br/>최대 <font color=\"red\">+5</font>%<br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">1</font> 바퀴 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>턴"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 범위 내에 있는 아군 <font color=\"red\">3</font>명에게 이동력 <font color=\"red\">+1</font>회 및 <br/>[횡단] 효과 부여 : 방어 지형 통과 시 이동력 감소 <font color=\"red\">1</font>칸 면제 지속 <font color=\"red\">1</font>행동"
+          "Desc": "방어 <font color=\"red\">+10</font>%<br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+2</font>%<br/>최대 <font color=\"red\">+10</font>%<br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">2</font>칸 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>턴"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 내에 있는 아군 <font color=\"red\">3</font>명에게 이동력 <font color=\"red\">+1</font>회 및 <br/>[횡단] 효과 부여 : 방어 지형 통과 시 이동력 감소 <font color=\"red\">1</font>칸 면제 지속 <font color=\"red\">1</font>행동"
+          "Desc": "방어 <font color=\"red\">+15</font>%<br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+3</font>%<br/>최대 <font color=\"red\">+15</font>%<br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">2</font>칸 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>턴"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 내에 있는 아군 <font color=\"red\">4</font>명에게 이동력 <font color=\"red\">+1</font>회 및 <br/>[횡단] 효과 부여 : 방어 지형 통과 시 이동력 감소 <font color=\"red\">1</font>칸 면제 지속 <font color=\"red\">1</font>행동"
+          "Desc": "방어 <font color=\"red\">+20</font>%<br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+4</font>%<br/>최대 <font color=\"red\">+20</font>%<br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">2</font>바퀴 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>턴"
         }
       ]
     }
@@ -84,7 +84,7 @@
     66,
     50,
     61,
-    58
+    59
   ],
   "Jobs": [
     {
@@ -511,7 +511,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "4턴"
+          "Value": "2턴"
         },
         {
           "Label": "사거리",

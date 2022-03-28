@@ -16,6 +16,10 @@
     {
       "ImageUrl": "쥬그라/4.webp",
       "Desc": "서밋아레나 S6 패자스킨"
+    },
+    {
+      "ImageUrl": "쥬그라/5.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "쥬그라",
@@ -120,6 +124,9 @@
         },
         {
           "ImageUrl": "쥬그라/4/1.webp"
+        },
+        {
+          "ImageUrl": "쥬그라/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -155,6 +162,9 @@
         },
         {
           "ImageUrl": "쥬그라/4/1.webp"
+        },
+        {
+          "ImageUrl": "쥬그라/5/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -190,6 +200,9 @@
         },
         {
           "ImageUrl": "쥬그라/4/1.webp"
+        },
+        {
+          "ImageUrl": "쥬그라/5/2.webp"
         }
       ],
       "AttkRange": 1,

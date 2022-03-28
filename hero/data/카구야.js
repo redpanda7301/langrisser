@@ -398,7 +398,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "1턴"
+          "Value": "3턴"
         },
         {
           "Label": "사거리",
@@ -580,7 +580,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/카구야.webp",
-      "Desc": "[패시브] 전투에서 사용한 <img src=\"../img/Skills/kaguya/0_1.webp\"/><img src=\"../img/Skills/kaguya/0_2.webp\"/><img src=\"../img/Skills/kaguya/0_3.webp\"/> 마다 <font color=\"blue\">마지막 승부</font> 치명타 확률 <font colro=\"Red\">+6</font>%<br/>[마법 피해] 단일 적에게<font colro=\"Red\">1.7</font>배 피해를 준다.<br/>전투 전 적에게 <b>해제 불가 <font color=\"blue\">강력한 디버프</font></b><font color=\"Red\">2</font>개를 무작위로 부여<br/>지속 <font color=\"Red\">1</font>턴<br/>전투 후 자신에게 '<font color=\"blue\">받는 피해 <font color=\"Red\">-20</font>%</font></font>'효과 부여<br/>지속 <font color=\"Red\">1</font>턴<br/><font color=\"blue\">재이동</font><font color=\"Red\">3</font>칸",
+      "Desc": "[패시브] 전투에서 사용한 <img src=\"../img/Skills/kaguya/0_1.webp\"/><img src=\"../img/Skills/kaguya/0_2.webp\"/><img src=\"../img/Skills/kaguya/0_3.webp\"/> 마다 <font color=\"blue\">마지막 승부</font> 치명타 확률 <font colro=\"Red\">+6</font>%<br/>[마법 피해] 단일 적에게<font colro=\"Red\">1.7</font>배 피해를 준다.<br/>전투 전 적에게 <b>해제 불가 <font color=\"blue\">강력한 디버프</font></b><font color=\"Red\">2</font>개를 무작위로 부여<br/>지속 <font color=\"Red\">1</font>턴<br/>전투 후 자신에게 '<font color=\"blue\">받는 피해 <font color=\"Red\">-20</font>%</font></font>'효과 부여<br/>지속 <font color=\"Red\">1</font>턴<br/>전투 후 <font color=\"blue\">재이동</font><font color=\"Red\">3</font>칸",
       "SubSkills": null,
       "Animation": "../img/Super/카구야_Ani.webp"
     }
