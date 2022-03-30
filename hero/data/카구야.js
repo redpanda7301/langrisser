@@ -363,26 +363,26 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Skills/kaguya/1.webp",
-      "Desc": "이하 스킬 중 <font color=\"red\">1</font>개 선택<br/>사용후 자신에게 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font>효과 부여 및 <font color=\"blue\">재행동</font> 가능<br/>지속 <font color=\"red\">2</font>턴<br/>해당 스킬은 버프 지속 시간을 소모하지 않으며 이동력은 남은 이동력을 사용한다.<br/><img src=\"../img/Skills/kaguya/0_1.webp\"/><font color=\"purple\">저</font><br/><img src=\"../img/Skills/kaguya/0_2.webp\"/><font color=\"purple\">록</font><br/><img src=\"../img/Skills/kaguya/0_3.webp\"/><font color=\"purple\">접</font><br/>순으로 우선 사용",
+      "IconImageUrl": "../img/skills/Kaguya/1.webp",
+      "Desc": "이하 스킬 중 <font color=\"red\">1</font>개 선택<br/>사용후 자신에게 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font>효과 부여 및 <font color=\"blue\">재행동</font> 가능<br/>지속 <font color=\"red\">2</font>턴<br/>해당 스킬은 버프 지속 시간을 소모하지 않으며 이동력은 남은 이동력을 사용한다.<br/><img src=\"../img/skills/Kaguya/0_1.webp\"/><font color=\"purple\">저</font><br/><img src=\"../img/skills/Kaguya/0_2.webp\"/><font color=\"purple\">록</font><br/><img src=\"../img/skills/Kaguya/0_3.webp\"/><font color=\"purple\">접</font><br/>순으로 우선 사용",
       "SubSkills": [
         {
           "Name": "<b><font color=\"#0070c0\">소매 속의 패 - 단</font></b>",
           "Entries": null,
-          "IconImageUrl": "../img/skills/kaguya/1_1.webp",
-          "Desc": "[액티브]<img src=\"../img/Skills/kaguya/0_1.webp\"/><img src=\"../img/Skills/kaguya/0_2.webp\"/><img src=\"../img/Skills/kaguya/0_3.webp\"/> 중 한 쌍을 소모해 자신에게 <br/>'<font color=\"blue\">선공으로 피해를 입힌 후 무작위 <img src=\"../img/Skills/kaguya/0_1.webp\"/><img src=\"../img/Skills/kaguya/0_2.webp\"/><img src=\"../img/Skills/kaguya/0_3.webp\"/> 획득</font>'효과 부여 <br/>지속 <font color=\"red\">1</font>턴"
+          "IconImageUrl": "../img/skills/Kaguya/1_1.webp",
+          "Desc": "[액티브]<img src=\"../img/skills/Kaguya/0_1.webp\"/><img src=\"../img/skills/Kaguya/0_2.webp\"/><img src=\"../img/skills/Kaguya/0_3.webp\"/> 중 한 쌍을 소모해 자신에게 <br/>'<font color=\"blue\">선공으로 피해를 입힌 후 무작위 <img src=\"../img/skills/Kaguya/0_1.webp\"/><img src=\"../img/skills/Kaguya/0_2.webp\"/><img src=\"../img/skills/Kaguya/0_3.webp\"/> 획득</font>'효과 부여 <br/>지속 <font color=\"red\">1</font>턴"
         },
         {
           "Name": "<b><font color=\"#0070c0\">소매 속의 패 - 종</font></b>",
           "Entries": null,
-          "IconImageUrl": "../img/skills/kaguya/1_2.webp",
-          "Desc": "[액티브]<img src=\"../img/Skills/kaguya/0_1.webp\"/><img src=\"../img/Skills/kaguya/0_2.webp\"/><img src=\"../img/Skills/kaguya/0_3.webp\"/> 각각 하나를 소모해 한 쌍을 소모해 자신에게 <br/>'<font color=\"blue\">주는 피해</font> <font color=\"red\">+20</font>%' 장비 마부 발동 확률 <font color=\"red\">100</font>%' 부여</font>'효과 부여 <br/>지속 <font color=\"red\">1</font>턴"
+          "IconImageUrl": "../img/skills/Kaguya/1_2.webp",
+          "Desc": "[액티브]<img src=\"../img/skills/Kaguya/0_1.webp\"/><img src=\"../img/skills/Kaguya/0_2.webp\"/><img src=\"../img/skills/Kaguya/0_3.webp\"/> 각각 하나를 소모해 한 쌍을 소모해 자신에게 <br/>'<font color=\"blue\">주는 피해</font> <font color=\"red\">+20</font>%' 장비 마부 발동 확률 <font color=\"red\">100</font>%' 부여</font>'효과 부여 <br/>지속 <font color=\"red\">1</font>턴"
         },
         {
           "Name": "<b><font color=\"#0070c0\">소매 속의 패 - 광</font></b>",
           "Entries": null,
-          "IconImageUrl": "../img/skills/kaguya/1_3.webp",
-         "Desc": "[액티브]3개의 <img src=\"../img/Skills/kaguya/0_1.webp\"/> or <img src=\"../img/Skills/kaguya/0_2.webp\"/> or <img src=\"../img/Skills/kaguya/0_3.webp\"/>을 소모해 자신에게 <br/>'[지휘] 모든 아군의<font color=\"blue\">장비 마부 발동 확률</font> <font color=\"red\">+20</font>% 부여</font>' 효과 부여 <br/>지속 <font color=\"red\">2</font>턴"
+          "IconImageUrl": "../img/skills/Kaguya/1_3.webp",
+         "Desc": "[액티브]3개의 <img src=\"../img/skills/Kaguya/0_1.webp\"/> or <img src=\"../img/skills/Kaguya/0_2.webp\"/> or <img src=\"../img/skills/Kaguya/0_3.webp\"/>을 소모해 자신에게 <br/>'[지휘] 모든 아군의<font color=\"blue\">장비 마부 발동 확률</font> <font color=\"red\">+20</font>% 부여</font>' 효과 부여 <br/>지속 <font color=\"red\">2</font>턴"
 
         }
       ],
@@ -409,7 +409,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/kaguya/2.webp",
+      "IconImageUrl": "../img/skills/Kaguya/2.webp",
       "Desc": "단일 적에게 <font color =\"red\">1.5</font>배의 마법 피해<br/>영웅 치명타 확률 <font color =\"red\">+50</font>%<br/>전투 후 피해량 <font color =\"red\">50</font>% 수치 <font color =\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
