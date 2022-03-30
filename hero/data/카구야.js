@@ -343,7 +343,7 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "소매속의 패",
+      "Name": "소매 속의 패",
       "Cost": "COST 1",
       "Entries": [
         {
