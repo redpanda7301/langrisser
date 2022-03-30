@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "3성"
+          "Desc": "자신 <font color=\"red\">1</font>칸 범위 안에 아군이 있을 경우 지력 <font color=\"red\">+10</font>%<br/>턴 시작시 자신 주위 <font color=\"red\">2</font>바퀴 범위 안에 지속 <font color=\"red\">1</font>턴의 무작위 지형 효과<br/>'<font color=\"purple\">저猪(<img src=\"../img/skills/Kaguya/0_1.webp\"/>)</font>' '<font color=\"purple\">록鹿(<img src=\"../img/skills/Kaguya/0_2.webp\"/>)</font>' '<font color=\"purple\">접蝶(<img src=\"../img/skills/Kaguya/0_3.webp\"/>)</font>' 효과를 <font color=\"red\">2</font>개 생성한다. <br/><font color=\"purple\">저猪, 록鹿, 접蝶</font> : 아군이 해당 위치로 이동 후 행동 종료시 <br/>무작위 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 획득하고 카구야는 <font color=\"purple\">해당 지형 효과</font>를 얻는다. <br/><font color=\"purple\">저 록 접</font> 효과는 <b>면역 및 해제 불가</b>"
         },
         {
-          "Desc": "4성"
+          "Desc": "자신 <font color=\"red\">2</font>칸 범위 안에 아군이 있을 경우 지력 <font color=\"red\">+13</font>%<br/>턴 시작시 자신 주위 <font color=\"red\">2</font>바퀴 범위 안에 지속 <font color=\"red\">1</font>턴의 무작위 지형 효과<br/>'<font color=\"purple\">저猪(<img src=\"../img/skills/Kaguya/0_1.webp\"/>)</font>' '<font color=\"purple\">록鹿(<img src=\"../img/skills/Kaguya/0_2.webp\"/>)</font>' '<font color=\"purple\">접蝶(<img src=\"../img/skills/Kaguya/0_3.webp\"/>)</font>' 효과를 <font color=\"red\">3</font>개 생성한다. <br/><font color=\"purple\">저猪, 록鹿, 접蝶</font> : 아군이 해당 위치로 이동 후 행동 종료시 <br/>무작위 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 획득하고 카구야는 <font color=\"purple\">해당 지형 효과</font>를 얻는다. <br/><font color=\"purple\">저 록 접</font> 효과는 <b>면역 및 해제 불가</b>"
         },
         {
-          "Desc": "5성"
+          "Desc": "자신 <font color=\"red\">2</font>칸 범위 안에 아군이 있을 경우 지력 <font color=\"red\">+16</font>%<br/>턴 시작시 자신 주위 <font color=\"red\">2</font>바퀴 범위 안에 지속 <font color=\"red\">1</font>턴의 무작위 지형 효과<br/>'<font color=\"purple\">저猪(<img src=\"../img/skills/Kaguya/0_1.webp\"/>)</font>' '<font color=\"purple\">록鹿(<img src=\"../img/skills/Kaguya/0_2.webp\"/>)</font>' '<font color=\"purple\">접蝶(<img src=\"../img/skills/Kaguya/0_3.webp\"/>)</font>' 효과를 <font color=\"red\">3</font>개 생성한다. <br/><font color=\"purple\">저猪, 록鹿, 접蝶</font> : 아군이 해당 위치로 이동 후 행동 종료시 <br/>무작위 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 획득하고 카구야는 <font color=\"purple\">해당 지형 효과</font>를 얻는다. <br/><font color=\"purple\">저 록 접</font> 효과는 <b>면역 및 해제 불가</b>"
         },
         {
-          "Desc": "6성"
+          "Desc": "자신 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 지력 <font color=\"red\">+20</font>%<br/>턴 시작시 자신 주위 <font color=\"red\">2</font>바퀴 범위 안에 지속 <font color=\"red\">1</font>턴의 무작위 지형 효과<br/>'<font color=\"purple\">저猪(<img src=\"../img/skills/Kaguya/0_1.webp\"/>)</font>' '<font color=\"purple\">록鹿(<img src=\"../img/skills/Kaguya/0_2.webp\"/>)</font>' '<font color=\"purple\">접蝶(<img src=\"../img/skills/Kaguya/0_3.webp\"/>)</font>' 효과를 <font color=\"red\">4</font>개 생성한다. <br/><font color=\"purple\">저猪, 록鹿, 접蝶</font> : 아군이 해당 위치로 이동 후 행동 종료시 <br/>무작위 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 획득하고 카구야는 <font color=\"purple\">해당 지형 효과</font>를 얻는다. <br/><font color=\"purple\">저 록 접</font> 효과는 <b>면역 및 해제 불가</b>"
         }
       ]
     }
