@@ -674,5 +674,7 @@
       "Entry": "「상호작용 - 특수2」",
       "Desc": "저리꺼져라."
     }
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""
 }];

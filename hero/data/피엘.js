@@ -584,5 +584,7 @@
       "Entry": "「상호작용 - 특수2」",
       "Desc": "잘 가라고!"
     }
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""
 }];

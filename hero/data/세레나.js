@@ -688,5 +688,7 @@ var data = [
       "Entry": "「상호작용 - 특수2」",
       "Desc": "다음 작전을 기대하고 있겠습니다."
     }
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""
 }];

@@ -652,5 +652,7 @@
       "Entry": "「상호작용 - 특수2」",
       "Desc": "그럼 안녕."
     }
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""
 }];

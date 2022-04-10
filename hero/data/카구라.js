@@ -550,5 +550,7 @@
       "Entry": "「상호작용 - 특수2」",
       "Desc": "시끄러~!"
     }
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""
 }];

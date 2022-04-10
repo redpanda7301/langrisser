@@ -85,19 +85,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+5</font>%<br/><b>전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+5</font>%<br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+10</font>%<br/><b>전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+10</font>%<br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+15</font>%<br/><b>전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+15</font>%<br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+20</font>%<br/><b>전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+20</font>%<br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+30</font>%<br/><b>전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+30</font>%<br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
         }
       ]
     }
@@ -888,5 +888,7 @@
       "Entry": "「상호작용 - 특수2」",
       "Desc": "그럼 오늘은 이만 실례하죠."
     }
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""
 }];

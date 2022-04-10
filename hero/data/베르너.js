@@ -750,5 +750,7 @@
       "Entry": "「상호작용 - 특수2」",
       "Desc": "또 만나자고."
     }
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""
 }];

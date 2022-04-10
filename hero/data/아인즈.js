@@ -702,5 +702,7 @@
       "Entry": "「상호작용 - 특수1」",
       "Desc": "수고했다."
     }
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""
 }];

@@ -637,6 +637,27 @@
                 </section>
             </div>
             <%}%>
+            <%if (Performance2 != null) {%>
+                <div class="col-12">
+                    <section>
+                        <div class="view_title">특수스킨 - 대사</div>
+                        <table border="0" cellpadding="0" cellspacing="1">
+                            <colgroup>
+                                <col width="25%">
+                                <col width="*">
+                            </colgroup>
+                            <%_.each(Performance, function(performance) {%>
+                            <tr>
+                                <th><%=performance.Entry%></th>
+                                <td>
+                                    <%=performance.Desc%>
+                                </td>
+                            </tr>
+                            <%});%>
+                        </table>
+                    </section>
+                </div>
+                <%}%>
         </script>
 		
 		<!-- Misc Info -->

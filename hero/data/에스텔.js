@@ -654,5 +654,7 @@
       "Entry": "「상호작용 - 특수2」",
       "Desc": "바이 바―이!"
     }
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""
 }];

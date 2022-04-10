@@ -719,5 +719,7 @@
       "Entry": "「상호작용 - 특수2」",
       "Desc": "그럼 다음에!"
     }
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""
 }];

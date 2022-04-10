@@ -601,5 +601,7 @@
   ],
   "Propose": true,
   "Bio": null,
-  "Performance": null
+  "Performance": null,
+  "Performance2": null,  
+  "Misc": ""
 }];

@@ -670,5 +670,7 @@ var data = [
       "Entry": "「상호작용 - 특수1」",
       "Desc": "승리는 언제나 지휘관님과 함께 합니다."
     }
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""
 }];

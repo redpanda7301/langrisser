@@ -582,5 +582,7 @@
   ],
   "Propose": false,
   "Bio": false,
-  "Performance": false
+  "Performance": false,
+  "Performance2": null,  
+  "Misc": ""
 }];
