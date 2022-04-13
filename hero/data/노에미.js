@@ -737,7 +737,7 @@
       "Entry": "「상호작용 - 특수1」",
       "Desc": "또 노에짱이랑 놀아달라구!"
     },
-    "Performance2": null,  
-    "Misc": ""
-  ]
+  ],
+  "Performance2": null,  
+  "Misc": ""  
 }];
