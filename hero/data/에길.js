@@ -8,6 +8,10 @@
     {
       "ImageUrl": "에길/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "에길/3.webp",
+      "Desc": "형귀 스킨"
     }
   ],
   "Name": "베르너",
@@ -96,6 +100,9 @@
         },
         {
           "ImageUrl": "에길/2/1.webp"
+        },
+        {
+          "ImageUrl": "에길/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -125,6 +132,9 @@
         },
         {
           "ImageUrl": "에길/2/1.webp"
+        },
+        {
+          "ImageUrl": "에길/3/1.webp"
         }
       ],
       "AttkRange": 1,

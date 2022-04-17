@@ -4,6 +4,10 @@
     {
       "ImageUrl": "레아드/1.webp",
       "Desc": "기본"
+    },
+    {
+      "ImageUrl": "레아드/2.webp",
+      "Desc": "서밋아레나 S12 골드스킨"
     }
   ],
   "Name": "레아드",
@@ -86,6 +90,9 @@
       "SD": [
         {
           "ImageUrl": "레아드/1/1.webp"
+        },
+        {
+          "ImageUrl": "레아드/2/1.webp"
         }
       ],
       "AttkRange": 1,

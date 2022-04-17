@@ -8,6 +8,10 @@
     {
       "ImageUrl": "알파/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "알파/3.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "알파",
@@ -102,6 +106,9 @@
         },
         {
           "ImageUrl": "알파/2/1.webp"
+        },
+        {
+          "ImageUrl": "알파/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -131,6 +138,9 @@
         },
         {
           "ImageUrl": "알파/2/1.webp"
+        },
+        {
+          "ImageUrl": "알파/3/1.webp"
         }
       ],
       "AttkRange": 1,
