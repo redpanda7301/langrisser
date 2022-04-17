@@ -7,10 +7,10 @@
     },
     {
       "ImageUrl": "로스탐/2.webp",
-      "Desc": "이벤트"
+      "Desc": "빛의 메아리"
     }
   ],
-  "Name": "로스탐(암살자)",
+  "Name": "로스탐",
   "CV": "미키 신이치로",
   "ChName": "洛斯塔姆",
   "EngName": "Rostam",
@@ -139,7 +139,7 @@
       "IntRate": 39,
       "Def": 288,
       "DefRate": 63,
-      "MagicDef": 25,
+      "MagicDef": 255,
       "MagicDefRate": 58,
       "Skill": 320,
       "SkillRate": 86,
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "ClassTitle": "저항운동 지도자 : 공격+25, 생명+90, 기술+10",
+      "ClassTitle": "저항운동 지도자 : 공격+15, 생명+90, 기술+16",
       "Tiers": [
         {
           "Name": "T1",
@@ -406,7 +406,7 @@
     },
     {
       "Name": "갈고리 사슬",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -528,7 +528,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "소환"
+          "Value": "물리 피해"
         },
         {
           "Label": "쿨타임",
@@ -544,7 +544,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/로스탐.webp",
-      "Desc": "[패시브]방어 지형에서 행동 종료 시 자신에게 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+15</font>%, <font color=\"blue\">반격 사거리</font> <font color=\"red\">+1</font>' 효과 부여<br/>지속 <font color=\"red\">1</font>턴<br/>단일 개체 <font color=\"red\">1.6</font>배 피해, 치명타 확률 <font color=\"red\">+30</font>%<br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/>자신의 기술이 적보다 높을 경우 전투 전 적에게 '<font color=\"blue\">기절</font>' 효과 부여 <br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b><br/>전투 후 피해량 <font color=\"red\">30</font>% 수치로 <font color=\"green\">생명 회복</font><br/><b>해당 스킬은 근접전 패널티를 받지 않음</b>",
+      "Desc": "[패시브]방어 지형에서 행동 종료 시 자신에게 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+15</font>%, <font color=\"blue\">반격 사거리</font> <font color=\"red\">+1</font>' 효과 부여<br/>지속 <font color=\"red\">1</font>턴<br/>[액티브]단일 개체 <font color=\"red\">1.6</font>배 피해, 치명타 확률 <font color=\"red\">+30</font>%<br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/>자신의 기술이 적보다 높을 경우 전투 전 적에게 '<font color=\"blue\">기절</font>' 효과 부여 <br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b><br/>전투 후 피해량 <font color=\"red\">30</font>% 수치로 <font color=\"green\">생명 회복</font><br/><b>해당 스킬은 근접전 패널티를 받지 않음</b>",
       "SubSkills": null,
       "Animation": "../img/Super/로스탐_Ani.webp"
     }
