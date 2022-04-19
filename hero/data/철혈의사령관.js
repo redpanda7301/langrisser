@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": "철혈재상/1.webp",
+      "ImageUrl": "철혈의사령관/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "철혈재상/2.webp",
+      "ImageUrl": "철혈의사령관/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "철혈재상",
+  "Name": "철혈의 사령관",
   "ChName": "铁血总帅",
   "EngName": "IronChancellor",
   "JapName": "",
@@ -92,10 +92,10 @@
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "철혈재상/1/1.webp"
+          "ImageUrl": "철혈의사령관/1/1.webp"
         },
         {
-          "ImageUrl": "철혈재상/2/1.webp"
+          "ImageUrl": "철혈의사령관/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -121,10 +121,10 @@
       "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "철혈재상/1/2.webp"
+          "ImageUrl": "철혈의사령관/1/2.webp"
         },
         {
-          "ImageUrl": "철혈재상/2/1.webp"
+          "ImageUrl": "철혈의사령관/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -584,10 +584,10 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/철혈재상.webp",
+      "IconImageUrl": "../img/Super/철혈의사령관.webp",
       "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해를 준다, <br/>전투 후 대상에게 영구적인 '<font color=\"blue\">패산</font>' 효과 부여<br/><font color=\"blue\">패산</font> : <font color=\"blue\">병사가 받는 치료 효과</font> <font color=\"red\">-80</font>%, <b>해제 불가</b><br/><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br/><font color=\"purple\">강공</font> 효과를 보유할 경우, <font color=\"blue\">선제 공격</font> 및 전투 전 적 버프<font color=\"red\">5</font>개 제거<br/><font color=\"purple\">수비</font> 효과를 보유할 경우 전투 후 <font color=\"blue\">재이동</font> 및 <font color=\"red\">3</font>칸 및 <br/>행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 내 모든 아군에게<br/>'<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' '전투 후 병사 생명<font color=\"red\">30</font>% <font color=\"green\">회복</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>턴<br/><b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/철혈재상_Ani.webp"
+      "Animation": "../img/Super/철혈의사령관_Ani.webp"
     }
   ],
   "Propose": false,
