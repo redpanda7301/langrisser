@@ -73,7 +73,7 @@
   "SPTalent": null,
   "Equip": null,
   "Soldiers": [
-    9,
+    8,
     17,
     7,
     43,
