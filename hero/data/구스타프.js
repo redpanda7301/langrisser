@@ -3,7 +3,7 @@
   "Skins": [
     {
       "ImageUrl": "구스타프/1.webp",
-      "Desc": "기본(검열)"
+      "Desc": "기본"
     },
     {
       "ImageUrl": "구스타프/2.webp",
