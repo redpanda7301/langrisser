@@ -50,7 +50,7 @@
   "HeartFetter": "생명+850, 방어+60, 마방+30",
   "Talent": [
     {
-      "Name": "엘리시온의 웅략",
+      "Name": "엘리시움의 웅략",
       "Icon": "Gift_Loviner.webp",
       "Abilities": [
         {
