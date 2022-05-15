@@ -65,11 +65,18 @@
 				border-left:1px solid #444444;
 				border-collapse: collapse;
 				margin:5px;
+				overflow:auto;
+			}
+			.table2 thead th{
+				padding:10px;
+				position: sticky;
+				top: 0;
+				background-color: #f8f8ff;
 			}
 			.table2 td:hover{
 				background-color: #6699ff;
 			}
-			.table2 tr, .table2 td{
+			.table2 td{
 				padding:5px;
 				text-align:center;
 				border-top: 1px solid #444444;
@@ -92,10 +99,16 @@
 				border-left:1px solid #444444;
 				margin:5px;
 			}
+			.table4 thead th{
+				padding:10px;
+				position: sticky;
+				top: 0;
+				background-color: #f8f8ff;
+			}
 			.table4 td:hover{
 				background-color: #6699ff;
 			}
-			.table4 tr, .table4 td{
+			.table4 td{
 				padding:5px;
 				text-align:center;
 				border-top: 1px solid #444444;
@@ -118,10 +131,16 @@
 				border-left:1px solid #444444;
 				margin:5px;
 			}
+			.table6 thead th{
+				padding:10px;
+				position: sticky;
+				top: 0;
+				background-color: #f8f8ff;
+			}
 			.table6 td:hover{
 				background-color: #6699ff;
 			}
-			.table6 tr, .table6 td{
+			.table6 td{
 				padding:5px;
 				text-align:center;
 				border-top: 1px solid #444444;
@@ -161,10 +180,16 @@
 				border-left:1px solid #444444;
 				margin:5px;
 			}
+			.table9 thead th{
+				padding:10px;
+				position: sticky;
+				top: 0;
+				background-color: #f8f8ff;
+			}
 			.table9 td:hover{
 				background-color: #6699ff;
 			}
-			.table9 tr, .table9 td{
+			.table9 td{
 				padding-top:5px;
 				padding-bottom:5px;
 				text-align:center;
@@ -182,17 +207,19 @@
 			}
 			.div2{
 				width:580px;
-				height:800px;
+				height:780px;
 				overflow:auto;
 				float:left;
 			}
 			.div3{
 				margin-bottom:20px;
+				float:left;
 			}
 			.div4{
 				width:528px;
-				height:540px;
+				height:738px;
 				overflow:auto;
+				float:left;
 			}
 			.div5{
 				float:left;
@@ -201,7 +228,7 @@
 			}
 			.div6{
 				width:628px;
-				height:800px;
+				height:780px;
 				overflow:auto;
 				float:left;
 			}
@@ -212,12 +239,12 @@
 			}
 			.div8{
 				width:680px;
-				height:800px;
+				height:741px;
 				overflow:auto;
 			}
 			.div9{
 				width:1080px;
-				/*height:820px;*/
+				height:800px;
 				overflow:auto;
 				float:left;
 			}
@@ -301,7 +328,8 @@
 			#tab2:checked ~ #content2,
 			#tab3:checked ~ #content3,
 			#tab4:checked ~ #content4,
-			#tab5:checked ~ #content5{
+			#tab5:checked ~ #content5,
+			#tab6:checked ~ #content6{
 				display: block;}
 		</style>
 
@@ -521,6 +549,9 @@
 
 			<input id="tab5" type="radio" name="tabs">
 			<label for="tab5">유대인질</label>
+
+			<input id="tab6" type="radio" name="tabs">
+			<label for="tab6">문의사항</label>
 
 			<section id="content1" style="margin-bottom:20px;">
 				<div class="div1">
@@ -6365,9 +6396,9 @@
 									<input type="checkbox" value="m56-12,m53-12,m42-10,m46-10,m62-15,m61-15,m56-12,m53-12,m71-18,m77-18,m62-15,m61-15,m81-22,m82-22,m71-20,m77-20">
 								</td>
 							</tr>
-							<!-- 베르너(시그마) -->
+							<!-- 베르너 폰 에길 -->
 							<tr>
-								<td rowspan="3"><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너</td>
+								<td rowspan="3"><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너 폰 에길</td>
 								<td></td>
 								<td>
 									<img src="https://storage.googleapis.com/langmosheet-data/img/classlist/보병/파이터.webp"><br>
@@ -6379,30 +6410,30 @@
 							<tr>
 								<td>
 									<img src="https://storage.googleapis.com/langmosheet-data/img/classlist/암살자/강습자.webp"><br>
-									강습자<br>
+									스트라이크 레인저<br>
 									<input type="checkbox" value="m21-6,m11-3,m12-3,0,m31-8,m36-8,m21-6,m22-6,m41-10,m42-10,m31-8,m36-8">
 								</td>
 								<td></td>
 								<td>
 									<img src="https://storage.googleapis.com/langmosheet-data/img/classlist/보병/소드맨.webp"><br>
 									소드맨<br>
-									<input type="checkbox" value="m21-6,m11-3,m12-3,0,m31-8,m36-8,m21-6,m26-6,m41-10,m42-10,m31-8,m36-8">
+									<input type="checkbox" value="m24-6,m15-3,m14-3,0,m35-8,m36-8,m24-6,m25-6,m44-10,m45-10,m35-8,m36-8">
 								</td>
 							</tr>
 							<tr>
 								<td>
 									<img src="https://storage.googleapis.com/langmosheet-data/img/classlist/암살자/강습투장.webp"><br>
-									강습투장<br>
+									포스 제네럴<br>
 									<input type="checkbox" value="m51-12,m52-12,m41-10,m43-10,m61-15,m63-15,m51-12,m52-12,m72-18,m74-18,m61-15,m63-15,m81-22,m85-22,m72-20,m74-20">
 								</td>
 								<td></td>
 								<td>
 									<img src="https://storage.googleapis.com/langmosheet-data/img/classlist/보병/검성.webp"><br>
 									히어로<br>
-									<input type="checkbox" value="m51-12,m52-12,m41-10,m43-10,m61-15,m63-15,m51-12,m52-12,m72-18,m74-18,m61-15,m63-15,m81-22,m85-22,m72-20,m74-20">
+									<input type="checkbox" value="m54-12,m55-12,m45-10,m44-10,m68-15,m67-15,m54-12,m55-12,m75-18,m76-18,m68-15,m67-15,m86-22,m84-22,m75-20,m76-20">
 								</td>
 							</tr>
-							<!-- 마리안델(람다) -->
+							<!-- 마리안델 -->
 							<tr>
 								<td rowspan="3"><img src="https://storage.googleapis.com/langmosheet-data/img/card/마리안델.webp"><br>마리안델</td>
 								<td></td>
@@ -6422,20 +6453,20 @@
 								<td></td>
 								<td>
 									<img src="https://storage.googleapis.com/langmosheet-data/img/classlist/승려/자연의소통자.webp"><br>
-									자연의소통자<br>
+									자연의 공명자<br>
 									<input type="checkbox" value="m25-6,m15-3,m14-3,0,m34-8,m35-8,m25-6,m24-6,m45-10,m44-10,m34-8,m35-8">
 								</td>
 							</tr>
 							<tr>
 								<td>
 									<img src="https://storage.googleapis.com/langmosheet-data/img/classlist/마법사/마나관리자.webp"><br>
-									마나관리자<br>
+									마나의 스승<br>
 									<input type="checkbox" value="m54-12,m55-12,m45-10,m44-10,m68-15,m67-15,m54-12,m55-12,m75-18,m76-18,m68-15,m67-15,m86-22,m84-22,m75-20,m76-20">
 								</td>
 								<td></td>
 								<td>
 									<img src="https://storage.googleapis.com/langmosheet-data/img/classlist/승려/최초의기원자.webp"><br>
-									최초의기원자<br>
+									태초의 기도사<br>
 									<input type="checkbox" value="m54-12,m55-12,m45-10,m44-10,m68-15,m67-15,m54-12,m55-12,m75-18,m76-18,m68-15,m67-15,m86-22,m84-22,m75-20,m76-20">
 								</td>
 							</tr>
@@ -6453,7 +6484,7 @@
 							<tr>
 								<td>
 									<img src="https://storage.googleapis.com/langmosheet-data/img/classlist/비병/사악한용의사자.webp"><br>
-									사악한 용의사자<br>
+									사악한 용술사<br>
 									<input type="checkbox" value="m11-3,m12-3,m21-12,m22-6,m31-16,m36-16,m41-10,m42-10">
 								</td>
 								<td></td>
@@ -6466,7 +6497,7 @@
 							<tr>
 								<td>
 									<img src="https://storage.googleapis.com/langmosheet-data/img/classlist/비병/마족의날개.webp"><br>
-									마족의 날개<br>
+									검은 날개의 투장<br>
 									<input type="checkbox" value="m51-12,m52-12,m41-10,m43-10,m61-15,m63-15,m51-12,m52-12,m72-18,m74-18,m61-15,m63-15,m81-22,m85-22,m72-20,m74-20">
 								</td>
 								<td></td>
@@ -6752,9 +6783,9 @@
 									<input type="checkbox" value="m52-12,m51-12,m43-10,m41-10,m63-15,m61-15,m52-12,m51-12,m73-18,m72-18,m63-15,m61-15,m83-22,m85-22,m74-20,m73-20">
 								</td>
 							</tr>
-							<!-- 철혈의사령관 -->
+							<!-- 철혈재상 -->
 							<tr>
-								<td rowspan="3"><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈의사령관.webp"><br>철혈의사령관</td>
+								<td rowspan="3"><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈재상.webp"><br>철혈의 사령관</td>
 								<td></td>
 								<td>
 									<img src="https://storage.googleapis.com/langmosheet-data/img/classlist/보병/검술사.webp"><br>
@@ -7955,7 +7986,7 @@
 								<td><input type="checkbox" value="a21,a23"></td>
 							</tr>
 							<tr>
-								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너</td>
+								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너 폰 에길</td>
 								<td><input type="checkbox" value="a13,a16"></td>
 								<td><input type="checkbox" value="a23,a26"></td>
 							</tr>
@@ -8005,7 +8036,7 @@
 								<td><input type="checkbox" value="a24,a25"></td>
 							</tr>
 							<tr>
-								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈의사령관.webp"><br>철혈의사령관</td>
+								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈재상.webp"><br>철혈의 사령관</td>
 								<td><input type="checkbox" value="a12,a15"></td>
 								<td><input type="checkbox" value="a22,a25"></td>
 							</tr>
@@ -9611,7 +9642,7 @@
 								<td><input type="checkbox" value="y75-650000,y14-25,y24-25,y34-10,y61-28,y62-32,y63-40,y64-44,y65-8,y66-12,y67-16,y68-24,y69-12"></td>
 							</tr>
 							<tr>
-								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너</td>
+								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너 폰 에길</td>
 								<td><input type="checkbox" value="y75-118600,y71-45,y72-15"></td>
 								<td><input type="checkbox" value="y75-383500,y71-26,y72-69,y73-16"></td>
 								<td><input type="checkbox" value="y75-736000,y72-50,y73-47,y74-10"></td>
@@ -9701,7 +9732,7 @@
 								<td><input type="checkbox" value="y75-650000,y13-25,y23-25,y33-10,y63-28,y61-32,y64-40,y62-44,y67-8,y65-12,y68-16,y66-24,y69-12"></td>
 							</tr>
 							<tr>
-								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈의사령관.webp"><br>철혈의사령관</td>
+								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈재상.webp"><br>철혈의 사령관</td>
 								<td><input type="checkbox" value="y75-118600,y71-45,y72-15"></td>
 								<td><input type="checkbox" value="y75-383500,y71-26,y72-69,y73-16"></td>
 								<td><input type="checkbox" value="y75-736000,y72-50,y73-47,y74-10"></td>
@@ -13230,7 +13261,7 @@
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/루나.webp"><br>루나</td>
 								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/시그마.webp"><br>시그마</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/알프레드.webp"><br>알프레드<br>(공)</td>
-								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너<br>(공)</td>
+								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너 폰 에길<br>(공)</td>
 								<td></td>
 								<td></td>
 								<td></td>
@@ -13545,7 +13576,7 @@
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/힐다.webp"><br>힐다<br>(공)</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/크리스티안느.webp"><br>크리스티안느<br>(공)</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/방주의성녀.webp"><br>방주의 성녀<br>(공)</td>
-								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈의사령관.webp"><br>철혈의사령관<br>(공)</td>
+								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈재상.webp"><br>철혈의 사령관<br>(공)</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/아샤메르.webp"><br>아샤메르<br>(공)</td>
 								<td></td>
 								<td class="rightBorder"></td>
@@ -13632,7 +13663,7 @@
 								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/힐다.webp"><br>힐다</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/베르너.webp"><br>베르너</td>
 								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/플로렌티아.webp"><br>플로렌티아</td>
-								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈의사령관.webp"><br>철혈의사령관<br>(방)</td>
+								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈재상.webp"><br>철혈의 사령관<br>(방)</td>
 								<td></td>
 								<td></td>
 								<td></td>
@@ -13837,7 +13868,7 @@
 								<td class="rightBorder"></td>
 							</tr>
 							<tr>
-								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너</td>
+								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너 폰 에길</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/마리안델.webp"><br>마리안델</td>
 								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/클라렛.webp"><br>클라렛</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/마리안델.webp"><br>마리안델<br>(방)</td>
@@ -13851,9 +13882,9 @@
 							</tr>
 							<tr>
 								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/마리안델.webp"><br>마리안델</td>
-								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너</td>
+								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너 폰 에길</td>
 								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/세계수의현자.webp"><br>세계수의 현자</td>
-								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너<br>(방)</td>
+								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/에길.webp"><br>베르너 폰 에길<br>(방)</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/리자.webp"><br>리자<br>(방)</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/오보로.webp"><br>오보로<br>(공)</td>
 								<td></td>
@@ -13967,7 +13998,7 @@
 								<td class="rightBorder"></td>
 							</tr>
 							<tr>
-								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈의사령관.webp"><br>철혈의사령관</td>
+								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈재상.webp"><br>철혈의 사령관</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/힐다.webp"><br>힐다</td>
 								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/플로렌티아.webp"><br>플로렌티아</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/캐롤리안.webp"><br>캐롤리안<br>(방)</td>
@@ -14033,7 +14064,7 @@
 							</tr>
 							<tr>
 								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/캐롤리안.webp"><br>캐롤리안</td>
-								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈의사령관.webp"><br>철혈의사령관</td>
+								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈재상.webp"><br>철혈의 사령관</td>
 								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/로자리아.webp"><br>로자리아</td>
 								<td></td>
 								<td></td>
@@ -14060,7 +14091,7 @@
 							<tr>
 								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/로스탐.webp"><br>로스탐</td>
 								<td><img src="https://storage.googleapis.com/langmosheet-data/img/card/아샤메르.webp"><br>아샤메르</td>
-								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈의사령관.webp"><br>철혈의사령관</td>
+								<td class="rightBorder"><img src="https://storage.googleapis.com/langmosheet-data/img/card/철혈재상.webp"><br>철혈의 사령관</td>
 								<td></td>
 								<td></td>
 								<td></td>
@@ -14076,14 +14107,18 @@
 			</section>
 			<!-- 유대인질 end -->
 
-			<table style="margin-top:5px; width:450px;">
-				<tr>	
-					<td>
-						오타 및 수정사항 제보 : <a href="https://arca.live/b/langrisser/10630350">랑그릿사 아카라이브</a> / <a href="https://tgd.kr/s/anotherkyo">트게더</a>
-						<br>작업자 : 레이갈드 제국-어쿄 / 최근 작업일자 : 2022-04-18<br>
-					</td>
-				</tr>
-			</table>
+			<!-- 문의사항 start -->
+			<section id="content6" style="margin-bottom:20px;">
+				<table style="margin-top:5px; width:450px;">
+					<tr>	
+						<td>
+							오타 및 수정사항 제보 : <a href="https://arca.live/b/langrisser/10630350">랑그릿사 아카라이브</a> / <a href="https://tgd.kr/s/anotherkyo">트게더</a><br>
+							<br>작업자 : 레이갈드 제국-어쿄<br>
+							<br>최종 수정일자 : 2022-05-12
+						</td>
+					</tr>
+				</table>
+			</section>
 		</div>
 	</BODY>
 </HTML>
