@@ -10,8 +10,8 @@
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "엘마/2_1.webp",
-      "Desc": "빛의 메아리(인겜 전투)"
+      "ImageUrl": "엘마/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "엘마",
@@ -102,7 +102,7 @@
           "ImageUrl": "엘마/2/1.webp"
         },
         {
-          "ImageUrl": "엘마/2/1.webp"
+          "ImageUrl": "엘마/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -134,7 +134,7 @@
           "ImageUrl": "엘마/2/1.webp"
         },
         {
-          "ImageUrl": "엘마/2/1.webp"
+          "ImageUrl": "엘마/3/1.webp"
         }
       ],
       "AttkRange": 2,

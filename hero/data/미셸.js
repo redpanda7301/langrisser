@@ -74,7 +74,12 @@
     }
   ],
   "SPTalent":null,
-  "Equip": null,
+  "Equip": {
+    "Name": "마도 과학 무장(무기)",
+    "Stats": "생명 364, 공격 118",
+    "Icon": "미셸.webp",
+    "Ability": "공격 <font color=\"red\">+10</font>%<br/>적에게 피해를 입힌 후, <font color=\"Red\">50</font>% 확률로 작열 추가 부여<br/>자신에게 '<font color=\"blue\">직선 스킬 사거리</font> <font color=\"Red\">+1</font> 부여'<br/> 지속 <font color=\"Red\">1</font>턴, <b>해제 불가</b>"
+  },
   "Soldiers": [
     25,
     22,

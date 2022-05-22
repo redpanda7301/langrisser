@@ -8,6 +8,10 @@
     {
       "ImageUrl": "뮤/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "뮤/3.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "뮤",
@@ -102,6 +106,9 @@
         },
         {
           "ImageUrl": "뮤/2/1.webp"
+        },
+        {
+          "ImageUrl": "뮤/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -131,6 +138,9 @@
         },
         {
           "ImageUrl": "뮤/2/1.webp"
+        },
+        {
+          "ImageUrl": "뮤/3/1.webp"
         }
       ],
       "AttkRange": 2,

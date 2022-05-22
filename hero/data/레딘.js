@@ -16,7 +16,12 @@
     {
       "ImageUrl": "레딘/4.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "레딘/sp.webp",
+      "Desc": "SP 각성"
     }
+    
   ],
   "Name": "레딘",
   "CV": "오키아유 료타로",
@@ -26,19 +31,19 @@
   "Rank": [
     0
   ],
-  "SP": false,
+  "SP": true,
   "Groups": [
     0,
     1
   ],
   "HP": 35,
-  "SPHP": 0,
+  "SPHP": 40,
   "Attk": 10,
-  "SPAttk": 0,
+  "SPAttk": 10,
   "Def": 35,
-  "SPDef": 0,
+  "SPDef": 35,
   "MagicDef": 20,
-  "SPMagicDef": 0,
+  "SPMagicDef": 15,
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
@@ -67,21 +72,46 @@
           "Desc": "2성"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-5%</font>.<br/> 영웅 생명 <font color=\"red\">100%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-5</font>%.<br/> 영웅 생명 <font color=\"red\">100%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-8%</font>.<br/> 영웅 생명 <font color=\"red\">90%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-8</font>%.<br/> 영웅 생명 <font color=\"red\">90%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-11%</font>.<br/> 영웅 생명 <font color=\"red\">75%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-11</font>%.<br/> 영웅 생명 <font color=\"red\">75%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-15%</font>.<br/> 영웅 생명 <font color=\"red\">50%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-15</font>%.<br/> 영웅 생명 <font color=\"red\">50%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         }
       ]
     }
   ],
-  "SPTalent": null,
+  "SPTalent": [
+    {
+      "Name": "신왕의 의지",
+      "Icon": "SP_Gift_Ledin.webp",
+      "Abilities": [
+        {
+          "Desc": "1성"
+        },
+        {
+          "Desc": "2성"
+        },
+        {
+          "Desc": "모든 받는 피해 <font color=\"red\">-10</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">30</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+        },
+        {
+          "Desc": "모든 받는 피해 <font color=\"red\">-15</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">40</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+        },
+        {
+          "Desc": "모든 받는 피해 <font color=\"red\">-20</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">50</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+        },
+        {
+          "Desc": "모든 받는 피해 <font color=\"red\">-25</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">70</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+        }
+      ]
+    }
+  ],
   "Equip": {
     "Name": "신앙의 시련(무기)",
     "Stats": "생명 583,공격 85",
@@ -97,7 +127,8 @@
     31,
     34,
     42,
-    67
+    67,
+    77
   ],
   "Jobs": [
     {
@@ -115,6 +146,9 @@
         },
         {
           "ImageUrl": "레딘/4/1.webp"
+        },
+        {
+          "ImageUrl": "레딘/sp/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -136,6 +170,44 @@
       "HeartFetterBouns2": "공격하여 전투진입시 입히는피해 +10%"
     },
     {
+      "Name": "신의 군왕",
+      "Icon": "Icon_Occupation_MonkSp.webp",
+      "SD": [
+        {
+          "ImageUrl": "레딘/1/sp.webp"
+        },
+        {
+          "ImageUrl": "레딘/2/1.webp"
+        },
+        {
+          "ImageUrl": "레딘/3/2.webp"
+        },
+        {
+          "ImageUrl": "레딘/4/1.webp"
+        },
+        {
+          "ImageUrl": "레딘/sp/1.webp"
+        }
+      ],
+      "AttkRange": 1,
+      "Move": 3,
+      "MoveType": "Walk",
+      "HP": 5316,
+      "HPRate": 89,
+      "Attk": 449,
+      "AttkRate": 67,
+      "Int": 300,
+      "IntRate": 50,
+      "Def": 367,
+      "DefRate": 79,
+      "MagicDef": 333,
+      "MagicDefRate": 73,
+      "Skill": 102,
+      "SkillRate": 29,
+      "HeartFetterBouns1": "자신 부대보다 생명 백분비가 높은 부대에게 피격 시<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "자신 부대보다 생명 백분비가 낮은 부대를 선공 시<br/> 전투 진입 후 피해 <font color=\"Red\">+10</font>%"
+    },
+    {
       "Name": "템플러",
       "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
@@ -150,6 +222,9 @@
         },
         {
           "ImageUrl": "레딘/4/1.webp"
+        },
+        {
+          "ImageUrl": "레딘/sp/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -391,7 +466,178 @@
       ]
     }
   ],
-  "SPOpenConditions": null,
+  "SPOpenConditions": [
+    {
+      "Name": "개방",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/AlterEgo_Ledin.webp",
+          "Amount": 1
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank8-6.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank7-5.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank6-7.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 미션",
+      "Materials": [],
+      "Desc": "레딘을 파티에 넣어 형귀 나임(승병) 60 이상 클리어"
+    },
+    {
+      "Name": "2단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "2단계 미션",
+      "Materials": [],
+      "Desc": "신앙의 시련(무기) 레벨 50 달성"
+    },
+    {
+      "Name": "3단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
+          "Amount": 2
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "3단계 미션",
+      "Materials": [],
+      "Desc": "레딘을 파티에 넣어 뇌룡 카르코사 60 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "신의 군왕 전직 가능, 신왕의 의지(SP 고유기), SP 일러스트 획득"
+    },
+    {
+      "Name": "4단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h2.webp",
+          "Amount": 60
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h2-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/heart/x.webp",
+          "Amount": 12
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "4단계 미션",
+      "Materials": [],
+      "Desc": "레딘을 파티에 넣어 형귀 나임(승병) 65 이상 클리어"
+    },
+    {
+      "Name": "5단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "5단계 미션",
+      "Materials": [],
+      "Desc": "레딘을 파티에 넣어 뇌룡 카르코사 65 이상 클리어"
+    },
+    {
+      "Name": "6단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+          "Amount": 600
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Holy1.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Holy4.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Holy5.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "6단계 미션",
+      "Materials": [],
+      "Desc": "레딘을 파티에 넣어 스퀼라 65 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "SP 스탯, SP 스킬 2개 활성화, 교국 친위대 고용가능"
+    }
+  ],
   "Skills": [
     {
       "Name": "태양 베기",
@@ -588,6 +834,46 @@
       ],
       "IconImageUrl": "../img/skills/Skill_BitterlyHit.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"#DC143C\">2칸</font>으로 늘어나며 방어 <font color=\"#DC143C\">+20%</font>.<br/>근접 전투 종료 후 [미늘]의 고정 피해가 반드시 발동한다. <font color=\"#DC143C\">2턴</font> 지속.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 신성한 제재",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/레딘/1.webp",
+      "Desc": "단일 개체 <font color=\"red\">1.4</font>배의 피해<br/>대상이 마물일 경우 전투 전 적에게 받는 피해 <font color=\"Red\">+20</font>% 효과 부여<br/>지속 <font color=\"Red\">2</font>턴<br/>전투 후<font color=\"red\">30</font>% 수치 <font color=\"green\">생명 회복</font><br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/><font color=\"blue\">근접전 패널티 무효화</font>",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 인연의 맹세",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/레딘/2.webp",
+      "Desc": "<font color=\"blue\">치료 불가 면역</font><br/>자신에게 <font color=\"blue\">고급 신의 수호</font>가 없는 상태로 행동 종료 시 <font color=\"blue\">신의 수호</font> 효과 획득<br/>쿨타임 <font color=\"Red\">2</font>턴",
       "SubSkills": null,
       "Animation": null
     },
