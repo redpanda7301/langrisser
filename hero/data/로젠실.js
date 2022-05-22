@@ -348,7 +348,7 @@
           "Materials": [
             "rank8-4",
             "rank8-8",
-            "rank7-5",
+            "rank7-6",
             "rank7-4"
           ]
         }
