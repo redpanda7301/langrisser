@@ -864,7 +864,7 @@
       "Animation": null
     },
     {
-      "Name": "SP : 인연의 맹세",
+      "Name": "SP : 신의 가호",
       "Cost": "COST 1",
       "Entries": [
         {

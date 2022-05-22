@@ -103,7 +103,7 @@
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4797,
+      "HP": 4749,
       "HPRate": 78,
       "Attk": 557,
       "AttkRate": 84,
@@ -115,7 +115,7 @@
       "MagicDefRate": 49,
       "Skill": 171,
       "SkillRate": 49,
-      "HeartFetterBouns1": "원거리 공격을 받아 전투 진입시<br/>받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "원거리 공격을 받아 전투 진입시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "생명 백분비가 자신보다 높은 부대와 교전 시 <br/><b>전투 진입 후</b> 주는 피해량<font color=\"red\">+10</font>%"
     },
     {
@@ -145,7 +145,7 @@
       "Skill": 171,
       "SkillRate": 42,
       "HeartFetterBouns1": "피격으로 전투 진입 시 <br/>받는 마법 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70</font>% 미만 시 <br/><font color=\"Red\">+10</font>%"
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70</font>% 미만 시 <br/>전투 진입시 주는 피해량<font color=\"Red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -392,7 +392,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Duelist/1.webp",
-      "Desc": "목표 <font color=\"red\">2</font>명에게 <font color=\"purple\">복수의 사슬</font> 효과 부여<br/>해당 스킬은 자신이 보유한 버프 지속 시간을 소모하지 않음<br/><font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>",
+      "Desc": "목표 <font color=\"red\">2</font>명에게 <font color=\"purple\">복수의 사슬</font> 효과 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+20</font>%<br/><b>면역 및 해제 불가</b><br/>해당 스킬은 자신이 보유한 버프 지속 시간을 소모하지 않음<br/><font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>",
       "SubSkills": null,
       "Animation": null
     },

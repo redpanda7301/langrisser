@@ -67,11 +67,11 @@
 
         },
         {
-          "Desc": "치명타 <font color=\"red\">+20</font>%<br/>적의 생명이 <font color=\"red\">90</font>% 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+30</font>% <br/>전투 후 피해량 <font color=\"red\">30</font>% 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100</font>% 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+2</font>칸, 최대 <font color=\"Red\">+4</font>칸"
+          "Desc": "치명타 <font color=\"red\">+20</font>%<br/>적의 생명이 <font color=\"red\">90</font>% 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+30</font>% <br/>전투 후 피해량 <font color=\"red\">25</font>% 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100</font>% 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+2</font>칸, 최대 <font color=\"Red\">+4</font>칸"
 
         },
         {
-          "Desc": "치명타 <font color=\"red\">+30</font>%<br/>적의 생명이 <font color=\"red\">90</font>% 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+40</font>% <br/>전투 후 피해량 <font color=\"red\">40</font>% 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100</font>% 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+3</font>칸, 최대 <font color=\"Red\">+6</font>칸"
+          "Desc": "치명타 <font color=\"red\">+30</font>%<br/>적의 생명이 <font color=\"red\">90</font>% 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+40</font>% <br/>전투 후 피해량 <font color=\"red\">30</font>% 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100</font>% 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+3</font>칸, 최대 <font color=\"Red\">+6</font>칸"
 
         }
       ]
@@ -134,18 +134,18 @@
       "AttkRange": 2,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4238,
-      "HPRate": 71,
+      "HP": 3910,
+      "HPRate": 67,
       "Attk": 562,
       "AttkRate": 86,
       "Int": 249,
       "IntRate": 42,
-      "Def": 307,
-      "DefRate": 64,
-      "MagicDef": 253,
-      "MagicDefRate": 56,
-      "Skill": 308,
-      "SkillRate": 91,
+      "Def": 276,
+      "DefRate": 59,
+      "MagicDef": 309,
+      "MagicDefRate": 71,
+      "Skill": 234,
+      "SkillRate": 75,
       "HeartFetterBouns1": "선공으로 전투 진입시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "주는 범위 피해량<font color=\"Red\">+10</font>%"
     }
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "ClassTitle": "저격 엽병 : 생명+90, 공격+25, 방어+10",
+      "ClassTitle": "저격 엽병 : 생명+90, 공격+15, 방어+16",
       "Tiers": [
         {
           "Name": "T1",
