@@ -96,7 +96,7 @@
       "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
-          "ImageUrl": "미셸/1/2.webp"
+          "ImageUrl": "미셸/1/1.webp"
         },
         {
           "ImageUrl": "미셸/2/1.webp"
@@ -125,7 +125,7 @@
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
-          "ImageUrl": "미셸/1/1.webp"
+          "ImageUrl": "미셸/1/2.webp"
         },
         {
           "ImageUrl": "미셸/2/1.webp"
