@@ -4,6 +4,10 @@
     {
       "ImageUrl": "긴토키/1.webp",
       "Desc": "기본"
+    },
+    {
+      "ImageUrl": "긴토키/2.webp",
+      "Desc": "빛의 메아리"
     }
   ],
   "Name": "긴토키",
@@ -73,65 +77,73 @@
   "SPTalent": null,
   "Equip": null,
   "Soldiers": [
-    20,
-    23,
     31,
-    34,
-    35,
-    60
+    47,
+    28,
+    25,
+    6,
+    74,
+    78,
+    49
   ],
   "Jobs": [
     {
-      "Name": "불굴의 파이터",
-      "Icon": "Icon_Occupation_Marines.webp",
+      "Name": "해결사 사무소",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
           "ImageUrl": "긴토키/1/1.webp"
+        },
+        {
+          "ImageUrl": "긴토키/2/1.webp"
         }
       ],
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4638,
-      "HPRate": 77,
-      "Attk": 508,
-      "AttkRate": 78,
-      "Int": 214,
-      "IntRate": 35,
-      "Def": 359,
-      "DefRate": 79,
-      "MagicDef": 211,
-      "MagicDefRate": 46,
-      "Skill": 95,
-      "SkillRate": 27,
-      "HeartFetterBouns1": "공격을 받아 전투 진입시 받는 마법피해 -10%",
-      "HeartFetterBouns2": "공격을 받아 전투 진입시 입히는피해 +10%"
+      "HP": 4556,
+      "HPRate": 74,
+      "Attk": 597,
+      "AttkRate": 91,
+      "Int": 257,
+      "IntRate": 39,
+      "Def": 346,
+      "DefRate": 74,
+      "MagicDef": 300,
+      "MagicDefRate": 78,
+      "Skill": 116,
+      "SkillRate": 37,
+      "HeartFetterBouns1": "공격 전 이동 <font color=\"red\">1</font>칸 당 <br/>부대가 받는 피해 <font color=\"red\">-3</font>% (최대 <font color=\"red\">15</font>%)",
+      "HeartFetterBouns2": "물리 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
-      "Name": "차원도 각성자",
+      "Name": "검성",
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
           "ImageUrl": "긴토키/1/2.webp"
+        },
+        {
+          "ImageUrl": "긴토키/2/1.webp"
         }
       ],
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4254,
-      "HPRate": 70,
-      "Attk": 536,
-      "AttkRate": 82,
-      "Int": 235,
+      "HP": 4556,
+      "HPRate": 74,
+      "Attk": 597,
+      "AttkRate": 91,
+      "Int": 257,
       "IntRate": 39,
-      "Def": 337,
-      "DefRate": 74,
-      "MagicDef": 263,
-      "MagicDefRate": 58,
-      "Skill": 126,
-      "SkillRate": 36,
-      "HeartFetterBouns1": "받는 범위피해 -10%",
-      "HeartFetterBouns2": "공격하여 전투진입시 입히는피해 +10%"
+      "Def": 320,
+      "DefRate": 70,
+      "MagicDef": 289,
+      "MagicDefRate": 76,
+      "Skill": 226,
+      "SkillRate": 52,
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80</font>% 초과 시<br/> 피격 치명타 확률 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "피격으로 전투 진입 시<br/>치명타 확률 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -162,7 +174,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "불량소년 : 공격+9, 생명+36",
+      "ClassTitle": "무사 : 공격+9, 생명+36",
       "Tiers": [
         {
           "Name": "T1",
@@ -179,7 +191,7 @@
       ]
     },
     {
-      "ClassTitle": "영검술사 : 생명+80, 기술+5",
+      "ClassTitle": "무사의 혼 : 생명+80, 기술+5",
       "Tiers": [
         {
           "Name": "T1",
@@ -210,7 +222,7 @@
       ]
     },
     {
-      "ClassTitle": "차원도 각성자 : 공격+25, 방어+10, 마방+10",
+      "ClassTitle": "해결사 사무소 주인 : 공격+25, 방어+10, 마방+10",
       "Tiers": [
         {
           "Name": "T1",
@@ -251,7 +263,7 @@
       ]
     },
     {
-      "ClassTitle": "영력 개화 : 생명+80, 공격+7",
+      "ClassTitle": "검사 : 생명+80, 공격+7",
       "Tiers": [
         {
           "Name": "T1",
@@ -282,7 +294,7 @@
       ]
     },
     {
-      "ClassTitle": "불굴의 파이터 : 생명+150, 공격+15, 방어+10",
+      "ClassTitle": "검성 : 생명+150, 공격+15, 방어+10",
       "Tiers": [
         {
           "Name": "T1",
@@ -326,6 +338,46 @@
   "SPOpenConditions": null,
   "Skills": [
     {
+      "Name": "바람 칼날",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/0.webp",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.5</font>배의 피해<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "제압",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
+      "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12</font>%.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
       "Name": "새끼양 돌격",
       "Cost": "COST 2",
       "Entries": [
@@ -339,15 +391,15 @@
         },
         {
           "Label": "사거리",
-          "Value": "5칸"
+          "Value": "6칸"
         },
         {
           "Label": "범위",
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Rean3.webp",
-      "Desc": "[물리 피해]<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 피해,<br/><b>멀어지는 순서대로</b> 피해량 <font color=\"red\">-20</font>% (최대 <font color=\"red\">-60</font>%) 및 <font colro =\"blue\">위치 이동</font> 효과 <br/>(적을 <font color=\"red\">3</font>칸 밀침)",
+      "IconImageUrl": "../img/skills/Gintoki/1.webp",
+      "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">무기 스킬 무효화</font> 부여<br/>지속 <font color=\"Red\">2</font>턴<br/>NPC 영웅일 경우 해당 효과는 공격,지력 <font color=\"Red\">-25</font>%로 대체 <br/><b>멀어지는 순서대로</b> 피해량 <font color=\"red\">-20</font>% (최대 <font color=\"red\">-60</font>%) 및 <font colro =\"blue\">위치 이동</font> 효과 <br/>(적을 <font color=\"red\">3</font>칸 밀침)",
       "SubSkills": null,
       "Animation": null
     },    
@@ -361,11 +413,11 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "2턴"
+          "Value": "15턴"
         },
         {
           "Label": "사거리",
-          "Value": "자신"
+          "Value": "3칸"
         },
         {
           "Label": "범위",
@@ -373,7 +425,33 @@
         }
       ],
       "IconImageUrl": "../img/skills/Gintoki/2.webp",
-      "Desc": "소환물이 아닌 다른 아군에게 '<font color =\"blue\">수호의 맹세</font>' 효과 부여 <br/><font color =\"blue\">수호의 맹세</font> : 아군이 <font color =\"red\">3</font>칸 범위 안에 있을 경우 물리 공격을 대신 받는다. <br/><b><font color =\"blue\">호위</font> 도중 <font color=\"red\">사망</font>할 경우</b> <font color =\"red\">50</font>% 생명 수치로 <font color =\"blue\">부활</font> <br/>최대 <font color =\"red\">1</font>회 발동 <br/><font color =\"blue\">수호의 맹세</font>는 <b>해제 불가, 면역 불가</b> <br/><b><font color =\"blue\">수호의 맹세</font>가 걸린 아군이 <font color=\"red\">사망</font> 시</b> 영구 <font color =#83364f>백야차</font>상태 돌입",
+      "Desc": "소환물이 아닌 다른 아군에게 '<font color =\"blue\">수호의 맹세</font>' 효과 부여 <br/><font color =\"blue\">수호의 맹세</font> : 아군이 <font color =\"red\">3</font>칸 범위 안에 있을 경우 피격 물리 공격 <font color=\"blue\">호위</font> <br/><b><font color =\"blue\">호위</font> 도중 <font color=\"red\">사망</font>할 경우</b> <font color =\"red\">50</font>% 생명 수치로 <font color =\"blue\">부활</font> <br/>최대 <font color =\"red\">1</font>회 발동 <br/><font color =\"blue\">수호의 맹세</font>는 <b>해제 불가, 면역 불가</b> <br/><b><font color =\"blue\">수호의 맹세</font>가 걸린 아군이 <font color=\"red\">사망</font> 시</b> 영구 <font color =#83364f>백야차</font>상태 돌입",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "검혼",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Skill_SwordSoul.webp",
+      "Desc": "단일 개체에게 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적 부대의 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font> 및 적에게 '<font color=\"blue\">치료 방해</font>' 부여<br/>지속 <font color=\"red\">2</font>턴<br/><b>제거 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -387,7 +465,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "5턴"
+          "Value": "3턴"
         },
         {
           "Label": "사거리",
@@ -400,6 +478,32 @@
       ],
       "IconImageUrl": "../img/skills/Gintoki/3.webp",
       "Desc": "[지원] <font color =\"red\">50</font>% 생명 회복, <font color =\"blue\">당분</font>스택 <font color =\"red\">1</font>개 획득<br/>지속 <font color =\"red\">6</font>턴, <b>중첩 가능</b><br/>사용 후 <font color =\"blue\">재행동</font> <font color =\"red\">2</font>칸 <br/><font color =\"blue\">당분</font> <font color =\"red\">2</font>중첩 시 '<font color =\"blue\">당분 과다</font>' 효과 획득 <br/><font color =\"blue\">당분 과다</font> : 영웅 이동력 <font color =\"red\">-1</font>, 주는 피해량 <font color=\"red\">-15</font>%(<font color =\"red\">디메리트</font>) <br/><b>해당 스킬은 다른 버프 지속시간을 소모하지 않으며,</b><br/><font color =\"blue\">당분</font>과 <font color =\"blue\">당분 과다</font>는 <b>해제 불가,면역 불가</b><br/><font color =#83364f>백야차</font> 상태에서는 <font color =\"blue\">당분 과다</font>가 발생하지 않음",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "일섬",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Skill_SwordCrash3.webp",
+      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해<br/> 치명타율 <font color=\"Red\">+20</font>%.",
       "SubSkills": null,
       "Animation": null
     },
