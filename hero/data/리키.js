@@ -102,20 +102,20 @@
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4822,
+      "HP": 4840,
       "HPRate": 80,
-      "Attk": 573,
-      "AttkRate": 88,
-      "Int": 258,
-      "IntRate": 43,
-      "Def": 356,
-      "DefRate": 79,
-      "MagicDef": 270,
+      "Attk": 562,
+      "AttkRate": 86,
+      "Int": 247,
+      "IntRate": 41,
+      "Def": 368,
+      "DefRate": 81,
+      "MagicDef": 272,
       "MagicDefRate": 60,
-      "Skill": 154,
+      "Skill": 151,
       "SkillRate": 44,
-      "HeartFetterBouns1": "생명 <font color=\"red\">80</font>% 이상일때 <br/>전투중 받는 피해량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 <font color=\"red\">80</font>% 이상일때 <br/>전투중 주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "자신 부대보다 생명 백분비가 낮은 적 선공으로 전투 진입 시<br/>주는 피해량<font color=\"red\">+10</font>%"
     },
     {
       "Name": "마샬",
@@ -131,20 +131,20 @@
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 5129,
-      "HPRate": 85,
-      "Attk": 544,
-      "AttkRate": 84,
-      "Int": 235,
-      "IntRate": 39,
-      "Def": 378,
-      "DefRate": 84,
-      "MagicDef": 217,
+      "HP": 5152,
+      "HPRate": 86,
+      "Attk": 534,
+      "AttkRate": 82,
+      "Int": 224,
+      "IntRate": 36,
+      "Def": 391,
+      "DefRate": 86,
+      "MagicDef": 218,
       "MagicDefRate": 48,
-      "Skill": 116,
+      "Skill": 114,
       "SkillRate": 33,
-      "HeartFetterBouns1": "생명비율이 낮은상대와 <br/>전투시 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명비율이 낮은상대와 <br/>전투시 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -187,37 +187,6 @@
           "Name": "T2",
           "Materials": [
             "rank1-1"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "하이랜더 : 생명+48, 공격+12",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank2-3",
-            "rank1-3",
-            "rank1-1"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank3-3",
-            "rank3-2",
-            "rank2-3",
-            "rank2-1"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank4-6",
-            "rank4-1",
-            "rank3-3",
-            "rank3-2"
           ]
         }
       ]

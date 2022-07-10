@@ -9,38 +9,38 @@
   "Name": "긴토키",
   "ChName": "坂田银时",
   "EngName": "Gintoki",
-  "JapName": "",
-  "CV": "치바 시게루",
+  "JapName": "坂田銀時",
+  "CV": "스기타 토모카즈",
   "Rank": [
     0
   ],
   "SP": false,
   "Groups": [
-    1,
-    8,
+    0,
+    7,
     9
   ],
-  "HP": 40,
+  "HP": 30,
   "SPHP": 0,
-  "Attk": 10,
+  "Attk": 40,
   "SPAttk": 0,
-  "Def": 35,
+  "Def": 15,
   "SPDef": 0,
-  "MagicDef": 10,
+  "MagicDef": 15,
   "SPMagicDef": 0,
   "HowToGet": "콜라보 이벤트",
   "Fetters": [
     {
-      "Condition": "긴토키를 출전시켜 아레나에서 5회 승리"
+      "Condition": "레벨 30달성"
     },
     {
       "Condition": "긴토키를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "긴토키를 불굴의 파이터로 전직"
+      "Condition": "긴토키를 해결사 사무소로 전직"
     },
     {
-      "Condition": "긴토키를 차원도 각성자로 전직"
+      "Condition": "긴토키를 검성 으로 전직"
     }
   ],
   "HeartFetter": "생명+900, 방어+60, 마방+30",
@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받은 후 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+2</font>%, 받는 피해량 <font color =\"red\">-2</font>% 지속 <font color =\"red\">3</font>턴 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 전투 진입 시 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>행동 종료 상태에서 <b>소환물이 아닌 아군 <font color=\"red\">사망</font> 시 <font color=\"blue\">재행동</font></b> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b>"
+          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+2</font>%, 받는 피해량 <font color =\"red\">-2</font>% 지속 <font color =\"red\">3</font>턴 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 전투 진입 시 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>행동 종료 상태에서 <b>소환물이 아닌 아군 <font color=\"red\">사망</font> 시 <font color=\"blue\">재행동</font></b> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b>"
         },
         {
-          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받은 후 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+3</font>%, 받는 피해량 <font color =\"red\">-3</font>% 지속 <font color =\"red\">3</font>턴 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 전투 진입 시 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>행동 종료 상태에서 <b>소환물이 아닌 아군 <font color=\"red\">사망</font> 시 <font color=\"blue\">재행동</font></b> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b>"
+          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+3</font>%, 받는 피해량 <font color =\"red\">-3</font>% 지속 <font color =\"red\">3</font>턴 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 전투 진입 시 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>행동 종료 상태에서 <b>소환물이 아닌 아군 <font color=\"red\">사망</font> 시 <font color=\"blue\">재행동</font></b> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b>"
         },
         {
-          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받은 후 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+4</font>%, 받는 피해량 <font color =\"red\">-4</font>% 지속 <font color =\"red\">3</font>턴 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 전투 진입 시 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>행동 종료 상태에서 <b>소환물이 아닌 아군 <font color=\"red\">사망</font> 시 <font color=\"blue\">재행동</font></b> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b>"
+          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+4</font>%, 받는 피해량 <font color =\"red\">-4</font>% 지속 <font color =\"red\">3</font>턴 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 전투 진입 시 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>행동 종료 상태에서 <b>소환물이 아닌 아군 <font color=\"red\">사망</font> 시 <font color=\"blue\">재행동</font></b> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b>"
         },
         {
-          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받은 후 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+5</font>%, 받는 피해량 <font color =\"red\">-5</font>% 지속 <font color =\"red\">3</font>턴 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 전투 진입 시 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>행동 종료 상태에서 <b>소환물이 아닌 아군 <font color=\"red\">사망</font> 시 <font color=\"blue\">재행동</font></b> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b>"
+          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+5</font>%, 받는 피해량 <font color =\"red\">-5</font>% 지속 <font color =\"red\">3</font>턴 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 전투 진입 시 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>행동 종료 상태에서 <b>소환물이 아닌 아군 <font color=\"red\">사망</font> 시 <font color=\"blue\">재행동</font></b> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b>"
         }
       ]
     }
@@ -399,7 +399,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Gintoki/3.webp",
-      "Desc": "[지원] <font color =\"red\">50</font>% 생명 회복, <font color =\"blue\">당분</font>스택 <font color =\"red\">1</font>개 획득<br/>지속 <font color =\"red\">5</font>행동, <b>중첩 가능</b><br/>사용 후 <font color =\"blue\">재행동</font> <font color =\"red\">2</font>칸 <br/><font color =\"blue\">당분</font> <font color =\"red\">2</font>중첩 시 '<font color =\"blue\">당분 과다</font>' 효과 획득 <br/><font color =\"blue\">당분 과다</font> : 이동력 <font color =\"red\">-1</font>, 주는 피해량 <font color=\"red\">-30</font>%(<font color =\"red\">디메리트</font>) <br/><b>해당 스킬은 다른 버프 지속시간을 소모하지 않으며,</b><br/><font color =\"blue\">당분</font>과 <font color =\"blue\">당분 과다</font>는 <b>해제 불가,면역 불가</b><br/><font color =#83364f>백야차</font> 상태에서는 <font color =\"blue\">당분 과다</font>가 발생하지 않음",
+      "Desc": "[지원] <font color =\"red\">50</font>% 생명 회복, <font color =\"blue\">당분</font>스택 <font color =\"red\">1</font>개 획득<br/>지속 <font color =\"red\">6</font>턴, <b>중첩 가능</b><br/>사용 후 <font color =\"blue\">재행동</font> <font color =\"red\">2</font>칸 <br/><font color =\"blue\">당분</font> <font color =\"red\">2</font>중첩 시 '<font color =\"blue\">당분 과다</font>' 효과 획득 <br/><font color =\"blue\">당분 과다</font> : 영웅 이동력 <font color =\"red\">-1</font>, 주는 피해량 <font color=\"red\">-15</font>%(<font color =\"red\">디메리트</font>) <br/><b>해당 스킬은 다른 버프 지속시간을 소모하지 않으며,</b><br/><font color =\"blue\">당분</font>과 <font color =\"blue\">당분 과다</font>는 <b>해제 불가,면역 불가</b><br/><font color =#83364f>백야차</font> 상태에서는 <font color =\"blue\">당분 과다</font>가 발생하지 않음",
       "SubSkills": null,
       "Animation": null
     },
@@ -425,7 +425,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/긴토키.webp",
-      "Desc": "[패시브] 피해를 주지 않고 행동 종료 시 '<font color=\"blue\">거합</font>'효과 획득 <br/><font color=\"blue\">거합</font> : <b>전투 진입 전</b> 주위 <font color =\"red\">1</font>바퀴 범위 내 적에게 <font color =\"red\">0.3</font>배 피해를 준다.<br/>지속 <font color =\"red\">1</font>턴<br/>[물리피해]단일 대상에게 <font color =\"red\">1.8</font>배 피해를 준다.<br/><b>전투 진입 전 버프 <font color=\"red\">5</font>개 제거<br/><b>전투 후 모든 장비 스킬 상실(최대 생명력 옵션 제외)</b><br/>지속 <font color =\"red\">2</font>행동,<br/><br/>대상이 NPC일 경우 모든 스탯 <font color =\"red\">-25</font>%로 대체 <br/>지속 <font color =\"red\">2</font>행동<br/><b>해제 불가</b><br/><b>적이 <font color=\"red\">사망</font>하지 않았을 경우 스킬 쿨타임 <font color=\"red\">-5</font> <br/>(해당 효과 쿨타임 <font color =\"red\">2</font>)",
+      "Desc": "[패시브] 피해를 주지 않고 행동 종료 시 '<font color=\"blue\">거합</font>'효과 획득 <br/><font color=\"blue\">거합</font> : <b>전투 진입 전</b> 주위 <font color =\"red\">1</font>바퀴 범위 내 적에게 <font color =\"red\">0.25</font>배 피해를 준다.<br/><font color=\"red\">1</font>회 효과 발동 후 <font color=\"blue\">거합</font> 효과 상실<br/>지속 <font color =\"red\">1</font>턴<br/>[물리피해]단일 개체에게 <font color =\"red\">1.8</font>배 피해.<br/><b>전투 진입 전 버프 <font color=\"red\">5</font>개 제거<br/><b>전투 후 <font color=\"blue\>모든 장비 스킬 무효화</font> (최대 생명력 옵션 제외)</b><br/>지속 <font color =\"red\">2</font>행동<br/><b>해제불가</b><br/>대상이 NPC일 경우 모든 스탯 <font color =\"red\">-25</font>%로 대체 <br/>지속 <font color =\"red\">2</font>행동<br/><b>해제 불가</b><br/><b>적이 <font color=\"red\">사망</font>하지 않았을 경우 스킬 쿨타임 <font color=\"red\">-5</font> <br/>(해당 효과 쿨타임 <font color =\"red\">2</font>)",
       "SubSkills": null,
       "Animation": "../img/Super/긴토키_Ani.webp"
     }

@@ -67,7 +67,7 @@
           "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+8</font>% <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">90</font>%를 따라감"
         },
         {
-          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+12</font>% <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">100</font>%를 따라감"
+          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+12</font>% <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">105</font>%를 따라감"
         },
         {
           "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+16</font>% <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">110</font>%를 따라감"
