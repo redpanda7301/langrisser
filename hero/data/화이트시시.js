@@ -367,11 +367,11 @@
         },
         {
           "Label": "사거리",
-          "Value": "자신"
+          "Value": "3칸"
         },
         {
           "Label": "범위",
-          "Value": "1칸"
+          "Value": "단일"
         }
       ],
       "IconImageUrl": "https://storage.googleapis.com/langmosheet-data/img/ability/Gift_SissiWhite.webp",
