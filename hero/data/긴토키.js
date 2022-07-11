@@ -425,7 +425,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Gintoki/2.webp",
-      "Desc": "소환물이 아닌 다른 아군에게 '<font color =\"blue\">수호의 맹세</font>' 효과 부여 <br/><font color =\"blue\">수호의 맹세</font> : 아군이 <font color =\"red\">3</font>칸 범위 안에 있을 경우 피격 물리 공격 <font color=\"blue\">호위</font> <br/><b><font color =\"blue\">호위</font> 도중 <font color=\"red\">사망</font>할 경우</b> <font color =\"red\">50</font>% 생명 수치로 <font color =\"blue\">부활</font> <br/>최대 <font color =\"red\">1</font>회 발동 <br/><font color =\"blue\">수호의 맹세</font>는 <b>해제 불가, 면역 불가</b> <br/><b><font color =\"blue\">수호의 맹세</font>가 걸린 아군이 <font color=\"red\">사망</font> 시</b> 영구 <font color =#83364f>백야차</font>상태 돌입",
+      "Desc": "소환물이 아닌 다른 아군에게 '<font color =\"blue\">수호의 맹세</font>' 효과 부여 <br/><font color =\"blue\">수호의 맹세</font> : 아군이 <font color =\"red\">3</font>칸 범위 안에 있을 경우 피격 물리 공격 <font color=\"blue\">호위</font> <br/><b><font color =\"blue\">호위</font> 도중 <font color=\"red\">사망</font>할 경우</b> <font color =\"red\">50</font>% 생명 수치로 <font color =\"blue\">부활</font> <br/>최대 <font color =\"red\">1</font>회 발동 <br/><font color =\"blue\">수호의 맹세</font>는 <b>해제 불가, 면역 불가</b> <br/><b><font color =\"blue\">수호의 맹세</font>가 걸린 아군이 <font color=\"red\">사망</font> 시</b><br/> 영구 <font color =\"purple\">백야차</font> 상태 돌입",
       "SubSkills": null,
       "Animation": null
     },

@@ -4,13 +4,17 @@
     {
       "ImageUrl": "카구라/1.webp",
       "Desc": "기본"
+    },
+    {
+      "ImageUrl": "카구라/2.webp",
+      "Desc": "빛의 메아리"
     }
   ],
   "Name": "카구라",
   "ChName": "神乐",
   "EngName": "Kagura",
   "JapName": "",
-  "CV": "치바 시게루",
+  "CV": "쿠기미야 리에",
   "Rank": [
     0
   ],
@@ -20,11 +24,11 @@
     8,
     9
   ],
-  "HP": 40,
+  "HP": 25,
   "SPHP": 0,
-  "Attk": 10,
+  "Attk": 40,
   "SPAttk": 0,
-  "Def": 35,
+  "Def": 25,
   "SPDef": 0,
   "MagicDef": 10,
   "SPMagicDef": 0,
@@ -37,10 +41,10 @@
       "Condition": "카구라를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "카구라를 불굴의 파이터로 전직"
+      "Condition": "카구라를 은하수 공주로 전직"
     },
     {
-      "Condition": "카구라를 차원도 각성자로 전직"
+      "Condition": "카구라를 돌격 기사로 전직"
     }
   ],
   "HeartFetter": "생명+900, 방어+60, 마방+30",
@@ -56,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>선공으로 전투 진입 시</b> 공격력 <font color=\"red\">+20</font>%, 받는 피해량 <font color=\"red\">-15</font>% <br/><b>선공으로 전투 진입 후</b> 행동 종료 시 '<font color =\"purple\">기아</font>'상태 획득 <br/><font color =\"purple\">기아</font> : 공격력 <font color =\"red\">-10</font>, 중첩 가능<br/>최대 <font color =\"red\">3</font>중첩(<font color =\"red\">디메리트</font>)<br/><b>해제 불가, 면역 불가</b>"
+          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+10</font>%<br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">100</font>% 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>" 
         },
         {
-          "Desc": "<b>선공으로 전투 진입 시</b> 공격력 <font color=\"red\">+30</font>%, 받는 피해량 <font color=\"red\">-20</font>% <br/><b>선공으로 전투 진입 후</b> 행동 종료 시 '<font color =\"purple\">기아</font>'상태 획득 <br/><font color =\"purple\">기아</font> : 공격력 <font color =\"red\">-10</font>, 중첩 가능<br/>최대 <font color =\"red\">3</font>중첩(<font color =\"red\">디메리트</font>)<br/><b>해제 불가, 면역 불가</b>"
+          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+15</font>%<br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">85</font>% 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>"
         },
         {
-          "Desc": "<b>선공으로 전투 진입 시</b> 공격력 <font color=\"red\">+40</font>%, 받는 피해량 <font color=\"red\">-25</font>% <br/><b>선공으로 전투 진입 후</b> 행동 종료 시 '<font color =\"purple\">기아</font>'상태 획득 <br/><font color =\"purple\">기아</font> : 공격력 <font color =\"red\">-10</font>, 중첩 가능<br/>최대 <font color =\"red\">3</font>중첩(<font color =\"red\">디메리트</font>)<br/><b>해제 불가, 면역 불가</b>"
+          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+20</font>%<br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">70</font>% 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>" 
         },
         {
-          "Desc": "<b>선공으로 전투 진입 시</b> 공격력 <font color=\"red\">+50</font>%, 받는 피해량 <font color=\"red\">-30</font>% <br/><b>선공으로 전투 진입 후</b> 행동 종료 시 '<font color =\"purple\">기아</font>'상태 획득 <br/><font color =\"purple\">기아</font> : 공격력 <font color =\"red\">-10</font>, 중첩 가능<br/>최대 <font color =\"red\">3</font>중첩(<font color =\"red\">디메리트</font>)<br/><b>해제 불가, 면역 불가</b>"
+          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+30</font>%<br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">50</font>% 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>" 
         }
       ]
     }
@@ -73,65 +77,73 @@
   "SPTalent": null,
   "Equip": null,
   "Soldiers": [
-    20,
-    23,
-    31,
-    34,
-    35,
-    60
+    24,
+    28,
+    48,
+    56,
+    19,
+    75,
+    59,
+    54 
   ],
   "Jobs": [
     {
-      "Name": "불굴의 파이터",
+      "Name": "은하수 공주",
       "Icon": "Icon_Occupation_Marines.webp",
       "SD": [
         {
           "ImageUrl": "카구라/1/1.webp"
+        },
+        {
+          "ImageUrl": "카구라/2/1.webp"
         }
       ],
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4638,
-      "HPRate": 77,
-      "Attk": 508,
-      "AttkRate": 78,
-      "Int": 214,
-      "IntRate": 35,
-      "Def": 359,
-      "DefRate": 79,
-      "MagicDef": 211,
+      "HP": 5012,
+      "HPRate": 81,
+      "Attk": 619,
+      "AttkRate": 92,
+      "Int": 233,
+      "IntRate": 39,
+      "Def": 346,
+      "DefRate": 76,
+      "MagicDef": 217,
       "MagicDefRate": 46,
-      "Skill": 95,
-      "SkillRate": 27,
-      "HeartFetterBouns1": "공격을 받아 전투 진입시 받는 마법피해 -10%",
-      "HeartFetterBouns2": "공격을 받아 전투 진입시 입히는피해 +10%"
+      "Skill": 125,
+      "SkillRate": 32,
+      "HeartFetterBouns1": "받는 범위피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "피격으로 전투 진입시<br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
-      "Name": "차원도 각성자",
-      "Icon": "Icon_Occupation_Infantryman.webp",
+      "Name": "돌격 기사",
+      "Icon": "Icon_Occupation_Cavalry.webp",
       "SD": [
         {
           "ImageUrl": "카구라/1/2.webp"
+        },
+        {
+          "ImageUrl": "카구라/2/2.webp"
         }
       ],
       "AttkRange": 1,
-      "Move": 3,
-      "MoveType": "Walk",
-      "HP": 4254,
-      "HPRate": 70,
-      "Attk": 536,
-      "AttkRate": 82,
+      "Move": 5,
+      "MoveType": "Ride",
+      "HP": 4379,
+      "HPRate": 72,
+      "Attk": 619,
+      "AttkRate": 92,
       "Int": 235,
       "IntRate": 39,
-      "Def": 337,
-      "DefRate": 74,
-      "MagicDef": 263,
-      "MagicDefRate": 58,
-      "Skill": 126,
+      "Def": 309,
+      "DefRate": 71,
+      "MagicDef": 241,
+      "MagicDefRate": 51,
+      "Skill": 125,
       "SkillRate": 36,
-      "HeartFetterBouns1": "받는 범위피해 -10%",
-      "HeartFetterBouns2": "공격하여 전투진입시 입히는피해 +10%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">70</font>% 미만 시 <br/>전투 진입후 주는 피해량 <font color=\"red\">+10</font>"
     }
   ],
   "Materials": {
@@ -162,7 +174,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "불량소년 : 공격+9, 생명+36",
+      "ClassTitle": "용병 : 공격+9, 생명+36",
       "Tiers": [
         {
           "Name": "T1",
@@ -179,7 +191,7 @@
       ]
     },
     {
-      "ClassTitle": "영검술사 : 생명+80, 기술+5",
+      "ClassTitle": "은하수 사냥꾼 : 생명+80, 기술+5",
       "Tiers": [
         {
           "Name": "T1",
@@ -210,7 +222,7 @@
       ]
     },
     {
-      "ClassTitle": "차원도 각성자 : 공격+25, 방어+10, 마방+10",
+      "ClassTitle": "은하수 공주 : 공격+25, 방어+10, 마방+10",
       "Tiers": [
         {
           "Name": "T1",
@@ -251,7 +263,7 @@
       ]
     },
     {
-      "ClassTitle": "영력 개화 : 생명+80, 공격+7",
+      "ClassTitle": "강습 기사 : 생명+80, 공격+7",
       "Tiers": [
         {
           "Name": "T1",
@@ -282,7 +294,7 @@
       ]
     },
     {
-      "ClassTitle": "불굴의 파이터 : 생명+150, 공격+15, 방어+10",
+      "ClassTitle": "돌격 기사 : 생명+150, 공격+15, 방어+10",
       "Tiers": [
         {
           "Name": "T1",
@@ -326,7 +338,7 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "구타",
+      "Name": "관통",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -335,7 +347,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "3턴"
+          "Value": "2턴"
         },
         {
           "Label": "사거리",
@@ -346,11 +358,25 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Kagura/1.webp",
-      "Desc": "[물리 피해]단일 개체에게<font color=\"red\">1.6</font>배 피해를 준다.<br/>전투 전 적 <font color =\"blue\">방어구 스킬</font>상실(최대 생명 제외) <br/>지속 <font color =\"red\">1</font>행동<br/> 목표가 NPC 일 경우 방어<font color =\"red\">-25</font>%로 대체 <br/>지속 <font color =\"red\">1</font>행동 <br/>전투 후 적 받는 치유량 <font color =\"red\">-50</font>% <br/>지속 <font color =\"red\">2</font>행동 <br/>해제 불가",
+      "IconImageUrl": "../img/skills/43.webp",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.5</font>배의 피해<br/>전투 후, 적 <font color=\"blue\">방어 <font color=\"red\">-30</font></font>%<br/>지속 <font color=\"Red\">2</font>턴",
       "SubSkills": null,
       "Animation": null
-    },    
+    },
+    {
+      "Name": "무기 파괴",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
+      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font></font>%<br/>지속 <font color=\"red\">1</font>턴",
+      "SubSkills": null,
+      "Animation": null
+    },
     {
       "Name": "우산총",
       "Cost": "COST 2",
@@ -361,19 +387,59 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "2턴"
+          "Value": "3턴"
         },
         {
           "Label": "사거리",
-          "Value": "자신"
+          "Value": "2칸"
         },
         {
           "Label": "범위",
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Kagura/2.webp",
-      "Desc": "[물리피해] 단일 개체 <font color=\"red\">1.5</font>배 피해를 준다, <br/>인접한 적을 공격 시 전투 후 <font color=\"blue\">위치 이동</font> 효과 <br/>(<font color=\"red\">2</font>칸 밀침) <br/><b>근접전 병사 대동 시 병사도 함께 공격</b> <br/>해당 스킬은 <font color=\"blue\">근접전 피해 감면</blue> 효과를 받지 않음</b>",
+      "IconImageUrl": "../img/skills/Kagura/1.webp",
+      "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해를 준다, <br/>인접한 적을 공격 시 전투 후 <font color=\"blue\">위치 이동</font> 효과 <br/><font color=\"blue\">위치 이동</font>  : <font color=\"red\">2</font>칸 밀침 <br/><b>근접전 병사 대동 시 병사도 함께 공격</b> <br/>해당 스킬은 <font color=\"blue\">근접전 피해 감면</blue> 효과를 받지 않음</b><br/>자신에게 걸린 <font color=\"purple\">배고파</font> <font color=\"red\">2</font>스택 이하일 경우 <font color=\"blue\">선제공격</font> ",
+      "SubSkills": null,
+      "Animation": null
+    },    
+    {
+      "Name": "사수",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
+      "Desc": "전투 진입 시 방어 <font color=\"red\">+7</font>%",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "정면일격",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Skill_Support.webp",
+      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해.<br/>전투 전 공격의 <font color=\"red\">20</font>%가 <font color=\"blue\">방어력 추가</font>되며<br/>적 부대에게 '<font color=\"blue\">패시브 스킬 무효</font>' 부여<br/>지속 <font color=\"red\">2</font>턴 <br/><b>제거 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -398,11 +464,51 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Kagura/3.webp",
-      "Desc": "[지원] <font color =\"red\">20</font>% 생명 회복, <font color =\"purple\">기아</font>스택 <font color =\"red\">1</font>개 제거<br/>사용 후 <font color=\"blue\">재행동</font> <font color =\"red\">1</font>칸, <br/><b>해당 스킬을 사용한 턴은 <font color =\"purple\">기아</font> 효과를 받지 않음</b><br/><b>해당 스킬은 <font color =\"blue\">버프</font> 지속 시간을 소모하지 않음</b>",
+      "IconImageUrl": "../img/skills/Kagura/2.webp",
+      "Desc": "사용 후 자신에게 걸린 <font color=\"blue\">디버프</font> <font color =\"red\">2</font>개 제거<br/><font color=\"purple\">배고파</font> <font color =\"red\">5</font>스택 제거<br/>생명 <font color =\"red\">80</font>% <font color=\"green\">회복</font><br/><b>해당 스킬은 <font color =\"purple\">배고파</font> 효과를 발동하지 않음",
       "SubSkills": null,
       "Animation": null
     },
+    {
+      "Name": "공격 지원",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
+      "Desc": "행동 종료 시 인접한 아군 <font color=\"red\">1</font>부대의 공격,지력 <font color=\"red\">+15%</font> 및<br/>면역: '<font color=\"blue\">공격, 지력 감소</font>', '<font color=\"blue\">침묵</font>',지속 <font color=\"red\">1</font>턴",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "구타",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Kagura/3.webp",
+      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해를 준다.<br/>전투 전 적 <font color =\"blue\">방어구 스킬</font>상실(최대 생명 제외)<br/> 목표가 NPC 일 경우 방어<font color =\"red\">-25</font>%로 대체 <br/>자신에게 걸린 <font color=\"purple\">배고파</font> <font color =\"red\">2</font>스택 이하일 경우 추가로 적에게 <font color=\"blue\">기절</font> 부여<br/>지속 <font color =\"red\">1</font>턴 <br/>전투 후 적 <font color=\"green\">받는 치유량</font> <font color =\"red\">-50</font>% <br/>지속 <font color =\"red\">2</font>턴 <br/>해제 불가",
+      "SubSkills": null,
+      "Animation": null
+    },    
     {
       "Name": "성깔 자극",
       "Cost": "COST 3",
@@ -431,126 +537,8 @@
     }
   ],
   "Propose": false,
-  "Bio": [
-    {
-      "Entry": "영웅소개",
-      "Desc": "◆출연：유유백서<br/>◆소속：우라메시 팀/인간"
-    },
-    {
-      "Entry": "영웅담1",
-      "Desc": "사라야시키 중학교 2학년. 우라메시 유스케의 영원한 라이벌(자칭)이지만, 싸움으로는 한 번도 이기지 못했다 (0승 156패). 유스케와 마찬가지로 걸핏하면 싸우는 불량 학생이지만, 범죄를 싫어하며 남보다 곱절 정이 두터운 의리파였기에, 친구 불량배들 사이에서도 인기가 있다. 빙녀 유키나에게 반했으나, 그녀가 히에이의 동생이라는 사실은 모른다. 고양이를 매우 좋아하며, 에이키치라는 이름의 고양이를 기르고 있다."
-    },
-    {
-      "Entry": "영웅담2",
-      "Desc": "쿠와바라는 순수한 인간이지만 강한 영력과 회복 능력을 지니고 있다. 유스케가 영체가 되었을 때는 쿠와바라만이 유스케의 존재를 느꼈다. 그 뒤 부활한 유스케와 함께 겐카이의 문하생 심사회에 참가하여, 처음으로 자신의 영력을 다루는 법을 익혀 영검을 형성하는 힘을 손에 넣었다. 유스케와 함께 싸우는 와중 쿠와바라의 영력도 점점 성장하며 강해졌다."
-    },
-    {
-      "Entry": "영웅담3",
-      "Desc": "영계탐정 유스케에게 맡겨진 임무인 빙녀 구출 사건의 비디오에 나온 유키나에게 한눈에 반한 쿠와바라는 그녀를 구하기 위해 유스케와 함께 찾아간 타루카네 별장에서 처음으로 도구로 형제와 대치한다. 격전 끝에 도구로 형제를 쓰러트린 것처럼 보였으나, 그들은 살아있었다. 암흑무술대회에 초대받은 유스케와 함께 우라메시 팀의 일원으로 참가한 쿠와바라는 결승에서 다시 도구로 형과 대결한다. 도구로 형의 비겁한 행태에 쿠와바라의 분노가 정점에 달한 순간, 새로운 기술을 구사하여 도구로 형을 쓰러트렸다."
-    },
-    {
-      "Entry": "영웅담4",
-      "Desc": "암흑무술대회 종료 후, 암흑 아이템 사용의 부작용으로 쿠와바라는 영력을 잃어버리고 만다. 그러나 센스이의 수하인 미타라이가 습격한 순간, 친구들을 지키기 위해 '차원도'의 힘을 각성하고 영력도 회복했다. 하지만 그 힘에 눈독 들인 센스이에게 잡히고 만다. 자신을 구출하러 온 유스케의 죽음을 보고 힘이 각성하여, 차원도의 힘으로 탈출하지만 센스이에게 패배하고 만다."
-    },
-    {
-      "Entry": "영웅담5",
-      "Desc": "마족으로 각성한 유스케나 동료들이 마계 통일 토너먼트에 참가하기로 했을 때, 쿠와바라는 마지막까지 고민했으나 자신의 길을 걷기 위해 인간계에 남기로 결심한다. 학업에 맹진한 끝에, 약 1년 반 후에는 제1지망 고등학교에 보결 합격한다. 마계에서 돌아온 유스케나 쿠라마, 히에이와의 우정은 변치 않았으며, 영감이 강한 한 명의 인간 남자로서 학업과 연애에 청춘을 바치고 있다."
-    }
-  ],
-  "Performance": [
-    {
-      "Entry": "「소환 - 등장대사」",
-      "Desc": "꽃이라면 벚꽃, 사나이라면 쿠와바라!"
-    },
-    {
-      "Entry": "「전투 - 전직1」",
-      "Desc": "어이, 이봐. 지금 건 연습이었다고? 괜찮냐?"
-    },
-    {
-      "Entry": "「전투 - 전직2」",
-      "Desc": "하하하하하...... 힘의 차이는 명백하잖아, 어이!"
-    },
-    {
-      "Entry": "「전투 - 스킬시전1」",
-      "Desc": "선수 필승!"
-    },
-    {
-      "Entry": "「전투 - 스킬시전2」",
-      "Desc": "간다~!"
-    },
-    {
-      "Entry": "「전투 - 선택1」",
-      "Desc": "정말 잘 됐다!"
-    },
-    {
-      "Entry": "「전투 - 선택2」",
-      "Desc": "내버려둬!"
-    },
-    {
-      "Entry": "「전투 - 전투불능」",
-      "Desc": "제길~!"
-    },
-    {
-      "Entry": "「대화 - 친밀도1」",
-      "Desc": "난 말야, 지기 싫어하는 성격이라서 말야!"
-    },
-    {
-      "Entry": "「대화 - 친밀도2」",
-      "Desc": "우라메시랑 내가 할머니랑 만난 것도, 이 길쭉한 계단을 올라서 문하생 심사회인지 뭔지에 갔던 게 처음이었지."
-    },
-    {
-      "Entry": "「대화 - 친밀도3」",
-      "Desc": "사나이 쿠와바라... 유키나 씨가 있는 곳이라면 어떤 장애물이라도 넘어가겠습니다!"
-    },
-    {
-      "Entry": "「대화 - 친밀도4」",
-      "Desc": "처음에 입학하고서 지진같은 걸 몇 번 맞췄더니 이 모양이 됐어. 완전 희귀 동물 취급이야."
-    },
-    {
-      "Entry": "「대화 - 친밀도5」",
-      "Desc": "성수와 싸우고, 타루카네의 별장에서 날뛰고, 나중에는 암흑무술대회 같은 데에 출전하더니... 우라메시 녀석은 마족이 되어버리고..."
-    },
-    {
-      "Entry": "「대화 - 일상1」",
-      "Desc": "좋아~! 해파리라도 찾아볼까!"
-    },
-    {
-      "Entry": "「대화 - 기쁨」",
-      "Desc": "뭐냐, 너도냐. 나도 최근 힘이 넘친다고. 그야말로 레벨 업한 느낌이야."
-    },
-    {
-      "Entry": "「대화 - 분노」",
-      "Desc": "네녀석이야말로 생명 보험 들어두라고, 바보!"
-    },
-    {
-      "Entry": "「대화 - 슬픔」",
-      "Desc": "우린 그저, 선택한 길이 달랐던 것 뿐이지..."
-    },
-    {
-      "Entry": "「상호작용 - 대사1」",
-      "Desc": "어디라도 가 주지!"
-    },
-    {
-      "Entry": "「상호작용 - 대사2」",
-      "Desc": "쓰러지더라도 멋지게 쓰러질게!"
-    },
-    {
-      "Entry": "「상호작용 - 대사3」",
-      "Desc": "내가 상대해주겠어!"
-    },
-    {
-      "Entry": "「상호작용 - 반감1」",
-      "Desc": "아니!?"
-    },
-    {
-      "Entry": "「상호작용 - 특수1」",
-      "Desc": "어이, 대담한 걸!"
-    },
-    {
-      "Entry": "「상호작용 - 특수2」",
-      "Desc": "시끄러~!"
-    }
-  ],
+  "Bio": null,
+  "Performance": null,
   "Performance2": null,  
   "Misc": ""
 }];

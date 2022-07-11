@@ -559,7 +559,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Dedication.webp",
-      "Desc": "[패시브] 전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 <font color=\"green\">회복</font>시킨다.<br/><font color=\"green\">회복</font>량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
+      "Desc": "전투 후 <font color=\"red\">40%</font>의 확률로 다른 아군 부대의 생명을 <font color=\"green\">회복</font>시킨다.<br/><font color=\"green\">회복</font>량은 부대 최대 생명의 <font color=\"red\">15%</font>.",
       "SubSkills": null,
       "Animation": null
     },
