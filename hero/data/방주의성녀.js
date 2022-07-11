@@ -75,7 +75,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "여명의 관(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "방주의성녀.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>자신 주위 <font color=\"red\">1</font> 바퀴 안에 아군 <font color=\"red\">2</font>부대 이상이 있을 경우<br/><font color=\"blue\">빛과 그림자</font>가 아군에게 피해를 입히지 않음<br/><font color=\"green\">받는 치료 효과</font> <font color=\"Red\">+8</font>%"
+  },
   "Soldiers": [
     43,
     13,

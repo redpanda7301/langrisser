@@ -75,7 +75,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "통솔의 검(검)",
+    "Stats": "생명 437, 공격 107",
+    "Icon": "로비나대제.webp",
+    "Ability": "공격,생명 <font color=\"red\">+5</font>%<br/><font color=\"blue\">초절 강화 특수 효과</font> 보유한 상태로 <font color=\"blue\">범위 스킬</font> 사용 시<br/> <font color=\"blue\">스킬 범위</font> <font color=\"red\">+1</font>, <font color=\"purple\">아군 부대 배치</font> 후 주는 피해량 <font color=\"red\">+10</font>% 부여<br/> 지속 <font color=\"red\">2</font>턴<br/> <font color=\"purple\">부대 배치</font> 후 <font color=\"purple\">고유 스킬</font>로 증가하는 <br/>자신 <font color=\"blue\">이동력 효과</font> 지속 시간 <font color=\"red\">+1</font>턴"
+  },
   "Soldiers": [
     28,
     31,

@@ -79,7 +79,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "시인의 꽃모자(투구)",
+    "Stats": "생명 583, 마방 48",
+    "Icon": "크리스티안네.webp",
+    "Ability": "방어, 마방 <font color=\"red\">+5</font>%<br/><font color=\"blue\">위치 이동 면역</font><br/><font color=\"purple\">고유 스킬</font> <font color=\"blue\">부활</font> 발동 시 <br/>'<font color=\"purple\">꽃말</font> <img src=\"../img/skills/Christiane/석산.webp\"/><font color=\"purple\">석산</font>' 발동<br/> (<font color=\"purple\">꽃말</font> 중첩 불가, <font color=\"purple\">석산</font> 효과가 이미 있을 경우 다른 <font color=\"purple\">꽃말</font> 획득 불가)"
+  },
   "Soldiers": [
     35,
     25,
