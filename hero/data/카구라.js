@@ -20,8 +20,8 @@
   ],
   "SP": false,
   "Groups": [
-    1,
-    8,
+    0,
+    5,
     9
   ],
   "HP": 25,
@@ -84,7 +84,8 @@
     19,
     75,
     59,
-    54 
+    54,
+    50
   ],
   "Jobs": [
     {
@@ -134,7 +135,7 @@
       "HPRate": 72,
       "Attk": 619,
       "AttkRate": 92,
-      "Int": 235,
+      "Int": 233,
       "IntRate": 39,
       "Def": 309,
       "DefRate": 71,
@@ -383,7 +384,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지원"
+          "Value": "물리 피해"
         },
         {
           "Label": "쿨타임",
@@ -531,7 +532,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/카구라.webp",
-      "Desc": "[패시브] 턴 시작시 생명 <font color =\"red\">20</font>% 회복<br/>[액티브]자신의 '<font color=\"purple\">기아</font>' <font color =\"red\">3</font>스택 제거 후 면역 및 '<font color=\"blue\">전투 본능</font>' 획득 <br/>사용 후 <font color =\"blue\">재이동</font> <font color =\"red\">2</font>칸 <br/><font color=\"blue\">전투 본능</font> : <b>선공으로 <font color =\"blue\">스킬</font>을 사용해 피해를 입힌 후</b> <font color =\"blue\">스킬</font> 쿨타임 <font color =\"red\">-5</font> <br/>지속 <font color =\"red\">2</font>행동<br/><b>해제 불가,면역 불가</b><br/><b>지속 시간 동안 <font color =\"purple\">기아</font>효과를 받지 않음",
+      "Desc": "[패시브] <font color=\"purple\">너무 배고파</font>상태가 아닌 경우 영웅 일반 공격 피해 <font color =\"red\">+20</font>%<br/>선공으로 전투 진입 전 부대 생명 <font color =\"red\">30</font>% <font color=\"green\">회복</font><<br/>[액티브]사용시 부대 공격 <font color=\"red\">+20</font>% 및 '<font color=\"blue\">모든 디버프 면역</font>' '<font color=\"blue\">전투 본능</font>' 획득<br/><font color=\"blue\">전투 본능</font> : 주는 피해량 <font color =\"red\">+30</font>%, 받는 물리피해 <font color =\"red\">-30</font>% <br/><font color=\"blue\">액티브 스킬</font>로 피해를 입힌 후 해당 스킬 쿨타임 <font color=\"Red\">-5</font><br/>지속 <font color=\"Red\">2</font>턴<br/>사용 후 4칸 <font color=\"blue\">재행동</font><br/><font color=\"blue\">전투 본능</font>은 <font color=\"blue\">해제 불가</font> 및 지속 시간 동안 <font color=\"purple\">배고파</font> 스택을 쌓지 않으며,<br/>지속 시간 종료 후 <font color=\"purple\">배고파</font> <font color\"red\">3</font>스택 획득",
       "SubSkills": null,
       "Animation": "../img/Super/카구라_Ani.webp"
     }

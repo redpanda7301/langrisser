@@ -72,7 +72,7 @@
   "SPTalent": null,
   "Equip": null,
   "Soldiers": [
-    26,
+    28,
     25,
     4,
     58,
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "ClassTitle": "검성 : 공격+25, 방어+10, 마방+10",
+      "ClassTitle": "검성 : 생명+90, 공격+25, 방어+10",
       "Tiers": [
         {
           "Name": "T1",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "ClassTitle": "친위 대장 : 생명+80, 공격+7",
+      "ClassTitle": "친위 대장 : 생명+80, 방어+5",
       "Tiers": [
         {
           "Name": "T1",
@@ -400,7 +400,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Shinpachi/2.webp",
+      "IconImageUrl": "../img/skills/Shinpachi/1.webp",
       "Desc": "선공으로 전투 진입 시 받는 피해 <font color =\"red\">-20</font>% <br/><b>적을 격파하지 못했을 경우 전투 후</b> <font color =\"blue\">위치 이동</font> <br/>(<b>자신을 적 반대 방향으로</b> <font color =\"red\">3</font>칸 이동, <font color =\"blue\">위치 이동</font> 효과는 <b>면역 불가</b>)",
       "SubSkills": null,
       "Animation": null
@@ -477,7 +477,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지원"
+          "Value": "치료"
         },
         {
           "Label": "쿨타임",
@@ -492,7 +492,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Shinpachi/1.webp",
+      "IconImageUrl": "../img/skills/Shinpachi/2.webp",
       "Desc": "[패시브]<b>피격으로 전투 진입 전 <font color =\"red\">20</font>% 확률로 쌍방 부대 <font color =\"blue\">공격 불가</font></b><br/>쿨타임 <font color =\"red\">1</font>턴 <br/>[액티브]자신의 부대 생명 <font color =\"red\">100</font>% <font color=\"green\">회복</font> <br/>자신이 적의 <font color=\"blue\">일반 공격</font> 및 <font color=\"blue\">스킬 타게팅</font> 대상으로 지정되지 않음</b><br/>지속 <font color =\"red\">1</font>턴<br/><b>해제 불가</b>",
       "SubSkills": null,
       "Animation": null

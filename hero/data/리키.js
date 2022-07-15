@@ -82,7 +82,6 @@
     24,
     25,
     34,
-    35,
     78,
     77,
     21
@@ -187,6 +186,37 @@
           "Name": "T2",
           "Materials": [
             "rank1-1"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "하이랜더 : 생명+48, 공격+12",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-3",
+            "rank1-3",
+            "rank1-1"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank3-3",
+            "rank3-2",
+            "rank2-3",
+            "rank2-1"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-6",
+            "rank4-1",
+            "rank3-3",
+            "rank3-2"
           ]
         }
       ]
@@ -520,7 +550,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/리키.webp",
-      "Desc": "[지휘]방어 방향 범위 안에 있는 적 <font color=\"blue\">치명타 확률 <font color=\"red\">-20</font></font>% <br/>반대 방향 범위 안에 있는 아군 <font color=\"blue\">공격, 지력 <font color=\"red\">+15</font></font>%<br/>[물리피해]<font color=\"red\">3</font>줄 직선상 적에게 <font color=\"red\">0.36</font>피해, <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 제거<br/><font color=\"blue\">공격 대상은 직선으로만 이동 가능</font><br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b><br/>스킬 사용후 자신은 <font color=\"blue\">지휘</font> 효과 획득<br/><font color=\"blue\">지휘 효과</font> : 방어 방향 범위 안에 있는 적이 선공으로 피해를 입히기 전<br/>리키 공격 <font color=\"blue\">1.5</font>배 수치 <font color=\"blue\">고정피해</font>를 받음<br/>적이 혼합 부대일 경우 면역 불가<br/>최대 <font color=\"red\">3</font>회 발동<br/>지속 <font color=\"red\">2</font>턴 <b>해제 불가</b>",
+      "Desc": "[지휘]방어 방향 범위 <font color=\"red\">3</font>칸 안에 있는 적 <font color=\"blue\">치명타 확률 <font color=\"red\">-20</font></font>% <br/>반대 방향 범위 안에 있는 아군 <font color=\"blue\">공격, 지력 <font color=\"red\">+15</font></font>%<br/>[물리피해]<font color=\"red\">3</font>줄 직선상 적에게 <font color=\"red\">0.36</font>피해, <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 제거<br/><font color=\"blue\">공격 대상은 직선으로만 이동 가능</font><br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b><br/>스킬 사용후 자신은 <font color=\"blue\">지휘</font> 효과 획득<br/><font color=\"blue\">지휘 효과</font> : 방어 방향 범위 안에 있는 적이 선공으로 피해를 입히기 전<br/>리키 공격 <font color=\"blue\">1.5</font>배 수치 <font color=\"blue\">고정피해</font>를 받음<br/>적이 혼합 부대일 경우 면역 불가<br/>최대 <font color=\"red\">3</font>회 발동<br/>지속 <font color=\"red\">2</font>턴 <b>해제 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/리키_Ani.webp",
     }    

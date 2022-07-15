@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "물에서 공격, 방어 <font color=\"red\">+12</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해딩 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+          "Desc": "물에서 공격, 방어 <font color=\"red\">+12</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
         },
         {
-          "Desc": "물에서 공격, 방어 <font color=\"red\">+16</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해딩 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+          "Desc": "물에서 공격, 방어 <font color=\"red\">+16</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
         },
         {
-          "Desc": "물에서 공격, 방어 <font color=\"red\">+20</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해딩 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+          "Desc": "물에서 공격, 방어 <font color=\"red\">+20</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
         },
         {
-          "Desc": "물에서 공격, 방어 <font color=\"red\">+25</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">2</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해딩 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+          "Desc": "물에서 공격, 방어 <font color=\"red\">+25</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">2</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
         }
       ]
     }
@@ -80,7 +80,6 @@
     42,
     31,
     13,
-    42,
     8,
     38,
     69,
@@ -129,21 +128,21 @@
           "ImageUrl": "마크렌/2/2.webp"
         }
       ],
-      "AttkRange": 1,
+      "AttkRange": 2,
       "Move": 3,
-      "MoveType": "Walk",
-      "HP": 4257,
-      "HPRate": 70,
-      "Attk": 523,
-      "AttkRate": 80,
-      "Int": 249,
-      "IntRate": 41,
-      "Def": 346,
-      "DefRate": 76,
-      "MagicDef": 282,
-      "MagicDefRate": 62,
-      "Skill": 148,
-      "SkillRate": 42,
+      "MoveType": "Water",
+      "HP": 4139,
+      "HPRate": 72,
+      "Attk": 535,
+      "AttkRate": 82,
+      "Int": 274,
+      "IntRate": 44,
+      "Def": 311,
+      "DefRate": 70,
+      "MagicDef": 260,
+      "MagicDefRate": 59,
+      "Skill": 300,
+      "SkillRate": 78,
       "HeartFetterBouns1": "자신 부대보다 생명 백분비가 높은 적에게 피격 당해 전투 진입 시<br/> 받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만 시<br/>주는 피해량<font color=\"red\">+10</font>%"
     }
@@ -176,7 +175,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "선원 : 공격+9, 생명+36",
+      "ClassTitle": "선원 : 공격+5, qkddj+6",
       "Tiers": [
         {
           "Name": "T1",
@@ -188,6 +187,37 @@
           "Name": "T2",
           "Materials": [
             "rank1-1"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "소드맨 : 생명+80, 기술+5",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-1",
+            "rank1-1",
+            "rank1-2"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank3-1",
+            "rank3-6",
+            "rank2-1",
+            "rank2-2"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-1",
+            "rank4-2",
+            "rank3-1",
+            "rank3-6"
           ]
         }
       ]
@@ -265,7 +295,7 @@
       ]
     },
     {
-      "ClassTitle": "수수께끼의 여행자 : 공격+12, 기술+5",
+      "ClassTitle": "수수께끼의 여행자 : 공격+7, 기술+8",
       "Tiers": [
         {
           "Name": "T1",
@@ -296,7 +326,7 @@
       ]
     },
     {
-      "ClassTitle": "방랑 낭객 : 공격+25, 방어+10, 마방+10",
+      "ClassTitle": "방랑 낭객 : 생명+90, 공격+15, 기술+16",
       "Tiers": [
         {
           "Name": "T1",
@@ -367,7 +397,7 @@
     },
     {
       "Name": "격류 조직",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -387,7 +417,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/McClaine/1.webp",
-      "Desc": "자신 및 주위 <font color=\"red\">2</font>칸 범위 안 지형에 <font color=\"red\">1</font>턴간 <font color=\"purple\">분류</font> 효과 부여 <br/>사용 후 공격 가능<br/>아군이 <font color=\"blue\">격류</font> 효과가 부여된 진형 통과 시 <font color=\"red\">2</font>칸 이동력 감소 면제<br/>해당 스킬은 보유한 강화 지속 시간을 소모하지 않음",
+      "Desc": "자신 및 주위 <font color=\"red\">2</font>칸 범위 안 지형에 <font color=\"red\">1</font>턴간 <font color=\"purple\">분류</font> 효과 부여 <br/>사용 후 공격 가능<br/>우군이 <font color=\"blue\">격류</font> 효과가 부여된 진형 통과 시 <font color=\"red\">2</font>칸 이동력 감소 면제<br/>해당 스킬은 보유한 강화 지속 시간을 소모하지 않음",
       "SubSkills": null,
       "Animation": null
     },    
@@ -451,7 +481,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지원"
+          "Value": "물리 피해"
         },
         {
           "Label": "쿨타임",
@@ -543,7 +573,7 @@
         },
         {
           "Label": "범위",
-          "Value": "1바퀴"
+          "Value": "맵전체"
         }
       ],
       "IconImageUrl": "../img/Super/마크렌.webp",
@@ -570,7 +600,7 @@
             }
           ],
           "IconImageUrl": "../img/Super/마크렌_1.webp",
-          "Desc": "호위 무시 및 단일 개체에게 <font color=\"red\">1.4</font>피해 <br/>적이 물에 있을 경우 치명타 확률 <font color=\"red\">20</font>%<br/>전투 후 '<font color=\"blue\">물</font>'에 있는 모든 적에게 추가 공격 <font color=\"red\">1/font>1 수치 <font color=\"blue\">고정 피해 </font><br/>사용 후 해당 스킬은 <font color=\"blue\">파도의 지배자</font>로 변경<br/><font color=\"blue\>해당 스킬은 근접전 패널티를 받지 않음</font>"
+          "Desc": "호위 무시 및 단일 개체에게 <font color=\"red\">1.4</font>피해 <br/>적이 물에 있을 경우 치명타 확률 <font color=\"red\">20</font>%<br/>전투 후 '<font color=\"blue\">물</font>'에 있는 모든 적에게 추가 공격 <font color=\"red\">1/font>1 수치 <font color=\"blue\">고정 피해 </font><br/>사용 후 해당 스킬은 <font color=\"blue\">파도의 지배자</font>로 변경<br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>"
         }
       ],
       "Animation": "../img/Super/마크렌_Ani.webp"
