@@ -6,7 +6,7 @@
       "Desc": "기본"
     },
     {
-      "ImageUrl": "리키/3.webp",
+      "ImageUrl": "리키/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
