@@ -258,7 +258,7 @@
         {
           "Name": "T4",
           "Materials": [
-            "rank8-8",
+            "rank8-9",
             "rank8-5",
             "rank7-3",
             "rank7-6"
