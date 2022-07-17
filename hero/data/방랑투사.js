@@ -286,14 +286,14 @@
             "rank3-3",
             "rank3-2",
             "rank2-3",
-            "rank2-1"
+            "rank2-2"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
             "rank4-6",
-            "rank4-1",
+            "rank4-2",
             "rank3-3",
             "rank3-2"
           ]
@@ -301,42 +301,42 @@
       ]
     },
     {
-      "ClassTitle": "투신 : 생명+90, 공격+25, 마방+10",
+      "ClassTitle": "용기사 대장 : 생명+90, 공격+25, 마방+10",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
             "rank5-3",
-            "rank5-1",
+            "rank5-2",
             "rank4-6",
-            "rank4-1"
+            "rank4-2"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank6-6",
-            "rank6-2",
+            "rank6-5",
+            "rank6-3",
             "rank5-3",
-            "rank5-1"
+            "rank5-2"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
+            "rank7-4",
             "rank7-7",
-            "rank7-1",
-            "rank6-6",
-            "rank6-2"
+            "rank6-5",
+            "rank6-3"
           ]
         },
         {
           "Name": "T4",
           "Materials": [
-            "rank8-7",
+            "rank8-2",
             "rank8-3",
-            "rank7-7",
-            "rank7-1"
+            "rank7-4",
+            "rank7-3"
           ]
         }
       ]
