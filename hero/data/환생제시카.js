@@ -2,27 +2,27 @@
 {
   "Skins": [
     {
-      "ImageUrl": "여신의화신/1.webp",
+      "ImageUrl": "환생제시카/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "여신의화신/2.webp",
+      "ImageUrl": "환생제시카/2.webp",
       "Desc": "빛의 메아리"
     },
     {
-      "ImageUrl": "여신의화신/3.webp",
+      "ImageUrl": "환생제시카/3.webp",
       "Desc": "형귀 스킨"
     },
     {
-      "ImageUrl": "여신의화신/4.webp",
+      "ImageUrl": "환생제시카/4.webp",
       "Desc": "한정 판매"
     },
     {
-      "ImageUrl": "여신의화신/5.webp",
+      "ImageUrl": "환생제시카/5.webp",
       "Desc": "한정 판매"
     }
   ],
-  "Name": "여신의 화신",
+  "Name": "환생 제시카",
   "ChName": "女神化身",
   "EngName": "Jessica (Young)",
   "JapName": "転生ジェシカ",
@@ -90,7 +90,7 @@
   "Equip": {
     "Name": "신탁을 받은 자(투구)",
     "Stats": "생명 364, 마방 65",
-    "Icon": "여신의화신.webp",
+    "Icon": "환생제시카.webp",
     "Ability": "생명 +5%<br/>행동종료시 피해를 입히지 않고 이동하지 않은 상태라면 재행동.<br/>(재행동 효과는 발동후 4턴 이후 재발동)"
   },
   "Soldiers": [
@@ -111,19 +111,19 @@
       "Icon": "Icon_Occupation_Magician.webp",
       "SD": [
         {
-          "ImageUrl": "여신의화신/1/1.webp"
+          "ImageUrl": "환생제시카/1/1.webp"
         },
         {
-          "ImageUrl": "여신의화신/2/1.webp"
+          "ImageUrl": "환생제시카/2/1.webp"
         },
         {
-          "ImageUrl": "여신의화신/3/1.webp"
+          "ImageUrl": "환생제시카/3/1.webp"
         },
         {
-          "ImageUrl": "여신의화신/4/1.webp"
+          "ImageUrl": "환생제시카/4/1.webp"
         },
         {
-          "ImageUrl": "여신의화신/5/1.webp"
+          "ImageUrl": "환생제시카/5/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -149,19 +149,19 @@
       "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
-          "ImageUrl": "여신의화신/1/2.webp"
+          "ImageUrl": "환생제시카/1/2.webp"
         },
         {
-          "ImageUrl": "여신의화신/2/2.webp"
+          "ImageUrl": "환생제시카/2/2.webp"
         },
         {
-          "ImageUrl": "여신의화신/3/1.webp"
+          "ImageUrl": "환생제시카/3/1.webp"
         },
         {
-          "ImageUrl": "여신의화신/4/1.webp"
+          "ImageUrl": "환생제시카/4/1.webp"
         },
         {
-          "ImageUrl": "여신의화신/5/1.webp"
+          "ImageUrl": "환생제시카/5/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -648,10 +648,10 @@
           "Value": "4칸"
         }
       ],
-      "IconImageUrl": "../img/Super/여신의화신.webp",
-      "Desc": "[패시브] 영웅 사망 시 자신 주위 <font color=\"red\">5</font>칸 범위 내 <br/>모든 아군의 생명 회복,(여신의 화신 지력 <font color=\"red\">3</font>배 수치<br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">2</font>턴, <b>해제 불가</b>, <br/>[액티브] 범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 버프<font color=\"red\">1</font>개 제거, 대 마물 특효, <br/>범위 내 아군 생명 회복 (지력 <font color=\"red\">3</font>배 수치) 및 디버프 <font color=\"red\">2</font>개 제거, <br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">1</font>행동<br/><b>아군에게 시전가능</b>",
+      "IconImageUrl": "../img/Super/환생제시카.webp",
+      "Desc": "[패시브] 영웅 사망 시 자신 주위 <font color=\"red\">5</font>칸 범위 내 <br/>모든 아군의 생명 회복,(환생 제시카 지력 <font color=\"red\">3</font>배 수치<br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">2</font>턴, <b>해제 불가</b>, <br/>[액티브] 범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 버프<font color=\"red\">1</font>개 제거, 대 마물 특효, <br/>범위 내 아군 생명 회복 (지력 <font color=\"red\">3</font>배 수치) 및 디버프 <font color=\"red\">2</font>개 제거, <br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">1</font>행동<br/><b>아군에게 시전가능</b>",
       "SubSkills": null,
-      "Animation": "../img/Super/여신의화신_Ani.webp"
+      "Animation": "../img/Super/환생제시카_Ani.webp"
     }
   ],
   "Propose": true,
@@ -662,7 +662,7 @@
     },
     {
       "Entry": "영웅담1",
-      "Desc": "15세의 소녀의 모습으로 환생한 여신의 대행자. 막 부활한 그녀는 빛의 여신과 이어지지 못하여, 자신이 어째서 환생했는가에 대한 의미를 찾지 못하고 방황한다. 그러나, 리아나의 도움으로 제시카의 신앙심은 되살아나며, 힘도 돌아오게 된다.엘윈이 부활한 카오스에 패배했을 때, 제시카는 다른 동료와 함께 그를 격려하여 마음 속의 그림자를 걷어낸다. 다시 성검에게 인정 받은 엘윈과 동료와 함께 제시카는 카오스를 쓰러트리고, 엘사리아 대륙에는 평화가 돌아온다. <font color=\"#a52a2aff\"><size=33><i>'여신의 화신인 나도, 랑그릿사도, 시간의 흐름 안에선 영원하지 않을지도 몰라.... 하지만, 빛나는 의지만은 분명 영원할 거라고 믿어!'</i></size=33></font>"
+      "Desc": "15세의 소녀의 모습으로 환생한 여신의 대행자. 막 부활한 그녀는 빛의 여신과 이어지지 못하여, 자신이 어째서 환생했는가에 대한 의미를 찾지 못하고 방황한다. 그러나, 리아나의 도움으로 제시카의 신앙심은 되살아나며, 힘도 돌아오게 된다.엘윈이 부활한 카오스에 패배했을 때, 제시카는 다른 동료와 함께 그를 격려하여 마음 속의 그림자를 걷어낸다. 다시 성검에게 인정 받은 엘윈과 동료와 함께 제시카는 카오스를 쓰러트리고, 엘사리아 대륙에는 평화가 돌아온다. <font color=\"#a52a2aff\"><size=33><i>'환생 제시카인 나도, 랑그릿사도, 시간의 흐름 안에선 영원하지 않을지도 몰라.... 하지만, 빛나는 의지만은 분명 영원할 거라고 믿어!'</i></size=33></font>"
     },
     {
       "Entry": "영웅담2",
@@ -732,11 +732,11 @@
     },
     {
       "Entry": "「대화 - 친밀도5」",
-      "Desc": "여신의 화신인 나도, 랑그릿사도, 시간의 흐름 안에선 영원하지 않을지도 몰라.... 하지만, 빛나는 의지만은 분명 영원할 거라고 믿어!"
+      "Desc": "환생 제시카인 나도, 랑그릿사도, 시간의 흐름 안에선 영원하지 않을지도 몰라.... 하지만, 빛나는 의지만은 분명 영원할 거라고 믿어!"
     },
     {
       "Entry": "「대화 - 일상1」",
-      "Desc": "나는 여신의 화신! 빛나는 의지의 화신! 그리고... 그리고 뭐더라?"
+      "Desc": "나는 환생 제시카! 빛나는 의지의 화신! 그리고... 그리고 뭐더라?"
     },
     {
       "Entry": "「대화 - 기쁨」",

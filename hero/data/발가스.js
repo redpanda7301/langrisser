@@ -82,7 +82,7 @@
     "Name": "염룡의 빛(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "발가스.webp",
-    "Ability": "방어 +10%<br/><font color=\"blue\">전력 찌르기</font>효과를 보유시<br/>원거리 <font color=\"red\">2</font>칸 물리 공격에 대해 <font color=\"blue\">반격</font>."
+    "Ability": "방어 +10%<br/><font color=\"blue\">전력 찌르기</font>효과를 보유시<br/>원거리 <font color=\"red\">2</font>칸 공격에 대해 <font color=\"blue\">반격</font>."
   },
   "Soldiers": [
     20,
