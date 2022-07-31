@@ -8,6 +8,10 @@
     {
       "ImageUrl": "로비나대제/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "로비나대제/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "로비나 대제",
@@ -101,6 +105,9 @@
         },
         {
           "ImageUrl": "로비나대제/2/1.webp"
+        },
+        {
+          "ImageUrl": "로비나대제/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -130,6 +137,9 @@
         },
         {
           "ImageUrl": "로비나대제/2/2.webp"
+        },
+        {
+          "ImageUrl": "로비나대제/3/2.webp"
         }
       ],
       "AttkRange": 1,

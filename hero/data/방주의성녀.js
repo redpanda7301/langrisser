@@ -8,6 +8,10 @@
     {
       "ImageUrl": "방주의성녀/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "방주의성녀/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "방주의 성녀",
@@ -101,6 +105,9 @@
         },
         {
           "ImageUrl": "방주의성녀/2/1.webp"
+        },
+        {
+          "ImageUrl": "방주의성녀/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -130,6 +137,9 @@
         },
         {
           "ImageUrl": "방주의성녀/2/1.webp"
+        },
+        {
+          "ImageUrl": "방주의성녀/3/1.webp"
         }
       ],
       "AttkRange": 2,

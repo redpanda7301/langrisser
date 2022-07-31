@@ -12,6 +12,10 @@
     {
       "ImageUrl": "이멜다/3.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "이멜다/4.webp",
+      "Desc": "서밋아레나 S13 골드스킨"
     }
   ],
   "Name": "이멜다",
@@ -107,6 +111,9 @@
         },
         {
           "ImageUrl": "이멜다/3/1.webp"
+        },
+        {
+          "ImageUrl": "이멜다/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -139,6 +146,9 @@
         },
         {
           "ImageUrl": "이멜다/3/1.webp"
+        },
+        {
+          "ImageUrl": "이멜다/4/1.webp"
         }
       ],
       "AttkRange": 2,

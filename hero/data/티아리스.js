@@ -91,7 +91,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "티아리스.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>단일 아군에게 단일 대상 스킬 사용시, <font color=\"blue\">진격의 가호</font> 효과 부여.<br/>지속 <font color=\"red\">1</font>턴."
+  },
   "Soldiers": [
     0,
     5,

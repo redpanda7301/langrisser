@@ -75,7 +75,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "(투구)",
+    "Stats": "생명 583, 마방 48",
+    "Icon": "캐롤리안.webp",
+    "Ability": "<font color=\"purple\">고유 스킬</font>효과 범위 <font color=\"Red\">1</font>칸 증가<br/><font color=\"blue\">이동력 저하</font> 효과 지속시간 <font color=\"red\">1</font>턴 증가, <br/>이동 <font color=\"red\">1</font>칸당 치명타 확률 및 피해 <font color=\"red\">+2</font>%<br/> 최대 <font color=\"red\">10</font>%"
+  },
   "Soldiers": [
     56,
     47,

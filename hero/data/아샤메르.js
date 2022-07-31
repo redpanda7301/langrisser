@@ -565,7 +565,7 @@
       "Animation": "../img/Super/아샤메르_Ani.webp"
     }
   ],
-  "Propose": true,
+  "Propose": false,
   "Bio": null,
   "Performance": [
     {

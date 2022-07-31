@@ -16,6 +16,10 @@
     {
       "ImageUrl": "란디우스/4.webp",
       "Desc": "한정 판매"
+    },
+    {
+      "ImageUrl": "란디우스/5.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "란디우스",
@@ -115,6 +119,9 @@
         },
         {
           "ImageUrl": "란디우스/4/1.webp"
+        },
+        {
+          "ImageUrl": "란디우스/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -150,6 +157,9 @@
         },
         {
           "ImageUrl": "란디우스/4/2.webp"
+        },
+        {
+          "ImageUrl": "란디우스/5/2.webp"
         }
       ],
       "AttkRange": 1,

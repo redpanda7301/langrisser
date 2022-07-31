@@ -12,6 +12,10 @@
     {
       "ImageUrl": "팟시르/3.webp",
       "Desc": "형귀 스킨"
+    },
+    {
+      "ImageUrl": "팟시르/4.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "팟시르",
@@ -107,6 +111,9 @@
         },
         {
           "ImageUrl": "팟시르/3/1.webp"
+        },
+        {
+          "ImageUrl": "팟시르/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -139,6 +146,9 @@
         },
         {
           "ImageUrl": "팟시르/3/1.webp"
+        },
+        {
+          "ImageUrl": "팟시르/4/1.webp"
         }
       ],
 	  "AttkRange": 2,

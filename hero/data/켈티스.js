@@ -8,6 +8,10 @@
     {
       "ImageUrl": "켈티스/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "켈티스/3.webp",
+      "Desc": "형귀스킨"
     }
   ],
   "Name": "켈티스",
@@ -100,6 +104,9 @@
         },
         {
           "ImageUrl": "켈티스/2/1.webp"
+        },
+        {
+          "ImageUrl": "켈티스/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -129,6 +136,9 @@
         },
         {
           "ImageUrl": "켈티스/2/1.webp"
+        },
+        {
+          "ImageUrl": "켈티스/3/1.webp"
         }
       ],
       "AttkRange": 2,
