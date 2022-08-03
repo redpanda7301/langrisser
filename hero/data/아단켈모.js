@@ -179,7 +179,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "수녀 : 지력+9, 마방+4",
+      "ClassTitle": "수녀 : 지력+5, 마방+6",
       "Tiers": [
         {
           "Name": "T1",
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "ClassTitle": "주교 : 생명+48, 지력+12",
+      "ClassTitle": "주교 : 생명+48, 마방+8",
       "Tiers": [
         {
           "Name": "T1",
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "ClassTitle": "신탁 사제 : 생명+90, 마방+10, 지력+25",
+      "ClassTitle": "신탁 사제 : 생명+90, 마방+16, 지력+15",
       "Tiers": [
         {
           "Name": "T1",
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "ClassTitle": "탐구자 : 지력+12, 마방+5",
+      "ClassTitle": "탐구자 : 생명+48 지력+12",
       "Tiers": [
         {
           "Name": "T1",
@@ -378,7 +378,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Adankelmo/1.webp",
-      "Desc": "지력, 방어 <font color=\"red\">+5</font>%<br/><font color=\"purple\">포탈</font>을 통과한 아군에게 피해 감소 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>턴.",
+      "Desc": "지력, 방어 <font color=\"red\">+5</font>%<br/><font color=\"purple\">포탈</font>을 통과한 아군에게 피해 감소 <font color=\"red\">15</font>%<br/>지속 <font color=\"red\">1</font>턴.",
       "SubSkills": null,
       "Animation": null
     },
@@ -552,11 +552,11 @@
         },
         {
           "Label": "사거리",
-          "Value": "4칸"
+          "Value": "맵전체"
         },
         {
           "Label": "범위",
-          "Value": "전맵"
+          "Value": "4칸"
         }
       ],
       "IconImageUrl": "../img/Super/아단켈모.webp",

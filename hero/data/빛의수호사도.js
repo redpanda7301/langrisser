@@ -139,11 +139,11 @@
       "IntRate": 89,
       "Def": 348,
       "DefRate": 75,
-      "MagicDef": 341,
-      "MagicDefRate": 78,
+      "MagicDef": 311,
+      "MagicDefRate": 722,
       "Skill": 141,
       "SkillRate": 37,
-      "HeartFetterBouns1": "부대 생명 백분율이 <font color=\"Red\">80</font>이상 일시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 백분율이 <font color=\"Red\">80</font>%이상 일시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "원거리 공격을 받아 전투 진입시<br/>주는 피해량 <font color=\"red\">+10</font>%",
     }
   ],
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "ClassTitle": "수호자 : 마방+8, 생명+48",
+      "ClassTitle": "수호자 : 생명+48, 지력+12",
       "Tiers": [
         {
           "Name": "T1",
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "ClassTitle": "빛나는 방패의 사도 : 마방+8, 생명+48",
+      "ClassTitle": "빛나는 방패의 사도 : 생명+48, 지력+12",
       "Tiers": [
         {
           "Name": "T1",
@@ -365,12 +365,12 @@
       "Animation": null
     },
     {
-      "Name": "프로텍션",
-      "Cost": "COST 1",
+      "Name": "거울 호위",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
-          "Value": "호위"
+          "Value": "액티브"
         },
         {
           "Label": "쿨타임",
@@ -386,7 +386,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/BlessedApostle/1.webp",
-      "Desc": "[패시브]인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>[액티브] <font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 늘어나며<br/>지력 <font color=\"red\">15</font>% 수치만큼 <font color=\"blue\">방어, 마방</font> 증가<br/><font color=\"red\">2</font>칸 이내 <font color=\"blue\">원거리 반격</font>가능<br/>지속 <font color=\"Red\">2</font>턴.",
+      "Desc": "[패시브]인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>[액티브] <font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 늘어나며<br/>지력 <font color=\"red\">15</font>% 수치만큼 <font color=\"blue\">방어, 마방</font> 증가<br/><font color=\"blue\">부대 반격 사거리</font><font color=\"red\">+2</font>칸 증가 <br/>지속 <font color=\"Red\">2</font>턴.",
       "SubSkills": null,
       "Animation": null
     },
@@ -396,7 +396,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지원"
+          "Value": "액티브"
         },
         {
           "Label": "쿨타임",
@@ -510,7 +510,7 @@
     },
     {
       "Name": "성스러운 방패의 일격",
-      "Cost": "COST 1",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
@@ -540,7 +540,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "호위"
+          "Value": "액티브"
         },
         {
           "Label": "쿨타임",
@@ -552,7 +552,7 @@
         },
         {
           "Label": "범위",
-          "Value": "단일"
+          "Value": "맵전체"
         }
       ],
       "IconImageUrl": "../img/Super/빛의수호사도.webp",
