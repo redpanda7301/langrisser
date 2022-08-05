@@ -529,6 +529,14 @@
 					$(".table7 input:text").css('background','#ffffff');
 					$(".table8 input:text").val('0');
 				});
+
+				//유대인질 영웅클릭 이벤트
+				$("#content5 tr > td:first-child > img").each(function(){
+					$(this).attr("id", $(this).attr("src").substring($(this).attr("src").lastIndexOf("/")+1).replace(".webp",""))
+				});
+				$("#content5 img").each(function(){
+					$(this).wrap("<a href='#" + $(this).attr("src").substring($(this).attr("src").lastIndexOf("/")+1).replace(".webp","") + "'></a>")
+				});
 			});
 		</script>
 	</HEAD>
@@ -14556,7 +14564,7 @@
 						<td>
 							오타 및 수정사항 제보 : <a href="https://arca.live/b/langrisser/10630350">랑그릿사 아카라이브</a> / <a href="https://tgd.kr/s/anotherkyo">트게더</a><br>
 							<br>작업자 : 레이갈드 제국-어쿄<br>
-							<br>최종 수정일자 : 2022-07-17<br>
+							<br>최종 수정일자 : 2022-08-05<br>
 						</td>
 					</tr>
 				</table>
