@@ -140,7 +140,7 @@
       "Def": 348,
       "DefRate": 75,
       "MagicDef": 311,
-      "MagicDefRate": 722,
+      "MagicDefRate": 72,
       "Skill": 141,
       "SkillRate": 37,
       "HeartFetterBouns1": "부대 생명 백분율이 <font color=\"Red\">80</font>%이상 일시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
