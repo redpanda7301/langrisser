@@ -28,7 +28,11 @@
     {
       "ImageUrl": "쉐리/sp.webp",
       "Desc": "SP 각성"
-    }
+    },
+    {
+      "ImageUrl": "쉐리/7.webp",
+      "Desc": "한정판매"
+    },
   ],
   "Name": "雪莉",
   "CV": "호리에 유이",
@@ -163,6 +167,9 @@
         },
         {
           "ImageUrl": "쉐리/sp/1.webp"
+        },
+        {
+          "ImageUrl": "쉐리/7/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -207,6 +214,9 @@
         },
         {
           "ImageUrl": "쉐리/sp/3.webp"
+        },
+        {
+          "ImageUrl": "쉐리/7/3.webp"
         }
       ],
       "AttkRange": 1,
@@ -251,6 +261,9 @@
         },
         {
           "ImageUrl": "쉐리/sp/2.webp"
+        },
+        {
+          "ImageUrl": "쉐리/7/2.webp"
         }
       ],
       "AttkRange": 2,

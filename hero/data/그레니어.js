@@ -13,6 +13,10 @@
       "ImageUrl": "그레니어/sp.webp",
       "Desc": "SP 각성"
     },
+    {
+      "ImageUrl": "그레니어/3.webp",
+      "Desc": "한정판매"
+    }
   ],
   "Name": "그레니어",
   "ChName": "格尼尔",
@@ -133,6 +137,9 @@
         },
         {
           "ImageUrl": "그레니어/sp/1.webp"
+        },
+        {
+          "ImageUrl": "그레니어/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -165,6 +172,9 @@
         },
         {
           "ImageUrl": "그레니어/sp/1.webp"
+        },
+        {
+          "ImageUrl": "그레니어/3/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -197,6 +207,9 @@
         },
         {
           "ImageUrl": "그레니어/sp/1.webp"
+        },
+        {
+          "ImageUrl": "그레니어/3/2.webp"
         }
       ],
       "AttkRange": 2,

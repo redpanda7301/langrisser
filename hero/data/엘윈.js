@@ -28,6 +28,10 @@
     {
       "ImageUrl": "엘윈/6.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "엘윈/7.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "엘윈",
@@ -163,6 +167,9 @@
         },
         {
           "ImageUrl": "엘윈/6/1.webp"
+        },
+        {
+          "ImageUrl": "엘윈/7/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -207,6 +214,9 @@
         },
         {
           "ImageUrl": "엘윈/6/2.webp"
+        },
+        {
+          "ImageUrl": "엘윈/7/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -251,6 +261,9 @@
         },
         {
           "ImageUrl": "엘윈/6/3.webp"
+        },
+        {
+          "ImageUrl": "엘윈/7/3.webp"
         }
       ],
       "AttkRange": 1,

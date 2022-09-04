@@ -16,6 +16,10 @@
     {
       "ImageUrl": "로자리아/4.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "로자리아/5.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "로자리아",
@@ -115,6 +119,9 @@
         },
         {
           "ImageUrl": "로자리아/4/1.webp"
+        },
+        {
+          "ImageUrl": "로자리아/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -150,6 +157,9 @@
         },
         {
           "ImageUrl": "로자리아/4/1.webp"
+        },
+        {
+          "ImageUrl": "로자리아/5/1.webp"
         }
       ],
       "AttkRange": 1,

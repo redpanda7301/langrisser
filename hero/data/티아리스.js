@@ -24,6 +24,10 @@
     {
       "ImageUrl": "티아리스/6.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "티아리스/7.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "티아리스",
@@ -129,6 +133,9 @@
         },
         {
           "ImageUrl": "티아리스/6/1.webp"
+        },
+        {
+          "ImageUrl": "티아리스/7/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -170,6 +177,9 @@
         },
         {
           "ImageUrl": "티아리스/6/1.webp"
+        },
+        {
+          "ImageUrl": "티아리스/7/1.webp"
         }
       ],
       "AttkRange": 2,
