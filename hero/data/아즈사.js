@@ -645,7 +645,7 @@
       "Animation": "../img/Super/아즈사_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  

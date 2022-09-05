@@ -16,6 +16,10 @@
     {
       "ImageUrl": "매튜/4.webp",
       "Desc": "이벤트"
+    },
+    {
+      "ImageUrl": "매튜/sp.webp",
+      "Desc": "SP 각성"
     }
   ],
   "Name": "매튜(암살자)",
@@ -27,19 +31,19 @@
     3,
     0
   ],
-  "SP": false,
+  "SP": true,
   "Groups": [
     0,
     1
   ],
   "HP": 15,
-  "SPHP": 0,
+  "SPHP": 20,
   "Attk": 35,
-  "SPAttk": 0,
+  "SPAttk": 40,
   "Def": 30,
-  "SPDef": 0,
+  "SPDef": 25,
   "MagicDef": 15,
-  "SPMagicDef": 0,
+  "SPMagicDef": 15,
   "HowToGet": "기본지급",
   "Fetters": [
     {
@@ -82,7 +86,32 @@
       ]
     }
   ],
-  "SPTalent": null,
+  "SPTalent": [
+    {
+      "Name": "교차하는 인연",
+      "Icon": "SP_Gift_Mathew.webp",
+      "Abilities": [
+        {
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+1</font>% (최대 <font color=\"red\">5</font>%) <br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">5</font>턴"
+        },
+        {
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2</font>% (최대 <font color=\"red\">10</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">4</font>턴"
+        },
+        {
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2</font>% (최대 <font color=\"red\">10</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">4</font>턴"
+        },
+        {
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3</font>% (최대 <font color=\"red\">15</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">3</font>턴"
+        },
+        {
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4</font>% (최대 <font color=\"red\">20</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">3</font>턴"
+        },
+        {
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+5</font>% (최대 <font color=\"red\">25</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">2</font>턴"
+        }
+      ]
+    }
+  ],
   "Equip": {
     "Name": "단결의 반지(장신구)",
     "Stats": "생명 509, 공격 75",
@@ -101,7 +130,8 @@
     9,
     10,
     66,
-    80
+    80,
+    78
   ],
   "Jobs": [
     {
@@ -119,6 +149,9 @@
         },
         {
           "ImageUrl": "매튜/4/암살자.webp"
+        },
+        {
+          "ImageUrl": "매튜/sp/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -140,6 +173,44 @@
       "HeartFetterBouns2": "공격받아 전투 진입시 입히는피해 +10%"
     },
     {
+      "Name": "고독한 검의 여행자",
+      "Icon": "Icon_Occupation_InfantrymanSP.webp",
+      "SD": [
+        {
+          "ImageUrl": "매튜/1/보병.webp"
+        },
+        {
+          "ImageUrl": "매튜/2/보병.webp"
+        },
+        {
+          "ImageUrl": "매튜/3/보병.webp"
+        },
+        {
+          "ImageUrl": "매튜/4/보병.webp"
+        },
+        {
+          "ImageUrl": "매튜/sp/1.webp"
+        }
+      ],
+      "AttkRange": 1,
+      "Move": 3,
+      "MoveType": "Walk",
+      "HP": 4996,
+      "HPRate": 82,
+      "Attk": 579,
+      "AttkRate": 88,
+      "Int": 243,
+      "IntRate": 40,
+      "Def": 327,
+      "DefRate": 72,
+      "MagicDef": 293,
+      "MagicDefRate": 63,
+      "Skill": 214,
+      "SkillRate": 62,
+      "HeartFetterBouns1": "자신보다 부대 생명력 백분비가 낮은 적과 전투시<br/>전투 진입후 받는 피해량 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "자신보다 부대 생명력 백분비가 낮은 적과 전투시<br/>전투 진입후 주는 피해량 <font color=\"Red\">+10</font>%"
+    },
+    {
       "Name": "히어로",
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
@@ -154,6 +225,9 @@
         },
         {
           "ImageUrl": "매튜/4/보병.webp"
+        },
+        {
+          "ImageUrl": "매튜/sp/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -406,7 +480,178 @@
       ]
     }
   ],
-  "SPOpenConditions": null,
+  "SPOpenConditions": [
+    {
+      "Name": "개방",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/AlterEgo_LonelyBlade.webp",
+          "Amount": 1
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank8-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank7-1.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank6-1.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 미션",
+      "Materials": [],
+      "Desc": "매튜를 파티에 넣어 형귀 바란(창병) 60 이상 클리어"
+    },
+    {
+      "Name": "2단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "2단계 미션",
+      "Materials": [],
+      "Desc": "단결의 반지(장신구) 레벨 50 달성"
+    },
+    {
+      "Name": "3단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
+          "Amount": 2
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "3단계 미션",
+      "Materials": [],
+      "Desc": "매튜를 파티에 넣어 뇌룡 카르코사 60 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "고독한 검의 여행자 전직 가능, 교차하는 인연(SP 고유기), SP 일러스트 획득"
+    },
+    {
+      "Name": "4단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h1.webp",
+          "Amount": 60
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h1-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/heart/x.webp",
+          "Amount": 12
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "4단계 미션",
+      "Materials": [],
+      "Desc": "매튜를 파티에 넣어 형귀 샘슨(기병) 65 이상 클리어"
+    },
+    {
+      "Name": "5단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "5단계 미션",
+      "Materials": [],
+      "Desc": "매튜를 파티에 넣어 뇌룡 카르코사 65 이상 클리어"
+    },
+    {
+      "Name": "6단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+          "Amount": 600
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior1.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior2.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior4.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "6단계 미션",
+      "Materials": [],
+      "Desc": "매튜를 파티에 넣어 피닉스 65 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "SP 스탯, SP 스킬 2개 활성화, 사막용병 고용가능"
+    }
+  ],
   "Skills": [
     {
       "Name": "바람칼날",
@@ -591,6 +836,46 @@
       ],
       "IconImageUrl": "../img/skills/8.webp",
       "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 파공추격",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "2칸"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/매튜/1.webp",
+      "Desc": "스킬 사용 지점으로 <font color=\"blue\">텔레포트</font> 후<br/>자신 주위 <font color=\"red\">2</font>칸 범위 내에 있는 적에게 <font color=\"red\">0.33</font>배 <font color=\"blue\">범위피해</font> 및<br/><font color=\"blue\">공격 지력</font> <font color=\"red\">-10</font>%, <font color=\"blue\">강화불가</font> 부여<br/>지속 <font color=\"red\">2</font>턴<br/>동시에 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/>인접한 <font color=\"red\">1</font>칸의 적에게는 피해 <font color=\"red\">+30%",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 동료의 추억",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/매튜/2.webp",
+      "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내 아군 부대가 있을 경우 공격 <font color=\"red\">+8</font>%<br/>선공으로 전투 진입 시<br/>전투에서 준 피해량 <font color=\"red\">20</font>% 의 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
     },
