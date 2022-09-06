@@ -175,7 +175,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "메이지 : 마방+4, 지력+9",
+      "ClassTitle": "인공지능 : 마방+4, 지력+9",
       "Tiers": [
         {
           "Name": "T1",

@@ -75,7 +75,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "덧없는 달빛(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "카구야.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>전투 시작시 무작위 <font color=\"purple\">화투패</font> <font color=\"red\">2</font>장 획득<br/> <font color=\"blue\">소매속 패</font>로 얻는 <font color=\"blue\">부대 사거리 증가</font> 효과가 <b>해제 불가</b>로 변경.<br/>전장에서 사용한 <font color=\"purple\">저猪(<img src=\"../img/skills/Kaguya/0_1.webp\"/>)</font>, <font color=\"purple\">록鹿(<img src=\"../img/skills/Kaguya/0_2.webp\"/>)</font>, <font color=\"purple\">접蝶(<img src=\"../img/skills/Kaguya/0_3.webp\"/></font>) <font color=\"Red\">1</font>장 당<br/>치명타 확률 <font color=\"red\">+1</font>% (최대 <font color=\"red\">+10</font>%)"
+  },
   "Soldiers": [
     43,
     20,
