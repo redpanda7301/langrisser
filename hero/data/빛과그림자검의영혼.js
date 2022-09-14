@@ -484,8 +484,8 @@
       "Animation": null
     },
     {
-      "Name": "순검",
-      "Cost": "COST 1",
+      "Name": "예봉격파",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
