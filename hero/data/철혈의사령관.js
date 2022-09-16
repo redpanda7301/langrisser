@@ -8,6 +8,10 @@
     {
       "ImageUrl": "철혈의사령관/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "철혈의사령관/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "철혈의 사령관",
@@ -96,6 +100,9 @@
         },
         {
           "ImageUrl": "철혈의사령관/2/1.webp"
+        },
+        {
+          "ImageUrl": "철혈의사령관/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -125,6 +132,9 @@
         },
         {
           "ImageUrl": "철혈의사령관/2/1.webp"
+        },
+        {
+          "ImageUrl": "철혈의사령관/3/1.webp"
         }
       ],
       "AttkRange": 1,
