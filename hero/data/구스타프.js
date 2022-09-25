@@ -8,6 +8,10 @@
     {
       "ImageUrl": "구스타프/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "구스타프/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "구스타프",
@@ -90,7 +94,8 @@
     81,
     27,
     62,
-    87
+    87,
+    88
   ],
   "Jobs": [
     {
@@ -102,6 +107,9 @@
         },
         {
           "ImageUrl": "구스타프/2/1.webp"
+        },
+        {
+          "ImageUrl": "구스타프/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -131,6 +139,9 @@
         },
         {
           "ImageUrl": "구스타프/2/1.webp"
+        },
+        {
+          "ImageUrl": "구스타프/3/1.webp"
         }
       ],
       "AttkRange": 2,

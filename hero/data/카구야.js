@@ -590,7 +590,7 @@
       "Animation": "../img/Super/카구야_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  

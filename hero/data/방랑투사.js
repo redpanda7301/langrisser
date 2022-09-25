@@ -76,7 +76,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "방랑의 죽음(갑옷)",
+    "Stats": "생명 509,방어 59",
+    "Icon": "방랑투사.webp",
+    "Ability": "방어 <font color=\"red\">+10</font>%<br/>선공으로 전투 진입 시 부대가 받는 피해 <font color=\"red\">-30</font>%<br/>목표에게 <font color=\"purple\">복수의 사슬</font>이 있는 경우 추가 피해 <font color=\"red\">+20</font>%"
+  },
   "Soldiers": [
     25,
     28,

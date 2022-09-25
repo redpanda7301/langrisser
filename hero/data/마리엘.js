@@ -12,6 +12,10 @@
     {
       "ImageUrl": "마리엘/3.webp",
       "Desc": "형귀뽑기"
+    },
+    {
+      "ImageUrl": "마리엘/4.webp",
+      "Desc": "서밋아레나 S11 패자스킨"
     }
   ],
   "Name": "마리엘",
@@ -106,7 +110,11 @@
         },
         {
           "ImageUrl": "마리엘/3/1.webp"
+        },
+        {
+          "ImageUrl": "마리엘/4/1.webp"
         }
+        
       ],
       "AttkRange": 1,
       "Move": 3,
@@ -138,6 +146,9 @@
         },
         {
           "ImageUrl": "마리엘/3/1.webp"
+        },
+        {
+          "ImageUrl": "마리엘/4/1.webp"
         }
       ],
       "AttkRange": 1,
