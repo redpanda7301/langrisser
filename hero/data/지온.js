@@ -35,10 +35,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "시공의 균열 3-6 일반"
+      "Condition": "지온을 출전시켜 아레나 5승 달성"
     },
     {
-      "Condition": "저격엽병 전직"
+      "Condition": "지온을 출전시켜 시공의 균열 3-1[하드] 클리어"
     },
     {
       "Condition": "율리안의 도움을 받아 운명의문4"
