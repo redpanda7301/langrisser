@@ -600,7 +600,7 @@
             }
           ],
           "IconImageUrl": "../img/Super/마크렌_1.webp",
-          "Desc": "호위 무시 및 단일 개체에게 <font color=\"red\">1.4</font>피해 <br/>적이 물에 있을 경우 치명타 확률 <font color=\"red\">20</font>%<br/>전투 후 '<font color=\"blue\">물</font>'에 있는 모든 적에게 추가 공격 <font color=\"red\">1/font>1 수치 <font color=\"blue\">고정 피해 </font><br/>사용 후 해당 스킬은 <font color=\"blue\">파도의 지배자</font>로 변경<br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>"
+          "Desc": "호위 무시 및 단일 개체에게 <font color=\"red\">1.4</font>피해 <br/>적이 물에 있을 경우 치명타 확률 <font color=\"red\">20</font>%<br/>전투 후 '<font color=\"blue\">물</font>'에 있는 모든 적에게 추가 고정 피해 (공격 <font color=\"red\">1</font>배 수치)<br/>사용 후 해당 스킬은 <font color=\"blue\">파도의 지배자</font>로 변경<br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>"
         }
       ],
       "Animation": "../img/Super/마크렌_Ani.webp"
