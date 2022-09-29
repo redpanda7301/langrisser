@@ -114,7 +114,7 @@
       "Skill": 295,
       "SkillRate": 87,
       "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명이 <font color=\"Red\">100</font>%일 경우<br/>치명타 확률 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 낮은 적을 선공해 전투 진입 시 <br/>주는 피해량 <font color=\"Red\">+10</font>%"
     },
     {
       "Name": "저격 엽병",
@@ -142,8 +142,8 @@
       "MagicDefRate": 74,
       "Skill": 225,
       "SkillRate": 72,
-      "HeartFetterBouns1": "선공으로 전투 진입시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "주는 범위 피해량<font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">70</font>% 미만일 경우 <br/>전투 진입 후 받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "피격으로 전투 진입 시 <br/> 주는 피해량 <font color=\"Red\">+10</font>%"
     }
   ],
   "Materials": {

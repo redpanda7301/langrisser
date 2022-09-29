@@ -105,7 +105,7 @@
       "HPRate": 64,
       "Attk": 262,
       "AttkRate": 40,
-      "Int": 570,
+      "Int": 542,
       "IntRate": 91,
       "Def": 265,
       "DefRate": 58,
@@ -113,8 +113,8 @@
       "MagicDefRate": 78,
       "Skill": 88,
       "SkillRate": 24,
-      "HeartFetterBouns1": "",
-      "HeartFetterBouns2": ""
+      "HeartFetterBouns1": "디버프를 보유한 부대에게 공격 당해 전투 진입 시 <br/>받는 피해량 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 적을 선공으로 전투 진입 시 <br/>주는 피해량 <font color=\"Red\">+10</font>%"
     },
     {
       "Name": "사령 군주",
@@ -143,8 +143,8 @@
       "MagicDefRate": 80,
       "Skill": 115,
       "SkillRate": 37,
-      "HeartFetterBouns1": "",
-      "HeartFetterBouns2": ""
+      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "디버프를 보유한 부대와 전투 시 <br/>주는 피해량 <font color=\"Red\">+10</font>%"
     }
   ],
   "Materials": {
