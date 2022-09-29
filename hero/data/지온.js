@@ -11,8 +11,8 @@
     }
   ],
   "Name": "지온",
-  "ChName": "朱利安",
-  "EngName": "Julian",
+  "ChName": "席恩",
+  "EngName": "Zion",
   "JapName": "",
   "CV": "카지 유우키",
   "Rank": [
