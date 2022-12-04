@@ -499,7 +499,7 @@
       "Animation": null
     },
     {
-      "Name": "파사검정º앵화천승",
+      "Name": "파사검정 앵화천승",
       "Cost": "COST 3",
       "Entries": [
         {
@@ -516,7 +516,7 @@
         },
         {
           "Label": "범위",
-          "Value": "주위 2칸"
+          "Value": "2바퀴"
         }
       ],
       "IconImageUrl": "../img/Super/사쿠라.webp",

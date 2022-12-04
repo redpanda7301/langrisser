@@ -446,7 +446,7 @@
     },
     {
       "Name": "폭풍흡입",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",

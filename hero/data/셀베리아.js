@@ -434,7 +434,7 @@
     },
     {
       "Name": "통솔 명령",
-      "Cost": "COST 1",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
