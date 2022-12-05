@@ -408,7 +408,7 @@
       "Desc": "주위 <font color=\"red\">1</font>바퀴 내 모든 적군에게 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>모든 목표에게 <font color=\"blue\">무작위 디버프</font> 부여",
       "SubSkills": null,
       "Animation": null
-    },    
+    },
     {
       "Name": "역경",
       "Cost": "COST 1",

@@ -174,7 +174,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "사관 : 공격+9, 기술+4",
+      "ClassTitle": "사관 : 공격+5, 방어+6",
       "Tiers": [
         {
           "Name": "T1",
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "ClassTitle": "소드맨 : 생명+80, 기술+5",
+      "ClassTitle": "검사 : 생명+80, 기술+5",
       "Tiers": [
         {
           "Name": "T1",
@@ -220,79 +220,7 @@
           ]
         }
       ]
-    },
-    {
-      "ClassTitle": "선령의 신도 : 생명+48, 기술+8",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank2-3",
-            "rank1-3",
-            "rank1-1"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank3-3",
-            "rank3-2",
-            "rank2-3",
-            "rank2-2"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank4-6",
-            "rank4-2",
-            "rank3-3",
-            "rank3-2"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "영매사 : 생명+90, 공격+25, 마방+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank5-3",
-            "rank5-2",
-            "rank4-6",
-            "rank4-4"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank6-5",
-            "rank6-3",
-            "rank5-3",
-            "rank5-2"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank7-4",
-            "rank7-7",
-            "rank6-5",
-            "rank6-3"
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-            "rank8-3",
-            "rank8-2",
-            "rank7-4",
-            "rank7-3"
-          ]
-        }
-      ]
-    },
+    },    
     {
       "ClassTitle": "투사 : 생명+48, 공격+12",
       "Tiers": [
@@ -361,6 +289,78 @@
             "rank8-1",
             "rank7-1",
             "rank7-7"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "선령의 신도 : 생명+48, 마방+8",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank2-3",
+            "rank1-3",
+            "rank1-1"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank3-3",
+            "rank3-2",
+            "rank2-3",
+            "rank2-2"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank4-6",
+            "rank4-2",
+            "rank3-3",
+            "rank3-2"
+          ]
+        }
+      ]
+    },
+    {
+      "ClassTitle": "영매사 : 공격+25, 방어+10, 마방+10",
+      "Tiers": [
+        {
+          "Name": "T1",
+          "Materials": [
+            "rank5-3",
+            "rank5-2",
+            "rank4-6",
+            "rank4-4"
+          ]
+        },
+        {
+          "Name": "T2",
+          "Materials": [
+            "rank6-5",
+            "rank6-3",
+            "rank5-3",
+            "rank5-2"
+          ]
+        },
+        {
+          "Name": "T3",
+          "Materials": [
+            "rank7-4",
+            "rank7-7",
+            "rank6-5",
+            "rank6-3"
+          ]
+        },
+        {
+          "Name": "T4",
+          "Materials": [
+            "rank8-3",
+            "rank8-2",
+            "rank7-4",
+            "rank7-3"
           ]
         }
       ]
@@ -574,7 +574,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/폴리알.webp",
-      "Desc": "공격 <font color=\"Red\">+20</font>% 효과 획득<br/>지속 <font color=\"Red\">2</font>턴<br/>종점을 향해 돌격해 <font color=\"Red\">3</font>줄 직선 상에 있는 적에게 <font color=\"Red\">0.1</font>배 피해와 '<font color=\"blue\">위치 이동</font> 효과 부여<br/>(멈출 때까지 적을 밀침)<br/><font color=\"blue\">위치 이동</font> : 지나가는 경로에 있는 모든 적이 부여한 <font color =\"blue\">지형 효과 제거</font> 및 '<font color =\"blue\">선령의 대로</font>' 효과 부여<br/><font color =\"blue\">선령의 대로</font> : 비병이 아닌 아군이 통과 시 <font color =\"blue\">이동력 감소 면역</font> 기회 <font color =\"red\">1</font>칸 부여<br/>행동 종료 시 자신 주위 <font color=\"Red\">2</font>칸 범위 안 적에게 <font color=\"Red\">0.35</font>배 피해 및 랜덤한 적 <font color=\"Red\">1</font> ~ <font color=\"Red\">3</font>명을 <font color=\"blue\">기절</font>시킴<br/>지속 <font color=\"Red\">1</font>턴<br/><font color=\"Red\">4</font>턴마다 스킬의 사거리 <font color=\"Red\">-1</font><br/>최대 <font color=\"Red\">-3</font><br/>해당 효과는 아레나에서만 발동",
+      "Desc": "공격 <font color=\"Red\">+20</font>% 효과 획득<br/>지속 <font color=\"Red\">2</font>턴<br/>종점을 향해 돌격해 <font color=\"Red\">3</font>줄 직선 상에 있는 적에게 <font color=\"Red\">0.1</font>배 피해와 '<font color=\"blue\">위치 이동</font> 효과 부여<br/>(멈출 때까지 적을 밀침)<br/><font color=\"blue\">위치 이동</font> : 지나가는 경로에 있는 모든 적이 부여한 <font color =\"blue\">지형 효과 제거</font> 및 '<font color =\"blue\">선령의 대로</font>' 효과 부여<br/><font color =\"blue\">선령의 대로</font> : 비병이 아닌 아군이 통과 시 <font color =\"blue\">이동력 감소 면역</font> 기회 <font color =\"red\">1</font>칸 부여<br/>행동 종료 시 자신 주위 <font color=\"Red\">2</font>칸 범위 안 적에게 <font color=\"Red\">0.35</font>배 피해 및 랜덤한 적 <font color=\"Red\">1</font> ~ <font color=\"Red\">3</font>명을 <font color=\"blue\">기절</font>시킴<br/>지속 <font color=\"Red\">1</font>턴<br/><font color=\"Red\">4</font>턴마다 스킬의 사거리 <font color=\"Red\">-1</font>(최대 <font color=\"Red\">-3</font>)<br/>해당 효과는 아레나에서만 발동",
       "SubSkills": null,
       "Animation": "../img/Super/폴리알_Ani.webp"
     }

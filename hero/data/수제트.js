@@ -8,6 +8,10 @@
     {
       "ImageUrl": "수제트/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "수제트/3.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "수제트",
@@ -102,6 +106,9 @@
         },
         {
           "ImageUrl": "수제트/2/1.webp"
+        },
+        {
+          "ImageUrl": "수제트/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -131,6 +138,9 @@
         },
         {
           "ImageUrl": "수제트/2/2.webp"
+        },
+        {
+          "ImageUrl": "수제트/3/2.webp"
         }
       ],
       "AttkRange": 2,

@@ -399,7 +399,6 @@
       "SubSkills": null,
       "Animation": null
     },
-
     {
       "Name": "경계",
       "Cost": "COST 1",
@@ -410,7 +409,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
-      "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
+      "Desc": "공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12</font>%",
       "SubSkills": null,
       "Animation": null
     },

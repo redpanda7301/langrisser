@@ -47,11 +47,11 @@
       "Condition": "아레스의 도움 받아 유대의문5 클리어"
     }
   ],
-  "HeartFetter": "생명+300, 방어+20, 마방+50",
+  "HeartFetter": "생명+450, 방어+20, 마방+70",
   "Talent": [
     {
-      "Name": "천재 군사",
-      "Icon": "66.webp",
+      "Name": "빛의 계율",
+      "Icon": "Gift_Lugner.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -85,11 +85,10 @@
     2,
     90,
     91
-
   ],
   "Jobs": [
     {
-      "Name": "세인트",
+      "Name": "성자",
       "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
@@ -192,7 +191,7 @@
       ]
     },
     {
-      "ClassTitle": "서머너 : 생명+80, 공격+7",
+      "ClassTitle": "서머너 : 생명+80, 방어+5",
       "Tiers": [
         {
           "Name": "T1",
@@ -223,7 +222,7 @@
       ]
     },
     {
-      "ClassTitle": "주교 : 마방+8, 지력+7",
+      "ClassTitle": "주교 : 생명+48, 마방+8",
       "Tiers": [
         {
           "Name": "T1",
@@ -295,7 +294,7 @@
       ]
     },
     {
-      "ClassTitle": "지사 : 생명+48, 마방+8",
+      "ClassTitle": "지사 : 지력+7, 마방+8",
       "Tiers": [
         {
           "Name": "T1",
@@ -326,7 +325,7 @@
       ]
     },
     {
-      "ClassTitle": "은사 : 생명+90, 방어+10, 지력+25",
+      "ClassTitle": "은사 : 생명+150, 방어+10, 마방+10",
       "Tiers": [
         {
           "Name": "T1",
@@ -566,7 +565,7 @@
       "Animation": null
     },
     {
-      "Name": "대담한 책략",
+      "Name": "신벌 사면",
       "Cost": "COST 3",
       "Entries": [
         {
