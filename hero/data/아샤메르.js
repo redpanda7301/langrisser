@@ -75,7 +75,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "고난의 별(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "아샤메르.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"purple\">댄스 파트너</font> 보유 시, 스킬 피해 <font color=\"red\">+10</font>%<br/>자신과 <font color=\"purple\">댄스 파트너</font> 행동 종료 시<br/><fonmt color=\"blue\">댄스 스탭</font> 유형에 따라 면역 효과를 받는다.<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">밀착</font> : 고정피해<br/><font color=\"blue\">핸드 인 핸드</font> : 침묵<br/><font color=\"blue\">시리얼</font> : 이동력 저하"
+  },
   "Soldiers": [
     43,
     13,

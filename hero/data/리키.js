@@ -75,7 +75,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "진짜 영웅(투구)",
+    "Stats": "생명 583,마방 48",
+    "Icon": "리키.webp",
+    "Ability": "생명,방어 <font color=\"Red\">+5</font>%<br/>방어 방향의 적과 교전 시 영웅 피해 <font color=\"Red\">+10</font>%<br/>전장에 셀파닐 아군이 있을 경우 둘의 스킬 피해량 <font color=\"Red\">+5</font>%"
+  },
   "Soldiers": [
     31,
     35,
