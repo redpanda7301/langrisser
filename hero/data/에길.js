@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Equip": {
     "Name": "은빛 바람의 결정(투구)",
-    "Stats": "생명 583,마방 48",
+    "Stats": "생명 437,마방 59",
     "Icon": "에길.webp",
     "Ability": "방어 <font color=\"Red\">+10</font>%<br/>전투 시작시 <font color=\"purple\">강습 모드</font> 획득<br/><font color=\"purple\">강습 모드</font> 상태에서 이동하지 않고 선공 시<br/>전투 후 <font color=\"purple\">강습 모드</font> 재획득."
   },

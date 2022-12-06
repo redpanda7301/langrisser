@@ -584,7 +584,7 @@
       "Animation": "../img/Super/캐롤리안_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": false,
   "Performance": false,
   "Performance2": null,  
