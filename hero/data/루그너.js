@@ -369,6 +369,39 @@
   "SPOpenConditions": null,
   "Skills": [
     {
+      "Name": "계율",
+      "Cost": "-",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "고유기"
+        }
+      ],
+      "IconImageUrl": "../img/ability/Gift_Lugner.webp",
+      "Desc": "턴 종료시 선택하여 사용한다.",
+      "SubSkills": [
+        {
+          "Name": "<b><font color=\"purple\">망행</font></b>",
+          "Entries": null,
+          "IconImageUrl": "../img/skills/Lugner/0_1.webp",
+          "Desc": "적에게 첫 번째 계율인 '<font color=\"purple\">망행</font>'을 선포한다 <br/><font color=\"purple\">망행</font> : <font color=\"red\">3</font>칸 이상 이동후 행동 종료 시 '<font color=\"blue\">죄업</font>' <font color=\"red\">2</font>스택 획득"
+        },
+        {
+          "Name": "<b><font color=\"blue\">악담</font></b>",
+          "Entries": null,
+          "IconImageUrl": "../img/skills/Lugner/0_2.webp",
+          "Desc": "적에게 두 번째 계율인 '<font color=\"blue\">악담</font>'을 선포한다.<br/><font color=\"blue\">악담</font> : <font color=\"blue\">비살상 스킬</font> 사용 후, '<font color=\"blue\">죄업</font>' <font color=\"red\">2</font>스택 획득"
+        },
+        {
+          "Name": "<b><font color=\"red\">참회</font></b>",
+          "Entries": null,
+          "IconImageUrl": "../img/skills/Lugner/0_3.webp",
+          "Desc": "적에게 세 번째 계율인 '<font color=\"red\">참회</font>'을 선포한다.<br/><font color=\"red\">참회</font> : <b>피해를 입히기 전</b>, '<font color=\"blue\">죄업</font>' <font color=\"red\">2</font>스택 획득"
+        },
+      ],
+      "Animation": null
+    },
+    {
       "Name": "독신",
       "Cost": "COST 1",
       "Entries": [
