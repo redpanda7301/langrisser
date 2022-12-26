@@ -47,10 +47,10 @@
       "Condition": "팟시르와 함께 운명의문5"
     }
   ],
-  "HeartFetter": "",
+  "HeartFetter": "생명+750, 방어+50, 마방+40",
   "Talent": [
     {
-      "Name": "복수의 용의 각인",
+      "Name": "선조의 비호",
       "Icon": "Gift_Polyal.webp",
       "Abilities": [
         {
@@ -99,20 +99,20 @@
         }
       ],
       "AttkRange": 1,
-      "Move": 4,
+      "Move": 3,
       "MoveType": "Walk",
-      "HP": 4444,
-      "HPRate": 74,
-      "Attk": 607,
-      "AttkRate": 93,
-      "Int": 233,
-      "IntRate": 39,
-      "Def": 326,
-      "DefRate": 72,
-      "MagicDef": 301,
+      "HP": 4555,
+      "HPRate": 76,
+      "Attk": 583,
+      "AttkRate": 91,
+      "Int": 256,
+      "IntRate": 43,
+      "Def": 362,
+      "DefRate": 81,
+      "MagicDef": 297,
       "MagicDefRate": 67,
-      "Skill": 128,
-      "SkillRate": 37,
+      "Skill": 143,
+      "SkillRate": 41,
       "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80</font>% 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70</font>% 미만 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     },
@@ -130,20 +130,20 @@
       "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
-      "HP": 4555,
-      "HPRate": 78,
+      "HP": 4871,
+      "HPRate": 81,
       "Attk": 583,
       "AttkRate": 89,
       "Int": 233,
       "IntRate": 39,
-      "Def": 362,
-      "DefRate": 81,
+      "Def": 242,
+      "DefRate": 65,
       "MagicDef": 297,
       "MagicDefRate": 61,
-      "Skill": 143,
-      "SkillRate": 43,
+      "Skill": 159,
+      "SkillRate": 47,
       "HeartFetterBouns1": "생명 백분비가 자신 부대보다 높은 부대에게 피격 시<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 부대를 선공 시<br/> 전투 진입 후 피해 font color=\"Red\">+10</font>%"
+      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 부대를 선공 시<br/> 전투 진입 후 피해 <font color=\"Red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -429,7 +429,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/skills/Polyal/1.webp",
+      "IconImageUrl": "../img/skills/Polyal/2.webp",
       "Desc": "<font color=\"red\">3</font>줄 직선상 모든 적에게 <font color=\"red\">0.25</font>배 피해 및 <font color=\"blue\">위치 이동</font> (<font color=\"red\">2</font>칸 밀침)",
       "SubSkills": null,
       "Animation": null
@@ -455,14 +455,14 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Polyal/2.webp",
+      "IconImageUrl": "../img/skills/Polyal/1.webp",
       "Desc": "범위 내 적에게 <font color=\"red\">0.33</font>배 피해 명중한 적에게 <font color =\"blue\">무작위 장비 효과 무효화</font> (최대 생명 제외) 효과 부여<br/>지속 <font color=\"red\">2</font>턴<br/>NPC 명중 시 해당 효과는 <font color=\"blue\">무작위 스탯 저하</font> <font color=\"red\">25</font>%로 대체<br/>지속 <font color=\"red\">2</font>턴",
       "SubSkills": null,
       "Animation": null
     },
     {
       "Name": "각력",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",

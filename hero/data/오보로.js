@@ -8,6 +8,10 @@
     {
       "ImageUrl": "오보로/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "오보로/3.webp",
+      "Desc": "형귀 스킨"
     }
   ],
   "Name": "오보로",
@@ -96,6 +100,9 @@
         },
         {
           "ImageUrl": "오보로/2/1.webp"
+        },
+        {
+          "ImageUrl": "오보로/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -125,6 +132,9 @@
         },
         {
           "ImageUrl": "오보로/2/1.webp"
+        },
+        {
+          "ImageUrl": "오보로/3/1.webp"
         }
       ],
       "AttkRange": 1,

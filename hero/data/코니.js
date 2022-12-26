@@ -26,11 +26,11 @@
   ],
   "HP": 20,
   "SPHP": 0,
-  "Attk": 40,
+  "Attk": 30,
   "SPAttk": 0,
-  "Def": 15,
+  "Def": 30,
   "SPDef": 0,
-  "MagicDef": 25,
+  "MagicDef": 20,
   "SPMagicDef": 0,
   "HowToGet": "영웅 소환",
   "Fetters": [
@@ -417,7 +417,7 @@
           "Desc": "사용 후 자신에게 '생명 <font color=\"red\">100</font>%일 경우 <font color=\"blue\">적의 일반 공격 및 스킬 타게팅 대상이 되지 않음</font><br/>행동 종료 시 자신 주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/>지속 <font color=\"red\">2</font>턴<br/>",
         },
         {
-          "Name": "<b><font color=\"purple\">펄스 사격 2형 (타입 2)</font></b>",
+          "Name": "<b><font color=\"purple\">펄스 사격 2형</font></b>",
           "Entries": [
             {
               "Label": "유형",
@@ -471,7 +471,7 @@
         },
         {
           "Label": "사거리",
-          "Value": "자신"
+          "Value": "맵전체"
         },
         {
           "Label": "범위",
@@ -564,7 +564,7 @@
       "Animation": null
     },
     {
-      "Name": "펄스 사격 1형 (타입 1)",
+      "Name": "펄스 사격 1형",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -577,7 +577,7 @@
         },
         {
           "Label": "사거리",
-          "Value": "2칸"
+          "Value": "4칸"
         },
         {
           "Label": "범위",

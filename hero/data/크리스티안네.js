@@ -12,6 +12,10 @@
     {
       "ImageUrl": "크리스티안네/3.webp",
       "Desc": "한정 판매"
+    },
+    {
+      "ImageUrl": "크리스티안네/4.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "크리스티안네",
@@ -108,6 +112,9 @@
         },
         {
           "ImageUrl": "크리스티안네/3/1.webp"
+        },
+        {
+          "ImageUrl": "크리스티안네/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -140,6 +147,9 @@
         },
         {
           "ImageUrl": "크리스티안네/3/2.webp"
+        },
+        {
+          "ImageUrl": "크리스티안네/4/2.webp"
         }
       ],
       "AttkRange": 1,

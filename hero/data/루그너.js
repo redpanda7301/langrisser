@@ -24,13 +24,13 @@
     6,
     11
   ],
-  "HP": 40,
+  "HP": 15,
   "SPHP": 0,
   "Attk": 15,
   "SPAttk": 0,
-  "Def": 25,
+  "Def": 30,
   "SPDef": 0,
-  "MagicDef": 35,
+  "MagicDef": 40,
   "SPMagicDef": 0,
   "HowToGet": "영웅 소환",
   "Fetters": [
@@ -132,16 +132,16 @@
       "MoveType": "Walk",
       "HP": 3633,
       "HPRate": 64,
-      "Attk": 327,
-      "AttkRate": 49,
+      "Attk": 300,
+      "AttkRate": 43,
       "Int": 482,
       "IntRate": 81,
       "Def": 248,
       "DefRate": 61,
       "MagicDef": 357,
       "MagicDefRate": 84,
-      "Skill": 96,
-      "SkillRate": 31,
+      "Skill": 111,
+      "SkillRate": 37,
       "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대의 공격을 받아 전투 진입 시<br/>받는 피해 <font color=\"Red\">-10</font>%",
       "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시<br/>주는 피해 <font color=\"Red\">+10</font>%"
     }
@@ -191,36 +191,36 @@
       ]
     },
     {
-      "ClassTitle": "서머너 : 생명+80, 방어+5",
+      "ClassTitle": "지사 : 지력+7, 마방+8",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
-            "rank2-2",
-            "rank1-2",
-            "rank1-1"
+            "rank2-5",
+            "rank1-5",
+            "rank1-4"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank3-6",
-            "rank3-1",
-            "rank2-2",
-            "rank2-1"
+            "rank3-4",
+            "rank3-5",
+            "rank2-5",
+            "rank2-4"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank4-2",
-            "rank4-6",
-            "rank3-6",
-            "rank3-1"
+            "rank4-5",
+            "rank4-4",
+            "rank3-4",
+            "rank3-5"
           ]
         }
       ]
-    },
+    },    
     {
       "ClassTitle": "주교 : 생명+48, 마방+8",
       "Tiers": [
@@ -294,32 +294,32 @@
       ]
     },
     {
-      "ClassTitle": "지사 : 지력+7, 마방+8",
+      "ClassTitle": "서머너 : 생명+80, 방어+5",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
-            "rank2-5",
-            "rank1-5",
-            "rank1-4"
+            "rank2-2",
+            "rank1-2",
+            "rank1-1"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank3-4",
-            "rank3-5",
-            "rank2-5",
-            "rank2-4"
+            "rank3-6",
+            "rank3-1",
+            "rank2-2",
+            "rank2-1"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank4-5",
-            "rank4-4",
-            "rank3-4",
-            "rank3-5"
+            "rank4-2",
+            "rank4-6",
+            "rank3-6",
+            "rank3-1"
           ]
         }
       ]
@@ -370,7 +370,7 @@
   "Skills": [
     {
       "Name": "독신",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -533,7 +533,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Lugner/1.webp",
+      "IconImageUrl": "../img/skills/Lugner/2.webp",
       "Desc": "적 한 명을 선택해 '<font color=\"blue\">징계</font>' 효과를 부여<br/><font color=\"blue\">징계</font> : 모든 계율 제약 부여<br/><font color=\"purple\">죄업</font> <font color=\"red\">4</font>스택 이상일 경우 행동 종료 시 <font color=\"blue\">기절</font><br/>지속 <font color=\"red\">1</font>턴 및 <font color=\"blue\">징계</font> 효과 상실<br/><font color=\"blue\">징계</font> 지속 <font color=\"red\">2</font>턴<br/>해제 불가<br/>자신이 행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 안 모든 아군에게 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">회복</font>",
       "SubSkills": null,
       "Animation": null

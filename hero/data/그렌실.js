@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+12</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>턴)<br/>자신의 최대 생명 <font color=\"red\">12</font>% 수치만큼 방어력 증가<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">2</font>"
+          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+12</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>턴)<br/>자신의 최대 생명 <font color=\"red\">12</font>% 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">2</font>"
         },
         {
-          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+16</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>턴)<br/>자신의 최대 생명 <font color=\"red\">16</font>% 수치만큼 방어력 증가<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">2</font>"
+          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+16</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>턴)<br/>자신의 최대 생명 <font color=\"red\">16</font>% 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">2</font>"
         },
         {
-          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+20</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>턴)<br/>자신의 최대 생명 <font color=\"red\">20</font>% 수치만큼 방어력 증가<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">1</font>"
+          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+20</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>턴)<br/>자신의 최대 생명 <font color=\"red\">20</font>% 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">1</font>"
         },
         {
-          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+25</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>턴)<br/>자신의 최대 생명 <font color=\"red\">25</font>% 수치만큼 방어력 증가<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">1</font>"
+          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+25</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>턴)<br/>자신의 최대 생명 <font color=\"red\">25</font>% 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">1</font>"
         }
       ]
     }
@@ -135,8 +135,8 @@
       "HPRate": 81,
       "Attk": 603,
       "AttkRate": 91,
-      "Int": 258,
-      "IntRate": 42,
+      "Int": 235,
+      "IntRate": 38,
       "Def": 339,
       "DefRate": 81,
       "MagicDef": 301,
@@ -405,7 +405,7 @@
       "Animation": null
     },
     {
-      "Name": "혹한의 방패",
+      "Name": "엄습하는 서리",
       "Cost": "COST 2",
       "Entries": [
         {
