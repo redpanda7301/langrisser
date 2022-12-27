@@ -409,7 +409,7 @@
       "Animation": null
     },
     {
-      "Name": "기술 지휘",
+      "Name": "전술 지휘",
       "Cost": "COST 2",
       "Entries": [
         {
