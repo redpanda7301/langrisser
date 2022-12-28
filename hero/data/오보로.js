@@ -80,10 +80,10 @@
   ],
   "SPTalent": null,
   "Equip": {
-    "Name": "성간함의 결의(투구)",
+    "Name": "영식법상(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "달의집정관.webp",
-    "Ability": "생명 <font color=\"red\">+5</font>%,마방 <font color=\"red\">+5</font>%<br/><font color=\"blue\">재행동</font> 효과 발동시, 다른 <font color=\"blue\">버프</font> 지속시간을 소모하지 않음.<br/><b>피해를 입히지 않고</b> <font color=\"blue\">물</font> 속에서 행동 종료시 <br/> 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>"
+    "Icon": "오보로.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"blue\">정수 축적</font> 사용 시<br/>자신이 <font color=\"blue\">초절강화 특수 효과</font>를 보유한 상태라면 즉시 <font color=\"blue\">용의 위엄</font> <font color=\"red\">1</font>개 획득<br/>선공으로 전투 진입 시 <font color=\"blue\">받는 피해</font> 및 <font color=\"green\">반사 피해</fopnt> <font color=\"red\">-30</font>%"
   },
   "Soldiers": [
     47,
