@@ -92,7 +92,8 @@
     74,
     57,
     68,
-    92
+    92,
+    94
   ],
   "Jobs": [
     {
@@ -549,7 +550,7 @@
       "Animation": "../img/Super/방랑투사_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance":null,
   "Performance2": null,  

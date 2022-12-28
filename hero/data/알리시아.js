@@ -412,7 +412,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%<br/><fo턴 color=\"red\">1</fo턴 지속.",
+      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },

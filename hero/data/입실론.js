@@ -8,6 +8,10 @@
     {
       "ImageUrl": "입실론/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "입실론/3.webp",
+      "Desc": "서밋아레나 S13 패자스킨"
     }
   ],
   "Name": "입실론",
@@ -100,10 +104,12 @@
         {
           "ImageUrl": "입실론/1/1.webp"
         },
-		{
+		    {
           "ImageUrl": "입실론/2/1.webp"
+        },
+		    {
+          "ImageUrl": "입실론/3/1.webp"
         }
-		
       ],
       "AttkRange": 1,
       "Move": 3,
@@ -130,8 +136,11 @@
         {
           "ImageUrl": "입실론/1/2.webp"
         },
-		{
+		    {
           "ImageUrl": "입실론/2/2.webp"
+        },
+		    {
+          "ImageUrl": "입실론/3/1.webp"
         }
       ],
       "AttkRange": 1,

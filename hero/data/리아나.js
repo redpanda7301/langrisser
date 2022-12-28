@@ -91,7 +91,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "티없는 찬양(갑옷)",
+    "Stats": "생명 583, 방어 54",
+    "Icon": "리아나.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"blue\">재행동</font> 사용 시 대상에게 <font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>% 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>소환하는 <font color=\"blue\">천공사수</font> 스탯 상승 및 <font color=\"blue\">홀리 힐</font> 사용 가능. "
+  },
   "Soldiers": [
     0,
     2,

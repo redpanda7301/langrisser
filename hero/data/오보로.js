@@ -79,7 +79,12 @@
     }
   ],
   "SPTalent": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "성간함의 결의(투구)",
+    "Stats": "생명 437,마방 59",
+    "Icon": "달의집정관.webp",
+    "Ability": "생명 <font color=\"red\">+5</font>%,마방 <font color=\"red\">+5</font>%<br/><font color=\"blue\">재행동</font> 효과 발동시, 다른 <font color=\"blue\">버프</font> 지속시간을 소모하지 않음.<br/><b>피해를 입히지 않고</b> <font color=\"blue\">물</font> 속에서 행동 종료시 <br/> 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>"
+  },
   "Soldiers": [
     47,
     48,
