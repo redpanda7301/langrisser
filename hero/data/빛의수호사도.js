@@ -393,7 +393,7 @@
     },
     {
       "Name": "유광",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
