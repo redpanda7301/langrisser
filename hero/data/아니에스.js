@@ -366,7 +366,7 @@
     },
     {
       "Name": "그로우 해머",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
