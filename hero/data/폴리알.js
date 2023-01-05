@@ -137,10 +137,10 @@
       "AttkRate": 89,
       "Int": 233,
       "IntRate": 39,
-      "Def": 242,
-      "DefRate": 65,
-      "MagicDef": 297,
-      "MagicDefRate": 61,
+      "Def": 362,
+      "DefRate": 81,
+      "MagicDef": 242,
+      "MagicDefRate": 54,
       "Skill": 159,
       "SkillRate": 47,
       "HeartFetterBouns1": "생명 백분비가 자신 부대보다 높은 부대에게 피격 시<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
@@ -580,7 +580,7 @@
       "Animation": "../img/Super/폴리알_Ani.webp"
     }
   ],
-  "Propose": true,
+  "Propose": false,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  
