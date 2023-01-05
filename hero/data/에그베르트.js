@@ -8,6 +8,10 @@
     {
       "ImageUrl": "에그베르트/2.webp",
       "Desc": "이벤트"
+    },
+    {
+      "ImageUrl": "에그베르트/3.webp",
+      "Desc": "서밋아레나 S13 골드스킨 "
     }
   ],
   "Name": "에그베르트",
@@ -75,6 +79,10 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "칠흑의 마도",
+    "Stats":"지력 <font color=\"red\">+5</font>%<br/>적에게 피해를 준 뒤 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">고정피해</font><br/>피해량은 지력 <font color=\"red\">1</font>배"
+  },
   "Equip": {
     "Name": "플레임 코트(갑옷)",
     "Stats": "생명 583, 방어 54",
@@ -103,6 +111,9 @@
         },
         {
           "ImageUrl": "에그베르트/2/1.webp"
+        },
+        {
+          "ImageUrl": "에그베르트/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -132,6 +143,9 @@
         },
         {
           "ImageUrl": "에그베르트/2/1.webp"
+        },
+        {
+          "ImageUrl": "에그베르트/3/1.webp"
         }
       ],
       "AttkRange": 2,

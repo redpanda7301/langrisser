@@ -75,6 +75,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "위대한 왕의 증표(투구)",
     "Stats": "생명 437,마방 59",

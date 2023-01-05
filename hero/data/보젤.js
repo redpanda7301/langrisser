@@ -86,6 +86,10 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "혼돈의 침식",
+    "Stats":"방어, 마방 <font color=\"red\">+5</font>%<br/><font color=\"red\">2</font>개 이상의 <font color=\"blue\">디버프</font>를 가진 적과 교전 시 방어 마방 추가 <font color=\"red\">+10</font>%"
+  },
   "Equip": {
     "Name": "카오스의 축복(갑옷)",
     "Stats": "생명 583, 방어 54",

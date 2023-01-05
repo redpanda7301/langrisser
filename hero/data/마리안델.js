@@ -75,6 +75,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "성스러운 나무의 미소",
     "Stats": "생명 364,마방 65",

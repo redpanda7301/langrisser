@@ -83,6 +83,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "성광의 베일(갑옷)",
     "Stats": "생명 583, 방어 54",

@@ -102,6 +102,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "고대 성왕의 왕관(투구)",
     "Stats": "생명 583,마방 48",

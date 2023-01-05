@@ -78,6 +78,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "기동폭쇄검(무기)",
     "Stats": "생명 437,공격 107",

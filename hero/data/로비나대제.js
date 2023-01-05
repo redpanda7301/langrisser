@@ -79,6 +79,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "통솔의 검(검)",
     "Stats": "생명 437, 공격 107",

@@ -90,6 +90,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "청룡의 갑옷(갑옷)",
     "Stats": "생명 437,방어 65",

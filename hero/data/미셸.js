@@ -74,6 +74,7 @@
     }
   ],
   "SPTalent":null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "마도 과학 무장(무기)",
     "Stats": "생명 364, 공격 118",

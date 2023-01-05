@@ -78,6 +78,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "크림조 아머(갑옷)",
     "Stats": "생명 437,방어 65",

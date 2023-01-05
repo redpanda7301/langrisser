@@ -109,6 +109,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "황금 사자(투구)",
     "Stats": "생명 583,마방 48",

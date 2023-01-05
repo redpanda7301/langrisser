@@ -79,6 +79,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "검은 서광(무기)",
     "Stats": "공격 107,지력 107",

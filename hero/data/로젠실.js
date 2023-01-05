@@ -83,6 +83,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": null,
   "Soldiers": [
     43,

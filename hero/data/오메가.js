@@ -78,6 +78,10 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "환영 유성",
+    "Stats": "기술 <font color=\"red\">+10</font>%<br/><font color=\"blue\">스킬</font>을 사용해 전투 진입 시<br/><font color=\"blue\">병사 사거리</font> <font color=\"red\">+1</font>, <font color=\"blue\">영웅이 주는 피해량</font> <font color=\"red\">+10</font>%"
+  },
   "Equip": {
     "Name": "아집(투구)",
     "Stats": "생명 364,마방 65",

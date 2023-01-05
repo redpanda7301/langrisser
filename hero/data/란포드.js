@@ -82,6 +82,10 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "지휘관의 위엄",
+    "Stats": " 고유 스킬 지휘 범위 안에 있는 아군 치명타 피해 <font color=\"red\">+10</font>%<br/>선공으로 전투 진입해서 <font color=\"blue\">치명타</font> 발동 후 피해량 <font color=\"red\">20</font>% 수치 <font color=\"green\">생명 회복</font>"
+  },
   "Equip": {
     "Name": "란포드의 최종 선택(투구)",
     "Stats": "생명 583,마방 48",

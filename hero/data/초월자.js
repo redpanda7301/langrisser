@@ -79,6 +79,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "끝없는 순환(투구)",
     "Stats": "생명 364,마방 65",

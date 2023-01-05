@@ -78,6 +78,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "조롱꾼의 웃음(투구)",
     "Stats": "생명 364,마방 65",

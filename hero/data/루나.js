@@ -91,6 +91,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "바람의 깃털관(투구)",
     "Stats": "생명 437,마방 59",

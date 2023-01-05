@@ -63,26 +63,31 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 &#39;이동력&#39; <font color=\"red\">+1</font> <font color=\"red\">1</font>턴 지속. <br/>동시에 피해를 입힌 적군에게 [용인]부여:<br/>레나타의 공격을 받을시 &#39;호위를 받을수없음&#39; &#39;받는피해 <font color=\"red\">+20%</font>&#39;<br/>&#39;재이동불가&#39; &#39;부대의 패시브 스킬을 무효화&#39; <font color=\"red\">2</font>턴 지속"
+          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+1</font><br/>지속 <font color=\"red\">1</font>턴 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+20</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>턴"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 &#39;이동력&#39; <font color=\"red\">+1</font> <font color=\"red\">1</font>턴 지속. <br/>동시에 피해를 입힌 적군에게 [용인]부여:<br/>레나타의 공격을 받을시 &#39;호위를 받을수없음&#39; &#39;받는피해 <font color=\"red\">+25%</font>&#39;<br/>&#39;재이동불가&#39; &#39;부대의 패시브 스킬을 무효화&#39; <font color=\"red\">2</font>턴 지속"
+          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+1</font><br/>지속 <font color=\"red\">1</font>턴 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+25</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>턴"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 &#39;이동력&#39; <font color=\"red\">+1</font> <font color=\"red\">1</font>턴 지속. <br/>동시에 피해를 입힌 적군에게 [용인]부여:<br/>레나타의 공격을 받을시 &#39;호위를 받을수없음&#39; &#39;받는피해 <font color=\"red\">+30%</font>&#39;<br/>&#39;재이동불가&#39; &#39;부대의 패시브 스킬을 무효화&#39; <font color=\"red\">2</font>턴 지속"
+          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+1</font><br/>지속 <font color=\"red\">1</font>턴 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+30</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>턴"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 &#39;이동력&#39; <font color=\"red\">+2</font> <font color=\"red\">1</font>턴 지속. <br/>동시에 피해를 입힌 적군에게 [용인]부여:<br/>레나타의 공격을 받을시 &#39;호위를 받을수없음&#39; &#39;받는피해 <font color=\"red\">+40%</font>&#39;<br/>&#39;재이동불가&#39; &#39;부대의 패시브 스킬을 무효화&#39; <font color=\"red\">2</font>턴 지속"
+          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+2</font><br/>지속 <font color=\"red\">1</font>턴 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+40</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>턴"
+
         }
       ]
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "거룡의 응시",
+    "Stats": "공격 <font color=\"red\">+5</font>%<br/>선공으로 전투 진입 전 목표에게 '<font color=\"purple\">용인</font>' 부여<br/>쿨타임 <font color=\"red\">1</font>턴"
+  },
   "Equip": {
     "Name": "용을 다스리는 관(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "레나타.webp",
-    "Ability": "방어 +(<font color=\"red\">2,4,6,8,10</font>)%,<br/>적에게 부여하는 디버프 효과 지속 시간 <font color=\"red\">+1</font>, <br/>자신의 고유 스킬 발동 시 자신에게 '바람 호위' 효과 부여 및 <br/>'공격 지력 저하' '침묵' 면역, 지속 <font color=\"red\">2</font>행동, <br/>'메테오 스트라이크' 초절을 받을 수 있음"
+    "Ability": "방어 <font color=\"red\">+10</font>%,<br/>적에게 부여하는 디버프 효과 지속 시간 <font color=\"red\">+1</font>, <br/>자신의 고유 스킬 발동 시 자신에게 '바람 호위' 효과 부여 및 <br/>'공격 지력 저하' '침묵' 면역, 지속 <font color=\"red\">2</font>행동, <br/>'메테오 스트라이크' 초절을 받을 수 있음"
   },
   "Soldiers": [
     46,

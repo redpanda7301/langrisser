@@ -76,6 +76,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "방랑의 죽음(갑옷)",
     "Stats": "생명 509,방어 59",

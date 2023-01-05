@@ -78,6 +78,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "반역의 깃털 가면(투구)",
     "Stats": "생명 437,마방 59",

@@ -87,6 +87,10 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "귀향의 길",
+    "Stats": "이동력이 높을 수록 공격력 증가 (최대 <font color=\"red\">+12</font>%)<br/>선공으로 전투 진입 시 <font color=\"blue\">부대 받는 피해 감소</font>(최대 <font color=\"red\">-20</font>%)"
+  },
   "Equip": {
     "Name": "칼자스의 전투 투구(투구)",
     "Stats": "생명 364,마방 65",

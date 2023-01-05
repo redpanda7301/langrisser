@@ -79,6 +79,10 @@ var data = [
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "여름 호수의 그림자",
+    "Stats": "<font color=\"blue\">서리 영역</font>의 <font color=\"blue\">한빙영역</font> 효과 범위 <font color=\"red\">+1</font><br/><font color=\"blue\">수중 지형</font>에서 교전 시 <font color=\"blue\">주는 피해량</font> <font color=\"red\">+20</font>%"
+  },
   "Equip": {
     "Name": "한 여름의 기억(망치)",
     "Stats": "생명 583,공격 85",

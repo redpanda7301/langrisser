@@ -79,6 +79,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "자경단의 투구(투구)",
     "Stats": "생명 437,마방 59",

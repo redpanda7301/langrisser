@@ -91,6 +91,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "여신의 성스러운 옷(갑옷)",
     "Stats": "생명 583,방어 54",

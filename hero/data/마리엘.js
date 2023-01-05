@@ -82,6 +82,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "성스러운 프레일(무기)",
     "Stats": "생명 583,공격 85",

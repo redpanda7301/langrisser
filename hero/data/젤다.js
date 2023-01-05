@@ -95,6 +95,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "따뜻한 기억(투구)",
     "Stats": "생명 437,마방 59",

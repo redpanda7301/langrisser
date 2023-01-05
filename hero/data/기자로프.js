@@ -78,6 +78,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "소멸과 창조의 지팡이(무기)",
     "Stats": "생명 437,지력 107",

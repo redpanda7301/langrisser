@@ -112,6 +112,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "발키리의 샛별(투구)",
     "Stats": "생명 437,마방 59",

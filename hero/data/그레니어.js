@@ -107,6 +107,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "꿈을 쫓는 이의 관(투구)",
     "Stats": "생명 583,마방 48",

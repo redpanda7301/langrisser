@@ -78,6 +78,10 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "비법 소용돌이",
+    "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">마력 소용돌이</font>가 목표에게 추가 효과 부여<br/>[<font color=\"blue\">지휘</font>] : 주위 <font color=\"red\">2</font>칸 범위 안 <b>다른 아군 영웅</b> <font color=\"blue\">이동력</font> <font color=\"red\">-1</font><br/>지속 <font color=\"red\">2</font>턴"
+  },
   "Equip": {
     "Name": "요정의 날개(장신구)",
     "Stats": "지력 75,마방 43",

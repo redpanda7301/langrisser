@@ -78,6 +78,10 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "염룡의 전승",
+    "Stats":"부대 생명이 높을수록, <font color=\"blue\">반격피해</font> 최대<font color=\"red\">15</font>% 증가"
+  },
   "Equip": {
     "Name": "영광의 전승(망치)",
     "Stats": "생명 583,공격 85",

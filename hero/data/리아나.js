@@ -91,6 +91,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "티없는 찬양(갑옷)",
     "Stats": "생명 583, 방어 54",

@@ -111,6 +111,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "가시 왕관(투구)",
     "Stats": "생명 364,마방 65",

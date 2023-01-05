@@ -116,6 +116,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "리그리아 왕관(투구)",
     "Stats": "생명 437,마방 59",

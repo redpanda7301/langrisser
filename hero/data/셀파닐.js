@@ -90,6 +90,10 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "성은의 세례",
+    "Stats":"지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">범위 스킬</font>로 <font color=\"red\">3</font>명 이상 명중 시<br/><font color=\"blue\">버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font> 및 자신에게 <font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>% 부여<br/>지속 <font color=\"red\">1</font>턴"
+  },
   "Equip": {
     "Name": "카콘시스의 왕관(투구)",
     "Stats": "생명 364,마방 65",

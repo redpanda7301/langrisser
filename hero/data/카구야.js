@@ -75,6 +75,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "덧없는 달빛(투구)",
     "Stats": "생명 364,마방 65",

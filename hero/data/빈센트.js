@@ -79,6 +79,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "절망의 날개 갑옷(갑옷)",
     "Stats": "생명 509,방어 59",

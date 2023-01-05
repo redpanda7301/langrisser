@@ -107,6 +107,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "내,내,내가 공주라고?(투구)",
     "Stats": "생명 364,마방 65",

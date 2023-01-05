@@ -79,6 +79,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "소멸 - 개 -(무기)",
     "Stats": "생명 437,공격 107",

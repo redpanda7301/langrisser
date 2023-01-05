@@ -79,6 +79,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "달의 전투복(갑옷)",
     "Stats": "생명 583,방어 54",

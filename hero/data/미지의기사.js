@@ -82,6 +82,10 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "고독하고 긴 여정",
+    "Stats": "지력 <font color=\"red\">+5</font>%<br/>행동 종료 시 누적 이동 숫자 <font color=\"red\">20</font>칸 이상 시<br/>'<font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>%' 및 '<font color=\"blue\">이동력</font> <font color=\"red\">+3</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>턴"
+  },
   "Equip": {
     "Name": "수호의 서약(지팡이)",
     "Stats": "생명 437,지력 107",

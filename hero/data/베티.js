@@ -79,6 +79,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "파멸의 샛별(투구)",
     "Stats": "생명 583,마방 48",

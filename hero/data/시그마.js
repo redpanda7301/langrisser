@@ -108,6 +108,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "스카우터(투구)",
     "Stats": "생명 437,마방 59",

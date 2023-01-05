@@ -78,6 +78,7 @@
     }
   ],
   "SPTalent":null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "개조육체 α EX(갑옷)",
     "Stats": "생명 437,방어 65",

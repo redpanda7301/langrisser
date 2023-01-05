@@ -124,6 +124,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "1UP(갑옷)",
     "Stats": "생명 509,방어 59",

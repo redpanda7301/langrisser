@@ -86,11 +86,15 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "단결의 의지",
+    "Stats":"<font color=\"blue\">패시브 봉인 면역</font><br/>주변 <font color=\"red\">3</font>칸 이내 아군 <font color=\"red\">1</font>명당 방어 <font color=\"red\">3</font>% 증가(최대 <font color=\"red\">12</font>)%"
+  },
   "Equip": {
     "Name": "수호자의 추억 (무기)",
     "Stats": "생명 583,공격 85",
     "Icon": "란디우스.webp",
-    "Ability": "공격 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%   <br/><b>주위 <font color=\"red\">2</font>칸 범위 내에 아군이 있을 경우</b><br/><b>전투 진입 시 적 과의 거리 <font color=\"red\">1</font>칸당 ,</b><br/><b>부대가 받는 피해 <font color=\"red\">-5</font>% ( 최대 <font color=\"red\">-15</font>% )</b>"
+    "Ability": "공격 <font color=\"red\">+10</font>%   <br/><b>주위 <font color=\"red\">2</font>칸 범위 내에 아군이 있을 경우</b><br/><b>전투 진입 시 적 과의 거리 <font color=\"red\">1</font>칸당 ,</b><br/><b>부대가 받는 피해 <font color=\"red\">-5</font>% ( 최대 <font color=\"red\">-15</font>% )</b>"
   },
   "Soldiers": [
     19,

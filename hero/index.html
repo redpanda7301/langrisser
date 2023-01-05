@@ -22,7 +22,7 @@
                     <div class="row main-row">
                         <!-- Basic Info -->
                         <div id="basic-info"></div>
-                        <!-- Talent, Equip & Soldier Info -->
+                        <!-- Talent, Equip & Soldier & Second_Awaken Info -->
                         <div id="talent-soldier-info"></div>
                         <!-- Job Info -->
                         <div id="job-info"></div>
@@ -210,6 +210,15 @@
                         <tr><td><img src="../img/ability/<%=SPTalent[0].Icon%>" width="100px" height="90px" /></td><th><input id="input-5" name="input-5" value="6" class="rating-loading"></th>
                         <tr><td colspan="2"><span id="sp-caption"></span></td></tr>
                         <%}%>
+                        <% if (Second_Awaken != null) {%>
+                            <tr>
+                                <th colspan="2"><%=Second_Awaken.Name%></th>
+                            </tr>    
+                            <tr>
+                                <th><img src="../img/skills/Skill_CastMetal.webp" width="100px" /></th>
+                                <td><%=Second_Awaken.Stats%></td>
+                            </tr>
+                        <%}%>
                         <% if (Equip != null) {%>
                         <tr>
                             <th colspan="2"><%=Equip.Name%></th>
@@ -224,7 +233,7 @@
                                 <%=Equip.Ability%>
                             </td>
                         </tr>
-                        <%}%>
+                        <%}%>                        
                         <tr>
                             <th colspan="2">용병</th>
                         <tr>

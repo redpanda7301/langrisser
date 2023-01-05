@@ -82,6 +82,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "스칼렛 윈드(투구)",
     "Stats": "생명 437,마방 59",

@@ -112,6 +112,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "단결의 반지(장신구)",
     "Stats": "생명 509, 공격 75",

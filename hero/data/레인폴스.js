@@ -79,6 +79,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "크림존의 심장(장신구)",
     "Stats": "공격 75,기술 37",

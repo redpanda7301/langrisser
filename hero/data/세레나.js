@@ -74,6 +74,7 @@ var data = [
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "여명의 수호자(갑옷)",
     "Stats": "생명 583,방어 65",

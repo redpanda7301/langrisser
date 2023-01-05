@@ -78,11 +78,15 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "이능력 로브 제작",
+    "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">이능력 로브</font> 상태에서 매번 선공으로 피해를 입힐 때마다<br/><font color=\"blue\">이능력 로브</font> <font color=\"blue\">쿨타임</font> <font color=\"red\">-2</font>"
+  },
   "Equip": {
     "Name": "기발한 마법 모자(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "노에미.webp",
-    "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/><b><font color=\"blue\">'마법 의복' 버프</font>를 가진 <b>모든 부대가 행동 종료 시</b> <br/><b>자신에게 걸린 디버프 <font color=\"red\">1</font>개 제거 및 </b><font color=\"blue\">생명 <font color=\"red\">5</font>% 회복</font></b>,<br/><b>'<font color=\"blue\">이능력 로브</font>' 사용 시 지원 효과 횟수</b> <font color=\"red\">+1</font><br/>"
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><b><font color=\"blue\">'마법 의복' 버프</font>를 가진 <b>모든 부대가 행동 종료 시</b> <br/><b>자신에게 걸린 디버프 <font color=\"red\">1</font>개 제거 및 </b><font color=\"blue\">생명 <font color=\"red\">5</font>% 회복</font></b>,<br/><b>'<font color=\"blue\">이능력 로브</font>' 사용 시 지원 효과 횟수</b> <font color=\"red\">+1</font><br/>"
   },
   "Soldiers": [
     44,

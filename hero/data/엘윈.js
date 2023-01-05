@@ -124,6 +124,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "방랑의 기사(무기)",
     "Stats": "생명 437,공격 107",

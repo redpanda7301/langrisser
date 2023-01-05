@@ -71,6 +71,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "활기찬 소환사(지팡이)",
     "Stats": "생명 437,지력 107",

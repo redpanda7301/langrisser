@@ -78,6 +78,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "상업적 리더(투구)",
     "Stats": "생명 364,마방 65",

@@ -75,6 +75,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "고난의 별(투구)",
     "Stats": "생명 364,마방 65",

@@ -127,6 +127,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "검정 드레스(갑옷)",
     "Stats": "생명 583, 방어 54",

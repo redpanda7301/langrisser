@@ -86,6 +86,10 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken":{
+    "Name" : "격동하는 마도",
+    "Stats": "지력 <font color=\"red\">+10</font>%<br/>공격하여 전투 진입후<br/>적군에게 <font color=\"Red\">3</font>개의 '<font color=\"blue\">마력 여파</font>' <font color=\"blue\">디버프</font>를 부여<br/><font color=\"blue\">마력 여파</font> : 행동 종료시 레이첼 지력의 <font color=\"red\">0.5</font>배의 <font color=\"blue\">고정피해</font><br/>지속 <font color=\"red\">2</font>턴<br/>(중첩가능)",
+  },
   "Equip": {
     "Name": "마도 방어복(갑옷)",
     "Stats": "생명 583,방어 54",
@@ -625,7 +629,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/레이첼.webp",
-      "Desc": "[마법피해] 자신 주위 5칸 범위의 모든 적군에게 0.3배의 범위 피해를 입힌다.<br/>적과의 거리가 가까울수록 피해량이 증가. 거리가 감소할때 마다 피해량 +10%(최대 50%)<br/>및 적군에게 [마력 여파] 디버프 5개부여.<br/>[마력 여파] : 행동 종료시 레이첼 지력의 0.5배의 [고정피해]. 중첩가능하며 지속 2회합.",
+      "Desc": "[마법피해] 자신 주위 5칸 범위의 모든 적군에게 0.3배의 범위 피해를 입힌다.<br/>적과의 거리가 가까울수록 피해량이 증가. 거리가 감소할때 마다 피해량 +10%(최대 50%)<br/>및 적군에게 [마력 여파] 디버프 5개부여.<br/>[마력 여파] : 행동 종료시 레이첼 지력의 0.5배의 [고정피해]. 중첩가능하며 지속 2턴.",
       "SubSkills": null,
       "Animation": "../img/Super/레이첼_Ani.webp"
     }

@@ -112,6 +112,7 @@
       ]
     }
   ],
+  "Second_Awaken": null,
   "Equip": {
     "Name": "신앙의 시련(무기)",
     "Stats": "생명 583,공격 85",

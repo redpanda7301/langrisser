@@ -83,6 +83,10 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": {
+    "Name" : "조용한 위로",
+    "Stats": "지력 <font color=\"red\">+10</font>%<br/><font color=\"blue\">고요한 숨결</font> 지속 시간 <font color=\"red\">+1</font>"
+  },
   "Equip": {
     "Name": "세계수의 꽃(장신구)",
     "Stats": "지력 75,마방 43",

@@ -79,6 +79,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "성령의 뿔(무기)",
     "Stats": "공격 107,지력 107",

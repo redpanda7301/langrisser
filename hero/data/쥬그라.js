@@ -87,6 +87,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "쥬그미의 선물(투구)",
     "Stats": "생명 583,마방 48",

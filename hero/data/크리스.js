@@ -87,6 +87,7 @@
     }
   ],
   "SPTalent": null,
+  "Second_Awaken": null,
   "Equip": {
     "Name": "성녀 예찬(투구)",
     "Stats": "생명 437, 마방 59",
