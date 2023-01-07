@@ -80,7 +80,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "경건한 신의 축복(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "엘마.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"blue\">성스러운 빛의 등불</font> <font color=\"green\">치료 효과</font> <font color=\"red\">+20</font>%<br/>자신에게 <font color=\"blue\">초절 특수 효과</font>가 있을 경우 '<font color=\"blue\">성광의 거울</font>' 효과 <b>해제 불가</b>"
+  },
   "Soldiers": [
     17,
     4,

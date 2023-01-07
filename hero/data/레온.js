@@ -24,6 +24,10 @@
     {
       "ImageUrl": "레온/6.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "레온/sp.webp",
+      "Desc": "SP 각성"
     }
   ],
   "Name": "레온",
@@ -34,19 +38,19 @@
   "Rank": [
     0
   ],
-  "SP": false,
+  "SP": true,
   "Groups": [
     2,
     6
   ],
   "HP": 40,
-  "SPHP": 0,
+  "SPHP": 40,
   "Attk": 40,
-  "SPAttk": 0,
+  "SPAttk": 40,
   "Def": 10,
-  "SPDef": 0,
+  "SPDef": 10,
   "MagicDef": 10,
-  "SPMagicDef": 0,
+  "SPMagicDef": 10,
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
@@ -89,7 +93,32 @@
       ]
     }
   ],
-  "SPTalent": null,
+  "SPTalent": [
+    {
+      "Name": "돌아온 청룡",
+      "Icon": "SP_Gift_Leon.webp",
+      "Abilities": [
+        {
+          "Desc": "1성"
+        },
+        {
+          "Desc": "2성"
+        },
+        {
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+10</font>%<br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-10</font>%, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/><font color=\"blue\">재행동</font> 시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>턴<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>턴"
+        },
+        {
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+15</font>%<br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-15</font>%, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/><font color=\"blue\">재행동</font> 시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>턴<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>턴"
+        },
+        {
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+20</font>%<br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-20</font>%, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/><font color=\"blue\">재행동</font> 시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>턴<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>턴"
+        },
+        {
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+30</font>%<br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-30</font>%, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/><font color=\"blue\">재행동</font> 시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">2</font>턴<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>턴"
+        }
+      ]
+    }
+  ],
   "Second_Awaken": null,
   "Equip": {
     "Name": "청룡의 갑옷(갑옷)",
@@ -109,7 +138,8 @@
     66,
     82,
     86,
-    92
+    92,
+    72
   ],
   "Jobs": [
     {
@@ -134,6 +164,9 @@
         {
           "ImageUrl": "레온/6/1.webp"
         },
+        {
+          "ImageUrl": "레온/sp/1.webp"
+        }
       ],
       "AttkRange": 1,
       "Move": 5,
@@ -152,6 +185,49 @@
       "SkillRate": 37,
       "HeartFetterBouns1": "생명 70% 미만시 전투중 받는피해 -10%",
       "HeartFetterBouns2": "생명 70% 미만시 전투중 입히는피해 +10%"
+    },{
+      "Name": "어둠에 삼켜진 청룡",
+      "Icon": "Icon_Occupation_CavalrySP.webp",
+      "SD": [
+        {
+          "ImageUrl": "레온/1/1.webp"
+        },
+        {
+          "ImageUrl": "레온/2/1.webp"
+        },
+        {
+          "ImageUrl": "레온/3/1.webp"
+        },
+        {
+          "ImageUrl": "레온/4/1.webp"
+        },
+        {
+          "ImageUrl": "레온/5/1.webp"
+        },
+        {
+          "ImageUrl": "레온/6/1.webp"
+        },
+        {
+          "ImageUrl": "레온/sp/1.webp"
+        }
+      ],
+      "AttkRange": 1,
+      "Move": 5,
+      "MoveType": "Ride",
+      "HP": 4929,
+      "HPRate": 82,
+      "Attk": 623,
+      "AttkRate": 95,
+      "Int": 233,
+      "IntRate": 38,
+      "Def": 300,
+      "DefRate": 71,
+      "MagicDef": 280,
+      "MagicDefRate": 62,
+      "Skill": 130,
+      "SkillRate": 37,
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     },
     {
       "Name": "로열 나이트",
@@ -174,6 +250,9 @@
         },
         {
           "ImageUrl": "레온/6/1.webp"
+        },
+        {
+          "ImageUrl": "레온/sp/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -414,7 +493,178 @@
       ]
     }
   ],
-  "SPOpenConditions": null,
+  "SPOpenConditions": [
+    {
+      "Name": "개방",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/AlterEgo_Leon.webp",
+          "Amount": 1
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank8-7.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank7-7.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank6-6.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 미션",
+      "Materials": [],
+      "Desc": "레온으로 파티를 짜서 형귀 헬스장 아돈(보병) 60클리어"
+    },
+    {
+      "Name": "2단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "2단계 미션",
+      "Materials": [],
+      "Desc": "청룡의 갑옷(갑옷) 레벨 50 달성"
+    },
+    {
+      "Name": "3단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
+          "Amount": 2
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "3단계 미션",
+      "Materials": [],
+      "Desc": "레온으로 파티를 짜서 여신의 시련 - 화룡 파프니르 60레벨 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "어둠에 삼켜진 청룡 전직 가능, 돌아온 청룡(SP 고유기술)스킬 획득, SP 일러스트 획득"
+    },
+    {
+      "Name": "4단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h3.webp",
+          "Amount": 60
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h3-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/heart/x.webp",
+          "Amount": 12
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "4단계 미션",
+      "Materials": [],
+      "Desc": "레온으로 파티를 짜서 형귀 헬스장 바란(창병) 65클리어"
+    },
+    {
+      "Name": "5단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "5단계 미션",
+      "Materials": [],
+      "Desc": "레온으로 파티를 짜서 여신의 시련 - 암룡 티아메트 65레벨 클리어"
+    },
+    {
+      "Name": "6단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+          "Amount": 600
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Rider1.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Rider2.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Rider6.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "6단계 미션",
+      "Materials": [],
+      "Desc": "레온으로 파티를 짜서 영원의 신전 - 발키리 65레벨 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "SP 스탯, SP 스킬 2개 활성화, 늑대인간 고용가능"
+    }
+  ],
   "Skills": [
     {
       "Name": "돌격",
@@ -599,6 +849,46 @@
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
       "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 +12%.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 저승 불꽃 유린",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "2칸"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/레온/1.webp",
+      "Desc": "주위 <font color=\"red\">2</font>칸 범위 내 적에게 <font color=\"red\">0.33배</font> 피해<br/><b>보병에게 추가로</b> '<font color=\"blue\">치료 불가</font>' 효과 부여, 지속 <font color=\"red\">2</font>행동<br/>해당 스킬이 명중한 지형에 <font color=\"blue\"저승의 불꽃</font> 효과 부여",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 청룡의 영혼",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지휘,패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/레온/2.webp",
+      "Desc": "[패시브]이동 <font color=\"red\">1</font>칸 당 <font color=\"blue\">영웅 일반 공격 피해</font> <font color=\"red\">+6</font>% (최대 <font color=\"red\">)+30</font>%<br/>[지휘]모든 기병 아군 <font color=\"blue\">공격 지력</font> <font color=\"red\">+15</font>%<br/><b>창병과 교전 시</b> 공격 <font color=\"red\">+10</font>%<br/><b>보병 영웅에게 선공 시</b> <font color=\"blue\">선제 공격</font>(주동 공격)<br/><b>레온이 전용 장비 보유 시</b> <font color=\"blue\">아군 기병이 지형 제한을 받지 않음</font>",
       "SubSkills": null,
       "Animation": null
     },

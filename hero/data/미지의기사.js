@@ -540,7 +540,7 @@
         },
         {
           "Label": "범위",
-          "Value": "주위 3칸"
+          "Value": "3바퀴"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ThunderField.webp",

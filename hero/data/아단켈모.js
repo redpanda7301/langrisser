@@ -567,7 +567,7 @@
       "Animation": "../img/Super/아단켈모_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  

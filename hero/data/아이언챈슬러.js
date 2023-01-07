@@ -84,7 +84,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "진홍빛 포부(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "아이언챈슬러.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>전투 중 <font color=\"purple\">포진 스킬</font> 사용 후, 해당 스킬 버프 지속 시간 <font color=\"red\">+1</font>"
+  },
   "Soldiers": [
     24,
     31,
