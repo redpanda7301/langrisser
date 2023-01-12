@@ -465,7 +465,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Awakener/2.webp",
-      "Desc": "단일 개체에게 이하 효과 발생, 사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸 가능<br/>해당 <font color=\"blue\">재행동</font>은 <b>보유한 버프 지속시간을 소모하지 않음</b><br/>목표가 아군 : <font color=\"red\">2</font>개의 <font color=\"blue\">무작위 버프</font> 부여 및 <font color=\"blue\">위치 이동</font>(목표와 위치 변환)<br/>목표가 적군 : <font color=\"red\">2</font>개의 <font color=\"blue\">무작위 디버프</font> 부여 및 <font color=\"purple\">주박</font> 부여, <font color=\"blue\">위치 이동</font>(목표와 위치 변환)",
+      "Desc": "단일 개체에게 이하 효과 발생, 사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸 가능<br/>해당 <font color=\"blue\">재행동</font>은 <b>보유한 버프 지속시간을 소모하지 않음</b><br/>목표가 아군 : <font color=\"red\">2</font>개의 <font color=\"blue\">무작위 버프</font> 부여 및 <font color=\"blue\">위치 이동</font>(목표와 위치 변환)<br/>목표가 적군 : <font color=\"red\">2</font>개의 <font color=\"blue\">무작위 디버프</font> 부여<br/>만약 목표가 <font color=\"purple\">주박</font> <font color=\"blue\">디버프</font> 보유시  <font color=\"blue\">위치 이동</font>(목표와 위치 변환)",
       "SubSkills": null,
       "Animation": null
     },
