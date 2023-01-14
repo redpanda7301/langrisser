@@ -340,7 +340,7 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "바람저주와 파멸의 신탁",
+      "Name": "저주와 파멸의 신탁",
       "Cost": "COST 2",
       "Entries": [
         {
