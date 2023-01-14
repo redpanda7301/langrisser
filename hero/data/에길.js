@@ -489,20 +489,19 @@
       "Animation": null
     },
     {
-      "Name": "기술 위협",
+      "Name": "전술 지휘",
       "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
-          "Value": "패시브"
+          "Value": "지휘,패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_AuraDexDown.webp",
-      "Desc": "행동 종료 시 주위 3칸 내 모든 적 부대 기술 <font color=\"red\">-20</font>% <br/><font color=\"red\">1</font>턴 지속.",
+      "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
+      "Desc": "주위 <font color=\"red\">3</font>칸내 아군 부대가 전투 시 기술 <font color=\"red\">+20</font>%.",
       "SubSkills": null,
       "Animation": null
-    },
-    {
+    },    {
       "Name": "역전의 기술",
       "Cost": "COST 1",
       "Entries": [
