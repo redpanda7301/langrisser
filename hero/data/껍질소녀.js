@@ -50,7 +50,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "지능 각성",
+      "Name": "각성한 인공지능",
       "Icon": "Gift_GirltheShell.webp",
       "Abilities": [
         {
