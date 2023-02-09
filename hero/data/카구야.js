@@ -8,6 +8,10 @@
     {
       "ImageUrl": "카구야/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "카구야/3.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "카구야",
@@ -103,6 +107,9 @@
         },
         {
           "ImageUrl": "카구야/2/1.webp"
+        },
+        {
+          "ImageUrl": "카구야/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -132,6 +139,9 @@
         },
         {
           "ImageUrl": "카구야/2/1.webp"
+        },
+        {
+          "ImageUrl": "카구야/3/1.webp"
         }
       ],
       "AttkRange": 2,
