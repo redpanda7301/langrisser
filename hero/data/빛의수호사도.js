@@ -563,7 +563,7 @@
       "Animation": "../img/Super/빛의수호사도_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  

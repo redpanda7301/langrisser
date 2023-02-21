@@ -410,6 +410,32 @@
       "Animation": null
     },
     {
+      "Name": "창진",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Skill_BitterlyHit.webp",
+      "Desc": "[패시브]인접한 아군이 받는 <font color=\"blue\">물리공격 호위</font><br/>[액티브]호위 범위가 <font color=\"#DC143C\">2</font>칸 증가 및 방어 <font color=\"#DC143C\">+20</font>%<br/>근접 전투 종료 후 [<font color=\"blue\">미늘</font>]의 <font color=\"blue\">고정 피해</font> 반드시 발동한다.<br/>지속 <font color=\"#DC143C\">2</font>턴",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
       "Name": "휩쓸기",
       "Cost": "COST 2",
       "Entries": [

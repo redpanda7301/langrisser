@@ -12,6 +12,10 @@
     {
       "ImageUrl": "브렌다/3.webp",
       "Desc": "형귀 스킨"
+    },
+    {
+      "ImageUrl": "브렌다/4.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "브렌다",
@@ -114,6 +118,9 @@
         },
         {
           "ImageUrl": "브렌다/3/1.webp"
+        },
+        {
+          "ImageUrl": "브렌다/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -146,6 +153,9 @@
         },
         {
           "ImageUrl": "브렌다/3/2.webp"
+        },
+        {
+          "ImageUrl": "브렌다/4/2.webp"
         }
       ],
       "AttkRange": 1,
