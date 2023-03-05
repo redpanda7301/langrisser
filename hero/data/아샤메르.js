@@ -8,6 +8,10 @@
     {
       "ImageUrl": "아샤메르/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "아샤메르/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "아샤메르",
@@ -102,6 +106,9 @@
         },
         {
           "ImageUrl": "아샤메르/2/1.webp"
+        },
+        {
+          "ImageUrl": "아샤메르/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -131,6 +138,9 @@
         },
         {
           "ImageUrl": "아샤메르/2/1.webp"
+        },
+        {
+          "ImageUrl": "아샤메르/3/1.webp"
         }
       ],
       "AttkRange": 2,

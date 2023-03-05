@@ -35,16 +35,16 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "그렌실를 출전시켜 아레나에서 5회 승리"
+      "Condition": "그렌실를 출전시켜 아레나에서 5회 승리"
     },
     {
-      "Condition": "그렌실를 출전시켜 시공의 균열 3-1[정예] 클리어"
+      "Condition": "그렌실를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "아단켈모의 도움을 받아 유대의문 4 클리어"
+      "Condition": "아단켈모의 도움을 받아 유대의문 4 클리어"
     },
     {
-      "Condition": "아즈사의 도움을 받아 유대의문 5 클리어"
+      "Condition": "아즈사의 도움을 받아 유대의문 5 클리어"
     }
   ],
   "HeartFetter": "생명+900, 방어+60, 마방+40",
@@ -467,7 +467,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
-      "Desc": "공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12</font>%",
+      "Desc": "공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12</font>%",
       "SubSkills": null,
       "Animation": null
     },

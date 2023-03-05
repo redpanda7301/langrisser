@@ -78,7 +78,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "필사의 의지",
+    "Stats": "공격 <font color=\"red\">+5</font>%<br/><font color=\"purple\">불사자</font> 상태일 경우 선공으로 전투 진입 시 <font color=\"blue\">선제공격</font>",
+  },
   "Equip": {
     "Name": "크림조 아머(갑옷)",
     "Stats": "생명 437,방어 65",

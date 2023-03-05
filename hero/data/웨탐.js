@@ -80,7 +80,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "용맹한 마족 장군(투구)",
+    "Stats": "생명 437,마방 59",
+    "Icon": "웨탐.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"purple\">절망</font> 보유한 적을 상대로 전투 진입시 영웅 피해 <font color=\"red\">+10</font>%<br/><font color=\"blue\">스킬</font>을 사용했다면 <font color=\"blue\">해당 스킬</font> 쿨타임 <font color=\"red\">-1</font>턴"
+  },
   "Soldiers": [
     46,
     60,

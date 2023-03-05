@@ -12,6 +12,10 @@
     {
       "ImageUrl": "클로테르/3.webp",
       "Desc": "형귀뽑기"
+    },
+    {
+      "ImageUrl": "클로테르/4.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "클로테르",
@@ -79,7 +83,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "영원한 불꽃의 맹세(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "클로테르.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"purple\">파멸의 불꽃 문장</font> 보유한 적이 있을 경우<br/>자신 주위 <font color=\"red\">2</font>칸 범위 안 아군 <font color=\"blue\">공격 지력</font> <font color=\"red\">+10</font>%<br/>적에게 <font color=\"blue\">스킬</font>로 피해를 입힌 후 다음 <font color=\"blue\">스킬</font> 피해 <font color=\"red\">+25</font>%"
+  },
   "Soldiers": [
     4,
     20,
@@ -103,6 +112,9 @@
         },
         {
           "ImageUrl": "클로테르/3/1.webp"
+        },
+        {
+          "ImageUrl": "클로테르/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -135,6 +147,9 @@
         },
         {
           "ImageUrl": "클로테르/3/1.webp"
+        },
+        {
+          "ImageUrl": "클로테르/4/1.webp"
         }
       ],
       "AttkRange": 1,
