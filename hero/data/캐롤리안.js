@@ -8,6 +8,10 @@
     {
       "ImageUrl": "캐롤리안/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "캐롤리안/3.webp",
+      "Desc": "형귀 뽑기"
     }
   ],
   "Name": "캐롤리안",
@@ -102,6 +106,9 @@
         },
         {
           "ImageUrl": "캐롤리안/2/1.webp"
+        },
+        {
+          "ImageUrl": "캐롤리안/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -131,6 +138,9 @@
         },
         {
           "ImageUrl": "캐롤리안/2/1.webp"
+        },
+        {
+          "ImageUrl": "캐롤리안/3/1.webp"
         }
       ],
       "AttkRange": 1,
