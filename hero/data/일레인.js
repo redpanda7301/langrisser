@@ -8,8 +8,8 @@
   ],
   "Name": "일레인",
   "ChName": "艾蕾因",
-  "EngName": "Elaine",
-  "JapName": "",
+  "EngName": "Elaine Auclair",
+  "JapName": "エレイン・オークレール",
   "CV": "사이토 치와",
   "Rank": [
     0

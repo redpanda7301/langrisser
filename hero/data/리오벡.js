@@ -76,7 +76,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "역대의 심연(투구)",
+    "Stats": "생명 364, 마방 65",
+    "Icon": "리오벡.webp",
+    "Ability": "생명 (<font color=\"red\">+10</font>)% <br/><font color=\"blue\">부여하는 계약</font> 효과 <b>해제 불가</b><br/><font color=\"blue\">침식한 명계의 화염</font>으로 피해를 입힌 후 쿨타임 감소<br/>감소하는 수치는 명중한 적 숫자를 따라감<br/>해당 효과 쿨타임 <font color=\"red\">3</font>턴"
+  },
   "Soldiers": [
     43,
     44,
@@ -499,7 +504,7 @@
     },
     {
       "Name": "영혼의 계약",
-      "Cost": "COST 1",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",

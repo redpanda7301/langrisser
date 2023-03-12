@@ -78,7 +78,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "삼라만상의 비호",
+    "Stats":"지력 <font color=\"red\">+5</font>%<br/><font color=\"green\">고대 엔트</font> <font color=\"blue\">스탯 상승</font> 및 '<font color=\"blue\">성장 회복</font>' 효과 획득"
+  },
   "Equip": {
     "Name": "만개한 화관(투구)",
     "Stats": "생명 364,마방 65",

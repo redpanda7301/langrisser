@@ -12,6 +12,10 @@
     {
       "ImageUrl": "에길/3.webp",
       "Desc": "형귀 스킨"
+    },
+    {
+      "ImageUrl": "에길/4.webp",
+      "Desc": "서밋아레나 S14 패자스킨"
     }
   ],
   "Name": "베르너",
@@ -111,6 +115,9 @@
         },
         {
           "ImageUrl": "에길/3/1.webp"
+        },
+        {
+          "ImageUrl": "에길/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -143,6 +150,9 @@
         },
         {
           "ImageUrl": "에길/3/1.webp"
+        },
+        {
+          "ImageUrl": "에길/4/1.webp"
         }
       ],
       "AttkRange": 1,

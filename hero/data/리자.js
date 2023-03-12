@@ -4,6 +4,10 @@
     {
       "ImageUrl": "리자/1.webp",
       "Desc": "기본"
+    },
+    {
+      "ImageUrl": "리자/2.webp",
+      "Desc": "서밋아레나 S15 골드스킨"
     }
   ],
   "Name": "리자",
@@ -97,6 +101,9 @@
       "SD": [
         {
           "ImageUrl": "리자/1/1.webp"
+        },
+        {
+          "ImageUrl": "리자/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -123,6 +130,9 @@
       "SD": [
         {
           "ImageUrl": "리자/1/2.webp"
+        },
+        {
+          "ImageUrl": "리자/2/2.webp"
         }
       ],
       "AttkRange": 2,

@@ -82,7 +82,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "전투의 바람",
+    "Stats":"공격 <font color=\"red\">+5</font>%<br/><font color=\"blue\">성스러운 분노의 일격</font>으로 적을 격파후, 행동 종료시<br/><font color=\"blue\">성스러운 분노</font> 획득<br/>반대일 경우 적 <font color=\"blue\">기절</font><br/>지속 <font color=\"red\">1</font>턴"
+  },
   "Equip": {
     "Name": "성스러운 프레일(무기)",
     "Stats": "생명 583,공격 85",

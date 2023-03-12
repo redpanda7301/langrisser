@@ -601,7 +601,7 @@
       "Animation": "../img/Super/껍질소녀_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  

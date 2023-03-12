@@ -8,6 +8,10 @@
     {
       "ImageUrl": "로스탐/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "로스탐/3.webp",
+      "Desc": "형귀 뽑기"
     }
   ],
   "Name": "로스탐",
@@ -98,6 +102,9 @@
         },
         {
           "ImageUrl": "로스탐/2/1.webp"
+        },
+        {
+          "ImageUrl": "로스탐/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -127,6 +134,9 @@
         },
         {
           "ImageUrl": "로스탐/2/1.webp"
+        },
+        {
+          "ImageUrl": "로스탐/3/1.webp"
         }
       ],
       "AttkRange": 2,
