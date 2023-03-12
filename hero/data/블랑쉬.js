@@ -24,9 +24,9 @@
     5,
     9
   ],
-  "HP": 25,
+  "HP": 30,
   "SPHP": 0,
-  "Attk": 35,
+  "Attk": 30,
   "SPAttk": 0,
   "Def": 25,
   "SPDef": 0,
