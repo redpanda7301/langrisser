@@ -365,7 +365,7 @@
       "Animation": null
     },
     {
-      "Name": "츠바메오토시",
+      "Name": "제비 떨구기",
       "Cost": "COST 1",
       "Entries": [
         {
@@ -483,7 +483,7 @@
       "Animation": null
     },
     {
-      "Name": "마이시구레",
+      "Name": "흩날리는 비",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -535,7 +535,7 @@
       "Animation": null
     },
     {
-      "Name": "센코우",
+      "Name": "섬황",
       "Cost": "COST 3",
       "Entries": [
         {
