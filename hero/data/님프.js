@@ -2,31 +2,27 @@
 {
   "Skins": [
     {
-      "ImageUrl": "달의집정관/1.webp",
+      "ImageUrl": "님프/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": "달의집정관/2.webp",
+      "ImageUrl": "님프/2.webp",
       "Desc": "빛의 메아리"
-    },
-    {
-      "ImageUrl": "달의집정관/3.webp",
-      "Desc": "형귀 스킨"
     }
   ],
-  "Name": "달의집정관",
-  "ChName": "月之执政官",
-  "EngName": "TheConsul",
+  "Name": "님프",
+  "ChName": "宁芙",
+  "EngName": "Nymph",
   "JapName": "",
-  "CV": "후쿠야마 쥰",
+  "CV": "아오야마 요시노",
   "Rank": [
     0
   ],
   "SP": false,
   "Groups": [
-    6,
+    5,
     7,
-    10
+    8
   ],
   "HP": 20,
   "SPHP": 0,
@@ -55,7 +51,7 @@
   "Talent": [
     {
       "Name": "은하수의 쌍월",
-      "Icon": "Gift_Consul.webp",
+      "Icon": "Gift_Nymph.webp",
       "Abilities": [
         {
           "Desc": "1성"
@@ -83,7 +79,7 @@
   "Equip": {
     "Name": "성간함의 결의(투구)",
     "Stats": "생명 437,마방 59",
-    "Icon": "달의집정관.webp",
+    "Icon": "님프.webp",
     "Ability": "생명 <font color=\"red\">+5</font>%,마방 <font color=\"red\">+5</font>%<br/><font color=\"blue\">재행동</font> 효과 발동시, 다른 <font color=\"blue\">버프</font> 지속시간을 소모하지 않음.<br/><b>피해를 입히지 않고</b> <font color=\"blue\">물</font> 속에서 행동 종료시 <br/> 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>"
   },
   "Soldiers": [
@@ -103,13 +99,10 @@
       "Icon": "Icon_Occupation_Water.webp",
       "SD": [
         {
-          "ImageUrl": "달의집정관/1/1.webp"
+          "ImageUrl": "님프/1/1.webp"
         },
         {
-          "ImageUrl": "달의집정관/2/1.webp"
-        },
-        {
-          "ImageUrl": "달의집정관/3/1.webp"
+          "ImageUrl": "님프/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -135,13 +128,10 @@
       "Icon": "Icon_Occupation_Water.webp",
       "SD": [
         {
-          "ImageUrl": "달의집정관/1/2.webp"
+          "ImageUrl": "님프/1/2.webp"
         },
         {
-          "ImageUrl": "달의집정관/2/1.webp"
-        },
-        {
-          "ImageUrl": "달의집정관/3/1.webp"
+          "ImageUrl": "님프/2/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -379,7 +369,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Consul/1.webp",
+      "IconImageUrl": "../img/skills/Nymph/1.webp",
       "Desc": "직선에 있는 단일 개체 <font color=\"red\">1.4</font>배 피해<br/>전투 전 이동 거리 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">+5</font>% (최대 <font color=\"red\">+15</font>%)<br/><font color=\"blue\">호위</font>를 받지 않은 적 공격 시 <font color=\"blue\">위치 이동</font> 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 <font color=\"red\">2</font>칸 밀침<br/><b>근접전 병사 대동 시 병사도 함께 공격</b><br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
       "SubSkills": null,
       "Animation": null
@@ -445,7 +435,7 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Consul/2.webp",
+      "IconImageUrl": "../img/skills/Nymph/2.webp",
       "Desc": "<font color=\"red\">사망</font> 시 생명 <font color=\"red\">10</font>% <font color=\"green\">회복</font> 후 <font color=\"blue\">부활</font><br/><font color=\"blue\">물 속</font>에 있을 경우 <font color=\"green\">회복</font>량 <font color=\"red\">60</font>%로 상승<br/>최대 <font color=\"red\">1</font>회 발동",
       "SubSkills": null,
       "Animation": null
@@ -551,7 +541,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/달의집정관.webp",
+      "IconImageUrl": "../img/Super/님프.webp",
       "Desc": "직선에 있는 단일 개체 <font color=\"red\">0.26</font>배 범위 피해 및 '<font color=\"blue\">위치 이동</font>' 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 자신에게 끌어당기고 목표 이동력 <font color=\"red\">-2</font>, 지속 <font color=\"red\">1</font>턴<br/><b>해제 불가</b><br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">달의 조수</font>'로 변경",
       "SubSkills": [
         {
@@ -574,11 +564,11 @@
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/Super/달의집정관_1.webp",
+          "IconImageUrl": "../img/Super/님프_1.webp",
           "Desc": "단일 개체 <font color=\"Red\">1.5</font>배 피해, <font color=\"blue\">물 속</font>에 있을 경우 영웅이 주는 피해량 <font color=\"Red\">+40</font>%<br/>전투 후 피해량 <font color=\"Red\">30</font>% 수치 <font color=\"green\">생명 회복</font> 및 <br/>목표에게 '위치한 지형을 <font color=\"blue\">물 속</font>으로 간주' 효과 부여, <b>해제 불가</b><br/>지속 <font color=\"Red\">2</font>턴<br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">월상 인력</font>'으로 변경"
         }
       ],
-      "Animation": "../img/Super/달의집정관_Ani.webp"
+      "Animation": "../img/Super/님프_Ani.webp"
     }
   ],
   "Propose": false,
