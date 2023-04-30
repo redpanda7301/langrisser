@@ -78,7 +78,10 @@
     }
   ],
   "SPTalent":null,
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "",
+    "Stats":"공격, 방어 <font color=\"red\">+5</font>%<br/><font color=\"blue\">패시브 봉인 면역</font><br/><font color=\"blue\">자수정 폭발</font> 스킬 피해량<font color=\"red\">+10</font>"
+  },
   "Equip": {
     "Name": "개조육체 α EX(갑옷)",
     "Stats": "생명 437,방어 65",

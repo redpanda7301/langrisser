@@ -8,6 +8,10 @@
     {
       "ImageUrl": "방랑투사/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "방랑투사/3.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "방랑투사",
@@ -106,6 +110,9 @@
         },
         {
           "ImageUrl": "방랑투사/2/1.webp"
+        },
+        {
+          "ImageUrl": "방랑투사/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -134,7 +141,10 @@
           "ImageUrl": "방랑투사/1/2.webp"
         },
         {
-          "ImageUrl": "방랑투사/2/1.webp"
+          "ImageUrl": "방랑투사/2/2.webp"
+        },
+        {
+          "ImageUrl": "방랑투사/3/2.webp"
         }
       ],
       "AttkRange": 1,

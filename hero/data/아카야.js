@@ -79,7 +79,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "",
+    "Stats":"공격, 지력 <font color=\"red\">+5</font>%<br/><font color=\"purple\">늑대영혼</font> 사망 시 아카야가 주는 피해량 <font color=\"red\">+10</font>%<br/>지속 <font color=\"red\">1</font>턴 "
+  },
   "Equip": {
     "Name": "성령의 뿔(무기)",
     "Stats": "공격 107,지력 107",

@@ -28,6 +28,10 @@
     {
       "ImageUrl": "젤다/7.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "젤다/8.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "젤다",
@@ -80,16 +84,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "치명타율<font color=\"red\"> +10%. +</font> 행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +15%</font>; 받는피해량 <font color=\"red\">-15%</font> 이동력+<font color=\"red\">1</font> 지속 <font color=\"red\">1</font>턴&#39;."
+          "Desc": "치명타율<font color=\"red\">+10</font>%<br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +15%</font>; 받는피해량 <font color=\"red\">-15%</font> 이동력+<font color=\"red\">1</font> 지속 <font color=\"red\">1</font>턴&#39;."
         },
         {
-          "Desc": "치명타율<font color=\"red\"> +13%. +</font> 행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +20%</font>; 받는피해량 <font color=\"red\">-20%</font> 이동력+<font color=\"red\">2</font> 지속 <font color=\"red\">1</font>턴&#39;."
+          "Desc": "치명타율<font color=\"red\">+13</font>%<br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +20%</font>; 받는피해량 <font color=\"red\">-20%</font> 이동력+<font color=\"red\">2</font> 지속 <font color=\"red\">1</font>턴&#39;."
         },
         {
-          "Desc": "치명타율<font color=\"red\"> +16%. +</font> 행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +25%</font>; 받는피해량 <font color=\"red\">-25%</font> 이동력+<font color=\"red\">3</font> 지속 <font color=\"red\">1</font>턴&#39;."
+          "Desc": "치명타율<font color=\"red\">+16</font>%<br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +25%</font>; 받는피해량 <font color=\"red\">-25%</font> 이동력+<font color=\"red\">3</font> 지속 <font color=\"red\">1</font>턴&#39;."
         },
         {
-          "Desc": "치명타율<font color=\"red\"> +20%. +</font> 행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +30%</font>; 받는피해량 <font color=\"red\">-30%</font> 이동력+<font color=\"red\">4</font> 지속 <font color=\"red\">1</font>턴&#39;."
+          "Desc": "치명타율<font color=\"red\">+20</font>%<br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +30%</font>; 받는피해량 <font color=\"red\">-30%</font> 이동력+<font color=\"red\">4</font> 지속 <font color=\"red\">1</font>턴&#39;."
         }
       ]
     }
@@ -137,6 +141,9 @@
         },
         {
           "ImageUrl": "젤다/7/1.webp"
+        },
+        {
+          "ImageUrl": "젤다/8/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -181,7 +188,10 @@
         },
         {
           "ImageUrl": "젤다/7/1.webp"
-        }		
+        },
+        {
+          "ImageUrl": "젤다/8/1.webp"
+        }
       ],
       "AttkRange": 2,
       "Move": 3,

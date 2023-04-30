@@ -80,7 +80,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "사막의 광풍(투구)",
+    "Stats": "생명 437,마방 59",
+    "Icon": "아레스.webp",
+    "Ability": "생명 <font color=\"red\">+5</font>%, 방어 <font color=\"red\">+5</font>%<br/><font color=\"blue\">분노의 격투</font> 패시브 효과 발동 시, '<font color=\"blue\">치명타 확률</font> <font color=\"red\">+10</font>%' 효과 획득<br/>지속 <font color=\"red\">1</font>턴<br/>자신이 '<font color=\"orange\">사막</font>' 지형에 있을 경우에도 <font color=\"blue\">해당 패시브</font>를 발동."
+  },
   "Soldiers": [
     31,
     20,

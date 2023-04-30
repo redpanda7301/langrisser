@@ -28,29 +28,29 @@
   "SPHP": 0,
   "Attk": 35,
   "SPAttk": 0,
-  "Def": 30,
+  "Def": 20,
   "SPDef": 0,
-  "MagicDef": 15,
+  "MagicDef": 25,
   "SPMagicDef": 0,
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "시공 3-6 클리어"
+      "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "시공 3-1 정예 클리어"
+      "Condition": "님프를 심해의 풍경으로 전직"
     },
     {
-      "Condition": "브렌다의 도움을 받아 운명의문4"
+      "Condition": "타탈리아의 도움을 받아 운명의문4"
     },
     {
-      "Condition": "베르너(시그마)의 도움을 받아 운명의문5"
+      "Condition": "타탈리아의 도움을 받아 운명의문5"
     }
   ],
-  "HeartFetter": "생명+700, 방어+40, 마방+40",
+  "HeartFetter": "생명+400, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "은하수의 쌍월",
+      "Name": "심해의 가희",
       "Icon": "Gift_Nymph.webp",
       "Abilities": [
         {
@@ -60,42 +60,37 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+12</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>턴<br/>쿨타임 <font color=\"red\">4</font>턴"
+          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+10</font>%<br/>전투 시작 시 자신 주위 <font color=\"red\">1</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-15</font>%<br/>행동 종료 시 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>턴<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+16</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>턴<br/>쿨타임 <font color=\"red\">3</font>턴"
+          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+15</font>%<br/>전투 시작 시 자신 주위 <font color=\"red\">1</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-25</font>%<br/>행동 종료 시 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>턴<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+20</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>턴<br/>쿨타임 <font color=\"red\">3</font>턴"
+          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+20</font>%<br/>전투 시작 시 자신 주위 <font color=\"red\">2</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-35</font>%<br/>행동 종료 시 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>턴<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+25</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>턴<br/>쿨타임 <font color=\"red\">2</font>턴"
+          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+25</font>%<br/>전투 시작 시 자신 주위 <font color=\"red\">2</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-45</font>%<br/>행동 종료 시 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>턴<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
         }
       ]
     }
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": {
-    "Name": "성간함의 결의(투구)",
-    "Stats": "생명 437,마방 59",
-    "Icon": "님프.webp",
-    "Ability": "생명 <font color=\"red\">+5</font>%,마방 <font color=\"red\">+5</font>%<br/><font color=\"blue\">재행동</font> 효과 발동시, 다른 <font color=\"blue\">버프</font> 지속시간을 소모하지 않음.<br/><b>피해를 입히지 않고</b> <font color=\"blue\">물</font> 속에서 행동 종료시 <br/> 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>"
-  },
+  "Equip": null,
   "Soldiers": [
+    0,
+    43,
     42,
-    35,
-    31,
-    20,
-    38,
-    84,
-    69,
-    77,
-    90
+    13,
+    1,
+    39,
+    90,
+    81,
+    84
   ],
   "Jobs": [
     {
-      "Name": "바다의 투사 사령관",
+      "Name": "심해의 풍경",
       "Icon": "Icon_Occupation_Water.webp",
       "SD": [
         {
@@ -105,26 +100,26 @@
           "ImageUrl": "님프/2/1.webp"
         }
       ],
-      "AttkRange": 1,
+      "AttkRange": 2,
       "Move": 3,
       "MoveType": "Water",
-      "HP": 4071,
-      "HPRate": 68,
-      "Attk": 592,
-      "AttkRate": 92,
-      "Int": 259,
-      "IntRate": 43,
-      "Def": 323,
-      "DefRate": 71,
-      "MagicDef": 255,
-      "MagicDefRate": 56,
-      "Skill": 145,
+      "HP": 3702,
+      "HPRate": 61,
+      "Attk": 305,
+      "AttkRate": 47,
+      "Int": 544,
+      "IntRate": 84,
+      "Def": 277,
+      "DefRate": 57,
+      "MagicDef": 339,
+      "MagicDefRate": 82,
+      "Skill": 148,
       "SkillRate": 43,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70</font>% 미만 시 <br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80</font>% 초과 시 <br/>피격 치명타 확률 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "마법 공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     },
     {
-      "Name": "집정관",
+      "Name": "환상의 배우",
       "Icon": "Icon_Occupation_Water.webp",
       "SD": [
         {
@@ -134,23 +129,23 @@
           "ImageUrl": "님프/2/1.webp"
         }
       ],
-      "AttkRange": 1,
+      "AttkRange": 2,
       "Move": 3,
       "MoveType": "Water",
-      "HP": 4338,
-      "HPRate": 74,
-      "Attk": 592,
-      "AttkRate": 92,
-      "Int": 285,
-      "IntRate": 48,
-      "Def": 323,
-      "DefRate": 72,
-      "MagicDef": 247,
-      "MagicDefRate": 57,
-      "Skill": 121,
-      "SkillRate": 40,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80</font>% 초과 시 피격 치명타 확률 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 적을 공격해 전투 진입 후<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HP": 3702,
+      "HPRate": 61,
+      "Attk": 305,
+      "AttkRate": 47,
+      "Int": 544,
+      "IntRate": 84,
+      "Def": 289,
+      "DefRate": 59,
+      "MagicDef": 308,
+      "MagicDefRate": 80,
+      "Skill": 110,
+      "SkillRate": 37,
+      "HeartFetterBouns1": "선공으로 전투 진입시<br/>부대가 받는 피해<font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "물리 공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -185,7 +180,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "민정관 : 공격+5, 방어+6",
+      "ClassTitle": "해변의 가수 : 방어+4, 마방+6 ",
       "Tiers": [
         {
           "Name": "T1",
@@ -202,7 +197,7 @@
       ]
     },
     {
-      "ClassTitle": "바다의 투사 : 생명+80, 방어+5",
+      "ClassTitle": "슬픈 노래를 부르는 자 : ",
       "Tiers": [
         {
           "Name": "T1",
@@ -233,7 +228,7 @@
       ]
     },
     {
-      "ClassTitle": "바다의 투사 사령관 : 공격+25, 생명+90, 방어+10",
+      "ClassTitle": "심해의 풍경 : 생명+90, 마방+10, 지력+25",
       "Tiers": [
         {
           "Name": "T1",
@@ -274,7 +269,7 @@
       ]
     },
     {
-      "ClassTitle": "행정관 : 생명+80, 기술+5",
+      "ClassTitle": "인어소녀 : 생명+80, 지력+7",
       "Tiers": [
         {
           "Name": "T1",
@@ -305,7 +300,7 @@
       ]
     },
     {
-      "ClassTitle": "집정관 : 공격+15, 방어+16, 마방+10",
+      "ClassTitle": "환상의 배우 : 방어+10, 마방+10, 지력+25",
       "Tiers": [
         {
           "Name": "T1",
@@ -349,16 +344,16 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "중력 배격",
-      "Cost": "COST 2",
+      "Name": "빙결",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
-          "Value": "물리 피해"
+          "Value": "마법 피해"
         },
         {
           "Label": "쿨타임",
-          "Value": "2턴"
+          "Value": "1턴"
         },
         {
           "Label": "사거리",
@@ -369,168 +364,22 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Nymph/1.webp",
-      "Desc": "직선에 있는 단일 개체 <font color=\"red\">1.4</font>배 피해<br/>전투 전 이동 거리 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">+5</font>% (최대 <font color=\"red\">+15</font>%)<br/><font color=\"blue\">호위</font>를 받지 않은 적 공격 시 <font color=\"blue\">위치 이동</font> 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 <font color=\"red\">2</font>칸 밀침<br/><b>근접전 병사 대동 시 병사도 함께 공격</b><br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
+      "IconImageUrl": "../img/skills/Skill_IceBolt.webp",
+      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "업어 치기",
+      "Name": "파도의 꿈",
       "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
-          "Value": "물리 피해"
+          "Value": "치료"
         },
         {
           "Label": "쿨타임",
           "Value": "1턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "1칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Skill_Virash1.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.2</font>배의 피해를 준다.<br/>적이 <font color=\"blue\">호위</font>를 받지 않을 경우 적을 자신의 반대 편으로 <font color=\"blue\">위치 이동</font> 시킨다",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "태양 베기",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "물리 피해"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "2턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "1칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"Red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"Red\">30</font>%만큼 <font color=\"green\">생명 회복</font> 한다.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "쌍월의 마음",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Nymph/2.webp",
-      "Desc": "<font color=\"red\">사망</font> 시 생명 <font color=\"red\">10</font>% <font color=\"green\">회복</font> 후 <font color=\"blue\">부활</font><br/><font color=\"blue\">물 속</font>에 있을 경우 <font color=\"green\">회복</font>량 <font color=\"red\">60</font>%로 상승<br/>최대 <font color=\"red\">1</font>회 발동",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "물의 창",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "물리 피해"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "2턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "1칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Skill_WaterCrash.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/><font color=\"blue\">물 속</font>에 있을 경우 <font color=\"red\">2</font>배의 피해를 준다.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "파도 타기",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "지원"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "3턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "자신"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Skill_WaterControl.webp",
-      "Desc": "사용 후 이동 시 통과하는 모든 지형을 '<font color=\"blue\">물 속</font>'으로 취급한다.<br/><font color=\"red\">2</font>턴 지속.<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font>",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "장갑 파괴",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font>턴 지속.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "방어 지휘",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "지휘,패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10</font>%.",
-      "SubSkills": null,
-      "Animation": null
-    },    
-    {
-      "Name": "월상 인력",
-      "Cost": "COST 3",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "물리피해"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "3턴"
         },
         {
           "Label": "사거리",
@@ -541,33 +390,167 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/Super/님프.webp",
-      "Desc": "직선에 있는 단일 개체 <font color=\"red\">0.26</font>배 범위 피해 및 '<font color=\"blue\">위치 이동</font>' 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 자신에게 끌어당기고 목표 이동력 <font color=\"red\">-2</font>, 지속 <font color=\"red\">1</font>턴<br/><b>해제 불가</b><br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">달의 조수</font>'로 변경",
-      "SubSkills": [
+      "IconImageUrl": "../img/skills/Nymph/1.webp",
+      "Desc": " 자신 및 목표 부대 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 시전자 지력 <font color=\"red\">3</font>배 수치 및<br/>'<font color=\"blue\">다음에 피격으로 피해를 입을 경우<, 지력 <font color=\"red\">3</font>배 수치만큼 생명 <font color=\"red\">1</font>회 <font color=\"green\">회복</font></font>' 효과 부여<br/>지속 <font color=\"red\">2</font><br/>스킬 사용 후 자신은 '<font color=\"blue\">파도타기</font>' 효과 획득<br/>지속 <font color=\"red\">2</font>턴<br/>만약 대상의 이동 방식이 <font color=\"blue\">수상이동</font>일 경우 목표에게도 동일 효과 부여",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "성언",
+      "Cost": "COST 2",
+      "Entries": [
         {
-          "Name": "달의 조수",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "물리피해"
-            },
-            {
-              "Label": "쿨타임",
-              "Value": "-"
-            },
-            {
-              "Label": "사거리",
-              "Value": "1칸"
-            },
-            {
-              "Label": "범위",
-              "Value": "단일"
-            }
-          ],
-          "IconImageUrl": "../img/Super/님프_1.webp",
-          "Desc": "단일 개체 <font color=\"Red\">1.5</font>배 피해, <font color=\"blue\">물 속</font>에 있을 경우 영웅이 주는 피해량 <font color=\"Red\">+40</font>%<br/>전투 후 피해량 <font color=\"Red\">30</font>% 수치 <font color=\"green\">생명 회복</font> 및 <br/>목표에게 '위치한 지형을 <font color=\"blue\">물 속</font>으로 간주' 효과 부여, <b>해제 불가</b><br/>지속 <font color=\"Red\">2</font>턴<br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">월상 인력</font>'으로 변경"
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
         }
       ],
+      "IconImageUrl": "../img/skills/19.webp",
+      "Desc": "단일 개체 <font color=\"Red\">1.5</font>배의 피해<br/>'마물'에게 더 큰 피해를 준다<br/>전투 후 생명이 가장 적은 아군의 <font color=\"green\">생명 회복</font>.<br/>회복량은 사용자 지력의 <font color=\"Red\">4</font>배.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "소용돌이의 춤",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Nymph/2.webp",
+      "Desc": "단일 개체 <font color=\"red\">1.6</font>배 피해<br/>전투 진입 시 <font color=\"blue\">병사 사거리</font> <font color=\"red\">+1</font><br/>전투 후 적이 위치한 지형을 '<font color=\"blue\">수중</font>'으로 변경 (지속 <font color=\"red\">2</font>행동) 및<br/>'<font color=\"blue\">행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 안 아군에게 고정피해</font> <font color=\"red\">1</font>회<br/>피해량은 시전자 지력 <font color=\"red\">2</font>배 수치' 효과 부여<br/>해제 불가<br/>지속 <font color=\"red\">2</font>턴",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "광역 실드",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
+      "Desc": "범위 내 아군들의 방어 <font color =\"red\">+20</font>%.<br/>'<font color =\"blue\">방어, 마방 감소</font>','<font color =\"green\">치료 방해</font>' 면역 부여<br/>쿨타임 <font color =\"red\">2</font>턴",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "방어막 파괴",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_BreakMDef2.webp",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방 <font color=\"red\">-25%</font><br/>지속 <font color=\"red\">1</font>턴",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "마방 지원",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_MDefBuf.webp",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"Red\">1</font>개 아군 부대의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">1</font>턴",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "물 색의 꿈",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "마법 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "5칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "직선"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Nymph/3.webp",
+      "Desc": "<font color=\"red\">3</font>줄 직선상 적에게 <font color=\"red\">0.3</font>배 피해 및 <font color=\"blue\">버프 <font color=\"red\">1</font.개 제거</font><br/>동시에 범위 안 아군 <font color=\"green\">생명 회복</font> 및 <font color=\"blue>\">디버프 <font color=\"red\">1</font>개 제거</font><br/>회복량은 시전자 지력 <font color=\"red\">3</font>배 수치.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "마지막 앙코르",
+      "Cost": "COST 3",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "회복"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
+      "IconImageUrl": "../img/Super/님프.webp",
+      "Desc": "사용 시 추가적으로 <font color=\"purple\">고유 스킬</font> 카운트 <font color=\"red\">1</font>스택 획득<br/><font color=\"blue\">회복 범위 안 다수 부대의 생명을 시전자 지력 <font color=\"red\">2</font>배 수치로 <font color=\"green\">회복</font> 및 '주는 피해 <font color=\"red\">+15</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>턴<br/>동시에 '<font color=\"blue\">아리아</font>' 효과 획득<br/><font color=\"blue\">아리아</font> : 모든 적이 행동 종료 시 일정 확률로 '<font color=\"blue\">수면</font>' 효과 획득 (<font color=\"blue\">기절</font>)<br/>지속 <font color=\"red\">2</font>턴<br/><font color=\"blue\">아리아</font>는 해제 불가<br/>지속 시간 동안 최대 <font color=\"red\">4</font>회 발동<br/>적이 님프와 가까울수록 수면 확률 상승, 최대 <font color=\"red\">100</font>%<br/><font color=\"blue\">수면</font> 효과를 보유하고 있을 경우 갱신되지 않음",
+      "SubSkills": null,
       "Animation": "../img/Super/님프_Ani.webp"
     }
   ],

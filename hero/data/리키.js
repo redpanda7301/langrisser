@@ -470,20 +470,6 @@
       "Animation": null
     },
     {
-      "Name": "장갑 파괴",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">적의 방어</font> <font color=\"red\">-20</font></font>%<br/>지속 <font color=\"Red\">1</font>턴",
-      "SubSkills": null,
-      "Animation": null
-    },    
-    {
       "Name": "정면일격",
       "Cost": "COST 2",
       "Entries": [

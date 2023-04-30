@@ -465,7 +465,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef2.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방 <font color=\"red\">-25%</font><br/><font color=\"red\">1턴</font>지속.",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방 <font color=\"red\">-25%</font><br/>지속 <font color=\"red\">1</font>턴",
       "SubSkills": null,
       "Animation": null
     },
