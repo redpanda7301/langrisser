@@ -12,6 +12,10 @@
     {
       "ImageUrl": "방주의성녀/3.webp",
       "Desc": "형귀뽑기"
+    },
+    {
+      "ImageUrl": "방주의성녀/4.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "방주의 성녀",
@@ -111,6 +115,9 @@
         },
         {
           "ImageUrl": "방주의성녀/3/1.webp"
+        },
+        {
+          "ImageUrl": "방주의성녀/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -143,6 +150,9 @@
         },
         {
           "ImageUrl": "방주의성녀/3/1.webp"
+        },
+        {
+          "ImageUrl": "방주의성녀/4/1.webp"
         }
       ],
       "AttkRange": 2,

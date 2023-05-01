@@ -1,0 +1,15 @@
+Icon_CastFigure_Attackgem.webp
+Icon_CastFigure_Axe.webp
+Icon_CastFigure_Bow.webp
+Icon_CastFigure_Clothes.webp
+Icon_CastFigure_Dagger.webp
+Icon_CastFigure_Hammer.webp
+Icon_CastFigure_Hat.webp
+Icon_CastFigure_LeatherArmor.webp
+Icon_CastFigure_LeatherHelmet.webp
+Icon_CastFigure_MetalArmor.webp
+Icon_CastFigure_MetalHelmet.webp
+Icon_CastFigure_Spear.webp
+Icon_CastFigure_Sword.webp
+Icon_CastFigure_Wand.webp
+list.txt

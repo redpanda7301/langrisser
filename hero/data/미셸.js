@@ -8,6 +8,10 @@
     {
       "ImageUrl": "미셸/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "미셸/3.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "미셸",
@@ -101,6 +105,9 @@
         },
         {
           "ImageUrl": "미셸/2/1.webp"
+        },
+        {
+          "ImageUrl": "미셸/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -130,6 +137,9 @@
         },
         {
           "ImageUrl": "미셸/2/1.webp"
+        },
+        {
+          "ImageUrl": "미셸/3/1.webp"
         }
       ],
       "AttkRange": 1,

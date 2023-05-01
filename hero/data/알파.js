@@ -79,7 +79,7 @@
   ],
   "SPTalent":null,
   "Second_Awaken":{
-    "Name" : "",
+    "Name" : "수정 코어 충전",
     "Stats":"공격, 방어 <font color=\"red\">+5</font>%<br/><font color=\"blue\">패시브 봉인 면역</font><br/><font color=\"blue\">자수정 폭발</font> 스킬 피해량<font color=\"red\">+10</font>%"
   },
   "Equip": {

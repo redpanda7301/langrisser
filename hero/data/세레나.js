@@ -75,7 +75,7 @@ var data = [
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "",
+    "Name" : "영원한 맹세의 창",
     "Stats":"생명, 방어 <font color=\"red\">+5</font>%<br/><b>전장에 윌러가 아군으로 있을 경우</b><br/>자신의 <font color=\"blue\">부대 반격 사거리</font> <font color=\"red\">+1</font>"
   },
   "Equip": {

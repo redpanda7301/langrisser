@@ -8,6 +8,10 @@
     {
       "ImageUrl": "아즈사/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "아즈사/3.webp",
+      "Desc": "빛의 메아리"
     }
   ],
   "Name": "아즈사",
@@ -105,6 +109,9 @@
         },
         {
           "ImageUrl": "아즈사/2/1.webp"
+        },
+        {
+          "ImageUrl": "아즈사/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -134,6 +141,9 @@
         },
         {
           "ImageUrl": "아즈사/2/1.webp"
+        },
+        {
+          "ImageUrl": "아즈사/3/1.webp"
         }
       ],
       "AttkRange": 1,
