@@ -549,7 +549,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/님프.webp",
-      "Desc": "사용 시 추가적으로 <font color=\"purple\">고유 스킬</font> 카운트 <font color=\"red\">1</font>스택 획득<br/><font color=\"blue\">회복 범위 안 다수 부대의 생명을 시전자 지력 <font color=\"red\">2</font>배 수치로 <font color=\"green\">회복</font> 및 '주는 피해 <font color=\"red\">+15</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>턴<br/>동시에 '<font color=\"blue\">아리아</font>' 효과 획득<br/><font color=\"blue\">아리아</font> : 모든 적이 행동 종료 시 일정 확률로 '<font color=\"blue\">수면</font>' 효과 획득 (<font color=\"blue\">기절</font>)<br/>지속 <font color=\"red\">2</font>턴<br/><font color=\"blue\">아리아</font>는 해제 불가<br/>지속 시간 동안 최대 <font color=\"red\">4</font>회 발동<br/>적이 님프와 가까울수록 수면 확률 상승, 최대 <font color=\"red\">100</font>%<br/><font color=\"blue\">수면</font> 효과를 보유하고 있을 경우 갱신되지 않음",
+      "Desc": "사용 시 추가적으로 <font color=\"purple\">고유 스킬</font> 카운트 <font color=\"red\">1</font>스택 획득<br/>회복 범위 안 다수 부대의 생명을 시전자 지력 <font color=\"red\">2</font>배 수치로 <font color=\"green\">회복</font> 및 '<font color=\"blue\">주는 피해</font> <font color=\"red\">+15</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>턴<br/>동시에 '<font color=\"blue\">아리아</font>' 효과 획득<br/><font color=\"blue\">아리아</font> : 모든 적이 행동 종료 시 일정 확률로 '<font color=\"blue\">수면</font>' 효과 획득 (<font color=\"blue\">기절</font>)<br/>지속 <font color=\"red\">2</font>턴<br/><font color=\"blue\">아리아</font>는 해제 불가<br/>지속 시간 동안 최대 <font color=\"red\">4</font>회 발동<br/>적이 님프와 가까울수록 수면 확률 상승, 최대 <font color=\"red\">100</font>%<br/><font color=\"blue\">수면</font> 효과를 보유하고 있을 경우 갱신되지 않음",
       "SubSkills": null,
       "Animation": "../img/Super/님프_Ani.webp"
     }
