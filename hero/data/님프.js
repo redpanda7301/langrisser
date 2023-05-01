@@ -129,7 +129,7 @@
           "ImageUrl": "님프/2/1.webp"
         }
       ],
-      "AttkRange": 2,
+      "AttkRange": 1,
       "Move": 3,
       "MoveType": "Water",
       "HP": 3702,
