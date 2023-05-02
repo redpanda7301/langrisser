@@ -41,7 +41,7 @@
       "Condition": "님프를 심해의 풍경으로 전직"
     },
     {
-      "Condition": "타탈리아의 도움을 받아 운명의문4"
+      "Condition": "님프를 환상의 배우로 전직"
     },
     {
       "Condition": "타탈리아의 도움을 받아 운명의문5"
@@ -391,7 +391,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Nymph/1.webp",
-      "Desc": " 자신 및 목표 부대 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 시전자 지력 <font color=\"red\">3</font>배 수치 및<br/>'<font color=\"blue\">다음에 피격으로 피해를 입을 경우<, 지력 <font color=\"red\">3</font>배 수치만큼 생명 <font color=\"red\">1</font>회 <font color=\"green\">회복</font></font>' 효과 부여<br/>지속 <font color=\"red\">2</font><br/>스킬 사용 후 자신은 '<font color=\"blue\">파도타기</font>' 효과 획득<br/>지속 <font color=\"red\">2</font>턴<br/>만약 대상의 이동 방식이 <font color=\"blue\">수상이동</font>일 경우 목표에게도 동일 효과 부여",
+      "Desc": " 자신 및 목표 부대 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 시전자 지력 <font color=\"red\">3</font>배 수치 및<br/>'<font color=\"blue\">다음에 피격으로 피해를 입을 경우, 지력 <font color=\"red\">3</font>배 수치만큼 생명 <font color=\"red\">1</font>회 <font color=\"green\">회복</font></font>' 효과 부여<br/>지속 <font color=\"red\">2</font>턴<br/>스킬 사용 후 자신은 '<font color=\"blue\">파도타기</font>' 효과 획득<br/>지속 <font color=\"red\">2</font>턴<br/>만약 대상의 이동 방식이 <font color=\"blue\">수상이동</font>일 경우 목표에게도 동일 효과 부여",
       "SubSkills": null,
       "Animation": null
     },
@@ -533,7 +533,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "회복"
+          "Value": "액티브"
         },
         {
           "Label": "쿨타임",
