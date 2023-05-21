@@ -606,7 +606,7 @@
       "Animation": "../img/Super/폴리알_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  

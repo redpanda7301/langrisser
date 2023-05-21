@@ -80,7 +80,7 @@
   "Equip": {
     "Name": "과부하 코어(투구)",
     "Stats": "생명 364,마방 65",
-    "Icon": "루크레치아.webp",
+    "Icon": "껍질소녀.webp",
     "Ability": "생명 <font color=\"red\">+10</font>%<br/><b>피해를 입히지 않고 행동 종료 시</b> '<font color=\"blue\">강화 학습</font>' 획득<br/><font color=\"blue\">강화 학습</font> : 지력 <font color=\"red\">+5</font>%, <font color=\"blue\">스킬 사거리</font> <font color=\"red\">+1</font>'<br/><b>면역 불가</b><br/>선공으로 피해를 입힌 후 제거."
   },
   "Soldiers": [

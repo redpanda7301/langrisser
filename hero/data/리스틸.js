@@ -82,7 +82,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "악혈의 포옹",
+    "Stats": "마방 <font color=\"red\">+5</font>%<br/>자신이 부여한 <font color=\"blue\">상처 저주</font>나 <font color=\"blue\">치료 반전</font> 효과를 보유한 적이 있을 경우<br/>자신 부대 <font color=\"blue\">받는 피해</font> <font color=\"red\">-10</font>%",
+  },
   "Equip": {
       "Name": "마족의 뿔투구(투구)",
       "Stats": "생명 437,마방 59",

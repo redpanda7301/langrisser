@@ -455,7 +455,7 @@
       "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font> 지속.",
       "SubSkills": null,
       "Animation": null
-    },    
+    },
     {
       "Name": "강화",
       "Cost": "COST 1",

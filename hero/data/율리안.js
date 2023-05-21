@@ -8,6 +8,10 @@
     {
       "ImageUrl": "율리안/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "율리안/3.webp",
+      "Desc": "형귀스킨"
     }
   ],
   "Name": "율리안",
@@ -102,6 +106,9 @@
         },
         {
           "ImageUrl": "율리안/2/1.webp"
+        },
+        {
+          "ImageUrl": "율리안/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -130,7 +137,10 @@
           "ImageUrl": "율리안/1/2.webp"
         },
         {
-          "ImageUrl": "율리안/2/1.webp"
+          "ImageUrl": "율리안/2/2.webp"
+        },
+        {
+          "ImageUrl": "율리안/3/2.webp"
         }
       ],
       "AttkRange": 2,

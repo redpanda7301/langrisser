@@ -8,7 +8,11 @@
     {
       "ImageUrl": "리오벡/2.webp",
       "Desc": "빛의 메아리"
-    }    
+    },
+    {
+      "ImageUrl": "리오벡/3.webp",
+      "Desc": "한정판매"
+    }
   ],
   "Name": "리오벡",
   "ChName": "里奥贝克",
@@ -102,6 +106,9 @@
         },
         {
           "ImageUrl": "리오벡/2/1.webp"
+        },
+        {
+          "ImageUrl": "리오벡/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -132,6 +139,9 @@
         },
         {
           "ImageUrl": "리오벡/2/1.webp"
+        },
+        {
+          "ImageUrl": "리오벡/3/1.webp"
         }
       ],
       "AttkRange": 2,

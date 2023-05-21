@@ -78,7 +78,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "초월의 유지",
+    "Stats": "올스텟 <font color=\"red\">+10</font>%<br/><font color=\"purple\">고유 스킬</font> <font color=\"blue\">소환</font> 효과 발동 시<br/><font color=\"blue\">최종 구조체</font> <font color=\"blue\">소환</font>",
+  },
   "Equip": {
     "Name": "소멸과 창조의 지팡이(무기)",
     "Stats": "생명 437,지력 107",
