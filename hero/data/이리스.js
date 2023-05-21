@@ -24,27 +24,27 @@
     8,
     10
   ],
-  "HP": 20,
+  "HP": 25,
   "SPHP": 0,
-  "Attk": 40,
+  "Attk": 35,
   "SPAttk": 0,
-  "Def": 15,
+  "Def": 25,
   "SPDef": 0,
-  "MagicDef": 25,
+  "MagicDef": 15,
   "SPMagicDef": 0,
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "시공 3-6 일반"
+      "Condition": "레벨 30"
     },
     {
-      "Condition": "시공 3-1 하드"
+      "Condition": "이리스를 영원한 밤의 서약 전직"
     },
     {
-      "Condition": "마이야와 함께 운명의문3"
+      "Condition": "아단켈모의 도움을 받아 운명의문4"
     },
     {
-      "Condition": "아레스와 함께 운명의문5"
+      "Condition": "투어밀크의 도움을 받아 운명의문5"
     }
   ],
   "HeartFetter": "생명+700, 방어+50, 마방+40",
