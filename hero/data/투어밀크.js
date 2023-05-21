@@ -140,7 +140,7 @@
       "Def": 275,
       "DefRate": 60,
       "MagicDef": 341,
-      "MagicDefRate": 811,
+      "MagicDefRate": 81,
       "Skill": 96,
       "SkillRate": 28,
       "HeartFetterBouns1": "자신의 부대보다 생명 백분비가 낮은 적과 교전 시<br/>전투 진입 후 받는 피해량 <font color=\"red\">-10</font>%",
@@ -535,7 +535,7 @@
       "Animation": null
     },    
     {
-      "Name": "신벌",
+      "Name": "미지의 세계 효시",
       "Cost": "COST 3",
       "Entries": [
         {
