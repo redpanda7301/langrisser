@@ -114,8 +114,8 @@
       "MagicDefRate": 67,
       "Skill": 255,
       "SkillRate": 71,
-      "HeartFetterBouns1": "",
-      "HeartFetterBouns2": ""
+      "HeartFetterBouns1": "근접 공격 피격 시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "가무희",
@@ -143,8 +143,8 @@
       "MagicDefRate": 70,
       "Skill": 224,
       "SkillRate": 65,
-      "HeartFetterBouns1": "",
-      "HeartFetterBouns2": ""
+      "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "자신 부대 보다 생명 백분비가 높은 적을 선공 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -492,11 +492,11 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "3턴"
+          "Value": "2턴"
         },
         {
           "Label": "사거리",
-          "Value": "3칸"
+          "Value": "2칸"
         },
         {
           "Label": "범위",
