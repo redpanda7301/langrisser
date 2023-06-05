@@ -99,7 +99,7 @@
           "ImageUrl": "빛과그림자검의영혼/2/1.webp"
         }
       ],
-      "AttkRange": 2,
+      "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
       "HP": 3878,
@@ -128,7 +128,7 @@
           "ImageUrl": "빛과그림자검의영혼/2/1.webp"
         }
       ],
-      "AttkRange": 2,
+      "AttkRange": 1,
       "Move": 3,
       "MoveType": "Walk",
       "HP": 4174,
