@@ -79,12 +79,15 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "전수의 길",
+    "Stats": "공격,방어 <font color=\"red\">+5</font>%<br/>자신이 <font color=\"blue\">초절 강화 특수 효과</font> 보유한 상태로 <font color=\"blue\">전술 지도</font> 사용했을 시<br/>복제 수량 <font color=\"red\">+2</font>",
+  },
   "Equip": {
     "Name": "영안 안경(투구)",
     "Stats": "생명 583, 마방 48",
     "Icon": "토와.webp",
-    "Ability": "생명 <font color=\"red\">+5</font>)%, 방어 <font color=\"red\">+5</font>%<br/><b>자신이 <font color =\"blue\">초절강화 특수효과</font> 보유시</b><br/>선공으로 전투 진입시 영웅이 주는 피해량 <font color =\"red\">+10</font>%<br/><b>적이 <font color =\"blue\">초절강화 특수효과</font> 미보유 시 적의 '<font color =\"blue\">공격, 지력 <font color =\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>턴"
+    "Ability": "생명 <font color=\"red\">+5</font>)%, 방어 <font color=\"red\">+5</font>%<br/><b>자신이 <font color =\"blue\">초절강화 특수효과</font> 보유시</b><br/>선공으로 전투 진입시 영웅이 주는 피해량 <font color =\"red\">+10</font>%<br/><b>적이 <font color =\"blue\">초절강화 특수효과</font> 미보유 시 적의 '<font color =\"blue\">공격, 지력 <font color =\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>행동"
   },
   "Soldiers": [
     48,
@@ -408,7 +411,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash2.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격하여 <font color =\"red\">1.5</font>배의 전투 피해를 준다. <br/><b>전투 전</b> [<font color =\"blue\">바람 타기</font>]획득 :<br/><b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%, <font color =\"red\">2</font>턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격하여 <font color =\"red\">1.5</font>배의 전투 피해를 준다. <br/><b>전투 전</b> [<font color =\"blue\">바람 타기</font>]획득 :<br/><b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%, <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -528,7 +531,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Thump.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 공격 피해를 준다. <br/><b>자신이 방어 지형에 있을 시 전투 전</b> 대상에게 <font color =\"blue\">기절</font> 시전<br/><font color =\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 공격 피해를 준다. <br/><b>자신이 방어 지형에 있을 시 전투 전</b> 대상에게 <font color =\"blue\">기절</font> 시전<br/><font color =\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -542,7 +545,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Again.webp",
-      "Desc": "[패시브]<b>행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">2</font>개 다른 아군 부대가</b> 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '<font color =\"blue\">공격, 지력 감소</font>', '<font color =\"blue\">침묵</font>', <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[패시브]<b>행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">2</font>개 다른 아군 부대가</b> 주는 피해량 <font color=\"red\">+15%</font> 및 <br/>면역: '<font color =\"blue\">공격, 지력 감소</font>', '<font color =\"blue\">침묵</font>', <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

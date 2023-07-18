@@ -360,7 +360,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Tourmilk/1.webp",
-      "Desc": "[액티브]<font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font> 중 많은 쪽 하나를 다른 쪽으로 <font color=\"blue\">전환</font> 시킴<br/>'<font color=\"blue\">주는 피해량</font> <font color=\"red\">+20</font>%', '선공으로 피해를 입힐 경우 <font color=\"blue\">받는 반사 피해</font> <font color=\"red\">-30</font>%' 효과 획득<br/>지속 <font color=\"red\">2</font>턴<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font><br/><b>해당 재행동은 버프 지속 시간을 소모하지 않음</b>",
+      "Desc": "[액티브]<font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font> 중 많은 쪽 하나를 다른 쪽으로 <font color=\"blue\">전환</font> 시킴<br/>'<font color=\"blue\">주는 피해량</font> <font color=\"red\">+20</font>%', '선공으로 피해를 입힐 경우 <font color=\"blue\">받는 반사 피해</font> <font color=\"red\">-30</font>%' 효과 획득<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font><br/><b>해당 재행동은 버프 지속 시간을 소모하지 않음</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -452,7 +452,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "[패시브]행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>턴 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -504,7 +504,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
-      "Desc": "범위 내 아군들의 방어 <font color =\"red\">+20</font>%.<br/>'<font color =\"blue\">방어, 마방 감소</font>','<font color =\"green\">치료 방해</font>' 면역 부여<br/>쿨타임 <font color =\"red\">2</font>턴",
+      "Desc": "범위 내 아군들의 방어 <font color =\"red\">+20</font>%.<br/>'<font color =\"blue\">방어, 마방 감소</font>','<font color =\"green\">치료 방해</font>' 면역 부여<br/>쿨타임 <font color =\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -556,7 +556,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/투어밀크.webp",
-      "Desc": "[패시브]행동 종료 시 보유한 <font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font>의 숫자가 동일할 경우, 해당 행동 때 사용한 스킬 쿨타임 <font color=\"red\">-1</font>턴<br/>[마법피해] 단일 개체 <font color=\"red\">1.7</font>배 피해, <font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font> 수량에 따라 추가 효과<br/>1) <font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 <font color=\"blue\">제거</font><br/>2) <font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 전투 전 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 <font color=\"blue\">부여</font><br/>해당 공격이 <font color=\"blue\">호위</font> 되지 않을 경우 전투 후 <font color=\"blue\">텔레포트</font> 효과<br/>(적을 시전자 주위 <font color=\"red\">3</font>칸 범위 안 무작위 위치로 <font color=\"blue\">텔레포트</font>)<br/>스킬 사용 후 <font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font> 중 많은 전체를 다른 쪽으로 <font color=\"blue\">전환</font>",
+      "Desc": "[패시브]행동 종료 시 보유한 <font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font>의 숫자가 동일할 경우, 해당 행동 때 사용한 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>[마법피해] 단일 개체 <font color=\"red\">1.7</font>배 피해, <font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font> 수량에 따라 추가 효과<br/>1) <font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 <font color=\"blue\">제거</font><br/>2) <font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 전투 전 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 <font color=\"blue\">부여</font><br/>해당 공격이 <font color=\"blue\">호위</font> 되지 않을 경우 전투 후 <font color=\"blue\">텔레포트</font> 효과<br/>(적을 시전자 주위 <font color=\"red\">3</font>칸 범위 안 무작위 위치로 <font color=\"blue\">텔레포트</font>)<br/>스킬 사용 후 <font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font> 중 많은 전체를 다른 쪽으로 <font color=\"blue\">전환</font>",
       "SubSkills": null,
       "Animation": "../img/Super/투어밀크_Ani.webp"
     }

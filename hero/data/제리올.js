@@ -59,16 +59,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br/>원거리 공격 후 아군에게 제리올&레이라 <br/>공격+지력의 <font color=\"red\">0.5</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br/> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">10%</font>만큼 회복<br/> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>턴 지속."
+          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br/>원거리 공격 후 아군에게 제리올&레이라 <br/>공격+지력의 <font color=\"red\">0.5</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br/> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">10%</font>만큼 회복<br/> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>행동 지속."
         },
         {
-          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br/>원거리 공격 후 아군에게 제리올&레이라 <br/>공격+지력의 <font color=\"red\">0.8</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br/> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">15%</font>만큼 회복<br/> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>턴 지속."
+          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br/>원거리 공격 후 아군에게 제리올&레이라 <br/>공격+지력의 <font color=\"red\">0.8</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br/> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">15%</font>만큼 회복<br/> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>행동 지속."
         },
         {
-          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br/>원거리 공격 후 아군에게 제리올&레이라 <br/>공격+지력의 <font color=\"red\">1.1</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br/> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">20%</font>만큼 회복<br/> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>턴 지속."
+          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br/>원거리 공격 후 아군에게 제리올&레이라 <br/>공격+지력의 <font color=\"red\">1.1</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br/> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">20%</font>만큼 회복<br/> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>행동 지속."
         },
         {
-          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br/>원거리 공격 후 아군에게 제리올&레이라 <br/>공격+지력의 <font color=\"red\">1.5</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br/> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">30%</font>만큼 회복<br/> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>턴 지속."
+          "Desc": "공격 시 근접 공격 피해감면 영향을 받지 않는다.<br/>원거리 공격 후 아군에게 제리올&레이라 <br/>공격+지력의 <font color=\"red\">1.5</font>배 생명을 회복 <font color=\"red\">1</font>개 디버프 제거.<br/> 근거리 공격 후 자신 부대의 생명을 입힌 피해 <font color=\"red\">30%</font>만큼 회복<br/> 자신에게 &#39;면역&#39; 시전 <font color=\"red\">1</font>행동 지속."
         }
       ]
     }
@@ -76,7 +76,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "영원한 맹세",
-    "Stats":"<font color=\"blue\">액티브 스킬</font> 피해량 <font color=\"red\">+10</font>%<br/><font color=\"blue\">레이라의 축복</font>(<font color=\"blue\">제리올의 호위</font>) 지속시간 <font color=\"red\">+1</font>턴 "
+    "Stats":"<font color=\"blue\">액티브 스킬</font> 피해량 <font color=\"red\">+10</font>%<br/><font color=\"blue\">레이라의 축복</font>(<font color=\"blue\">제리올의 호위</font>) 지속시간 <font color=\"red\">+1</font>행동 "
   },
   "Equip": {
     "Name": "같은 마음의 수호(망치)",

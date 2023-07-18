@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+5%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">4</font>턴 간격으로 재발동 가능.</b>)"
+          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+5%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>행동 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">4</font>행동 간격으로 재발동 가능.</b>)"
         },
         {
-          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+8%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">3</font>턴 간격으로 재발동 가능.</b>)"
+          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+8%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+1</font> 이동 불가 <font color=\"red\">1</font>행동 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">3</font>행동 간격으로 재발동 가능.</b>)"
         },
         {
-          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+11%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">3</font>턴 간격으로 재발동 가능.</b>)"
+          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+11%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>행동 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">3</font>행동 간격으로 재발동 가능.</b>)"
         },
         {
-          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+15%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>턴 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">2</font>턴 간격으로 재발동 가능.</b>)"
+          "Desc": "<b>적을 공격할 시</b> 공격력 <font color=\"red\">+15%</font>.<br/><b>해당 턴에 공격하지 않고<br/>자신의 부대가 있는 지형이 '<font color=\"green\">방어 상승 효과</font>'가 있을 경우 재행동 <font color=\"red\">1</font>회 가능</b> <br/>동시에 <font color =\"purple\">저격</font> 버프 부여<br/><b>부대 사거리 <font color=\"red\">+2</font> 이동 불가 <font color=\"red\">1</font>행동 지속.<br/><b>(해당 효과 제거 불가 <font color=\"red\">2</font>행동 간격으로 재발동 가능.</b>)"
         }
       ]
     }
@@ -113,7 +113,7 @@
     "Name": "스카우터(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "시그마.webp",
-    "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/>행동종료시 <font color=\"red\">25%</font>확률로 \"공격<font color=\"red\">+20%</font>\" 버프획득, <font color=\"red\">4</font>턴 지속."
+    "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/>행동종료시 <font color=\"red\">25%</font>확률로 \"공격<font color=\"red\">+20%</font>\" 버프획득, <font color=\"red\">4</font>행동 지속."
   },
   "Soldiers": [
     9,
@@ -676,7 +676,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightErrant.webp",
-      "Desc": "[지원]액티브 스킬, <b>자신이 위치한 지형을 <font color=\"green\">숲</font>으로 취급</b>, <font color=\"red\">1</font>턴 지속.<br/><b>사용 후 <font color =\"blue\">재공격</font> 가능</b>",
+      "Desc": "[지원]액티브 스킬, <b>자신이 위치한 지형을 <font color=\"green\">숲</font>으로 취급</b>, <font color=\"red\">1</font>행동 지속.<br/><b>사용 후 <font color =\"blue\">재공격</font> 가능</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -690,7 +690,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/11.webp",
-      "Desc": "[패시브]공격 시 주는 피해량 <font color=\"red\">+10</font>%.<br/><b>전투 후</b> 다시 <font color=\"red\">2</font>칸 이동할 수 있다.<br/>재이동 효과는 <font color=\"red\">1</font>턴 이후 다시 발동할 수 있다.",
+      "Desc": "[패시브]공격 시 주는 피해량 <font color=\"red\">+10</font>%.<br/><b>전투 후</b> 다시 <font color=\"red\">2</font>칸 이동할 수 있다.<br/>재이동 효과는 <font color=\"red\">1</font>행동 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -730,7 +730,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash4.webp",
-      "Desc": "[물리 피해]단일 적을 공격 하여 <font color=\"red\">0.8</font>배 피해를 입힌다.<br/>목표와 거리가 멀 수록 피해가 커진다. 간격 <font color=\"red\">1</font>칸마다 피해 <font color=\"red\">+15</font>%(최대 90%).<br/><b>전투 후 자신의 이동력 <font color=\"red\">+2</font></b><br/> <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해]단일 적을 공격 하여 <font color=\"red\">0.8</font>배 피해를 입힌다.<br/>목표와 거리가 멀 수록 피해가 커진다. 간격 <font color=\"red\">1</font>칸마다 피해 <font color=\"red\">+15</font>%(최대 90%).<br/><b>전투 후 자신의 이동력 <font color=\"red\">+2</font></b><br/> <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -756,7 +756,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Thump.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 공격 피해를 준다. <br/><b>자신이 방어 지형에 있을 시 전투 전</b> 대상에게 <font color =\"blue\">기절</font> 시전<br/><font color =\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 공격 피해를 준다. <br/><b>자신이 방어 지형에 있을 시 전투 전</b> 대상에게 <font color =\"blue\">기절</font> 시전<br/><font color =\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -782,7 +782,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Crystal2.webp",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<font color =#0040D6>전설의 저편</font>' 아군의 <br/>공격, 방어가 상승 및 효과 부여:<br/><b>생명이 <font color =\"red\">80</font>%이하일 시</b> 피해 <font color =\"red\">+15</font>%<br/><font color =\"red\">4</font>턴 지속",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<font color =#0040D6>전설의 저편</font>' 아군의 <br/>공격, 방어가 상승 및 효과 부여:<br/><b>생명이 <font color =\"red\">80</font>%이하일 시</b> 피해 <font color =\"red\">+15</font>%<br/><font color =\"red\">4</font>행동 지속",
       "SubSkills": null,
       "Animation": null
     },
@@ -796,7 +796,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>턴지속.",
+      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>행동지속.",
       "SubSkills": null,
       "Animation": null
     },

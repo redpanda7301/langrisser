@@ -444,7 +444,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Transcendent/1.webp",
-      "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.25</font>배 범위 및 <font color =\"blue\">위치 이동</font>효과 부여<br/><font color =\"blue\">위치 이동</font> : 대상을 <font color =\"red\">2</font>칸 당기고 이동력<font color =\"red\">-2</font><br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "[마법 피해]1개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.25</font>배 범위 및 <font color =\"blue\">위치 이동</font>효과 부여<br/><font color =\"blue\">위치 이동</font> : 대상을 <font color =\"red\">2</font>칸 당기고 이동력<font color =\"red\">-2</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -496,7 +496,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ATKup.webp",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 <font color =\"red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>턴 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 <font color =\"red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -522,7 +522,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Transcendent/3.webp",
-      "Desc": "[마법 피해]<font color=\"red\">1</font>개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.35</font>배 범위 및 <br/>적에게 <font color =\"blue\">주는 피해량</font> <font color =\"red\">-10</font>% 효과 부여<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "[마법 피해]<font color=\"red\">1</font>개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.35</font>배 범위 및 <br/>적에게 <font color =\"blue\">주는 피해량</font> <font color =\"red\">-10</font>% 효과 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

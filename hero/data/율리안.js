@@ -83,7 +83,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "집행자의 침묵(투구)",
+    "Stats": "생명 437,마방 59",
+    "Icon": "율리안.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>전장에 생명 <font color=\"red\">100</font>% 미만 적 부대가 있을 경우<br/><font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>공격 후 <font color=\"red\">20</font>% 확률로 <font color=\"blue\">재행동</font>(쿨타임 <font color=\"red\">2</font>행동)"
+  },
   "Soldiers": [
     8,
     62,
@@ -415,7 +420,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass2.webp",
-      "Desc": "선공으로 전투 진입 시 전투 후 <font color=\"red\">30</font>%의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30</font>%<br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "선공으로 전투 진입 시 전투 후 <font color=\"red\">30</font>%의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30</font>%<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -481,7 +486,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.webp",
-      "Desc": "단일 개체 <font color=\"Red\">1.4</font>배 피해<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적 이동력 <font color=\"Red\">-1</font> 및 <font color=\"blue\">호위 불가</font> 부여<br/>지속 <font color=\"Red\">1</font>턴<br/>해제 불가",
+      "Desc": "단일 개체 <font color=\"Red\">1.4</font>배 피해<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적 이동력 <font color=\"Red\">-1</font> 및 <font color=\"blue\">호위 불가</font> 부여<br/>지속 <font color=\"Red\">1</font>행동<br/>해제 불가",
       "SubSkills": null,
       "Animation": null
     },
@@ -521,7 +526,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Julian/2.webp",
-      "Desc": "적 생명 <font color=\"Red\">100</font>% 미만일 경우 전투 진입 시 받는 피해 <font color=\"Red\">-15</font>%,<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"Red\">3</font>칸<br/>쿨타임 <font color=\"Red\">1</font>턴",
+      "Desc": "적 생명 <font color=\"Red\">100</font>% 미만일 경우 전투 진입 시 받는 피해 <font color=\"Red\">-15</font>%,<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"Red\">3</font>칸<br/>쿨타임 <font color=\"Red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -547,7 +552,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/율리안.webp",
-      "Desc": "[패시브]선공으로 적 격파 후 <b>피격으로 전투 진입 전</b>, 적에게 자신 공격 <font color=\"Red\">2</font>배 수치 <font color=\"blue\">고정 피해</font> 효과 획득<br/>지속 <font color=\"Red\">1</font>턴<br/>[물리피해]<font color=\"blue\">호위 무시</font> <font color=\"Red\">1.4</font>배 피해, 치명타 <font color=\"Red\">+30</font>%<br/>적 격파 시 스킬 쿨 <font color=\"Red\">-2</font> 및<br/> 영웅 생명 최대치 영구 증가 <font color=\"Red\">15</font>% 및 부대 생명 <font color=\"Red\">15</font>% <font color=\"green\">회복</font><br/><b>해제 불가</b><br/>증가량 최대치 <font color=\"Red\">30</font>%",
+      "Desc": "[패시브]선공으로 적 격파 후 <b>피격으로 전투 진입 전</b>, 적에게 자신 공격 <font color=\"Red\">2</font>배 수치 <font color=\"blue\">고정 피해</font> 효과 획득<br/>지속 <font color=\"Red\">1</font>행동<br/>[물리피해]<font color=\"blue\">호위 무시</font> <font color=\"Red\">1.4</font>배 피해, 치명타 <font color=\"Red\">+30</font>%<br/>적 격파 시 스킬 쿨 <font color=\"Red\">-2</font> 및<br/> 영웅 생명 최대치 영구 증가 <font color=\"Red\">15</font>% 및 부대 생명 <font color=\"Red\">15</font>% <font color=\"green\">회복</font><br/><b>해제 불가</b><br/>증가량 최대치 <font color=\"Red\">30</font>%",
       "SubSkills": null,
       "Animation": "../img/Super/율리안_Ani.webp"
     }

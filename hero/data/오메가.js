@@ -86,7 +86,7 @@
     "Name": "아집(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "오메가.webp",
-    "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/><b>선공으로 스킬을 사용해 적 격파 시, 해당 스킬 쿨타임 <font color=\"red\">-2</font> 및</b> <br/><b>행동 종료 시</b> 기술 <font color=\"red\">+20</font>%, 이동력 <font color=\"red\">+2</font><br/>지속 <font color=\"red\">1</font>턴"
+    "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/><b>선공으로 스킬을 사용해 적 격파 시, 해당 스킬 쿨타임 <font color=\"red\">-2</font> 및</b> <br/><b>행동 종료 시</b> 기술 <font color=\"red\">+20</font>%, 이동력 <font color=\"red\">+2</font><br/>지속 <font color=\"red\">1</font>행동"
   },
   "Soldiers": [
     8,
@@ -530,7 +530,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash7.webp",
-      "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>적에게 디버프가 부여된 경우, 공격 전에 적의 방어를 <font color=\"red\">20%</font> 무시한다.<br/>또한 공격 후, 스킬 쿨타임 <font color=\"red\">-2</font>턴.",
+      "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>적에게 디버프가 부여된 경우, 공격 전에 적의 방어를 <font color=\"red\">20%</font> 무시한다.<br/>또한 공격 후, 스킬 쿨타임 <font color=\"red\">-2</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -570,7 +570,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/오메가.webp",
-      "Desc": "[지원] 사용 후 부대 치명타 확률 및 치명타 피해 <font color=\"red\">+15</font>%, <br/>영웅 스킬 사거리 <font color=\"red\">+1</font>, 지속 <font color=\"red\">2</font>턴<br/>사용 후 <font color=\"blue\">재행동</font> 가능,<br/>이동력은 스킬 사용 시점 잔여 이동력 <font color=\"red\">+2</font>,<b>직선으로만 이동 가능</b><br/>(해당 스킬로 인한 재행동은 버프 지속 시간을 소모하지 않음)",
+      "Desc": "[지원] 사용 후 부대 치명타 확률 및 치명타 피해 <font color=\"red\">+15</font>%, <br/>영웅 스킬 사거리 <font color=\"red\">+1</font>, 지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"blue\">재행동</font> 가능,<br/>이동력은 스킬 사용 시점 잔여 이동력 <font color=\"red\">+2</font>,<b>직선으로만 이동 가능</b><br/>(해당 스킬로 인한 재행동은 버프 지속 시간을 소모하지 않음)",
       "SubSkills": null,
       "Animation": "../img/Super/오메가_Ani.webp"
     }

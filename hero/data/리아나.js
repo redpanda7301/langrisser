@@ -514,7 +514,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 <font color =\"red\">+20</font>%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, <font color =\"red\">2</font>턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 <font color =\"red\">+20</font>%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -540,7 +540,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HealSuper.webp",
-      "Desc": "[지원]광범위 부대에게 지력 <font color =\"red\">4</font>배만큼 생명을 회복한다.<br/>그리고 행동 종료 시 생명을 <font color =\"red\">20</font>% 회복한다. <font color =\"red\">2</font>턴 지속.",
+      "Desc": "[지원]광범위 부대에게 지력 <font color =\"red\">4</font>배만큼 생명을 회복한다.<br/>그리고 행동 종료 시 생명을 <font color =\"red\">20</font>% 회복한다. <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -632,7 +632,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Bless.webp",
-      "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 <font color =\"red\">+20</font>% 및<br/><b>모든 <font color =\"blue\">디버프</font> 면역</b>. <br/><font color =\"red\">2</font>턴 지속.",
+      "Desc": "[지원]액티브 스킬, 단일 부대의 공격,방어 <font color =\"red\">+20</font>% 및<br/><b>모든 <font color =\"blue\">디버프</font> 면역</b>. <br/><font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -658,7 +658,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/리아나.webp",
-      "Desc": "[패시브]<b><font color=\"orange\">고유 스킬</font>로 <font color=\"blue\">디버프</font> 제거 후, 제거하는 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개당 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 부여</b><br/>[액티브]단일 부대의 공격 지력 방어 <font color =\"red\">+20</font>%, <b>모든 <font color =\"blue\">디버프 면역</font></b> 효과 부여<br/><b>행동 종료 시 대상 주위 <font color=\"red\">2</font>칸 범위 내 모든 아군</b> 생명 회복 <br/>(리아나 지력 <font color=\"red\">2</font>배 수치) 및 디버프 <font color=\"red\">2</font>개 제거 <br/>지속 <font color=\"red\">2</font>행동. <br/>동시에 자신은 <b>모든 <font color =\"blue\">디버프 면역</font></b> 효과 획득 <br/>지속 <font color =\"red\">1</font>턴",
+      "Desc": "[패시브]<b><font color=\"orange\">고유 스킬</font>로 <font color=\"blue\">디버프</font> 제거 후, 제거하는 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개당 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 부여</b><br/>[액티브]단일 부대의 공격 지력 방어 <font color =\"red\">+20</font>%, <b>모든 <font color =\"blue\">디버프 면역</font></b> 효과 부여<br/><b>행동 종료 시 대상 주위 <font color=\"red\">2</font>칸 범위 내 모든 아군</b> 생명 회복 <br/>(리아나 지력 <font color=\"red\">2</font>배 수치) 및 디버프 <font color=\"red\">2</font>개 제거 <br/>지속 <font color=\"red\">2</font>행동. <br/>동시에 자신은 <b>모든 <font color =\"blue\">디버프 면역</font></b> 효과 획득 <br/>지속 <font color =\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/리아나_Ani.gif"
     }

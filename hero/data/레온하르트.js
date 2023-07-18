@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font>칸 내 아군이 없을 시 생명 외 모든 속성 <font color=\"red\">+10%</font>.<br/> 1회 공격으로 <font color=\"red\">2</font>명 이상 적군에게 피해를 입힐 시<br/>생명 <font color=\"red\">20%</font>회복 <font color=\"red\">1</font>회 재행동 가능.<br/> (재행동 효과는 <font color=\"red\">4</font>턴 후 재발동 가능.)"
+          "Desc": "주위 <font color=\"red\">3</font>칸 내 아군이 없을 시 생명 외 모든 속성 <font color=\"red\">+10%</font>.<br/> 1회 공격으로 <font color=\"red\">2</font>명 이상 적군에게 피해를 입힐 시<br/>생명 <font color=\"red\">20%</font>회복 <font color=\"red\">1</font>회 재행동 가능.<br/> (재행동 효과는 <font color=\"red\">4</font>행동 후 재발동 가능.)"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 없을 시 생명 외 모든 속성 <font color=\"red\">+13%</font>.<br/> 1회 공격으로 <font color=\"red\">2</font>명 이상 적군에게 피해를 입힐 시<br/>생명 <font color=\"red\">30%</font>회복 <font color=\"red\">1</font>회 재행동 가능.<br/> (재행동 효과는 <font color=\"red\">3</font>턴 후 재발동 가능.)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 없을 시 생명 외 모든 속성 <font color=\"red\">+13%</font>.<br/> 1회 공격으로 <font color=\"red\">2</font>명 이상 적군에게 피해를 입힐 시<br/>생명 <font color=\"red\">30%</font>회복 <font color=\"red\">1</font>회 재행동 가능.<br/> (재행동 효과는 <font color=\"red\">3</font>행동 후 재발동 가능.)"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 없을 시 생명 외 모든 속성 <font color=\"red\">+16%</font>.<br/> 1회 공격으로 <font color=\"red\">2</font>명 이상 적군에게 피해를 입힐 시<br/>생명 <font color=\"red\">40%</font>회복 <font color=\"red\">1</font>회 재행동 가능.<br/> (재행동 효과는 <font color=\"red\">3</font>턴 후 재발동 가능.)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 없을 시 생명 외 모든 속성 <font color=\"red\">+16%</font>.<br/> 1회 공격으로 <font color=\"red\">2</font>명 이상 적군에게 피해를 입힐 시<br/>생명 <font color=\"red\">40%</font>회복 <font color=\"red\">1</font>회 재행동 가능.<br/> (재행동 효과는 <font color=\"red\">3</font>행동 후 재발동 가능.)"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font>칸 내 아군이 없을 시 생명 외 모든 속성 <font color=\"red\">+20%</font>.<br/> 1회 공격으로 <font color=\"red\">2</font>명 이상 적군에게 피해를 입힐 시<br/>생명 <font color=\"red\">50%</font>회복 <font color=\"red\">1</font>회 재행동 가능.<br/> (재행동 효과는 <font color=\"red\">2</font>턴 후 재발동 가능.)"
+          "Desc": "주위 <font color=\"red\">1</font>칸 내 아군이 없을 시 생명 외 모든 속성 <font color=\"red\">+20%</font>.<br/> 1회 공격으로 <font color=\"red\">2</font>명 이상 적군에게 피해를 입힐 시<br/>생명 <font color=\"red\">50%</font>회복 <font color=\"red\">1</font>회 재행동 가능.<br/> (재행동 효과는 <font color=\"red\">2</font>행동 후 재발동 가능.)"
         }
       ]
     }
@@ -517,7 +517,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ShadowSword.webp",
-      "Desc": "[물리 피해]자신 주위 <font color=\"red\">2</font>칸 내 모든 적군에게 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>적의 <font color=\"red\">2</font>개 버프를 제거, 적이 <font color=\"blue\">재행동 불가</font>, <br/><font color=\"red\">3</font>턴 지속.(제거 불가).",
+      "Desc": "[물리 피해]자신 주위 <font color=\"red\">2</font>칸 내 모든 적군에게 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>적의 <font color=\"red\">2</font>개 버프를 제거, 적이 <font color=\"blue\">재행동 불가</font>, <br/><font color=\"red\">3</font>행동 지속.(제거 불가).",
       "SubSkills": null,
       "Animation": null
     },

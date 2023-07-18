@@ -12,6 +12,10 @@
     {
       "ImageUrl": "화이트시시/3.webp",
       "Desc": "한정 판매"
+    },
+    {
+      "ImageUrl": "화이트시시/4.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "화이트 시시",
@@ -111,6 +115,9 @@
         },
         {
           "ImageUrl": "화이트시시/3/1.webp"
+        },
+        {
+          "ImageUrl": "화이트시시/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -143,6 +150,9 @@
         },
         {
           "ImageUrl": "화이트시시/3/1.webp"
+        },
+        {
+          "ImageUrl": "화이트시시/4/1.webp"
         }
       ],
       "AttkRange": 2,

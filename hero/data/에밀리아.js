@@ -477,7 +477,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Emilia2.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color =\"red\">1.5</font>배 피해를 준다.<br/>전투 후, 적에게 '주는 피해량' <font color =\"red\">-20</font>% 부여,<br/><font color=\"red\">2</font>턴 지속.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color =\"red\">1.5</font>배 피해를 준다.<br/>전투 후, 적에게 '주는 피해량' <font color =\"red\">-20</font>% 부여,<br/><font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

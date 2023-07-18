@@ -386,7 +386,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Sagny/1.webp",
-      "Desc": "범위 내에 한 칸을 선택해 '<font color=\"blue\">눈부엉이</font>'를 풀어 놓는다.<br/>지속 <font color=\"red\">2</font>턴<br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸 가능<br/><font color=\"blue\">눈부엉이</font>는 <font color=\"red\">1</font> 마리만 존재할 수 있으며<br/>해당 스킬은 보유한 강화 효과의 지속 시간을 소모하지 않는다.<br/>해당 스킬은 사용 후 <font color=\"blue\">눈부엉이 감응</font>으로 변경.",
+      "Desc": "범위 내에 한 칸을 선택해 '<font color=\"blue\">눈부엉이</font>'를 풀어 놓는다.<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸 가능<br/><font color=\"blue\">눈부엉이</font>는 <font color=\"red\">1</font> 마리만 존재할 수 있으며<br/>해당 스킬은 보유한 강화 효과의 지속 시간을 소모하지 않는다.<br/>해당 스킬은 사용 후 <font color=\"blue\">눈부엉이 감응</font>으로 변경.",
       "SubSkills": [
         {
           "Name": "<b><font color=\"blue\">눈부엉이 감응</font></b>",
@@ -424,7 +424,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/20.webp",
-      "Desc": "범위 내 다수의 적군을 공격 하여 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "범위 내 다수의 적군을 공격 하여 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -450,7 +450,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Sagny/2.webp",
-      "Desc": "단일 개체 <font color =\"red\">1.6</font>배 피해<br/>창병 특효 및 적에게  <font color =\"blue\">이동력  <font color =\"red\">-2</font> 효과</font> 부여<br/>지속  <font color =\"red\">2</font>턴<br/>만약 적이 이미  <font color =\"blue\">이동력 저하 효과</font>를 보유하고 있을 경우<br/>해당 공격 피해  <font color =\"red\">+20</font>%",
+      "Desc": "단일 개체 <font color =\"red\">1.6</font>배 피해<br/>창병 특효 및 적에게  <font color =\"blue\">이동력  <font color =\"red\">-2</font> 효과</font> 부여<br/>지속  <font color =\"red\">2</font>행동<br/>만약 적이 이미  <font color =\"blue\">이동력 저하 효과</font>를 보유하고 있을 경우<br/>해당 공격 피해  <font color =\"red\">+20</font>%",
       "SubSkills": null,
       "Animation": null
     },
@@ -476,7 +476,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_JamAtk.webp",
-      "Desc": "범위 내 적들을 공격해 <font color =\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<font color=\"blue\">강화 불가</font>'부여, <font color =\"red\">2</font>턴 지속.",
+      "Desc": "범위 내 적들을 공격해 <font color =\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<font color=\"blue\">강화 불가</font>'부여, <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -568,7 +568,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/사그니.webp",
-      "Desc": "[패시브]자신 주위 <font color=\"red\">3</font>칸 범위 안과 <font color=\"blue\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에 동시에 위치한 적과 교전 시 <font color=\"blue\">지력</font> <font color=\"red\">+15</font>%<br/>[마법피해] 공격 범위 안 적에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">침묵</font>, <font color=\"blue\">재행동 불가</font> 효과 부여<br/>지속 <font color=\"red\">2</font>턴<br/>자신에게 '<font color=\"blue\">서리 봉쇄</font>' 효과 부여<br/><font color=\"blue\">서리 봉쇄</font> : 적이 <font color=\"blue\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에서 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>(지력 <font color=\"red\">1.5</font>배 수치)<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "[패시브]자신 주위 <font color=\"red\">3</font>칸 범위 안과 <font color=\"blue\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에 동시에 위치한 적과 교전 시 <font color=\"blue\">지력</font> <font color=\"red\">+15</font>%<br/>[마법피해] 공격 범위 안 적에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">침묵</font>, <font color=\"blue\">재행동 불가</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>자신에게 '<font color=\"blue\">서리 봉쇄</font>' 효과 부여<br/><font color=\"blue\">서리 봉쇄</font> : 적이 <font color=\"blue\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에서 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>(지력 <font color=\"red\">1.5</font>배 수치)<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/사그니_Ani.webp"
     }

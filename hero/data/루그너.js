@@ -60,23 +60,28 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군 <font color=\"red\">1</font>명당 <font color=\"green\">치료</font> 효과 <font color=\"red\">2</font>% 증가(최대 <font color=\"red\">10</font>%<br/> 전투 시작 시 적에게 첫번째 <font color=\"blue\">계율</font>을 반포한다. 행동 종료 시 선택한 적에게 <font color=\"blue\">계율</font> 1스택을 반포<br/> 적이 계율을 발동시킬 경우 '<font color=\"purple\">죄업</font>' <font color=\"red\">2</font>스택을 얻는다.<br/>면역 및 해제 불가<br/>최대 <font color=\"red\">7</font>스택.<br/>적에게 <font color=\"red\">4</font>스택 이상의 <font color=\"purple\">죄업</font>이 있을 경우 받는 피해 +5%, 공격 지력 <font color=\"red\">-5</font>%<br/><font color=\"red\">7</font>스택 있을 경우 행동 종료 시 <font color=\"blue\">침묵</font> <font color=\"red\">1</font>턴<br/>해당 효과는 다른 <font color=\"blue\">지휘 스킬</font>과 동시 발동 불가<br/>적이 <font color=\"purple\">죄업</font> 스택을 얻지 않고 행동 종료 할 경우 <font color=\"purple\">죄업</font> <font color=\"red\">1</font>스택을 상실하며<br/><font color=\"red\">2</font>턴 연속으로 얻지 않을 경우 모든 <font color=\"purple\">죄업</font>이 사라진다"
+          "Desc": "자신 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군 <font color=\"red\">1</font>명당 <font color=\"green\">치료</font> 효과 <font color=\"red\">2</font>% 증가(최대 <font color=\"red\">10</font>%<br/> 전투 시작 시 적에게 첫번째 <font color=\"blue\">계율</font>을 반포한다. 행동 종료 시 선택한 적에게 <font color=\"blue\">계율</font> 1스택을 반포<br/> 적이 계율을 발동시킬 경우 '<font color=\"purple\">죄업</font>' <font color=\"red\">2</font>스택을 얻는다.<br/>면역 및 해제 불가<br/>최대 <font color=\"red\">7</font>스택.<br/>적에게 <font color=\"red\">4</font>스택 이상의 <font color=\"purple\">죄업</font>이 있을 경우 받는 피해 +5%, 공격 지력 <font color=\"red\">-5</font>%<br/><font color=\"red\">7</font>스택 있을 경우 행동 종료 시 <font color=\"blue\">침묵</font> <font color=\"red\">1</font>행동<br/>해당 효과는 다른 <font color=\"blue\">지휘 스킬</font>과 동시 발동 불가<br/>적이 <font color=\"purple\">죄업</font> 스택을 얻지 않고 행동 종료 할 경우 <font color=\"purple\">죄업</font> <font color=\"red\">1</font>스택을 상실하며<br/><font color=\"red\">2</font>행동 연속으로 얻지 않을 경우 모든 <font color=\"purple\">죄업</font>이 사라진다"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군 <font color=\"red\">1</font>명당 <font color=\"green\">치료</font> 효과 <font color=\"red\">3</font>% 증가(최대 <font color=\"red\">15</font>%<br/> 전투 시작 시 적에게 첫번째 <font color=\"blue\">계율</font>을 반포한다. 행동 종료 시 선택한 적에게 <font color=\"blue\">계율</font> 1스택을 반포<br/> 적이 계율을 발동시킬 경우 '<font color=\"purple\">죄업</font>' <font color=\"red\">2</font>스택을 얻는다.<br/>면역 및 해제 불가<br/>최대 <font color=\"red\">7</font>스택.<br/>적에게 <font color=\"red\">4</font>스택 이상의 <font color=\"purple\">죄업</font>이 있을 경우 받는 피해 +8%, 공격 지력 <font color=\"red\">-8</font>%<br/><font color=\"red\">7</font>스택 있을 경우 행동 종료 시 <font color=\"blue\">침묵</font> <font color=\"red\">1</font>턴<br/>해당 효과는 다른 <font color=\"blue\">지휘 스킬</font>과 동시 발동 불가<br/>적이 <font color=\"purple\">죄업</font> 스택을 얻지 않고 행동 종료 할 경우 <font color=\"purple\">죄업</font> <font color=\"red\">1</font>스택을 상실하며<br/><font color=\"red\">2</font>턴 연속으로 얻지 않을 경우 모든 <font color=\"purple\">죄업</font>이 사라진다"
+          "Desc": "자신 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군 <font color=\"red\">1</font>명당 <font color=\"green\">치료</font> 효과 <font color=\"red\">3</font>% 증가(최대 <font color=\"red\">15</font>%<br/> 전투 시작 시 적에게 첫번째 <font color=\"blue\">계율</font>을 반포한다. 행동 종료 시 선택한 적에게 <font color=\"blue\">계율</font> 1스택을 반포<br/> 적이 계율을 발동시킬 경우 '<font color=\"purple\">죄업</font>' <font color=\"red\">2</font>스택을 얻는다.<br/>면역 및 해제 불가<br/>최대 <font color=\"red\">7</font>스택.<br/>적에게 <font color=\"red\">4</font>스택 이상의 <font color=\"purple\">죄업</font>이 있을 경우 받는 피해 +8%, 공격 지력 <font color=\"red\">-8</font>%<br/><font color=\"red\">7</font>스택 있을 경우 행동 종료 시 <font color=\"blue\">침묵</font> <font color=\"red\">1</font>행동<br/>해당 효과는 다른 <font color=\"blue\">지휘 스킬</font>과 동시 발동 불가<br/>적이 <font color=\"purple\">죄업</font> 스택을 얻지 않고 행동 종료 할 경우 <font color=\"purple\">죄업</font> <font color=\"red\">1</font>스택을 상실하며<br/><font color=\"red\">2</font>행동 연속으로 얻지 않을 경우 모든 <font color=\"purple\">죄업</font>이 사라진다"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군 <font color=\"red\">1</font>명당 <font color=\"green\">치료</font> 효과 <font color=\"red\">4</font>% 증가(최대 <font color=\"red\">20</font>%<br/> 전투 시작 시 적에게 첫번째 <font color=\"blue\">계율</font>을 반포한다. 행동 종료 시 선택한 적에게 <font color=\"blue\">계율</font> 1스택을 반포<br/> 적이 계율을 발동시킬 경우 '<font color=\"purple\">죄업</font>' <font color=\"red\">2</font>스택을 얻는다.<br/>면역 및 해제 불가<br/>최대 <font color=\"red\">7</font>스택.<br/>적에게 <font color=\"red\">4</font>스택 이상의 <font color=\"purple\">죄업</font>이 있을 경우 받는 피해 +11%, 공격 지력 <font color=\"red\">-11</font>%<br/><font color=\"red\">7</font>스택 있을 경우 행동 종료 시 <font color=\"blue\">침묵</font> <font color=\"red\">1</font>턴<br/>해당 효과는 다른 <font color=\"blue\">지휘 스킬</font>과 동시 발동 불가<br/>적이 <font color=\"purple\">죄업</font> 스택을 얻지 않고 행동 종료 할 경우 <font color=\"purple\">죄업</font> <font color=\"red\">1</font>스택을 상실하며<br/><font color=\"red\">2</font>턴 연속으로 얻지 않을 경우 모든 <font color=\"purple\">죄업</font>이 사라진다"
+          "Desc": "자신 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군 <font color=\"red\">1</font>명당 <font color=\"green\">치료</font> 효과 <font color=\"red\">4</font>% 증가(최대 <font color=\"red\">20</font>%<br/> 전투 시작 시 적에게 첫번째 <font color=\"blue\">계율</font>을 반포한다. 행동 종료 시 선택한 적에게 <font color=\"blue\">계율</font> 1스택을 반포<br/> 적이 계율을 발동시킬 경우 '<font color=\"purple\">죄업</font>' <font color=\"red\">2</font>스택을 얻는다.<br/>면역 및 해제 불가<br/>최대 <font color=\"red\">7</font>스택.<br/>적에게 <font color=\"red\">4</font>스택 이상의 <font color=\"purple\">죄업</font>이 있을 경우 받는 피해 +11%, 공격 지력 <font color=\"red\">-11</font>%<br/><font color=\"red\">7</font>스택 있을 경우 행동 종료 시 <font color=\"blue\">침묵</font> <font color=\"red\">1</font>행동<br/>해당 효과는 다른 <font color=\"blue\">지휘 스킬</font>과 동시 발동 불가<br/>적이 <font color=\"purple\">죄업</font> 스택을 얻지 않고 행동 종료 할 경우 <font color=\"purple\">죄업</font> <font color=\"red\">1</font>스택을 상실하며<br/><font color=\"red\">2</font>행동 연속으로 얻지 않을 경우 모든 <font color=\"purple\">죄업</font>이 사라진다"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군 <font color=\"red\">1</font>명당 <font color=\"green\">치료</font> 효과 <font color=\"red\">5</font>% 증가(최대 <font color=\"red\">25</font>%<br/> 전투 시작 시 적에게 첫번째 <font color=\"blue\">계율</font>을 반포한다. 행동 종료 시 선택한 적에게 <font color=\"blue\">계율</font> 1스택을 반포<br/> 적이 계율을 발동시킬 경우 '<font color=\"purple\">죄업</font>' <font color=\"red\">2</font>스택을 얻는다.<br/>면역 및 해제 불가<br/>최대 <font color=\"red\">7</font>스택.<br/>적에게 <font color=\"red\">4</font>스택 이상의 <font color=\"purple\">죄업</font>이 있을 경우 받는 피해 +15%, 공격 지력 <font color=\"red\">-15</font>%<br/><font color=\"red\">7</font>스택 있을 경우 행동 종료 시 <font color=\"blue\">침묵</font> <font color=\"red\">1</font>턴<br/>해당 효과는 다른 <font color=\"blue\">지휘 스킬</font>과 동시 발동 불가<br/>적이 <font color=\"purple\">죄업</font> 스택을 얻지 않고 행동 종료 할 경우 <font color=\"purple\">죄업</font> <font color=\"red\">1</font>스택을 상실하며<br/><font color=\"red\">2</font>턴 연속으로 얻지 않을 경우 모든 <font color=\"purple\">죄업</font>이 사라진다"
+          "Desc": "자신 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군 <font color=\"red\">1</font>명당 <font color=\"green\">치료</font> 효과 <font color=\"red\">5</font>% 증가(최대 <font color=\"red\">25</font>%<br/> 전투 시작 시 적에게 첫번째 <font color=\"blue\">계율</font>을 반포한다. 행동 종료 시 선택한 적에게 <font color=\"blue\">계율</font> 1스택을 반포<br/> 적이 계율을 발동시킬 경우 '<font color=\"purple\">죄업</font>' <font color=\"red\">2</font>스택을 얻는다.<br/>면역 및 해제 불가<br/>최대 <font color=\"red\">7</font>스택.<br/>적에게 <font color=\"red\">4</font>스택 이상의 <font color=\"purple\">죄업</font>이 있을 경우 받는 피해 +15%, 공격 지력 <font color=\"red\">-15</font>%<br/><font color=\"red\">7</font>스택 있을 경우 행동 종료 시 <font color=\"blue\">침묵</font> <font color=\"red\">1</font>행동<br/>해당 효과는 다른 <font color=\"blue\">지휘 스킬</font>과 동시 발동 불가<br/>적이 <font color=\"purple\">죄업</font> 스택을 얻지 않고 행동 종료 할 경우 <font color=\"purple\">죄업</font> <font color=\"red\">1</font>스택을 상실하며<br/><font color=\"red\">2</font>행동 연속으로 얻지 않을 경우 모든 <font color=\"purple\">죄업</font>이 사라진다"
         }
       ]
     }
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "신자의 면류관(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "루그너.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>아군 사망 시 가해자에게 '<font color=\"blue\">죄업</font>' <font color=\"red\">4</font>스택 부여<br/>적이 <font color=\"blue\">죄업</font> <font color=\"red\">4</font> 스택 이상을 보유할 경우<br/>신관과 교전 시 피해 <font color=\"red\">-15</font>%"
+  },
   "Soldiers": [
     0,
     11,
@@ -424,7 +429,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Lugner/1.webp",
-      "Desc": "단일 개체 지력 <font color=\"Red\">5</font>배 수치 <font color=\"green\">생명 회복</font> 및 '<font color=\"blue\">독신</font>' 효과 부여<br/><font color=\"blue\">독신</font> : 영웅 병종을 신관으로 변경하고, 전투 진입 전 적에게 <font color=\"purple\">죄업</font> <font color=\"Red\">2</font>스택을 쌓게 하며,<br/>전투 후 지력 <font color=\"Red\">3</font>배 수치 <font color=\"green\">생명 회복</font><br/><font color=\"blue\">독신</font>은 지속 <font color=\"Red\">2</font>턴<br/>해제 불가<br/>한 번 효과 발동 후 사라진다.",
+      "Desc": "단일 개체 지력 <font color=\"Red\">5</font>배 수치 <font color=\"green\">생명 회복</font> 및 '<font color=\"blue\">독신</font>' 효과 부여<br/><font color=\"blue\">독신</font> : 영웅 병종을 신관으로 변경하고, 전투 진입 전 적에게 <font color=\"purple\">죄업</font> <font color=\"Red\">2</font>스택을 쌓게 하며,<br/>전투 후 지력 <font color=\"Red\">3</font>배 수치 <font color=\"green\">생명 회복</font><br/><font color=\"blue\">독신</font>은 지속 <font color=\"Red\">2</font>행동<br/>해제 불가<br/>한 번 효과 발동 후 사라진다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -476,7 +481,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ATKup.webp",
-      "Desc": "<font color=\"Red\">1</font>개 부대의 공격,지력 <font color=\"Red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color=\"Red\">2</font>턴 지속.",
+      "Desc": "<font color=\"Red\">1</font>개 부대의 공격,지력 <font color=\"Red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color=\"Red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -542,7 +547,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HealSuper.webp",
-      "Desc": "[지원]광범위 부대에게 지력 <font color =\"red\">4</font>배만큼 생명을 회복한다.<br/>그리고 행동 종료 시 생명을 <font color =\"red\">20</font>% <font color =\"green\">회복</font>한다. <font color =\"red\">2</font>턴 지속.",
+      "Desc": "[지원]광범위 부대에게 지력 <font color =\"red\">4</font>배만큼 생명을 회복한다.<br/>그리고 행동 종료 시 생명을 <font color =\"red\">20</font>% <font color =\"green\">회복</font>한다. <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -568,7 +573,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Lugner/2.webp",
-      "Desc": "적 한 명을 선택해 '<font color=\"blue\">징계</font>' 효과를 부여<br/><font color=\"blue\">징계</font> : 모든 계율 제약 부여<br/><font color=\"purple\">죄업</font> <font color=\"red\">4</font>스택 이상일 경우 행동 종료 시 <font color=\"blue\">기절</font><br/>지속 <font color=\"red\">1</font>턴 및 <font color=\"blue\">징계</font> 효과 상실<br/><font color=\"blue\">징계</font> 지속 <font color=\"red\">2</font>턴<br/>해제 불가<br/>자신이 행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 안 모든 아군에게 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">회복</font>",
+      "Desc": "적 한 명을 선택해 '<font color=\"blue\">징계</font>' 효과를 부여<br/><font color=\"blue\">징계</font> : 모든 계율 제약 부여<br/><font color=\"purple\">죄업</font> <font color=\"red\">4</font>스택 이상일 경우 행동 종료 시 <font color=\"blue\">기절</font><br/>지속 <font color=\"red\">1</font>행동 및 <font color=\"blue\">징계</font> 효과 상실<br/><font color=\"blue\">징계</font> 지속 <font color=\"red\">2</font>행동<br/>해제 불가<br/>자신이 행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 안 모든 아군에게 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">회복</font>",
       "SubSkills": null,
       "Animation": null
     },

@@ -63,16 +63,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+1</font><br/>지속 <font color=\"red\">1</font>턴 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+20</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+1</font><br/>지속 <font color=\"red\">1</font>행동 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+20</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+1</font><br/>지속 <font color=\"red\">1</font>턴 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+25</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+1</font><br/>지속 <font color=\"red\">1</font>행동 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+25</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+1</font><br/>지속 <font color=\"red\">1</font>턴 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+30</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+1</font><br/>지속 <font color=\"red\">1</font>행동 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+30</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+2</font><br/>지속 <font color=\"red\">1</font>턴 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+40</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "주위 <font color=\"red\">1</font>바퀴 내 아군이 피해를 받을시 자신의 '이동력' <font color=\"red\">+2</font><br/>지속 <font color=\"red\">1</font>행동 <br/>동시에 피해를 입힌 적군에게 [용인]부여<br/><font color=\"purple\">용인</font> : 레나타의 공격을 받을시 <br/><font color=\"blue\">호위 불가</font>, <font color=\"blue\">받는피해</font> <font color=\"red\">+40</font>%, <font color=\"blue\">재이동불가</font>, <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"red\">2</font>행동"
 
         }
       ]
@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "거룡의 응시",
-    "Stats": "공격 <font color=\"red\">+5</font>%<br/>선공으로 전투 진입 전 목표에게 '<font color=\"purple\">용인</font>' 부여<br/>쿨타임 <font color=\"red\">1</font>턴"
+    "Stats": "공격 <font color=\"red\">+5</font>%<br/>선공으로 전투 진입 전 목표에게 '<font color=\"purple\">용인</font>' 부여<br/>쿨타임 <font color=\"red\">1</font>행동"
   },
   "Equip": {
     "Name": "용을 다스리는 관(투구)",
@@ -492,7 +492,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Renata2.webp",
-      "Desc": "[물리 피해]단일 적에게 0.2배 물리 피해를 입힌다.<br/>동시에 [용인]부여: 레나타의 공격을 받을시 '호위를 받을수없음', <br/>'받는 피해 <font color=\"red\">+40</font>%'(보통 용의 인장과 중첩 불가), <font color=\"red\">2</font>턴 지속 및<br/>'재이동 불가', '부대의 패시브 스킬을 무효화', <br/>'이동력<font color=\"red\">-2</font>, 호위불가'(보통 용의 인장과 중첩 불가), <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해]단일 적에게 0.2배 물리 피해를 입힌다.<br/>동시에 [용인]부여: 레나타의 공격을 받을시 '호위를 받을수없음', <br/>'받는 피해 <font color=\"red\">+40</font>%'(보통 용의 인장과 중첩 불가), <font color=\"red\">2</font>행동 지속 및<br/>'재이동 불가', '부대의 패시브 스킬을 무효화', <br/>'이동력<font color=\"red\">-2</font>, 호위불가'(보통 용의 인장과 중첩 불가), <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

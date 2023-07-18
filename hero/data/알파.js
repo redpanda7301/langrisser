@@ -380,7 +380,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/43.webp",
-        "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%, <font color=\"red\">2</font>턴 지속.",
+        "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%, <font color=\"red\">2</font>행동 지속.",
         "SubSkills": null,
         "Animation": null
     },
@@ -420,7 +420,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color=\"red\">1.3</font>배 피해를 준다.<br/>전투 전 상대 버프 <font color=\"red\">2</font>개 제거와 동시에 상대의 공격 및 지력 <font color=\"red\">-20</font>% <br/><font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color=\"red\">1.3</font>배 피해를 준다.<br/>전투 전 상대 버프 <font color=\"red\">2</font>개 제거와 동시에 상대의 공격 및 지력 <font color=\"red\">-20</font>% <br/><font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -563,7 +563,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Support.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color=\"red\">1.7</font>배 피해를 준다.<br/>전투 전 공격의 <font color=\"red\">20</font>%가 방어에 추가되며, 적 부대에게 '모든 패시브 스킬 봉인'부여 <br/><font color=\"red\">2</font>턴 지속,<br/>이 효과는 제거되지 않는다.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color=\"red\">1.7</font>배 피해를 준다.<br/>전투 전 공격의 <font color=\"red\">20</font>%가 방어에 추가되며, 적 부대에게 '모든 패시브 스킬 봉인'부여 <br/><font color=\"red\">2</font>행동 지속,<br/>이 효과는 제거되지 않는다.",
       "SubSkills": null,
       "Animation": null
     },

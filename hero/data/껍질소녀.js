@@ -394,7 +394,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "[지원]범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "[지원]범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -500,7 +500,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>턴 지속.",
+      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>행동 지속.",
     },
     {
       "Name": "천벌",
@@ -550,7 +550,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/껍질소녀.webp",
-      "Desc": "[패시브] 행동 종료시 스킬을 <font color=\"red\">1</font>단계 <font color=\"blue\">업그레이드</font> 가능<br/>최대 <font color=\"red\">3</font>번<br/><font color=\"red\">1</font>번 <font color=\"blue\">업그레이드</font> 할때마다 스킬 데미지 <font color=\"red\">+5</font>% 증가<br/><font color=\"blue\">쿨타임 증가</font> <font color=\"red\">1</font>턴 (최대 2턴)<br/>[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>행동 종료시 <font color=\"#B8860B\">피해 증가</font>, <font color=\"#BA55D3\">기능 증가</font>, <font color=\"green\">항속 증가</font> 중 업그레이드 선택 가능",
+      "Desc": "[패시브] 행동 종료시 스킬을 <font color=\"red\">1</font>단계 <font color=\"blue\">업그레이드</font> 가능<br/>최대 <font color=\"red\">3</font>번<br/><font color=\"red\">1</font>번 <font color=\"blue\">업그레이드</font> 할때마다 스킬 데미지 <font color=\"red\">+5</font>% 증가<br/><font color=\"blue\">쿨타임 증가</font> <font color=\"red\">1</font>행동 (최대 2턴)<br/>[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>행동 종료시 <font color=\"#B8860B\">피해 증가</font>, <font color=\"#BA55D3\">기능 증가</font>, <font color=\"green\">항속 증가</font> 중 업그레이드 선택 가능",
       "SubSkills": [
         {
           "Name": "<b><font color=\"blue\">1단계</font></b>",
@@ -568,7 +568,7 @@
           "Name": "<b><font color=\"#BA55D3\">기능 증가</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/껍질소녀_2_1.webp",
-          "Desc": "1.전투 후 적에게 <font color=\"blue\">침묵</font>부여, 지속 <font color=\"red\">1</font>턴<br/>2.전투 전 자신에게 받는 피해량 <font color=\"red\">-20</font>% 부여, 지속 <font color=\"red\">1</font>턴<br/>3.전투 전 적에게 <font color=\"blue\">강화불가</font> 부여, 지속 <font color=\"red\">2</font>턴, <b>해제불가</b>"
+          "Desc": "1.전투 후 적에게 <font color=\"blue\">침묵</font>부여, 지속 <font color=\"red\">1</font>행동<br/>2.전투 전 자신에게 받는 피해량 <font color=\"red\">-20</font>% 부여, 지속 <font color=\"red\">1</font>행동<br/>3.전투 전 적에게 <font color=\"blue\">강화불가</font> 부여, 지속 <font color=\"red\">2</font>행동, <b>해제불가</b>"
         },
         {
           "Name": "<b><font color=\"green\">항속 증가</font></b>",
@@ -587,7 +587,7 @@
           "Name": "<b><font color=\"#B8860B\">피해 증가</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/껍질소녀_1_2.webp",
-          "Desc": "전투 전 대상에게 공격, 지력, 방어, 마방, 기술 <font color=\"red\">-30</font>% 부여<br/>지속 <font color=\"red\">2</font>턴<br/><b>해제 불가</b>"
+          "Desc": "전투 전 대상에게 공격, 지력, 방어, 마방, 기술 <font color=\"red\">-30</font>% 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>"
         },
         {
           "Name": "<b><font color=\"#BA55D3\">기능 증가</font></b>",
@@ -599,7 +599,7 @@
           "Name": "<b><font color=\"green\">항속 증가</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/껍질소녀_3_2.webp",
-         "Desc": "전투 진입하여 피해를 입힌후 해당 스킬 쿨타임 <font color=\"red\">-2</font>턴<br/>치유 효과 <font color=\"red\">-30</font>% 감소(디메리트)"
+         "Desc": "전투 진입하여 피해를 입힌후 해당 스킬 쿨타임 <font color=\"red\">-2</font>행동<br/>치유 효과 <font color=\"red\">-30</font>% 감소(디메리트)"
 
         }
       ],

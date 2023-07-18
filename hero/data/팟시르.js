@@ -469,7 +469,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_JamMove.webp",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<font color=\"blue\">모든 패시브 스킬 무효</font>'부여<br/><font color=\"red\">2</font>턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<font color=\"blue\">모든 패시브 스킬 무효</font>'부여<br/><font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -483,7 +483,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">3</font>칸 내 모든 적 부대 마방 <font color=\"red\">-20</font>%, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">3</font>칸 내 모든 적 부대 마방 <font color=\"red\">-20</font>%, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

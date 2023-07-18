@@ -84,7 +84,7 @@
     "Name": "역대의 심연(투구)",
     "Stats": "생명 364, 마방 65",
     "Icon": "리오벡.webp",
-    "Ability": "생명 (<font color=\"red\">+10</font>)% <br/><font color=\"blue\">부여하는 계약</font> 효과 <b>해제 불가</b><br/><font color=\"blue\">침식한 명계의 화염</font>으로 피해를 입힌 후 쿨타임 감소<br/>감소하는 수치는 명중한 적 숫자를 따라감<br/>해당 효과 쿨타임 <font color=\"red\">3</font>턴"
+    "Ability": "생명 (<font color=\"red\">+10</font>)% <br/><font color=\"blue\">부여하는 계약</font> 효과 <b>해제 불가</b><br/><font color=\"blue\">침식한 명계의 화염</font>으로 피해를 입힌 후 쿨타임 감소<br/>감소하는 수치는 명중한 적 숫자를 따라감<br/>해당 효과 쿨타임 <font color=\"red\">3</font>행동"
   },
   "Soldiers": [
     43,
@@ -560,7 +560,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/리오벡.webp",
-      "Desc": "[패시브]범위 스킬로 피해를 입히기 전 적에게 '<font color=\"blue\">명계의 화염</font>' 효과 부여<br/><font color=\"blue\">명계의 화염</font> : 자신이나 '<font color=\"blue\">계약</font>' 효과를 보유한 아군과 적이 전투 후, <font color=\"purple\">고유 스킬</font>의 <font color=\"blue\">고정 피해</font>가 무조건 발동<br/>목표 사망 시 리오벡은 '생명을 제외한 모든 능력치 <font color=\"red\">+2</font>%' 효과를 획득<br/>최대 <font color=\"red\">5</font>중첩<br/>해제 불가<br/><font color=\"blue\">명계의 화염</font>은 지속 <font color=\"red\">2</font>턴 및 <b>해제 불가</b><br/>[마법피해]범위 내 적에게 <font color=\"red\">0.4</font>배 피해, <font color=\"blue\">버프</font> <font color=\"red\">2</font>개를 <font color=\"blue\">무작위 디버프</font>로 전환",
+      "Desc": "[패시브]범위 스킬로 피해를 입히기 전 적에게 '<font color=\"blue\">명계의 화염</font>' 효과 부여<br/><font color=\"blue\">명계의 화염</font> : 자신이나 '<font color=\"blue\">계약</font>' 효과를 보유한 아군과 적이 전투 후, <font color=\"purple\">고유 스킬</font>의 <font color=\"blue\">고정 피해</font>가 무조건 발동<br/>목표 사망 시 리오벡은 '생명을 제외한 모든 능력치 <font color=\"red\">+2</font>%' 효과를 획득<br/>최대 <font color=\"red\">5</font>중첩<br/>해제 불가<br/><font color=\"blue\">명계의 화염</font>은 지속 <font color=\"red\">2</font>행동 및 <b>해제 불가</b><br/>[마법피해]범위 내 적에게 <font color=\"red\">0.4</font>배 피해, <font color=\"blue\">버프</font> <font color=\"red\">2</font>개를 <font color=\"blue\">무작위 디버프</font>로 전환",
       "SubSkills": null,
       "Animation": "../img/Super/리오벡_Ani.webp"
     }

@@ -339,7 +339,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Roland/1.webp",
-      "Desc": "다른 형태로 바꾸며 자신의 공격 및 지력 <font color=\"red\">+20</font>%<br/>지속 <font color=\"red\">2</font>턴<br/>(전장에 '프레시아'라는 아군이 있을 경우, 지속 시간 <font color=\"red\">4</font>턴으로 변경, 해당 효과를 함께 부여)<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font>",
+      "Desc": "다른 형태로 바꾸며 자신의 공격 및 지력 <font color=\"red\">+20</font>%<br/>지속 <font color=\"red\">2</font>행동<br/>(전장에 '프레시아'라는 아군이 있을 경우, 지속 시간 <font color=\"red\">4</font>행동으로 변경, 해당 효과를 함께 부여)<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -411,7 +411,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Roland/2_2.webp",
-          "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.33</font>배 피해 및 <font color=\"blue\">텔레포트</font> 효과<br/>(<font color=\"blue\">명중한 적의 위치를 무작위로 서로 변경</font>)<br/>스킬 사용 전 자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font> 및 <br/>'<font color=\"blue\">공격 지력 저하</font>' '<font color=\"blue\">침묵</font>' <font color=\"blue\">면역</font> 효과 획득<br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.33</font>배 피해 및 <font color=\"blue\">텔레포트</font> 효과<br/>(<font color=\"blue\">명중한 적의 위치를 무작위로 서로 변경</font>)<br/>스킬 사용 전 자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font> 및 <br/>'<font color=\"blue\">공격 지력 저하</font>' '<font color=\"blue\">침묵</font>' <font color=\"blue\">면역</font> 효과 획득<br/>지속 <font color=\"red\">2</font>행동"
         }
       ],
       "Animation": null
@@ -590,7 +590,7 @@
             }
           ],
           "IconImageUrl": "../img/Super/롤랑_2.webp",
-          "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 피해 및 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여<br/>지속 <font color=\"red\">2</font>행동<br/>적 <font color=\"red\">3</font>명 이상 명중 시, 자신은 '<font color=\"blue\">선공으로 전투 진입 시 피해 <font color=\"red\">+20</font></font>%' 효과 획득<br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 피해 및 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여<br/>지속 <font color=\"red\">2</font>행동<br/>적 <font color=\"red\">3</font>명 이상 명중 시, 자신은 '<font color=\"blue\">선공으로 전투 진입 시 피해 <font color=\"red\">+20</font></font>%' 효과 획득<br/>지속 <font color=\"red\">2</font>행동"
         }
       ],
       "Animation": "../img/Super/롤랑_Ani.webp"

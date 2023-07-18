@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+5%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br/> 행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">1</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
+          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+5%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>행동 지속.<br/> 행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">1</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>행동 지속"
         },
         {
-          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+8%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br/> 행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">2</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
+          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+8%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>행동 지속.<br/> 행동 종료 시 주위 <font color=\"red\">1</font>칸 내 <font color=\"red\">2</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>행동 지속"
         },
         {
-          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+11%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br/> 행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">3</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
+          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+11%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>행동 지속.<br/> 행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <font color=\"red\">3</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>행동 지속"
         },
         {
-          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+15%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>턴 지속.<br/> 행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">4</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>턴 지속"
+          "Desc": "근접 아군을 대신해 물리 공격을 받는다.<br/>공격하여 피해를 입힌 후 효과: 공격 방어 <font color=\"red\">+15%</font><br/> 호위 범위 <font color=\"red\">2</font>칸으로 상승 <font color=\"red\">2</font>행동 지속.<br/> 행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">4</font>기 기타 아군이 <br/>입히는 피해 <font color=\"red\">+10%</font> <font color=\"red\">2</font>행동 지속"
         }
       ]
     }

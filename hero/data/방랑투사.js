@@ -384,7 +384,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.webp",
-      "Desc": "단일 개체 1.5배의 피해<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%,지속 <font color=\"red\">2</font>턴.",
+      "Desc": "단일 개체 1.5배의 피해<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%,지속 <font color=\"red\">2</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -438,7 +438,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefDown.webp",
-      "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 방어 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 방어 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -464,7 +464,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Duelist/2.webp",
-      "Desc": "단일 개체 <font color=\"Red\">1.6</font>배의 피해<br/>전투 전 목표와 <font color=\"purple\">복수의 사슬</font>을 보유한 모든 적에게 <font color=\"blue\">패시브 봉인</font> 부여<br/>지속 <font color=\"red\">2</font>턴<br/> 전투 후 <font color=\"blue\">위치 이동</font> 효과<br/><font color=\"blue\">위치 이동</font> : 목표를 <font color=\"red\">3</font>칸 밀침",
+      "Desc": "단일 개체 <font color=\"Red\">1.6</font>배의 피해<br/>전투 전 목표와 <font color=\"purple\">복수의 사슬</font>을 보유한 모든 적에게 <font color=\"blue\">패시브 봉인</font> 부여<br/>지속 <font color=\"red\">2</font>행동<br/> 전투 후 <font color=\"blue\">위치 이동</font> 효과<br/><font color=\"blue\">위치 이동</font> : 목표를 <font color=\"red\">3</font>칸 밀침",
       "SubSkills": null,
       "Animation": null
     },
@@ -556,7 +556,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/방랑투사.webp",
-      "Desc": "[패시브] 사망 시 부대 생명 <font color=\"red\">20</font>% 수치로 <font color=\"blue\">부활</font><br/>전투 중 <font color=\"red\">1</font>번만 발동<br/>[물리피해]단일 개체 <font color=\"red\">1.7</font>배 피해, 전투 후 피해량 <font color=\"red\">30</font>% 수치로 <font color=\"green\">생명 회복</font> 및 <br/>목표와 <font color=\"purple\">복수의 사슬</font>을 보유한 모든 적에게 <font color=\"blue\">치료 불가</font> 및 <font color=\"blue\">치명타 확률</font> <font color=\"red\">-20</font>% 효과 부여<br/> 지속 <font color=\"red\">2</font>턴",
+      "Desc": "[패시브] 사망 시 부대 생명 <font color=\"red\">20</font>% 수치로 <font color=\"blue\">부활</font><br/>전투 중 <font color=\"red\">1</font>번만 발동<br/>[물리피해]단일 개체 <font color=\"red\">1.7</font>배 피해, 전투 후 피해량 <font color=\"red\">30</font>% 수치로 <font color=\"green\">생명 회복</font> 및 <br/>목표와 <font color=\"purple\">복수의 사슬</font>을 보유한 모든 적에게 <font color=\"blue\">치료 불가</font> 및 <font color=\"blue\">치명타 확률</font> <font color=\"red\">-20</font>% 효과 부여<br/> 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/방랑투사_Ani.webp"
     }

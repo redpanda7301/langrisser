@@ -24,6 +24,10 @@
     {
       "ImageUrl": "유리아/6.webp",
       "Desc": "한정 판매"
+    },
+    {
+      "ImageUrl": "유리아/7.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "유리아",
@@ -131,6 +135,9 @@
         },
         {
           "ImageUrl": "유리아/6/1.webp"
+        },
+        {
+          "ImageUrl": "유리아/7/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -172,6 +179,9 @@
         },
         {
           "ImageUrl": "유리아/6/1.webp"
+        },
+        {
+          "ImageUrl": "유리아/7/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -474,7 +484,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HolyJudgement.webp",
-      "Desc": "[마법 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투 진입 전, 해당 적 부대의 버프 <font color=\"red\">5</font>개를 제거한다.<br/>또한 적에게 '재행동 불가'와 '버프 불가'를 부여한다. (<font color=\"red\">2</font>턴 지속) (제거 불가)",
+      "Desc": "[마법 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투 진입 전, 해당 적 부대의 버프 <font color=\"red\">5</font>개를 제거한다.<br/>또한 적에게 '재행동 불가'와 '버프 불가'를 부여한다. (<font color=\"red\">2</font>행동 지속) (제거 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -528,7 +538,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Pledge.webp",
-      "Desc": "[마법 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투 진입 전, 적에게 자신의 지력 <font color=\"red\">2</font>배만큼 '고정 피해'를 주고, <br/>자신의 지력 <font color=\"red\">2</font>배만큼 생명을 회복한다. (<font color=\"red\">2</font>턴 지속)<br/>전투 진입 전, '신의 위엄'을 발동한다.<br/>(신의 위엄: 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 이동력 <font color=\"red\">-3</font>) 또한 '호위 불가'를 부여한다. (<font color=\"red\">1</font>턴 지속)",
+      "Desc": "[마법 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투 진입 전, 적에게 자신의 지력 <font color=\"red\">2</font>배만큼 '고정 피해'를 주고, <br/>자신의 지력 <font color=\"red\">2</font>배만큼 생명을 회복한다. (<font color=\"red\">2</font>행동 지속)<br/>전투 진입 전, '신의 위엄'을 발동한다.<br/>(신의 위엄: 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 이동력 <font color=\"red\">-3</font>) 또한 '호위 불가'를 부여한다. (<font color=\"red\">1</font>행동 지속)",
       "SubSkills": null,
       "Animation": null
     },

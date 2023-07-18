@@ -69,19 +69,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+5%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">3</font>턴 후 재발동 가능)"
+          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+5%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">3</font>행동 후 재발동 가능)"
         },
         {
-          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+7%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">3</font>턴 후 재발동 가능)"
+          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+7%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">3</font>행동 후 재발동 가능)"
         },
         {
-          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+10%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">2</font>턴 후 재발동 가능)"
+          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+10%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">2</font>행동 후 재발동 가능)"
         },
         {
-          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">2</font>턴 후 재발동 가능)"
+          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">2</font>행동 후 재발동 가능)"
         },
         {
-          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+15%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">1</font>턴 후 재발동 가능)"
+          "Desc": "공격하여 전투 진입 시 공격 <font color=\"red\">+15%</font> 적의 이동력 <font color=\"red\">-3</font>.<br/> [호위 불가] 부여 (1턴 지속) (<font color=\"red\">1</font>행동 후 재발동 가능)"
         }
       ]
     }

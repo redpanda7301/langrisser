@@ -12,6 +12,10 @@
     {
       "ImageUrl": "아즈사/3.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "아즈사/4.webp",
+      "Desc": "서밋아레나 S15 패자스킨"
     }
   ],
   "Name": "아즈사",
@@ -79,7 +83,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "강함과 부드러움의 조화",
+    "Stats": "공격 <font color=\"red\">+5</font>%<br/>'<font color=\"blue\">강</font>' 보유 시, 영웅이 입히는 마법 피해 <font color=\"red\">+10</font>%<br/>'<font color=\"orange\">유</font>' 보유 시, 영웅이 입히는 물리 피해 <font color=\"red\">+10</font>%",
+  },
   "Equip": {
     "Name": "낭월청진(투구)",
     "Stats": "생명 364,마방 65",
@@ -423,7 +430,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/18.webp",
-      "Desc": "단일 부대의 방어 <font color =\"red\">+20</font>% 및 <br/>'<font color=\"blue\">방어, 마방 감소 면역</font>', '<font color=\"blue\">치료 방해 면역</font>'<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "단일 부대의 방어 <font color =\"red\">+20</font>% 및 <br/>'<font color=\"blue\">방어, 마방 감소 면역</font>', '<font color=\"blue\">치료 방해 면역</font>'<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -497,7 +504,7 @@
             "Value": "단일"
           }],
           "IconImageUrl": "../img/skills/azusa/2_1.webp",
-          "Desc": "단일 개체 <font color=\"red\">1.5</font>피해<br/>적의 방어력 <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>턴"
+          "Desc": "단일 개체 <font color=\"red\">1.5</font>피해<br/>적의 방어력 <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동"
         },
         {
           "Name": "<b><font color=\"blue\">환령격 - 유</font></b>",
@@ -520,7 +527,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/azusa/2_2.webp",
-          "Desc": "단일 개체 <font color=\"red\">1.5</font>피해<br/><font color=\"blue\">병사가 입히는 물리 피해를 마법 피해로 간주</font><br/>피해를 입힌 후 적의 마방 <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>턴"
+          "Desc": "단일 개체 <font color=\"red\">1.5</font>피해<br/><font color=\"blue\">병사가 입히는 물리 피해를 마법 피해로 간주</font><br/>피해를 입힌 후 적의 마방 <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동"
         },
       ],
       "Animation": null
@@ -547,7 +554,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Punch.webp",
-      "Desc": "단일 개체 <font color=\"Red\">1.2</font>배의 피해를 준다.<br/>적에게 <font color=\"red\">2</font>칸 <font color=\"blue\">밀쳐 내며</font>, '<font color=\"blue\">이동력 <font color=\"red\">-2</font>, 호위 불가</font>' 부여<br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "단일 개체 <font color=\"Red\">1.2</font>배의 피해를 준다.<br/>적에게 <font color=\"red\">2</font>칸 <font color=\"blue\">밀쳐 내며</font>, '<font color=\"blue\">이동력 <font color=\"red\">-2</font>, 호위 불가</font>' 부여<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -587,7 +594,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Trial.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.2</font>배의 피해<br/>전투 진입 전 자신 부대의 방어, 마방 <font color=\"red\">+30</font>%<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "단일 개체 <font color=\"red\">1.2</font>배의 피해<br/>전투 진입 전 자신 부대의 방어, 마방 <font color=\"red\">+30</font>%<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },    
@@ -613,7 +620,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/아즈사.webp",
-      "Desc": "전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개를 <font color=\"blue\">디버프</font>로 전환<br/>피해량 <font color=\"red\">30</font>% 수치 <font color=\"green\">생명 회복</font><br/>적에게 <font color=\"blue\">호위 불가</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/><font color=\"blue\">근접병사를 휴대할 경우 병사도 같이 공격한다.</font><br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font><br/>적 격파시 <font color=\"blue\">영종 비록</font> 쿨타임 <font color=\"Red\">-3</font>턴<br/>이하 스킬 중 하나 선택하여 사용한다.",
+      "Desc": "전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개를 <font color=\"blue\">디버프</font>로 전환<br/>피해량 <font color=\"red\">30</font>% 수치 <font color=\"green\">생명 회복</font><br/>적에게 <font color=\"blue\">호위 불가</font> 효과 부여 (지속 <font color=\"red\">2</font>행동)<br/><font color=\"blue\">근접병사를 휴대할 경우 병사도 같이 공격한다.</font><br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font><br/>적 격파시 <font color=\"blue\">영종 비록</font> 쿨타임 <font color=\"Red\">-3</font>행동<br/>이하 스킬 중 하나 선택하여 사용한다.",
       "SubSkills": [
         {
           "Name": "<b><font color=\"blue\">영종비록 - 강</font></b>",

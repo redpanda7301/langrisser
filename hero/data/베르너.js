@@ -405,7 +405,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Punch.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 <font color=\"red\">2</font>칸 밀쳐내며 이동력 <font color=\"red\">-2</font>, '호위 불가'부여, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 <font color=\"red\">2</font>칸 밀쳐내며 이동력 <font color=\"red\">-2</font>, '호위 불가'부여, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -577,7 +577,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.webp",
-      "Desc": "[패시브]치명타율 <font color=\"#DC143C\">+10</font>%. <br/>피해를 줄 때 <font color=\"#DC143C\">50</font>%의 확률로 적 부대의 <b><font color=\"blue\">패시브 스킬을 무효화</font></b>한다.<br/><font color=\"#DC143C\">2</font>턴 지속, 치명타 발생 시 반드시 발동.",
+      "Desc": "[패시브]치명타율 <font color=\"#DC143C\">+10</font>%. <br/>피해를 줄 때 <font color=\"#DC143C\">50</font>%의 확률로 적 부대의 <b><font color=\"blue\">패시브 스킬을 무효화</font></b>한다.<br/><font color=\"#DC143C\">2</font>행동 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
     },

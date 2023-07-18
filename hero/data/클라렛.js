@@ -20,7 +20,12 @@
     {
       "ImageUrl": "클라렛/5.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "클라렛/6.webp",
+      "Desc": "한정판매"
     }
+    
   ],
   "Name": "클라렛",
   "ChName": "克拉蕾特",
@@ -127,6 +132,9 @@
         },
         {
           "ImageUrl": "클라렛/5/1.webp"
+        },
+        {
+          "ImageUrl": "클라렛/6/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -165,6 +173,9 @@
         },
         {
           "ImageUrl": "클라렛/5/2.webp"
+        },
+        {
+          "ImageUrl": "클라렛/6/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -510,7 +521,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FlySuper2.webp",
-      "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>적 부대 격퇴 시, 해당 스킬의 쿨타임 <font color=\"red\">-3</font>.<br/>적 부대를 격퇴하지 못할 경우, 재행동할 수 있으며 [사기 저하] 효과를 받는다.<br/>(사기 저하: 주는 피해량 <font color=\"red\">-50%</font>.) (<font color=\"red\">1</font>턴 지속)",
+      "Desc": "[물리 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>적 부대 격퇴 시, 해당 스킬의 쿨타임 <font color=\"red\">-3</font>.<br/>적 부대를 격퇴하지 못할 경우, 재행동할 수 있으며 [사기 저하] 효과를 받는다.<br/>(사기 저하: 주는 피해량 <font color=\"red\">-50%</font>.) (<font color=\"red\">1</font>행동 지속)",
       "SubSkills": null,
       "Animation": null
     },

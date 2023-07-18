@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+15</font>%.<br/>행동 종료시 지정된 <font color=\"red\">2</font>개의 지형에 <font color=\"purple\">포탈</font> 효과 부여<br/><font color=\"purple\">포탈</font> : 아군이 <font color=\"purple\">포탈</font> 위에서 행동 종료시, 또 다른 <font color=\"purple\">포탈</font>로 <font color=\"blue\">위치이동</font><br/>모든 적군은 <font color=\"purple\">포탈</font> 주위 <font color=\"red\">3</font>칸 범위내에서 행동 종료시, <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여받는다.<br/>각 아군은 <font color=\"red\">1</font>턴마다 <font color=\"red\">1</font>번씩 <font color=\"purple\">포탈</font>을 이용할수있다<br/>지속 <font color=\"Red\">3</font>턴<br/>쿨타임 <font color=\"red\">5</font>턴<br/><font color=\"purple\">포탈</font>은 다른 지형효과보다 우선도가 높다.<br/>전장에 <font color=\"purple\">포탈</font>이 존재할시, 아단켈모의 부대사거리 <font color=\"Red\">2</font>칸 증가"
+          "Desc": "주는 피해량 <font color=\"red\">+15</font>%.<br/>행동 종료시 지정된 <font color=\"red\">2</font>개의 지형에 <font color=\"purple\">포탈</font> 효과 부여<br/><font color=\"purple\">포탈</font> : 아군이 <font color=\"purple\">포탈</font> 위에서 행동 종료시, 또 다른 <font color=\"purple\">포탈</font>로 <font color=\"blue\">위치이동</font><br/>모든 적군은 <font color=\"purple\">포탈</font> 주위 <font color=\"red\">3</font>칸 범위내에서 행동 종료시, <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여받는다.<br/>각 아군은 <font color=\"red\">1</font>행동마다 <font color=\"red\">1</font>번씩 <font color=\"purple\">포탈</font>을 이용할수있다<br/>지속 <font color=\"Red\">3</font>행동<br/>쿨타임 <font color=\"red\">5</font>행동<br/><font color=\"purple\">포탈</font>은 다른 지형효과보다 우선도가 높다.<br/>전장에 <font color=\"purple\">포탈</font>이 존재할시, 아단켈모의 부대사거리 <font color=\"Red\">2</font>칸 증가"
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+20</font>%.<br/>행동 종료시 지정된 <font color=\"red\">2</font>개의 지형에 <font color=\"purple\">포탈</font> 효과 부여<br/><font color=\"purple\">포탈</font> : 아군이 <font color=\"purple\">포탈</font> 위에서 행동 종료시, 또 다른 <font color=\"purple\">포탈</font>로 <font color=\"blue\">위치이동</font><br/>모든 적군은 <font color=\"purple\">포탈</font> 주위 <font color=\"red\">3</font>칸 범위내에서 행동 종료시, <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여받는다.<br/>각 아군은 <font color=\"red\">1</font>턴마다 <font color=\"red\">1</font>번씩 <font color=\"purple\">포탈</font>을 이용할수있다<br/>지속 <font color=\"Red\">3</font>턴<br/>쿨타임 <font color=\"red\">4</font>턴<br/><font color=\"purple\">포탈</font>은 다른 지형효과보다 우선도가 높다.<br/>전장에 <font color=\"purple\">포탈</font>이 존재할시, 아단켈모의 부대사거리 <font color=\"Red\">2</font>칸 증가"
+          "Desc": "주는 피해량 <font color=\"red\">+20</font>%.<br/>행동 종료시 지정된 <font color=\"red\">2</font>개의 지형에 <font color=\"purple\">포탈</font> 효과 부여<br/><font color=\"purple\">포탈</font> : 아군이 <font color=\"purple\">포탈</font> 위에서 행동 종료시, 또 다른 <font color=\"purple\">포탈</font>로 <font color=\"blue\">위치이동</font><br/>모든 적군은 <font color=\"purple\">포탈</font> 주위 <font color=\"red\">3</font>칸 범위내에서 행동 종료시, <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여받는다.<br/>각 아군은 <font color=\"red\">1</font>행동마다 <font color=\"red\">1</font>번씩 <font color=\"purple\">포탈</font>을 이용할수있다<br/>지속 <font color=\"Red\">3</font>행동<br/>쿨타임 <font color=\"red\">4</font>행동<br/><font color=\"purple\">포탈</font>은 다른 지형효과보다 우선도가 높다.<br/>전장에 <font color=\"purple\">포탈</font>이 존재할시, 아단켈모의 부대사거리 <font color=\"Red\">2</font>칸 증가"
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+25</font>%.<br/>행동 종료시 지정된 <font color=\"red\">2</font>개의 지형에 <font color=\"purple\">포탈</font> 효과 부여<br/><font color=\"purple\">포탈</font> : 아군이 <font color=\"purple\">포탈</font> 위에서 행동 종료시, 또 다른 <font color=\"purple\">포탈</font>로 <font color=\"blue\">위치이동</font><br/>모든 적군은 <font color=\"purple\">포탈</font> 주위 <font color=\"red\">3</font>칸 범위내에서 행동 종료시, <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여받는다.<br/>각 아군은 <font color=\"red\">1</font>턴마다 <font color=\"red\">1</font>번씩 <font color=\"purple\">포탈</font>을 이용할수있다<br/>지속 <font color=\"Red\">3</font>턴<br/>쿨타임 <font color=\"red\">4</font>턴<br/><font color=\"purple\">포탈</font>은 다른 지형효과보다 우선도가 높다.<br/>전장에 <font color=\"purple\">포탈</font>이 존재할시, 아단켈모의 부대사거리 <font color=\"Red\">2</font>칸 증가"
+          "Desc": "주는 피해량 <font color=\"red\">+25</font>%.<br/>행동 종료시 지정된 <font color=\"red\">2</font>개의 지형에 <font color=\"purple\">포탈</font> 효과 부여<br/><font color=\"purple\">포탈</font> : 아군이 <font color=\"purple\">포탈</font> 위에서 행동 종료시, 또 다른 <font color=\"purple\">포탈</font>로 <font color=\"blue\">위치이동</font><br/>모든 적군은 <font color=\"purple\">포탈</font> 주위 <font color=\"red\">3</font>칸 범위내에서 행동 종료시, <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여받는다.<br/>각 아군은 <font color=\"red\">1</font>행동마다 <font color=\"red\">1</font>번씩 <font color=\"purple\">포탈</font>을 이용할수있다<br/>지속 <font color=\"Red\">3</font>행동<br/>쿨타임 <font color=\"red\">4</font>행동<br/><font color=\"purple\">포탈</font>은 다른 지형효과보다 우선도가 높다.<br/>전장에 <font color=\"purple\">포탈</font>이 존재할시, 아단켈모의 부대사거리 <font color=\"Red\">2</font>칸 증가"
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+30</font>%.<br/>행동 종료시 지정된 <font color=\"red\">2</font>개의 지형에 <font color=\"purple\">포탈</font> 효과 부여<br/><font color=\"purple\">포탈</font> : 아군이 <font color=\"purple\">포탈</font> 위에서 행동 종료시, 또 다른 <font color=\"purple\">포탈</font>로 <font color=\"blue\">위치이동</font><br/>모든 적군은 <font color=\"purple\">포탈</font> 주위 <font color=\"red\">3</font>칸 범위내에서 행동 종료시, <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여받는다.<br/>각 아군은 <font color=\"red\">1</font>턴마다 <font color=\"red\">1</font>번씩 <font color=\"purple\">포탈</font>을 이용할수있다<br/>지속 <font color=\"Red\">3</font>턴<br/>쿨타임 <font color=\"red\">3</font>턴<br/><font color=\"purple\">포탈</font>은 다른 지형효과보다 우선도가 높다.<br/>전장에 <font color=\"purple\">포탈</font>이 존재할시, 아단켈모의 부대사거리 <font color=\"Red\">2</font>칸 증가"
+          "Desc": "주는 피해량 <font color=\"red\">+30</font>%.<br/>행동 종료시 지정된 <font color=\"red\">2</font>개의 지형에 <font color=\"purple\">포탈</font> 효과 부여<br/><font color=\"purple\">포탈</font> : 아군이 <font color=\"purple\">포탈</font> 위에서 행동 종료시, 또 다른 <font color=\"purple\">포탈</font>로 <font color=\"blue\">위치이동</font><br/>모든 적군은 <font color=\"purple\">포탈</font> 주위 <font color=\"red\">3</font>칸 범위내에서 행동 종료시, <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여받는다.<br/>각 아군은 <font color=\"red\">1</font>행동마다 <font color=\"red\">1</font>번씩 <font color=\"purple\">포탈</font>을 이용할수있다<br/>지속 <font color=\"Red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동<br/><font color=\"purple\">포탈</font>은 다른 지형효과보다 우선도가 높다.<br/>전장에 <font color=\"purple\">포탈</font>이 존재할시, 아단켈모의 부대사거리 <font color=\"Red\">2</font>칸 증가"
         }
       ]
     }
@@ -380,7 +380,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Adankelmo/1.webp",
-      "Desc": "지력, 방어 <font color=\"red\">+5</font>%<br/><font color=\"purple\">포탈</font>을 통과한 아군에게 피해 감소 <font color=\"red\">15</font>%<br/>지속 <font color=\"red\">1</font>턴.",
+      "Desc": "지력, 방어 <font color=\"red\">+5</font>%<br/><font color=\"purple\">포탈</font>을 통과한 아군에게 피해 감소 <font color=\"red\">15</font>%<br/>지속 <font color=\"red\">1</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -406,7 +406,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "[지원]범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "[지원]범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -458,7 +458,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FrostRay.webp",
-      "Desc": "<font color=\"Red\">1</font>개의 라인에 있는 모든 적군을 공격하여 <font color=\"Red\">0.33</font>배 범위 피해<br/>'창병'에게 특효<br/>적군의 이동력 <font color=\"Red\">-1</font><br/>지속 <font color=\"Red\">2</font>턴",
+      "Desc": "<font color=\"Red\">1</font>개의 라인에 있는 모든 적군을 공격하여 <font color=\"Red\">0.33</font>배 범위 피해<br/>'창병'에게 특효<br/>적군의 이동력 <font color=\"Red\">-1</font><br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -562,7 +562,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/아단켈모.webp",
-      "Desc": "[패시브]행동 종료시, 해당 턴에서 공격을 하지않은 상태에서 아군 <font color=\"purple\">포탈</font>에 있을시 <font color=\"Red\">2</font>칸 <font color=\"blue\">재행동</font><br>해당 스킬로 인한 <font color=\"blue\">재행동</font>은 버프 지속 시간을 소모하지 않음<br/>쿨타임 <font color=\"red\">2</font>턴<br/>[마법 피해]자신 또는 <font color=\"purple\">포탈</font>에게 사용한다.<br/>목표 주위 <font color=\"Red\">4</font>칸이내 모든 적에게 <font color=\"Red\">0.4</font>배 범위피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개와 '<font color=\"blue\">망언</font>' 효과 부여<br/><font color=\"blue\">망언</font> : 적이 아군 <font color=\"purple\">포탈</font> 주변 <font color=\"Red\">3</font>칸 이내에서 행동 종료시, <font color=\"blue\">무작위 디버프</font> <font color=\"Red\">2</font>개 획득<br/><font color=\"blue\">망언</font>은 해제불가<br/>지속 <font color=\"Red\">2</font>턴<br/>해당 스킬로 <font color=\"Red\">3</font>명 이상의 적군을 명중시 쿨타임 <font color=\"Red\">-2</font>",
+      "Desc": "[패시브]행동 종료시, 해당 턴에서 공격을 하지않은 상태에서 아군 <font color=\"purple\">포탈</font>에 있을시 <font color=\"Red\">2</font>칸 <font color=\"blue\">재행동</font><br>해당 스킬로 인한 <font color=\"blue\">재행동</font>은 버프 지속 시간을 소모하지 않음<br/>쿨타임 <font color=\"red\">2</font>행동<br/>[마법 피해]자신 또는 <font color=\"purple\">포탈</font>에게 사용한다.<br/>목표 주위 <font color=\"Red\">4</font>칸이내 모든 적에게 <font color=\"Red\">0.4</font>배 범위피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개와 '<font color=\"blue\">망언</font>' 효과 부여<br/><font color=\"blue\">망언</font> : 적이 아군 <font color=\"purple\">포탈</font> 주변 <font color=\"Red\">3</font>칸 이내에서 행동 종료시, <font color=\"blue\">무작위 디버프</font> <font color=\"Red\">2</font>개 획득<br/><font color=\"blue\">망언</font>은 해제불가<br/>지속 <font color=\"Red\">2</font>행동<br/>해당 스킬로 <font color=\"Red\">3</font>명 이상의 적군을 명중시 쿨타임 <font color=\"Red\">-2</font>",
       "SubSkills": null,
       "Animation": "../img/Super/아단켈모_Ani.webp"
     }

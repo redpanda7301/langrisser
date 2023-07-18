@@ -348,7 +348,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.webp",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%, <br/><font color=\"red\">2</font>턴 지속.",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%, <br/><font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

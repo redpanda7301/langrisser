@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격 <font color=\"red\">+10</font>%<br/>이동 시 <font color=\"blue\">적 통과 가능</font> 및 <font color=\"green\">평지</font>로 간주<br/>부대 및 부대에 인접한 지형 통과 시 <font color=\"red\">2</font> <font color=\"blue\">이동력 저하 기회</font> 획득<br/>해당 행동에 적 <font color=\"red\">1</font>부대 통과 시 <font color=\"blue\">범위 스킬</font> '<font color=\"purple\">정보</font>' 효과 획득<br/><font color=\"purple\">정보</font> : 부대 피해 <font color=\"red\">+8</font>%, 받는 피해 <font color=\"red\">-20</font>%<br/>최대 <font color=\"red\">2</font>중첩<br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b><br/>쿨타임 <font color =\"red\">4</font>턴"
+          "Desc": "공격 <font color=\"red\">+10</font>%<br/>이동 시 <font color=\"blue\">적 통과 가능</font> 및 <font color=\"green\">평지</font>로 간주<br/>부대 및 부대에 인접한 지형 통과 시 <font color=\"red\">2</font> <font color=\"blue\">이동력 저하 기회</font> 획득<br/>해당 행동에 적 <font color=\"red\">1</font>부대 통과 시 <font color=\"blue\">범위 스킬</font> '<font color=\"purple\">정보</font>' 효과 획득<br/><font color=\"purple\">정보</font> : 부대 피해 <font color=\"red\">+8</font>%, 받는 피해 <font color=\"red\">-20</font>%<br/>최대 <font color=\"red\">2</font>중첩<br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b><br/>쿨타임 <font color =\"red\">4</font>행동"
         },
         {
-          "Desc": "공격 <font color=\"red\">+12</font>%<br/>이동 시 <font color=\"blue\">적 통과 가능</font> 및 <font color=\"green\">평지</font>로 간주<br/>부대 및 부대에 인접한 지형 통과 시 <font color=\"red\">2</font> <font color=\"blue\">이동력 저하 기회</font> 획득<br/>해당 행동에 적 <font color=\"red\">1</font>부대 통과 시 <font color=\"blue\">범위 스킬</font> '<font color=\"purple\">정보</font>' 효과 획득<br/><font color=\"purple\">정보</font> : 부대 피해 <font color=\"red\">+8</font>%, 받는 피해 <font color=\"red\">-20</font>%<br/>최대 <font color=\"red\">2</font>중첩<br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b><br/>쿨타임 <font color =\"red\">3</font>턴"
+          "Desc": "공격 <font color=\"red\">+12</font>%<br/>이동 시 <font color=\"blue\">적 통과 가능</font> 및 <font color=\"green\">평지</font>로 간주<br/>부대 및 부대에 인접한 지형 통과 시 <font color=\"red\">2</font> <font color=\"blue\">이동력 저하 기회</font> 획득<br/>해당 행동에 적 <font color=\"red\">1</font>부대 통과 시 <font color=\"blue\">범위 스킬</font> '<font color=\"purple\">정보</font>' 효과 획득<br/><font color=\"purple\">정보</font> : 부대 피해 <font color=\"red\">+8</font>%, 받는 피해 <font color=\"red\">-20</font>%<br/>최대 <font color=\"red\">2</font>중첩<br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b><br/>쿨타임 <font color =\"red\">3</font>행동"
         },
         {
-          "Desc": "공격 <font color=\"red\">+15</font>%<br/>이동 시 <font color=\"blue\">적 통과 가능</font> 및 <font color=\"green\">평지</font>로 간주<br/>부대 및 부대에 인접한 지형 통과 시 <font color=\"red\">3</font> <font color=\"blue\">이동력 저하 기회</font> 획득<br/>해당 행동에 적 <font color=\"red\">1</font>부대 통과 시 <font color=\"blue\">범위 스킬</font> '<font color=\"purple\">정보</font>' 효과 획득<br/><font color=\"purple\">정보</font> : 부대 피해 <font color=\"red\">+8</font>%, 받는 피해 <font color=\"red\">-20</font>%<br/>최대 <font color=\"red\">2</font>중첩<br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b><br/>쿨타임 <font color =\"red\">3</font>턴"
+          "Desc": "공격 <font color=\"red\">+15</font>%<br/>이동 시 <font color=\"blue\">적 통과 가능</font> 및 <font color=\"green\">평지</font>로 간주<br/>부대 및 부대에 인접한 지형 통과 시 <font color=\"red\">3</font> <font color=\"blue\">이동력 저하 기회</font> 획득<br/>해당 행동에 적 <font color=\"red\">1</font>부대 통과 시 <font color=\"blue\">범위 스킬</font> '<font color=\"purple\">정보</font>' 효과 획득<br/><font color=\"purple\">정보</font> : 부대 피해 <font color=\"red\">+8</font>%, 받는 피해 <font color=\"red\">-20</font>%<br/>최대 <font color=\"red\">2</font>중첩<br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b><br/>쿨타임 <font color =\"red\">3</font>행동"
         },
         {
-          "Desc": "공격 <font color=\"red\">+20</font>%<br/>이동 시 <font color=\"blue\">적 통과 가능</font> 및 <font color=\"green\">평지</font>로 간주<br/>부대 및 부대에 인접한 지형 통과 시 <font color=\"red\">3</font> <font color=\"blue\">이동력 저하 기회</font> 획득<br/>해당 행동에 적 <font color=\"red\">1</font>부대 통과 시 <font color=\"blue\">범위 스킬</font> '<font color=\"purple\">정보</font>' 효과 획득<br/><font color=\"purple\">정보</font> : 부대 피해 <font color=\"red\">+8</font>%, 받는 피해 <font color=\"red\">-20</font>%<br/>최대 <font color=\"red\">2</font>중첩<br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b><br/>쿨타임 <font color =\"red\">2</font>턴"
+          "Desc": "공격 <font color=\"red\">+20</font>%<br/>이동 시 <font color=\"blue\">적 통과 가능</font> 및 <font color=\"green\">평지</font>로 간주<br/>부대 및 부대에 인접한 지형 통과 시 <font color=\"red\">3</font> <font color=\"blue\">이동력 저하 기회</font> 획득<br/>해당 행동에 적 <font color=\"red\">1</font>부대 통과 시 <font color=\"blue\">범위 스킬</font> '<font color=\"purple\">정보</font>' 효과 획득<br/><font color=\"purple\">정보</font> : 부대 피해 <font color=\"red\">+8</font>%, 받는 피해 <font color=\"red\">-20</font>%<br/>최대 <font color=\"red\">2</font>중첩<br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b><br/>쿨타임 <font color =\"red\">2</font>행동"
         }
       ]
     }
@@ -453,7 +453,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_SPDBuf1.webp",
-      "Desc": "행동 종료 시 근접한 <font color=\"red\">1</font>개 아군 부대의 이동력 <font color=\"red\">+1</font> 및<br/>'<font color=\"blue\">이동력 저하 면역</font>','<font color=\"blue\">치료 저하 면역</font>'<br/>쿨타임 <font color=\"red\">1</font>턴",
+      "Desc": "행동 종료 시 근접한 <font color=\"red\">1</font>개 아군 부대의 이동력 <font color=\"red\">+1</font> 및<br/>'<font color=\"blue\">이동력 저하 면역</font>','<font color=\"blue\">치료 저하 면역</font>'<br/>쿨타임 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -507,7 +507,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.webp",
-      "Desc": "치명타율 <font color=\"red\">+10</font>%. <br/>피해를 줄 때 <font color=\"red\">50</font>%의 확률로 적 부대의 <font color=\"blue\">패시브 스킬 무효</font> 부여한다.<br/>지속<font color=\"red\">2</font>턴 <br/><b>치명타 발생 시 반드시 발동</b>.",
+      "Desc": "치명타율 <font color=\"red\">+10</font>%. <br/>피해를 줄 때 <font color=\"red\">50</font>%의 확률로 적 부대의 <font color=\"blue\">패시브 스킬 무효</font> 부여한다.<br/>지속<font color=\"red\">2</font>행동 <br/><b>치명타 발생 시 반드시 발동</b>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -547,7 +547,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/알리시아.webp",
-      "Desc": "직선 범위 위에 있는 단일 부대 <font color=\"red\">1.6</font>배 피해<br/><b>근접전 패널티 무효화</b><br/>전투 전 자신 생명 <font color=\"red\">100</font>% <font color=\"green\">회복</font>, 적 버프 <font color=\"red\">5</font>개 제거, 적 방어 <font color=\"red\">-30</font>% <br/>지속 <font color=\"red\">2</font>턴, <b>해제 불가</b><br/>전투 후 목표 직선 방향 <font color=\"red\">4</font>칸 범위 안에 적이 있을 경우 <font color=\"red\">0.25</font>배 <font color =\"blue\">광역 피해</font>",
+      "Desc": "직선 범위 위에 있는 단일 부대 <font color=\"red\">1.6</font>배 피해<br/><b>근접전 패널티 무효화</b><br/>전투 전 자신 생명 <font color=\"red\">100</font>% <font color=\"green\">회복</font>, 적 버프 <font color=\"red\">5</font>개 제거, 적 방어 <font color=\"red\">-30</font>% <br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b><br/>전투 후 목표 직선 방향 <font color=\"red\">4</font>칸 범위 안에 적이 있을 경우 <font color=\"red\">0.25</font>배 <font color =\"blue\">광역 피해</font>",
       "SubSkills": null,
       "Animation": "../img/Super/알리시아_Ani.webp"
     }

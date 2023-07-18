@@ -57,19 +57,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+5</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">10</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>턴"
+          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+5</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">10</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
         },
         {
-          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+10</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">13</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>턴"
+          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+10</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">13</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
         },
         {
-          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+15</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">16</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>턴"
+          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+15</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">16</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
         },
         {
-          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+20</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>턴"
+          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+20</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
         },
         {
-          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+25</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">25</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>턴"
+          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+25</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">25</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
         }
       ]
     }

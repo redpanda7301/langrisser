@@ -8,6 +8,10 @@
     {
       "ImageUrl": "마리안델/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "마리안델/3.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "마리안델",
@@ -75,7 +79,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "성수의 힘",
+    "Stats": "스킬 피해량 <font color=\"red\">+10</font>%<br/><font color=\"purple\">마나 에너지</font>를 <font color=\"red\">3</font>개 이상 소모한 상태로 행동 종료 시<br/>해당 턴에 사용한 <font color=\"blue\">액티브 스킬</font> 쿨타임<font color=\"red\">-1</font>",
+  },
   "Equip": {
     "Name": "성스러운 나무의 미소",
     "Stats": "생명 364,마방 65",
@@ -105,6 +112,9 @@
         },
         {
           "ImageUrl": "마리안델/2/1.webp"
+        },
+        {
+          "ImageUrl": "마리안델/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -134,6 +144,9 @@
         },
         {
           "ImageUrl": "마리안델/2/1.webp"
+        },
+        {
+          "ImageUrl": "마리안델/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -398,7 +411,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Mariandel/1.webp",
-      "Desc": "[액티브]지력 <font color=\"red\">5</font>배 수치로 단일 부대 <font color=\"green\">생명 회복</font> 및 <font color=\"red\">2</font>개의 <font color=\"blue\">무작위 면역</font> 효과 부여 <br/>지속 <font color=\"red\">1</font>턴 <br/>보유한 '<font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 당 <font color =\"blue\">디버프</font> <font color=\"red\">1</font> 제거 및 <font color =\"blue\">버프</font> <font color=\"red\">1</font>개 부여",
+      "Desc": "[액티브]지력 <font color=\"red\">5</font>배 수치로 단일 부대 <font color=\"green\">생명 회복</font> 및 <font color=\"red\">2</font>개의 <font color=\"blue\">무작위 면역</font> 효과 부여 <br/>지속 <font color=\"red\">1</font>행동 <br/>보유한 '<font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 당 <font color =\"blue\">디버프</font> <font color=\"red\">1</font> 제거 및 <font color =\"blue\">버프</font> <font color=\"red\">1</font>개 부여",
       "SubSkills": null,
       "Animation": null
     },
@@ -412,7 +425,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>턴 지속.",
+      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -438,7 +451,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Mariandel/2.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다. <br/>전투 후 적에게 <font color=\"blue\">가시 손길</font>효과 부여 <br/><font color=\"blue\">가시 손길</font> : <font color=\"green\">숲</font>, <font color=\"green\">초원</font>에서 <b>행동 종료 시</b> 시전자의 지력 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정 피해</font> <br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b> <br/>보유한 <font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 당, 지속 시간 <font color=\"red\">+1</font>턴 <br/>(최대 <font color=\"red\">+2</font>턴)",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다. <br/>전투 후 적에게 <font color=\"blue\">가시 손길</font>효과 부여 <br/><font color=\"blue\">가시 손길</font> : <font color=\"green\">숲</font>, <font color=\"green\">초원</font>에서 <b>행동 종료 시</b> 시전자의 지력 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정 피해</font> <br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b> <br/>보유한 <font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 당, 지속 시간 <font color=\"red\">+1</font>행동 <br/>(최대 <font color=\"red\">+2</font>행동)",
       "SubSkills": null,
       "Animation": null
     },
@@ -464,7 +477,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Mariandel/3.webp",
-      "Desc": "단일 적 부대에게 <font color=\"red\">0.25</font>배의 피해를 준다. <br/> 적에게 <font color=\"blue\">이동 불가</font> 및 <font color=\"blue\">호위 불가</font>효과 부여 <br/> 지속 <font color=\"red\">1</font>턴 <br/>적이 <font color=#b8860b>산지</font> 혹은 <font color=#708090>성벽</font>에 있을 경우 해당 효과는 <b>해제 불가</b> <br/>보유한 <font color=\"purple\">마나 에너지</font>' <font color=\"red\">1</font>개 당, 적의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 <font color=\"blue\">디버프</font>로 전환 <br/>(최대 <font color=\"red\">3</font>개 전환)",
+      "Desc": "단일 적 부대에게 <font color=\"red\">0.25</font>배의 피해를 준다. <br/> 적에게 <font color=\"blue\">이동 불가</font> 및 <font color=\"blue\">호위 불가</font>효과 부여 <br/> 지속 <font color=\"red\">1</font>행동 <br/>적이 <font color=#b8860b>산지</font> 혹은 <font color=#708090>성벽</font>에 있을 경우 해당 효과는 <b>해제 불가</b> <br/>보유한 <font color=\"purple\">마나 에너지</font>' <font color=\"red\">1</font>개 당, 적의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 <font color=\"blue\">디버프</font>로 전환 <br/>(최대 <font color=\"red\">3</font>개 전환)",
       "SubSkills": null,
       "Animation": null
     },
@@ -490,7 +503,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_WindRay2.webp",
-      "Desc": "<font color=\"red\">3</font>개의 라인에 있는 모든 적군을 공격하여 <font color=\"red\">0.36</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 입힌다. <br/>적군의 공격,지력 <font color=\"red\">-20</font>%, <br/><font color=\"red\">2</font>턴 지속.",
+      "Desc": "<font color=\"red\">3</font>개의 라인에 있는 모든 적군을 공격하여 <font color=\"red\">0.36</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 입힌다. <br/>적군의 공격,지력 <font color=\"red\">-20</font>%, <br/><font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

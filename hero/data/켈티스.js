@@ -590,7 +590,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>턴 지속.",
+      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -616,7 +616,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ThunderCrash.webp",
-      "Desc": "범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 <font color=\"red\">-20</font>%, <font color=\"red\">2</font>턴 지속.",
+      "Desc": "범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 <font color=\"red\">-20</font>%, <font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -668,7 +668,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_JamAtk.webp",
-      "Desc": "범위 내 적들을 공격해 <font color =\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<font color=\"blue\">강화 불가</font>'부여, <font color =\"red\">2</font>턴 지속.",
+      "Desc": "범위 내 적들을 공격해 <font color =\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<font color=\"blue\">강화 불가</font>'부여, <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -682,7 +682,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_JamMute.webp",
-      "Desc": "적에게 피해를 줬을 경우 <font color =\"red\">50</font>% 확률로 적에게 '<font color=\"blue\">침묵</font>' 부여, <font color =\"red\">2</font>턴 지속.",
+      "Desc": "적에게 피해를 줬을 경우 <font color =\"red\">50</font>% 확률로 적에게 '<font color=\"blue\">침묵</font>' 부여, <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

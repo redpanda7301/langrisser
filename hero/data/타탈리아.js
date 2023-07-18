@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+10</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">0.5</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>턴<br/>쿨타임 <font color=\"red\">3</font>턴"
+          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+10</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">0.5</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+13</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">1</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>턴<br/>쿨타임 <font color=\"red\">3</font>턴"
+          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+13</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">1</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+16</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">1.5</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>턴<br/>쿨타임 <font color=\"red\">3</font>턴"
+          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+16</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">1.5</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+20</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">2</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>턴<br/>쿨타임 <font color=\"red\">3</font>턴"
+          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+20</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">2</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         }
       ]
     }
@@ -401,7 +401,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass2.webp",
-      "Desc": "공격하여 전투 진입 시 전투 후 <font color=\"red\">30</font>% 확률로 받는 모든 피해량 <font color=\"red\">-30%</font><br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "공격하여 전투 진입 시 전투 후 <font color=\"red\">30</font>% 확률로 받는 모든 피해량 <font color=\"red\">-30%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -467,7 +467,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력 <font color=\"red\">-1</font><br/>쿨타임 <font color=\"red\">1</font>턴 지속 <b>제거 불가</b>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력 <font color=\"red\">-1</font><br/>쿨타임 <font color=\"red\">1</font>행동 지속 <b>제거 불가</b>",
       "SubSkills": null,
       "Animation": null
     },

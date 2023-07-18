@@ -63,16 +63,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br/> 병사의 모든 속성 <font color=\"red\">+5%</font>.<br/>영웅 사망 시 <font color=\"red\">3</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 <font color=\"purple\">사수</font> 획득.<br/> <font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">1</font>턴 지속."
+          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br/> 병사의 모든 속성 <font color=\"red\">+5%</font>.<br/>영웅 사망 시 <font color=\"red\">3</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 <font color=\"purple\">사수</font> 획득.<br/> <font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">1</font>행동 지속."
         },
         {
-          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br/> 병사의 모든 속성 <font color=\"red\">+10%</font>.<br/>영웅 사망 시 <font color=\"red\">4</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 <font color=\"purple\">사수</font> 획득.<br/> <font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br/> 병사의 모든 속성 <font color=\"red\">+10%</font>.<br/>영웅 사망 시 <font color=\"red\">4</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 <font color=\"purple\">사수</font> 획득.<br/> <font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">2</font>행동 지속."
         },
         {
-          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br/> 병사의 모든 속성 <font color=\"red\">+15%</font>.<br/>영웅 사망 시 <font color=\"red\">4</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 <font color=\"purple\">사수</font> 획득.<br/> <font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+1</font>.<br/> 병사의 모든 속성 <font color=\"red\">+15%</font>.<br/>영웅 사망 시 <font color=\"red\">4</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 <font color=\"purple\">사수</font> 획득.<br/> <font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">2</font>행동 지속."
         },
         {
-          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+2</font>.<br/> 병사의 모든 속성 <font color=\"red\">+20%</font>.<br/>영웅 사망 시 <font color=\"red\">5</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 <font color=\"purple\">사수</font> 획득.<br/> <font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">3</font>턴 지속."
+          "Desc": "보조 스킬 사용 시 사거리 <font color=\"red\">+2</font>.<br/> 병사의 모든 속성 <font color=\"red\">+20%</font>.<br/>영웅 사망 시 <font color=\"red\">5</font>칸 내 아군의 디버프 <font color=\"red\">2</font>개 제거 및 <font color=\"purple\">사수</font> 획득.<br/> <font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">3</font>행동 지속."
         }
       ]
     }
@@ -80,13 +80,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "군사의 심려",
-    "Stats": "지력 <font color=\"red\">+5</font>%<br/><b>단일 대상 <font color=\"blue\">지원 스킬</font></b> 사용 시<br/>대상에게 추가로 '<font color=\"blue\">사수</font>' 효과 부여<br/><font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">3</font>턴 지속"
+    "Stats": "지력 <font color=\"red\">+5</font>%<br/><b>단일 대상 <font color=\"blue\">지원 스킬</font></b> 사용 시<br/>대상에게 추가로 '<font color=\"blue\">사수</font>' 효과 부여<br/><font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">3</font>행동 지속"
   },
   "Equip": {
     "Name": "은하수 제독(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "윌러.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><b>영웅의 생명이 <font color=\"red\">50</font>% 이하일 경우</b><br/><font color=\"blue\">고정 피해면역</font><br/><b>스킬 사용 후 <font color=\"red\">50</font>% 확률로</b><br/>해당 스킬 쿨타임<font color=\"red\">-2</font>턴"
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><b>영웅의 생명이 <font color=\"red\">50</font>% 이하일 경우</b><br/><font color=\"blue\">고정 피해면역</font><br/><b>스킬 사용 후 <font color=\"red\">50</font>% 확률로</b><br/>해당 스킬 쿨타임<font color=\"red\">-2</font>행동"
   },
   "Soldiers": [
     0,

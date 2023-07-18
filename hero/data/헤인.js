@@ -64,19 +64,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "행동을 종료할 때마다 지력 <font color=\"red\">+2%</font> 상승 <font color=\"red\">5</font>턴 지속 최대 <font color=\"red\">4</font>회 중첩 가능."
+          "Desc": "행동을 종료할 때마다 지력 <font color=\"red\">+2%</font> 상승 <font color=\"red\">5</font>행동 지속 최대 <font color=\"red\">4</font>회 중첩 가능."
         },
         {
-          "Desc": "행동을 종료할 때마다 지력 <font color=\"red\">+3%</font> 상승 <font color=\"red\">5</font>턴 지속 최대 <font color=\"red\">4</font>회 중첩 가능."
+          "Desc": "행동을 종료할 때마다 지력 <font color=\"red\">+3%</font> 상승 <font color=\"red\">5</font>행동 지속 최대 <font color=\"red\">4</font>회 중첩 가능."
         },
         {
-          "Desc": "행동을 종료할 때마다 지력 <font color=\"red\">+4%</font> 상승 <font color=\"red\">5</font>턴 지속 최대 <font color=\"red\">4</font>회 중첩 가능."
+          "Desc": "행동을 종료할 때마다 지력 <font color=\"red\">+4%</font> 상승 <font color=\"red\">5</font>행동 지속 최대 <font color=\"red\">4</font>회 중첩 가능."
         },
         {
-          "Desc": "행동을 종료할 때마다 지력 <font color=\"red\">+5%</font> 상승 <font color=\"red\">5</font>턴 지속 최대 <font color=\"red\">4</font>회 중첩 가능."
+          "Desc": "행동을 종료할 때마다 지력 <font color=\"red\">+5%</font> 상승 <font color=\"red\">5</font>행동 지속 최대 <font color=\"red\">4</font>회 중첩 가능."
         },
         {
-          "Desc": "행동을 종료할 때마다 지력 <font color=\"red\">+6%</font> 상승 <font color=\"red\">5</font>턴 지속 최대 <font color=\"red\">4</font>회 중첩 가능."
+          "Desc": "행동을 종료할 때마다 지력 <font color=\"red\">+6%</font> 상승 <font color=\"red\">5</font>행동 지속 최대 <font color=\"red\">4</font>회 중첩 가능."
         }
       ]
     }

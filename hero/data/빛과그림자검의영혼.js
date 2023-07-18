@@ -466,7 +466,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/SwordLightShadow/1.webp",
-      "Desc": "아군 또는 <font color=\"blue\">영혼의 잠재</font>에 <font color=\"blue\">텔레포트</font><br/>자신에게 공격 <font color=\"red\">+20</font>% 부여 및 <font color=\"blue\">디버프 면역</font> 획득<br/> 지속 <font color=\"red\">2</font>턴<br/>사용 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font>",
+      "Desc": "아군 또는 <font color=\"blue\">영혼의 잠재</font>에 <font color=\"blue\">텔레포트</font><br/>자신에게 공격 <font color=\"red\">+20</font>% 부여 및 <font color=\"blue\">디버프 면역</font> 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -506,7 +506,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/SwordLightShadow/2.webp",
-      "Desc": "자신 주위 <font color=\"red\">2</font>바퀴 범위 내의 모든 적에게 <font color=\"red\">0.3</font>배 <font color=\"blue\">범위 피해</font> 및 <font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%<br/>적에게 <font color=\"blue\">재행동 불가</font> <font color=\"blue\">부여</font><br/> 지속 <font color=\"red\">2</font>턴",
+      "Desc": "자신 주위 <font color=\"red\">2</font>바퀴 범위 내의 모든 적에게 <font color=\"red\">0.3</font>배 <font color=\"blue\">범위 피해</font> 및 <font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%<br/>적에게 <font color=\"blue\">재행동 불가</font> <font color=\"blue\">부여</font><br/> 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -532,7 +532,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/빛과그림자검의영혼.webp",
-      "Desc": "[패시브] 자신에게 <font color=\"purple\">검의 영혼의 힘</font> 이 있는 상태로 행동 종료시<br/> 주위 <font color=\"red\">1</font>바퀴 이내 모든 적군에게 <font color=\"red\">0.1</font>배 <font color=\"blue\">범위 피해</font> 및 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font> <br/>[물리피해] 단일 개체에게 <font color=\"red\">1.8</font>배 피해<br/> 전투 전 적 부대의 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font> 및 [<font color=\"blue\">쇠약</font>] 효과 부여<br/><font color=\"blue\">쇠약</font> : <font color=\"blue\">부활 불가</font><br/>지속 <font color=\"red\">2</font>턴. 해제 불가.<br/><font color=\"purple\">검의 영혼의 힘</font> 효과 보유 시 해당 전투는 <font color=\"blue\">선제 공격</font><br/><b><font color=\"blue\">부활 불가</font> 효과는 아레나에서만 유효</b>",
+      "Desc": "[패시브] 자신에게 <font color=\"purple\">검의 영혼의 힘</font> 이 있는 상태로 행동 종료시<br/> 주위 <font color=\"red\">1</font>바퀴 이내 모든 적군에게 <font color=\"red\">0.1</font>배 <font color=\"blue\">범위 피해</font> 및 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font> <br/>[물리피해] 단일 개체에게 <font color=\"red\">1.8</font>배 피해<br/> 전투 전 적 부대의 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font> 및 [<font color=\"blue\">쇠약</font>] 효과 부여<br/><font color=\"blue\">쇠약</font> : <font color=\"blue\">부활 불가</font><br/>지속 <font color=\"red\">2</font>행동. 해제 불가.<br/><font color=\"purple\">검의 영혼의 힘</font> 효과 보유 시 해당 전투는 <font color=\"blue\">선제 공격</font><br/><b><font color=\"blue\">부활 불가</font> 효과는 아레나에서만 유효</b>",
       "SubSkills": null,
       "Animation": "../img/Super/빛과그림자검의영혼_Ani.webp"
     }

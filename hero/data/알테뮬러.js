@@ -76,16 +76,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "매번 전투 진입 전 공격 <font color=\"red\">+3%</font><br/> 받는 물리 피해 <font color=\"red\">-2%</font> <font color=\"red\">4</font>턴 지속 최대 <font color=\"red\">4</font>회 중첩."
+          "Desc": "매번 전투 진입 전 공격 <font color=\"red\">+3%</font><br/> 받는 물리 피해 <font color=\"red\">-2%</font> <font color=\"red\">4</font>행동 지속 최대 <font color=\"red\">4</font>회 중첩."
         },
         {
-          "Desc": "매번 전투 진입 전 공격 <font color=\"red\">+5%</font><br/> 받는 물리 피해 <font color=\"red\">-3%</font> <font color=\"red\">4</font>턴 지속 최대 <font color=\"red\">4</font>회 중첩."
+          "Desc": "매번 전투 진입 전 공격 <font color=\"red\">+5%</font><br/> 받는 물리 피해 <font color=\"red\">-3%</font> <font color=\"red\">4</font>행동 지속 최대 <font color=\"red\">4</font>회 중첩."
         },
         {
-          "Desc": "매번 전투 진입 전 공격 <font color=\"red\">+7%</font><br/> 받는 물리 피해 <font color=\"red\">-4%</font> <font color=\"red\">4</font>턴 지속 최대 <font color=\"red\">4</font>회 중첩."
+          "Desc": "매번 전투 진입 전 공격 <font color=\"red\">+7%</font><br/> 받는 물리 피해 <font color=\"red\">-4%</font> <font color=\"red\">4</font>행동 지속 최대 <font color=\"red\">4</font>회 중첩."
         },
         {
-          "Desc": "매번 전투 진입 전 공격 <font color=\"red\">+10%</font><br/> 받는 물리 피해 <font color=\"red\">-5%</font> <font color=\"red\">4</font>턴 지속 최대 <font color=\"red\">4</font>회 중첩."
+          "Desc": "매번 전투 진입 전 공격 <font color=\"red\">+10%</font><br/> 받는 물리 피해 <font color=\"red\">-5%</font> <font color=\"red\">4</font>행동 지속 최대 <font color=\"red\">4</font>회 중첩."
         }
       ]
     }

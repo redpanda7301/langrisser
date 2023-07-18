@@ -94,7 +94,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "To Be Continue",
-    "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">메타발언</font> 및 <font color=\"blue\">조롱대회</font> 스킬 사용후<br/>스킬 쿨타임 <font color=\"red\">1</font> ~ <font color=\"red\">4</font>턴 감소",
+    "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">메타발언</font> 및 <font color=\"blue\">조롱대회</font> 스킬 사용후<br/>스킬 쿨타임 <font color=\"red\">1</font> ~ <font color=\"red\">4</font>행동 감소",
   },
   "Equip": {
     "Name": "■ ■ ■ ■(무기)",

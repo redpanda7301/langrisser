@@ -584,7 +584,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/란스.webp",
-      "Desc": "[패시브]<b>영웅 직업이 비병이나 기병인 부대와 교전 시 전투 진입 전</b> 부대 생명 <font color=\"red\">20</font>% 회복<br/>[물리피해] 단일적군을 공격해 1.5배의 피해를 준다.<br/><b>자신이 혼합 부대일 경우 전투 후</b> 『<font color=\"blue\">바람타기</font>』 및 『<font color=\"blue\">이동시 지형 제한을 받지 않음</font>』 효과 획득<br/>지속 <font color=\"red\">2</font>턴<br/><b>이 스킬로 적군을 격파시</b> 쿨타임 <font color=\"red\">-3</font>턴.",
+      "Desc": "[패시브]<b>영웅 직업이 비병이나 기병인 부대와 교전 시 전투 진입 전</b> 부대 생명 <font color=\"red\">20</font>% 회복<br/>[물리피해] 단일적군을 공격해 1.5배의 피해를 준다.<br/><b>자신이 혼합 부대일 경우 전투 후</b> 『<font color=\"blue\">바람타기</font>』 및 『<font color=\"blue\">이동시 지형 제한을 받지 않음</font>』 효과 획득<br/>지속 <font color=\"red\">2</font>행동<br/><b>이 스킬로 적군을 격파시</b> 쿨타임 <font color=\"red\">-3</font>행동.",
       "SubSkills": null,
       "Animation": "../img/Super/란스_Ani.webp"
     }

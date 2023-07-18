@@ -53,25 +53,28 @@
           "Desc": "1성"
         },
         {
-          "Desc": "치료 효과 <font color=\"red\">+10%</font>. <br/>행동 종료 시 <font color=\"red\">1</font>칸 내 <font color=\"red\">1</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
+          "Desc": "치료 효과 <font color=\"red\">+10%</font>. <br/>행동 종료 시 <font color=\"red\">1</font>칸 내 <font color=\"red\">1</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>행동 지속."
         },
         {
-          "Desc": "치료 효과 <font color=\"red\">+15%</font>. <br/>행동 종료 시 <font color=\"red\">1</font>칸 내 <font color=\"red\">2</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
+          "Desc": "치료 효과 <font color=\"red\">+15%</font>. <br/>행동 종료 시 <font color=\"red\">1</font>칸 내 <font color=\"red\">2</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>행동 지속."
         },
         {
-          "Desc": "치료 효과 <font color=\"red\">+20%</font>. <br/>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">3</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
+          "Desc": "치료 효과 <font color=\"red\">+20%</font>. <br/>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">3</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>행동 지속."
         },
         {
-          "Desc": "치료 효과 <font color=\"red\">+25%</font>. <br/>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">4</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>턴 지속."
+          "Desc": "치료 효과 <font color=\"red\">+25%</font>. <br/>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">4</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">1</font>행동 지속."
         },
         {
-          "Desc": "치료 효과 <font color=\"red\">+30%</font>. <br/>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">4</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">2</font>턴 지속."
+          "Desc": "치료 효과 <font color=\"red\">+30%</font>. <br/>행동 종료 시 <font color=\"red\">2</font>칸 내 <font color=\"red\">4</font>기 아군에게<br/>랜덤 <font color=\"red\">1</font>개 면역효과 부여 <font color=\"red\">2</font>행동 지속."
         }
       ]
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "순백의 송가",
+    "Stats": "지력 <font color=\"red\">+10</font>%<br/><font color=\"purple\">순백의 날개</font> 패시브 효과 발동시 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 추가 부여",
+  },
   "Equip": null,
   "Soldiers": [
     3,

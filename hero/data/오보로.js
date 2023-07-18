@@ -501,7 +501,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DragonSuper.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배 범위 피해를 준다.<br/>피해를 입힌 모든 대상에게 <font color=\"blue\>무작위 디버프</font>를 부여 및 피해를 입힌 후 '<font color=\"blue\">바람 타기</font> 획득'<br/><font color=\"blue\">바람 타기</font>:부대 생명 <font color=\"red\">50</font>% 이상으로 전투 진입 시 받는 피해 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배 범위 피해를 준다.<br/>피해를 입힌 모든 대상에게 <font color=\"blue\>무작위 디버프</font>를 부여 및 피해를 입힌 후 '<font color=\"blue\">바람 타기</font> 획득'<br/><font color=\"blue\">바람 타기</font>:부대 생명 <font color=\"red\">50</font>% 이상으로 전투 진입 시 받는 피해 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

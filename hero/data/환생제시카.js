@@ -72,16 +72,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "대상과 거리가 멀 수록 피해 증가 <font color=\"red\">1</font>칸 당 <font color=\"red\">2%</font> 증가<br/>이동하지 않고 제자리에서 행동 종료시 이동력 <font color=\"red\">+1</font> 증가 <font color=\"red\">1</font>턴 지속."
+          "Desc": "대상과 거리가 멀 수록 피해 증가 <font color=\"red\">1</font>칸 당 <font color=\"red\">2%</font> 증가<br/>이동하지 않고 제자리에서 행동 종료시 이동력 <font color=\"red\">+1</font> 증가 <font color=\"red\">1</font>행동 지속."
         },
         {
-          "Desc": "대상과 거리가 멀 수록 피해 증가 <font color=\"red\">1</font>칸 당 <font color=\"red\">4%</font> 증가<br/>이동하지 않고 제자리에서 행동 종료시 이동력 <font color=\"red\">+1</font> 증가 <font color=\"red\">1</font>턴 지속."
+          "Desc": "대상과 거리가 멀 수록 피해 증가 <font color=\"red\">1</font>칸 당 <font color=\"red\">4%</font> 증가<br/>이동하지 않고 제자리에서 행동 종료시 이동력 <font color=\"red\">+1</font> 증가 <font color=\"red\">1</font>행동 지속."
         },
         {
-          "Desc": "대상과 거리가 멀 수록 피해 증가 <font color=\"red\">1</font>칸 당 <font color=\"red\">6%</font> 증가<br/>이동하지 않고 제자리에서 행동 종료시 이동력 <font color=\"red\">+1</font> 증가 <font color=\"red\">1</font>턴 지속."
+          "Desc": "대상과 거리가 멀 수록 피해 증가 <font color=\"red\">1</font>칸 당 <font color=\"red\">6%</font> 증가<br/>이동하지 않고 제자리에서 행동 종료시 이동력 <font color=\"red\">+1</font> 증가 <font color=\"red\">1</font>행동 지속."
         },
         {
-          "Desc": "대상과 거리가 멀 수록 피해 증가 <font color=\"red\">1</font>칸 당 <font color=\"red\">8%</font> 증가<br/>이동하지 않고 제자리에서 행동 종료시 이동력 <font color=\"red\">+2</font> 증가 <font color=\"red\">1</font>턴 지속."
+          "Desc": "대상과 거리가 멀 수록 피해 증가 <font color=\"red\">1</font>칸 당 <font color=\"red\">8%</font> 증가<br/>이동하지 않고 제자리에서 행동 종료시 이동력 <font color=\"red\">+2</font> 증가 <font color=\"red\">1</font>행동 지속."
         }
       ]
     }
@@ -89,7 +89,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "빛의 권속",
-    "Stats":"지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">여신의 세례</font> 사용 시 명중시킨 아군 <font color=\"red\">1</font>명당 <font color=\"blue\">쿨타임</font> <font color=\"red\">-1</font>(최대 <font color=\"red\">-3</font>턴)"
+    "Stats":"지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">여신의 세례</font> 사용 시 명중시킨 아군 <font color=\"red\">1</font>명당 <font color=\"blue\">쿨타임</font> <font color=\"red\">-1</font>(최대 <font color=\"red\">-3</font>행동)"
   },
   "Equip": {
     "Name": "신탁을 받은 자(투구)",
@@ -653,7 +653,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/환생제시카.webp",
-      "Desc": "[패시브] 영웅 사망 시 자신 주위 <font color=\"red\">5</font>칸 범위 내 <br/>모든 아군의 생명 회복,(환생 제시카 지력 <font color=\"red\">3</font>배 수치<br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">2</font>턴, <b>해제 불가</b>, <br/>[액티브] 범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 버프<font color=\"red\">1</font>개 제거, 대 마물 특효, <br/>범위 내 아군 생명 회복 (지력 <font color=\"red\">3</font>배 수치) 및 디버프 <font color=\"red\">2</font>개 제거, <br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">1</font>행동<br/><b>아군에게 시전가능</b>",
+      "Desc": "[패시브] 영웅 사망 시 자신 주위 <font color=\"red\">5</font>칸 범위 내 <br/>모든 아군의 생명 회복,(환생 제시카 지력 <font color=\"red\">3</font>배 수치<br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>, <br/>[액티브] 범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 버프<font color=\"red\">1</font>개 제거, 대 마물 특효, <br/>범위 내 아군 생명 회복 (지력 <font color=\"red\">3</font>배 수치) 및 디버프 <font color=\"red\">2</font>개 제거, <br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">1</font>행동<br/><b>아군에게 시전가능</b>",
       "SubSkills": null,
       "Animation": "../img/Super/환생제시카_Ani.webp"
     }

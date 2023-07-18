@@ -861,7 +861,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/레딘/1.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.4</font>배의 피해<br/>대상이 마물일 경우 전투 전 적에게 받는 피해 <font color=\"Red\">+20</font>% 효과 부여<br/>지속 <font color=\"Red\">2</font>턴<br/>전투 후<font color=\"red\">30</font>% 수치 <font color=\"green\">생명 회복</font><br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/><font color=\"blue\">근접전 패널티 무효화</font>",
+      "Desc": "단일 개체 <font color=\"red\">1.4</font>배의 피해<br/>대상이 마물일 경우 전투 전 적에게 받는 피해 <font color=\"Red\">+20</font>% 효과 부여<br/>지속 <font color=\"Red\">2</font>행동<br/>전투 후<font color=\"red\">30</font>% 수치 <font color=\"green\">생명 회복</font><br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/><font color=\"blue\">근접전 패널티 무효화</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -875,7 +875,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/레딘/2.webp",
-      "Desc": "<font color=\"blue\">치료 불가 면역</font><br/>자신에게 <font color=\"blue\">고급 신의 수호</font>가 없는 상태로 행동 종료 시 <font color=\"blue\">신의 수호</font> 효과 획득<br/>쿨타임 <font color=\"Red\">2</font>턴",
+      "Desc": "<font color=\"blue\">치료 불가 면역</font><br/>자신에게 <font color=\"blue\">고급 신의 수호</font>가 없는 상태로 행동 종료 시 <font color=\"blue\">신의 수호</font> 효과 획득<br/>쿨타임 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

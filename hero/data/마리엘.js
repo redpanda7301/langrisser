@@ -84,13 +84,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "전투의 바람",
-    "Stats":"공격 <font color=\"red\">+5</font>%<br/><font color=\"blue\">성스러운 분노의 일격</font>으로 적을 격파후, 행동 종료시<br/><font color=\"blue\">성스러운 분노</font> 획득<br/>반대일 경우 적 <font color=\"blue\">기절</font><br/>지속 <font color=\"red\">1</font>턴"
+    "Stats":"공격 <font color=\"red\">+5</font>%<br/><font color=\"blue\">성스러운 분노의 일격</font>으로 적을 격파후, 행동 종료시<br/><font color=\"blue\">성스러운 분노</font> 획득<br/>반대일 경우 적 <font color=\"blue\">기절</font><br/>지속 <font color=\"red\">1</font>행동"
   },
   "Equip": {
     "Name": "성스러운 프레일(무기)",
     "Stats": "생명 583,공격 85",
     "Icon": "마리엘.webp",
-    "Ability": "공격 <font color=\"red\">+10</font>%<br/><font color=\"purple\">계율</font>보유 시 스킬 사용 후 스킬 쿨타임 <font color=\"red\">-1</font><br/><font color=\"purple\">계율</font> 미보유 시 영웅이 주는 피해량 <font color=\"red\">+10</font>%<br/>쿨타임 <font color=\"red\">2</font>턴"
+    "Ability": "공격 <font color=\"red\">+10</font>%<br/><font color=\"purple\">계율</font>보유 시 스킬 사용 후 스킬 쿨타임 <font color=\"red\">-1</font><br/><font color=\"purple\">계율</font> 미보유 시 영웅이 주는 피해량 <font color=\"red\">+10</font>%<br/>쿨타임 <font color=\"red\">2</font>행동"
   },
   "Soldiers": [
     31,
@@ -419,7 +419,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Thump.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 공격 피해를 준다. <br/><b>자신이 방어 지형에 있을 시 전투 전</b> 대상에게 <font color =\"blue\">기절</font> 시전<br/><font color =\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 공격 피해를 준다. <br/><b>자신이 방어 지형에 있을 시 전투 전</b> 대상에게 <font color =\"blue\">기절</font> 시전<br/><font color =\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -473,7 +473,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 <font color=\"red\">+20</font>%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, <font color=\"red\">2</font>턴 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 <font color=\"red\">+20</font>%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, <font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -579,7 +579,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Mariel/3.webp",
-      "Desc": "[지원]액티브. <b>범위 내 아군</b> 생명 회복, 회복량은 술자 공격력의 <font color=\"red\">2.5</font>배 수치, <br/><b>디버프 <font color=\"red\">1</font>개 제거 및 <font color=\"red\">2</font>개의 무작위 <font color=\"blue\">면역</font> 효과 부여</b>지속 <font color=\"red\">2</font>턴.<br/><b>자신에게 걸린 [<font color=\"purple\">계율</font>] 효과가 사라진 후, 해당 스킬은 [<font color=\"blue\">성왕의 맹렬한 공격</font>]으로 변경</b>",
+      "Desc": "[지원]액티브. <b>범위 내 아군</b> 생명 회복, 회복량은 술자 공격력의 <font color=\"red\">2.5</font>배 수치, <br/><b>디버프 <font color=\"red\">1</font>개 제거 및 <font color=\"red\">2</font>개의 무작위 <font color=\"blue\">면역</font> 효과 부여</b>지속 <font color=\"red\">2</font>행동.<br/><b>자신에게 걸린 [<font color=\"purple\">계율</font>] 효과가 사라진 후, 해당 스킬은 [<font color=\"blue\">성왕의 맹렬한 공격</font>]으로 변경</b>",
       "SubSkills": [
       {
           "Name": "성왕의 맹렬한 공격",
@@ -632,7 +632,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/마리엘.webp",
-      "Desc": "[패시브]자신이 [<font color=\"blue\">계율</font>] 효과를 보유 하지 않을 경우, 이동력 <font color=\"red\">+3</font>. <br/>자신이 [<font color=\"blue\">계율</font>] 효과를 보유하고 있을 경우 <br/><b>행동 종료 시 생명력이 가장 낮은 아군 <font color=\"red\">2</font>명 <font color=\"blue\">생명 회복</font></b>, <br/>회복량은 마리엘 공격력의 <font color=\"red\">1.5</font>배 수치<br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해, <b>전투 전</b> 적의 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 제거 및 <br/>적을 <font color=\"blue\">위치 이동</font> 시킴<br/> 적을 <font color=\"red\">3</font>칸 밀침. <br/><b>호위 받는 적을 공격 시 피해 <font color=\"red\">+15</font>% 추가 증가 </b>, <br/>자신은 [<font color=\"blue\">성스러운 분노</font>] 효과 획득 :<br/>[<font color=\"blue\">성스러운 분노</font>]:주는 피해량 <font color=\"red\">+20</font>%, <font color=\"blue\">호위 무시</font> 공격,<br/><b><font color=\"blue\">스킬</font>로 피해를 줬을경우 </b><font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-3</font><br/>지속 <font color=\"red\">1</font>턴 <br/><b><font color=\"blue\">성스러운 분노</font> 효과는 면역 및 제거 불가</b>",
+      "Desc": "[패시브]자신이 [<font color=\"blue\">계율</font>] 효과를 보유 하지 않을 경우, 이동력 <font color=\"red\">+3</font>. <br/>자신이 [<font color=\"blue\">계율</font>] 효과를 보유하고 있을 경우 <br/><b>행동 종료 시 생명력이 가장 낮은 아군 <font color=\"red\">2</font>명 <font color=\"blue\">생명 회복</font></b>, <br/>회복량은 마리엘 공격력의 <font color=\"red\">1.5</font>배 수치<br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해, <b>전투 전</b> 적의 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 제거 및 <br/>적을 <font color=\"blue\">위치 이동</font> 시킴<br/> 적을 <font color=\"red\">3</font>칸 밀침. <br/><b>호위 받는 적을 공격 시 피해 <font color=\"red\">+15</font>% 추가 증가 </b>, <br/>자신은 [<font color=\"blue\">성스러운 분노</font>] 효과 획득 :<br/>[<font color=\"blue\">성스러운 분노</font>]:주는 피해량 <font color=\"red\">+20</font>%, <font color=\"blue\">호위 무시</font> 공격,<br/><b><font color=\"blue\">스킬</font>로 피해를 줬을경우 </b><font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-3</font><br/>지속 <font color=\"red\">1</font>행동 <br/><b><font color=\"blue\">성스러운 분노</font> 효과는 면역 및 제거 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/마리엘_Ani.webp"
     }

@@ -76,7 +76,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "Y형 시각 단말(투구)",
+    "Stats": "생명 437,마방 59",
+    "Icon": "코니.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>요아와의 거리가 <font color=\"red\">3</font>칸 이내일 경우 코니 <font color=\"blue\">치명타 피해</font> <font color=\"red\">+15</font>%<br/>요아 사용하는 채널 간섭에 추가 효과<br/>'<font color=\"blue\">지휘</font>. 자신 주위 <font color=\"red\">2</font>칸 범위 안 적이 코니에게 공격받을 경우 <font color=\"blue\">호위 불가</font>'<br/>지속 <font color=\"red\">2</font>행동"
+  },
   "Soldiers": [
     13,
     48,
@@ -415,7 +420,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Conna/0_1.webp",
-          "Desc": "사용 후 자신에게 '생명 <font color=\"red\">100</font>%일 경우 <font color=\"blue\">적의 일반 공격 및 스킬 타게팅 대상이 되지 않음</font><br/>행동 종료 시 자신 주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/>지속 <font color=\"red\">2</font>턴<br/>",
+          "Desc": "사용 후 자신에게 '생명 <font color=\"red\">100</font>%일 경우 <font color=\"blue\">적의 일반 공격 및 스킬 타게팅 대상이 되지 않음</font><br/>행동 종료 시 자신 주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/>지속 <font color=\"red\">2</font>행동<br/>",
         },
         {
           "Name": "<b><font color=\"purple\">펄스 사격 2형</font></b>",
@@ -438,7 +443,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Conna/0_2.webp",
-          "Desc": "직선 범위 안 단일 개체 <font color=\"red\">1</font>배 피해<br/>전투 후 대상 이동력 <font color=\"red\">-2</font> 및 <font color=\"blue\">호위 불가</font> 효과 부여<br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "직선 범위 안 단일 개체 <font color=\"red\">1</font>배 피해<br/>전투 후 대상 이동력 <font color=\"red\">-2</font> 및 <font color=\"blue\">호위 불가</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
           "Name": "<b><font color=\"purple\">이차원 동조</font></b>",
@@ -480,7 +485,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Conna/1.webp",
-      "Desc": "코니와 요아에게 '<font color=\"blue\">증원</font>' 및 '<font color=\"blue\">치명타 확률</font> <font color=\"red\">+20</font>%' 효과 부여<br/> 지속 <font color=\"red\">2</font>턴",
+      "Desc": "코니와 요아에게 '<font color=\"blue\">증원</font>' 및 '<font color=\"blue\">치명타 확률</font> <font color=\"red\">+20</font>%' 효과 부여<br/> 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -494,7 +499,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font></font>%<br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font></font>%<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -534,7 +539,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_SPDBuf1.webp",
-      "Desc": "행동 종료 시 근접한 <font color=\"red\">1</font>개 아군 부대의 이동력 <font color=\"red\">+1</font> 및<br/>'<font color=\"blue\">이동력 저하 면역</font>','<font color=\"blue\">치료 저하 면역</font>'<br/>쿨타임 <font color=\"red\">1</font>턴",
+      "Desc": "행동 종료 시 근접한 <font color=\"red\">1</font>개 아군 부대의 이동력 <font color=\"red\">+1</font> 및<br/>'<font color=\"blue\">이동력 저하 면역</font>','<font color=\"blue\">치료 저하 면역</font>'<br/>쿨타임 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -560,7 +565,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.webp",
-      "Desc": "단일 적을 공격 하여 <font color=\"red\">1.4</font>배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력 <font color=\"red\">-1</font><br/>쿨타임 <font color=\"red\">1</font>턴 지속 <b>제거 불가</b>",
+      "Desc": "단일 적을 공격 하여 <font color=\"red\">1.4</font>배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력 <font color=\"red\">-1</font><br/>쿨타임 <font color=\"red\">1</font>행동 지속 <b>제거 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -654,7 +659,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/코니.webp",
-      "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.4</font>배 피해<br/>대상에게 <font color=\"blue\">부대 사거리</font> <font color=\"red\">-1</font> 효과 부여<br/>지속 <font color=\"red\">1</font>턴<br/>목표의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><font color=\"purple\">홀로그램 요아</font>가 범위 안에 있을 경우<br/><font color=\"blue\">스킬 범위</font>가 <font color=\"purple\">홀로그램 요아</font>에서부터 <font color=\"red\">3</font>줄 <font color=\"red\">5</font>칸으로 연장됨",
+      "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.4</font>배 피해<br/>대상에게 <font color=\"blue\">부대 사거리</font> <font color=\"red\">-1</font> 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/>목표의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><font color=\"purple\">홀로그램 요아</font>가 범위 안에 있을 경우<br/><font color=\"blue\">스킬 범위</font>가 <font color=\"purple\">홀로그램 요아</font>에서부터 <font color=\"red\">3</font>줄 <font color=\"red\">5</font>칸으로 연장됨",
       "SubSkills": null,
       "Animation": "../img/Super/코니_Ani.webp"
     }

@@ -78,7 +78,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "타임머신 부스트",
+    "Stats": "지력 <font color=\"red\">+10</font>%<br/>아군에게 스킬 사용 시 <font color=\"red\">50</font>% 확률로 버프 지속 시간 <font color=\"red\">+1</font>",
+  },
   "Equip": {
     "Name": "만능 공구 모자(투구)",
     "Stats": "생명 364, 마방 65",
@@ -549,7 +552,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>턴지속.",
+      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>행동지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -607,19 +610,19 @@
             "Name": "<b><font color=\"#ff4500\">재구성 - 보병</font></b>",
             "Entries": null,
             "IconImageUrl": "../img/skills/Skill_Angelica3.webp",
-            "Desc": "아군  <font color=\"red\">1</font> 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font> 및 <font color =\"blue\">모든 디버프 제거</font>, <br/>추가로 '<font color=\"blue\">장갑 파괴</font>'를  부여한다.<br/><font color=\"blue\">장갑 파괴</font> : [패시브] 전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%, <font color=\"red\">-20</font> <font color=\"red\">1</font>턴 지속. <br/> 해당 효과 부여 지속 <font color=\"red\">2</font>행동 <br/><font color=\"red\">영웅</font> 병종을 보병이 된다. <br/>지속 <font color=\"red\">1</font>턴"
+            "Desc": "아군  <font color=\"red\">1</font> 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font> 및 <font color =\"blue\">모든 디버프 제거</font>, <br/>추가로 '<font color=\"blue\">장갑 파괴</font>'를  부여한다.<br/><font color=\"blue\">장갑 파괴</font> : [패시브] 전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%, <font color=\"red\">-20</font> <font color=\"red\">1</font>행동 지속. <br/> 해당 효과 부여 지속 <font color=\"red\">2</font>행동 <br/><font color=\"red\">영웅</font> 병종을 보병이 된다. <br/>지속 <font color=\"red\">1</font>행동"
           },
           {
             "Name": "<b><font color=\"#006400\">재구성 - 창병</font></b>",
             "Entries": null,
             "IconImageUrl": "../img/skills/Skill_Angelica4.webp",
-            "Desc": "아군  <font color=\"red\">1</font> 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font> 및 <font color =\"blue\">모든 디버프 제거</font>, <br/>추가로 '<font color=\"green\">재생</font>'을 부여한다.<br/><font color=\"green\">재생</font> : [지원] 전투 후 생명을 <font color=\"red\">10</font>% <font color=\"green\">회복</font> 하게한다. <br/>지속 <font color=\"red\">2</font>행동 <br/><font color=\"red\">영웅</font> 병종을 창병이 된다. <br/>지속 <font color=\"red\">1</font>턴"
+            "Desc": "아군  <font color=\"red\">1</font> 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font> 및 <font color =\"blue\">모든 디버프 제거</font>, <br/>추가로 '<font color=\"green\">재생</font>'을 부여한다.<br/><font color=\"green\">재생</font> : [지원] 전투 후 생명을 <font color=\"red\">10</font>% <font color=\"green\">회복</font> 하게한다. <br/>지속 <font color=\"red\">2</font>행동 <br/><font color=\"red\">영웅</font> 병종을 창병이 된다. <br/>지속 <font color=\"red\">1</font>행동"
           },
           {
             "Name": "<b><font color=\"#1e90ff\">재구성 - 기병</font></b>",
             "Entries": null,
             "IconImageUrl": "../img/skills/Skill_Angelica5.webp",
-            "Desc": "아군  <font color=\"red\">1</font> 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font> 및 <font color =\"blue\">모든 디버프 제거</font>, <br/>추가로 '<font color=\"purple\">폭풍</font>'을 부여한다.<br/><font color=\"purple\">폭풍</font> : [패시브]공격하여 전투 진입 시 부대 생명이 <font color=\"red\">80</font>% 이상 이라면<br/>전투 중 받는 피해량 <font color=\"red\">-30</font>% <br/>지속 <font color=\"red\">2</font>행동 <br/><font color=\"red\">영웅</font> 병종을 기병이 된다. <br/>지속 <font color=\"red\">1</font>턴"
+            "Desc": "아군  <font color=\"red\">1</font> 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font> 및 <font color =\"blue\">모든 디버프 제거</font>, <br/>추가로 '<font color=\"purple\">폭풍</font>'을 부여한다.<br/><font color=\"purple\">폭풍</font> : [패시브]공격하여 전투 진입 시 부대 생명이 <font color=\"red\">80</font>% 이상 이라면<br/>전투 중 받는 피해량 <font color=\"red\">-30</font>% <br/>지속 <font color=\"red\">2</font>행동 <br/><font color=\"red\">영웅</font> 병종을 기병이 된다. <br/>지속 <font color=\"red\">1</font>행동"
           }
       ],
       "Animation": null

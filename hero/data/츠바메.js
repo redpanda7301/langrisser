@@ -63,16 +63,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font>칸내 적군 <font color=\"red\">1</font>명당 공격 기술 <font color=\"red\">+2%</font>(최대 <font color=\"red\">6%</font>).<br/>행동 종료시 피해를 입히거나 피해를 받지않고<br/> 자신 주위 <font color=\"red\">2</font>바퀴 내 적군이 없으면 [은신]획득<br/>: \"적군의 보통공격 및 스킬공격의 대상이 되지 않는다.<br/>(제거불가피해를 받거나 피해를 입힌후 <br/>또는 주위 <font color=\"red\">1</font>칸내 적군이 있을시 이 효과는 제거된다)\".<br/>(고유기술의 [은신]효과는 발동후 <font color=\"red\">4</font>턴이 지나야 다시 발동할 수 있다."
+          "Desc": "주위 <font color=\"red\">1</font>칸내 적군 <font color=\"red\">1</font>명당 공격 기술 <font color=\"red\">+2%</font>(최대 <font color=\"red\">6%</font>).<br/>행동 종료시 피해를 입히거나 피해를 받지않고<br/> 자신 주위 <font color=\"red\">2</font>바퀴 내 적군이 없으면 [은신]획득<br/>: \"적군의 보통공격 및 스킬공격의 대상이 되지 않는다.<br/>(제거불가피해를 받거나 피해를 입힌후 <br/>또는 주위 <font color=\"red\">1</font>칸내 적군이 있을시 이 효과는 제거된다)\".<br/>(고유기술의 [은신]효과는 발동후 <font color=\"red\">4</font>행동이 지나야 다시 발동할 수 있다."
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸내 적군 <font color=\"red\">1</font>명당 공격 기술 <font color=\"red\">+4%</font>(최대 <font color=\"red\">12%</font>).<br/>행동 종료시 피해를 입히거나 피해를 받지않고<br/> 자신 주위 <font color=\"red\">2</font>바퀴 내 적군이 없으면 [은신]획득<br/>: \"적군의 보통공격 및 스킬공격의 대상이 되지 않는다.<br/>(제거불가피해를 받거나 피해를 입힌후 <br/>또는 주위 <font color=\"red\">1</font>칸내 적군이 있을시 이 효과는 제거된다)\".<br/>(고유기술의 [은신]효과는 발동후 <font color=\"red\">3</font>턴이 지나야 다시 발동할 수 있다."
+          "Desc": "주위 <font color=\"red\">2</font>칸내 적군 <font color=\"red\">1</font>명당 공격 기술 <font color=\"red\">+4%</font>(최대 <font color=\"red\">12%</font>).<br/>행동 종료시 피해를 입히거나 피해를 받지않고<br/> 자신 주위 <font color=\"red\">2</font>바퀴 내 적군이 없으면 [은신]획득<br/>: \"적군의 보통공격 및 스킬공격의 대상이 되지 않는다.<br/>(제거불가피해를 받거나 피해를 입힌후 <br/>또는 주위 <font color=\"red\">1</font>칸내 적군이 있을시 이 효과는 제거된다)\".<br/>(고유기술의 [은신]효과는 발동후 <font color=\"red\">3</font>행동이 지나야 다시 발동할 수 있다."
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸내 적군 <font color=\"red\">1</font>명당 공격 기술 <font color=\"red\">+6%</font>(최대 <font color=\"red\">18%</font>).<br/>행동 종료시 피해를 입히거나 피해를 받지않고<br/> 자신 주위 <font color=\"red\">2</font>버퀴 내 적군이 없으면 [은신]획득<br/>: \"적군의 보통공격 및 스킬공격의 대상이 되지 않는다.<br/>(제거불가피해를 받거나 피해를 입힌후 <br/>또는 주위 <font color=\"red\">1</font>칸내 적군이 있을시 이 효과는 제거된다)\".<br/>(고유기술의 [은신]효과는 발동후 <font color=\"red\">3</font>턴이 지나야 다시 발동할 수 있다."
+          "Desc": "주위 <font color=\"red\">2</font>칸내 적군 <font color=\"red\">1</font>명당 공격 기술 <font color=\"red\">+6%</font>(최대 <font color=\"red\">18%</font>).<br/>행동 종료시 피해를 입히거나 피해를 받지않고<br/> 자신 주위 <font color=\"red\">2</font>버퀴 내 적군이 없으면 [은신]획득<br/>: \"적군의 보통공격 및 스킬공격의 대상이 되지 않는다.<br/>(제거불가피해를 받거나 피해를 입힌후 <br/>또는 주위 <font color=\"red\">1</font>칸내 적군이 있을시 이 효과는 제거된다)\".<br/>(고유기술의 [은신]효과는 발동후 <font color=\"red\">3</font>행동이 지나야 다시 발동할 수 있다."
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font>칸내 적군 <font color=\"red\">1</font>명당 공격 기술 <font color=\"red\">+8%</font>(최대 <font color=\"red\">24%</font>).<br/>행동 종료시 피해를 입히거나 피해를 받지않고<br/> 자신 주위 <font color=\"red\">2</font>바퀴 내 적군이 없으면 [은신]획득<br/>: \"적군의 보통공격 및 스킬공격의 대상이 되지 않는다.<br/>(제거불가피해를 받거나 피해를 입힌후 <br/>또는 주위 <font color=\"red\">1</font>칸내 적군이 있을시 이 효과는 제거된다)\".<br/>(고유기술의 [은신]효과는 발동후 <font color=\"red\">2</font>턴이 지나야 다시 발동할 수 있다."
+          "Desc": "주위 <font color=\"red\">3</font>칸내 적군 <font color=\"red\">1</font>명당 공격 기술 <font color=\"red\">+8%</font>(최대 <font color=\"red\">24%</font>).<br/>행동 종료시 피해를 입히거나 피해를 받지않고<br/> 자신 주위 <font color=\"red\">2</font>바퀴 내 적군이 없으면 [은신]획득<br/>: \"적군의 보통공격 및 스킬공격의 대상이 되지 않는다.<br/>(제거불가피해를 받거나 피해를 입힌후 <br/>또는 주위 <font color=\"red\">1</font>칸내 적군이 있을시 이 효과는 제거된다)\".<br/>(고유기술의 [은신]효과는 발동후 <font color=\"red\">2</font>행동이 지나야 다시 발동할 수 있다."
         }
       ]
     }
@@ -80,7 +80,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "은밀하고 신속한 칼날",
-    "Stats":"공격, 기술 <font color=\"red\">+5</font>%<br/>자신이 <font color=\"purple\">은신</font> 효과 보유 상태로 <font color=\"blue\">스킬</font>로 피해를 입힐 경우<br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-3</font>턴"
+    "Stats":"공격, 기술 <font color=\"red\">+5</font>%<br/>자신이 <font color=\"purple\">은신</font> 효과 보유 상태로 <font color=\"blue\">스킬</font>로 피해를 입힐 경우<br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-3</font>행동"
   },
   "Equip": {
     "Name": "몰래 날아가는 별의 투구(투구)",

@@ -80,7 +80,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "은밀기동",
-    "Stats": "공격 <font color=\"red\">+5</font>%<br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>(해당 효과 쿨타임 <font color=\"red\">1</font>턴)",
+    "Stats": "공격 <font color=\"red\">+5</font>%<br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>(해당 효과 쿨타임 <font color=\"red\">1</font>행동)",
   },
   "Equip": {
     "Name": "빛의 심판관(무기)",
@@ -437,7 +437,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Suzette/1.webp",
-      "Desc": "[액티브]<b>모든 스킬 쿨타임 <font color =\"red\">-4</font> 및 부대 치명타율 <font color =\"red\">+30</font>%</b><br/><font color =\"red\">2</font>턴 지속.",
+      "Desc": "[액티브]<b>모든 스킬 쿨타임 <font color =\"red\">-4</font> 및 부대 치명타율 <font color =\"red\">+30</font>%</b><br/><font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -477,7 +477,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDexDown.webp",
-      "Desc": "[패시브]<b>행동 종료 시 주위 <font color=\"red\">3</font>칸 내 모든 적 부대</b> 기술 <font color=\"red\">-20</font>%, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[패시브]<b>행동 종료 시 주위 <font color=\"red\">3</font>칸 내 모든 적 부대</b> 기술 <font color=\"red\">-20</font>%, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -543,7 +543,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.webp",
-      "Desc": "[패시브]치명타율 <font color=\"red\">+10</font>%.<br/><b>피해를 줄 때 <font color=\"red\">50</font>%의 확률로 적 부대의</b> <font color=\"blue\">패시브 스킬</font>을 무효화한다.<br/><font color=\"red\">2</font>턴 지속, 치명타 발생 시 반드시 발동.",
+      "Desc": "[패시브]치명타율 <font color=\"red\">+10</font>%.<br/><b>피해를 줄 때 <font color=\"red\">50</font>%의 확률로 적 부대의</b> <font color=\"blue\">패시브 스킬</font>을 무효화한다.<br/><font color=\"red\">2</font>행동 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -557,7 +557,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass3.webp",
-      "Desc": "[패시브]치명타 피해량 <font color=\"red\">+20</font>%. <br/><b>전투 중 치명타가 발생한 경우</b><br/>전투 종료 후 받는 모든 피해량 <font color=\"red\">-30</font>%<br/><font color=\"red\">1</font>턴 지속.",
+      "Desc": "[패시브]치명타 피해량 <font color=\"red\">+20</font>%. <br/><b>전투 중 치명타가 발생한 경우</b><br/>전투 종료 후 받는 모든 피해량 <font color=\"red\">-30</font>%<br/><font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

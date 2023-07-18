@@ -63,16 +63,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">1</font>칸내 아군 있을 시 지력 <font color=\"red\">+10%</font><br/>근접 공격 피해감면 영향을 받지않는다.<br/>사망시 자신을 중심으로한 <font color=\"red\">3</font>칸 범위내 아군의 모든 약화효과를 제거한다.<br/>동시에 명중한 모든 지형에 '<font color=\"purple\">눈부신 빛</font>'부여 <font color=\"red\">4</font>턴 지속.<br/>:\"적군의 이동 방식이 [비행][기마] [야전]의 경우 이동 시 이동력 소모+<font color=\"red\">1</font><br/>아군의 이동방식이 [보행][수병]인 경우 이 지형에서 전투후 <font color=\"red\">2</font>칸 재이동 가능."
+          "Desc": "자신 주위 <font color=\"red\">1</font>칸내 아군 있을 시 지력 <font color=\"red\">+10%</font><br/>근접 공격 피해감면 영향을 받지않는다.<br/>사망시 자신을 중심으로한 <font color=\"red\">3</font>칸 범위내 아군의 모든 약화효과를 제거한다.<br/>동시에 명중한 모든 지형에 '<font color=\"purple\">눈부신 빛</font>'부여 <font color=\"red\">4</font>행동 지속.<br/>:\"적군의 이동 방식이 [비행][기마] [야전]의 경우 이동 시 이동력 소모+<font color=\"red\">1</font><br/>아군의 이동방식이 [보행][수병]인 경우 이 지형에서 전투후 <font color=\"red\">2</font>칸 재이동 가능."
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2</font>칸내 아군 있을 시 지력 <font color=\"red\">+13%</font><br/>근접 공격 피해감면 영향을 받지않는다.<br/>사망시 자신을 중심으로한 <font color=\"red\">4</font>칸 범위내 아군의 모든 약화효과를 제거한다.<br/>동시에 명중한 모든 지형에 '<font color=\"purple\">눈부신 빛</font>'부여 <font color=\"red\">4</font>턴 지속.<br/>:\"적군의 이동 방식이 [비행][기마] [야전]의 경우 이동 시 이동력 소모+<font color=\"red\">1</font><br/>아군의 이동방식이 [보행][수병]인 경우 이 지형에서 전투후 <font color=\"red\">2</font>칸 재이동 가능."
+          "Desc": "자신 주위 <font color=\"red\">2</font>칸내 아군 있을 시 지력 <font color=\"red\">+13%</font><br/>근접 공격 피해감면 영향을 받지않는다.<br/>사망시 자신을 중심으로한 <font color=\"red\">4</font>칸 범위내 아군의 모든 약화효과를 제거한다.<br/>동시에 명중한 모든 지형에 '<font color=\"purple\">눈부신 빛</font>'부여 <font color=\"red\">4</font>행동 지속.<br/>:\"적군의 이동 방식이 [비행][기마] [야전]의 경우 이동 시 이동력 소모+<font color=\"red\">1</font><br/>아군의 이동방식이 [보행][수병]인 경우 이 지형에서 전투후 <font color=\"red\">2</font>칸 재이동 가능."
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2</font>칸내 아군 있을 시 지력 <font color=\"red\">+16%</font><br/>근접 공격 피해감면 영향을 받지않는다.<br/>사망시 자신을 중심으로한 <font color=\"red\">4</font>칸 범위내 아군의 모든 약화효과를 제거한다.<br/>동시에 명중한 모든 지형에 '<font color=\"purple\">눈부신 빛</font>'부여 <font color=\"red\">4</font>턴 지속.<br/>:\"적군의 이동 방식이 [비행][기마] [야전]의 경우 이동 시 이동력 소모+<font color=\"red\">1</font><br/>아군의 이동방식이 [보행][수병]인 경우 이 지형에서 전투후 <font color=\"red\">2</font>칸 재이동 가능."
+          "Desc": "자신 주위 <font color=\"red\">2</font>칸내 아군 있을 시 지력 <font color=\"red\">+16%</font><br/>근접 공격 피해감면 영향을 받지않는다.<br/>사망시 자신을 중심으로한 <font color=\"red\">4</font>칸 범위내 아군의 모든 약화효과를 제거한다.<br/>동시에 명중한 모든 지형에 '<font color=\"purple\">눈부신 빛</font>'부여 <font color=\"red\">4</font>행동 지속.<br/>:\"적군의 이동 방식이 [비행][기마] [야전]의 경우 이동 시 이동력 소모+<font color=\"red\">1</font><br/>아군의 이동방식이 [보행][수병]인 경우 이 지형에서 전투후 <font color=\"red\">2</font>칸 재이동 가능."
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">3</font>칸내 아군 있을 시 지력 <font color=\"red\">+20%</font><br/>근접 공격 피해감면 영향을 받지않는다.<br/>사망시 자신을 중심으로한 <font color=\"red\">5</font>칸 범위내 아군의 모든 약화효과를 제거한다.<br/>동시에 명중한 모든 지형에 '<font color=\"purple\">눈부신 빛</font>'부여 <font color=\"red\">4</font>턴 지속.<br/>:\"적군의 이동 방식이 [비행][기마] [야전]의 경우 이동 시 이동력 소모+<font color=\"red\">1</font><br/>아군의 이동방식이 [보행][수병]인 경우 이 지형에서 전투후 <font color=\"red\">2</font>칸 재이동 가능."
+          "Desc": "자신 주위 <font color=\"red\">3</font>칸내 아군 있을 시 지력 <font color=\"red\">+20%</font><br/>근접 공격 피해감면 영향을 받지않는다.<br/>사망시 자신을 중심으로한 <font color=\"red\">5</font>칸 범위내 아군의 모든 약화효과를 제거한다.<br/>동시에 명중한 모든 지형에 '<font color=\"purple\">눈부신 빛</font>'부여 <font color=\"red\">4</font>행동 지속.<br/>:\"적군의 이동 방식이 [비행][기마] [야전]의 경우 이동 시 이동력 소모+<font color=\"red\">1</font><br/>아군의 이동방식이 [보행][수병]인 경우 이 지형에서 전투후 <font color=\"red\">2</font>칸 재이동 가능."
         }
       ]
     }
@@ -83,7 +83,7 @@
     "Name": "과거의 빛(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "세계수의현자.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><b>부대의 일반 공격 사거리 <font color=\"red\">+1</font></b><br/><b>선공으로 전투 진입 후 목표 및 주위 <font color=\"red\">1</font>칸에</b><br/><font color=\"purple\">눈부신 빛</font>효과 부여<br/>지속<font color=\"red\">1</font>턴"
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><b>부대의 일반 공격 사거리 <font color=\"red\">+1</font></b><br/><b>선공으로 전투 진입 후 목표 및 주위 <font color=\"red\">1</font>칸에</b><br/><font color=\"purple\">눈부신 빛</font>효과 부여<br/>지속<font color=\"red\">1</font>행동"
   },
   "Soldiers": [
     44,

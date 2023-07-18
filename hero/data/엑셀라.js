@@ -356,7 +356,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.webp",
-      "Desc": "단일 개체 1.5배의 피해<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%,지속 <font color=\"red\">2</font>턴.",
+      "Desc": "단일 개체 1.5배의 피해<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%,지속 <font color=\"red\">2</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -370,7 +370,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefDown.webp",
-      "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 방어 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 방어 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },    
@@ -396,7 +396,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Excela/1.webp",
-      "Desc": "범위 내 다수의 적을 목표 위치 근처로 <font color=\"blue\">텔레포트</font> 및 <font color=\"red\">0.2</font>배 <font color=\"blue\">범위 피해</font><br/>목표 위치에 지형 효과 '<font color=\"blue\">중력장</font>'을 부여한다.<br/><font color=\"blue\">중력장</font> : 적이 <font color=\"blue\">중력장</font> 주위 <font color=\"red\">2</font>칸 범위 안에서 행동 종료 시 <font color=\"blue\">중력장</font> 중심으로 <font color=\"blue\">텔레포트</font><br/><b><font color=\"blue\">중력장</font> 효과는 우선 순위를 갖는다</b><br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "범위 내 다수의 적을 목표 위치 근처로 <font color=\"blue\">텔레포트</font> 및 <font color=\"red\">0.2</font>배 <font color=\"blue\">범위 피해</font><br/>목표 위치에 지형 효과 '<font color=\"blue\">중력장</font>'을 부여한다.<br/><font color=\"blue\">중력장</font> : 적이 <font color=\"blue\">중력장</font> 주위 <font color=\"red\">2</font>칸 범위 안에서 행동 종료 시 <font color=\"blue\">중력장</font> 중심으로 <font color=\"blue\">텔레포트</font><br/><b><font color=\"blue\">중력장</font> 효과는 우선 순위를 갖는다</b><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -462,7 +462,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Excela/2.webp",
-      "Desc": "자신에게 '<font color =\"blue\">공격</font> <font color =\"red\">+20</font>%'<br/>선공 시 <font color =\"red\">50</font>% 확률로 '<font color =\"purple\">모으기</font><font color =\"blue\">를 소모하지 않음</font>' 효과를 부여<br/>지속 <font color =\"red\">4</font>턴",
+      "Desc": "자신에게 '<font color =\"blue\">공격</font> <font color =\"red\">+20</font>%'<br/>선공 시 <font color =\"red\">50</font>% 확률로 '<font color =\"purple\">모으기</font><font color =\"blue\">를 소모하지 않음</font>' 효과를 부여<br/>지속 <font color =\"red\">4</font>행동",
       "SubSkills": null,
       "Animation": null
     },    
@@ -514,7 +514,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash2.webp",
-      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <font color =\"blue\">바람 타기</font> <b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%<br/>지속 <font color =\"red\">2</font>턴",
+      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <font color =\"blue\">바람 타기</font> <b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%<br/>지속 <font color =\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -566,7 +566,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/엑셀라.webp",
-      "Desc": "[패시브] 자신이 '<font color=\"blue\">모으기</font>'를 보유한 상태로 <font color=\"purple\">고유 스킬</font> 발동 시<br/>'선공으로 전투 진입 전 부대 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>턴<br/>[물리피해] 단일 개체 <font color=\"red\">1.5</font>배 피해, <font color=\"blue\">해당 피해는 마법 피해로 간주</font><br/><font color=\"blue\">근접 병사 대동 시 함께 공격</font>적이 <font color=\"blue\">중력장</font> 안에 있다면 행동 종료 시 <font color=\"blue\">중력장</font> 범위 안 모든 적에게 <font color=\"red\">0.2</font>배 <font color=\"blue\">물리 범위 피해</font><br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>",
+      "Desc": "[패시브] 자신이 '<font color=\"blue\">모으기</font>'를 보유한 상태로 <font color=\"purple\">고유 스킬</font> 발동 시<br/>'선공으로 전투 진입 전 부대 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>[물리피해] 단일 개체 <font color=\"red\">1.5</font>배 피해, <font color=\"blue\">해당 피해는 마법 피해로 간주</font><br/><font color=\"blue\">근접 병사 대동 시 함께 공격</font>적이 <font color=\"blue\">중력장</font> 안에 있다면 행동 종료 시 <font color=\"blue\">중력장</font> 범위 안 모든 적에게 <font color=\"red\">0.2</font>배 <font color=\"blue\">물리 범위 피해</font><br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>",
       "SubSkills": null,
       "Animation": "../img/Super/엑셀라_Ani.webp"
     }

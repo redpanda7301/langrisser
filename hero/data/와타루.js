@@ -392,7 +392,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>턴지속.",
+      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>행동지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -458,7 +458,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Wataru/1.webp",
-      "Desc": "[액티브]목표에게 <b><font color=\"blue\">이동 불가 및 호위 불가 상태 부여</font></b> 지속 <font color=\"red\">1</font>턴, <br/>사용 후 <font color=\"red\">2</font>칸 재행동 가능 <br/><b>해당 스킬은 버프 지속시간을 소모하지 않음.</b>,<br/>목표 영웅의 <b>현재 생명수치가 와타루보다 높을 경우</b> 해당 효과는 <b><font color=\"blue\">해제 불가</font></b>",
+      "Desc": "[액티브]목표에게 <b><font color=\"blue\">이동 불가 및 호위 불가 상태 부여</font></b> 지속 <font color=\"red\">1</font>행동, <br/>사용 후 <font color=\"red\">2</font>칸 재행동 가능 <br/><b>해당 스킬은 버프 지속시간을 소모하지 않음.</b>,<br/>목표 영웅의 <b>현재 생명수치가 와타루보다 높을 경우</b> 해당 효과는 <b><font color=\"blue\">해제 불가</font></b>",
       "SubSkills": null,
       "Animation": null
     },

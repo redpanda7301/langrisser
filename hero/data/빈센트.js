@@ -414,7 +414,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Punch.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"red\">1.2</font>배의 피해를 준다.<br/>대상을 <font color=\"red\">2</font>칸 밀쳐내며 이동력 <font color=\"red\">-2<font>, '<font color=\"blue\">호위 불가</font>'부여, <font color=\"red\">1</font>턴 지속.</font></font>",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"red\">1.2</font>배의 피해를 준다.<br/>대상을 <font color=\"red\">2</font>칸 밀쳐내며 이동력 <font color=\"red\">-2<font>, '<font color=\"blue\">호위 불가</font>'부여, <font color=\"red\">1</font>행동 지속.</font></font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -454,7 +454,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Vincent/1.webp",
-      "Desc": "[물리 피해] 주위 <font color=\"red\">2</font>바퀴 <font color=\"red\">0.3</font>배 범위 피해, <br/>해당 스킬로 적을 격파 시 쿨타임 <font color=\"red\">-2</font> 및 <b>스킬 <font color=\"red\">1</font>회 재발동</b> <br/>해당 스킬을 <b>다시 사용 가능 할 경우</b> 피해 <font color=\"red\">-50</font>% <br/>(해당 효과는 <font color=\"red\">1</font>턴에 최대 <font color=\"red\">1</font>회 발동)",
+      "Desc": "[물리 피해] 주위 <font color=\"red\">2</font>바퀴 <font color=\"red\">0.3</font>배 범위 피해, <br/>해당 스킬로 적을 격파 시 쿨타임 <font color=\"red\">-2</font> 및 <b>스킬 <font color=\"red\">1</font>회 재발동</b> <br/>해당 스킬을 <b>다시 사용 가능 할 경우</b> 피해 <font color=\"red\">-50</font>% <br/>(해당 효과는 <font color=\"red\">1</font>행동에 최대 <font color=\"red\">1</font>회 발동)",
       "SubSkills": null,
       "Animation": null
     },
@@ -494,7 +494,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraAtkDown.webp",
-      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대 공격, 지력 <font color=\"red\">-15</font>%, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대 공격, 지력 <font color=\"red\">-15</font>%, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

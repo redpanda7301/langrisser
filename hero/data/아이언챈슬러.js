@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+10</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">4</font>턴(포진 별도설명)"
+          "Desc": "피해량 <font color=\"red\">+10</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">4</font>행동(포진 별도설명)"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+15</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">3</font>턴(포진 별도설명)"
+          "Desc": "피해량 <font color=\"red\">+15</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">3</font>행동(포진 별도설명)"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+20</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">3</font>턴(포진 별도설명)"
+          "Desc": "피해량 <font color=\"red\">+20</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">3</font>행동(포진 별도설명)"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+30</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">2</font>턴(포진 별도설명)"
+          "Desc": "피해량 <font color=\"red\">+30</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">2</font>행동(포진 별도설명)"
         }
       ]
     }
@@ -465,7 +465,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef2.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방 <font color=\"red\">-25%</font><br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방 <font color=\"red\">-25%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -479,7 +479,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf1.webp",
-      "Desc": "[패시브]공격을 받아 전투 진입 전 자신 방어 <font color=\"red\">+5%</font>, <font color=\"red\">1턴</font> 지속. 중첩 가능.",
+      "Desc": "공격을 받아 전투 진입 전 자신 방어 <font color=\"red\">+5%</font>, <font color=\"red\">1턴</font> 지속. 중첩 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -519,7 +519,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.webp",
-      "Desc": "행동 종료 시 주위 <font color=\"Red\">2</font>칸 내 <font color=\"Red\">2</font>개 다른 아군 부대의 '<font color=\"blue\">받는 피해</font>' <font color=\"Red\">-15</font>% 및<br/>면역: '<font color=\"blue\">방어,마방 감소</font>','<font color=\"blue\">치료 방해</font>'<br/><font color=\"Red\">1</font>턴 지속.",
+      "Desc": "행동 종료 시 주위 <font color=\"Red\">2</font>칸 내 <font color=\"Red\">2</font>개 다른 아군 부대의 '<font color=\"blue\">받는 피해</font>' <font color=\"Red\">-15</font>% 및<br/>면역: '<font color=\"blue\">방어,마방 감소</font>','<font color=\"blue\">치료 방해</font>'<br/><font color=\"Red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -611,7 +611,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/아이언챈슬러.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해를 준다, <br/>전투 후 대상에게 영구적인 '<font color=\"blue\">패산</font>' 효과 부여<br/><font color=\"blue\">패산</font> : <font color=\"blue\">병사가 받는 치료 효과</font> <font color=\"red\">-80</font>%, <b>해제 불가</b><br/><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br/><font color=\"purple\">강공</font> 효과를 보유할 경우, <font color=\"blue\">선제 공격</font> 및 전투 전 적 버프<font color=\"red\">5</font>개 제거<br/><font color=\"purple\">수비</font> 효과를 보유할 경우 전투 후 <font color=\"blue\">재이동</font> 및 <font color=\"red\">3</font>칸 및 <br/>행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 내 모든 아군에게<br/>'<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' '전투 후 병사 생명<font color=\"red\">30</font>% <font color=\"green\">회복</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>턴<br/><b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해를 준다, <br/>전투 후 대상에게 영구적인 '<font color=\"blue\">패산</font>' 효과 부여<br/><font color=\"blue\">패산</font> : <font color=\"blue\">병사가 받는 치료 효과</font> <font color=\"red\">-80</font>%, <b>해제 불가</b><br/><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br/><font color=\"purple\">강공</font> 효과를 보유할 경우, <font color=\"blue\">선제 공격</font> 및 전투 전 적 버프<font color=\"red\">5</font>개 제거<br/><font color=\"purple\">수비</font> 효과를 보유할 경우 전투 후 <font color=\"blue\">재이동</font> 및 <font color=\"red\">3</font>칸 및 <br/>행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 내 모든 아군에게<br/>'<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' '전투 후 병사 생명<font color=\"red\">30</font>% <font color=\"green\">회복</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
       "SubSkills": null,
       "Animation": "../img/Super/아이언챈슬러_Ani.webp"
     }

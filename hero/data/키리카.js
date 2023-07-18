@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격 <font color=\"red\">+10</font>%<br/>공격하지 않고 행동 종료 시<br/>공격 스킬 사용 시 남은 이동력의 <font color=\"red\">1</font>배 만큼 <font color=\"blue\">부대 사거리 증가</font><br/>(<font color=\"blue\">직선 스킬 포함</font>)<br/>지속 <font color=\"red\">2</font>턴<br/>해제 불가<br/>최대 <font color=\"red\">8</font>중첩<br/>중첩 시 지속 시간 갱신"
+          "Desc": "공격 <font color=\"red\">+10</font>%<br/>공격하지 않고 행동 종료 시<br/>공격 스킬 사용 시 남은 이동력의 <font color=\"red\">1</font>배 만큼 <font color=\"blue\">부대 사거리 증가</font><br/>(<font color=\"blue\">직선 스킬 포함</font>)<br/>지속 <font color=\"red\">2</font>행동<br/>해제 불가<br/>최대 <font color=\"red\">8</font>중첩<br/>중첩 시 지속 시간 갱신"
         },
         {
-          "Desc": "공격 <font color=\"red\">+13</font>%<br/>공격하지 않고 행동 종료 시<br/>공격 스킬 사용 시 남은 이동력의 <font color=\"red\">1</font>배 만큼 <font color=\"blue\">부대 사거리 증가</font>(<font color=\"blue\">직선 스킬 포함</font>)<br/>지속 <font color=\"red\">2</font>턴<br/>해제 불가<br/>최대 <font color=\"red\">8</font>중첩<br/>중첩 시 지속 시간 갱신"
+          "Desc": "공격 <font color=\"red\">+13</font>%<br/>공격하지 않고 행동 종료 시<br/>공격 스킬 사용 시 남은 이동력의 <font color=\"red\">1</font>배 만큼 <font color=\"blue\">부대 사거리 증가</font>(<font color=\"blue\">직선 스킬 포함</font>)<br/>지속 <font color=\"red\">2</font>행동<br/>해제 불가<br/>최대 <font color=\"red\">8</font>중첩<br/>중첩 시 지속 시간 갱신"
         },
         {
-          "Desc": "공격 <font color=\"red\">+16</font>%<br/>공격하지 않고 행동 종료 시<br/>공격 스킬 사용 시 남은 이동력의 <font color=\"red\">2</font>배 만큼 <font color=\"blue\">부대 사거리 증가</font>(<font color=\"blue\">직선 스킬 포함</font>)<br/>지속 <font color=\"red\">2</font>턴<br/>해제 불가<br/>최대 <font color=\"red\">8</font>중첩<br/>중첩 시 지속 시간 갱신"
+          "Desc": "공격 <font color=\"red\">+16</font>%<br/>공격하지 않고 행동 종료 시<br/>공격 스킬 사용 시 남은 이동력의 <font color=\"red\">2</font>배 만큼 <font color=\"blue\">부대 사거리 증가</font>(<font color=\"blue\">직선 스킬 포함</font>)<br/>지속 <font color=\"red\">2</font>행동<br/>해제 불가<br/>최대 <font color=\"red\">8</font>중첩<br/>중첩 시 지속 시간 갱신"
         },
         {
-          "Desc": "공격 <font color=\"red\">+20</font>%<br/>공격하지 않고 행동 종료 시<br/>공격 스킬 사용 시 남은 이동력의 <font color=\"red\">2</font>배 만큼 <font color=\"blue\">부대 사거리 증가</font>(<font color=\"blue\">직선 스킬 포함</font>)<br/>지속 <font color=\"red\">2</font>턴<br/>해제 불가<br/>최대 <font color=\"red\">8</font>중첩<br/>중첩 시 지속 시간 갱신"
+          "Desc": "공격 <font color=\"red\">+20</font>%<br/>공격하지 않고 행동 종료 시<br/>공격 스킬 사용 시 남은 이동력의 <font color=\"red\">2</font>배 만큼 <font color=\"blue\">부대 사거리 증가</font>(<font color=\"blue\">직선 스킬 포함</font>)<br/>지속 <font color=\"red\">2</font>행동<br/>해제 불가<br/>최대 <font color=\"red\">8</font>중첩<br/>중첩 시 지속 시간 갱신"
         }
       ]
     }
@@ -360,7 +360,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/14.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>전투 후 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">침묵</font> 부여<br/>지속 <font color=\"red\">1</font>턴<br/><b>제거 불가</b>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>전투 후 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">침묵</font> 부여<br/>지속 <font color=\"red\">1</font>행동<br/><b>제거 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -386,7 +386,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Kirika/1.webp",
-      "Desc": "자신을 목표 위치로 <font color=\"blue\">텔레포트</font><br/>행동 종료 시 자신 주위 2칸 범위 안 아군에게 '<font color=\"blue\">주는 피해<font> <font color=\"red\">+10</font>%' 효과 부여<br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "자신을 목표 위치로 <font color=\"blue\">텔레포트</font><br/>행동 종료 시 자신 주위 2칸 범위 안 아군에게 '<font color=\"blue\">주는 피해<font> <font color=\"red\">+10</font>%' 효과 부여<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -438,7 +438,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력 <font color=\"red\">-1</font><br/>쿨타임 <font color=\"red\">1</font>턴 지속 <b>제거 불가</b>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력 <font color=\"red\">-1</font><br/>쿨타임 <font color=\"red\">1</font>행동 지속 <b>제거 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -452,7 +452,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font> 지속.",
+      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -478,7 +478,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ATKup.webp",
-      "Desc": "<font color=\"Red\">1</font>개 부대의 공격,지력 <font color=\"Red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color=\"Red\">2</font>턴 지속.",
+      "Desc": "<font color=\"Red\">1</font>개 부대의 공격,지력 <font color=\"Red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color=\"Red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -504,7 +504,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Kirika/2.webp",
-      "Desc": "[패시브] <font color=\"purple\">코토노카구라</font> 효과 <font color=\"red\">3</font>칸 이상 보유 시, <font color=\"blue\">해당 스킬</font> 범위 <font color=\"red\">+1</font><br/>[물리피해] 범위 내 <font color=\"red\">0.3</font>배 피해 및 '<font color=\"blue\">화살비</font>' 효과 부여<br/>이동하지 않고 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>(공격 <font color=\"red\">2</font>배 수치)<br/>이동 <font color=\"red\">1</font>칸당 해당 피해 계수 <font color=\"red\">-0.5</font>[<font color=\"red\">디메리트</font>]<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "[패시브] <font color=\"purple\">코토노카구라</font> 효과 <font color=\"red\">3</font>칸 이상 보유 시, <font color=\"blue\">해당 스킬</font> 범위 <font color=\"red\">+1</font><br/>[물리피해] 범위 내 <font color=\"red\">0.3</font>배 피해 및 '<font color=\"blue\">화살비</font>' 효과 부여<br/>이동하지 않고 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>(공격 <font color=\"red\">2</font>배 수치)<br/>이동 <font color=\"red\">1</font>칸당 해당 피해 계수 <font color=\"red\">-0.5</font>[<font color=\"red\">디메리트</font>]<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -530,7 +530,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/25.webp",
-      "Desc": "<font color=\"red\">1</font>개 부대의 <font color=\"blue\">마방</font> <font color=\"red\">+30</font> 및 %<br/>'<font color=\"blue\">기절</font>','<font color=\"blue\">강화 불가</font>','<font color=\"blue\">이동력 저하</font>' <font color=\"blue\">면역</font> 부여<br/>지속 <font color=\"red\">2</font>턴.",
+      "Desc": "<font color=\"red\">1</font>개 부대의 <font color=\"blue\">마방</font> <font color=\"red\">+30</font> 및 %<br/>'<font color=\"blue\">기절</font>','<font color=\"blue\">강화 불가</font>','<font color=\"blue\">이동력 저하</font>' <font color=\"blue\">면역</font> 부여<br/>지속 <font color=\"red\">2</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -556,7 +556,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/키리카.webp",
-      "Desc": "[패시브] 원거리 피격으로 전투 진입 시 <font color=\"red\">30</font>% 확률로 발동<br/><font color=\"blue\">부대가 받는 모든 피해</font> <font color=\"red\">-20</font>%<br/>[물리피해] <font color=\"red\">1</font>줄 직선 상 모든 적에게 피해<br/>가장 가까운 적에게 <font color=\"red\">0.6</font>배 피해<br/><font color=\"blue\">적의 방어가 마방보다 높을 경우 해당 공격은 마법피해</font> 뒤의 적은 <font color=\"red\">0.2</font>배 피해<br/>모든 목표에게 '<font color=\"blue\">방어구 파괴</font>' 효과 (최대 생명 제외) 부여<br/>타겟이 NPC일 경우 해당 효과는 <font color=\"blue\">방어</font> <font color=\"red\">-25</font>% 및 <font color=\"blue\">이동력</font> <font color=\"red\">-2</font>로 대체<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "[패시브] 원거리 피격으로 전투 진입 시 <font color=\"red\">30</font>% 확률로 발동<br/><font color=\"blue\">부대가 받는 모든 피해</font> <font color=\"red\">-20</font>%<br/>[물리피해] <font color=\"red\">1</font>줄 직선 상 모든 적에게 피해<br/>가장 가까운 적에게 <font color=\"red\">0.6</font>배 피해<br/><font color=\"blue\">적의 방어가 마방보다 높을 경우 해당 공격은 마법피해</font> 뒤의 적은 <font color=\"red\">0.2</font>배 피해<br/>모든 목표에게 '<font color=\"blue\">방어구 파괴</font>' 효과 (최대 생명 제외) 부여<br/>타겟이 NPC일 경우 해당 효과는 <font color=\"blue\">방어</font> <font color=\"red\">-25</font>% 및 <font color=\"blue\">이동력</font> <font color=\"red\">-2</font>로 대체<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/키리카_Ani.webp"
     }

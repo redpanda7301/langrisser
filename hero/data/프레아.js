@@ -849,7 +849,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/프레아/2.webp",
-      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>[액티브]직선 상 적에게 <font color=\"red\">0.1</font>배 물리 피해 및 프레아 방어 + 마방 <font color=\"red\">1</font>배 수치의 <b>고정피해</b>.<br/><b>적이 혼합 부대일 경우 해당 고정 피해는 <font color=\"red\">면역 불가</font></b>.<br/>호위 범위가 2칸으로 확장 및 '<font color=\"blue\">장미 덩쿨</font>' 효과 부여 :<br/> 전투 후 '<font color=\"blue\">수정 가시</font>의 '<font color=\"blue\">고정 피해</font> 효과가 반드시 발동한다. <br/><font color=\"red\">2</font>턴지속)",
+      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>[액티브]직선 상 적에게 <font color=\"red\">0.1</font>배 물리 피해 및 프레아 방어 + 마방 <font color=\"red\">1</font>배 수치의 <b>고정피해</b>.<br/><b>적이 혼합 부대일 경우 해당 고정 피해는 <font color=\"red\">면역 불가</font></b>.<br/>호위 범위가 2칸으로 확장 및 '<font color=\"blue\">장미 덩쿨</font>' 효과 부여 :<br/> 전투 후 '<font color=\"blue\">수정 가시</font>의 '<font color=\"blue\">고정 피해</font> 효과가 반드시 발동한다. <br/><font color=\"red\">2</font>행동지속)",
       "SubSkills": null,
       "Animation": null
     },

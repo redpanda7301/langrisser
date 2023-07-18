@@ -84,7 +84,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "열영풍화",
-    "Stats":"공격 <font color=\"red\">+5</font>%<br/><font color=\"purple\">기품있는 모범</font> <font color=\"blue\">재행동</font> 발동시 치명타 확률 <font color=\"red\">100</font>% 증가<br/>지속 <font color=\"red\">1</font>턴"
+    "Stats":"공격 <font color=\"red\">+5</font>%<br/><font color=\"purple\">기품있는 모범</font> <font color=\"blue\">재행동</font> 발동시 치명타 확률 <font color=\"red\">100</font>% 증가<br/>지속 <font color=\"red\">1</font>행동"
   },
   "Equip": {
     "Name": "전용장비 : 갑옷",
@@ -435,7 +435,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>턴지속.",
+      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>행동지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -607,7 +607,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/브렌다.webp",
-      "Desc": "[패시브] <b>범위 피해에 피격시, <font color=\"purple\">고유패시브</font> 스택 <font color=\"red\">1</font>개씩 중첩</b><br/>[액티브]스킬 사용시 공격력 증가 <font color=\"red\">+20</font>%, 주는 피해증가 <font color=\"red\">10</font>% 버프 휙득.<br/><b>스킬 사용시 적 통과가능 </b>및 <br/><font color=\"blue\">무기파괴</font>,<font color=\"blue\">장갑파괴</font>,  패시브 효과 획득. (지속시간 : <font color=\"red\">2</font>턴)<br/><font color=\"purple\">고유패시브</font> <font color=\"red\">1</font>스택 획득.<br/><font color=\"red\">3</font>칸의 <font color=\"blue\">재이동</font> 및 <font color=\"blue\">재공격</font> 가능 <br/>(<b>각성기 사용후, 보유중인 버프의 지속시간이 감소 되지 않는다.</b>)",
+      "Desc": "[패시브] <b>범위 피해에 피격시, <font color=\"purple\">고유패시브</font> 스택 <font color=\"red\">1</font>개씩 중첩</b><br/>[액티브]스킬 사용시 공격력 증가 <font color=\"red\">+20</font>%, 주는 피해증가 <font color=\"red\">10</font>% 버프 휙득.<br/><b>스킬 사용시 적 통과가능 </b>및 <br/><font color=\"blue\">무기파괴</font>,<font color=\"blue\">장갑파괴</font>,  패시브 효과 획득. (지속시간 : <font color=\"red\">2</font>행동)<br/><font color=\"purple\">고유패시브</font> <font color=\"red\">1</font>스택 획득.<br/><font color=\"red\">3</font>칸의 <font color=\"blue\">재이동</font> 및 <font color=\"blue\">재공격</font> 가능 <br/>(<b>각성기 사용후, 보유중인 버프의 지속시간이 감소 되지 않는다.</b>)",
       "SubSkills": null,
       "Animation": "../img/Super/브렌다_Ani.webp"
     }

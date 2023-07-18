@@ -53,19 +53,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">1</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-10%</font> (<font color=\"red\">1</font>턴 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">20%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">1</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-10%</font> (<font color=\"red\">1</font>행동 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">20%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">1</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-15%</font> (<font color=\"red\">1</font>턴 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">25%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">1</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-15%</font> (<font color=\"red\">1</font>행동 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">25%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-20%</font> (<font color=\"red\">1</font>턴 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">30%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-20%</font> (<font color=\"red\">1</font>행동 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">30%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-25%</font> (<font color=\"red\">1</font>턴 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">35%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-25%</font> (<font color=\"red\">1</font>행동 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">35%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-30%</font> (<font color=\"red\">1</font>턴 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">40%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내에 [여성] 혹은 [우라메시 유스케] 의 아군이 있을 경우 받는 물리 피해량 <font color=\"red\">-30%</font> (<font color=\"red\">1</font>행동 지속).<br/> 전투 종료 시 생명이 <font color=\"red\">40%</font> 이하일 경우 생명 <font color=\"red\">30%</font> 회복."
         }
       ]
     }
@@ -352,7 +352,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Guard.webp",
-      "Desc": "[액티브] 액티브 스킬, 근접한 <font color=\"red\">2</font>칸 내 아군이 물리 공격을 받을 시 대신 전투에 진입한다. <font color=\"red\">2</font>턴 지속.",
+      "Desc": "[액티브] 액티브 스킬, 근접한 <font color=\"red\">2</font>칸 내 아군이 물리 공격을 받을 시 대신 전투에 진입한다. <font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -392,7 +392,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordDance.webp",
-      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>바퀴 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>바퀴 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

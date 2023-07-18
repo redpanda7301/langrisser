@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+15%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">50%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴 <br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">4</font>턴."
+          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+15%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">50%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>행동 <br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">4</font>행동."
         },
         {
-          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+20%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">60%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴 <br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">4</font>턴."
+          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+20%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">60%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>행동 <br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">4</font>행동."
         },
         {
-          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+25%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">80%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴 <br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">3</font>턴."
+          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+25%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">80%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>행동 <br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">3</font>행동."
         },
         {
-          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+30%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">100%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>턴<br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">3</font>턴."
+          "Desc": "치명타 확률 치명타 피해 <font color=\"red\">+30%</font>. <br/>선공으로 적에게 피해를 입힌 후 <font color=\"red\">100%</font>확률로 랜덤한 인술 효과 부여 지속 <font color=\"red\">1</font>행동<br/><b>해제 및 면역 불가</b><br/><b>공격받아 전투 진입할 경우 쌍방 부대는 공격할 수 없으며</b> <br/>전투 후 자신을 가장 가까운 아군 곁으로 순간이동시킴 쿨타임 <font color=\"red\">3</font>행동."
         }
       ]
     }
@@ -415,7 +415,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Himiko/1.webp",
-      "Desc": "[지원][액티브]자신에게 <font color=\"red\">0.1</font>배 범위 피해 <font color=\"red\">1</font>회 및 이동력 <font color=\"red\">+2</font>, <br/>이동 시 <font color=\"blue\">적 통과</font>,<br/>행동 종료 시 자신이 지나간 모든 지형에 <font color=\"red\">1</font>턴간 잿불 효과 부여 <br/>[잿불]적이 해당 지형으로 이동해 행동 종료 시 최대 생명 <font color=\"red\">15</font>% 수치의 고정 피해. 지속 <font color=\"red\">3</font>턴",
+      "Desc": "[지원][액티브]자신에게 <font color=\"red\">0.1</font>배 범위 피해 <font color=\"red\">1</font>회 및 이동력 <font color=\"red\">+2</font>, <br/>이동 시 <font color=\"blue\">적 통과</font>,<br/>행동 종료 시 자신이 지나간 모든 지형에 <font color=\"red\">1</font>행동간 잿불 효과 부여 <br/>[잿불]적이 해당 지형으로 이동해 행동 종료 시 최대 생명 <font color=\"red\">15</font>% 수치의 고정 피해. 지속 <font color=\"red\">3</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -441,7 +441,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Himiko/2.webp",
-      "Desc": "[물리 피해]전장에 있는 적에게 <font color=\"red\">0.3</font>배 피해 및 버프 <font color=\"red\">3</font>개 제거, <br/><font color=\"blue\">공격 불가</font> 및 <font color=\"blue\">침묵</font> 효과 부여, 지속 <font color=\"red\">1</font>턴 (<b>해제 불가</b>)",
+      "Desc": "[물리 피해]전장에 있는 적에게 <font color=\"red\">0.3</font>배 피해 및 버프 <font color=\"red\">3</font>개 제거, <br/><font color=\"blue\">공격 불가</font> 및 <font color=\"blue\">침묵</font> 효과 부여, 지속 <font color=\"red\">1</font>행동 (<b>해제 불가</b>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -533,7 +533,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/히미코.webp",
-      "Desc": "[물리피해]치명타 확률 <font color=\"red\">+20</font>%<br/><font color=\"red\">3</font>줄 직선 적에게 <font color=\"red\">0.38</font>배 피해 및 이동력을 랜덤하게 <font color=\"red\">1~3</font> 저하. <br/>지속 <font color=\"red\">2</font>턴. <br/><b>해당 공격으로 적을 <font color=\"red\">3</font>명 이상 명중시킨 경우</b> 쿨타임 <font color=\"red\">-3</font>",
+      "Desc": "[물리피해]치명타 확률 <font color=\"red\">+20</font>%<br/><font color=\"red\">3</font>줄 직선 적에게 <font color=\"red\">0.38</font>배 피해 및 이동력을 랜덤하게 <font color=\"red\">1~3</font> 저하. <br/>지속 <font color=\"red\">2</font>행동. <br/><b>해당 공격으로 적을 <font color=\"red\">3</font>명 이상 명중시킨 경우</b> 쿨타임 <font color=\"red\">-3</font>",
       "SubSkills": null,
       "Animation": "../img/Super/히미코_Ani.webp"
     }

@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "이번 턴 행동 매 <font color=\"red\">1</font>칸 마다 행동종료 후<br/>자신의 지력 방어 <font color=\"red\">+2%</font>(최대 <font color=\"red\">6%</font>)상승한다<font color=\"red\">1</font>턴 지속.<br/>행동종료시 만약 [위험범위]내에 존재하며<br/>피해를 입히지 않은 상태라면 재행동 가능.<br/>(재행동 효과는 <font color=\"red\">4</font>턴 이후 재 발동된다.)"
+          "Desc": "이번 턴 행동 매 <font color=\"red\">1</font>칸 마다 행동종료 후<br/>자신의 지력 방어 <font color=\"red\">+2%</font>(최대 <font color=\"red\">6%</font>)상승한다<font color=\"red\">1</font>행동 지속.<br/>행동종료시 만약 [위험범위]내에 존재하며<br/>피해를 입히지 않은 상태라면 재행동 가능.<br/>(재행동 효과는 <font color=\"red\">4</font>행동 이후 재 발동된다.)"
         },
         {
-          "Desc": "이번 턴 행동 매 <font color=\"red\">1</font>칸 마다 행동종료 후<br/>자신의 지력 방어 <font color=\"red\">+4%</font>(최대 <font color=\"red\">12%</font>)상승한다<font color=\"red\">1</font>턴 지속.<br/>행동종료시 만약 [위험범위]내에 존재하며<br/>피해를 입히지 않은 상태라면 재행동 가능.<br/>(재행동 효과는 <font color=\"red\">3</font>턴 이후 재 발동된다.)"
+          "Desc": "이번 턴 행동 매 <font color=\"red\">1</font>칸 마다 행동종료 후<br/>자신의 지력 방어 <font color=\"red\">+4%</font>(최대 <font color=\"red\">12%</font>)상승한다<font color=\"red\">1</font>행동 지속.<br/>행동종료시 만약 [위험범위]내에 존재하며<br/>피해를 입히지 않은 상태라면 재행동 가능.<br/>(재행동 효과는 <font color=\"red\">3</font>행동 이후 재 발동된다.)"
         },
         {
-          "Desc": "이번 턴 행동 매 <font color=\"red\">1</font>칸 마다 행동종료 후<br/>자신의 지력 방어 <font color=\"red\">+6%</font>(최대 <font color=\"red\">18%</font>)상승한다<font color=\"red\">1</font>턴 지속.<br/>행동종료시 만약 [위험범위]내에 존재하며<br/>피해를 입히지 않은 상태라면 재행동 가능.<br/>(재행동 효과는 <font color=\"red\">3</font>턴 이후 재 발동된다.)"
+          "Desc": "이번 턴 행동 매 <font color=\"red\">1</font>칸 마다 행동종료 후<br/>자신의 지력 방어 <font color=\"red\">+6%</font>(최대 <font color=\"red\">18%</font>)상승한다<font color=\"red\">1</font>행동 지속.<br/>행동종료시 만약 [위험범위]내에 존재하며<br/>피해를 입히지 않은 상태라면 재행동 가능.<br/>(재행동 효과는 <font color=\"red\">3</font>행동 이후 재 발동된다.)"
         },
         {
-          "Desc": "이번 턴 행동 매 <font color=\"red\">1</font>칸 마다 행동종료 후<br/>자신의 지력 방어 <font color=\"red\">+8%</font>(최대 <font color=\"red\">24%</font>)상승한다<font color=\"red\">1</font>턴 지속.<br/>행동종료시 만약 [위험범위]내에 존재하며<br/>피해를 입히지 않은 상태라면 재행동 가능.<br/>(재행동 효과는 <font color=\"red\">2</font>턴 이후 재 발동된다.)"
+          "Desc": "이번 턴 행동 매 <font color=\"red\">1</font>칸 마다 행동종료 후<br/>자신의 지력 방어 <font color=\"red\">+8%</font>(최대 <font color=\"red\">24%</font>)상승한다<font color=\"red\">1</font>행동 지속.<br/>행동종료시 만약 [위험범위]내에 존재하며<br/>피해를 입히지 않은 상태라면 재행동 가능.<br/>(재행동 효과는 <font color=\"red\">2</font>행동 이후 재 발동된다.)"
         }
       ]
     }

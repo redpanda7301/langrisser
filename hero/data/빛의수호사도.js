@@ -388,7 +388,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/BlessedApostle/1.webp",
-      "Desc": "[패시브]인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>[액티브] <font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 늘어나며<br/>지력 <font color=\"red\">15</font>% 수치만큼 <font color=\"blue\">방어, 마방</font> 증가<br/><font color=\"blue\">부대 반격 사거리</font><font color=\"red\">+2</font>칸 증가 <br/>지속 <font color=\"Red\">2</font>턴.",
+      "Desc": "[패시브]인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>[액티브] <font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 늘어나며<br/>지력 <font color=\"red\">15</font>% 수치만큼 <font color=\"blue\">방어, 마방</font> 증가<br/><font color=\"blue\">부대 반격 사거리</font><font color=\"red\">+2</font>칸 증가 <br/>지속 <font color=\"Red\">2</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -466,7 +466,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "[지원]범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "[지원]범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -480,7 +480,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefBuf.webp",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"Red\">1</font>개 아군 부대의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"Red\">1</font>개 아군 부대의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -506,7 +506,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ATKup.webp",
-      "Desc": "<font color=\"Red\">1</font>개 부대의 공격,지력 <font color =\"red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>턴 지속.",
+      "Desc": "<font color=\"Red\">1</font>개 부대의 공격,지력 <font color =\"red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -558,7 +558,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/빛의수호사도.webp",
-      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/><font color=\"blue\">위치이동, 치료반전, 상처저주 면역</font><br/>[지휘]주위 <font color=\"red\">2</font>칸 범위 내 아군의 <font color=\"blue\">받는 치명타</font> 확률 <font color=\"red\">-20</font>%<br/>신관 계열은 추가로 방어 <font color=\"red\">+10</font>%<br/>[액티브]호위 범위가 <font color=\"Red\">2</font>칸으로 늘어나며 <br/>지력 <font color=\"Red\">15</font>% 수치만큼 <font color=\"blue\">방어, 마방 증가</font>. 지휘 범위 <font color=\"Red\">3</font>칸으로 상승<br/> <font color=\"Red\">2</font>칸 이내 <font color\"blue\">원거리 반격</font>가능하며<br/>자신과 전장의 모든 신관계열 아군의 공격, 방어 능력치가 크게 상승<br/> 지속 <font color=\"Red\">4</font>턴",
+      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/><font color=\"blue\">위치이동, 치료반전, 상처저주 면역</font><br/>[지휘]주위 <font color=\"red\">2</font>칸 범위 내 아군의 <font color=\"blue\">받는 치명타</font> 확률 <font color=\"red\">-20</font>%<br/>신관 계열은 추가로 방어 <font color=\"red\">+10</font>%<br/>[액티브]호위 범위가 <font color=\"Red\">2</font>칸으로 늘어나며 <br/>지력 <font color=\"Red\">15</font>% 수치만큼 <font color=\"blue\">방어, 마방 증가</font>. 지휘 범위 <font color=\"Red\">3</font>칸으로 상승<br/> <font color=\"Red\">2</font>칸 이내 <font color\"blue\">원거리 반격</font>가능하며<br/>자신과 전장의 모든 신관계열 아군의 공격, 방어 능력치가 크게 상승<br/> 지속 <font color=\"Red\">4</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/빛의수호사도_Ani.webp"
     }

@@ -56,19 +56,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">5%</font> 지속 <font color=\"red\">1</font>턴.<br/> <font color=\"red\">4턴</font> 후 재시전 가능."
+          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">5%</font> 지속 <font color=\"red\">1</font>행동.<br/> <font color=\"red\">4턴</font> 후 재시전 가능."
         },
         {
-          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">10%</font> 지속 <font color=\"red\">1</font>턴.<br/> <font color=\"red\">4턴</font> 후 재시전 가능."
+          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">10%</font> 지속 <font color=\"red\">1</font>행동.<br/> <font color=\"red\">4턴</font> 후 재시전 가능."
         },
         {
-          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">15%</font> 지속 <font color=\"red\">1</font>턴.<br/> <font color=\"red\">3턴</font> 후 재시전 가능."
+          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">15%</font> 지속 <font color=\"red\">1</font>행동.<br/> <font color=\"red\">3턴</font> 후 재시전 가능."
         },
         {
-          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">20%</font> 지속 <font color=\"red\">1</font>턴.<br/> <font color=\"red\">3턴</font> 후 재시전 가능."
+          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">20%</font> 지속 <font color=\"red\">1</font>행동.<br/> <font color=\"red\">3턴</font> 후 재시전 가능."
         },
         {
-          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">25%</font> 지속 <font color=\"red\">1</font>턴.<br/> <font color=\"red\">2턴</font> 후 재시전 가능."
+          "Desc": "공격하여 전투 진입 시 영웅 자신의 병종은 적군 영웅의 병종으로 전환.<br/> 이번 턴에서 병종 전환을 했다면 <font color=\"red\">1</font>회 추가 행동 공격 +<font color=\"red\">25%</font> 지속 <font color=\"red\">1</font>행동.<br/> <font color=\"red\">2턴</font> 후 재시전 가능."
         }
       ]
     }
@@ -76,7 +76,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "환마의 속삭임",
-    "Stats": "공격 <font color=\"red\">+5</font>%<br/><font color=\"blue\">내면의 악마</font> 사용 후 '<font color=\"blue\">상성인 부대와 교전 시 받는 피해</font> <font color=\"red\">+10</font>%' 효과 추가 부여<br/>지속 <font color=\"red\">1</font>턴",
+    "Stats": "공격 <font color=\"red\">+5</font>%<br/><font color=\"blue\">내면의 악마</font> 사용 후 '<font color=\"blue\">상성인 부대와 교전 시 받는 피해</font> <font color=\"red\">+10</font>%' 효과 추가 부여<br/>지속 <font color=\"red\">1</font>행동",
   },
   "Equip": {
     "Name": "악몽의 속삭임(투구)",

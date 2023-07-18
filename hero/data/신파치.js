@@ -348,7 +348,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "단일 개체에게 <font color=\"Red\">1.3</font>배 피해 <br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"Red\">2</font>개 <font color=\"blue\">제거</font> 동시에 적의 <font color=\"blue\">공격 및 지력</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>턴",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.3</font>배 피해 <br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"Red\">2</font>개 <font color=\"blue\">제거</font> 동시에 적의 <font color=\"blue\">공격 및 지력</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -388,7 +388,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IronHand.webp",
-      "Desc": "[패시브]인접한 아군 부대의 물리 공격를 <font color=\"blue\">호위</font><br/>[액티브]<font color=\"blue\">호위</font> 범위가 <font color=\"Red\">2</font>칸으로 늘어나며 공격 <font color=\"Red\">+20</font>%,<br/>'<font color=\"blue\">응수</font>' 효과 획득<br/>지속 <font color=\"Red\">2</font>턴 ",
+      "Desc": "[패시브]인접한 아군 부대의 물리 공격를 <font color=\"blue\">호위</font><br/>[액티브]<font color=\"blue\">호위</font> 범위가 <font color=\"Red\">2</font>칸으로 늘어나며 공격 <font color=\"Red\">+20</font>%,<br/>'<font color=\"blue\">응수</font>' 효과 획득<br/>지속 <font color=\"Red\">2</font>행동 ",
       "SubSkills": null,
       "Animation": null
     },
@@ -494,7 +494,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Shinpachi/2.webp",
-      "Desc": "[패시브]<b>피격으로 전투 진입 전 <font color =\"red\">20</font>% 확률로 쌍방 부대 <font color =\"blue\">공격 불가</font></b><br/>쿨타임 <font color =\"red\">1</font>턴 <br/>[액티브]자신의 부대 생명 <font color =\"red\">100</font>% <font color=\"green\">회복</font> <br/>자신이 적의 <font color=\"blue\">일반 공격</font> 및 <font color=\"blue\">스킬 타게팅</font> 대상으로 지정되지 않음</b><br/>지속 <font color =\"red\">1</font>턴<br/><b>해제 불가</b>",
+      "Desc": "[패시브]<b>피격으로 전투 진입 전 <font color =\"red\">20</font>% 확률로 쌍방 부대 <font color =\"blue\">공격 불가</font></b><br/>쿨타임 <font color =\"red\">1</font>행동 <br/>[액티브]자신의 부대 생명 <font color =\"red\">100</font>% <font color=\"green\">회복</font> <br/>자신이 적의 <font color=\"blue\">일반 공격</font> 및 <font color=\"blue\">스킬 타게팅</font> 대상으로 지정되지 않음</b><br/>지속 <font color =\"red\">1</font>행동<br/><b>해제 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -520,7 +520,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/신파치.webp",
-      "Desc": "[패시브]받는 피해량 <font color =\"red\">-15</font>%, 인접한 아군의 모든 공격을 <font color=\"blue\">호위</font><br/>[액티브]목표 아군과 가장 가까운 곳으로 <font color=\"blue\">순간이동</font> 후 대상에게 <font color=\"blue\">피격 범위 피해량</font> <font color =\"red\">-20</font>% 및 <font color =\"blue\">디버프 면역</font> <br/>지속 <font color=\"red\">2</font>턴 <br/><font color =\"blue\">호위</font> 범위 <font color=\"red\">2</font>칸으로 확장<br/>지속 <font color=\"red\">3</font>턴",
+      "Desc": "[패시브]받는 피해량 <font color =\"red\">-15</font>%, 인접한 아군의 모든 공격을 <font color=\"blue\">호위</font><br/>[액티브]목표 아군과 가장 가까운 곳으로 <font color=\"blue\">순간이동</font> 후 대상에게 <font color=\"blue\">피격 범위 피해량</font> <font color =\"red\">-20</font>% 및 <font color =\"blue\">디버프 면역</font> <br/>지속 <font color=\"red\">2</font>행동 <br/><font color =\"blue\">호위</font> 범위 <font color=\"red\">2</font>칸으로 확장<br/>지속 <font color=\"red\">3</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/신파치_Ani.webp"
     }

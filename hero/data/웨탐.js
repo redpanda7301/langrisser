@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+5</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">1</font></b>명 에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+5</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">1</font></b>명 에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+8</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">2</font></b>명 에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+8</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">2</font></b>명 에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+11</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">2</font></b>명 에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+11</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">2</font></b>명 에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+15</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">3</font></b>명 에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "전투 진입 전 공격, 방어, 피해량 <font color=\"red\">+15</font>% <br/>행동 종료 시 <font color=\"blue\">디버프 효과</font> 지속 시간 추가 <font color=\"red\">-1</font> <br/><b>적 사망 시 무작위 적 <font color=\"red\">3</font></b>명 에게 '<font color=\"purple\">절망</font>' 효과 부여 <br/><font color=\"purple\">절망</font> : <font color\"blue\">패시브 봉인</font>, <b>웨탐이 공격 시</b> <font color\"blue\">호위 불가</font> <br/>지속 <font color=\"red\">2</font>행동"
         }
       ]
     }
@@ -84,7 +84,7 @@
     "Name": "용맹한 마족 장군(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "웨탐.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"purple\">절망</font> 보유한 적을 상대로 전투 진입시 영웅 피해 <font color=\"red\">+10</font>%<br/><font color=\"blue\">스킬</font>을 사용했다면 <font color=\"blue\">해당 스킬</font> 쿨타임 <font color=\"red\">-1</font>턴"
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"purple\">절망</font> 보유한 적을 상대로 전투 진입시 영웅 피해 <font color=\"red\">+10</font>%<br/><font color=\"blue\">스킬</font>을 사용했다면 <font color=\"blue\">해당 스킬</font> 쿨타임 <font color=\"red\">-1</font>행동"
   },
   "Soldiers": [
     46,
@@ -525,7 +525,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Wehttam/3.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해 <br/>전투 전 적 부대의 버프 <font color=\"red\">5</font>개 제거 및 적 부대에게 '<font color=\"blue\">상처 저주</font>' 부여<br/><font color=\"blue\">상처 저주</font> : 받는 치유 효과를 치유량 <font color=\"red\">50</font>% 수치를 피해로 전환한다. <br/><font color =\"red\">2</font>턴 지속<br/> <b>해제 불가</b> <br/>(해당 스킬은 보유한 <font color=\"blue\">버프</font> 지속 시간을 소모하지 않음)",
+      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해 <br/>전투 전 적 부대의 버프 <font color=\"red\">5</font>개 제거 및 적 부대에게 '<font color=\"blue\">상처 저주</font>' 부여<br/><font color=\"blue\">상처 저주</font> : 받는 치유 효과를 치유량 <font color=\"red\">50</font>% 수치를 피해로 전환한다. <br/><font color =\"red\">2</font>행동 지속<br/> <b>해제 불가</b> <br/>(해당 스킬은 보유한 <font color=\"blue\">버프</font> 지속 시간을 소모하지 않음)",
       "SubSkills": null,
       "Animation": null
     },
@@ -551,7 +551,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/웨탐.webp",
-      "Desc": "[패시브] : <b>'신관' 클래스와 전투 시 영웅의</b> 공격, 방어, 마방 <font color=\"red\">+15</font>% <br/><b>영웅 병종이 '마물'</b>일 경우 해당 효과는 <font color=\"red\">60</font>%로 상승 <br/>[액티브] : 지정 위치 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.15</font>배 피해 및 <font color=\"blue\">알하자드의 그림자</font> 소환 <br/>그와 동시에 자신 부대에 공격 <font color=\"red\">+20</font>% 및 면역 효과 획득 <br/> 지속 <font color=\"red\">2</font>턴 <br/>스킬 사용후 <font color =\"blue\">재행동</font> <font color=\"red\">3</font>칸",
+      "Desc": "[패시브] : <b>'신관' 클래스와 전투 시 영웅의</b> 공격, 방어, 마방 <font color=\"red\">+15</font>% <br/><b>영웅 병종이 '마물'</b>일 경우 해당 효과는 <font color=\"red\">60</font>%로 상승 <br/>[액티브] : 지정 위치 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.15</font>배 피해 및 <font color=\"blue\">알하자드의 그림자</font> 소환 <br/>그와 동시에 자신 부대에 공격 <font color=\"red\">+20</font>% 및 면역 효과 획득 <br/> 지속 <font color=\"red\">2</font>행동 <br/>스킬 사용후 <font color =\"blue\">재행동</font> <font color=\"red\">3</font>칸",
       "SubSkills": null,
       "Animation": "../img/Super/웨탐_Ani.webp"
     },

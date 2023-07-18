@@ -656,7 +656,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/람다.webp",
-      "Desc": "[패시브] 자신이 '<b><font color=\"green\">숲</font></b>' 지형에 있을 경우 '<b><font color=\"blue\">공격 지력 감소</font></b>' '<b><font color=\"blue\">침묵</font></b>' 면역<br/>[마법피해] 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <font color=\"red\">0.35</font>배 피해 및 공격하여 전투 진입시 주는피해 <font color=\"red\">-20</font>%, 지속 <font color=\"red\">2</font>턴<br/>명중한 지형에 '<font color=\"blue\">고요한 숨결</font>' 효과 부여 : 해당 지형으로 이동한 적에게 '치명타 확률 <font color=\"red\">-30</font>%' 부여, 지속 <font color=\"red\">1</font>턴",
+      "Desc": "[패시브] 자신이 '<b><font color=\"green\">숲</font></b>' 지형에 있을 경우 '<b><font color=\"blue\">공격 지력 감소</font></b>' '<b><font color=\"blue\">침묵</font></b>' 면역<br/>[마법피해] 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <font color=\"red\">0.35</font>배 피해 및 공격하여 전투 진입시 주는피해 <font color=\"red\">-20</font>%, 지속 <font color=\"red\">2</font>행동<br/>명중한 지형에 '<font color=\"blue\">고요한 숨결</font>' 효과 부여 : 해당 지형으로 이동한 적에게 '치명타 확률 <font color=\"red\">-30</font>%' 부여, 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/람다_Ani.webp"
     }

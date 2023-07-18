@@ -439,7 +439,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Rozenciel/1.webp",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '제국의 빛' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>선공으로 전투 진입시 주는 피해량 <font color=\"red\">+12</font></b>% 및 <br/><b>피격으로 전투 진입전 적 버프 <font color=\"red\">1</font>개 제거</b>, <font color=\"red\">4</font>턴 지속.<br/>",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '제국의 빛' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>선공으로 전투 진입시 주는 피해량 <font color=\"red\">+12</font></b>% 및 <br/><b>피격으로 전투 진입전 적 버프 <font color=\"red\">1</font>개 제거</b>, <font color=\"red\">4</font>행동 지속.<br/>",
       "SubSkills": null,
       "Animation": null
     },

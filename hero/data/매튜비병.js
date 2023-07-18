@@ -92,22 +92,22 @@
       "Icon": "SP_Gift_Mathew.webp",
       "Abilities": [
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+1</font>% (최대 <font color=\"red\">5</font>%) <br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">5</font>턴"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+1</font>% (최대 <font color=\"red\">5</font>%) <br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">5</font>행동"
         },
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2</font>% (최대 <font color=\"red\">10</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">4</font>턴"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2</font>% (최대 <font color=\"red\">10</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">4</font>행동"
         },
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2</font>% (최대 <font color=\"red\">10</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">4</font>턴"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2</font>% (최대 <font color=\"red\">10</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">4</font>행동"
         },
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3</font>% (최대 <font color=\"red\">15</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">3</font>턴"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3</font>% (최대 <font color=\"red\">15</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4</font>% (최대 <font color=\"red\">20</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">3</font>턴"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4</font>% (최대 <font color=\"red\">20</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+5</font>% (최대 <font color=\"red\">25</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">2</font>턴"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+5</font>% (최대 <font color=\"red\">25</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">2</font>행동"
         }
       ]
     }
@@ -822,7 +822,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordDance.webp",
-      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>바퀴 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>바퀴 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -874,7 +874,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/매튜/1.webp",
-      "Desc": "스킬 사용 지점으로 <font color=\"blue\">텔레포트</font> 후<br/>자신 주위 <font color=\"red\">2</font>칸 범위 내에 있는 적에게 <font color=\"red\">0.33</font>배 <font color=\"blue\">범위피해</font> 및<br/><font color=\"blue\">공격 지력</font> <font color=\"red\">-10</font>%, <font color=\"blue\">강화불가</font> 부여<br/>지속 <font color=\"red\">2</font>턴<br/>동시에 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/>인접한 <font color=\"red\">1</font>칸의 적에게는 피해 <font color=\"red\">+30%",
+      "Desc": "스킬 사용 지점으로 <font color=\"blue\">텔레포트</font> 후<br/>자신 주위 <font color=\"red\">2</font>칸 범위 내에 있는 적에게 <font color=\"red\">0.33</font>배 <font color=\"blue\">범위피해</font> 및<br/><font color=\"blue\">공격 지력</font> <font color=\"red\">-10</font>%, <font color=\"blue\">강화불가</font> 부여<br/>지속 <font color=\"red\">2</font>행동<br/>동시에 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/>인접한 <font color=\"red\">1</font>칸의 적에게는 피해 <font color=\"red\">+30%",
       "SubSkills": null,
       "Animation": null
     },

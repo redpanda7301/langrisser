@@ -554,7 +554,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordDance.webp",
-      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>바퀴 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해] 주위 <font color=\"red\">1</font>바퀴 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '치료 불가' 시전, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -604,7 +604,7 @@
             }
           ],
           "IconImageUrl": "../img/Super/클로테르_1.webp",
-          "Desc": "[물리피해]단일 개체 <font color=\"red\">1.8</font>배 피해, 전투 전 적 버프 <font color=\"red\">5</font>개 제거<br/><b>대상에게 '<font color =\"purple\">파멸의 염문</font>'이 있을 경우 해당 공격은 <font color=\"blue\">호위 무시</font></b></br><font color=\"blue\">이그니스의 환상</font>의 쿨타임을 <font color=\"red\">4</font>턴으로 변경",
+          "Desc": "[물리피해]단일 개체 <font color=\"red\">1.8</font>배 피해, 전투 전 적 버프 <font color=\"red\">5</font>개 제거<br/><b>대상에게 '<font color =\"purple\">파멸의 염문</font>'이 있을 경우 해당 공격은 <font color=\"blue\">호위 무시</font></b></br><font color=\"blue\">이그니스의 환상</font>의 쿨타임을 <font color=\"red\">4</font>행동으로 변경",
           "SubSkills": null,
           "Animation": null
         },
@@ -630,7 +630,7 @@
             }
           ],
           "IconImageUrl": "../img/Super/클로테르_2.webp",
-          "Desc": "[마법피해]<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 피해, 대 보병 특효<br/>적에게 받는 고정 피해 <font color=\"red\">+20</font>% 및 '<font color=\"red\">작염</font>'을 획득한다<br/><b>다음 행동 종료 시 클로테르의 공격력 + 지력 <font color=\"red\">1</font>배 수치의 고정피해</b><br/>지속 <font color=\"red\">2</font>행동 및 <br/><font color=\"blue\">이그니스의 환상</font>의 쿨타임을 <font color=\"red\">4</font>턴으로 변경<br/><b><font color=\"blue\">겁화 - 린</font>에 부여된 효과는 해제 불가</b>",
+          "Desc": "[마법피해]<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 피해, 대 보병 특효<br/>적에게 받는 고정 피해 <font color=\"red\">+20</font>% 및 '<font color=\"red\">작염</font>'을 획득한다<br/><b>다음 행동 종료 시 클로테르의 공격력 + 지력 <font color=\"red\">1</font>배 수치의 고정피해</b><br/>지속 <font color=\"red\">2</font>행동 및 <br/><font color=\"blue\">이그니스의 환상</font>의 쿨타임을 <font color=\"red\">4</font>행동으로 변경<br/><b><font color=\"blue\">겁화 - 린</font>에 부여된 효과는 해제 불가</b>",
           "SubSkills": null,
           "Animation": null
         }

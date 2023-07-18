@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신이 <font color=\"red\">3</font>개 이상의 버프 보유 시 지력 방어 <font color=\"red\">+10</font>%<br/>선공으로 피해를 입힌 후, 가장 생명이 낮은 <font color=\"red\">1</font>개 아군 부대 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 지력 <font color=\"red\">1</font>배<br/>자신 <font color=\"red\">5</font>칸 범위 안 다른 아군이 사망 시 '<font color=\"blue\">빈사</font>' 상태로 <font color=\"blue\">부활</font>. 해당 스킬은 최대 <font color=\"red>\">1</font>회 발동 <br/>각 부대 별로 최대 <font color=\"red\">1</font>회 발동.<br/><font color=\"blue\">빈사</font> : 이동력 <font color=\"red\">-2</font>, 피해 <font color=\"red\">-50</font>%<br/><font color=\"blue\">침묵</font>(디메리트)<br/>지속 <font color=\"red\">2</font>턴<br/><b>면역 및 해제 불가</b>"
+          "Desc": "자신이 <font color=\"red\">3</font>개 이상의 버프 보유 시 지력 방어 <font color=\"red\">+10</font>%<br/>선공으로 피해를 입힌 후, 가장 생명이 낮은 <font color=\"red\">1</font>개 아군 부대 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 지력 <font color=\"red\">1</font>배<br/>자신 <font color=\"red\">5</font>칸 범위 안 다른 아군이 사망 시 '<font color=\"blue\">빈사</font>' 상태로 <font color=\"blue\">부활</font>. 해당 스킬은 최대 <font color=\"red>\">1</font>회 발동 <br/>각 부대 별로 최대 <font color=\"red\">1</font>회 발동.<br/><font color=\"blue\">빈사</font> : 이동력 <font color=\"red\">-2</font>, 피해 <font color=\"red\">-50</font>%<br/><font color=\"blue\">침묵</font>(디메리트)<br/>지속 <font color=\"red\">2</font>행동<br/><b>면역 및 해제 불가</b>"
         },
         {
-          "Desc": "자신이 <font color=\"red\">3</font>개 이상의 버프 보유 시 지력 방어 <font color=\"red\">+13</font>%<br/>선공으로 피해를 입힌 후, 가장 생명이 낮은 <font color=\"red\">1</font>개 아군 부대 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 지력 <font color=\"red\">1.5</font>배<br/>자신 <font color=\"red\">5</font>칸 범위 안 다른 아군이 사망 시 '<font color=\"blue\">빈사</font>' 상태로 <font color=\"blue\">부활</font>. 해당 스킬은 최대 <font color=\"red>\">1</font>회 발동 <br/>각 부대 별로 최대 <font color=\"red\">1</font>회 발동.<br/><font color=\"blue\">빈사</font> : 이동력 <font color=\"red\">-2</font>, 피해 <font color=\"red\">-50</font>%<br/><font color=\"blue\">침묵</font>(디메리트)<br/>지속 <font color=\"red\">2</font>턴<br/><b>면역 및 해제 불가</b>"
+          "Desc": "자신이 <font color=\"red\">3</font>개 이상의 버프 보유 시 지력 방어 <font color=\"red\">+13</font>%<br/>선공으로 피해를 입힌 후, 가장 생명이 낮은 <font color=\"red\">1</font>개 아군 부대 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 지력 <font color=\"red\">1.5</font>배<br/>자신 <font color=\"red\">5</font>칸 범위 안 다른 아군이 사망 시 '<font color=\"blue\">빈사</font>' 상태로 <font color=\"blue\">부활</font>. 해당 스킬은 최대 <font color=\"red>\">1</font>회 발동 <br/>각 부대 별로 최대 <font color=\"red\">1</font>회 발동.<br/><font color=\"blue\">빈사</font> : 이동력 <font color=\"red\">-2</font>, 피해 <font color=\"red\">-50</font>%<br/><font color=\"blue\">침묵</font>(디메리트)<br/>지속 <font color=\"red\">2</font>행동<br/><b>면역 및 해제 불가</b>"
         },
         {
-          "Desc": "자신이 <font color=\"red\">2</font>개 이상의 버프 보유 시 지력 방어 <font color=\"red\">+16</font>%<br/>선공으로 피해를 입힌 후, 가장 생명이 낮은 <font color=\"red\">1</font>개 아군 부대 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 지력 <font color=\"red\">2</font>배<br/>자신 <font color=\"red\">5</font>칸 범위 안 다른 아군이 사망 시 '<font color=\"blue\">빈사</font>' 상태로 <font color=\"blue\">부활</font>. 해당 스킬은 최대 <font color=\"red>\">2</font>회 발동 <br/>각 부대 별로 최대 <font color=\"red\">1</font>회 발동.<br/><font color=\"blue\">빈사</font> : 이동력 <font color=\"red\">-2</font>, 피해 <font color=\"red\">-50</font>%<br/><font color=\"blue\">침묵</font>(디메리트)<br/>지속 <font color=\"red\">2</font>턴<br/><b>면역 및 해제 불가</b>"
+          "Desc": "자신이 <font color=\"red\">2</font>개 이상의 버프 보유 시 지력 방어 <font color=\"red\">+16</font>%<br/>선공으로 피해를 입힌 후, 가장 생명이 낮은 <font color=\"red\">1</font>개 아군 부대 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 지력 <font color=\"red\">2</font>배<br/>자신 <font color=\"red\">5</font>칸 범위 안 다른 아군이 사망 시 '<font color=\"blue\">빈사</font>' 상태로 <font color=\"blue\">부활</font>. 해당 스킬은 최대 <font color=\"red>\">2</font>회 발동 <br/>각 부대 별로 최대 <font color=\"red\">1</font>회 발동.<br/><font color=\"blue\">빈사</font> : 이동력 <font color=\"red\">-2</font>, 피해 <font color=\"red\">-50</font>%<br/><font color=\"blue\">침묵</font>(디메리트)<br/>지속 <font color=\"red\">2</font>행동<br/><b>면역 및 해제 불가</b>"
         },
         {
-          "Desc": "자신이 <font color=\"red\">2</font>개 이상의 버프 보유 시 지력 방어 <font color=\"red\">+20</font>%<br/>선공으로 피해를 입힌 후, 가장 생명이 낮은 <font color=\"red\">2</font>개 아군 부대 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 지력 <font color=\"red\">2.5</font>배<br/>자신 <font color=\"red\">5</font>칸 범위 안 다른 아군이 사망 시 '<font color=\"blue\">빈사</font>' 상태로 <font color=\"blue\">부활</font>. 해당 스킬은 최대 <font color=\"red>\">2</font>회 발동 <br/>각 부대 별로 최대 <font color=\"red\">1</font>회 발동.<br/><font color=\"blue\">빈사</font> : 이동력 <font color=\"red\">-2</font>, 피해 <font color=\"red\">-50</font>%<br/><font color=\"blue\">침묵</font>(디메리트)<br/>지속 <font color=\"red\">2</font>턴<br/><b>면역 및 해제 불가</b>"
+          "Desc": "자신이 <font color=\"red\">2</font>개 이상의 버프 보유 시 지력 방어 <font color=\"red\">+20</font>%<br/>선공으로 피해를 입힌 후, 가장 생명이 낮은 <font color=\"red\">2</font>개 아군 부대 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 지력 <font color=\"red\">2.5</font>배<br/>자신 <font color=\"red\">5</font>칸 범위 안 다른 아군이 사망 시 '<font color=\"blue\">빈사</font>' 상태로 <font color=\"blue\">부활</font>. 해당 스킬은 최대 <font color=\"red>\">2</font>회 발동 <br/>각 부대 별로 최대 <font color=\"red\">1</font>회 발동.<br/><font color=\"blue\">빈사</font> : 이동력 <font color=\"red\">-2</font>, 피해 <font color=\"red\">-50</font>%<br/><font color=\"blue\">침묵</font>(디메리트)<br/>지속 <font color=\"red\">2</font>행동<br/><b>면역 및 해제 불가</b>"
         }
       ]
     }
@@ -465,7 +465,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Agnes/2.webp",
-      "Desc": "<font color=\"red\">3</font>줄 직선 상 적에게 지력 <font color=\"Red\">0.33</font>배 피해.<br/>마법사, 신관에게 더 큰 피해를 준다.<br/>적에게 <font color=\"blue\">공격, 지력, 마방</font> <font color=\"red\">-20</font>% 효과 부여<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "<font color=\"red\">3</font>줄 직선 상 적에게 지력 <font color=\"Red\">0.33</font>배 피해.<br/>마법사, 신관에게 더 큰 피해를 준다.<br/>적에게 <font color=\"blue\">공격, 지력, 마방</font> <font color=\"red\">-20</font>% 효과 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -491,7 +491,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -543,7 +543,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
-      "Desc": "범위 내 아군들의 방어 <font color =\"red\">+20</font>%.<br/>'<font color =\"blue\">방어, 마방 감소</font>','<font color =\"green\">치료 방해</font>' 면역 부여<br/>쿨타임 <font color =\"red\">2</font>턴",
+      "Desc": "범위 내 아군들의 방어 <font color =\"red\">+20</font>%.<br/>'<font color =\"blue\">방어, 마방 감소</font>','<font color =\"green\">치료 방해</font>' 면역 부여<br/>쿨타임 <font color =\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -569,7 +569,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/아니에스.webp",
-      "Desc": "[패시브] 다른 아군이 <font color=\"blue\">빈사</font>상태일 경우 해당 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">-1</font>턴<br/>[액티브]범위 내 아군에게 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">생명 회복</font> 및 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/>'행동 종료 시 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>' 및 '<font color=\"blue\">주는 피해</font> <font color=\"red\">+15</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>턴<br/><b>모든 아군의 <font color=\"blue\">빈사</font>상태 <font color=\"green\">치료</font>.",
+      "Desc": "[패시브] 다른 아군이 <font color=\"blue\">빈사</font>상태일 경우 해당 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">-1</font>행동<br/>[액티브]범위 내 아군에게 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">생명 회복</font> 및 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/>'행동 종료 시 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>' 및 '<font color=\"blue\">주는 피해</font> <font color=\"red\">+15</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b>모든 아군의 <font color=\"blue\">빈사</font>상태 <font color=\"green\">치료</font>.",
       "SubSkills": null,
       "Animation": "../img/Super/아니에스_Ani.webp"
     }

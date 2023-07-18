@@ -71,16 +71,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 시 자신의 <font color=\"red\">1</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +10%</font><br/> 공격의 <font color=\"red\">5%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-10%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
+          "Desc": "행동 종료 시 자신의 <font color=\"red\">1</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +10%</font><br/> 공격의 <font color=\"red\">5%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>행동 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-10%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
         },
         {
-          "Desc": "행동 종료 시 자신의 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +13%</font><br/> 공격의 <font color=\"red\">8%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-13%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
+          "Desc": "행동 종료 시 자신의 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +13%</font><br/> 공격의 <font color=\"red\">8%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>행동 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-13%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
         },
         {
-          "Desc": "행동 종료 시 자신의 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +16%</font><br/> 공격의 <font color=\"red\">11%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-16%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
+          "Desc": "행동 종료 시 자신의 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +16%</font><br/> 공격의 <font color=\"red\">11%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>행동 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-16%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
         },
         {
-          "Desc": "행동 종료 시 자신의 <font color=\"red\">3</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +20%</font><br/> 공격의 <font color=\"red\">15%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>턴 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-20%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
+          "Desc": "행동 종료 시 자신의 <font color=\"red\">3</font>칸 내 아군이 있을 경우 공격<font color=\"red\"> +20%</font><br/> 공격의 <font color=\"red\">15%</font>를 방어와 마방에 추가 <font color=\"red\">1</font>행동 지속.<br/>원거리 공격을 받을 시 받는 피해 <font color=\"red\">-20%</font><br/> <font color=\"red\">2</font>칸 내 원거리 공격에 대해 반격을 할 수 있다."
         }
       ]
     }

@@ -455,7 +455,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Emilia3.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>전투 진입 전 <font color =\"blue\">성스러운 수호</font>효과를 획득한다:<br/>마방의 <font color =\"red\">1.6</font>배만큼의 수치로 공격을 대체한다.<br/><font color =\"red\">2</font>칸 원거리 공격 반격가능</br><font color =\"red\">2</font>턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>전투 진입 전 <font color =\"blue\">성스러운 수호</font>효과를 획득한다:<br/>마방의 <font color =\"red\">1.6</font>배만큼의 수치로 공격을 대체한다.<br/><font color =\"red\">2</font>칸 원거리 공격 반격가능</br><font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -495,7 +495,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Emilia1.webp",
-      "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>[액티브]호위 범위가 <font color =\"red\">2</font>칸으로 증가, [성스러운 수호]효과를 얻는다:<br/>'마방'의 <font color =\"red\">1.6</font>배로 공격을 대신한다.<br/><b><font color =\"red\">2</font>칸 원거리 공격에 대한 반격가능</b>, <font color =\"red\">2</font>턴 지속.",
+      "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>[액티브]호위 범위가 <font color =\"red\">2</font>칸으로 증가, [성스러운 수호]효과를 얻는다:<br/>'마방'의 <font color =\"red\">1.6</font>배로 공격을 대신한다.<br/><b><font color =\"red\">2</font>칸 원거리 공격에 대한 반격가능</b>, <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -523,7 +523,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>턴지속.",
+      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>행동지속.",
       "SubSkills": null,
       "Animation": null
     },

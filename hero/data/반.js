@@ -387,7 +387,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해.<br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20</font></font>%<br/> 지속 <font color=\"red\">1</font>턴",
+      "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해.<br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20</font></font>%<br/> 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -491,7 +491,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordDance.webp",
-      "Desc": "주위 <font color=\"red\">1</font>바퀴 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '<font color=\"blue\">치료 불가</font>' 시전, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "주위 <font color=\"red\">1</font>바퀴 내 모든 적군에게 <font color=\"red\">0.36</font>배의 범위 피해를 입힌다.<br/>적군에게 '<font color=\"blue\">치료 불가</font>' 시전, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -545,7 +545,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/반.webp",
-      "Desc": "[패시브]<font color=\"blue\">스킬</font>을 사용해 선공으로 전투 진입 시<br/>적이 <font color=\"blue\">연격</font> <font color=\"red\">3</font>개 이상 보유하고 있을 경우 전투 후 <font color=\"blue\">해당 스킬 쿨타임</font> <font color=\"red\">-3</font><br/>쿨타임 <font color=\"red\">1</font>턴<br/>[물리 피해]단일 개체 <font color=\"red\">1.6</font>배 피해<br/>전투 전 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>적이 <font color=\"blue\">연격</font> <font color=\"red\">3</font>개 이상 보유하고 있을 경우 해당 공격 피해 <font color=\"red\">+40</font>%",
+      "Desc": "[패시브]<font color=\"blue\">스킬</font>을 사용해 선공으로 전투 진입 시<br/>적이 <font color=\"blue\">연격</font> <font color=\"red\">3</font>개 이상 보유하고 있을 경우 전투 후 <font color=\"blue\">해당 스킬 쿨타임</font> <font color=\"red\">-3</font><br/>쿨타임 <font color=\"red\">1</font>행동<br/>[물리 피해]단일 개체 <font color=\"red\">1.6</font>배 피해<br/>전투 전 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>적이 <font color=\"blue\">연격</font> <font color=\"red\">3</font>개 이상 보유하고 있을 경우 해당 공격 피해 <font color=\"red\">+40</font>%",
       "SubSkills": null,
       "Animation": "../img/Super/반_Ani.webp"
     }

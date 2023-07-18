@@ -538,7 +538,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방 <font color=\"red\">+30</font>%,<br/>그리고 '<font color=\"blue\">기절</font>', '<font color=\"blue\">강화 방해</font>', '<font color=\"blue\">이동력 감소</font>' 면역 부여 ,<br/><font color=\"red\">2</font>턴 지속.",
+      "Desc": "범위 내 아군들의 마방 <font color=\"red\">+30</font>%,<br/>그리고 '<font color=\"blue\">기절</font>', '<font color=\"blue\">강화 방해</font>', '<font color=\"blue\">이동력 감소</font>' 면역 부여 ,<br/><font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -590,7 +590,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/구스타프.webp",
-      "Desc": "[패시브] 자신의 <font color=\"blue\">스킬 쿨타임</font>이 돌아가고 있을 때 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>[마법피해] 범위 내 적에게 <font color=\"red\">0.4</font>배 피해, <br/>랜덤한 디버프 <font color=\"red\">2</font>개 및 '<font color=\"blue\">행동 종료 시 모든 스킬 쿨타임</font> <font color=\"red\">+1</font>'(디버프) 효과 부여 <br/>지속 <font color=\"red\">1</font>턴, <b>해제 불가</b> <br/>사용 후 자신에게 '<font color=\"blue\">시간의 방패</font>' 부여 <br/><font color=\"blue\">시간의 방패</font> : 받는 피해 <font color=\"Red\">-10</font>% <br/><b>적 전체의 '<font color=\"blue\">마법 부여 : 시계</font>'의 <font color=\"blue\">쿨타임 감소</font> 효과 무효화</b> <br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>",
+      "Desc": "[패시브] 자신의 <font color=\"blue\">스킬 쿨타임</font>이 돌아가고 있을 때 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>[마법피해] 범위 내 적에게 <font color=\"red\">0.4</font>배 피해, <br/>랜덤한 디버프 <font color=\"red\">2</font>개 및 '<font color=\"blue\">행동 종료 시 모든 스킬 쿨타임</font> <font color=\"red\">+1</font>'(디버프) 효과 부여 <br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b> <br/>사용 후 자신에게 '<font color=\"blue\">시간의 방패</font>' 부여 <br/><font color=\"blue\">시간의 방패</font> : 받는 피해 <font color=\"Red\">-10</font>% <br/><b>적 전체의 '<font color=\"blue\">마법 부여 : 시계</font>'의 <font color=\"blue\">쿨타임 감소</font> 효과 무효화</b> <br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/구스타프_Ani.webp"
     }

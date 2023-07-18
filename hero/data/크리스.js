@@ -20,6 +20,10 @@
     {
       "ImageUrl": "크리스/5.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "크리스/6.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "크리스",
@@ -92,7 +96,7 @@
     "Name": "성녀 예찬(투구)",
     "Stats": "생명 437, 마방 59",
     "Icon": "크리스.webp",
-    "Ability": "생명<font color=\"red\">+5%</font>, 마방<font color=\"red\">+5%</font>. <br/><b>피해를 입힌 뒤 행동 종료 시</b>, <br/><b><font color=\"blue\">고유 스킬</font>로 부여하는 랜덤한 버프가 <font color=\"red\">1</font>가지 추가</b>.<br/><b>마물 격파 후 재행동 <font color=\"red\">1<font>회</font></font></b> <br/>쿨타임 <font color=\"red\">2</font>턴"
+    "Ability": "생명<font color=\"red\">+5%</font>, 마방<font color=\"red\">+5%</font>. <br/><b>피해를 입힌 뒤 행동 종료 시</b>, <br/><b><font color=\"blue\">고유 스킬</font>로 부여하는 랜덤한 버프가 <font color=\"red\">1</font>가지 추가</b>.<br/><b>마물 격파 후 재행동 <font color=\"red\">1<font>회</font></font></b> <br/>쿨타임 <font color=\"red\">2</font>행동"
   },
   "Soldiers": [
     0,
@@ -126,6 +130,9 @@
         },
         {
           "ImageUrl": "크리스/5/1.webp"
+        },
+        {
+          "ImageUrl": "크리스/6/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -164,6 +171,9 @@
         },
         {
           "ImageUrl": "크리스/5/1.webp"
+        },
+        {
+          "ImageUrl": "크리스/6/1.webp"
         }
       ],
       "AttkRange": 2,

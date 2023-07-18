@@ -377,7 +377,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash2.webp",
-      "Desc": "단일 적을 공격 하여 <font color=\"red\">1.4</font>배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력 <font color=\"red\">-1</font><br/>쿨타임 <font color=\"red\">1</font>턴 지속 <b>제거 불가</b>",
+      "Desc": "단일 적을 공격 하여 <font color=\"red\">1.4</font>배 피해를 입힌다.<br/>'비병'을 상대할 시 더 큰 피해를 준다.<br/>전투 후 적의 이동력 <font color=\"red\">-1</font><br/>쿨타임 <font color=\"red\">1</font>행동 지속 <b>제거 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -391,7 +391,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%<br/>쿨타임 <font color=\"red\">1</font>턴",
+      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%<br/>쿨타임 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -417,7 +417,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Punch.webp",
-      "Desc": "단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 피해를 준다.<br/>대상을 <font color=\"Red\">2</font>칸 밀처내며 이동력 <font color=\"Red\">-2</font>, '<font color=\"blue\">호위 불가</font>'부여<br/>쿨타임 <font color=\"red\">1</font>턴.",
+      "Desc": "단일 적 부대를 공격해 <font color =\"red\">1.2</font>배의 피해를 준다.<br/>대상을 <font color=\"Red\">2</font>칸 밀처내며 이동력 <font color=\"Red\">-2</font>, '<font color=\"blue\">호위 불가</font>'부여<br/>쿨타임 <font color=\"red\">1</font>행동.",
       "SubSkills": null,
       "Animation": null
     },   
@@ -443,7 +443,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
-      "Desc": "범위 내 아군들의 방어 <font color =\"red\">+20</font>%.<br/>'<font color =\"blue\">방어, 마방 감소</font>','<font color =\"green\">치료 방해</font>' 면역 부여<br/>쿨타임 <font color =\"red\">2</font>턴",
+      "Desc": "범위 내 아군들의 방어 <font color =\"red\">+20</font>%.<br/>'<font color =\"blue\">방어, 마방 감소</font>','<font color =\"green\">치료 방해</font>' 면역 부여<br/>쿨타임 <font color =\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

@@ -769,7 +769,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/SuperBuff_Light2.webp",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<font color =\"#b8860b\">빛의 군단</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>생명이 <font color=\"red\">80</font>% 이상일 경우 전투 중 주는 피해량 <font color=\"red\">+15</font>%, <br/><font color=\"red\">4</font>턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<font color =\"#b8860b\">빛의 군단</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>생명이 <font color=\"red\">80</font>% 이상일 경우 전투 중 주는 피해량 <font color=\"red\">+15</font>%, <br/><font color=\"red\">4</font>행동 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
       "SubSkills": null,
       "Animation": null
     },

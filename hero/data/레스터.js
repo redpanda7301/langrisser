@@ -4,6 +4,10 @@
     {
       "ImageUrl": "레스터/1.webp",
       "Desc": "기본"
+    },
+    {
+      "ImageUrl": "레스터/2.webp",
+      "Desc": "서밋아레나 S16 골드스킨"
     }
   ],
   "Name": "레스터",
@@ -89,6 +93,9 @@
       "SD": [
         {
           "ImageUrl": "레스터/1/1.webp"
+        },
+        {
+          "ImageUrl": "레스터/2/1.webp"
         }
       ],
       "AttkRange": 1,

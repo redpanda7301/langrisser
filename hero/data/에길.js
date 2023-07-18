@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+10</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>턴, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>턴"
+          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+10</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+13</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>턴, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>턴"
+          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+13</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+16</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>턴, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>턴"
+          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+16</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+20</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>턴, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>턴"
+          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+20</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
         }
       ]
     }
@@ -468,7 +468,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Thump.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.2</font>배의 공격 피해를 준다.<br/>자신이 <font color=\"green\">방어 지형</font>에 있을 시 <br/>전투 전 적군에게 <font color=\"blue\">기절</font> 시전 <br/><font color=\"red\">1</font>턴 지속.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.2</font>배의 공격 피해를 준다.<br/>자신이 <font color=\"green\">방어 지형</font>에 있을 시 <br/>전투 전 적군에게 <font color=\"blue\">기절</font> 시전 <br/><font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -573,7 +573,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/에길.webp",
-      "Desc": "[패시브]치명타 확률 <font color=\"red\">+20</font>%, <b>영웅이 원거리 선제 공격 시 병사도 함께 공격</b> <br/>[액티브] 단일 개체에게 <font color=\"red\">1.5</font>배 피해를 준다. <br/>해당 공격은 <font color=\"blue\">부대 병종 상성 무시</font> <br/><b>적 격파시</b> <font color=\"purple\">강습 모드</font>와 추가 효과 획득 <br/> : 전투 진입 전 적에게 공격 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정피해</font> <br/>격파하지 못했을 경우 '<font color=\"purple\">반격 모드</font>' 효과 획득 <br/>지속 <font color=\"red\">1</font>턴 <br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
+      "Desc": "[패시브]치명타 확률 <font color=\"red\">+20</font>%, <b>영웅이 원거리 선제 공격 시 병사도 함께 공격</b> <br/>[액티브] 단일 개체에게 <font color=\"red\">1.5</font>배 피해를 준다. <br/>해당 공격은 <font color=\"blue\">부대 병종 상성 무시</font> <br/><b>적 격파시</b> <font color=\"purple\">강습 모드</font>와 추가 효과 획득 <br/> : 전투 진입 전 적에게 공격 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정피해</font> <br/>격파하지 못했을 경우 '<font color=\"purple\">반격 모드</font>' 효과 획득 <br/>지속 <font color=\"red\">1</font>행동 <br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
       "SubSkills": null,      
       "Animation": "../img/Super/에길_Ani.webp"
     }

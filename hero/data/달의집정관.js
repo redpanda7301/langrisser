@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+12</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>턴<br/>쿨타임 <font color=\"red\">4</font>턴"
+          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+12</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">4</font>행동"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+16</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>턴<br/>쿨타임 <font color=\"red\">3</font>턴"
+          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+16</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+20</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>턴<br/>쿨타임 <font color=\"red\">3</font>턴"
+          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+20</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+25</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>턴<br/>쿨타임 <font color=\"red\">2</font>턴"
+          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+25</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">2</font>행동"
         }
       ]
     }
@@ -498,7 +498,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_WaterControl.webp",
-      "Desc": "사용 후 이동 시 통과하는 모든 지형을 '<font color=\"blue\">물 속</font>'으로 취급한다.<br/><font color=\"red\">2</font>턴 지속.<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font>",
+      "Desc": "사용 후 이동 시 통과하는 모든 지형을 '<font color=\"blue\">물 속</font>'으로 취급한다.<br/><font color=\"red\">2</font>행동 지속.<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -512,7 +512,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font>턴 지속.",
+      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -552,7 +552,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/달의집정관.webp",
-      "Desc": "직선에 있는 단일 개체 <font color=\"red\">0.26</font>배 범위 피해 및 '<font color=\"blue\">위치 이동</font>' 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 자신에게 끌어당기고 목표 이동력 <font color=\"red\">-2</font>, 지속 <font color=\"red\">1</font>턴<br/><b>해제 불가</b><br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">달의 조수</font>'로 변경",
+      "Desc": "직선에 있는 단일 개체 <font color=\"red\">0.26</font>배 범위 피해 및 '<font color=\"blue\">위치 이동</font>' 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 자신에게 끌어당기고 목표 이동력 <font color=\"red\">-2</font>, 지속 <font color=\"red\">1</font>행동<br/><b>해제 불가</b><br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">달의 조수</font>'로 변경",
       "SubSkills": [
         {
           "Name": "달의 조수",
@@ -575,7 +575,7 @@
             }
           ],
           "IconImageUrl": "../img/Super/달의집정관_1.webp",
-          "Desc": "단일 개체 <font color=\"Red\">1.5</font>배 피해, <font color=\"blue\">물 속</font>에 있을 경우 영웅이 주는 피해량 <font color=\"Red\">+40</font>%<br/>전투 후 피해량 <font color=\"Red\">30</font>% 수치 <font color=\"green\">생명 회복</font> 및 <br/>목표에게 '위치한 지형을 <font color=\"blue\">물 속</font>으로 간주' 효과 부여, <b>해제 불가</b><br/>지속 <font color=\"Red\">2</font>턴<br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">월상 인력</font>'으로 변경"
+          "Desc": "단일 개체 <font color=\"Red\">1.5</font>배 피해, <font color=\"blue\">물 속</font>에 있을 경우 영웅이 주는 피해량 <font color=\"Red\">+40</font>%<br/>전투 후 피해량 <font color=\"Red\">30</font>% 수치 <font color=\"green\">생명 회복</font> 및 <br/>목표에게 '위치한 지형을 <font color=\"blue\">물 속</font>으로 간주' 효과 부여, <b>해제 불가</b><br/>지속 <font color=\"Red\">2</font>행동<br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">월상 인력</font>'으로 변경"
         }
       ],
       "Animation": "../img/Super/달의집정관_Ani.webp"

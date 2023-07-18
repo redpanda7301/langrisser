@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+5%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">1</font>턴 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+5%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">1</font>행동 지속) (제거 불가)"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+8%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>턴 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+8%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>행동 지속) (제거 불가)"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+11%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>턴 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+11%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>행동 지속) (제거 불가)"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+15%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">3</font>턴 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+15%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">3</font>행동 지속) (제거 불가)"
         }
       ]
     }
@@ -360,7 +360,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Yuusuke1.webp",
-      "Desc": "[패시브] 피해를 입을 경우, [폭발] 발동 <br/>(폭발: 이동력 <font color=\"red\">+1</font>, 공격하여 전투 진입 시, 주는 피해량 <font color=\"red\">+30%</font>) (1턴 지속)<br/>[액티브] 생명 <font color=\"red\">30%</font> 회복. [마인] 발동 (마인: [폭발] 발동) <br/>(폭발: 전투 후 생명을 입힌 피해량의 <font color=\"red\">30%</font>만큼 회복. )(<font color=\"red\">3</font>턴)<br/>효과 종료 시, 주는 피해량 <font color=\"red\">-30%</font>, 이동력 <font color=\"red\">-1</font> (<font color=\"red\">2</font>턴 지속) (제거 불가, 면역 불가)",
+      "Desc": "[패시브] 피해를 입을 경우, [폭발] 발동 <br/>(폭발: 이동력 <font color=\"red\">+1</font>, 공격하여 전투 진입 시, 주는 피해량 <font color=\"red\">+30%</font>) (1턴 지속)<br/>[액티브] 생명 <font color=\"red\">30%</font> 회복. [마인] 발동 (마인: [폭발] 발동) <br/>(폭발: 전투 후 생명을 입힌 피해량의 <font color=\"red\">30%</font>만큼 회복. )(<font color=\"red\">3</font>행동)<br/>효과 종료 시, 주는 피해량 <font color=\"red\">-30%</font>, 이동력 <font color=\"red\">-1</font> (<font color=\"red\">2</font>행동 지속) (제거 불가, 면역 불가)",
       "SubSkills": null,
       "Animation": null
     },
@@ -466,7 +466,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Yuusuke3.webp",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br/>전투 전, 받는 피해량 <font color=\"red\">-20%</font> (<font color=\"red\">1</font>턴 지속)<br/>[마인] 발동 시, 주는 스킬 피해량 <font color=\"red\">+30%</font>, 받는 피해량 <font color=\"red\">-20%</font>,<br/>동시에, 적을 쓰러트렸을 경우 해당 스킬의 쿨타임 <font color=\"red\">-2</font>.",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br/>전투 전, 받는 피해량 <font color=\"red\">-20%</font> (<font color=\"red\">1</font>행동 지속)<br/>[마인] 발동 시, 주는 스킬 피해량 <font color=\"red\">+30%</font>, 받는 피해량 <font color=\"red\">-20%</font>,<br/>동시에, 적을 쓰러트렸을 경우 해당 스킬의 쿨타임 <font color=\"red\">-2</font>.",
       "SubSkills": null,
       "Animation": null
     },

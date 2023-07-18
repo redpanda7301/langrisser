@@ -57,19 +57,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">1</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">1</font>배만큼 생명 회복 <font color=\"red\">2</font>행동 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">1.5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">1.5</font>배만큼 생명 회복 <font color=\"red\">2</font>행동 지속"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">2</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">2</font>배만큼 생명 회복 <font color=\"red\">2</font>행동 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복 <font color=\"red\">2</font>행동 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복 <font color=\"red\">2</font>턴 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 <br/>다른 아군 부대에게 [특수 회복 능력] 부여:<br/>행동 종료 시 아이리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복 <font color=\"red\">2</font>행동 지속."
         }
       ]
     }

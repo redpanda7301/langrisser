@@ -8,6 +8,10 @@
     {
       "ImageUrl": "마크렌/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "마크렌/3.webp",
+      "Desc": "형귀스킨"
     }
   ],
   "Name": "마크렌",
@@ -60,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "물에서 공격, 방어 <font color=\"red\">+12</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+          "Desc": "물에서 공격, 방어 <font color=\"red\">+12</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>행동 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
         },
         {
-          "Desc": "물에서 공격, 방어 <font color=\"red\">+16</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+          "Desc": "물에서 공격, 방어 <font color=\"red\">+16</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>행동 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
         },
         {
-          "Desc": "물에서 공격, 방어 <font color=\"red\">+20</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+          "Desc": "물에서 공격, 방어 <font color=\"red\">+20</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>행동 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
         },
         {
-          "Desc": "물에서 공격, 방어 <font color=\"red\">+25</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">2</font>턴 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+          "Desc": "물에서 공격, 방어 <font color=\"red\">+25</font>%<br/>범위 스킬이 명중한 지형에 <font color=\"red\">2</font>행동 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
         }
       ]
     }
@@ -104,6 +108,9 @@
         },
         {
           "ImageUrl": "마크렌/2/1.webp"
+        },
+        {
+          "ImageUrl": "마크렌/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -133,6 +140,9 @@
         },
         {
           "ImageUrl": "마크렌/2/2.webp"
+        },
+        {
+          "ImageUrl": "마크렌/3/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -424,7 +434,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/McClaine/1.webp",
-      "Desc": "자신 및 주위 <font color=\"red\">2</font>칸 범위 안 지형에 <font color=\"red\">1</font>턴간 <font color=\"purple\">분류</font> 효과 부여 <br/>사용 후 공격 가능<br/>우군이 <font color=\"blue\">격류</font> 효과가 부여된 진형 통과 시 <font color=\"red\">2</font>칸 이동력 감소 면제<br/>해당 스킬은 보유한 강화 지속 시간을 소모하지 않음",
+      "Desc": "자신 및 주위 <font color=\"red\">2</font>칸 범위 안 지형에 <font color=\"red\">1</font>행동간 <font color=\"purple\">분류</font> 효과 부여 <br/>사용 후 공격 가능<br/>우군이 <font color=\"blue\">격류</font> 효과가 부여된 진형 통과 시 <font color=\"red\">2</font>칸 이동력 감소 면제<br/>해당 스킬은 보유한 강화 지속 시간을 소모하지 않음",
       "SubSkills": null,
       "Animation": null
     },    
@@ -504,7 +514,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/McClaine/2.webp",
-      "Desc": "<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해<br/>명중 대상이 '<font color=\"blue\">물</font>'에 위치해 있을 경우 <font color=\"red\">25</font>% 확률로 '<font color=\"blue\">빙결</font>' 효과<br/>지속 <font color=\"red\">1</font>턴<br/><font color=\"red\">3</font>명 이상 적 명중 시 쿨타임 <font color=\"red\">-3</font>",
+      "Desc": "<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해<br/>명중 대상이 '<font color=\"blue\">물</font>'에 위치해 있을 경우 <font color=\"red\">25</font>% 확률로 '<font color=\"blue\">빙결</font>' 효과<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"red\">3</font>명 이상 적 명중 시 쿨타임 <font color=\"red\">-3</font>",
       "SubSkills": null,
       "Animation": null
     },

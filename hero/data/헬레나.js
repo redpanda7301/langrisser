@@ -75,16 +75,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "이동전 1칸당 피해증가 <font color=\"red\">1%</font>(최대 <font color=\"red\">5%</font>) <br/>주위 <font color=\"red\">2</font>칸내 아군이 없을경우 방어상승 <font color=\"red\">10%</font>.<br/>행동종료시 자신이 통과한 모든지형에 <font color=\"red\">1</font>턴동안 [크리스탈]효과 부여:<br/>\"플레이어 적군이 이 지형에서 행동종료시 <br/><font color=\"red\">50%</font>확률로 &#39;랜덤한 장비스킬 무효화(최대생명치제외)&#39; <font color=\"red\">2</font>턴 지속.<br/>&#39;NPC일 경우 랜덤한속성 <font color=\"red\">-25%</font>&#39; <font color=\"red\">1</font>턴 지속.\"<br/>이동시 적을 무시한 이동.<br/> [크리스탈]효과가 있는 지형을 통과시 이동력소모하지 않음."
+          "Desc": "이동전 1칸당 피해증가 <font color=\"red\">1%</font>(최대 <font color=\"red\">5%</font>) <br/>주위 <font color=\"red\">2</font>칸내 아군이 없을경우 방어상승 <font color=\"red\">10%</font>.<br/>행동종료시 자신이 통과한 모든지형에 <font color=\"red\">1</font>행동동안 [크리스탈]효과 부여:<br/>\"플레이어 적군이 이 지형에서 행동종료시 <br/><font color=\"red\">50%</font>확률로 &#39;랜덤한 장비스킬 무효화(최대생명치제외)&#39; <font color=\"red\">2</font>행동 지속.<br/>&#39;NPC일 경우 랜덤한속성 <font color=\"red\">-25%</font>&#39; <font color=\"red\">1</font>행동 지속.\"<br/>이동시 적을 무시한 이동.<br/> [크리스탈]효과가 있는 지형을 통과시 이동력소모하지 않음."
         },
         {
-          "Desc": "이동전 1칸당 피해증가 <font color=\"red\">2%</font>(최대 <font color=\"red\">10%</font>) <br/>주위 <font color=\"red\">2</font>칸내 아군이 없을경우 방어상승 <font color=\"red\">15%</font>.<br/>행동종료시 자신이 통과한 모든지형에 <font color=\"red\">1</font>턴동안 [크리스탈]효과 부여:<br/>\"플레이어 적군이 이 지형에서 행동종료시 <br/><font color=\"red\">60%</font>확률로 &#39;랜덤한 장비스킬 무효화(최대생명치제외)&#39; <font color=\"red\">2</font>턴 지속.<br/>&#39;NPC일 경우 랜덤한속성 <font color=\"red\">-25%</font>&#39; <font color=\"red\">1</font>턴 지속.\"<br/>이동시 적을 무시한 이동.<br/> [크리스탈]효과가 있는 지형을 통과시 이동력소모하지 않음."
+          "Desc": "이동전 1칸당 피해증가 <font color=\"red\">2%</font>(최대 <font color=\"red\">10%</font>) <br/>주위 <font color=\"red\">2</font>칸내 아군이 없을경우 방어상승 <font color=\"red\">15%</font>.<br/>행동종료시 자신이 통과한 모든지형에 <font color=\"red\">1</font>행동동안 [크리스탈]효과 부여:<br/>\"플레이어 적군이 이 지형에서 행동종료시 <br/><font color=\"red\">60%</font>확률로 &#39;랜덤한 장비스킬 무효화(최대생명치제외)&#39; <font color=\"red\">2</font>행동 지속.<br/>&#39;NPC일 경우 랜덤한속성 <font color=\"red\">-25%</font>&#39; <font color=\"red\">1</font>행동 지속.\"<br/>이동시 적을 무시한 이동.<br/> [크리스탈]효과가 있는 지형을 통과시 이동력소모하지 않음."
         },
         {
-          "Desc": "이동전 1칸당 피해증가 <font color=\"red\">3%</font>(최대 <font color=\"red\">15%</font>) <br/>주위 <font color=\"red\">2</font>칸내 아군이 없을경우 방어상승 <font color=\"red\">20%</font>.<br/>행동종료시 자신이 통과한 모든지형에 <font color=\"red\">1</font>턴동안 [크리스탈]효과 부여:<br/>\"플레이어 적군이 이 지형에서 행동종료시 <br/><font color=\"red\">80%</font>확률로 &#39;랜덤한 장비스킬 무효화(최대생명치제외)&#39; <font color=\"red\">2</font>턴 지속.<br/>&#39;NPC일 경우 랜덤한속성 <font color=\"red\">-25%</font>&#39; <font color=\"red\">1</font>턴 지속.\"<br/>이동시 적을 무시한 이동.<br/> [크리스탈]효과가 있는 지형을 통과시 이동력소모하지 않음."
+          "Desc": "이동전 1칸당 피해증가 <font color=\"red\">3%</font>(최대 <font color=\"red\">15%</font>) <br/>주위 <font color=\"red\">2</font>칸내 아군이 없을경우 방어상승 <font color=\"red\">20%</font>.<br/>행동종료시 자신이 통과한 모든지형에 <font color=\"red\">1</font>행동동안 [크리스탈]효과 부여:<br/>\"플레이어 적군이 이 지형에서 행동종료시 <br/><font color=\"red\">80%</font>확률로 &#39;랜덤한 장비스킬 무효화(최대생명치제외)&#39; <font color=\"red\">2</font>행동 지속.<br/>&#39;NPC일 경우 랜덤한속성 <font color=\"red\">-25%</font>&#39; <font color=\"red\">1</font>행동 지속.\"<br/>이동시 적을 무시한 이동.<br/> [크리스탈]효과가 있는 지형을 통과시 이동력소모하지 않음."
         },
         {
-          "Desc": "이동전 1칸당 피해증가 <font color=\"red\">4%</font>(최대 <font color=\"red\">20%</font>) <br/>주위 <font color=\"red\">2</font>칸내 아군이 없을경우 방어상승 <font color=\"red\">25%</font>.<br/>행동종료시 자신이 통과한 모든지형에 <font color=\"red\">1</font>턴동안 [크리스탈]효과 부여:<br/>\"플레이어 적군이 이 지형에서 행동종료시 <br/><font color=\"red\">100%</font>확률로 &#39;랜덤한 장비스킬 무효화(최대생명치제외)&#39; <font color=\"red\">2</font>턴 지속.<br/>&#39;NPC일 경우 랜덤한속성 <font color=\"red\">-25%</font>&#39; <font color=\"red\">1</font>턴 지속.\"<br/>이동시 적을 무시한 이동.<br/> [크리스탈]효과가 있는 지형을 통과시 이동력소모하지 않음."
+          "Desc": "이동전 1칸당 피해증가 <font color=\"red\">4%</font>(최대 <font color=\"red\">20%</font>) <br/>주위 <font color=\"red\">2</font>칸내 아군이 없을경우 방어상승 <font color=\"red\">25%</font>.<br/>행동종료시 자신이 통과한 모든지형에 <font color=\"red\">1</font>행동동안 [크리스탈]효과 부여:<br/>\"플레이어 적군이 이 지형에서 행동종료시 <br/><font color=\"red\">100%</font>확률로 &#39;랜덤한 장비스킬 무효화(최대생명치제외)&#39; <font color=\"red\">2</font>행동 지속.<br/>&#39;NPC일 경우 랜덤한속성 <font color=\"red\">-25%</font>&#39; <font color=\"red\">1</font>행동 지속.\"<br/>이동시 적을 무시한 이동.<br/> [크리스탈]효과가 있는 지형을 통과시 이동력소모하지 않음."
         }
       ]
     }
@@ -95,7 +95,7 @@
     "Name": "빛나는 달의 수정갑옷(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "헬레나.webp",
-    "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%,방어 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/><b>행동 종료 시 <font color=\"red\">1</font>턴간 주위 <font color=\"red\">1</font>바퀴 범위에 <font color=\"blue\">빛나는 수정</font> 특수 효과 추가,<br/>자신이 <font color=\"blue\">빛나는 수정</font> 지형에 있을 경우 받는 피해 <font color=\"red\">-15</font>%</b> 및<br/><b>피격 후 자신 생명 <font color=\"red\">30</font>% </b> 수치  <b><font color=\"blue\">회복</font></b>"
+    "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%,방어 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/><b>행동 종료 시 <font color=\"red\">1</font>행동간 주위 <font color=\"red\">1</font>바퀴 범위에 <font color=\"blue\">빛나는 수정</font> 특수 효과 추가,<br/>자신이 <font color=\"blue\">빛나는 수정</font> 지형에 있을 경우 받는 피해 <font color=\"red\">-15</font>%</b> 및<br/><b>피격 후 자신 생명 <font color=\"red\">30</font>% </b> 수치  <b><font color=\"blue\">회복</font></b>"
   },
   "Soldiers": [
     56,
@@ -524,7 +524,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>턴지속.",
+      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>행동지속.",
       "SubSkills": null,
       "Animation": null
     },

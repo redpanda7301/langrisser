@@ -72,16 +72,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "사망 시 생명 <font color=\"red\">20</font>% 수치로 부활 (최대 <font color=\"red\">1</font>회)<br/><font color=\"red\">2</font>개 이상의 버프 보유 시 받는 모든 피해 <font color=\"red\">-10%</font><br/>공격 스탯의 <font color=\"red\">5</font>%  수치만큼 방마방 상승 <br/> 주위 <font color=\"red\">2</font>칸 내 아군 <font color=\"red\">1</font>명이 피격으로 전투 진입 시<br/>공격자는 해당 공격에서 <b><font color=\"blue\">치명타 발동 불가</font></b> <br/>쿨타임<font color=\"red\">3</font>턴"
+          "Desc": "사망 시 생명 <font color=\"red\">20</font>% 수치로 부활 (최대 <font color=\"red\">1</font>회)<br/><font color=\"red\">2</font>개 이상의 버프 보유 시 받는 모든 피해 <font color=\"red\">-10%</font><br/>공격 스탯의 <font color=\"red\">5</font>%  수치만큼 방마방 상승 <br/> 주위 <font color=\"red\">2</font>칸 내 아군 <font color=\"red\">1</font>명이 피격으로 전투 진입 시<br/>공격자는 해당 공격에서 <b><font color=\"blue\">치명타 발동 불가</font></b> <br/>쿨타임<font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "사망 시 생명 <font color=\"red\">30</font>% 수치로 부활 (최대 <font color=\"red\">1</font>회)<br/><font color=\"red\">2</font>개 이상의 버프 보유 시 받는 모든 피해 <font color=\"red\">-15%</font><br/>공격 스탯의 <font color=\"red\">8</font>%  수치만큼 방마방 상승 <br/> 주위 <font color=\"red\">3</font>칸 내 아군 <font color=\"red\">1</font>명이 피격으로 전투 진입 시<br/>공격자는 해당 공격에서 <b><font color=\"blue\">치명타 발동 불가</font></b> <br/>쿨타임<font color=\"red\">2</font>턴"
+          "Desc": "사망 시 생명 <font color=\"red\">30</font>% 수치로 부활 (최대 <font color=\"red\">1</font>회)<br/><font color=\"red\">2</font>개 이상의 버프 보유 시 받는 모든 피해 <font color=\"red\">-15%</font><br/>공격 스탯의 <font color=\"red\">8</font>%  수치만큼 방마방 상승 <br/> 주위 <font color=\"red\">3</font>칸 내 아군 <font color=\"red\">1</font>명이 피격으로 전투 진입 시<br/>공격자는 해당 공격에서 <b><font color=\"blue\">치명타 발동 불가</font></b> <br/>쿨타임<font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "사망 시 생명 <font color=\"red\">40</font>% 수치로 부활 (최대 <font color=\"red\">1</font>회)<br/><font color=\"red\">2</font>개 이상의 버프 보유 시 받는 모든 피해 <font color=\"red\">-20%</font><br/>공격 스탯의 <font color=\"red\">11</font>% 수치만큼 방마방 상승 <br/> 주위 <font color=\"red\">3</font>칸 내 아군 <font color=\"red\">1</font>명이 피격으로 전투 진입 시<br/>공격자는 해당 공격에서 <b><font color=\"blue\">치명타 발동 불가</font></b> <br/>쿨타임<font color=\"red\">2</font>턴"
+          "Desc": "사망 시 생명 <font color=\"red\">40</font>% 수치로 부활 (최대 <font color=\"red\">1</font>회)<br/><font color=\"red\">2</font>개 이상의 버프 보유 시 받는 모든 피해 <font color=\"red\">-20%</font><br/>공격 스탯의 <font color=\"red\">11</font>% 수치만큼 방마방 상승 <br/> 주위 <font color=\"red\">3</font>칸 내 아군 <font color=\"red\">1</font>명이 피격으로 전투 진입 시<br/>공격자는 해당 공격에서 <b><font color=\"blue\">치명타 발동 불가</font></b> <br/>쿨타임<font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "사망 시 생명 <font color=\"red\">50</font>% 수치로 부활 (최대 <font color=\"red\">1</font>회)<br/><font color=\"red\">2</font>개 이상의 버프 보유 시 받는 모든 피해 <font color=\"red\">-25%</font><br/>공격 스탯의 <font color=\"red\">15</font>% 수치만큼 방마방 상승 <br/> 주위 <font color=\"red\">3</font>칸 내 아군 <font color=\"red\">1</font>명이 피격으로 전투 진입 시<br/>공격자는 해당 공격에서 <b><font color=\"blue\">치명타 발동 불가</font></b> <br/>쿨타임<font color=\"red\">1</font>턴"
+          "Desc": "사망 시 생명 <font color=\"red\">50</font>% 수치로 부활 (최대 <font color=\"red\">1</font>회)<br/><font color=\"red\">2</font>개 이상의 버프 보유 시 받는 모든 피해 <font color=\"red\">-25%</font><br/>공격 스탯의 <font color=\"red\">15</font>% 수치만큼 방마방 상승 <br/> 주위 <font color=\"red\">3</font>칸 내 아군 <font color=\"red\">1</font>명이 피격으로 전투 진입 시<br/>공격자는 해당 공격에서 <b><font color=\"blue\">치명타 발동 불가</font></b> <br/>쿨타임<font color=\"red\">1</font>행동"
         }
       ]
     }
@@ -95,7 +95,7 @@
     "Name": "핏빛 무장(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "힐다.webp",
-    "Ability": "생명,방어 <font color=\"red\">+5</font>%<br/><font color=\"blue\">코스트 제한 해제</font><br/>근접전으로 전투 진입 전 적 <font color=\"blue\">무기 스킬 무효화</font>(최대 생명 수치 제외)<br/>목표가 NPC일 경우 <font color=\"blue\">공격, 지력 <font color=\"red\">-25</font>% </font> 대체<br/>지속 <font color=\"red\">1</font>턴"
+    "Ability": "생명,방어 <font color=\"red\">+5</font>%<br/><font color=\"blue\">코스트 제한 해제</font><br/>근접전으로 전투 진입 전 적 <font color=\"blue\">무기 스킬 무효화</font>(최대 생명 수치 제외)<br/>목표가 NPC일 경우 <font color=\"blue\">공격, 지력 <font color=\"red\">-25</font>% </font> 대체<br/>지속 <font color=\"red\">1</font>행동"
   },
   "Soldiers": [
     25,
@@ -454,7 +454,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Punch.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 <font color=\"red\">2</font>칸 밀쳐내며 이동력 <font color=\"red\">-2</font>, '호위 불가'부여, <font color=\"red\">1</font>턴 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 피해를 준다.<br/>대상을 <font color=\"red\">2</font>칸 밀쳐내며 이동력 <font color=\"red\">-2</font>, '호위 불가'부여, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -600,7 +600,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Emilia2.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color =\"red\">1.5</font>배 피해를 준다.<br/>전투 후, 적에게 '주는 피해량' <font color =\"red\">-20</font>% 부여,<br/><font color=\"red\">2</font>턴 지속.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color =\"red\">1.5</font>배 피해를 준다.<br/>전투 후, 적에게 '주는 피해량' <font color =\"red\">-20</font>% 부여,<br/><font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -626,7 +626,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/힐다.webp",
-      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 호위, '<b><font color=\"blue\">이동력 저하</font></b>' 면역. <br/>[지휘] 주위 <font color=\"red\">2</font>칸 범위 내 모든 아군은 위치 이동 면역, 피격 고정 피해 <font color=\"red\">-35</font>%,<br/>[액티브] 이하 스킬 중 <font color=\"red\">1</font>개 선택<br/>액티브 스킬 사용 시 쿨타임 <font color=\"red\">3</font>턴으로 변경",
+      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 호위, '<b><font color=\"blue\">이동력 저하</font></b>' 면역. <br/>[지휘] 주위 <font color=\"red\">2</font>칸 범위 내 모든 아군은 위치 이동 면역, 피격 고정 피해 <font color=\"red\">-35</font>%,<br/>[액티브] 이하 스킬 중 <font color=\"red\">1</font>개 선택<br/>액티브 스킬 사용 시 쿨타임 <font color=\"red\">3</font>행동으로 변경",
       "SubSkills": [
         {
           "Name": "<b><font color=\"#0070c0\">호령-창진</font></b>",

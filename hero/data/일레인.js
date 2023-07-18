@@ -378,7 +378,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "주위 <font color=\"red\">3</font>칸 내 아군 부대 기술 <font color=\"red\">+20</font>%.",
+      "Desc": "주위 <font color=\"red\">3</font>칸 내 아군 부대 기술 <font color=\"red\">+20</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -392,7 +392,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Eye.webp",
-      "Desc": "치명타율 <font color=\"Red\">+15</font>%<br/>전투 진입 시 치명타가 발생한다면 전투 후<br/>적 부대의 <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"Red\">2</font>턴",
+      "Desc": "치명타율 <font color=\"Red\">+15</font>%<br/>전투 진입 시 치명타가 발생한다면 전투 후<br/>적 부대의 <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -418,7 +418,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Elaine/1.webp",
-      "Desc": "<font color=\"Red\">1</font>줄 직선 상 적에게 <font color=\"Red\">0.2</font>배 피해 및 <font color=\"blue\">패시브 봉인</font> 효과 부여<br/>지속 <font color=\"Red\">2</font>턴",
+      "Desc": "<font color=\"Red\">1</font>줄 직선 상 적에게 <font color=\"Red\">0.2</font>배 피해 및 <font color=\"blue\">패시브 봉인</font> 효과 부여<br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -484,7 +484,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Elaine/3.webp",
-      "Desc": "범위 안 적에게 <font color=\"red\">0.3</font>배 피해<br/><font color=\"blue\">버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font> 및 자신에게 '<font color=\"blue\">공격 지력 감소 면역</font>' 부여<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "범위 안 적에게 <font color=\"red\">0.3</font>배 피해<br/><font color=\"blue\">버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font> 및 자신에게 '<font color=\"blue\">공격 지력 감소 면역</font>' 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

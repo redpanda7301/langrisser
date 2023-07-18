@@ -399,7 +399,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_JamMove.webp",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<b>모든 패시브 스킬 무효</b>'부여, <font color=\"red\">2</font>턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<b>모든 패시브 스킬 무효</b>'부여, <font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -425,7 +425,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_JamDef.webp",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<b>치료 방해</b>'부여, <font color=\"red\">2</font>턴 지속.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<b>치료 방해</b>'부여, <font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

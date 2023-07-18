@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "부대의 생명이 <font color=\"red\">100%</font>일때 공격 <font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font>.<br/>행동종료시 [물리장벽]획득: \"버프 보유후 물리피해를 처음 받을때 <br/>받는피해 <font color=\"red\">-50%</font>(<font color=\"red\">3</font>턴내 재발동 불가).\"<br/>근접공격으로 공격하여 전투진입시 전투후 입힌피해의 <font color=\"red\">10%</font>만큼의 생명력회복."
+          "Desc": "부대의 생명이 <font color=\"red\">100%</font>일때 공격 <font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font>.<br/>행동종료시 [물리장벽]획득: \"버프 보유후 물리피해를 처음 받을때 <br/>받는피해 <font color=\"red\">-50%</font>(<font color=\"red\">3</font>행동내 재발동 불가).\"<br/>근접공격으로 공격하여 전투진입시 전투후 입힌피해의 <font color=\"red\">10%</font>만큼의 생명력회복."
         },
         {
-          "Desc": "부대의 생명이 <font color=\"red\">100%</font>일때 공격 <font color=\"red\">+13%</font> 이동력 <font color=\"red\">+1</font>.<br/>행동종료시 [물리장벽]획득: \"버프 보유후 물리피해를 처음 받을때 <br/>받는피해 <font color=\"red\">-55%</font>(<font color=\"red\">3</font>턴내 재발동 불가).\"<br/>근접공격으로 공격하여 전투진입시 전투후 입힌피해의 <font color=\"red\">15%</font>만큼의 생명력회복."
+          "Desc": "부대의 생명이 <font color=\"red\">100%</font>일때 공격 <font color=\"red\">+13%</font> 이동력 <font color=\"red\">+1</font>.<br/>행동종료시 [물리장벽]획득: \"버프 보유후 물리피해를 처음 받을때 <br/>받는피해 <font color=\"red\">-55%</font>(<font color=\"red\">3</font>행동내 재발동 불가).\"<br/>근접공격으로 공격하여 전투진입시 전투후 입힌피해의 <font color=\"red\">15%</font>만큼의 생명력회복."
         },
         {
-          "Desc": "부대의 생명이 <font color=\"red\">100%</font>일때 공격 <font color=\"red\">+16%</font> 이동력 <font color=\"red\">+1</font>.<br/>행동종료시 [물리장벽]획득: \"버프 보유후 물리피해를 처음 받을때 <br/>받는피해 <font color=\"red\">-60%</font>(<font color=\"red\">3</font>턴내 재발동 불가).\"<br/>근접공격으로 공격하여 전투진입시 전투후 입힌피해의 <font color=\"red\">20%</font>만큼의 생명력회복."
+          "Desc": "부대의 생명이 <font color=\"red\">100%</font>일때 공격 <font color=\"red\">+16%</font> 이동력 <font color=\"red\">+1</font>.<br/>행동종료시 [물리장벽]획득: \"버프 보유후 물리피해를 처음 받을때 <br/>받는피해 <font color=\"red\">-60%</font>(<font color=\"red\">3</font>행동내 재발동 불가).\"<br/>근접공격으로 공격하여 전투진입시 전투후 입힌피해의 <font color=\"red\">20%</font>만큼의 생명력회복."
         },
         {
-          "Desc": "부대의 생명이 <font color=\"red\">100%</font>일때 공격 <font color=\"red\">+20%</font> 이동력 <font color=\"red\">+2</font>.<br/>행동종료시 [물리장벽]획득: \"버프 보유후 물리피해를 처음 받을때 <br/>받는피해 <font color=\"red\">-70%</font>(<font color=\"red\">3</font>턴내 재발동 불가).\"<br/>근접공격으로 공격하여 전투진입시 전투후 입힌피해의 <font color=\"red\">30%</font>만큼의 생명력회복."
+          "Desc": "부대의 생명이 <font color=\"red\">100%</font>일때 공격 <font color=\"red\">+20%</font> 이동력 <font color=\"red\">+2</font>.<br/>행동종료시 [물리장벽]획득: \"버프 보유후 물리피해를 처음 받을때 <br/>받는피해 <font color=\"red\">-70%</font>(<font color=\"red\">3</font>행동내 재발동 불가).\"<br/>근접공격으로 공격하여 전투진입시 전투후 입힌피해의 <font color=\"red\">30%</font>만큼의 생명력회복."
         }
       ]
     }
@@ -419,7 +419,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Shalltear1.webp",
-      "Desc": "[패시브]공격하여 전투진입 2회이후 행동종료시, 재행동 1회 및 [광란]효과.<br/>[광란] : \"<b>받는 모든피해 <font color=\"red\">+15</font></b>%, <font color=\"red\">2</font>턴 지속(제거 및 면역불가)\",<br/>재행동 이후 다시 공격횟수 계산",
+      "Desc": "[패시브]공격하여 전투진입 2회이후 행동종료시, 재행동 1회 및 [광란]효과.<br/>[광란] : \"<b>받는 모든피해 <font color=\"red\">+15</font></b>%, <font color=\"red\">2</font>행동 지속(제거 및 면역불가)\",<br/>재행동 이후 다시 공격횟수 계산",
       "SubSkills": null,
       "Animation": null
     },

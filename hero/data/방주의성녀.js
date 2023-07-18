@@ -418,7 +418,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/SaintArk/1.webp",
-      "Desc": "[변신]사용 후 '<font color=\"blue\">마족화</font>' 상태 돌입<br/> 1) 피해량 <font color=\"red\">+20</font>%, 이동력 <font color=\"red\">+1</font><br/>적에게 피해를 입힌 후 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/>지속 <font color=\"red\">3</font>턴<br/> 2) '<font color=\"blue\">마족화</font>' 상태가 <font color=\"red\">1</font>턴 남은 경우 <font color=\"red\">제어 불가 상태</font>로 현재 위치 대기 및 영웅이 받는 피해량 <font color=\"red\">-80</font>%<br/> <font color=\"red\">이동 불가</font>, <font color=\"blue\">위치 이동</font> 및 <font color=\"blue\">텔레포트</font> 불가(<font color=\"red\">디메리트</font>)<br/>행동 종료 시 자신에게 인접한 <font color=\"red\">4</font>줄 직선 범위 내 모든 부대에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여<br/> 3) <font color=\"blue\">마족화</font> 상태 종료 시 자신의 <font color=\"green\">생명 회복</font> <font color=\"red\">100</font>%, 모든 스킬 쿨타임 <font color=\"red\">-3</font><br/> 4) <font color=\"blue\">마족화</font> 상태는 <b>해제 및 면역 불가</b><br/>해당 스킬은 자신에게 걸린 <font color=\"blue\">버프</font> 지속시간을 소모하지 않음",
+      "Desc": "[변신]사용 후 '<font color=\"blue\">마족화</font>' 상태 돌입<br/> 1) 피해량 <font color=\"red\">+20</font>%, 이동력 <font color=\"red\">+1</font><br/>적에게 피해를 입힌 후 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/>지속 <font color=\"red\">3</font>행동<br/> 2) '<font color=\"blue\">마족화</font>' 상태가 <font color=\"red\">1</font>행동 남은 경우 <font color=\"red\">제어 불가 상태</font>로 현재 위치 대기 및 영웅이 받는 피해량 <font color=\"red\">-80</font>%<br/> <font color=\"red\">이동 불가</font>, <font color=\"blue\">위치 이동</font> 및 <font color=\"blue\">텔레포트</font> 불가(<font color=\"red\">디메리트</font>)<br/>행동 종료 시 자신에게 인접한 <font color=\"red\">4</font>줄 직선 범위 내 모든 부대에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여<br/> 3) <font color=\"blue\">마족화</font> 상태 종료 시 자신의 <font color=\"green\">생명 회복</font> <font color=\"red\">100</font>%, 모든 스킬 쿨타임 <font color=\"red\">-3</font><br/> 4) <font color=\"blue\">마족화</font> 상태는 <b>해제 및 면역 불가</b><br/>해당 스킬은 자신에게 걸린 <font color=\"blue\">버프</font> 지속시간을 소모하지 않음",
       "SubSkills": null,
       "Animation": null
     },
@@ -470,7 +470,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_JamMove.webp",
-      "Desc": "범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<font color=\"blue\">모든 패시브 스킬 무효</font>' 부여 <br/>지속 <font color=\"red\">2</font>턴.",
+      "Desc": "범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<font color=\"blue\">모든 패시브 스킬 무효</font>' 부여 <br/>지속 <font color=\"red\">2</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -496,7 +496,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_JamDef.webp",
-      "Desc": "범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<font color=\"blue\">치료 불가</font>' 부여 <br/>지속 <font color=\"red\">2</font>턴.",
+      "Desc": "범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 주며<br/>적에게 '<font color=\"blue\">치료 불가</font>' 부여 <br/>지속 <font color=\"red\">2</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -548,7 +548,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/SaintArk/2.webp",
-      "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.33</font>배 피해 <br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 및 <font color=\"blue\">재행동 불가</font> 부여 <br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.33</font>배 피해 <br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 및 <font color=\"blue\">재행동 불가</font> 부여 <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -600,7 +600,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/방주의성녀.webp",
-      "Desc": "직선 <font color=\"red\">3</font>칸 상 적에게 <font color=\"red\">0.38</font>배 피해를 입히고 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여 <br/>자신이 <font color=\"blue\">마족화</font> 상태일 경우, <font color=\"#778899\">신관</font> 병종인 <b>적 영웅의 병종을</b> <font color=\"#000044\">마물</font>로 전환<br/>지속 <font color=\"red\">2</font>턴",
+      "Desc": "직선 <font color=\"red\">3</font>칸 상 적에게 <font color=\"red\">0.38</font>배 피해를 입히고 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여 <br/>자신이 <font color=\"blue\">마족화</font> 상태일 경우, <font color=\"#778899\">신관</font> 병종인 <b>적 영웅의 병종을</b> <font color=\"#000044\">마물</font>로 전환<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/방주의성녀_Ani.webp"
     }

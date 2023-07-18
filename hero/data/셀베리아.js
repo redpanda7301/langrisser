@@ -479,7 +479,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Selvaria/2_1.webp",
-          "Desc": "범위 내 모든 아군의 공격,지력 <font color=\"red\">+20</font>%<br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "범위 내 모든 아군의 공격,지력 <font color=\"red\">+20</font>%<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
           "Name": "<b><font color=\"#0070c0\">전력 방어</font></b>",
@@ -502,7 +502,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Selvaria/2_2.webp",
-          "Desc": "범위 내 모든 아군의 방어 <font color=\"red\">+20</font>%, 마방 <font color=\"red\">+30</font>% <br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "범위 내 모든 아군의 방어 <font color=\"red\">+20</font>%, 마방 <font color=\"red\">+30</font>% <br/>지속 <font color=\"red\">2</font>행동"
         },
         {
           "Name": "<b><font color=\"#0070c0\">전력 파괴</font></b>",
@@ -525,7 +525,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Selvaria/2_3.webp",
-          "Desc": "범위 내 모든 아군의 치명타 확률 <font color=\"red\">+20</font>%<br/>지속 <font color=\"red\">2</font>턴"
+          "Desc": "범위 내 모든 아군의 치명타 확률 <font color=\"red\">+20</font>%<br/>지속 <font color=\"red\">2</font>행동"
         }
       ],
       "Animation": null
@@ -540,7 +540,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.webp",
-      "Desc": "치명타율 <font color=\"red\">+10</font>%. <br/>피해를 줄 때 <font color=\"red\">50</font>%의 확률로 적 부대의 <font color=\"blue\">패시브 스킬 무효</font> 부여한다.<br/>지속<font color=\"red\">2</font>턴 <br/><b>치명타 발생 시 반드시 발동</b>.",
+      "Desc": "치명타율 <font color=\"red\">+10</font>%. <br/>피해를 줄 때 <font color=\"red\">50</font>%의 확률로 적 부대의 <font color=\"blue\">패시브 스킬 무효</font> 부여한다.<br/>지속<font color=\"red\">2</font>행동 <br/><b>치명타 발생 시 반드시 발동</b>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -566,7 +566,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/14.webp",
-      "Desc": "단일 적을 <font color=\"red\">1.4</font>배 피해로 공격,<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>전투 후 <font color=-\"red\">50</font>% 확률로 <font color=\"blue\">침묵</font> 부여 <br/>지속<font color=\"red\">1</font>턴, <b>제거 불가</,b>",
+      "Desc": "단일 적을 <font color=\"red\">1.4</font>배 피해로 공격,<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>전투 후 <font color=-\"red\">50</font>% 확률로 <font color=\"blue\">침묵</font> 부여 <br/>지속<font color=\"red\">1</font>행동, <b>제거 불가</,b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -606,7 +606,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/셀베리아.webp",
-      "Desc": "사용 후 부대 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font><br/>자신은 <font color=\"blue\">이동</font> 및 <font color=\"blue\">재이동</font>, <font color=\"blue\">텔레포트</font> 불가(디메리트)<br/>치명타 확률 <font color=\"red\">+20</font>%, 스킬 사용 시 부대 사거리 <font color=\"red\">+7</font><br/><b>목표와 거리가 가까울수록</b> <font color=\"blue\">전투 진입 피해 감소</font> 최대 <font color=\"red\">-35</font>%<br/>지속 <font color=\"red\">1</font>턴<br/><b>사용 후</b> 스킬은 <font color=\"blue\">발키리의 섬광</font>으로 대체<br/><font color=\"blue\">발키리의 힘</font>으로 인한 부가 효과는 <b>해제 및 면역 불가</b>",
+      "Desc": "사용 후 부대 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font><br/>자신은 <font color=\"blue\">이동</font> 및 <font color=\"blue\">재이동</font>, <font color=\"blue\">텔레포트</font> 불가(디메리트)<br/>치명타 확률 <font color=\"red\">+20</font>%, 스킬 사용 시 부대 사거리 <font color=\"red\">+7</font><br/><b>목표와 거리가 가까울수록</b> <font color=\"blue\">전투 진입 피해 감소</font> 최대 <font color=\"red\">-35</font>%<br/>지속 <font color=\"red\">1</font>행동<br/><b>사용 후</b> 스킬은 <font color=\"blue\">발키리의 섬광</font>으로 대체<br/><font color=\"blue\">발키리의 힘</font>으로 인한 부가 효과는 <b>해제 및 면역 불가</b>",
       "SubSkills": 
       [
         {

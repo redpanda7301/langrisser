@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전장내 부대가 사망시 자신 주변에 [늑대영혼]소환:<br/>사망한 부대의 능력치를 계승받으나<br/>아카야의 능력치를 <font color=\"red\">150%</font> 넘길수 없다.<br/>(해당 효과는 재발동까지 <font color=\"red\">3</font>턴이 필요하며<br/>동시에 <font color=\"red\">1</font>마리의 늑대영혼만 존재할수 있다.)<br/>늑대 영혼이 사망시 생명을 제외한모든 속성의 <font color=\"red\">10%</font>가<br/>아카야에게 추가 및 아카야의 생명력이 회복된다.<br/>회복량은 아카야 최대 생명량의 <font color=\"red\">10%</font>."
+          "Desc": "전장내 부대가 사망시 자신 주변에 [늑대영혼]소환:<br/>사망한 부대의 능력치를 계승받으나<br/>아카야의 능력치를 <font color=\"red\">150%</font> 넘길수 없다.<br/>(해당 효과는 재발동까지 <font color=\"red\">3</font>행동이 필요하며<br/>동시에 <font color=\"red\">1</font>마리의 늑대영혼만 존재할수 있다.)<br/>늑대 영혼이 사망시 생명을 제외한모든 속성의 <font color=\"red\">10%</font>가<br/>아카야에게 추가 및 아카야의 생명력이 회복된다.<br/>회복량은 아카야 최대 생명량의 <font color=\"red\">10%</font>."
         },
         {
-          "Desc": "전장내 부대가 사망시 자신 주변에 [늑대영혼]소환:<br/>사망한 부대의 능력치를 계승받으나<br/>아카야의 능력치를 <font color=\"red\">150%</font> 넘길수 없다.<br/>(해당 효과는 재발동까지 <font color=\"red\">2</font>턴이 필요하며<br/>동시에 <font color=\"red\">1</font>마리의 늑대영혼만 존재할수 있다.)<br/>늑대 영혼이 사망시 생명을 제외한모든 속성의 <font color=\"red\">13%</font>가<br/>아카야에게 추가 및 아카야의 생명력이 회복된다.<br/>회복량은 아카야 최대 생명량의 <font color=\"red\">13%</font>."
+          "Desc": "전장내 부대가 사망시 자신 주변에 [늑대영혼]소환:<br/>사망한 부대의 능력치를 계승받으나<br/>아카야의 능력치를 <font color=\"red\">150%</font> 넘길수 없다.<br/>(해당 효과는 재발동까지 <font color=\"red\">2</font>행동이 필요하며<br/>동시에 <font color=\"red\">1</font>마리의 늑대영혼만 존재할수 있다.)<br/>늑대 영혼이 사망시 생명을 제외한모든 속성의 <font color=\"red\">13%</font>가<br/>아카야에게 추가 및 아카야의 생명력이 회복된다.<br/>회복량은 아카야 최대 생명량의 <font color=\"red\">13%</font>."
         },
         {
-          "Desc": "전장내 부대가 사망시 자신 주변에 [늑대영혼]소환:<br/>사망한 부대의 능력치를 계승받으나<br/>아카야의 능력치를 <font color=\"red\">150%</font> 넘길수 없다.<br/>(해당 효과는 재발동까지 <font color=\"red\">2</font>턴이 필요하며<br/>동시에 <font color=\"red\">1</font>마리의 늑대영혼만 존재할수 있다.)<br/>늑대 영혼이 사망시 생명을 제외한모든 속성의 <font color=\"red\">16%</font>가<br/>아카야에게 추가 및 아카야의 생명력이 회복된다.<br/>회복량은 아카야 최대 생명량의 <font color=\"red\">16%</font>."
+          "Desc": "전장내 부대가 사망시 자신 주변에 [늑대영혼]소환:<br/>사망한 부대의 능력치를 계승받으나<br/>아카야의 능력치를 <font color=\"red\">150%</font> 넘길수 없다.<br/>(해당 효과는 재발동까지 <font color=\"red\">2</font>행동이 필요하며<br/>동시에 <font color=\"red\">1</font>마리의 늑대영혼만 존재할수 있다.)<br/>늑대 영혼이 사망시 생명을 제외한모든 속성의 <font color=\"red\">16%</font>가<br/>아카야에게 추가 및 아카야의 생명력이 회복된다.<br/>회복량은 아카야 최대 생명량의 <font color=\"red\">16%</font>."
         },
         {
-          "Desc": "전장내 부대가 사망시 자신 주변에 [늑대영혼]소환:<br/>사망한 부대의 능력치를 계승받으나<br/>아카야의 능력치를 <font color=\"red\">150%</font> 넘길수 없다.<br/>(해당 효과는 재발동까지 <font color=\"red\">1</font>턴이 필요하며<br/>동시에 <font color=\"red\">1</font>마리의 늑대영혼만 존재할수 있다.)<br/>늑대 영혼이 사망시 생명을 제외한모든 속성의 <font color=\"red\">20%</font>가<br/>아카야에게 추가 및 아카야의 생명력이 회복된다.<br/>회복량은 아카야 최대 생명량의 <font color=\"red\">20%</font>."
+          "Desc": "전장내 부대가 사망시 자신 주변에 [늑대영혼]소환:<br/>사망한 부대의 능력치를 계승받으나<br/>아카야의 능력치를 <font color=\"red\">150%</font> 넘길수 없다.<br/>(해당 효과는 재발동까지 <font color=\"red\">1</font>행동이 필요하며<br/>동시에 <font color=\"red\">1</font>마리의 늑대영혼만 존재할수 있다.)<br/>늑대 영혼이 사망시 생명을 제외한모든 속성의 <font color=\"red\">20%</font>가<br/>아카야에게 추가 및 아카야의 생명력이 회복된다.<br/>회복량은 아카야 최대 생명량의 <font color=\"red\">20%</font>."
         }
       ]
     }
@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "늑대의 원한",
-    "Stats":"공격, 지력 <font color=\"red\">+5</font>%<br/><font color=\"purple\">늑대영혼</font> 사망 시 아카야가 주는 피해량 <font color=\"red\">+10</font>%<br/>지속 <font color=\"red\">1</font>턴 "
+    "Stats":"공격, 지력 <font color=\"red\">+5</font>%<br/><font color=\"purple\">늑대영혼</font> 사망 시 아카야가 주는 피해량 <font color=\"red\">+10</font>%<br/>지속 <font color=\"red\">1</font>행동 "
   },
   "Equip": {
     "Name": "성령의 뿔(무기)",
