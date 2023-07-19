@@ -160,27 +160,27 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "마도사 :",
+      "ClassTitle": "용병 :",
       "Tiers": [
       ]
     },
     {
-      "ClassTitle": "대마법사 :",
+      "ClassTitle": "계승자 :",
       "Tiers": [
       ]
     },
     {
-      "ClassTitle": "용을 잡는 마도사 :",
+      "ClassTitle": "빛의 검 :",
       "Tiers": [
       ]
     },
     {
-      "ClassTitle": "마검사 :",
+      "ClassTitle": "검사 :",
       "Tiers": [
       ]
     },
     {
-      "ClassTitle": "신을 멸하는 마검사 :",
+      "ClassTitle": "영웅 :",
       "Tiers": [
       ]
     }

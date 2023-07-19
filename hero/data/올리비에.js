@@ -495,7 +495,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Requiem.webp",
-      "Desc": "[물리 피해]자신 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br/>적군의 치명타 확률 -30%, 재이동 불가, 2턴 지속.",
+      "Desc": "자신 주위 <font color=\"red\">5</font>칸 내 모든 적에게 <font color=\"red\">0.35</font>배 범위 피해<br/>적의 <font color=\"blue\">치명타 확률</font> <font color=\"red\">-30</font>% 부여<br/><font color=\"blue\">재행동 불가</font>부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

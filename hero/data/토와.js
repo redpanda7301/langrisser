@@ -12,6 +12,10 @@
     {
       "ImageUrl": "토와/3.webp",
       "Desc": "형귀 뽑기"
+    },
+    {
+      "ImageUrl": "토와/4.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "토와",
@@ -114,6 +118,9 @@
         },
         {
           "ImageUrl": "토와/3/1.webp"
+        },
+        {
+          "ImageUrl": "토와/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -146,6 +153,9 @@
         },
         {
           "ImageUrl": "토와/3/2.webp"
+        },
+        {
+          "ImageUrl": "토와/4/2.webp"
         }
       ],
       "AttkRange": 1,
