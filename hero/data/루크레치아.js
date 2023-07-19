@@ -12,8 +12,11 @@
     {
       "ImageUrl": "루크레치아/3.webp",
       "Desc": "서밋아레나 S10 패자 스킨"
-    }
-    
+    },
+    {
+      "ImageUrl": "루크레치아/4.webp",
+      "Desc": "한정판매"
+    }    
   ],
   "Name": "루크레치아",
   "ChName": "卢克蕾蒂娅",
@@ -110,6 +113,9 @@
         },
         {
           "ImageUrl": "루크레치아/3/1.webp"
+        },
+        {
+          "ImageUrl": "루크레치아/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -142,6 +148,9 @@
         },
         {
           "ImageUrl": "루크레치아/3/1.webp"
+        },
+        {
+          "ImageUrl": "루크레치아/4/1.webp"
         }
       ],
       "AttkRange": 2,
