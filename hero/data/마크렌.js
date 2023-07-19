@@ -128,7 +128,7 @@
       "MagicDefRate": 58,
       "Skill": 145,
       "SkillRate": 37,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70</font>% 미만 일 경우 전투 진입시<br/>주는 피해량<font color=\"red\">+10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70</font>% 미만 일 경우 <br/>전투 진입후 받는 피해량<font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
