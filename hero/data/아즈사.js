@@ -119,6 +119,9 @@
         },
         {
           "ImageUrl": "아즈사/3/1.webp"
+        },
+		    {
+          "ImageUrl": "아즈사/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -151,6 +154,9 @@
         },
         {
           "ImageUrl": "아즈사/3/1.webp"
+        },
+		    {
+          "ImageUrl": "아즈사/4/1.webp"
         }
       ],
       "AttkRange": 1,
