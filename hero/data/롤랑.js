@@ -47,7 +47,7 @@
       "Condition": "리스틸의 도움을 받아 운명의 문5 클리어"
     }
   ],
-  "HeartFetter": "",
+  "HeartFetter": "생명+650, 방어+40, 마방+50",
   "Talent": [
     {
       "Name": "성스러운 빛의 검",
@@ -319,7 +319,7 @@
     },
     {
       "Name": "주형",
-      "Cost": "COST 2",
+      "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
@@ -345,7 +345,7 @@
     },
     {
       "Name": "찬란한 빛의 검",
-      "Cost": "-",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",

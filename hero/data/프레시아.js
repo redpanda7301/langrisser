@@ -47,7 +47,7 @@
       "Condition": "레온의 도움을 받아 운명의문5 클리어"
     }
   ],
-  "HeartFetter": "",
+  "HeartFetter": "생명+800, 방어+50, 마방+30",
   "Talent": [
     {
       "Name": "시침",
@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">10</font>%<br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">10</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+10</font>%<br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">10</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">15</font>%<br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">20</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+15</font>%<br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">20</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">20</font>%<br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">30</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+20</font>%<br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">30</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">30</font>%<br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">50</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+30</font>%<br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">50</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
         }
       ]
     }
@@ -158,7 +158,7 @@
   },
   "ClassUp": [
     {
-      "ClassTitle": "유적 소녀 :",
+      "ClassTitle": "유적 소녀 : 생명+36, 공격+9",
       "Tiers": [
         {
           "Name": "T1",
@@ -175,25 +175,25 @@
       ]
     },    
     {
-      "ClassTitle": "투사 : ",
+      "ClassTitle": "투사 : 생명+48, 공격+12",
       "Tiers": [
 
       ]       
     },
     {
-      "ClassTitle": "투신 : ",
+      "ClassTitle": "투신 : 생명+90, 공격+25, 방어+10",
       "Tiers": [
        
       ]
     },
     {
-      "ClassTitle": "먼지투성이 소녀 : 생명+48, 방어+8",
+      "ClassTitle": "먼지투성이 소녀 : 공격+12, 기술+5",
       "Tiers": [
         
       ]
     },
     {
-      "ClassTitle": "시간을 꿰뚫는 신의 호박 :",
+      "ClassTitle": "시간을 꿰뚫는 신의 호박 : 생명+150, 공격+15, 마방+10",
       "Tiers": [
       ]
     }

@@ -43,7 +43,7 @@
       "Condition": "정령 검사 전직"
     }
   ],
-  "HeartFetter": "",
+  "HeartFetter": "생명+750, 방어+50, 마방+50",
   "Talent": [
     {
       "Name": "키메라 광전사",
@@ -380,7 +380,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지원"
+          "Value": "미법 피해"
         },
         {
           "Label": "쿨타임",

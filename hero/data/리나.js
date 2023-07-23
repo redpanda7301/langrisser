@@ -47,7 +47,7 @@
       "Condition": "신을 멸하는 마검사 전직"
     }
   ],
-  "HeartFetter": "",
+  "HeartFetter": "생명+550, 방어+40, 마방+50",
   "Talent": [
     {
       "Name": "천재 마도사",
@@ -140,7 +140,7 @@
       "IntRate": 87,
       "Def": 305,
       "DefRate": 71,
-      "MagicDef": 302,
+      "MagicDef": 303,
       "MagicDefRate": 72,
       "Skill": 144,
       "SkillRate": 41,

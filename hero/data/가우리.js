@@ -47,7 +47,7 @@
       "Condition": "영웅 전직"
     }
   ],
-  "HeartFetter": "",
+  "HeartFetter": "생명+750, 방어+50, 마방+50",
   "Talent": [
     {
       "Name": "빛의 검사",
@@ -115,7 +115,7 @@
       "Skill": 167,
       "SkillRate": 46,
       "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">버프</font> <font color=\"red\">7</font>개 이상 보유 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "<font color=\"blue\">버프</font> <font color=\"red\">7</font>개 이상 보유 시<br/>전투 중 주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "영웅",
@@ -143,7 +143,7 @@
       "MagicDefRate": 62,
       "Skill": 167,
       "SkillRate": 46,
-      "HeartFetterBouns1": "<font color=\"blue\">버프</font> <font color=\"red\">5</font>개 이상 보유 시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "<font color=\"blue\">버프</font> <font color=\"red\">5</font>개 이상 보유 시<br/>전투 중 받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만일 경우<br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
