@@ -340,16 +340,28 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "검기",
-      "Cost": "COST 1",
+      "Name": "바람 칼날",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
-          "Value": "패시브"
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_DoubleAttack.webp",
-      "Desc": "공격하여 전투 후 주위 <font color=\"Red\">1</font>바퀴 범위 내<br/>모든 적군에게 <font color=\"Red\">0.1</ont>배 <font color=\"blue\">범위 피해</font>를 입힌다.",
+      "IconImageUrl": "../img/skills/0.webp",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.5</font>배의 피해<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
       "SubSkills": null,
       "Animation": null
     },
