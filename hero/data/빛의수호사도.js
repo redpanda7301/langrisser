@@ -7,7 +7,11 @@
     },
     {
       "ImageUrl": "빛의수호사도/2.webp",
-      "Desc": "스킨상점"
+      "Desc": "빛의메아리"
+    },
+    {
+      "ImageUrl": "빛의수호사도/2.webp",
+      "Desc": "형귀스킨"
     }
   ],
   "Name": "빛의 수호사도",
@@ -99,6 +103,9 @@
         },
         {
           "ImageUrl": "빛의수호사도/2/1.webp"
+        },
+        {
+          "ImageUrl": "빛의수호사도/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -128,6 +135,9 @@
         },
         {
           "ImageUrl": "빛의수호사도/2/1.webp"
+        },
+        {
+          "ImageUrl": "빛의수호사도/3/1.webp"
         }
       ],
       "AttkRange": 1,

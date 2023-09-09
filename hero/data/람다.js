@@ -16,6 +16,10 @@
     {
       "ImageUrl": "람다/4.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "람다/5.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "람다",
@@ -122,6 +126,9 @@
         },
         {
           "ImageUrl": "람다/4/1.webp"
+        },
+        {
+          "ImageUrl": "람다/5/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -157,6 +164,9 @@
         },
         {
           "ImageUrl": "람다/4/1.webp"
+        },
+        {
+          "ImageUrl": "람다/5/1.webp"
         }
       ],
       "AttkRange": 2,

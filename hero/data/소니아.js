@@ -12,6 +12,10 @@
     {
       "ImageUrl": "소니아/2.webp",
       "Desc": "비경상점"
+    },
+    {
+      "ImageUrl": "소니아/3.webp",
+      "Desc": "비경상점"
     }
   ],
   "Name": "소니아",
@@ -112,6 +116,9 @@
         },
         {
           "ImageUrl": "소니아/2/1.webp"
+        },
+        {
+          "ImageUrl": "소니아/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -144,6 +151,9 @@
         },
         {
           "ImageUrl": "소니아/2/1.webp"
+        },
+        {
+          "ImageUrl": "소니아/3/1.webp"
         }
       ],
       "AttkRange": 2,

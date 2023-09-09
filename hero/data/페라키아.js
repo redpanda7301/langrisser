@@ -8,6 +8,10 @@
     {
       "ImageUrl": "페라키아/2.webp",
       "Desc": "서밋아레나 S2 골드스킨"
+    },
+    {
+      "ImageUrl": "페라키아/3.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "페라키아",
@@ -106,6 +110,9 @@
         },
         {
           "ImageUrl": "페라키아/2/1.webp"
+        },
+        {
+          "ImageUrl": "페라키아/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -135,6 +142,9 @@
         },
         {
           "ImageUrl": "페라키아/2/1.webp"
+        },
+        {
+          "ImageUrl": "페라키아/3/2.webp"
         }
       ],
       "AttkRange": 2,

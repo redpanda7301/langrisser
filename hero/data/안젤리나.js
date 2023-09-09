@@ -20,6 +20,10 @@
     {
       "ImageUrl": "안젤리나/5.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "안젤리나/6.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "안젤리나",
@@ -128,6 +132,9 @@
         },
         {
           "ImageUrl": "안젤리나/5/1.webp"
+        },
+        {
+          "ImageUrl": "안젤리나/6/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -166,6 +173,9 @@
         },
         {
           "ImageUrl": "안젤리나/5/2.webp"
+        },
+        {
+          "ImageUrl": "안젤리나/6/2.webp"
         }
       ],
       "AttkRange": 1,

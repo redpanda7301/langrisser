@@ -25,6 +25,10 @@
       "ImageUrl": "리아나/6.webp",
       "Desc": "한정판매"
     },
+    {
+      "ImageUrl": "리아나/7.webp",
+      "Desc": "페이백 이벤트"
+    }
   ],
   "Name": "리아나",
   "CV": "코시미즈 아미",
@@ -130,6 +134,9 @@
         },
         {
           "ImageUrl": "리아나/6/1.webp"
+        },
+        {
+          "ImageUrl": "리아나/7/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -171,6 +178,9 @@
         },
         {
           "ImageUrl": "리아나/6/1.webp"
+        },
+        {
+          "ImageUrl": "리아나/7/1.webp"
         }
       ],
       "AttkRange": 2,

@@ -16,6 +16,10 @@
     {
       "ImageUrl": "리스틸/4.webp",
       "Desc": "서밋아레나 S4 패자스킨"
+    },
+    {
+      "ImageUrl": "리스틸/5.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "리스틸",
@@ -119,6 +123,9 @@
         },
         {
           "ImageUrl": "리스틸/4/1.webp"
+        },
+        {
+          "ImageUrl": "리스틸/5/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -154,6 +161,9 @@
         },
         {
           "ImageUrl": "리스틸/4/2.webp"
+        },
+        {
+          "ImageUrl": "리스틸/5/2.webp"
         }
       ],
       "AttkRange": 1,

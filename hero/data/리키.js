@@ -8,6 +8,10 @@
     {
       "ImageUrl": "리키/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "리키/3.webp",
+      "Desc": "빛의 메아리"
     }
   ],
   "Name": "리키",

@@ -404,7 +404,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/skills/Zion/1.webp",
+      "IconImageUrl": "../img/skills/Zion/2.webp",
       "Desc": "직선상 단일 위치를 선택, 그 후 다시 수직 방향으로 종점을 선택<br/> 경로 위에 있는 적에게 <font color=\"red\">0.2</font>배 피해",
       "SubSkills": null,
       "Animation": null
@@ -444,7 +444,7 @@
           "Value": "직선"
         }
       ],
-      "IconImageUrl": "../img/skills/Julian/2.webp",
+      "IconImageUrl": "../img/skills/Zion/3.webp",
       "Desc": "직선상 적에게<font color=\"red\">0.25</font>배 피해<br/>명중한 적에게 <font color=\"blue\">열상</font> <font color=\"red\">1</font>스택 부여<br/>사용 후<br/><font color=\"red\">2</font>칸 범위 안 방어 지형으로 <font color=\"blue\">텔레포트</font> 가능",
       "SubSkills": null,
       "Animation": null

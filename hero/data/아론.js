@@ -4,6 +4,10 @@
     {
       "ImageUrl": "아론/1.webp",
       "Desc": "기본"
+    },
+    {
+      "ImageUrl": "아론/2.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "아론",
@@ -84,6 +88,9 @@
       "SD": [
         {
           "ImageUrl": "아론/1/1.webp"
+        },
+        {
+          "ImageUrl": "아론/2/1.webp"
         }
       ],
       "AttkRange": 1,
