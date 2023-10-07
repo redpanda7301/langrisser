@@ -10,7 +10,7 @@
       "Desc": "빛의메아리"
     },
     {
-      "ImageUrl": "빛의수호사도/2.webp",
+      "ImageUrl": "빛의수호사도/3.webp",
       "Desc": "형귀스킨"
     }
   ],
@@ -80,7 +80,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "잿불의 파수(투구)",
+    "Stats": "생명 364,마방 65",
+    "Icon": "빛의수호사도.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>자신이 보유한 <font color=\"blue\">거울의 빛</font> <font color=\"red\">1</font> 스택 당 <font color=\"blue\">부대 피해</font> <font color=\"blue\">+2</font>%<br/>행동 종료 시 <font color=\"red\">5</font>스택을 보유하고 있을 경우 생명이 가장 낮은 아군을 지력 <font color=\"red\">2.5</font>배 수치로 <font color=\"green\">회복</font>"
+  },
   "Soldiers": [
     4,
     58,
@@ -91,7 +96,8 @@
     77,
     30,
     19,
-    91
+    91,
+    98
   ],
   "Jobs": [
     {

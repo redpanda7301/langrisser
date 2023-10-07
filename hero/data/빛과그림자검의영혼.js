@@ -8,6 +8,10 @@
     {
       "ImageUrl": "빛과그림자검의영혼/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "빛과그림자검의영혼/3.webp",
+      "Desc": "형귀스킨"
     }
   ],
   "Name": "빛과 그림자 검의영혼",
@@ -97,6 +101,9 @@
         },
         {
           "ImageUrl": "빛과그림자검의영혼/2/1.webp"
+        },
+        {
+          "ImageUrl": "빛과그림자검의영혼/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -126,6 +133,9 @@
         },
         {
           "ImageUrl": "빛과그림자검의영혼/2/1.webp"
+        },
+        {
+          "ImageUrl": "빛과그림자검의영혼/3/1.webp"
         }
       ],
       "AttkRange": 1,

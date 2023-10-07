@@ -86,7 +86,8 @@
     39,
     90,
     81,
-    84
+    84,
+    99
   ],
   "Jobs": [
     {
@@ -554,7 +555,7 @@
       "Animation": "../img/Super/님프_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  

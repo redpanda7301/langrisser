@@ -74,7 +74,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "심모원려",
+    "Stats": "공격,방어 <font color=\"red\">+5</font>%<br/><font color=\"blue\">장막의 그림자</font>와 <font color=\"blue\">반계</font> 지속 시간 <font color=\"red\">+1</font>"
+  },
   "Equip": {
     "Name": "예지(투구)",
     "Stats": "생명 583,마방 48",
@@ -91,7 +94,8 @@
     61,
     66,
     74,
-    80
+    80,
+    96
   ],
   "Jobs": [
     {

@@ -79,7 +79,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "어두운 달의 소용돌이",
+    "Stats": "공격 <font color=\"red\">+10</font>%<br/><font color=\"blue\">달의 조수</font>로 적 격파시 해당 스킬 <font color=\"blue\">쿨타임</font> <font color=\"red\">-1</font>"
+  },
   "Equip": {
     "Name": "성간함의 결의(투구)",
     "Stats": "생명 437,마방 59",
@@ -95,7 +98,8 @@
     84,
     69,
     77,
-    90
+    90,
+    99
   ],
   "Jobs": [
     {

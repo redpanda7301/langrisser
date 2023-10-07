@@ -24,13 +24,13 @@
     7,
     8
   ],
-  "HP": 20,
+  "HP": 25,
   "SPHP": 0,
   "Attk": 30,
   "SPAttk": 0,
-  "Def": 35,
+  "Def": 25,
   "SPDef": 0,
-  "MagicDef": 10,
+  "MagicDef": 20,
   "SPMagicDef": 0,
   "HowToGet": "이벤트 획득",
   "Fetters": [
@@ -50,58 +50,47 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "",
-      "Icon": "37.webp",
+      "Name": "항로 개척",
+      "Icon": "Gift_BlackJack.webp",
       "Abilities": [
         {
           "Desc": "1성"
         },
         {
-          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+1%</font> 증가(최대 <font color=\"red\">25%</font>)<br/>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">1</font>칸 만큼 이동력 저하 무시"
+          "Desc": "2성"
         },
         {
-          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+2%</font> 증가(최대 <font color=\"red\">25%</font>)<br/>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">2</font>칸 만큼 이동력 저하 무시"
+          "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+15</font>%<br/>행동 종료 시 목표 지점에 항로 표식 설치, 쿨타임<font color=\"red\">3</font><br/><font color=\"purple\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15</font>% <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+3%</font> 증가(최대 <font color=\"red\">25%</font>)<br/>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">3</font>칸 만큼 이동력 저하 무시"
+          "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+20</font>%<br/>행동 종료 시 목표 지점에 항로 표식 설치, 쿨타임<font color=\"red\">2</font><br/><font color=\"purple\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15</font>% <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+4%</font> 증가(최대 <font color=\"red\">25%</font>)<br/>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">4</font>칸 만큼 이동력 저하 무시"
+          "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+25</font>%<br/>행동 종료 시 목표 지점에 항로 표식 설치, 쿨타임<font color=\"red\">2</font><br/><font color=\"purple\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15</font>% <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "이동 거리 <font color=\"red\">1</font>칸 당 생명을 제외한 모든 스텟 <font color=\"red\">+5%</font> 증가(최대 <font color=\"red\">25%</font>)<br/>&#39;물&#39; &#39;늪지&#39; &#39;격류&#39; 지형의 경우 <font color=\"red\">5</font>칸 만큼 이동력 저하 무시"
+          "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+30</font>%<br/>행동 종료 시 목표 지점에 항로 표식 설치, 쿨타임<font color=\"red\">1</font><br/><font color=\"purple\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15</font>% <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
         }
       ]
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": {
-    "Name" : "일어서는 파도",
-    "Stats": "공격 <font color=\"red\">+10</font>%<br/>자신이 <font color=\"blue\">수중 지형</font>에 있는 상태에서 <font color=\"blue\">노도 돌진</font> 사용 시<br/>전투 후 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
-  },
-  "Equip": {
-    "Name": "오션즈 하트(장신구)",
-    "Stats": "공격 75, 기술 37",
-    "Icon": "잭.webp",
-    "Ability": "공격+8%<br/>전투진입전 적군이 '수병'이아닐경우 적군의 지형을 '수중'으로 간주, 1턴 지속.<br/>만약 자신부대의 생명이 100%라면 자신의 지형을 '수중'으로 간주, 1턴 지속.<br/>자신에게 발동하는 '수중'효과는 발동후 2턴후 재발동가능."
-  },
+  "Second_Awaken": null,
+  "Equip": null,
   "Soldiers": [
-    29,
-    31,
-    38,
+    28,
     42,
-    52,
-    58,
-    60,
-    69,
-    78,
-    84,
-    90
+    41,
+    34,
+    86,
+    38,
+    30,
+    69
   ],
-  "Jobs": [
+  "Jobs": [    
     {
-      "Name": "서펜트 마스터",
-      "Icon": "Icon_Occupation_Water.webp",
+      "Name": "검투사 대장",
+      "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
           "ImageUrl": "잭/1/1.webp"
@@ -112,25 +101,25 @@
       ],
       "AttkRange": 1,
       "Move": 3,
-      "MoveType": "Water",
-      "HP": 4257,
-      "HPRate": 70,
-      "Attk": 523,
-      "AttkRate": 80,
-      "Int": 226,
-      "IntRate": 37,
-      "Def": 346,
-      "DefRate": 76,
-      "MagicDef": 264,
-      "MagicDefRate": 58,
-      "Skill": 113,
-      "SkillRate": 32,
-      "HeartFetterBouns1": "수중에서 받는 마법피해 -10%",
-      "HeartFetterBouns2": "수중에서 치명타확률 +10%"
+      "MoveType": "Walk",
+      "HP": 4057,
+      "HPRate": 67,
+      "Attk": 552,
+      "AttkRate": 84,
+      "Int": 269,
+      "IntRate": 47,
+      "Def": 314,
+      "DefRate": 71,
+      "MagicDef": 271,
+      "MagicDefRate": 59,
+      "Skill": 153,
+      "SkillRate": 44,
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "물리피격으로 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     },
     {
-      "Name": "소드 마스터",
-      "Icon": "Icon_Occupation_Infantryman.webp",
+      "Name": "바다를 누비는 왕",
+      "Icon": "Icon_Occupation_Water.webp",
       "SD": [
         {
           "ImageUrl": "잭/1/2.webp"
@@ -141,245 +130,183 @@
       ],
       "AttkRange": 1,
       "Move": 3,
-      "MoveType": "Walk",
-      "HP": 4257,
-      "HPRate": 70,
-      "Attk": 523,
+      "MoveType": "Water",
+      "HP": 4387,
+      "HPRate": 72,
+      "Attk": 525,
       "AttkRate": 80,
-      "Int": 249,
-      "IntRate": 41,
-      "Def": 346,
-      "DefRate": 76,
-      "MagicDef": 282,
-      "MagicDefRate": 62,
-      "Skill": 148,
-      "SkillRate": 42,
-      "HeartFetterBouns1": "받는 범위피해 -10%",
-      "HeartFetterBouns2": "생명 비율이 낮은 상대에게 공격하여 전투진입시 입히는피해 +10%"
+      "Int": 324,
+      "IntRate": 61,
+      "Def": 326,
+      "DefRate": 73,
+      "MagicDef": 271,
+      "MagicDefRate": 59,
+      "Skill": 129,
+      "SkillRate": 41,
+      "HeartFetterBouns1": "생명 백분비가 자신 부대보다 낮은 적과 교전 시<br/> 전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">80</font>% 이상일 경우<br/>전투중 주는 피해량 <font color=\"Red\">+10</font>%"
     }
   ],
   "Materials": {
     "HeartFetter": [
-      "h4",
-      "h1",
-      "h3",
-      "h2",
-      "h4-1",
-      "h1-1",
-      "h3-1",
-      "h2-1",
-      "x"
+      
     ],
     "Fetter": [
-      "5",
-      "5-1",
-      "5-2",
-      "5-3",
-      "5-4"
+      
     ],
-    "Awaken": [
-      "ranka2",
-      "ranka5",
-      "ranka2-1",
-      "ranka5-1"
+    "Awaken": [      
     ]
   },
   "ClassUp": [
     {
-      "ClassTitle": "파이터 : 공격+9, 생명+36",
+      "ClassTitle": "검사 : 공격+9, 생명+36",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
-            "rank1-1"
+           
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank1-1"
           ]
         }
       ]
     },
     {
-      "ClassTitle": "라이더 : 공격+12, 기술+5",
+      "ClassTitle": "검투사 : 공격+12, 기술+5",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
-            "rank2-6",
-            "rank1-2",
-            "rank1-1"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank3-2",
-            "rank3-1",
-            "rank2-3",
-            "rank2-6"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank4-3",
-            "rank4-1",
-            "rank3-2",
-            "rank3-1"
           ]
         }
       ]
     },
     {
-      "ClassTitle": "서펜트나이트 : 생명+80, 방어+5",
+      "ClassTitle": "검투사 대장 : 생명+90, 공격+25, 방어+10",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
-            "rank2-1",
-            "rank1-3",
-            "rank1-2"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank3-1",
-            "rank3-2",
-            "rank2-1",
-            "rank2-3"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank4-6",
-            "rank4-1",
-            "rank3-1",
-            "rank3-2"
-          ]
-        }
-      ]
-    },
-    {
-      "ClassTitle": "서펜트마스터 : 공격+15, 방어+16, 마방+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-            "rank5-1",
-            "rank5-3",
-            "rank4-3",
-            "rank4-6"
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-            "rank6-3",
-            "rank6-6",
-            "rank5-1",
-            "rank5-3"
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-            "rank7-4",
-            "rank7-1",
-            "rank6-3",
-            "rank6-6"
           ]
         },
         {
           "Name": "T4",
           "Materials": [
-            "rank8-3",
-            "rank8-2",
-            "rank7-4",
-            "rank7-3"
           ]
         }
       ]
     },
     {
-      "ClassTitle": "소드맨 : 생명+80, 기술+5",
+      "ClassTitle": "빛의 항해냥 : 생명+48, 공격+12",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
-            "rank2-1",
-            "rank1-1",
-            "rank1-2"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank3-1",
-            "rank3-6",
-            "rank2-1",
-            "rank2-2"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank4-1",
-            "rank4-2",
-            "rank3-1",
-            "rank3-6"
           ]
         }
       ]
     },
     {
-      "ClassTitle": "소드마스터 : 공격+25, 방어+10, 마방+10",
+      "ClassTitle": "검투사 대장 : 생명+90, 공격+25, 방어+10",
       "Tiers": [
         {
           "Name": "T1",
           "Materials": [
-            "rank5-1",
-            "rank5-6",
-            "rank4-1",
-            "rank4-2"
           ]
         },
         {
           "Name": "T2",
           "Materials": [
-            "rank6-1",
-            "rank6-2",
-            "rank5-1",
-            "rank5-6"
           ]
         },
         {
           "Name": "T3",
           "Materials": [
-            "rank7-2",
-            "rank7-1",
-            "rank6-1",
-            "rank6-2"
           ]
         },
         {
           "Name": "T4",
           "Materials": [
-            "rank8-2",
-            "rank8-1",
-            "rank7-1",
-            "rank7-7"
           ]
         }
       ]
-    }
+    }    
   ],
   "SPOpenConditions": null,
   "Skills": [
+    {
+      "Name": "바람 칼날",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/0.webp",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.5</font>배의 피해<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "무기 파괴",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
+      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font></font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "SubSkills": null,
+      "Animation": null
+    },
     {
       "Name": "거센 파도",
       "Cost": "COST 2",
@@ -402,45 +329,31 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Alfred1.webp",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 모든지형을 수중처럼 이동가능, 지속 1턴",
+      "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해.<br/>전투 후 이동하는 모든 지형을 '<font color=\"blue\">물 속</font>'으로 취급한다.<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "배수의 진",
+      "Name": "항해 비법",
       "Cost": "COST 1",
       "Entries": [
         {
           "Label": "유형",
-          "Value": "패시브"
+          "Value": "패시브 지휘"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
-      "Desc": "[패시브]부대 생명이 50% 이하로 전투 진입 시 방어, 마방 +10%.",
+      "IconImageUrl": "../img/skills/Jack/1.webp",
+      "Desc": "[지휘]아군이 <font color=\"purple\">항로 표식</font> <font color=\"blue\">지휘</font> 범위 안에서 행동 종료 시 무작위 버프 <font color=\"red\">1</font>개 부여",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "방어 대지원",
+      "Name": "파도 타기",
       "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Passive_MDefUp.webp",
-      "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "구급",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "치료"
+          "Value": "지원"
         },
         {
           "Label": "쿨타임",
@@ -455,13 +368,27 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_PHeal2.webp",
-      "Desc": "[치료]액티브 스킬, 자신 부대 생명을 100% 회복한다.",
+      "IconImageUrl": "../img/skills/Skill_WaterControl.webp",
+      "Desc": "사용 후 이동 시 통과하는 모든 지형을 '<font color=\"blue\">물 속</font>'으로 취급한다.<br/><font color=\"red\">2</font>행동 지속.<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font>",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "비치 파티",
+      "Name": "경계",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
+      "Desc": "공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12</font>%",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "파도 타기",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -470,7 +397,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "5턴"
+          "Value": "3턴"
         },
         {
           "Label": "사거리",
@@ -478,96 +405,16 @@
         },
         {
           "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Skill_Alfred2.webp",
-      "Desc": "[지원]액티브 스킬.주위 3칸 범위 내 모든 [수병]의<br/>모든 지형이동시 \"수중\" 처럼 간주한다. 지속 2턴",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "검기",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Passive_DoubleAttack.webp",
-      "Desc": "[패시브]공격하여 전투 후 주위 1칸 범위 내 모든 적군에게 0.1배 범위 피해를 입힌다.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "제압",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
-      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 +12%.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "프로텍션",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "지원"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "1턴"
-        },
-        {
-          "Label": "사거리",
           "Value": "3칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/18.webp",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
+      "IconImageUrl": "../img/skills/Jack/2.webp",
+      "Desc": "범위 안 모든 아군에게 <font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>% 효과 부여<br/>지속 4행동<br/>자신이 아군의 <font color=\"purple\">항로 표식</font> 지휘 범위 안에 있을 경우<br/>범위 안에 있는 보행 및 기병 이동 방식의 아군에게 '<font color=\"blue\">물에서는 부대 이동을 수중 이동으로 간주</font>' 효과 부여<br/>지속 <font color=\"red\">4</font>행동",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "자유의 검",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "물리 피해"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "2턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "1칸"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Skill_Parn2.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배의 피해.<br/>전투 진입전 적군에게 '모든 패시브 스킬의 효과를 무효화' 효과 부여, 지속 1행동.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "노도 돌진",
+      "Name": "약탈이다냥",
       "Cost": "COST 3",
       "Entries": [
         {
@@ -576,7 +423,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "4턴"
+          "Value": "3턴"
         },
         {
           "Label": "사거리",
@@ -588,7 +435,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/잭.webp",
-      "Desc": "[패시브] <b>자신이 <font color=\"blue\">물</font>,<font color=\"dark green\">늪</font>, <font color=\"dark blue\">격류</font> 지형에 위치하지 않고</b>, <br/><b>공격을 하지 않고 행동을 종료 할 경우</b> '파도타기' 효과 획득. 지속 <font color=\"red\">1</font>행동 (쿨타임 <font color=\"red\">1</font>)  <br/><b>선공으로 전투 진입 전 해당 전투에 한해 <font color=\"blue\">자신에게 고정 피해 면역 부여</font></b><br/>[액티브]<font color=\"red\">1.6</font>배 단일 피해, 전투 전, '<font color=\"blue\">패시브 봉인</font>','<font color=\"blue\">강화 불가</font>'효과 부여<br/>(지속 <font color=\"red\">1</font>행동, <b>해제 불가</b>)<br/><b>이동력이 남아있다면 공격 후 재이동 가능</b>",
+      "Desc": "[패시브]<font color=\"blue\">물</font>,<font color=\"dark green\">늪</font>, <font color=\"dark blue\">격류</font> 지형에서 방어 <font color=\"red\">+20</font>%<br/>단일 개체 <font color=\"red\">1.6</font>배 피해, 전투 전 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">약탈</font><br/>전투 후 자신 부대를 아군의 <font color=\"purple\">항로 표식</font> 주위 <font color=\"red\">2</font>칸 범위 내로 <font color=\"blue\">텔레포트</font><br/>적 격파 시 해당 스킬 쿨타임 <font color=\"red\">-2</font>",
       "SubSkills": null,
       "Animation": "../img/Super/잭_Ani.webp"
     }

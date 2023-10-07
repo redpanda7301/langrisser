@@ -525,7 +525,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowRain.webp",
-      "Desc": "[물리 피해]<b>범위 내 모든 적에게</b> <font color=\"red\">0.3</font>배의 범위 피해를 입힌다.<br/><b>'비병'을 상대할 시 더 큰 피해를 준다,<br/> 버프 <font color=\"red\">1</font>개 제거. 전투 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재이동</font> 가능</b>.",
+      "Desc": "범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 범위 피해를 입힌다.<br/><b>'비병'을 상대할 시 더 큰 피해를 준다,<br/> 버프 <font color=\"red\">1</font>개 제거. 전투 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재이동</font> 가능</b>.",
       "SubSkills": null,
       "Animation": null
     },
