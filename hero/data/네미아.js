@@ -94,10 +94,10 @@
       "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": " 네미아/1/1.webp"
+          "ImageUrl": "네미아/1/1.webp"
         },
         {
-          "ImageUrl": " 네미아/2/1.webp"
+          "ImageUrl": "네미아/2/1.webp"
         }        
       ],
       "AttkRange": 2,
@@ -123,10 +123,10 @@
       "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
-          "ImageUrl": " 네미아/1/2.webp"
+          "ImageUrl": "네미아/1/2.webp"
         },
         {
-          "ImageUrl": " 네미아/2/2.webp"
+          "ImageUrl": "네미아/2/2.webp"
         }
       ],
       "AttkRange": 2,
