@@ -16,6 +16,10 @@
     {
       "ImageUrl": "베른하르트/4.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "베른하르트/sp.webp",
+      "Desc": "SP 각성"
     }
   ],
   "Name": "베른하르트",
