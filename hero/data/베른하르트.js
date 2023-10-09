@@ -613,15 +613,15 @@
           "Amount": 600
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Rider1.webp",
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior1.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Rider2.webp",
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior2.webp",
           "Amount": 5
         },
         {
-          "MaterialImgUrl": "../img/stone/StoneA_Rider6.webp",
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior4.webp",
           "Amount": 5
         }
       ],
