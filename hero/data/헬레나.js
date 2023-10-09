@@ -90,7 +90,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "빛나는 수정",
+    "Stats": "공격, 방어 <font color=\"red\">+5</font>%<br/><font color=\"blue\">스킬</font> 사용으로 피해를 입힐 시, 자신이 아군이 생성한 <font color=\"purple\">수정</font> 위에 있을 경우, <font color=\"red\">50</font>% 확률로 스킬 쿨타임 <font color=\"red\">-3</font>",
+  },
   "Equip": {
     "Name": "빛나는 달의 수정갑옷(갑옷)",
     "Stats": "생명 437,방어 65",
