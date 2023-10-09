@@ -2,15 +2,15 @@
 {
   "Skins": [
     {
-      "ImageUrl": " 네미아/1.webp",
+      "ImageUrl": "네미아/1.webp",
       "Desc": "기본"
     },
     {
-      "ImageUrl": " 네미아/2.webp",
+      "ImageUrl": "네미아/2.webp",
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": " 네미아 토와 알마",
+  "Name": "네미아",
   "ChName": "奈米娅",
   "EngName": "Nemia",
   "JapName": "",
@@ -20,7 +20,7 @@
   ],
   "SP": false,
   "Groups": [
-    2,
+    1,
     6,
     7
   ],
