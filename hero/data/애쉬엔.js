@@ -358,8 +358,8 @@
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/Eshean/0_2.webp",
-          "Desc": "<font color=\"purple\">눈부심</font> <font color=\"red\">1</font> 획득<br/>아군 1명에게 '<font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
+          "IconImageUrl": "../img/skills/Eshean/0_3.webp",
+          "Desc": "<font color=\"purple\">눈부심</font> <font color=\"red\">1</font> 획득<br/>행동이 끝난 한 부대 <font color=\"blue\">재행동</font>"
         }
       ],
       "Animation": null
