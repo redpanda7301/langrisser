@@ -513,7 +513,7 @@
       "Name": "개방",
       "Materials": [
         {
-          "MaterialImgUrl": "../img/item/AlterEgo_Bernhardt.webp",
+          "MaterialImgUrl": "../img/item/AlterEgo_Aimeeda.webp",
           "Amount": 1
         }
       ],
