@@ -145,7 +145,7 @@
       "Skill": 171,
       "SkillRate": 60,
       "HeartFetterBouns1": "원거리 피격 시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대가 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 이상 보유 시<br/>전투 중 주는 피해량 <font color=\"red\">+10</font>"
+      "HeartFetterBouns2": "부대가 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 이상 보유 시<br/>전투 중 주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
