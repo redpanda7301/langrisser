@@ -369,7 +369,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Nemia/1.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>전투 후 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">침묵</font> 부여<br/>지속 <font color=\"red\">1</font>행동<br/><b>제거 불가</b>",
+      "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해, 대 수병 특효.<br/>적이 <font color=\"blue\">물</font>에 있을 경우, 전투 진입 시 해당 공격은 <font color=\"blue\">호위 무시</font> 및 전투 전 적 <font color=\"blue\">기절</font><br/>(지속 <font color=\"red\">1</font>행동, 해제 불가)<br/>자신이 <font color=\"purple\">심오한 해류</font> 위치에 있을 경우, 해당 스킬 피해 <font color=\"red\">+20</font>%",
       "SubSkills": null,
       "Animation": null
     },
