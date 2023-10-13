@@ -948,7 +948,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/sp/아멜다/0_1.webp",
-          "Desc": ""
+          "Desc": "[액티브] 해당 행동 <font color=\"green\">치유</font> 효과 <font color=\"red\">+50</font>%<br/>행동 종료 시, <font color=\"purple\">고유 스킬</font> 발동으로 회복하는 아군 <font color=\"red\">1</font>명 추가"
         },
         {
           "Name": "여신은 너를 사랑해~",
@@ -971,14 +971,14 @@
             }
           ],
           "IconImageUrl": "../img/skills/sp/아멜다/0_2.webp",
-          "Desc": ""
+          "Desc": "[액티브]부대 하나에게 '<font color=\"blue\">선공으로 전투 진입 시, 전투 전 적에게 무작위 디버프</font> <font color=\"red\">2</font>개 부여' 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
           "Name": "내가, 보젤?",
           "Entries": [
             {
               "Label": "유형",
-              "Value": "지원"
+              "Value": "마법 피해"
             },
             {
               "Label": "쿨타임",
@@ -994,7 +994,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/sp/아멜다/0_3.webp",
-          "Desc": ""
+          "Desc": "전장에 있는 적 하나에게 <font color=\"red\">0.2</font>배 피해 및 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">무작위</font> 부여"
         }
       ],
       "Animation": null
