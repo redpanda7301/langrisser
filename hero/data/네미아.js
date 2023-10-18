@@ -130,8 +130,8 @@
         }
       ],
       "AttkRange": 2,
-      "Move": 3,
-      "MoveType": "Walk",
+      "Move": 4,
+      "MoveType": "Water",
       "HP": 3765,
       "HPRate": 62,
       "Attk": 578,
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "ClassTitle": "여왕의 희망 : 생명+90, 공격+25, 마방+10",
+      "ClassTitle": "엘프의 희망 : 생명+90, 공격+25, 마방+10",
       "Tiers": [
         {
           "Name": "T1",
