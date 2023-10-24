@@ -188,7 +188,7 @@
   "SPOpenConditions": null,
   "Skills": [    
     {
-      "Name": "참요검",
+      "Name": "블래스트 소드",
       "Cost": "COST 2",
       "Entries": [
         {
