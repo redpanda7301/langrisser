@@ -12,7 +12,7 @@
   ],
   "Name": "호프만",
   "CV": "나미카와 다이스케",
-  "ChName": "艾希恩",
+  "ChName": "霍夫曼",
   "EngName": "Hofmann",
   "JapName": "",
   "Rank": [
