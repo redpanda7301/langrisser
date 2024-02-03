@@ -4,6 +4,10 @@
     {
       "ImageUrl": "안나/1.webp",
       "Desc": "기본"
+    },
+    {
+      "ImageUrl": "안나/2.webp",
+      "Desc": "서밋아레나 시즌17 골드스킨"
     }
   ],
   "Name": "안나",
@@ -30,10 +34,10 @@
   "HowToGet": "영웅 소환, 우정티켓 소환",
   "Fetters": [
     {
-      "Condition": "안나를 레벨 30 달성"
+      "Condition": "안나를 레벨 30 달성"
     },
     {
-      "Condition": "안나를 오라클로 전직"
+      "Condition": "안나를 오라클로 전직"
     },
     {
       "Condition": "파나를 도와 운명의 문 4를 클리어"
@@ -52,19 +56,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "자신 부대 생명 <font color=\"red\">+10%</font>. 아군에게 스킬 시전 시 무작위 버프 <font color=\"red\">1개</font> 추가 부여."
+          "Desc": "자신 부대 생명 <font color=\"red\">+10%</font>. 아군에게 스킬 시전 시 무작위 버프 <font color=\"red\">1개</font> 추가 부여."
         },
         {
-          "Desc": "자신 부대 생명 <font color=\"red\">+12%</font>. 아군에게 스킬 시전 시 무작위 버프 <font color=\"red\">1개</font> 추가 부여."
+          "Desc": "자신 부대 생명 <font color=\"red\">+12%</font>. 아군에게 스킬 시전 시 무작위 버프 <font color=\"red\">1개</font> 추가 부여."
         },
         {
-          "Desc": "자신 부대 생명 <font color=\"red\">+14%</font>. 아군에게 스킬 시전 시 무작위 버프 <font color=\"red\">1개</font> 추가 부여."
+          "Desc": "자신 부대 생명 <font color=\"red\">+14%</font>. 아군에게 스킬 시전 시 무작위 버프 <font color=\"red\">1개</font> 추가 부여."
         },
         {
-          "Desc": "자신 부대 생명 <font color=\"red\">+16%</font>. 아군에게 스킬 시전 시 무작위 버프 <font color=\"red\">1개</font> 추가 부여."
+          "Desc": "자신 부대 생명 <font color=\"red\">+16%</font>. 아군에게 스킬 시전 시 무작위 버프 <font color=\"red\">1개</font> 추가 부여."
         },
         {
-          "Desc": "자신 부대 생명 <font color=\"red\">+20%</font>. 아군에게 스킬 시전 시 무작위 버프 <font color=\"red\">1개</font> 추가 부여."
+          "Desc": "자신 부대 생명 <font color=\"red\">+20%</font>. 아군에게 스킬 시전 시 무작위 버프 <font color=\"red\">1개</font> 추가 부여."
         }
       ]
     }
@@ -89,6 +93,9 @@
       "SD": [
         {
           "ImageUrl": "안나/1/1.webp"
+        },
+        {
+          "ImageUrl": "안나/2/1.webp"
         }
       ],
       "AttkRange": 2,

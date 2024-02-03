@@ -34,10 +34,10 @@
   "HowToGet": "영웅 소환, 우정티켓 소환",
   "Fetters": [
     {
-      "Condition": "레아드를 출전시켜 아레나에서 5회 승리"
+      "Condition": "레아드를 출전시켜 아레나에서 5회 승리"
     },
     {
-      "Condition": "레아드를 출전시켜 시공의 균열 3-1[정예] 클리어"
+      "Condition": "레아드를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
       "Condition": "헤인을 도와 운명의 문3 클리어"
@@ -56,19 +56,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 상태에서 공격하여 전투 진입 시 부대의 공격 방어 <font color=\"red\">+10%</font>."
+          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 상태에서 공격하여 전투 진입 시 부대의 공격 방어 <font color=\"red\">+10%</font>."
         },
         {
-          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 상태에서 공격하여 전투 진입 시 부대의 공격 방어 <font color=\"red\">+15%</font>."
+          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 상태에서 공격하여 전투 진입 시 부대의 공격 방어 <font color=\"red\">+15%</font>."
         },
         {
-          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 상태에서 공격하여 전투 진입 시 부대의 공격 방어 <font color=\"red\">+20%</font>."
+          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 상태에서 공격하여 전투 진입 시 부대의 공격 방어 <font color=\"red\">+20%</font>."
         },
         {
-          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 상태에서 공격하여 전투 진입 시 부대의 공격 방어 <font color=\"red\">+25%</font>."
+          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 상태에서 공격하여 전투 진입 시 부대의 공격 방어 <font color=\"red\">+25%</font>."
         },
         {
-          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 상태에서 공격하여 전투 진입 시 부대의 공격 방어 <font color=\"red\">+30%</font>."
+          "Desc": "생명이 <font color=\"red\">80%</font> 이상인 상태에서 공격하여 전투 진입 시 부대의 공격 방어 <font color=\"red\">+30%</font>."
         }
       ]
     }
@@ -361,7 +361,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
-      "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
+      "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
     },

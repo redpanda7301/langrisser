@@ -62,7 +62,7 @@
   "HeartFetter": "생명+750, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "우정의 유대",
+      "Name": "우정의 유대",
       "Icon": "0.webp",
       "Abilities": [
         {

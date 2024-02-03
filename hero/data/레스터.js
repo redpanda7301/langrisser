@@ -49,7 +49,7 @@
   "HeartFetter": "생명+800, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "수상전 명장",
+      "Name": "수상전 명장",
       "Icon": "14.webp",
       "Abilities": [
         {
@@ -361,7 +361,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf3.webp",
-      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
+      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

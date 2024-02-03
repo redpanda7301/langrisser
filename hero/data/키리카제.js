@@ -34,16 +34,16 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "키리카제를 레벨 30 달성"
+      "Condition": "키리카제를 레벨 30 달성"
     },
     {
-      "Condition": "키리카제를 출전시켜 시공의 균열 3-1[정예] 클리어"
+      "Condition": "키리카제를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "루인의 도움 하에 '검을 전해 준 친구' 클리어"
+      "Condition": "루인의 도움 하에 '검을 전해 준 친구' 클리어"
     },
     {
-      "Condition": "디하르트의 도움 하에 '마음의 전승' 클리어"
+      "Condition": "디하르트의 도움 하에 '마음의 전승' 클리어"
     }
   ],
   "HeartFetter": "생명+650, 방어+50, 마방+40",
@@ -56,19 +56,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "치명타율 +5%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">15%</font>만큼 회복.<br/> 동시에 <font color=\"red\">50%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
+          "Desc": "치명타율 +5%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">15%</font>만큼 회복.<br/> 동시에 <font color=\"red\">50%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
         },
         {
-          "Desc": "치명타율 +7%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">15%</font>만큼 회복.<br/> 동시에 <font color=\"red\">60%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
+          "Desc": "치명타율 +7%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">15%</font>만큼 회복.<br/> 동시에 <font color=\"red\">60%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
         },
         {
-          "Desc": "치명타율 +9%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">20%</font>만큼 회복.<br/> 동시에 <font color=\"red\">60%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
+          "Desc": "치명타율 +9%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">20%</font>만큼 회복.<br/> 동시에 <font color=\"red\">60%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
         },
         {
-          "Desc": "치명타율 +12%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">20%</font>만큼 회복.<br/> 동시에 <font color=\"red\">80%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
+          "Desc": "치명타율 +12%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">20%</font>만큼 회복.<br/> 동시에 <font color=\"red\">80%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
         },
         {
-          "Desc": "치명타율 +15%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">30%</font>만큼 회복.<br/> 동시에 <font color=\"red\">100%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
+          "Desc": "치명타율 +15%. 전투 중 치명타 발생 시 전투 후 가한 피해량의 <font color=\"red\">30%</font>만큼 회복.<br/> 동시에 <font color=\"red\">100%</font> 확률로 스킬 쿨타임 <font color=\"red\">-1턴</font>."
         }
       ]
     }
@@ -482,7 +482,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_CriBuf.webp",
-      "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
+      "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -536,7 +536,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf6.webp",
-      "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
+      "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
     },

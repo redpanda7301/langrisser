@@ -29,10 +29,10 @@
   "HowToGet": "영웅 소환, 우정티켓 소환",
   "Fetters": [
     {
-      "Condition": "키스를 출전시켜 시공의 균열 3-6 클리어"
+      "Condition": "키스를 출전시켜 시공의 균열 3-6 클리어"
     },
     {
-      "Condition": "키스를 드래곤 마스터로 전직"
+      "Condition": "키스를 드래곤 마스터로 전직"
     },
     {
       "Condition": "쉐리를 도와 운명의 문 5를 클리어"
@@ -44,7 +44,7 @@
   "HeartFetter": "생명+500, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "신중한 수장",
+      "Name": "신중한 수장",
       "Icon": "6.webp",
       "Abilities": [
         {
@@ -351,7 +351,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
-      "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
     },

@@ -15,7 +15,7 @@
     },
     {
       "ImageUrl": "소니아/3.webp",
-      "Desc": "비경상점"
+      "Desc": "한정판매"
     }
   ],
   "Name": "소니아",
@@ -58,7 +58,7 @@
   "HeartFetter": "생명+550, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "마성의 피",
+      "Name": "마성의 피",
       "Icon": "24.webp",
       "Abilities": [
         {
@@ -474,7 +474,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf3.webp",
-      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
+      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

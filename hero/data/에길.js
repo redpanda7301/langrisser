@@ -102,7 +102,8 @@
     89,
     95,
     98,
-    101
+    101,
+    102
   ],
   "Jobs": [
     {
@@ -510,7 +511,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "주위 <font color=\"red\">3</font>칸내 아군 부대가 전투 시 기술 <font color=\"red\">+20</font>%.",
+      "Desc": "주위 <font color=\"red\">3</font>칸내 아군 부대가 전투 시 기술 <font color=\"red\">+20</font>%.",
       "SubSkills": null,
       "Animation": null
     },    {

@@ -72,16 +72,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-5</font>%.<br/> 영웅 생명 <font color=\"red\">100%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-5</font>%.<br/> 영웅 생명 <font color=\"red\">100%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-8</font>%.<br/> 영웅 생명 <font color=\"red\">90%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-8</font>%.<br/> 영웅 생명 <font color=\"red\">90%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-11</font>%.<br/> 영웅 생명 <font color=\"red\">75%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-11</font>%.<br/> 영웅 생명 <font color=\"red\">75%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-15</font>%.<br/> 영웅 생명 <font color=\"red\">50%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-15</font>%.<br/> 영웅 생명 <font color=\"red\">50%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         }
       ]
     }
@@ -98,16 +98,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-10</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">30</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-10</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">30</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-15</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">40</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-15</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">40</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-20</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">50</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-20</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">50</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-25</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">70</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-25</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">70</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
         }
       ]
     }

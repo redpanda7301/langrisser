@@ -85,11 +85,12 @@
     85,
     12,
     2,
-    7
+    7,
+    102
   ],
   "Jobs": [
     {
-      "Name": "용익궁 연주자",
+      "Name": "성인가의 무녀",
       "Icon": "Icon_Occupation_Archer.webp",
       "SD": [
         {
@@ -97,35 +98,6 @@
         },
         {
           "ImageUrl": "키리카/2/1.webp"
-        }        
-      ],
-      "AttkRange": 2,
-      "Move": 3,
-      "MoveType": "Walk",
-      "HP": 3608,
-      "HPRate": 62,
-      "Attk": 570,
-      "AttkRate": 84,
-      "Int": 249,
-      "IntRate": 40,
-      "Def": 275,
-      "DefRate": 61,
-      "MagicDef": 290,
-      "MagicDefRate": 67,
-      "Skill": 255,
-      "SkillRate": 71,
-      "HeartFetterBouns1": "근접 공격 피격 시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
-    },
-    {
-      "Name": "가무희",
-      "Icon": "Icon_Occupation_Archer.webp",
-      "SD": [
-        {
-          "ImageUrl": "키리카/1/2.webp"
-        },
-        {
-          "ImageUrl": "키리카/2/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -145,6 +117,35 @@
       "SkillRate": 65,
       "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "자신 부대 보다 생명 백분비가 높은 적을 선공 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
+    },
+    {
+      "Name": "용익궁 연주자",
+      "Icon": "Icon_Occupation_Archer.webp",
+      "SD": [
+        {
+          "ImageUrl": "키리카/1/2.webp"
+        },
+        {
+          "ImageUrl": "키리카/2/2.webp"
+        }        
+      ],
+      "AttkRange": 2,
+      "Move": 3,
+      "MoveType": "Walk",
+      "HP": 3608,
+      "HPRate": 62,
+      "Attk": 570,
+      "AttkRate": 84,
+      "Int": 249,
+      "IntRate": 40,
+      "Def": 275,
+      "DefRate": 61,
+      "MagicDef": 290,
+      "MagicDefRate": 67,
+      "Skill": 255,
+      "SkillRate": 71,
+      "HeartFetterBouns1": "근접 공격 피격 시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {

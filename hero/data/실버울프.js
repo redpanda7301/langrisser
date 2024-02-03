@@ -38,10 +38,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "실버울프를 출전시켜 시공의 균열 3-6 클리어"
+      "Condition": "실버울프를 출전시켜 시공의 균열 3-6 클리어"
     },
     {
-      "Condition": "실버울프를 출전시켜 시공의 균열 3-1[정예] 클리어"
+      "Condition": "실버울프를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
       "Condition": "프레아의 도움 하에 '비밀 상단!?' 클리어"
@@ -60,19 +60,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+3%</font> 최대 <font color=\"red\">+9%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">1개</font> 탈취."
+          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+3%</font> 최대 <font color=\"red\">+9%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">1개</font> 탈취."
         },
         {
-          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+4%</font> 최대 <font color=\"red\">+12%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">1개</font> 탈취."
+          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+4%</font> 최대 <font color=\"red\">+12%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">1개</font> 탈취."
         },
         {
-          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+5%</font> 최대 <font color=\"red\">+15%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
+          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+5%</font> 최대 <font color=\"red\">+15%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
         },
         {
-          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+6%</font> 최대 <font color=\"red\">+18%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
+          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+6%</font> 최대 <font color=\"red\">+18%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
         },
         {
-          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+7%</font> 최대 <font color=\"red\">+21%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
+          "Desc": "보유한 버프 1개마다 공격 방어 <font color=\"red\">+7%</font> 최대 <font color=\"red\">+21%</font>.<br/> 치명타 발생 시 전투 후 상대의 버프 <font color=\"red\">2개</font> 탈취."
         }
       ]
     }

@@ -57,19 +57,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "\"비병\" 및 \"기병\"과 전투 시 공격 방어 <font color=\"red\">+10%</font>."
+          "Desc": "\"비병\" 및 \"기병\"과 전투 시 공격 방어 <font color=\"red\">+10%</font>."
         },
         {
-          "Desc": "\"비병\" 및 \"기병\"과 전투 시 공격 방어 <font color=\"red\">+15%</font>."
+          "Desc": "\"비병\" 및 \"기병\"과 전투 시 공격 방어 <font color=\"red\">+15%</font>."
         },
         {
-          "Desc": "\"비병\" 및 \"기병\"과 전투 시 공격 방어 <font color=\"red\">+20%</font>."
+          "Desc": "\"비병\" 및 \"기병\"과 전투 시 공격 방어 <font color=\"red\">+20%</font>."
         },
         {
-          "Desc": "\"비병\" 및 \"기병\"과 전투 시 공격 방어 <font color=\"red\">+25%</font>."
+          "Desc": "\"비병\" 및 \"기병\"과 전투 시 공격 방어 <font color=\"red\">+25%</font>."
         },
         {
-          "Desc": "\"비병\" 및 \"기병\"과 전투 시 공격 방어 <font color=\"red\">+30%</font>."
+          "Desc": "\"비병\" 및 \"기병\"과 전투 시 공격 방어 <font color=\"red\">+30%</font>."
         }
       ]
     }

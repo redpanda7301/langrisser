@@ -12,6 +12,10 @@
     {
       "ImageUrl": "오보로/3.webp",
       "Desc": "형귀 스킨"
+    },
+    {
+      "ImageUrl": "오보로/4.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "오보로",
@@ -113,6 +117,9 @@
         },
         {
           "ImageUrl": "오보로/3/1.webp"
+        },
+        {
+          "ImageUrl": "오보로/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -145,6 +152,9 @@
         },
         {
           "ImageUrl": "오보로/3/1.webp"
+        },
+        {
+          "ImageUrl": "오보로/4/1.webp"
         }
       ],
       "AttkRange": 1,

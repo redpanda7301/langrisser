@@ -416,7 +416,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
-      "Desc": "전투 진입 시 방어 <font color=\"red\">+7</font>%",
+      "Desc": "전투 진입 시 방어 <font color=\"red\">+7</font>%",
       "SubSkills": null,
       "Animation": null
     },
@@ -482,7 +482,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
-      "Desc": "행동 종료 시 인접한 아군 <font color=\"red\">1</font>부대의 공격,지력 <font color=\"red\">+15%</font> 및<br/>면역: '<font color=\"blue\">공격, 지력 감소</font>', '<font color=\"blue\">침묵</font>',지속 <font color=\"red\">1</font>행동",
+      "Desc": "행동 종료 시 인접한 아군 <font color=\"red\">1</font>부대의 공격,지력 <font color=\"red\">+15%</font> 및<br/>면역: '<font color=\"blue\">공격, 지력 감소</font>', '<font color=\"blue\">침묵</font>',지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

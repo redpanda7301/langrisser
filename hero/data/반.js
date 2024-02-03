@@ -465,7 +465,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Van/3.webp",
-      "Desc": "자신에게 '<font color=\"blue\">진격</font>' '<font color=\"blue\">경계</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"blue\">재공격</font> 가능<br/><b>해당 스킬은 보유한 버프 지속시간을 소모하지 않음</b><br/><font color=\"blue\">진격</font> : 전투 진입 시 공격 <font color=\"red\">+7%</font> <br/><font color=\"blue\">경계</font> : 공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12</font>%",
+      "Desc": "자신에게 '<font color=\"blue\">진격</font>' '<font color=\"blue\">경계</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"blue\">재공격</font> 가능<br/><b>해당 스킬은 보유한 버프 지속시간을 소모하지 않음</b><br/><font color=\"blue\">진격</font> : 전투 진입 시 공격 <font color=\"red\">+7%</font> <br/><font color=\"blue\">경계</font> : 공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12</font>%",
       "SubSkills": null,
       "Animation": null
     },

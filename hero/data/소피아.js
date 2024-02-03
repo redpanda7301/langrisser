@@ -43,16 +43,16 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "소피아를 레벨 30 달성"
+      "Condition": "소피아를 레벨 30 달성"
     },
     {
-      "Condition": "소피아를 프로핏으로 전직"
+      "Condition": "소피아를 프로핏으로 전직"
     },
     {
-      "Condition": "쥬그라의 도움 하에 '어둠 속의 공포' 클리어"
+      "Condition": "쥬그라의 도움 하에 '어둠 속의 공포' 클리어"
     },
     {
-      "Condition": "디하르트의 도움 하에 '아름다운 수호자' 클리어"
+      "Condition": "디하르트의 도움 하에 '아름다운 수호자' 클리어"
     }
   ],
   "HeartFetter": "생명+400, 방어+30, 마방+60",
@@ -97,7 +97,8 @@
     4,
     17,
     44,
-    76
+    76,
+    103
   ],
   "Jobs": [
     {
@@ -559,7 +560,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },

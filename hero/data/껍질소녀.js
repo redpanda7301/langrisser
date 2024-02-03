@@ -8,7 +8,11 @@
     {
       "ImageUrl": "껍질소녀/2.webp",
       "Desc": "빛의 메아리"
-    }    
+    },
+    {
+      "ImageUrl": "껍질소녀/3.webp",
+      "Desc": "한정판매"
+    }
   ],
   "Name": "껍질소녀",
   "ChName": "壳中少女",
@@ -105,6 +109,9 @@
         },
         {
           "ImageUrl": "껍질소녀/2/1.webp"
+        },
+        {
+          "ImageUrl": "껍질소녀/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -133,7 +140,10 @@
           "ImageUrl": "껍질소녀/1/2.webp"
         },
         {
-          "ImageUrl": "껍질소녀/2/1.webp"
+          "ImageUrl": "껍질소녀/2/2.webp"
+        },
+        {
+          "ImageUrl": "껍질소녀/3/2.webp"
         }
       ],
       "AttkRange": 2,

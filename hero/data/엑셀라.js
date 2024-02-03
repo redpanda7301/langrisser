@@ -515,7 +515,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash2.webp",
-      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <font color =\"blue\">바람 타기</font> <b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%<br/>지속 <font color =\"red\">2</font>행동",
+      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%<br/>지속 <font color =\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

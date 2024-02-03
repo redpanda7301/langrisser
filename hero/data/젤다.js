@@ -59,10 +59,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "젤다를 레벨 30 달성"
+      "Condition": "젤다를 레벨 30 달성"
     },
     {
-      "Condition": "젤다를 출전시켜 시공의 균열 3-1[정예] 클리어"
+      "Condition": "젤다를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
       "Condition": "젤다를 쉐도우로 전직"
@@ -440,7 +440,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf3.webp",
-      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
+      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

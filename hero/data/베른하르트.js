@@ -72,16 +72,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+10%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-5%</font>."
+          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+10%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-5%</font>."
         },
         {
-          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+13%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-8%</font>."
+          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+13%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-8%</font>."
         },
         {
-          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+16%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-11%</font>."
+          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+16%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-11%</font>."
         },
         {
-          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+20%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-15%</font>."
+          "Desc": "전투 진입 시 주는 피해 <font color=\"red\">+20%</font><br/> 주위 2칸 내 모든 적의 공격 방어 <font color=\"red\">-15%</font>."
         }
       ]
     }

@@ -8,6 +8,10 @@
     {
       "ImageUrl": "폴리알/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "폴리알/3.webp",
+      "Desc": "형귀 스킨"
     }
   ],
   "Name": "폴리알",
@@ -35,7 +39,7 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "폴리알를 출전시켜 시공의 균열 3-6클리어"
+      "Condition": "폴리알를 출전시켜 시공의 균열 3-6클리어"
     },
     {
       "Condition": "폴리알을 영매사로 전직"
@@ -98,6 +102,9 @@
         },
         {
           "ImageUrl": "폴리알/2/1.webp"
+        },
+        {
+          "ImageUrl": "폴리알/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -127,6 +134,9 @@
         },
         {
           "ImageUrl": "폴리알/2/1.webp"
+        },
+        {
+          "ImageUrl": "폴리알/3/1.webp"
         }
       ],
       "AttkRange": 1,

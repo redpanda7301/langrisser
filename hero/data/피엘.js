@@ -30,10 +30,10 @@
   "HowToGet": "영웅 소환, 우정티켓 소환",
   "Fetters": [
     {
-      "Condition": "피엘을 출전시켜 아레나에서 5회 승리"
+      "Condition": "피엘을 출전시켜 아레나에서 5회 승리"
     },
     {
-      "Condition": "피엘을 서펜트 마스터로 전직"
+      "Condition": "피엘을 서펜트 마스터로 전직"
     },
     {
       "Condition": "실버울프를 도와 운명의 문 4를 클리어"
@@ -45,26 +45,26 @@
   "HeartFetter": "생명+800, 방어+40, 마방+20",
   "Talent": [
     {
-      "Name": "수군 교관",
+      "Name": "수군 교관",
       "Icon": "12.webp",
       "Abilities": [
         {
           "Desc": "1성"
         },
         {
-          "Desc": "물 속에서 전투 시 공격 방어 <font color=\"red\">+5%</font>. <br/>행동 종료 시 부대가 물 속에 있을 경우 자신의 생명을 <font color=\"red\">20%</font> 회복."
+          "Desc": "물 속에서 전투 시 공격 방어 <font color=\"red\">+5%</font>. <br/>행동 종료 시 부대가 물 속에 있을 경우 자신의 생명을 <font color=\"red\">20%</font> 회복."
         },
         {
-          "Desc": "물 속에서 전투 시 공격 방어 <font color=\"red\">+7%</font>. <br/>행동 종료 시 부대가 물 속에 있을 경우 자신의 생명을 <font color=\"red\">25%</font> 회복."
+          "Desc": "물 속에서 전투 시 공격 방어 <font color=\"red\">+7%</font>. <br/>행동 종료 시 부대가 물 속에 있을 경우 자신의 생명을 <font color=\"red\">25%</font> 회복."
         },
         {
-          "Desc": "물 속에서 전투 시 공격 방어 <font color=\"red\">+9%</font>. <br/>행동 종료 시 부대가 물 속에 있을 경우 자신의 생명을 <font color=\"red\">30%</font> 회복."
+          "Desc": "물 속에서 전투 시 공격 방어 <font color=\"red\">+9%</font>. <br/>행동 종료 시 부대가 물 속에 있을 경우 자신의 생명을 <font color=\"red\">30%</font> 회복."
         },
         {
-          "Desc": "물 속에서 전투 시 공격 방어 <font color=\"red\">+12%</font>. <br/>행동 종료 시 부대가 물 속에 있을 경우 자신의 생명을 <font color=\"red\">35%</font> 회복."
+          "Desc": "물 속에서 전투 시 공격 방어 <font color=\"red\">+12%</font>. <br/>행동 종료 시 부대가 물 속에 있을 경우 자신의 생명을 <font color=\"red\">35%</font> 회복."
         },
         {
-          "Desc": "물 속에서 전투 시 공격 방어 <font color=\"red\">+15%</font>. <br/>행동 종료 시 부대가 물 속에 있을 경우 자신의 생명을 <font color=\"red\">40%</font> 회복."
+          "Desc": "물 속에서 전투 시 공격 방어 <font color=\"red\">+15%</font>. <br/>행동 종료 시 부대가 물 속에 있을 경우 자신의 생명을 <font color=\"red\">40%</font> 회복."
         }
       ]
     }
@@ -353,7 +353,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf6.webp",
-      "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
+      "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
     },

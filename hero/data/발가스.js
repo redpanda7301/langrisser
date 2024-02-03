@@ -53,7 +53,7 @@
   "HeartFetter": "생명+1150, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "용장의 신력",
+      "Name": "용장의 신력",
       "Icon": "18.webp",
       "Abilities": [
         {
@@ -439,7 +439,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },

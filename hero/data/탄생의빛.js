@@ -99,7 +99,8 @@
     14,
     11,
     85,
-    93
+    93,
+    103
   ],
   "Jobs": [
     {
@@ -218,7 +219,7 @@
       ]
     },
     {
-      "ClassTitle": "아크메이지  : 생명+48, 지력<font color=\"red\">+1</font>2",
+      "ClassTitle": "아크메이지  : 생명+48, 지력+12",
       "Tiers": [
         {
           "Name": "T1",
@@ -249,7 +250,7 @@
       ]
     },
     {
-      "ClassTitle": "빛의 물결 : 생명+48, 지력<font color=\"red\">+1</font>2",
+      "ClassTitle": "빛의 물결 : 생명+48, 지력+12",
       "Tiers": [
         {
           "Name": "T1",
@@ -280,7 +281,7 @@
       ]
     },
     {
-      "ClassTitle": "여신의 심판 : 생명+90, 마방<font color=\"red\">+1</font>0, 지력+25",
+      "ClassTitle": "여신의 심판 : 생명+90, 마방+10, 지력+25",
       "Tiers": [
         {
           "Name": "T1",

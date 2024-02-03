@@ -51,16 +51,16 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "알테뮬러를 레벨 30 달성"
+      "Condition": "알테뮬러를 레벨 30 달성"
     },
     {
-      "Condition": "알테뮬러를 드래곤 마스터로 전직"
+      "Condition": "알테뮬러를 드래곤 마스터로 전직"
     },
     {
-      "Condition": "안나의 도움 하에 '또 다른 결말' 클리어"
+      "Condition": "안나의 도움 하에 '또 다른 결말' 클리어"
     },
     {
-      "Condition": "에마링크의 도움 하에 '숙명을 베는 검' 클리어"
+      "Condition": "에마링크의 도움 하에 '숙명을 베는 검' 클리어"
     }
   ],
   "HeartFetter": "생명+800, 방어+50, 마방+60",
@@ -102,16 +102,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+5</font>% 받는 물리 피해 <font color=\"red\">-2</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+5</font>% 받는 물리 피해 <font color=\"red\">-2</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+6</font>% 받는 물리 피해 <font color=\"red\">-3</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+6</font>% 받는 물리 피해 <font color=\"red\">-3</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+7</font>% 받는 물리 피해 <font color=\"red\">-4</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+7</font>% 받는 물리 피해 <font color=\"red\">-4</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+8</font>% 받는 물리 피해 <font color=\"red\">-5</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+8</font>% 받는 물리 피해 <font color=\"red\">-5</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
         }
       ]
     }
@@ -826,7 +826,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
-      "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
     },

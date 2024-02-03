@@ -431,7 +431,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef2.webp",
-      "Desc": "[패시브]전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방  <font color=\"red\">-25%</font>, <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방  <font color=\"red\">-25%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -464,7 +464,7 @@
       "Animation": null
     },
     {
-      "Name": "신성한 제재",
+      "Name": "신성한 제재",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -513,7 +513,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
-      "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
     },

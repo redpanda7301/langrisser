@@ -8,6 +8,10 @@
     {
       "ImageUrl": "그렌실/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "그렌실/3.webp",
+      "Desc": "서밋아레나 S16 패자스킨"
     }
   ],
   "Name": "그렌실",
@@ -98,6 +102,9 @@
         },
         {
           "ImageUrl": "그렌실/2/1.webp"
+        },
+        {
+          "ImageUrl": "그렌실/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -127,6 +134,9 @@
         },
         {
           "ImageUrl": "그렌실/2/2.webp"
+        },
+        {
+          "ImageUrl": "그렌실/3/2.webp"
         }
       ],
       "AttkRange": 1,

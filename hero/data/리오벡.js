@@ -12,6 +12,10 @@
     {
       "ImageUrl": "리오벡/3.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "리오벡/4.webp",
+      "Desc": "형귀 스킨"
     }
   ],
   "Name": "리오벡",
@@ -84,7 +88,7 @@
     "Name": "역대의 심연(투구)",
     "Stats": "생명 364, 마방 65",
     "Icon": "리오벡.webp",
-    "Ability": "생명 (<font color=\"red\">+10</font>)% <br/><font color=\"blue\">부여하는 계약</font> 효과 <b>해제 불가</b><br/><font color=\"blue\">침식한 명계의 화염</font>으로 피해를 입힌 후 쿨타임 감소<br/>감소하는 수치는 명중한 적 숫자를 따라감<br/>해당 효과 쿨타임 <font color=\"red\">3</font>행동"
+    "Ability": "생명 (<font color=\"red\">+10</font>)% <br/><font color=\"blue\">부여하는 계약</font> 효과 <b>해제 불가</b><br/><font color=\"blue\">침식한 명계의 화염</font>으로 피해를 입힌 후 쿨타임 감소<br/>감소하는 수치는 명중한 적 숫자를 따라감<br/>(최대 쿨타임 <font color=\"red\">-3</font>)"
   },
   "Soldiers": [
     43,
@@ -109,6 +113,9 @@
         },
         {
           "ImageUrl": "리오벡/3/1.webp"
+        },
+        {
+          "ImageUrl": "리오벡/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -142,6 +149,9 @@
         },
         {
           "ImageUrl": "리오벡/3/1.webp"
+        },
+        {
+          "ImageUrl": "리오벡/4/1.webp"
         }
       ],
       "AttkRange": 2,

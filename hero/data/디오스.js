@@ -30,10 +30,10 @@
   "HowToGet": "영웅 소환, 우정티켓 소환",
   "Fetters": [
     {
-      "Condition": "디오스를 출전시켜 시공의 균열 3-6 클리어"
+      "Condition": "디오스를 출전시켜 시공의 균열 3-6 클리어"
     },
     {
-      "Condition": "디오스를 출전시켜 시공의 균열 3-1[정예] 클리어"
+      "Condition": "디오스를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
       "Condition": "실버울프를 도와 운명의 문 4를 클리어"
@@ -45,7 +45,7 @@
   "HeartFetter": "생명+400, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "관통 저격",
+      "Name": "관통 저격",
       "Icon": "5.webp",
       "Abilities": [
         {
@@ -352,7 +352,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef2.webp",
-      "Desc": "[패시브]전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방  <font color=\"red\">-25%</font>, <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방  <font color=\"red\">-25%</font>, <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },

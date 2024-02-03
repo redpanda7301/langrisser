@@ -28,6 +28,10 @@
     {
       "ImageUrl": "리아나/7.webp",
       "Desc": "페이백 이벤트"
+    },
+    {
+      "ImageUrl": "리아나/8.webp",
+      "Desc": "페이백 이벤트"
     }
   ],
   "Name": "리아나",
@@ -80,16 +84,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">1칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">1.5배</font>만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">1칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">1.5배</font>만큼 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">2배</font>만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">2배</font>만큼 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">2.5배</font>만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">1개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">2.5배</font>만큼 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">2개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">3배</font>만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 다른 아군 부대 디버프 <font color=\"red\">2개</font> 제거<br/> 동시에 자신 지력의 <font color=\"red\">3배</font>만큼 회복."
         }
       ]
     }
@@ -110,7 +114,8 @@
     29,
     44,
     58,
-    76
+    76,
+    103
   ],
   "Jobs": [
     {
@@ -137,6 +142,9 @@
         },
         {
           "ImageUrl": "리아나/7/1.webp"
+        },
+        {
+          "ImageUrl": "리아나/8/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -181,6 +189,9 @@
         },
         {
           "ImageUrl": "리아나/7/1.webp"
+        },
+        {
+          "ImageUrl": "리아나/8/1.webp"
         }
       ],
       "AttkRange": 2,

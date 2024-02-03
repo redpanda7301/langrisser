@@ -464,7 +464,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_CriBuf.webp",
-      "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
+      "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -518,7 +518,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +20%.",
+      "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +20%.",
       "SubSkills": null,
       "Animation": null
     },

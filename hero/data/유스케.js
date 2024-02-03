@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+5%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">1</font>행동 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+5%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">1</font>행동 지속) (제거 불가)"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+8%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>행동 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+8%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>행동 지속) (제거 불가)"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+11%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>행동 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+11%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">2</font>행동 지속) (제거 불가)"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+15%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">3</font>행동 지속) (제거 불가)"
+          "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 있을 경우 공격 방어 <font color=\"red\">+15%</font>.<br/> 아군 사망 시 생명 <font color=\"red\">30%</font>회복 동시에 [분노] 발동 <br/>(분노: 생명 외 모든 속성<font color=\"red\">+10%</font> 이동력 <font color=\"red\">+1</font> 공격 사거리 <font color=\"red\">+1</font>) (<font color=\"red\">3</font>행동 지속) (제거 불가)"
         }
       ]
     }
@@ -440,7 +440,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf3.webp",
-      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
+      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 낮을 경우 전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

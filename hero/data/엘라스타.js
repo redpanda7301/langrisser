@@ -404,7 +404,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
-      "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -472,7 +472,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +20%.",
+      "Desc": "[패시브] 주위 3칸 내 아군 부대가 전투 시 기술 +20%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -486,7 +486,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },

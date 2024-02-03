@@ -57,26 +57,26 @@
   "HeartFetter": "생명+650, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "강력한 도움",
+      "Name": "강력한 도움",
       "Icon": "19.webp",
       "Abilities": [
         {
           "Desc": "1성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+10%</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+10%</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+12%</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+12%</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+14%</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+14%</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+17%</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+17%</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+20%</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2칸</font> 내 모든 아군 부대에게 버프 부여:<br/> 광역 스킬 피해 <font color=\"red\">+20%</font> <font color=\"red\">1턴</font> 지속."
         }
       ]
     }
@@ -536,7 +536,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
-      "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
+      "Desc": "[패시브]전투 진입 시 방어 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
     },

@@ -32,6 +32,10 @@
     {
       "ImageUrl": "엘윈/7.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "엘윈/8.webp",
+      "Desc": "페이백 이벤트"
     }
   ],
   "Name": "엘윈",
@@ -110,16 +114,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+10</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">10</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+10</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">10</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+15</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">13</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+15</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">13</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+20</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">16</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+20</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">16</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         },
         {
-          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+25</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">20</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
+          "Desc": "선공 시 피해량 및 방어 <font color=\"red\">+25</font>%<br/> 자신 주위 <font color=\"red\">2</font>칸 범위 내에 아군이 없을 경우 사망 방지 (최대 <font color=\"red\">1</font>회 발동)<br/> 전투 진입 전 이동한 거리 <font color=\"red\">1</font>칸 당 <font color=\"red\">20</font>% 회복 <br/> <font color=\"red\">4</font>칸 이상일 경우 선제공격."
         }
       ]
     }
@@ -174,6 +178,9 @@
         },
         {
           "ImageUrl": "엘윈/7/1.webp"
+        },
+        {
+          "ImageUrl": "엘윈/8/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -221,6 +228,9 @@
         },
         {
           "ImageUrl": "엘윈/7/2.webp"
+        },
+        {
+          "ImageUrl": "엘윈/8/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -268,6 +278,9 @@
         },
         {
           "ImageUrl": "엘윈/7/3.webp"
+        },
+        {
+          "ImageUrl": "엘윈/8/3.webp"
         }
       ],
       "AttkRange": 1,

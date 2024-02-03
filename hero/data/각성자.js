@@ -8,6 +8,10 @@
     {
       "ImageUrl": "각성자/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "각성자/3.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "각성자",
@@ -98,6 +102,9 @@
         },
         {
           "ImageUrl": "각성자/2/1.webp"
+        },
+        {
+          "ImageUrl": "각성자/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -127,6 +134,9 @@
         },
         {
           "ImageUrl": "각성자/2/1.webp"
+        },
+        {
+          "ImageUrl": "각성자/3/1.webp"
         }
       ],
       "AttkRange": 2,

@@ -87,16 +87,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전투 진입 시 마법 피해 <font color=\"red\">+10%</font> 스킬 사거리 <font color=\"red\">+1</font>."
+          "Desc": "전투 진입 시 마법 피해 <font color=\"red\">+10%</font> 스킬 사거리 <font color=\"red\">+1</font>."
         },
         {
-          "Desc": "전투 진입 시 마법 피해 <font color=\"red\">+15%</font> 스킬 사거리 <font color=\"red\">+1</font>."
+          "Desc": "전투 진입 시 마법 피해 <font color=\"red\">+15%</font> 스킬 사거리 <font color=\"red\">+1</font>."
         },
         {
-          "Desc": "전투 진입 시 마법 피해 <font color=\"red\">+20%</font> 스킬 사거리 <font color=\"red\">+1</font>."
+          "Desc": "전투 진입 시 마법 피해 <font color=\"red\">+20%</font> 스킬 사거리 <font color=\"red\">+1</font>."
         },
         {
-          "Desc": "전투 진입 시 마법 피해 <font color=\"red\">+30%</font> 스킬 사거리 <font color=\"red\">+1</font>."
+          "Desc": "전투 진입 시 마법 피해 <font color=\"red\">+30%</font> 스킬 사거리 <font color=\"red\">+1</font>."
         }
       ]
     }

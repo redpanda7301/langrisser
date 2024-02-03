@@ -57,19 +57,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+5%</font>.<br/> 지력의 <font color=\"red\">15%</font>만큼 마방 상승."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+5%</font>.<br/> 지력의 <font color=\"red\">15%</font>만큼 마방 상승."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+7%</font>.<br/> 지력의 <font color=\"red\">20%</font>만큼 마방 상승."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+7%</font>.<br/> 지력의 <font color=\"red\">20%</font>만큼 마방 상승."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+9%</font>.<br/> 지력의 <font color=\"red\">25%</font>만큼 마방 상승."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+9%</font>.<br/> 지력의 <font color=\"red\">25%</font>만큼 마방 상승."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+12%</font>.<br/> 지력의 <font color=\"red\">30%</font>만큼 마방 상승."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+12%</font>.<br/> 지력의 <font color=\"red\">30%</font>만큼 마방 상승."
         },
         {
-          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+15%</font>.<br/> 지력의 <font color=\"red\">40%</font>만큼 마방 상승."
+          "Desc": "부대 생명이 <font color=\"red\">100%</font>일 때 지력 <font color=\"red\">+15%</font>.<br/> 지력의 <font color=\"red\">40%</font>만큼 마방 상승."
         }
       ]
     }
@@ -84,7 +84,8 @@
     44,
     45,
     81,
-    85
+    85,
+    103
   ],
   "Jobs": [
     {

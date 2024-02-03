@@ -62,7 +62,7 @@
   "HeartFetter": "생명+750, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "우정의 유대",
+      "Name": "우정의 유대",
       "Icon": "0.webp",
       "Abilities": [
         {
@@ -744,7 +744,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf6.webp",
-      "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
+      "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
     },

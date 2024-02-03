@@ -75,22 +75,22 @@
       "Icon": "1.webp",
       "Abilities": [
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">1</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">1</font>배만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">1</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">1</font>배만큼 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">1</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">1.3</font>배만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">1</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">1.3</font>배만큼 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">2</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">1.6</font>배만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 <font color=\"red\">2</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">1.6</font>배만큼 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">4</font>칸 내 <font color=\"red\">2</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">1.9</font>배만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">4</font>칸 내 <font color=\"red\">2</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">1.9</font>배만큼 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">4</font>칸 내 <font color=\"red\">3</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">2.2</font>배만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">4</font>칸 내 <font color=\"red\">3</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">2.2</font>배만큼 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">4</font>칸 내 <font color=\"red\">4</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">2.5</font>배만큼 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">4</font>칸 내 <font color=\"red\">4</font>개 적군 부대에게 무작위 디버프 <font color=\"red\">1</font>개 부여.<br/>동시에 생명이 제일 낮은 다른 아군 부대의 생명을 아멜다 지력의 <font color=\"red\">2.5</font>배만큼 회복."
         }
       ]
     }
@@ -141,7 +141,8 @@
     58,
     76,
     91,
-    2
+    2,
+    103
   ],
   "Jobs": [
     {

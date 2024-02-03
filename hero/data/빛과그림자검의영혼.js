@@ -42,7 +42,7 @@
       "Condition": "빛과 그림자 검의영혼을 출전시켜 아레나 5승"
     },
     {
-      "Condition": "빛과 그림자 검의영혼를 출전시켜 시공의 균열 3-1[정예] 클리어"
+      "Condition": "빛과 그림자 검의영혼를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
       "Condition": "매튜의 도움을 받아 운명의문4"
@@ -490,7 +490,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf3.webp",
-      "Desc": "부대의 남은 생명 비율이 적 보다 낮을 경우<br/>전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
+      "Desc": "부대의 남은 생명 비율이 적 보다 낮을 경우<br/>전투 진입 시 공격, 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

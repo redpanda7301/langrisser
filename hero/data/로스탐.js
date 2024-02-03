@@ -95,7 +95,8 @@
     74,
     9,
     71,
-    78
+    78,
+    102
   ],
   "Jobs": [
     {
@@ -456,7 +457,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf6.webp",
-      "Desc": "<b>전투 진입 시 부대</b> 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
+      "Desc": "<b>전투 진입 시 부대</b> 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
     },

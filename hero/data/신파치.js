@@ -52,19 +52,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">4</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">4</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
         }
       ]
     }
@@ -362,7 +362,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf2.webp",
-      "Desc": "[패시브]전투 진입 시 공격 <font color=\"red\">+7%</font>.",
+      "Desc": "[패시브]전투 진입 시 공격 <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
     },

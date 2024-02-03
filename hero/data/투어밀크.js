@@ -85,7 +85,8 @@
     76,
     85,
     45,
-    12
+    12,
+    102
   ],
   "Jobs": [
     {
@@ -533,7 +534,7 @@
       "Desc": "치명타 확률 <font color =\"red\">+50</font>% <br/>주위 <font color =\"red\">5</font>칸 내 모든 적에게 <font color =\"red\">0.35</font>배 범위 피해<br/>'마족'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
-    },    
+    },
     {
       "Name": "미지의 세계 효시",
       "Cost": "COST 3",

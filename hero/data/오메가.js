@@ -12,6 +12,10 @@
     {
       "ImageUrl": "오메가/3.webp",
       "Desc": "형귀 스킨"
+    },
+    {
+      "ImageUrl": "오메가/4.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "오메가",
@@ -111,6 +115,9 @@
         },
         {
           "ImageUrl": "오메가/3/1.webp"
+        },
+        {
+          "ImageUrl": "오메가/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -143,6 +150,9 @@
         },
         {
           "ImageUrl": "오메가/3/2.webp"
+        },
+        {
+          "ImageUrl": "오메가/4/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -422,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_CriBuf.webp",
-      "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
+      "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -504,7 +514,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
-      "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
+      "Desc": "[패시브]공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
     },

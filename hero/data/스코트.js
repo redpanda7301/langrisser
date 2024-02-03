@@ -45,26 +45,26 @@
   "HeartFetter": "생명+600, 방어+40, 마방+30",
   "Talent": [
     {
-      "Name": "신중한 전술가",
+      "Name": "신중한 전술가",
       "Icon": "8.webp",
       "Abilities": [
         {
           "Desc": "1성"
         },
         {
-          "Desc": "생명이 <font color=\"red\">50%</font> 이상인 상태에서 전투 진입 시 받는 피해 <font color=\"red\">-15%</font>."
+          "Desc": "생명이 <font color=\"red\">50%</font> 이상인 상태에서 전투 진입 시 받는 피해 <font color=\"red\">-15%</font>."
         },
         {
-          "Desc": "생명이 <font color=\"red\">50%</font> 이상인 상태에서 전투 진입 시 받는 피해 <font color=\"red\">-18%</font>."
+          "Desc": "생명이 <font color=\"red\">50%</font> 이상인 상태에서 전투 진입 시 받는 피해 <font color=\"red\">-18%</font>."
         },
         {
-          "Desc": "생명이 <font color=\"red\">50%</font> 이상인 상태에서 전투 진입 시 받는 피해 <font color=\"red\">-22%</font>."
+          "Desc": "생명이 <font color=\"red\">50%</font> 이상인 상태에서 전투 진입 시 받는 피해 <font color=\"red\">-22%</font>."
         },
         {
-          "Desc": "생명이 <font color=\"red\">50%</font> 이상인 상태에서 전투 진입 시 받는 피해 <font color=\"red\">-26%</font>."
+          "Desc": "생명이 <font color=\"red\">50%</font> 이상인 상태에서 전투 진입 시 받는 피해 <font color=\"red\">-26%</font>."
         },
         {
-          "Desc": "생명이 <font color=\"red\">50%</font> 이상인 상태에서 전투 진입 시 받는 피해 <font color=\"red\">-30%</font>."
+          "Desc": "생명이 <font color=\"red\">50%</font> 이상인 상태에서 전투 진입 시 받는 피해 <font color=\"red\">-30%</font>."
         }
       ]
     }

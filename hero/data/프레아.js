@@ -46,10 +46,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "프레아를 출전시켜 시공의 균열 3-6 클리어"
+      "Condition": "프레아를 출전시켜 시공의 균열 3-6 클리어"
     },
     {
-      "Condition": "프레아를 로열 가디언으로 전직"
+      "Condition": "프레아를 로열 가디언으로 전직"
     },
     {
       "Condition": "디오스의 도움 하에 '기사의 허락' 클리어"
@@ -61,26 +61,26 @@
   "HeartFetter": "생명+1000, 방어+50, 마방+40",
   "Talent": [
     {
-      "Name": "슬픈 결단",
+      "Name": "슬픈 결단",
       "Icon": "17.webp",
       "Abilities": [
         {
           "Desc": "1성"
         },
         {
-          "Desc": "치명타 피격 확률 <font color=\"red\">-10%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">100%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
+          "Desc": "치명타 피격 확률 <font color=\"red\">-10%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">100%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
         },
         {
-          "Desc": "치명타 피격 확률 <font color=\"red\">-20%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">90%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
+          "Desc": "치명타 피격 확률 <font color=\"red\">-20%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">90%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
         },
         {
-          "Desc": "치명타 피격 확률 <font color=\"red\">-30%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">80%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
+          "Desc": "치명타 피격 확률 <font color=\"red\">-30%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">80%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
         },
         {
-          "Desc": "치명타 피격 확률 <font color=\"red\">-40%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">70%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
+          "Desc": "치명타 피격 확률 <font color=\"red\">-40%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">70%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
         },
         {
-          "Desc": "치명타 피격 확률 <font color=\"red\">-50%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">50%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
+          "Desc": "치명타 피격 확률 <font color=\"red\">-50%</font><br/> 전투 진입 전 자신의 생명이 <font color=\"red\">50%</font> 이상일 경우 <br/>적 부대에게 영웅 방어 <font color=\"red\">2배</font> 만큼의 피해를 준다."
         }
       ]
     }
@@ -94,19 +94,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-5%</font>  받는 치명타율 <font color=\"red\">-15%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">50%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
+          "Desc": "받는 피해 <font color=\"red\">-5%</font>  받는 치명타율 <font color=\"red\">-15%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">50%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-7%</font>  받는 치명타율 <font color=\"red\">-18%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">60%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
+          "Desc": "받는 피해 <font color=\"red\">-7%</font>  받는 치명타율 <font color=\"red\">-18%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">60%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-9%</font>  받는 치명타율 <font color=\"red\">-22%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">70%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
+          "Desc": "받는 피해 <font color=\"red\">-9%</font>  받는 치명타율 <font color=\"red\">-22%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">70%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-12%</font> 받는 치명타율 <font color=\"red\">-26%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">80%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
+          "Desc": "받는 피해 <font color=\"red\">-12%</font> 받는 치명타율 <font color=\"red\">-26%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">80%</font>  확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-15%</font> 받는 치명타율 <font color=\"red\">-30%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">100%</font> 확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
+          "Desc": "받는 피해 <font color=\"red\">-15%</font> 받는 치명타율 <font color=\"red\">-30%</font> <br/> 주위 <font color=\"red\">2</font>칸 범위 내 모든 적이 피해를 입히기 전 <font color=\"red\">100%</font> 확률로 <br/> 프레아의 방어+마방 <font color=\"red\">1</font>배 수치의 고정피해 받음 <br/><b>적이 혼합 부대일 경우 해당 피해는 면역 불가</b>."
         }
       ]
     }

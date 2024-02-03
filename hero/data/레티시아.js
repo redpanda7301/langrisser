@@ -34,10 +34,10 @@
   "HowToGet": "영웅 소환, 우정티켓 소환",
   "Fetters": [
     {
-      "Condition": "레티시아를 출전시켜 아레나에서 5회 승리"
+      "Condition": "레티시아를 출전시켜 아레나에서 5회 승리"
     },
     {
-      "Condition": "레티시아를 나이트 마스터로 전직"
+      "Condition": "레티시아를 나이트 마스터로 전직"
     },
     {
       "Condition": "크리스를 도와 운명의 문 4를 클리어"
@@ -49,26 +49,26 @@
   "HeartFetter": "생명+700, 방어+30, 마방+30",
   "Talent": [
     {
-      "Name": "사랑의 응원",
+      "Name": "사랑의 응원",
       "Icon": "13.webp",
       "Abilities": [
         {
           "Desc": "1성"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+5%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">1개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+5%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">1개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+7%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">2개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+7%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">2개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+9%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">3개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+9%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">1칸</font> 내 임의의 <font color=\"red\">3개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+12%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 임의의 <font color=\"red\">3개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+12%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 임의의 <font color=\"red\">3개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+15%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 임의의 <font color=\"red\">4개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
+          "Desc": "자신 주위 <font color=\"red\">2칸</font> 내 아군 부대가 있을 경우 공격 방어 <font color=\"red\">+15%</font>.<br/> 행동 종료 시 주위 <font color=\"red\">2칸</font> 내 임의의 <font color=\"red\">4개</font> 다른 아군 부대의 이동력 <font color=\"red\">+1</font> <font color=\"red\">1턴</font> 지속."
         }
       ]
     }
@@ -427,7 +427,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     }

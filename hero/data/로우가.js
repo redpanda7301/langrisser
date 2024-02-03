@@ -4,6 +4,10 @@
     {
       "ImageUrl": "로우가/1.webp",
       "Desc": "기본"
+    },
+    {
+      "ImageUrl": "로우가/2.webp",
+      "Desc": "서밋아레나 시즌18 골드스킨"
     }
   ],
   "Name": "로우가",
@@ -89,6 +93,9 @@
       "SD": [
         {
           "ImageUrl": "로우가/1/1.webp"
+        },
+        {
+          "ImageUrl": "로우가/2/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -355,7 +362,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_CriBuf.webp",
-      "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
+      "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -409,7 +416,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf6.webp",
-      "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
+      "Desc": "전투 진입 시 부대 공격, 기술 <font color=\"red\">+12%</font>, 방어, 마방 <font color=\"red\">-7%</font>.",
       "SubSkills": null,
       "Animation": null
     }

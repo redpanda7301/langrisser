@@ -55,22 +55,22 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "티아리스를 출전시켜 아레나에서 5회 승리"
+      "Condition": "티아리스를 출전시켜 아레나에서 5회 승리"
     },
     {
-      "Condition": "티아리스를 홀리 나이트로 전직"
+      "Condition": "티아리스를 홀리 나이트로 전직"
     },
     {
-      "Condition": "제리올&레이라의 도움 하에 '성숙한 기품' 클리어"
+      "Condition": "제리올&레이라의 도움 하에 '성숙한 기품' 클리어"
     },
     {
-      "Condition": "디하르트의 도움 하에 '성장하기 싫어' 클리어"
+      "Condition": "디하르트의 도움 하에 '성장하기 싫어' 클리어"
     }
   ],
   "HeartFetter": "생명+450, 방어+20, 마방+70",
   "Talent": [
     {
-      "Name": "치유의 빛",
+      "Name": "치유의 빛",
       "Icon": "52.webp",
       "Abilities": [
         {
@@ -80,16 +80,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">50%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">50%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">60%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">60%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">80%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">80%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">100%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 아군에게 [치유] 부여 :<br/> 전투 후 <font color=\"red\">100%</font> 확률로 티아리스 지력의 <font color=\"red\">3</font>배만큼 생명 회복."
         }
       ]
     }
@@ -110,7 +110,8 @@
     18,
     43,
     58,
-    81
+    81,
+    103
   ],
   "Jobs": [
     {
@@ -642,7 +643,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
       "SubSkills": null,
       "Animation": null
     },
