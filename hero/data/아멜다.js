@@ -24,6 +24,10 @@
     {
       "ImageUrl": "아멜다/6.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "아멜다/sp.webp",
+      "Desc": "SP 각성"
     }
   ],
   "Name": "아멜다",
@@ -91,7 +95,32 @@
       ]
     }
   ],
-  "SPTalent": null,
+  "SPTalent": [
+    {
+      "Name": "여신은 언제나 옳다!",
+      "Icon": "SP_Gift_Aimeeda.webp",
+      "Abilities": [
+        {
+          "Desc": "행동 종료 시, 생명력이 가장 낮은 아군 부대 <font color=\"green\">생명 회복</font> (지력 <font color=\"red\">1</font>배 수치) 및 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 제거<br/>자신과 가장 가까운 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여"
+        },
+        {
+          "Desc": "행동 종료 시, 생명력이 가장 낮은 아군 부대 <font color=\"green\">생명 회복</font> (지력 <font color=\"red\">1.3</font>배 수치) 및 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 제거<br/>자신과 가장 가까운 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여"
+        },
+        {
+          "Desc": "행동 종료 시, 생명력이 가장 낮은 아군 부대 <font color=\"green\">생명 회복</font> (지력 <font color=\"red\">1.6</font>배 수치) 및 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 제거<br/>자신과 가장 가까운 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여"
+        },
+        {
+          "Desc": "행동 종료 시, 생명력이 가장 낮은 아군 부대 <font color=\"green\">생명 회복</font> (지력 <font color=\"red\">2</font>배 수치) 및 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 제거<br/>자신과 가장 가까운 적 <font color=\"red\">2</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여"
+        },
+        {
+          "Desc": "행동 종료 시, 생명력이 가장 낮은 아군 부대 <font color=\"green\">생명 회복</font> (지력 <font color=\"red\">2.5</font>배 수치) 및 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 제거<br/>자신과 가장 가까운 적 <font color=\"red\">2</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여"
+        },
+        {
+          "Desc": "행동 종료 시, 생명력이 가장 낮은 아군 부대 <font color=\"green\">생명 회복</font> (지력 <font color=\"red\">3</font>배 수치) 및 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 제거<br/>자신과 가장 가까운 적 <font color=\"red\">2</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여"
+        }
+      ]
+    }
+  ],
   "Second_Awaken":{
     "Name" : "To Be Continue",
     "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">메타발언</font> 및 <font color=\"blue\">조롱대회</font> 스킬 사용후<br/>스킬 쿨타임 <font color=\"red\">1</font> ~ <font color=\"red\">4</font>행동 감소",
@@ -111,7 +140,8 @@
     44,
     58,
     76,
-    91
+    91,
+    2
   ],
   "Jobs": [
     {
@@ -135,6 +165,9 @@
         },
         {
           "ImageUrl": "아멜다/6/1.webp"
+        },
+        {
+          "ImageUrl": "아멜다/sp/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -154,6 +187,50 @@
       "SkillRate": 23,
       "HeartFetterBouns1": "체력이 80%이상일 시 치명타를 받을확률 -10%",
       "HeartFetterBouns2": "범위피해 +10%"
+    },
+    {
+      "Name": "새벽빛의 은총",
+      "Icon": "Icon_Occupation_MagicianSP.webp",
+      "SD": [
+        {
+          "ImageUrl": "아멜다/sp/1.webp"
+        },
+        {
+          "ImageUrl": "아멜다/2/1.webp"
+        },
+        {
+          "ImageUrl": "아멜다/3/1.webp"
+        },
+        {
+          "ImageUrl": "아멜다/4/1.webp"
+        },
+        {
+          "ImageUrl": "아멜다/5/1.webp"
+        },
+        {
+          "ImageUrl": "아멜다/6/1.webp"
+        },
+        {
+          "ImageUrl": "아멜다/sp/1.webp"
+        }
+      ],
+      "AttkRange": 2,
+      "Move": 3,
+      "MoveType": "Walk",
+      "HP": 3918,
+      "HPRate": 74,
+      "Attk": 259,
+      "AttkRate": 41,
+      "Int": 535,
+      "IntRate": 84,
+      "Def": 249,
+      "DefRate": 55,
+      "MagicDef": 422,
+      "MagicDefRate": 92,
+      "Skill": 111,
+      "SkillRate": 31,
+      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "디버프를 보유한 부대와 전투 시<br/>주는 피해량  <font color=\"red\">+10</font>%"
     },
     {
       "Name": "오라클",
@@ -176,6 +253,9 @@
         },
         {
           "ImageUrl": "아멜다/6/1.webp"
+        },
+        {
+          "ImageUrl": "아멜다/sp/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -428,7 +508,178 @@
       ]
     }
   ],
-  "SPOpenConditions": null,
+  "SPOpenConditions": [
+    {
+      "Name": "개방",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/AlterEgo_Aimeeda.webp",
+          "Amount": 1
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank8-4.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank7-5.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank6-7.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 미션",
+      "Materials": [],
+      "Desc": "아멜다를 포함 파티를 짜서 형귀 헬스장 나임(승병) 60레벨 이상 클리어"
+    },
+    {
+      "Name": "2단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "2단계 미션",
+      "Materials": [],
+      "Desc": "■ ■ ■ ■(무기) 레벨 50 달성"
+    },
+    {
+      "Name": "3단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
+          "Amount": 2
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "3단계 미션",
+      "Materials": [],
+      "Desc": "아멜다를 포함 파티를 짜서 여신의 시련 - 빙룡 아산테 60레벨 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "새벽빛의 은총 전직 가능, 여신은 언제나 옳다!(SP 고유기술)스킬 획득, SP 일러스트 획득"
+    },
+    {
+      "Name": "4단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h2.webp",
+          "Amount": 60
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h2-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/heart/x.webp",
+          "Amount": 12
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "4단계 미션",
+      "Materials": [],
+      "Desc": "아멜다를 포함 파티를 짜서 형귀 헬스장 샘슨(기병) 65레벨 이상 클리어"
+    },
+    {
+      "Name": "5단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "5단계 미션",
+      "Materials": [],
+      "Desc": "아멜다를 포함 파티를 짜서 여신의 시련 - 화룡 파프니르 65레벨 이상 클리어"
+    },
+    {
+      "Name": "6단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+          "Amount": 600
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Magic1.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Magic3.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Magic5.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "6단계 미션",
+      "Materials": [],
+      "Desc": "아멜다를 포함 파티를 짜서 영원의 신전 - 리바이엘 65레벨 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "SP 스탯, SP 스킬 2개 활성화, 무녀 고용가능"
+    }
+  ],
   "Skills": [
     {
       "Name": "힐",
@@ -649,6 +900,128 @@
       ],
       "IconImageUrl": "../img/skills/25.webp",
       "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 내 눈을 바라봐",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "-"
+        },
+        {
+          "Label": "사거리",
+          "Value": "-"
+        },
+        {
+          "Label": "범위",
+          "Value": "-"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/아멜다/1.webp",
+      "Desc": "<font color=\"blue\">악담</font> <font color=\"red\">1</font>가지 선택 후 사용.<br/>사용 후 행동 종료시 모든 <font color=\"blue\">지원 스킬</font> 쿨타임 <font color=\"red\">-1</font>",
+      "SubSkills": [
+        {
+          "Name": "찬미♂하는 마음",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "회복"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "사거리",
+              "Value": "자신"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/skills/sp/아멜다/1_1.webp",
+          "Desc": "[액티브] 해당 행동 <font color=\"green\">치유</font> 효과 <font color=\"red\">+50</font>%<br/>행동 종료 시, <font color=\"purple\">고유 스킬</font> 발동으로 회복하는 아군 <font color=\"red\">1</font>명 추가"
+        },
+        {
+          "Name": "여신은 너를 사랑해~",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "지원"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "-"
+            },
+            {
+              "Label": "사거리",
+              "Value": "3칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/skills/sp/아멜다/1_2.webp",
+          "Desc": "[액티브]부대 하나에게 '<font color=\"blue\">선공으로 전투 진입 시, 전투 전 적에게 무작위 디버프</font> <font color=\"red\">2</font>개 부여' 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
+        },
+        {
+          "Name": "내가, 보젤?",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "마법 피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "3턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "3칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/skills/sp/아멜다/1_3.webp",
+          "Desc": "전장에 있는 적 하나에게 <font color=\"red\">0.2</font>배 피해 및 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">무작위</font> 부여"
+        }
+      ],
+      "Animation": null
+    },
+    {
+      "Name": "SP : 굳세어라 아멜다",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "지원"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "3칸"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/아멜다/2.webp",
+      "Desc": "지원. 액티브. 범위 내 부대에게 '<font color=\"blue\">강심장</font>' <font color=\"red\">2</font>스택 부여<br/><font color=\"blue\">강심장</font> : <font color=\"blue\">디버프 면역</font> 및 <font color=\"blue\">반사</font> 및 시술자 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">생명 회복</font><br/>최대 <font color=\"red\">3</font>중첩, 해제 불가",
       "SubSkills": null,
       "Animation": null
     },

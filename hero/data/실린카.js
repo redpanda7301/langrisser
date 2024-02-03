@@ -80,7 +80,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "고독한 달의 핏빛 의지",
-    "Stats": "공격 <font color=\"red\">+5</font>%<br/><font color=\"blue\">디스트럭션 드림</font>을 사용해서 목표를 격파하지 못했을 경우 해당 스킬 쿨타임 <font color=\"red\">-3</font>",
+    "Stats": "공격 <font color=\"red\">+5</font>%<br/><font color=\"blue\">라스트 블러드</font>을 사용해서 목표를 격파하지 못했을 경우 해당 스킬 쿨타임 <font color=\"red\">-3</font>",
   },
   "Equip": {
     "Name": "반역의 깃털 가면(투구)",

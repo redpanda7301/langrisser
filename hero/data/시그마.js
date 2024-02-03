@@ -108,7 +108,10 @@
       ]
     }
   ],
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "사냥의 규칙",
+    "Stats": "기술 <font color=\"red\">+10</font>%<br/><font color=\"blue\">레인저의 눈</font>을 사용 후, 행동 종료 시 추가로 <font color=\"blue\">레인저의 마음</font> 추가 사용"
+  },
   "Equip": {
     "Name": "스카우터(투구)",
     "Stats": "생명 437,마방 59",

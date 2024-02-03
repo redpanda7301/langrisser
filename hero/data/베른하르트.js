@@ -16,6 +16,10 @@
     {
       "ImageUrl": "베른하르트/4.webp",
       "Desc": "한정판매"
+    },
+    {
+      "ImageUrl": "베른하르트/sp.webp",
+      "Desc": "SP 각성"
     }
   ],
   "Name": "베른하르트",
@@ -82,7 +86,32 @@
       ]
     }
   ],
-  "SPTalent": null,
+  "SPTalent": [
+    {
+      "Name": "심연의 패자",
+      "Icon": "SP_Gift_Bernhardt.webp",
+      "Abilities": [
+        {
+          "Desc": "1성"
+        },
+        {
+          "Desc": "2성"
+        },
+        {
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>전투 진입 시 피해 및 방어 <font color=\"red\">+10</font>%<br/>주위 <font color=\"red\">+2</font>칸 내 모든 적의 공격 방어 <font color=\"red\">-5</font>% 및 행동 종료시 무작위 버프 <font color=\"red\">1</font>개 제거"
+        },
+        {
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>전투 진입 시 피해 및 방어 <font color=\"red\">+13</font>%<br/>주위 <font color=\"red\">+2</font>칸 내 모든 적의 공격 방어 <font color=\"red\">-8</font>% 및 행동 종료시 무작위 버프 <font color=\"red\">1</font>개 제거"
+        },
+        {
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>전투 진입 시 피해 및 방어 <font color=\"red\">+16</font>%<br/>주위 <font color=\"red\">+2</font>칸 내 모든 적의 공격 방어 <font color=\"red\">-11</font>% 및 행동 종료시 무작위 버프 <font color=\"red\">1</font>개 제거"
+        },
+        {
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>전투 진입 시 피해 및 방어 <font color=\"red\">+20</font>%<br/>주위 <font color=\"red\">+2</font>칸 내 모든 적의 공격 방어 <font color=\"red\">-15</font>% 및 행동 종료시 무작위 버프 <font color=\"red\">1</font>개 제거"
+        }
+      ]
+    }
+  ],
   "Second_Awaken": null,
   "Equip": {
     "Name": "패왕의 전투 갑주(갑옷)",
@@ -101,7 +130,9 @@
     64,
     74,
     72,
-    94
+    94,
+    96,
+    98
   ],
   "Jobs": [
     {
@@ -119,6 +150,9 @@
         },
         {
           "ImageUrl": "베른하르트/4/1.webp"
+        },
+        {
+          "ImageUrl": "베른하르트/sp/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -140,6 +174,44 @@
       "HeartFetterBouns2": "근접공격을 받아 전투 진입시 입히는피해 +10%"
     },
     {
+      "Name": "어둠을 다스리는 황제",
+      "Icon": "Icon_Occupation_DragonSP.webp",
+      "SD": [
+        {
+          "ImageUrl": "베른하르트/sp/1.webp"
+        },
+        {
+          "ImageUrl": "베른하르트/2/1.webp"
+        },
+        {
+          "ImageUrl": "베른하르트/3/1.webp"
+        },
+        {
+          "ImageUrl": "베른하르트/4/1.webp"
+        },
+        {
+          "ImageUrl": "베른하르트/sp/1.webp"
+        }
+      ],
+      "AttkRange": 1,
+      "Move": 4,
+      "MoveType": "Walk",
+      "HP": 5042,
+      "HPRate": 84,
+      "Attk": 568,
+      "AttkRate": 78,
+      "Int": 260,
+      "IntRate": 40,
+      "Def": 376,
+      "DefRate": 81,
+      "MagicDef": 290,
+      "MagicDefRate": 63,
+      "Skill": 135,
+      "SkillRate": 38,
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+    },
+    {
       "Name": "엠퍼러",
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
@@ -154,6 +226,9 @@
         },
         {
           "ImageUrl": "베른하르트/4/1.webp"
+        },
+        {
+          "ImageUrl": "베른하르트/sp/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -395,7 +470,178 @@
       ]
     }
   ],
-  "SPOpenConditions": null,
+  "SPOpenConditions": [
+    {
+      "Name": "개방",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/AlterEgo_Bernhardt.webp",
+          "Amount": 1
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank8-2.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank7-7.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/classup/rank6-2.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "1단계 미션",
+      "Materials": [],
+      "Desc": "베른하르트를 포함 파티를 짜서 형귀 헬스장 바란(창병) 60레벨 이상 클리어"
+    },
+    {
+      "Name": "2단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/item/스알열쇠.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/알열쇠.webp",
+          "Amount": 50
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "2단계 미션",
+      "Materials": [],
+      "Desc": "패왕의 전투 갑주(갑옷) 레벨 50 달성"
+    },
+    {
+      "Name": "3단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/룬스톤.webp",
+          "Amount": 2
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "3단계 미션",
+      "Materials": [],
+      "Desc": "베른하르트를 포함 파티를 짜서 여신의 시련 - 화룡 파프니르 60레벨 이상 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "어둠을 다스리는 황제 전직 가능, 심연의 패자(SP 고유기술)스킬 획득, SP 일러스트 획득"
+    },
+    {
+      "Name": "4단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h3.webp",
+          "Amount": 60
+        },
+        {
+          "MaterialImgUrl": "../img/heart/h3-1.webp",
+          "Amount": 30
+        },
+        {
+          "MaterialImgUrl": "../img/heart/x.webp",
+          "Amount": 12
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "4단계 미션",
+      "Materials": [],
+      "Desc": "베른하르트를 포함 파티를 짜서 형귀 헬스장 로키(비병) 65레벨 이상 클리어"
+    },
+    {
+      "Name": "5단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/오락기.webp",
+          "Amount": 40
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "5단계 미션",
+      "Materials": [],
+      "Desc": "베른하르트를 포함 파티를 짜서 여신의 시련 - 뇌룡 카르코사 65레벨 이상 클리어"
+    },
+    {
+      "Name": "6단계 재료",
+      "Materials": [
+        {
+          "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+          "Amount": 600
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior1.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior2.webp",
+          "Amount": 5
+        },
+        {
+          "MaterialImgUrl": "../img/stone/StoneA_Warrior4.webp",
+          "Amount": 5
+        }
+      ],
+      "Desc": ""
+    },
+    {
+      "Name": "6단계 미션",
+      "Materials": [],
+      "Desc": "베른하르트를 포함 파티를 짜서 영원의 신전 - 발키리 65레벨 클리어"
+    },
+    {
+      "Name": "",
+      "Materials": [],
+      "Desc": "SP 스탯, SP 스킬 2개 활성화, 불꽃 카발리에 고용가능"
+    }
+  ],
   "Skills": [
     {
       "Name": "검무",
@@ -568,6 +814,58 @@
       ],
       "IconImageUrl": "../img/skills/Skill_IronHand.webp",
       "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br/>[응수]효과 획득, 2턴 지속.",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 황제의 개선",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "액티브"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "4턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/베른하르트/1.webp",
+      "Desc": "[패시브]해당 스킬 사용 후, 행동 종료 시 해당 스킬을 '<font color=\"blue\">검무</font>' '<font color=\"blue\">방패치기</font>' '<font color=\"blue\">명계정벌</font>' 중 임의의 스킬로 대체 가능<br/>지속 <font color=\"red\">2</font>행동<br/>[액티브]'<font color=\"blue\">파열</font>' 효과 획득<br/>지속 <font color=\"red\">3</font>행동, <b>해제 불가</b><br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">3</font>칸<br/><b>해당 스킬의 재행동은 버프 지속시간을 소모하지 않음</b>",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "SP : 명계 정벌",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "2칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/sp/베른하르트/2.webp",
+      "Desc": "[물리피해] 단일 개체 <font color=\"red\">1.5</font>배 피해<br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/>전투 전 적에게 <font color=\"blue\">치료 불가</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동, 전투 후 적에게 '<font color=\"blue\">복종의 낙인</font>' 부여<br/><font color=\"blue\">복종의 낙인</font> : 행동 종료 시 최대 생명 <font color=\"red\">20<font>% 수치 <font color=\"blue\">고정 피해</font> 및 <font color=\"blue\">이동력 저하</font> 효과<br/>주위 <font color=\"red\">2</font>칸 범위 안에 아군이 있을 경우, <font color=\"blue\">제거</font>시 무작위 아군 <font color=\"red\">1</font>명에게 부여, <b>해제 불가</b><br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>",
       "SubSkills": null,
       "Animation": null
     },

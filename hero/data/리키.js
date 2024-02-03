@@ -1,4 +1,4 @@
-﻿var data = [
+var data = [
 {
   "Skins": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "ImageUrl": "리키/3.webp",
-      "Desc": "빛의 메아리"
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "리키",
@@ -95,7 +95,9 @@
     78,
     77,
     21,
-    94
+    94,
+    96,
+    98
   ],
   "Jobs": [
     {
@@ -107,6 +109,9 @@
         },
         {
           "ImageUrl": "리키/2/1.webp"
+        },
+		{
+          "ImageUrl": "리키/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -136,6 +141,9 @@
         },
         {
           "ImageUrl": "리키/2/2.webp"
+        },
+		{
+          "ImageUrl": "리키/3/1.webp"
         }
       ],
       "AttkRange": 1,

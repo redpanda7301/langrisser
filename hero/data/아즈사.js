@@ -90,7 +90,7 @@
   "Equip": {
     "Name": "낭월청진(투구)",
     "Stats": "생명 364,마방 65",
-    "Icon": "아샤메르.webp",
+    "Icon": "아즈사.webp",
     "Ability": "생명, 방어<font color=\"red\">+5</font>%<br/><font color=\"blue\">쌍원호체</font> 보유하는 동안 스킬 피해량<font color=\"red\">+10</font>%<br/>'<font color=\"blue\">강</font>','<font color=\"blue\">유</font>','<font color=\"blue\">쌍원호체</font>'가 있는 상태에서 <b>사망 시</b><br/>그것들을 소모하며 <font color=\"red\">50</font>% 생명으로 <font color=\"blue\">부활</font><br/>발동 제한 <font color=\"red\">1</font>회"
   },
   "Soldiers": [

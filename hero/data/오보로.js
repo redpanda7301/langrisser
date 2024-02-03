@@ -79,7 +79,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "비룡의 위세",
+    "Stats": "스킬 피해 <font color=\"red\">+10</font>%<br/>자신이 <font color=\"blue\">용화</font> 상태이며 <font color=\"blue\">용의 위엄</font>이 최대 스택이 아닐 경우, <font color=\"blue\">용의 분노</font>로 적 격파 시 <font color=\"blue\">용의 위엄</font> <font color=\"red\">1</font>스택 획득"
+  },
   "Equip": {
     "Name": "영식법상(투구)",
     "Stats": "생명 437,마방 59",
@@ -94,7 +97,8 @@
     49,
     68,
     27,
-    23
+    23,
+    101
   ],
   "Jobs": [    
     {

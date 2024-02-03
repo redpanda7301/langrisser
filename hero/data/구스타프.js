@@ -569,6 +569,20 @@
       "Animation": null
     },
     {
+      "Name": "사수",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
+      "Desc": "전투 진입 시 방어 <font color=\"red\">+7</font>%",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
       "Name": "시간을 왜곡하는 파멸",
       "Cost": "COST 3",
       "Entries": [
