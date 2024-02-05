@@ -173,93 +173,19 @@
     },
     {
       "ClassTitle": "금식환룡 :",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "세계를 지키는 용 :",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "고독한 칼날 :",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "세계를 지키는 역날",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     }
   ],
   "SPOpenConditions": null,
@@ -548,7 +474,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font> 지속.",
+      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

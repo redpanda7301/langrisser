@@ -35,10 +35,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "이리스를 영원한 밤의 서약 전직"
+      "Condition": "영원한 밤의 서약 전직"
     },
     {
       "Condition": "아단켈모의 도움을 받아 운명의문4"
@@ -467,7 +467,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font> 지속.",
+      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

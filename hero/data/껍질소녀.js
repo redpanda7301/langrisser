@@ -42,7 +42,7 @@
       "Condition": "껍질 소녀를 출전시켜 시공의 균열 3-6 클리어"
     },
     {
-      "Condition": "껍질 소녀를 사이오닉 파괴자로 전직"
+      "Condition": "껍질 소녀를 사이오닉 파괴자전직"
     },
     {
       "Condition": "율리안 도움 하에 유대의문 4 클리어"
@@ -97,7 +97,8 @@
     45,
     39,
     90,
-    93
+    93,
+    104
   ],
   "Jobs": [
     {
@@ -404,7 +405,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "[지원]범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -430,7 +431,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.3</font>배의 피해를 준다.<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 회복한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },

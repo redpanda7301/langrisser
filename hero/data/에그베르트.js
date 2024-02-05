@@ -42,7 +42,7 @@
       "Condition": "에그베르트를 출전시켜 아레나에서 5회 승리"
     },
     {
-      "Condition": "에그베르트를 다크 마스터로 전직"
+      "Condition": "에그베르트를 다크 마스터전직"
     },
     {
       "Condition": "제시카의 도움 하에 '사제' 클리어"
@@ -99,7 +99,8 @@
     65,
     81,
     87,
-    88
+    88,
+    104
   ],
   "Jobs": [
     {
@@ -515,7 +516,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -607,7 +608,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },

@@ -41,10 +41,10 @@
       "Condition": "아이리스를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "아이리스를 초능력 소녀로 전직"
+      "Condition": "아이리스를 초능력 소녀전직"
     },
     {
-      "Condition": "아이리스를 아이리스 전용 광무로 전직"
+      "Condition": "아이리스를 아이리스 전용 광무전직"
     }
   ],
   "HeartFetter": "생명+450, 방어+30, 마방+50",
@@ -450,7 +450,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "[지휘] 주위 2칸 내 모든 아군 마방 +15%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15</font>%",
       "SubSkills": null,
       "Animation": null
     },
@@ -476,7 +476,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

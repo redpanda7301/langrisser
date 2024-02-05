@@ -43,7 +43,7 @@
   "HowToGet": "소환",
   "Fetters": [
     {
-      "Condition": "탄생의 빛 레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
       "Condition": "시공 3-1 클리어"

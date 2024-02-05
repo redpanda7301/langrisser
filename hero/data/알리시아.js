@@ -41,10 +41,10 @@
       "Condition": "알리시아를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "알리시아를 정예 정찰병 전직"
+      "Condition": "정예 정찰병 전직"
     },
     {
-      "Condition": "알리시아를 정예 돌격병 전직"
+      "Condition": "정예 돌격병 전직"
     }
   ],
   "HeartFetter": "생명+600, 방어+50, 마방+40",
@@ -413,7 +413,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font> 지속.",
+      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

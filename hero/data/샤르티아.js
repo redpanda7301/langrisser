@@ -41,10 +41,10 @@
       "Condition": "샤르티아를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "샤르티아를 커스드 나이트로 전직"
+      "Condition": "샤르티아를 커스드 나이트전직"
     },
     {
-      "Condition": "샤르티아를 진조로 전직"
+      "Condition": "샤르티아를 진조전직"
     }
   ],
   "HeartFetter": "생명+600, 방어+40, 마방+30",
@@ -378,7 +378,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_SPDBuf1.webp",
-      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 이동력+1 및<br/>면역:'이동력 저하','치료 반전', 1턴 지속.",
+      "Desc": "행동 종료 시 근접한 <font color=\"red\">1</font>개 아군 부대의 이동력 <font color=\"red\">+1</font> 및<br/>'<font color=\"blue\">이동력 저하 면역</font>','<font color=\"blue\">치료 저하 면역</font>'<br/>쿨타임 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -486,7 +486,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },

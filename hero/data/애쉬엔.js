@@ -149,121 +149,30 @@
     }
   ],
   "Materials": {
-    "HeartFetter": [
-      
-    ],
-    "Fetter": [
-      
-    ],
-    "Awaken": [      
-    ]
+    "HeartFetter": null,
+    "Fetter":null,
+    "Awaken":null
   },
   "ClassUp": [
     {
       "ClassTitle": "페가수스 공주 : 공격+9, 방어+4",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-           
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers":null
     },
     {
       "ClassTitle": "황금빛 검 : 생명+48, 공격+12",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "용맹한 영광의 검 : 생명+90, 공격+25, 방어+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "무지개 빛 날개 : 생명+80, 마방+5",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "하늘을 수놓는 빛나는 날개 : 생명+90, 공격+25, 기술+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     }    
   ],
   "SPOpenConditions": null,

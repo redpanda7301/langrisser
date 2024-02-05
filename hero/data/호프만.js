@@ -41,7 +41,7 @@
       "Condition": "호프만을 출전시켜 시공의 균열 3-1 [정예] 클리어"
     },
     {
-      "Condition": "호프만을 방패 검사 원수 전직"
+      "Condition": "방패 검사 원수 전직"
     },
     {
       "Condition": "애쉬안의 도움을 받아 운명의문5 클리어"
@@ -148,121 +148,30 @@
     }
   ],
   "Materials": {
-    "HeartFetter": [
-      
-    ],
-    "Fetter": [
-      
-    ],
-    "Awaken": [      
-    ]
+    "HeartFetter": null,
+    "Fetter":null,
+    "Awaken":null
   },
   "ClassUp": [
     {
       "ClassTitle": "전사 : 생명+36, 공격+9",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-           
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers":null
     },
     {
       "ClassTitle": "방패 검사 : 생명+48, 방어+8",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "방패 검사 원수 : 생명+90, 공격+15, 방어+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "날개 방패 : 생명+80, 마방+5",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "날개 방패 원수 : 생명+90, 공격+25, 기술+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     }    
   ],
   "SPOpenConditions": null,

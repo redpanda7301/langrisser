@@ -38,7 +38,7 @@
       "Condition": "롤랑 30레벨 도달"
     },
     {
-      "Condition": "롤랑를 빛의 성재로 전직"
+      "Condition": "롤랑를 빛의 성재전직"
     },
     {
       "Condition": "란디우스의 도움을 받아 운명의 문4 클리어"
@@ -158,108 +158,23 @@
   "ClassUp": [
     {
       "ClassTitle": "빛의 검사 : ",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "성스러운 빛의 사도 : ",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "빛의 성재 : 생명+150, 공격+15, 방어+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "서모너 : 생명+80, 방어+5",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "허미트 : 생명+150, 방어+10, 마방+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     }
   ],
   "SPOpenConditions": null,

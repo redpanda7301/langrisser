@@ -616,7 +616,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20</font>%.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

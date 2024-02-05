@@ -37,7 +37,7 @@
       "Condition": "이쿠사베 와타루를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "히어로 전직"
+      "Condition": "히어전직"
     },
     {
       "Condition": "류오마루 전직"
@@ -432,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
     },

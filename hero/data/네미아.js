@@ -44,7 +44,7 @@
       "Condition": "롤랑의 도움을 받아 운명의문 5 클리어"
     },
     {
-      "Condition": "네미아가 요정의 희망 전직"
+      "Condition": "요정의 희망 전직"
     }
   ],
   "HeartFetter": "생명+400, 방어+30, 마방+30",
@@ -87,7 +87,8 @@
    85,
    45,
    99,
-   102
+   102,
+   104
   ],
   "Jobs": [
     {
@@ -177,93 +178,19 @@
     },
     {
       "ClassTitle": "저격수 : 생명+48, 공격+12",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "레인저 : 생명+90, 공격+25, 기술+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "여왕의 특사 : 생명+80, 방어+5",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "엘프의 희망 : 생명+90, 공격+25, 마방+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     }
   ],
   "SPOpenConditions": null,
@@ -330,7 +257,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font> 지속.",
+      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

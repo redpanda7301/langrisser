@@ -31,16 +31,16 @@
   "HowToGet": "한정 콜라보 소환",
   "Fetters": [
     {
-      "Condition": "레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
       "Condition": "시공 3-1 하드"
     },
     {
-      "Condition": "클래스 드래곤마스터 전직"
+      "Condition": "드래곤마스터 전직"
     },
     {
-      "Condition": "클래스 로열 나이트 전직"
+      "Condition": "로열 나이트 전직"
     }
   ],
   "HeartFetter": "생명+600, 방어+40, 마방+50",
@@ -447,7 +447,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },

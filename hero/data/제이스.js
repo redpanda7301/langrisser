@@ -174,93 +174,19 @@
     },
     {
       "ClassTitle": "아크메이지  : 생명+48, 지력+12",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "위저드 : 생명+90, 마방+10, 지력+25",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "마터 : 마방+8, 지력+7",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "세인트 : 지력+25, 마방 +10, 생명+90",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     }
   ],
   "SPOpenConditions": null,
@@ -339,7 +265,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Metro.webp",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.36</font>배의 광역 피해를 준다.<br/>'보병'에게 더 큰 피해를 준다. <br/>적은 다음 행동 종료 시 생명의 <font color=\"red\">20</font>%를 잃는다.",
+      "Desc": "범위 내 적에게 <font color=\"red\">0.36</font>배의 피해<br/>'보병'에게 더 큰 피해를 준다.<br/>행동 종료 시 생명 <font color=\"red\">20</font>% 감소",
       "SubSkills": null,
       "Animation": null
     },
@@ -488,7 +414,7 @@
       "Animation": "../img/Super/제이스_Ani.webp"
     }
   ],
-  "Propose": true,
+  "Propose": false,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  

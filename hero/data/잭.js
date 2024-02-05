@@ -148,121 +148,30 @@
     }
   ],
   "Materials": {
-    "HeartFetter": [
-      
-    ],
-    "Fetter": [
-      
-    ],
-    "Awaken": [      
-    ]
+    "HeartFetter": null,
+    "Fetter":null,
+    "Awaken":null
   },
   "ClassUp": [
     {
       "ClassTitle": "검사 : 공격+9, 생명+36",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-           
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers":null
     },
     {
       "ClassTitle": "검투사 : 공격+12, 기술+5",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "검투사 대장 : 생명+90, 공격+25, 방어+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "빛의 항해냥 : 생명+48, 공격+12",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "검투사 대장 : 생명+90, 공격+25, 방어+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     }    
   ],
   "SPOpenConditions": null,

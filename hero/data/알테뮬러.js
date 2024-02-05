@@ -54,7 +54,7 @@
       "Condition": "알테뮬러를 레벨 30 달성"
     },
     {
-      "Condition": "알테뮬러를 드래곤 마스터로 전직"
+      "Condition": "알테뮬러를 드래곤 마스터전직"
     },
     {
       "Condition": "안나의 도움 하에 '또 다른 결말' 클리어"
@@ -692,7 +692,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },

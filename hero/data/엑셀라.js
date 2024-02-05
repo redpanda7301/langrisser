@@ -38,10 +38,10 @@
       "Condition": "시공 3-1 정예 클리어"
     },
     {
-      "Condition": "칠흑황녀 전직"
+      "Condition": "칠흑 황녀 전직"
     },
     {
-      "Condition": "어룡기사 전직"
+      "Condition": "어룡 기사 전직"
     }
   ],
   "HeartFetter": "생명+800, 방어+50, 마방+60",
@@ -374,7 +374,7 @@
       "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 방어 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
-    },    
+    },
     {
       "Name": "인과의 초대",
       "Cost": "COST 2",

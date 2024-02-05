@@ -38,10 +38,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "클래스 파멸의날개 전직"
+      "Condition": "파멸의 날개 전직"
     },
     {
       "Condition": "브렌다와 함께 운명의문4"

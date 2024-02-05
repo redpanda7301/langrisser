@@ -139,41 +139,30 @@
     }
   ],
   "Materials": {
-    "HeartFetter": [
-      
-    ],
-    "Fetter": [
-
-    ],
-    "Awaken": [
-
-    ]
+    "HeartFetter": null,
+    "Fetter":null,
+    "Awaken": null
   },
   "ClassUp": [
     {
       "ClassTitle": "마술사 :",
-      "Tiers": [
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "대마법사 :",
-      "Tiers": [
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "정령 마도사 :",
-      "Tiers": [
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "마검사 :",
-      "Tiers": [
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "정령 검사 :",
-      "Tiers": [
-      ]
+      "Tiers": null
     }
   ],
   "SPOpenConditions": null,

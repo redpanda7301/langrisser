@@ -46,7 +46,7 @@
       "Condition": "크리스티안네 출전시켜<br/> 시공의 균열 3-6 클리어"
     },
     {
-      "Condition": "클래스 황실 방패 호위 전직"
+      "Condition": "황실 방패 호위 전직"
     },
     {
       "Condition": "츠바메의 도움을 받아 운명의문4 클리어"
@@ -538,7 +538,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15</font>%.",
       "SubSkills": null,
       "Animation": null
     },

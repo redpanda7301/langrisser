@@ -39,16 +39,16 @@
   "HowToGet": "한정 콜라보 이벤트",
   "Fetters": [
     {
-      "Condition": "레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
       "Condition": "아인즈를 출전시켜 시공의 균열 3-1 하드 클리어"
     },
     {
-      "Condition": "아인즈를 불사자의 왕으로 전직"
+      "Condition": "아인즈를 불사자의 왕전직"
     },
     {
-      "Condition": "아인즈를 죽음의 왕으로 전직"
+      "Condition": "아인즈를 죽음의 왕전직"
     }
   ],
   "HeartFetter": "생명+400, 방어+20, 마방+60",
@@ -464,7 +464,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },

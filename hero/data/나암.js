@@ -50,7 +50,7 @@
       "Condition": "나암을 출전시켜 아레나에서 5회 승리"
     },
     {
-      "Condition": "나암을 레인저로 전직"
+      "Condition": "나암을 레인저전직"
     },
     {
       "Condition": "란스의 도움 하에 '백발의 군사' 클리어"
@@ -756,7 +756,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "[지휘] 주위 2칸 내 모든 아군 마방 +15%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15</font>%",
       "SubSkills": null,
       "Animation": null
     },

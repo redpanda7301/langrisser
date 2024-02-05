@@ -42,7 +42,7 @@ var data = [
       "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "리키를 영웅으로 전직"
+      "Condition": "리키를 영웅전직"
     },
     {
       "Condition": "레이첼의 도움을 받아 운명의문4 클리어"

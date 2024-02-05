@@ -41,10 +41,10 @@
       "Condition": "키리카를 출전시켜 시공의 균열[정예]3-1 클리어"
     },
     {
-      "Condition": "키리카가 가무녀로 전직"
+      "Condition": "성인가의 전직"
     },
     {
-      "Condition": "키리카가 용익궁 연주자 전직"
+      "Condition": "용익궁 연주자 전직"
     }
   ],
   "HeartFetter": "생명+400, 방어+30, 마방+30",
@@ -453,7 +453,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font> 지속.",
+      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

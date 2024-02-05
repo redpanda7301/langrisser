@@ -41,10 +41,10 @@
       "Condition": "린을 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "린을 검성으로 전직"
+      "Condition": "린을 검성전직"
     },
     {
-      "Condition": "린을 잿빛 영웅으로 전직"
+      "Condition": "린을 잿빛 영웅전직"
     }
   ],
   "HeartFetter": "생명+750, 방어+50, 마방+50",
@@ -437,7 +437,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordCrash3.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 1.4배 피해를 준다. 치명타율 +20%.",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.4</font>배 피해<br/>치명타율 <font color=\"Red\">+20</font>%.",
       "SubSkills": null,
       "Animation": null
     },

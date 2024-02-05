@@ -45,7 +45,7 @@
       "Condition": "시공 3-6 일반"
     },
     {
-      "Condition": "클래스 마법기사 마스터 전직"
+      "Condition": "마법기사 마스터 전직"
     },
     {
       "Condition": "란포드와 함께 운명의문4"

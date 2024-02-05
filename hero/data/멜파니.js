@@ -406,7 +406,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
+      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -432,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

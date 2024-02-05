@@ -35,10 +35,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "루그너를 레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "루그너를 성자로 전직"
+      "Condition": "루그너를 성자전직"
     },
     {
       "Condition": "탄생의빛 도움 받아 유대의문4 클리어"

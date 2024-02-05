@@ -465,7 +465,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FrostRay2.webp",
-      "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'창병'와 전투 시 더 큰 피해를 입힌다. 적군의 이동력 -1, 2턴 지속",
+      "Desc": "<font color=\"red\">3</font>개의 직선 상의 모든 적군에게 <font color=\"red\">0.36</font>배 범위 피해를 입히며 <font color=\"blue\">이동력 <font color\"red\">-1</font></font> 부여,<br/> 지속 <font color=\"red\">2</font><br/>'창병'에게 더 큰 피해를 입힌다.",
       "SubSkills": null,
       "Animation": null
     },

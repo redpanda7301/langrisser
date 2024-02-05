@@ -562,7 +562,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

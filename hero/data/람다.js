@@ -50,7 +50,7 @@
       "Condition": "람다 레벨 30 달성"
     },
     {
-      "Condition": "람다를 아바탈로 전직"
+      "Condition": "람다를 아바탈전직"
     },
     {
       "Condition": "레이첼을 도와 레이첼의 운명의 문4 클리어"
@@ -432,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_WindStrike.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -484,7 +484,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
+      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },

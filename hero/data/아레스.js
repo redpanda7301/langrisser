@@ -39,10 +39,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "클래스 엠퍼러 전직"
+      "Condition": "엠퍼러 전직"
     },
     {
       "Condition": "마이야와 함께 운명의문4"
@@ -501,7 +501,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },

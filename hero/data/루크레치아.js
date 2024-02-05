@@ -98,7 +98,8 @@
     62,
     43,
     12,
-    39
+    39,
+    104
   ],
   "Jobs": [
     {
@@ -482,7 +483,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
+      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -508,7 +509,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.3배의 피해를 준다.<br/>적의 마방을 30% 무시. 전투 후 준 피해량의 50%만큼 회복한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -652,7 +653,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20</font>%.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -678,7 +679,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HolySuper.webp",
-      "Desc": "[마법 피해]치명타 확률 +50%, 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더 큰 피해를 준다.",
+      "Desc": "치명타 확률 <font color =\"red\">+50</font>% <br/>주위 <font color =\"red\">5</font>칸 내 모든 적에게 <font color =\"red\">0.35</font>배 범위 피해<br/>'마족'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },

@@ -46,7 +46,7 @@
       "Condition": "아레나 5승"
     },
     {
-      "Condition": "클래스 제국 재상 전직"
+      "Condition": "제국 재상 전직"
     },
     {
       "Condition": "츠바메와 함께 운명의문"
@@ -473,7 +473,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 +20%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, 2턴 지속.",
+      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20</font>%.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -553,7 +553,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

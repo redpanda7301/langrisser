@@ -41,10 +41,10 @@
       "Condition": "알티나를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "알티나를 위저드로 전직"
+      "Condition": "알티나를 위저드전직"
     },
     {
-      "Condition": "알티나를 제국 첩보원으로 전직"
+      "Condition": "알티나를 제국 첩보원전직"
     }
   ],
   "HeartFetter": "생명+350, 방어+40, 마방+50",
@@ -478,7 +478,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "[지원] 액티브 스킬, 범위 내 아군들의 마방+30%,<br/>그리고 '기절', '강화 방해', '이동력 감소' 면역 부여, 2턴 지속.",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -492,7 +492,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },

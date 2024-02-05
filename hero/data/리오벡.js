@@ -43,10 +43,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "리오벡을 사령 군주로 전직"
+      "Condition": "리오벡을 사령 군주전직"
     },
     {
       "Condition": "껍질 소녀 도움 하에 유대의문 4 클리어"
@@ -98,7 +98,8 @@
     87,
     12,
     65,
-    88
+    88,
+    104
   ],
   "Jobs": [
     {
@@ -426,7 +427,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <fo%. color=\"red\">+15</fo%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15</font>%",
       "SubSkills": null,
       "Animation": null
     },
@@ -452,7 +453,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.3</font>배의 피해를 준다.<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 회복한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },

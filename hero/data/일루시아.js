@@ -39,10 +39,10 @@ var data = [
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "클래스 서펜트 마스터 전직"
+      "Condition": "서펜트 마스터 전직"
     },
     {
       "Condition": "미지의기사와 함께 운명의문4"

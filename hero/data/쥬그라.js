@@ -47,10 +47,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "쥬그라를 바하무트로 전직"
+      "Condition": "쥬그라를 바하무트전직"
     },
     {
       "Condition": "소피아의 도움 하에 '의외의 만남' 클리어"

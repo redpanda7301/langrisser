@@ -46,7 +46,7 @@
       "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "아단켈모를 금단의 예언자로 전직"
+      "Condition": "아단켈모를 금단의 예언자전직"
     },
     {
       "Condition": "집정관의 도움을 받아 운명의문 4번 클리어"
@@ -431,7 +431,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "[지원]범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

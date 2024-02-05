@@ -38,10 +38,10 @@
       "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "강신자를 종말의 신 강림으로 전직"
+      "Condition": "종말의 신 강림 전직"
     },
     {
-      "Condition": "강신자를 강림한 재앙으로 전직"
+      "Condition": "강림한 재앙 전직"
     },
     {
       "Condition": "마크렌의 도움을 받아 운명의문 5 클리어"
@@ -159,38 +159,11 @@
   "ClassUp": [
     {
       "ClassTitle": "심연의 그림자 : 공격+9, 방어+4",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "어두운 침식의 근원 : 공격+12, 방어+5",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "종말의 신 강림 : 생명+90, 공격+25, 기술+10",
@@ -220,48 +193,11 @@
     },
     {
       "ClassTitle": "하늘을 가리는 찢어진 날개 : 생명+80, 방어+5",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     },
     {
       "ClassTitle": "강림한 재앙 : 생명+90, 공격+25, 마방+10",
-      "Tiers": [
-        {
-          "Name": "T1",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T2",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T3",
-          "Materials": [
-          ]
-        },
-        {
-          "Name": "T4",
-          "Materials": [
-          ]
-        }
-      ]
+      "Tiers": null
     }
   ],
   "SPOpenConditions": null,

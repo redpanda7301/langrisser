@@ -41,10 +41,10 @@
       "Condition": "쿠라마를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "쿠라마를 마계의 장미로 전직"
+      "Condition": "쿠라마를 마계의 장미전직"
     },
     {
-      "Condition": "쿠라마를 요호 전생으로 전직"
+      "Condition": "쿠라마를 요호 전생전직"
     }
   ],
   "HeartFetter": "생명+350, 방어+40, 마방+60",
@@ -88,7 +88,8 @@
     70,
     85,
     88,
-    102
+    102,
+    105
   ],
   "Jobs": [
     {
@@ -363,7 +364,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_WindStrike.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>'비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },

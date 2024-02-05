@@ -195,8 +195,7 @@
     },
     {
       "ClassTitle": "시간을 꿰뚫는 신의 호박 : 생명+150, 공격+15, 마방+10",
-      "Tiers": [
-      ]
+      "Tiers": null
     }
   ],
   "SPOpenConditions": null,

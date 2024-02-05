@@ -41,7 +41,7 @@
       "Condition": "페라키아를 출전시켜 시공의 균열 3-6 클리어"
     },
     {
-      "Condition": "페라키아가 미라지 퀸으로 전직"
+      "Condition": "페라키아가 미라지 퀸전직"
     },
     {
       "Condition": "보젤의 도움 하에 운명의 이끌림 클리어"
@@ -424,7 +424,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },

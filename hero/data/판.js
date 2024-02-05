@@ -41,10 +41,10 @@
       "Condition": "시공 3-1 하드"
     },
     {
-      "Condition": "클래스 히어로 전직"
+      "Condition": "히어로 전직"
     },
     {
-      "Condition": "클래스 스트라이크마스터 전직"
+      "Condition": "스트라이크마스터 전직"
     }
   ],
   "HeartFetter": "생명+700, 방어+50, 마방+30",

@@ -758,7 +758,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "[지휘] 주위 2칸 내 모든 아군 공격, 지력 +10%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
     },

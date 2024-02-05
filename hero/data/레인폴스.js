@@ -42,7 +42,7 @@
       "Condition": "시공 3-6 일반"
     },
     {
-      "Condition": "클래스 크림조니아왕자 전직"
+      "Condition": "크림조니아왕자 전직"
     },
     {
       "Condition": "기자로프와 함께 운명의문4"

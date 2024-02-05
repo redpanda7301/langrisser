@@ -38,10 +38,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "클래스 신성 가디언 마스터 전직"
+      "Condition": "신성 가디언 마스터 전직"
     },
     {
       "Condition": "발가스와 함께 운명의문4"

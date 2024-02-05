@@ -41,7 +41,7 @@
       "Condition": "아레나 5승"
     },
     {
-      "Condition": "클래스 해투마스터 전직"
+      "Condition": "마린 마스터 전직"
     },
     {
       "Condition": "람다와 함께 운명의문4"

@@ -45,7 +45,7 @@
       "Condition": "마리엘을 출전시켜 아레나 5승"
     },
     {
-      "Condition": "클래스 신성 신관 전직"
+      "Condition": "신성 신관 전직"
     },
     {
       "Condition": "탄생의 빛의 도움을 받아 운명의문 4 클리어"
@@ -447,7 +447,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "[지휘]주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
     },

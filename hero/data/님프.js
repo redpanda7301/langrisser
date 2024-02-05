@@ -38,10 +38,10 @@
       "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "님프를 심해의 풍경으로 전직"
+      "Condition": "심해의 풍경전직"
     },
     {
-      "Condition": "님프를 환상의 배우로 전직"
+      "Condition": "환상의 배우전직"
     },
     {
       "Condition": "타탈리아의 도움을 받아 운명의문5"

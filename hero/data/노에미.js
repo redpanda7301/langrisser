@@ -38,10 +38,10 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
-      "Condition": "클래스 마법 재봉사 전직"
+      "Condition": "마법 재봉사 전직"
     },
     {
       "Condition": "제시카와 함께 운명의문4"
@@ -462,7 +462,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_SPDBuf1.webp",
-      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 이동력+1 및<br/>면역:'이동력 저하','치료 반전', 1턴 지속.",
+      "Desc": "행동 종료 시 근접한 <font color=\"red\">1</font>개 아군 부대의 이동력 <font color=\"red\">+1</font> 및<br/>'<font color=\"blue\">이동력 저하 면역</font>','<font color=\"blue\">치료 저하 면역</font>'<br/>쿨타임 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -514,7 +514,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IceBolt.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
+      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },

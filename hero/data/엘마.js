@@ -630,7 +630,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "[지휘]<b>주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15</font>%",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15</font>%",
       "SubSkills": null,
       "Animation": null
     },

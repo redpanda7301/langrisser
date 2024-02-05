@@ -57,7 +57,7 @@
       "Condition": "셀파닐을 출전시켜 시공의 균열 3-6 클리어"
     },
     {
-      "Condition": "셀파닐을 프린세스로 전직"
+      "Condition": "셀파닐을 프린세스전직"
     },
     {
       "Condition": "아멜다의 도움 하에 '쌍둥이의 번뇌' 클리어"
@@ -503,7 +503,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "[패시브]행동 종료 시 자신 부대 생명 20% 회복.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -595,7 +595,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HolySuper.webp",
-      "Desc": "[마법 피해]치명타 확률 +50%, 주위 5칸 내 모든 적군에게 0.35배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더 큰 피해를 준다.",
+      "Desc": "치명타 확률 <font color =\"red\">+50</font>% <br/>주위 <font color =\"red\">5</font>칸 내 모든 적에게 <font color =\"red\">0.35</font>배 범위 피해<br/>'마족'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },

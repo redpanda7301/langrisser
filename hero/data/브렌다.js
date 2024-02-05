@@ -42,7 +42,7 @@
   "HowToGet": "영웅 소환",
   "Fetters": [
     {
-      "Condition": "레벨 30"
+      "Condition": "레벨 30 달성"
     },
     {
       "Condition": "시공 3-1 하드"
