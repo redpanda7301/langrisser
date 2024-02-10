@@ -390,7 +390,7 @@
       "Animation": null
     },
     {
-      "Name": "적응성 해킹",
+      "Name": "불꽃 관의 수호",
       "Cost": "COST 3",
       "Entries": [
         {

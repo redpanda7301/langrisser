@@ -78,7 +78,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "세상의 위엄",
+    "Stats": "지력 <font color=\"red\">+10</font>%<br/>일반 공격이 <font color=\"red\">1.5</font>배 피해를 입히며, 선공 후 아군의 <font color=\"purple\">눈부신 빛</font> 위에 있는 아군 부대 생명 <font color=\"green\">회복</font><br/>지력 <font color=\"red\">2</font>배 수치"
+  },
   "Equip": {
     "Name": "과거의 빛(투구)",
     "Stats": "생명 364,마방 65",

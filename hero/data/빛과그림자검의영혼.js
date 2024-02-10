@@ -80,7 +80,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "교차하는 소망(갑옷)",
+    "Stats": "생명 364, 방어 65",
+    "Icon": "빛과그림자검의영혼.webp",
+    "Ability": "생명, 방어 <font color=\"red\">+5</font>%<br/><font color=\"blue\">부활</font> 가능한 적과 전투 시, 부대 공방 <font color=\"red\">+10</font>%<br/>자신이 <font color=\"blue\">부활</font> 발동 후, 해당 위치에 <font color=\"purple\">영혼의 잔재</font> 생성 (쿨 3)"
+  },
   "Soldiers": [
       31,
       60,

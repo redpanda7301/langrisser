@@ -80,7 +80,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "겨울 서리의 자긍심(투구)",
+    "Stats": "생명 437,마방 59",
+    "Icon": "그렌실.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>이동력이 자신보다 높지 않은 부대와 전투 시, <font color=\"blue\">적이 선제공격 불가</font><br/><font color=\"blue\">스킬</font> 사용으로 전투 진입 전, 적이 <font color=\"blue\">이동력 저하</font> 효과를 보유하고 있을 경우<br/>전투 후 해당 스킬 쿨타임 <font color=\"red\">-4</font>(쿨타임 <font color=\"red\">2</font>)"
+  },
   "Soldiers": [
     48,
     35,

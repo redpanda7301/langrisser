@@ -111,7 +111,10 @@
       ]
     }
   ],
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "강철 가시",
+    "Stats": "올스탯 <font color=\"red\">+5</font>%<br/><font color =\"blue\">장미의 진</font> 획득 시, 방어의 기초 수치가 마방보다 높을 경우, <font color =\"blue\">창진</font> 역시 획득<br/>반대일 경우 <font color =\"blue\">강철 장미</font> 획득"
+  },
   "Equip": {
     "Name": "가시 왕관(투구)",
     "Stats": "생명 364,마방 65",

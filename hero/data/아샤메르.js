@@ -79,7 +79,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "경쾌하고 부드러운 자태",
+    "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"purple\">댄스 파트너</font>가 자신 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시<br/><font color=\"red\">2</font>칸 이동력 감소 면제 기회 획득"
+  },
   "Equip": {
     "Name": "고난의 별(투구)",
     "Stats": "생명 364,마방 65",

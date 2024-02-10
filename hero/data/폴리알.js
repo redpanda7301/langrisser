@@ -80,7 +80,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "선령의 속삭임(투구)",
+    "Stats": "생명 583, 마방 48",
+    "Icon": "폴리알.webp",
+    "Ability": "방어 <font color=\"red\">+10</font>%<br/>쿨다운 중인 스킬 <font color=\"red\">1</font>개당 부대 피해 <font color=\"red\">+10<font>%<br/>적을 <font color=\"blue\">위치 이동</font> 시켰을 경우 '<font color=\"blue\">지휘</font>. 주위 <font color=\"red\">2</font>칸 범위 적이 받는 <font color=\"green\">치료</font> <font color=\"red\">-30</font>%' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
+  },
   "Soldiers": [
     25,
     22,

@@ -76,7 +76,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "침묵의 고백(갑옷)",
+    "Stats": "생명 583, 방어 54",
+    "Icon": "투어밀크.webp",
+    "Ability": "생명 <font color=\"red\">+10</font>%<br/>턴 시작 시, <font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font> 중 많은 쪽이 다른 쪽으로 <font color=\"red\">1</font>개 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>의 차이가 적을 수록 영웅이 <font color=\"blue\">주는 피해량</font> 증가<br/> 최대 <font color=\"red\">+10</font>%"
+  },
   "Soldiers": [
     43,
     17,

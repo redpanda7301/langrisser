@@ -112,12 +112,15 @@
       ]
     }
   ],
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "함께하는 의지",
+    "Stats": "공격, 방어 <font color=\"red\">+5</font>%<br/>모든 <font color=\"red\">주인공의 빛</font> 진영 아군은 주위 <font color=\"red\">2</font>칸 범위 안에 다른 아군이 있을 경우, 공격 지력 <font color=\"red\">+10</font>%"
+  },
   "Equip": {
     "Name": "단결의 반지(장신구)",
     "Stats": "생명 509, 공격 75",
     "Icon": "매튜.webp",
-    "Ability": "주변 2칸 이내 아군이 있을시 공격, 방어, 마방 +10%"
+    "Ability": "주변 <font color=\"red\">2</font>칸 이내 아군이 있을시 공격, 방어, 마방 <font color=\"red\">+10</font>%"
   },
   "Soldiers": [
     31,

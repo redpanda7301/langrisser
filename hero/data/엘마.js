@@ -83,7 +83,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "빛의 거울의 성찬식",
+    "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">성광의 거울</font> 지속 시간 <font color=\"red\">+1</font> 및 '행동 종료 시 지력 <font color=\"red\">1.5</font>배 수치 생명 <font color=\"green\">회복</font>' 효과 추가"
+  },
   "Equip": {
     "Name": "경건한 신의 축복(투구)",
     "Stats": "생명 364,마방 65",
