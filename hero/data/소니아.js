@@ -85,7 +85,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "마성의 자질",
-    "Stats": "올스탯 <font color=\"red\">+5</font>%<br/>전투 시작 시 <font color=\"purple\">고유 스킬</font> 강화 <font color=\"red\">1</font>개 획득<br/><font color=\"blue\">혼돈의 소용돌이</font>로 부여하는 디버프 지속 시간 <font color=\"red\">+1</font>"
+    "Stats": "모든 능력치 <font color=\"red\">+5</font>%<br/>전투 시작 시 <font color=\"purple\">고유 스킬</font> 강화 <font color=\"red\">1</font>개 획득<br/><font color=\"blue\">혼돈의 소용돌이</font>로 부여하는 디버프 지속 시간 <font color=\"red\">+1</font>"
   },
   "Equip": {
     "Name": "검은 서광(무기)",

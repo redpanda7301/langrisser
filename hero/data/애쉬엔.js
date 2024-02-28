@@ -484,7 +484,7 @@
       "Animation": "../img/Super/애쉬엔_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  
