@@ -109,7 +109,10 @@
       ]
     }
   ],
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "진심어린 애정",
+    "Stats": "공격 <font color=\"red\">+5</font>%<br/>전장에 <font color=\"red\">2</font>명 이상의 여성 아군이 있을 경우, 스킬을 사용해 적 격파 시 해당 스킬 쿨 <font color=\"red\">-3</font>",
+  },
   "Equip": {
     "Name": "황금 사자(투구)",
     "Stats": "생명 583,마방 48",

@@ -71,7 +71,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken":{
+    "Name" : "빛나느 수훈",
+    "Stats": "<font color=\"green\">치료</font> 효과 <font color=\"red\">+10</font>%<br/><font color=\"blue\">공훈</font> <font color=\"red\">3</font>중첩 시 추가 효과 : <font color=\"blue\">호위</font>시 <font color=\"blue\">선제 반격</font>",
+  },
   "Equip": {
     "Name": "활기찬 소환사(지팡이)",
     "Stats": "생명 437,지력 107",
