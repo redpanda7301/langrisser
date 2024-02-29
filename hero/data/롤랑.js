@@ -502,11 +502,11 @@
             },
             {
               "Label": "사거리",
-              "Value": "6칸"
+              "Value": "3칸"
             },
             {
               "Label": "범위",
-              "Value": "직선"
+              "Value": "3칸"
             }
           ],
           "IconImageUrl": "../img/Super/롤랑_2.webp",
