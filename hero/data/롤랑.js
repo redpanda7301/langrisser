@@ -510,7 +510,7 @@
             }
           ],
           "IconImageUrl": "../img/Super/롤랑_2.webp",
-          "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 피해 및 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여<br/>지속 <font color=\"red\">2</font>행동<br/>적 <font color=\"red\">3</font>명 이상 명중 시, 자신은 '<font color=\"blue\">선공으로 전투 진입 시 피해 <font color=\"red\">+20</font></font>%' 효과 획득<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여<br/>지속 <font color=\"red\">2</font>행동<br/>적 <font color=\"red\">3</font>명 이상 명중 시, 자신은 '<font color=\"blue\">선공으로 전투 진입 시 피해 <font color=\"red\">+20</font></font>%' 효과 획득<br/>지속 <font color=\"red\">2</font>행동"
         }
       ],
       "Animation": "../img/Super/롤랑_Ani.webp"
