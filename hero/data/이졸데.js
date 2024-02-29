@@ -245,7 +245,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Isolde/0_3.webp",
-          "Desc": "이동력 <font color=\"red\">+1</font>, 자신의 <font color=\"red\">2</font>칸 범위 내 <b>아군이 없을 경우</b> <br/><font color=\"blue\">반격 피해</font> <font color=\"red\">+50</font>%, 부대가 받는 피해 <font color=\"red\">-35</font>% 및 <font color=\"blue\">원거리 공격 반격</font> 가능 <br/>피격 후 생명 <font color=\"red\">+35</font>% 수치 회복, </font><font color=\"blue\">호위 무시</font>"
+          "Desc": "스킬 쿨타임 <font color=\"red\">-1</font>"
         }
       ],
       "Animation": null
