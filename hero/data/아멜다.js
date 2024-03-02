@@ -28,6 +28,10 @@
     {
       "ImageUrl": "아멜다/SP.webp",
       "Desc": "SP 각성"
+    },    
+    {
+      "ImageUrl": "아멜다/7.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "아멜다",
@@ -169,6 +173,9 @@
         },
         {
           "ImageUrl": "아멜다/sp/1.webp"
+        },
+        {
+          "ImageUrl": "아멜다/7/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -213,6 +220,9 @@
         },
         {
           "ImageUrl": "아멜다/sp/1.webp"
+        },
+        {
+          "ImageUrl": "아멜다/7/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -257,6 +267,9 @@
         },
         {
           "ImageUrl": "아멜다/sp/1.webp"
+        },
+        {
+          "ImageUrl": "아멜다/7/1.webp"
         }
       ],
       "AttkRange": 2,
