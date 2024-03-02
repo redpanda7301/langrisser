@@ -8,6 +8,10 @@
     {
       "ImageUrl": "님프/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "님프/3.webp",
+      "Desc": "형귀스킨"
     }
   ],
   "Name": "님프",
@@ -77,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "성령의 뿔(무기)",
+    "Name": "먼 바다의 파도 노래(무기)",
     "Stats": "생명 437,지력 107",
     "Icon": "님프.webp",
     "Ability": "지력 +10%<br/><font color=\"purple\">신비한 거품</font> 부여 시, 자신의 모든 스킬 쿨 <font color=\"red\">-1</font><br/>턴 시작 시, 자신이 <font color=\"blue\">영창</font> 효과 보유 시, 추가로 <font color=\"purple\">고유 스킬</font> 카운트 <font color=\"red\">1</font> 추가"
@@ -106,6 +110,9 @@
         },
         {
           "ImageUrl": "님프/2/1.webp"
+        },
+        {
+          "ImageUrl": "님프/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -135,6 +142,9 @@
         },
         {
           "ImageUrl": "님프/2/1.webp"
+        },
+        {
+          "ImageUrl": "님프/3/1.webp"
         }
       ],
       "AttkRange": 1,

@@ -12,6 +12,10 @@
     {
       "ImageUrl": "웨탐/3.webp",
       "Desc": "한정 판매"
+    },
+    {
+      "ImageUrl": "웨탐/4.webp",
+      "Desc": "한정 판매"
     }
   ],
   "Name": "웨탐",
@@ -110,6 +114,9 @@
         },
         {
           "ImageUrl": "웨탐/3/1.webp"
+        },
+        {
+          "ImageUrl": "웨탐/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -142,6 +149,9 @@
         },
         {
           "ImageUrl": "웨탐/3/2.webp"
+        },
+        {
+          "ImageUrl": "웨탐/4/2.webp"
         }
       ],
       "AttkRange": 1,
