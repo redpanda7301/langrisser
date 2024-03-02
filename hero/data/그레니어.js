@@ -169,7 +169,7 @@
           "ImageUrl": "그레니어/sp/1.webp"
         },
         {
-          "ImageUrl": "그레니어/2/2.webp"
+          "ImageUrl": "그레니어/2/sp.webp"
         },
         {
           "ImageUrl": "그레니어/sp/1.webp"
