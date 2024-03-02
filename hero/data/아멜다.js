@@ -26,7 +26,7 @@
       "Desc": "한정판매"
     },
     {
-      "ImageUrl": "아멜다/sp.webp",
+      "ImageUrl": "아멜다/SP.webp",
       "Desc": "SP 각성"
     }
   ],
