@@ -52,19 +52,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "사망시 <font color=\"red\">+10%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
+          "Desc": "사망시 <font color=\"red\">+10%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10%</font> <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15%</font> <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
         },
         {
-          "Desc": "사망시 <font color=\"red\">+15%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
+          "Desc": "사망시 <font color=\"red\">+15%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10%</font> <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15%</font> <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
         },
         {
-          "Desc": "사망시 <font color=\"red\">+20%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
+          "Desc": "사망시 <font color=\"red\">+20%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10%</font> <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15%</font> <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
         },
         {
-          "Desc": "사망시 <font color=\"red\">+25%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
+          "Desc": "사망시 <font color=\"red\">+25%</font> 회복 후 부활 최대 <font color=\"red\">1</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10%</font> <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15%</font> <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
         },
         {
-          "Desc": "사망시 <font color=\"red\">+30%</font> 회복 후 부활 최대 <font color=\"red\">2</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>% <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15</font>% <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
+          "Desc": "사망시 <font color=\"red\">+30%</font> 회복 후 부활 최대 <font color=\"red\">2</font>회 발동. <br/><b><font color=\"blue\">불굴</font></b> 효과 발동 후 <b><font color=\"blue\">백전의 깨우침</font></b>발동<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+10%</font> <br/>피격으로 전투 진입 시 방어  <font color=\"red\">+15%</font> <br/>최대  <font color=\"red\">2</font>중첩 <b><font color=\"blue\">해제 불가</font></b> <b><font color=\"blue\">면역 불가</font></b>"
         }
       ]
     }
@@ -106,8 +106,8 @@
       "MagicDefRate": 55,
       "Skill": 215,
       "SkillRate": 60,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80</font>% <b>이상</b>시 치명타율 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 <font color=\"red\">70</font>% <b>미만</b>시 전투중 입히는피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> <b>이상</b>시 치명타율 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "생명 <font color=\"red\">70%</font> <b>미만</b>시 전투중 입히는피해 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "센오마루",
@@ -132,7 +132,7 @@
       "MagicDefRate": 50,
       "Skill": 164,
       "SkillRate": 48,
-      "HeartFetterBouns1": "받는 범위 피해량이 <font color=\"red\">-10</font>% 감소",
+      "HeartFetterBouns1": "받는 범위 피해량이 <font color=\"red\">-10%</font> 감소",
       "HeartFetterBouns2": "<b>근접 공격을 받아 전투 진입시</b> 피해량 +<font color=\"red\">10</font>%"
     }
   ],
@@ -349,7 +349,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.webp",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%, <br/><font color=\"red\">2</font>행동 지속.",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30%</font>, <br/><font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -455,7 +455,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Shibaraku/2.webp",
-      "Desc": "[치료]액티브 스킬, 부대 생명 <font color=\"red\">70</font>% 회복 및 <br/>자신에게 <b><font color=\"blue\">공격 불가</font></b>,<b><font color=\"blue\">이동 불가</font></b>,<b><font color=\"blue\">침묵</font></b>,<br/>'<b><font color=\"blue\">부대 보통 공격 및 스킬 타게팅 불가</font></b>, <b><font color=\"blue\">호위 불가</font></b>,<b><font color=\"blue\">면역</font></b> 효과 부여, <br/>지속 <font color=\"red\">1</font>행동 (<b>해제 및 면역 불가</b>)",
+      "Desc": "[치료]액티브 스킬, 부대 생명 <font color=\"red\">70%</font> 회복 및 <br/>자신에게 <b><font color=\"blue\">공격 불가</font></b>,<b><font color=\"blue\">이동 불가</font></b>,<b><font color=\"blue\">침묵</font></b>,<br/>'<b><font color=\"blue\">부대 보통 공격 및 스킬 타게팅 불가</font></b>, <b><font color=\"blue\">호위 불가</font></b>,<b><font color=\"blue\">면역</font></b> 효과 부여, <br/>지속 <font color=\"red\">1</font>행동 (<b>해제 및 면역 불가</b>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -521,7 +521,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/시바라쿠.webp",
-      "Desc": "[물리피해] 단일적군을 공격해 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투후 행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 내 적에게 <font color=\"red\">0.33</font>배 범위 피해 및<br/>적에게 다음 턴 행동 종료 시 최대 생명 <font color=\"red\">20</font>% 고정피해 부여",
+      "Desc": "[물리피해] 단일적군을 공격해 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투후 행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 내 적에게 <font color=\"red\">0.33</font>배 범위 피해 및<br/>적에게 다음 턴 행동 종료 시 최대 생명 <font color=\"red\">20%</font> 고정피해 부여",
       "SubSkills": null,
       "Animation": "../img/Super/시바라쿠_Ani.webp"
     }

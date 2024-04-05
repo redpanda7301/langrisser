@@ -127,7 +127,7 @@
   ],
   "Second_Awaken":{
     "Name" : "To Be Continue",
-    "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">메타발언</font> 및 <font color=\"blue\">조롱대회</font> 스킬 사용후<br/>스킬 쿨타임 <font color=\"red\">1</font> ~ <font color=\"red\">4</font>행동 감소",
+    "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">메타발언</font> 및 <font color=\"blue\">조롱대회</font> 스킬 사용후<br/>스킬 쿨타임 <font color=\"red\">1</font> ~ <font color=\"red\">4</font>행동 감소",
   },
   "Equip": {
     "Name": "■ ■ ■ ■(무기)",
@@ -962,7 +962,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/sp/아멜다/1_1.webp",
-          "Desc": "[액티브] 해당 행동 <font color=\"green\">치유</font> 효과 <font color=\"red\">+50</font>%<br/>행동 종료 시, <font color=\"purple\">고유 스킬</font> 발동으로 회복하는 아군 <font color=\"red\">1</font>명 추가"
+          "Desc": "[액티브] 해당 행동 <font color=\"green\">치유</font> 효과 <font color=\"red\">+50%</font><br/>행동 종료 시, <font color=\"purple\">고유 스킬</font> 발동으로 회복하는 아군 <font color=\"red\">1</font>명 추가"
         },
         {
           "Name": "여신은 너를 사랑해~",

@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격 방어 <font color=\"red\">10%</font><br/><b>선공으로 전투 진입 후 사망 시 해당 전투 전 생명으로 부활</b> <font color=\"red\">1</font>회 <br/><b>위험 범위 안에서 선공으로 전투 진입 전 혹은 행동 종료 시 <br/><font color = \"purple\">\"열화의 무장\"</font> 효과 획득:</b> <br/>피해 <font color=\"red\">5</font>%  받는 물리피해 <font color=\"red\">-10</font>% 이동력 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>행동 해제 불가 면역 불가 <br/>쿨타임 <font color=\"red\">6</font> </b>"
+          "Desc": "공격 방어 <font color=\"red\">10%</font><br/><b>선공으로 전투 진입 후 사망 시 해당 전투 전 생명으로 부활</b> <font color=\"red\">1</font>회 <br/><b>위험 범위 안에서 선공으로 전투 진입 전 혹은 행동 종료 시 <br/><font color = \"purple\">\"열화의 무장\"</font> 효과 획득:</b> <br/>피해 <font color=\"red\">5%</font>  받는 물리피해 <font color=\"red\">-10%</font> 이동력 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>행동 해제 불가 면역 불가 <br/>쿨타임 <font color=\"red\">6</font> </b>"
         },
         {
-          "Desc": "공격 방어 <font color=\"red\">15%</font><br/><b>선공으로 전투 진입 후 사망 시 해당 전투 전 생명으로 부활</b> <font color=\"red\">2</font>회 <br/><b>위험 범위 안에서 선공으로 전투 진입 전 혹은 행동 종료 시 <br/><font color = \"purple\">\"열화의 무장\"</font> 효과 획득:</b> <br/>피해 <font color=\"red\">8</font>%  받는 물리피해 <font color=\"red\">-15</font>% 이동력 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>행동 해제 불가 면역 불가 <br/>쿨타임 <font color=\"red\">6</font> </b>"
+          "Desc": "공격 방어 <font color=\"red\">15%</font><br/><b>선공으로 전투 진입 후 사망 시 해당 전투 전 생명으로 부활</b> <font color=\"red\">2</font>회 <br/><b>위험 범위 안에서 선공으로 전투 진입 전 혹은 행동 종료 시 <br/><font color = \"purple\">\"열화의 무장\"</font> 효과 획득:</b> <br/>피해 <font color=\"red\">8%</font>  받는 물리피해 <font color=\"red\">-15%</font> 이동력 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>행동 해제 불가 면역 불가 <br/>쿨타임 <font color=\"red\">6</font> </b>"
         },
         {
-          "Desc": "공격 방어 <font color=\"red\">20%</font><br/><b>선공으로 전투 진입 후 사망 시 해당 전투 전 생명으로 부활</b> <font color=\"red\">2</font>회 <br/><b>위험 범위 안에서 선공으로 전투 진입 전 혹은 행동 종료 시 <br/><font color = \"purple\">\"열화의 무장\"</font> 효과 획득:</b> <br/>피해 <font color=\"red\">11</font>% 받는 물리피해 <font color=\"red\">-20</font>% 이동력 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>행동 해제 불가 면역 불가 <br/>쿨타임 <font color=\"red\">6</font> </b>"
+          "Desc": "공격 방어 <font color=\"red\">20%</font><br/><b>선공으로 전투 진입 후 사망 시 해당 전투 전 생명으로 부활</b> <font color=\"red\">2</font>회 <br/><b>위험 범위 안에서 선공으로 전투 진입 전 혹은 행동 종료 시 <br/><font color = \"purple\">\"열화의 무장\"</font> 효과 획득:</b> <br/>피해 <font color=\"red\">11%</font> 받는 물리피해 <font color=\"red\">-20%</font> 이동력 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>행동 해제 불가 면역 불가 <br/>쿨타임 <font color=\"red\">6</font> </b>"
         },
         {
-          "Desc": "공격 방어 <font color=\"red\">25%</font><br/><b>선공으로 전투 진입 후 사망 시 해당 전투 전 생명으로 부활</b> <font color=\"red\">3</font>회 <br/><b>위험 범위 안에서 선공으로 전투 진입 전 혹은 행동 종료 시 <br/><font color = \"purple\">\"열화의 무장\"</font> 효과 획득:</b> <br/>피해 <font color=\"red\">15</font>% 받는 물리피해 <font color=\"red\">-30</font>% 이동력 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>행동 해제 불가 면역 불가 <br/>쿨타임 <font color=\"red\">5</font> </b>"
+          "Desc": "공격 방어 <font color=\"red\">25%</font><br/><b>선공으로 전투 진입 후 사망 시 해당 전투 전 생명으로 부활</b> <font color=\"red\">3</font>회 <br/><b>위험 범위 안에서 선공으로 전투 진입 전 혹은 행동 종료 시 <br/><font color = \"purple\">\"열화의 무장\"</font> 효과 획득:</b> <br/>피해 <font color=\"red\">15%</font> 받는 물리피해 <font color=\"red\">-30%</font> 이동력 <font color=\"red\">+1</font> <br/> <b>모든 디버프 면역 지속 <font color=\"red\">3</font>행동 해제 불가 면역 불가 <br/>쿨타임 <font color=\"red\">5</font> </b>"
         }
       ]
     }
@@ -115,7 +115,7 @@
       "Skill": 138,
       "SkillRate": 51,
       "HeartFetterBouns1": "<b>위험 범위에 있을 경우</b>시 받는 치명타확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대의 생명 <font color=\"red\">50</font>% 미만 시</b> 주는 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "<b>부대의 생명 <font color=\"red\">50%</font> 미만 시</b> 주는 피해 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "열화의료",
@@ -520,7 +520,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/료.webp",
-      "Desc": "[패시브] <b>선공으로 전투 진입 전 적에게 <font color=\"blue\">갑옷 융해</font> 효과 부여 :</b> <br/>받는 물리 피해 <font color=\"red\">+10</font>%, 지속 <font color=\"red\">1</font>행동 <b><br/><b><font color=\"purple\">열화의 무장</font> 상태일 경우 <font color=\"red\">15%로 상승</font>)</b><br/>[물리피해]단일 대상에게 <font color=\"red\">1.5</font>배 피해. <b>전투 진입 전 자신 주위 2칸 범위 내 모든 적에게 <font color=\"red\">부활 금지</font> 효과 부여</b><br/>(지속 1행동, 부활 금지 효과는 아레나에서만 발동), <br/><font color=\"purple\">열화의 무장</font> 상태일 경우 해당 스킬은 2회 공격 </b>",
+      "Desc": "[패시브] <b>선공으로 전투 진입 전 적에게 <font color=\"blue\">갑옷 융해</font> 효과 부여 :</b> <br/>받는 물리 피해 <font color=\"red\">+10%</font>, 지속 <font color=\"red\">1</font>행동 <b><br/><b><font color=\"purple\">열화의 무장</font> 상태일 경우 <font color=\"red\">15%로 상승</font>)</b><br/>[물리피해]단일 대상에게 <font color=\"red\">1.5</font>배 피해. <b>전투 진입 전 자신 주위 2칸 범위 내 모든 적에게 <font color=\"red\">부활 금지</font> 효과 부여</b><br/>(지속 1행동, 부활 금지 효과는 아레나에서만 발동), <br/><font color=\"purple\">열화의 무장</font> 상태일 경우 해당 스킬은 2회 공격 </b>",
       "SubSkills": null,
       "Animation": "../img/Super/료_Ani.webp"
     }

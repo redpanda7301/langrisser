@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+10</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">4</font>행동(포진 별도설명)"
+          "Desc": "피해량 <font color=\"red\">+10%</font><br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">4</font>행동(포진 별도설명)"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+15</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">3</font>행동(포진 별도설명)"
+          "Desc": "피해량 <font color=\"red\">+15%</font><br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">3</font>행동(포진 별도설명)"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+20</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">3</font>행동(포진 별도설명)"
+          "Desc": "피해량 <font color=\"red\">+20%</font><br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">3</font>행동(포진 별도설명)"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+30</font>%<br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">2</font>행동(포진 별도설명)"
+          "Desc": "피해량 <font color=\"red\">+30%</font><br/>행동 종료 전 <font color=\"purple\">포진</font> 중 하나 선택 가능<br/>자신이 획득한 <font color=\"purple\">강공</font>과 <font color=\"purple\">수비</font> 효과는 <b>해제 불가, 중첩 불가</b><br/><font color=\"purple\">포진</font> 쿨타임 <font color=\"red\">2</font>행동(포진 별도설명)"
         }
       ]
     }
@@ -85,13 +85,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "굳건한 뜻과 용기",
-    "Stats": "지력 <font color=\"red\">+5</font>%<br/>전장에 남은 다른 아군 수가 <font color=\"red\">2</font>인 미만일 때에도 <font color =\"purple\">열진</font> 스킬 사용 가능"
+    "Stats": "지력 <font color=\"red\">+5%</font><br/>전장에 남은 다른 아군 수가 <font color=\"red\">2</font>인 미만일 때에도 <font color =\"purple\">열진</font> 스킬 사용 가능"
   },
   "Equip": {
     "Name": "진홍빛 포부(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "아이언챈슬러.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>전투 중 <font color=\"purple\">포진 스킬</font> 사용 후, 해당 스킬 버프 지속 시간 <font color=\"red\">+1</font>"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>전투 중 <font color=\"purple\">포진 스킬</font> 사용 후, 해당 스킬 버프 지속 시간 <font color=\"red\">+1</font>"
   },
   "Soldiers": [
     24,
@@ -172,7 +172,7 @@
       "MagicDefRate": 76,
       "Skill": 172,
       "SkillRate": 61,
-      "HeartFetterBouns1": "<b>부대 생명 <font color=\"Red\">70</font>% 미만 시 전투 진입 후</b><br/>받는 피해량 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns1": "<b>부대 생명 <font color=\"Red\">70%</font> 미만 시 전투 진입 후</b><br/>받는 피해량 <font color=\"Red\">-10</font>%",
       "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입 시</b><br/>주는 피해량 <font color=\"Red\">+10</font>%"
     }
   ],
@@ -405,7 +405,7 @@
           }
         ],
           "IconImageUrl": "../img/skills/Chancellor/0_1.webp",
-          "Desc": "자신의 사선 <font color=\"red\">1</font>칸 범위 안에 아군 <font color=\"red\">2</font>명이 있을 경우 <br/>자신과 아군 <font color=\"red\">2</font>명은 '<font color=\"purple\">강공</font>' 효과 획득<br/><font color=\"purple\">강공</font> : 병사 공격력 <font color=\"red\">+25</font>%<br/>기본 이동력 <font color=\"red\">5</font> 미만인 아군 부대 <font color=\"blue\">이동력 상승</font><br/>(증가 숫자는 <font color=\"red\">5</font>에서 부대 이동력을 뺸 수치)<br/>지속 <font color=\"Red\">3</font>행동"
+          "Desc": "자신의 사선 <font color=\"red\">1</font>칸 범위 안에 아군 <font color=\"red\">2</font>명이 있을 경우 <br/>자신과 아군 <font color=\"red\">2</font>명은 '<font color=\"purple\">강공</font>' 효과 획득<br/><font color=\"purple\">강공</font> : 병사 공격력 <font color=\"red\">+25%</font><br/>기본 이동력 <font color=\"red\">5</font> 미만인 아군 부대 <font color=\"blue\">이동력 상승</font><br/>(증가 숫자는 <font color=\"red\">5</font>에서 부대 이동력을 뺸 수치)<br/>지속 <font color=\"Red\">3</font>행동"
         },
         {
           "Name": "<b><font color=\"purple\">수비의 진</font></b>",
@@ -428,7 +428,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Chancellor/0_2.webp",
-          "Desc": "직선상 <font color=\"red\">3</font>명의 아군이 연달아 있을 경우 사용<br/>아군 부대 병사  <font color=\"red\">70</font>% 수치 <font color=\"green\">생명 회복</font> 및 자신과 아군 <font color=\"red\">3</font>명은 '<font color =\"purple\">수비</font> 효과 획득'<br/><font color =\"purple\">수비</font> : 병사의 방어,마방 <font color=\"red\">+15</font>%, <b><font color =\"blue\">위치 이동 면역</font><br/>지속 <font color=\"Red\">3</font>행동"
+          "Desc": "직선상 <font color=\"red\">3</font>명의 아군이 연달아 있을 경우 사용<br/>아군 부대 병사  <font color=\"red\">70%</font> 수치 <font color=\"green\">생명 회복</font> 및 자신과 아군 <font color=\"red\">3</font>명은 '<font color =\"purple\">수비</font> 효과 획득'<br/><font color =\"purple\">수비</font> : 병사의 방어,마방 <font color=\"red\">+15%</font>, <b><font color =\"blue\">위치 이동 면역</font><br/>지속 <font color=\"Red\">3</font>행동"
         },
       ],
       "Animation": null
@@ -455,7 +455,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Chancellor/1.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/><font color=\"purple\">강공</font> 효과 보유 시 전투 중 적 방어, 마방 <font color=\"Red\">30</font>% 무시<br/><font color=\"purple\">수비</font> 효과 보유 시 전투 후 아군 전체 생명 <font color=\"green\">회복</font> (지력 <font color=\"red\">2</font>배 수치) 및 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font><br/><b>해당 스킬은 근접 패널티를 받지 않음</b>",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/><font color=\"purple\">강공</font> 효과 보유 시 전투 중 적 방어, 마방 <font color=\"Red\">30%</font> 무시<br/><font color=\"purple\">수비</font> 효과 보유 시 전투 후 아군 전체 생명 <font color=\"green\">회복</font> (지력 <font color=\"red\">2</font>배 수치) 및 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font><br/><b>해당 스킬은 근접 패널티를 받지 않음</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -509,7 +509,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Chancellor/2.webp",
-      "Desc": "지휘 효과 획득 <br/>주위 <font color=\"Red\">3</font>칸 범위 내 아군의 <font color=\"blue\">받는 치명타 확률</font> <font color=\"Red\">-20</font>%, <font color=\"blue\">받는 고정 피해</font> <font color=\"Red\">-35</font>% <br/>지속 <font color=\"Red\">2</font>행동, <br/>사용 후 <font color=\"Red\">3</font>칸 <font color=\"blue\">재행동</font><br/><b>해당 스킬로 인한 <font color=\"blue\">재행동</font>은 버프 지속 시간을 소모하지 않음</b>",
+      "Desc": "지휘 효과 획득 <br/>주위 <font color=\"Red\">3</font>칸 범위 내 아군의 <font color=\"blue\">받는 치명타 확률</font> <font color=\"Red\">-20%</font>, <font color=\"blue\">받는 고정 피해</font> <font color=\"Red\">-35%</font> <br/>지속 <font color=\"Red\">2</font>행동, <br/>사용 후 <font color=\"Red\">3</font>칸 <font color=\"blue\">재행동</font><br/><b>해당 스킬로 인한 <font color=\"blue\">재행동</font>은 버프 지속 시간을 소모하지 않음</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -523,7 +523,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefUp.webp",
-      "Desc": "행동 종료 시 주위 <font color=\"Red\">2</font>칸 내 <font color=\"Red\">2</font>개 다른 아군 부대의 '<font color=\"blue\">받는 피해</font>' <font color=\"Red\">-15</font>% 및<br/>면역: '<font color=\"blue\">방어,마방 감소</font>','<font color=\"blue\">치료 방해</font>'<br/><font color=\"Red\">1</font>행동 지속.",
+      "Desc": "행동 종료 시 주위 <font color=\"Red\">2</font>칸 내 <font color=\"Red\">2</font>개 다른 아군 부대의 '<font color=\"blue\">받는 피해</font>' <font color=\"Red\">-15%</font> 및<br/>면역: '<font color=\"blue\">방어,마방 감소</font>','<font color=\"blue\">치료 방해</font>'<br/><font color=\"Red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -615,7 +615,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/아이언챈슬러.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해를 준다, <br/>전투 후 대상에게 영구적인 '<font color=\"blue\">패산</font>' 효과 부여<br/><font color=\"blue\">패산</font> : <font color=\"blue\">병사가 받는 치료 효과</font> <font color=\"red\">-80</font>%, <b>해제 불가</b><br/><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br/><font color=\"purple\">강공</font> 효과를 보유할 경우, <font color=\"blue\">선제 공격</font> 및 전투 전 적 버프<font color=\"red\">5</font>개 제거<br/><font color=\"purple\">수비</font> 효과를 보유할 경우 전투 후 <font color=\"blue\">재이동</font> 및 <font color=\"red\">3</font>칸 및 <br/>행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 내 모든 아군에게<br/>'<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' '전투 후 병사 생명<font color=\"red\">30</font>% <font color=\"green\">회복</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해를 준다, <br/>전투 후 대상에게 영구적인 '<font color=\"blue\">패산</font>' 효과 부여<br/><font color=\"blue\">패산</font> : <font color=\"blue\">병사가 받는 치료 효과</font> <font color=\"red\">-80%</font>, <b>해제 불가</b><br/><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br/><font color=\"purple\">강공</font> 효과를 보유할 경우, <font color=\"blue\">선제 공격</font> 및 전투 전 적 버프<font color=\"red\">5</font>개 제거<br/><font color=\"purple\">수비</font> 효과를 보유할 경우 전투 후 <font color=\"blue\">재이동</font> 및 <font color=\"red\">3</font>칸 및 <br/>행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 내 모든 아군에게<br/>'<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' '전투 후 병사 생명<font color=\"red\">30%</font> <font color=\"green\">회복</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
       "SubSkills": null,
       "Animation": "../img/Super/아이언챈슬러_Ani.webp"
     }

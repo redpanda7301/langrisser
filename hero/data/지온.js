@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "치명타 확률, 치명타 피해 <font color=\"red\">+12</font>%<br/>적에게 피해를 입힌 후 '<font color=\"blue\">열상</font>' 효과 <font color=\"red\">1</font>개 부여<br/><font color=\"blue\">열상</font> : 행동 종료 시 시전자 공격 <font color=\"red\">0.5</font>배 수치의 면역 불가 <font color=\"blue\">고정 피해</font>를 입힌다<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동<br/>직선 스킬 사용 시, 가장 먼 곳 지형에 '<font color=\"blue\">륜</font>' 효과 부여<br/><font color=\"blue\">륜</font>: 적이 '<font color=\"blue\">륜</font>' 주위 <font color=\"red\">1</font>바퀴 범위 안에서 행동 종료 시 지온 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>를 받음<br/>(<font color=\"red\">륜</font>은 지형 효과에서 우선 순위를 가짐)<br/><font color=\"blue\">륜</font>위에서 행동 종료 시 모든 '<font color=\"blue\">륜</font>'을 회수 가능하고<br/>회수하는 경로에 있는 적에게 <font color=\"red\">0.1</font>배 <font color=\"blue\">범위 피해</font>를 입히며<br/>같은 경로에 있는 적들에게 순차적으로 피해 <font color=\"red\">-40</font>%<br/>쿨타임 <font color=\"red\">3</font>"
+          "Desc": "치명타 확률, 치명타 피해 <font color=\"red\">+12%</font><br/>적에게 피해를 입힌 후 '<font color=\"blue\">열상</font>' 효과 <font color=\"red\">1</font>개 부여<br/><font color=\"blue\">열상</font> : 행동 종료 시 시전자 공격 <font color=\"red\">0.5</font>배 수치의 면역 불가 <font color=\"blue\">고정 피해</font>를 입힌다<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동<br/>직선 스킬 사용 시, 가장 먼 곳 지형에 '<font color=\"blue\">륜</font>' 효과 부여<br/><font color=\"blue\">륜</font>: 적이 '<font color=\"blue\">륜</font>' 주위 <font color=\"red\">1</font>바퀴 범위 안에서 행동 종료 시 지온 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>를 받음<br/>(<font color=\"red\">륜</font>은 지형 효과에서 우선 순위를 가짐)<br/><font color=\"blue\">륜</font>위에서 행동 종료 시 모든 '<font color=\"blue\">륜</font>'을 회수 가능하고<br/>회수하는 경로에 있는 적에게 <font color=\"red\">0.1</font>배 <font color=\"blue\">범위 피해</font>를 입히며<br/>같은 경로에 있는 적들에게 순차적으로 피해 <font color=\"red\">-40%</font><br/>쿨타임 <font color=\"red\">3</font>"
         },
         {
-          "Desc": "치명타 확률, 치명타 피해 <font color=\"red\">+16</font>%<br/>적에게 피해를 입힌 후 '<font color=\"blue\">열상</font>' 효과 <font color=\"red\">1</font>개 부여<br/><font color=\"blue\">열상</font> : 행동 종료 시 시전자 공격 <font color=\"red\">0.5</font>배 수치의 면역 불가 <font color=\"blue\">고정 피해</font>를 입힌다<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동<br/>직선 스킬 사용 시, 가장 먼 곳 지형에 '<font color=\"blue\">륜</font>' 효과 부여<br/><font color=\"blue\">륜</font>: 적이 '<font color=\"blue\">륜</font>' 주위 <font color=\"red\">1</font>바퀴 범위 안에서 행동 종료 시 지온 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>를 받음<br/>(<font color=\"red\">륜</font>은 지형 효과에서 우선 순위를 가짐)<br/><font color=\"blue\">륜</font>위에서 행동 종료 시 모든 '<font color=\"blue\">륜</font>'을 회수 가능하고<br/>회수하는 경로에 있는 적에게 <font color=\"red\">0.12</font>배 <font color=\"blue\">범위 피해</font>를 입히며<br/>같은 경로에 있는 적들에게 순차적으로 피해 <font color=\"red\">-40</font>%<br/>쿨타임 <font color=\"red\">2</font>"
+          "Desc": "치명타 확률, 치명타 피해 <font color=\"red\">+16%</font><br/>적에게 피해를 입힌 후 '<font color=\"blue\">열상</font>' 효과 <font color=\"red\">1</font>개 부여<br/><font color=\"blue\">열상</font> : 행동 종료 시 시전자 공격 <font color=\"red\">0.5</font>배 수치의 면역 불가 <font color=\"blue\">고정 피해</font>를 입힌다<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동<br/>직선 스킬 사용 시, 가장 먼 곳 지형에 '<font color=\"blue\">륜</font>' 효과 부여<br/><font color=\"blue\">륜</font>: 적이 '<font color=\"blue\">륜</font>' 주위 <font color=\"red\">1</font>바퀴 범위 안에서 행동 종료 시 지온 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>를 받음<br/>(<font color=\"red\">륜</font>은 지형 효과에서 우선 순위를 가짐)<br/><font color=\"blue\">륜</font>위에서 행동 종료 시 모든 '<font color=\"blue\">륜</font>'을 회수 가능하고<br/>회수하는 경로에 있는 적에게 <font color=\"red\">0.12</font>배 <font color=\"blue\">범위 피해</font>를 입히며<br/>같은 경로에 있는 적들에게 순차적으로 피해 <font color=\"red\">-40%</font><br/>쿨타임 <font color=\"red\">2</font>"
         },
         {
-          "Desc": "치명타 확률, 치명타 피해 <font color=\"red\">+20</font>%<br/>적에게 피해를 입힌 후 '<font color=\"blue\">열상</font>' 효과 <font color=\"red\">1</font>개 부여<br/><font color=\"blue\">열상</font> : 행동 종료 시 시전자 공격 <font color=\"red\">0.5</font>배 수치의 면역 불가 <font color=\"blue\">고정 피해</font>를 입힌다<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동<br/>직선 스킬 사용 시, 가장 먼 곳 지형에 '<font color=\"blue\">륜</font>' 효과 부여<br/><font color=\"blue\">륜</font>: 적이 '<font color=\"blue\">륜</font>' 주위 <font color=\"red\">1</font>바퀴 범위 안에서 행동 종료 시 지온 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>를 받음<br/>(<font color=\"red\">륜</font>은 지형 효과에서 우선 순위를 가짐)<br/><font color=\"blue\">륜</font>위에서 행동 종료 시 모든 '<font color=\"blue\">륜</font>'을 회수 가능하고<br/>회수하는 경로에 있는 적에게 <font color=\"red\">0.12</font>배 <font color=\"blue\">범위 피해</font>를 입히며<br/>같은 경로에 있는 적들에게 순차적으로 피해 <font color=\"red\">-40</font>%<br/>쿨타임 <font color=\"red\">2</font>"
+          "Desc": "치명타 확률, 치명타 피해 <font color=\"red\">+20%</font><br/>적에게 피해를 입힌 후 '<font color=\"blue\">열상</font>' 효과 <font color=\"red\">1</font>개 부여<br/><font color=\"blue\">열상</font> : 행동 종료 시 시전자 공격 <font color=\"red\">0.5</font>배 수치의 면역 불가 <font color=\"blue\">고정 피해</font>를 입힌다<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동<br/>직선 스킬 사용 시, 가장 먼 곳 지형에 '<font color=\"blue\">륜</font>' 효과 부여<br/><font color=\"blue\">륜</font>: 적이 '<font color=\"blue\">륜</font>' 주위 <font color=\"red\">1</font>바퀴 범위 안에서 행동 종료 시 지온 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>를 받음<br/>(<font color=\"red\">륜</font>은 지형 효과에서 우선 순위를 가짐)<br/><font color=\"blue\">륜</font>위에서 행동 종료 시 모든 '<font color=\"blue\">륜</font>'을 회수 가능하고<br/>회수하는 경로에 있는 적에게 <font color=\"red\">0.12</font>배 <font color=\"blue\">범위 피해</font>를 입히며<br/>같은 경로에 있는 적들에게 순차적으로 피해 <font color=\"red\">-40%</font><br/>쿨타임 <font color=\"red\">2</font>"
         },
         {
-          "Desc": "치명타 확률, 치명타 피해 <font color=\"red\">+25</font>%<br/>적에게 피해를 입힌 후 '<font color=\"blue\">열상</font>' 효과 <font color=\"red\">1</font>개 부여<br/><font color=\"blue\">열상</font> : 행동 종료 시 시전자 공격 <font color=\"red\">0.5</font>배 수치의 면역 불가 <font color=\"blue\">고정 피해</font>를 입힌다<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동<br/>직선 스킬 사용 시, 가장 먼 곳 지형에 '<font color=\"blue\">륜</font>' 효과 부여<br/><font color=\"blue\">륜</font>: 적이 '<font color=\"blue\">륜</font>' 주위 <font color=\"red\">1</font>바퀴 범위 안에서 행동 종료 시 지온 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>를 받음<br/>(<font color=\"red\">륜</font>은 지형 효과에서 우선 순위를 가짐)<br/><font color=\"blue\">륜</font>위에서 행동 종료 시 모든 '<font color=\"blue\">륜</font>'을 회수 가능하고<br/>회수하는 경로에 있는 적에게 <font color=\"red\">0.15</font>배 <font color=\"blue\">범위 피해</font>를 입히며<br/>같은 경로에 있는 적들에게 순차적으로 피해 <font color=\"red\">-40</font>%<br/>쿨타임 <font color=\"red\">1</font>"
+          "Desc": "치명타 확률, 치명타 피해 <font color=\"red\">+25%</font><br/>적에게 피해를 입힌 후 '<font color=\"blue\">열상</font>' 효과 <font color=\"red\">1</font>개 부여<br/><font color=\"blue\">열상</font> : 행동 종료 시 시전자 공격 <font color=\"red\">0.5</font>배 수치의 면역 불가 <font color=\"blue\">고정 피해</font>를 입힌다<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동<br/>직선 스킬 사용 시, 가장 먼 곳 지형에 '<font color=\"blue\">륜</font>' 효과 부여<br/><font color=\"blue\">륜</font>: 적이 '<font color=\"blue\">륜</font>' 주위 <font color=\"red\">1</font>바퀴 범위 안에서 행동 종료 시 지온 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>를 받음<br/>(<font color=\"red\">륜</font>은 지형 효과에서 우선 순위를 가짐)<br/><font color=\"blue\">륜</font>위에서 행동 종료 시 모든 '<font color=\"blue\">륜</font>'을 회수 가능하고<br/>회수하는 경로에 있는 적에게 <font color=\"red\">0.15</font>배 <font color=\"blue\">범위 피해</font>를 입히며<br/>같은 경로에 있는 적들에게 순차적으로 피해 <font color=\"red\">-40%</font><br/>쿨타임 <font color=\"red\">1</font>"
         }
       ]
     }
@@ -84,7 +84,7 @@
     "Name": "숨겨진 암면(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "지온.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"blue\">륜</font> 회수 후, <font color=\"blue\">받는 피해</font> <font color=\"red\">-20</font>% 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>행동 종료 시 <font color=\"red\">10</font>칸 범위 안 무작위 적이 있는 위치에 <font color=\"blue\">륜</font> 생성<br/>쿨타임 <font color=\"red\">2</font><br/><b>아레나에서는 범위가 전지역으로 확대</b>"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">륜</font> 회수 후, <font color=\"blue\">받는 피해</font> <font color=\"red\">-20%</font> 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>행동 종료 시 <font color=\"red\">10</font>칸 범위 안 무작위 적이 있는 위치에 <font color=\"blue\">륜</font> 생성<br/>쿨타임 <font color=\"red\">2</font><br/><b>아레나에서는 범위가 전지역으로 확대</b>"
   },
   "Soldiers": [
     8,
@@ -158,7 +158,7 @@
       "MagicDefRate": 74,
       "Skill": 225,
       "SkillRate": 72,
-      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">70</font>% 미만일 경우 <br/>전투 진입 후 받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">70%</font> 미만일 경우 <br/>전투 진입 후 받는 피해 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "피격으로 전투 진입 시 <br/> 주는 피해량 <font color=\"Red\">+10</font>%"
     }
   ],
@@ -389,7 +389,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font></font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -507,7 +507,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_PHeal2.webp",
-      "Desc": "자신 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font>한다.",
+      "Desc": "자신 부대 생명을 <font color=\"red\">100%</font> <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -533,7 +533,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/14.webp",
-      "Desc": "단일 적을 <font color=\"red\">1.4</font>배 피해로 공격,<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>전투 후 <font color=-\"red\">50</font>% 확률로 <font color=\"blue\">침묵</font> 부여 <br/>지속<font color=\"red\">1</font>행동, <b>제거 불가</,b>",
+      "Desc": "단일 적을 <font color=\"red\">1.4</font>배 피해로 공격,<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>전투 후 <font color=-\"red\">50%</font> 확률로 <font color=\"blue\">침묵</font> 부여 <br/>지속<font color=\"red\">1</font>행동, <b>제거 불가</,b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -559,7 +559,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/지온.webp",
-      "Desc": "[패시브]<font color=\"blue\">범위 스킬</font>로 적 <font color=\"red\">3</font>명 이상 명중 시 <font color=\"blue\">열상</font> <font color=\"red\">1</font>스택 추가 부여<br/>[물리피해]<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해<br/>치명타 확률 <font color=\"red\">+30</font>%<br/>목표에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>목표가 <font color=\"blue\">열상</font> <font color=\"red\">3</font>스택 이상 보유 시 추가적으로 '<font color=\"blue\">공격 지력</font> <font color=\"red\">-25</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸",
+      "Desc": "[패시브]<font color=\"blue\">범위 스킬</font>로 적 <font color=\"red\">3</font>명 이상 명중 시 <font color=\"blue\">열상</font> <font color=\"red\">1</font>스택 추가 부여<br/>[물리피해]<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해<br/>치명타 확률 <font color=\"red\">+30%</font><br/>목표에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>목표가 <font color=\"blue\">열상</font> <font color=\"red\">3</font>스택 이상 보유 시 추가적으로 '<font color=\"blue\">공격 지력</font> <font color=\"red\">-25</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸",
       "SubSkills": null,
       "Animation": "../img/Super/지온_Ani.webp"
     }

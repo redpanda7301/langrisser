@@ -89,7 +89,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "빛의 권속",
-    "Stats":"지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">여신의 세례</font> 사용 시 명중시킨 아군 <font color=\"red\">1</font>명당 <font color=\"blue\">쿨타임</font> <font color=\"red\">-1</font>(최대 <font color=\"red\">-3</font>행동)"
+    "Stats":"지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">여신의 세례</font> 사용 시 명중시킨 아군 <font color=\"red\">1</font>명당 <font color=\"blue\">쿨타임</font> <font color=\"red\">-1</font>(최대 <font color=\"red\">-3</font>행동)"
   },
   "Equip": {
     "Name": "신탁을 받은 자(투구)",
@@ -562,7 +562,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -654,7 +654,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/환생제시카.webp",
-      "Desc": "[패시브] 영웅 사망 시 자신 주위 <font color=\"red\">5</font>칸 범위 내 <br/>모든 아군의 생명 회복,(환생 제시카 지력 <font color=\"red\">3</font>배 수치<br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>, <br/>[액티브] 범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 버프<font color=\"red\">1</font>개 제거, 대 마물 특효, <br/>범위 내 아군 생명 회복 (지력 <font color=\"red\">3</font>배 수치) 및 디버프 <font color=\"red\">2</font>개 제거, <br/>받는 피해 <font color=\"red\">-15</font>% 부여, 지속 <font color=\"red\">1</font>행동<br/><b>아군에게 시전가능</b>",
+      "Desc": "[패시브] 영웅 사망 시 자신 주위 <font color=\"red\">5</font>칸 범위 내 <br/>모든 아군의 생명 회복,(환생 제시카 지력 <font color=\"red\">3</font>배 수치<br/>받는 피해 <font color=\"red\">-15%</font> 부여, 지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>, <br/>[액티브] 범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 버프<font color=\"red\">1</font>개 제거, 대 마물 특효, <br/>범위 내 아군 생명 회복 (지력 <font color=\"red\">3</font>배 수치) 및 디버프 <font color=\"red\">2</font>개 제거, <br/>받는 피해 <font color=\"red\">-15%</font> 부여, 지속 <font color=\"red\">1</font>행동<br/><b>아군에게 시전가능</b>",
       "SubSkills": null,
       "Animation": "../img/Super/환생제시카_Ani.webp"
     }

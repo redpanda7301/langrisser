@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+15</font>%<br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">40</font>%<br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+15%</font><br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">40%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+20</font>%<br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">50</font>%<br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+20%</font><br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">50%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+25</font>%<br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">60</font>%<br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+25%</font><br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">60%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+30</font>%<br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">70</font>%<br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"       
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+30%</font><br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">70%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"       
         }
       ]
     }
@@ -115,8 +115,8 @@
       "MagicDefRate": 83,
       "Skill": 90,
       "SkillRate": 26,
-      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대에게 피격받아 전투 진입 시<br/>받는 피해량 <font color=\"Red\">-10</font>%, ",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">100</font>% 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대에게 피격받아 전투 진입 시<br/>받는 피해량 <font color=\"Red\">-10%</font>, ",
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">100%</font> 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     },
     {
       "Name": "붉은 관의 법황",
@@ -255,7 +255,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Patricia/1.webp",
-      "Desc": "단일 개체 <font colro=\"red\">1.6</font>배 피해<br/>적에게 걸린 <font colro=\"blue\">디버프</font> <font colro=\"red\">1</font>개당 피해 <font colro=\"red\">+10</font>% (최대 <font colro=\"red\">+30</font>%)<br/><font colro=\"blue\">원거리 병사 대동시 병사도 함께 공격</font><br/>전투 후 적에게 <font colro=\"blue\">강력한 디버프</font> <font colro=\"red\">1</font>개를 무작위 부여",
+      "Desc": "단일 개체 <font colro=\"red\">1.6</font>배 피해<br/>적에게 걸린 <font colro=\"blue\">디버프</font> <font colro=\"red\">1</font>개당 피해 <font colro=\"red\">+10%</font> (최대 <font colro=\"red\">+30</font>%)<br/><font colro=\"blue\">원거리 병사 대동시 병사도 함께 공격</font><br/>전투 후 적에게 <font colro=\"blue\">강력한 디버프</font> <font colro=\"red\">1</font>개를 무작위 부여",
       "SubSkills": null,
       "Animation": null
     },
@@ -281,7 +281,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -307,7 +307,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Metro.webp",
-      "Desc": "범위 내 적에게 <font color=\"red\">0.36</font>배의 피해<br/>'보병'에게 더 큰 피해를 준다.<br/>행동 종료 시 생명 <font color=\"red\">20</font>% 감소",
+      "Desc": "범위 내 적에게 <font color=\"red\">0.36</font>배의 피해<br/>'보병'에게 더 큰 피해를 준다.<br/>행동 종료 시 생명 <font color=\"red\">20%</font> 감소",
       "SubSkills": null,
       "Animation": null
     },
@@ -359,7 +359,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/20.webp",
-      "Desc": "범위 내 다수의 적군을 공격 하여 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 다수의 적군을 공격 하여 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -385,7 +385,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Patricia/2.webp",
-      "Desc": "[패시브]피격으로 피해를 입은 후, 부대 생명이 <font color=\"red\">30</font>% 미만에 해당 스킬이 쿨다운 상태가 아닐 경우<br/>스킬의 액티브 효과가 발동되며 스킬은 쿨다운 상태에 돌입<br/>[액티브]자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개를 <font color=\"blue\">제거</font>하고 자신 지력 <font color=\"red\">5</font>배 수치로 부대 <font color=\"green\">생명 회복</font><br/>동시에 자신의 모든 스킬 쿨타임 <font color=\"red\">-2</font>",
+      "Desc": "[패시브]피격으로 피해를 입은 후, 부대 생명이 <font color=\"red\">30%</font> 미만에 해당 스킬이 쿨다운 상태가 아닐 경우<br/>스킬의 액티브 효과가 발동되며 스킬은 쿨다운 상태에 돌입<br/>[액티브]자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개를 <font color=\"blue\">제거</font>하고 자신 지력 <font color=\"red\">5</font>배 수치로 부대 <font color=\"green\">생명 회복</font><br/>동시에 자신의 모든 스킬 쿨타임 <font color=\"red\">-2</font>",
       "SubSkills": null,
       "Animation": null
     },

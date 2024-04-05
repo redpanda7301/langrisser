@@ -76,7 +76,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "일어서는 파도",
-    "Stats": "공격 <font color=\"red\">+10</font>%<br/>자신이 <font color=\"blue\">수중 지형</font>에 있는 상태에서 <font color=\"blue\">노도 돌진</font> 사용 시<br/>전투 후 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
+    "Stats": "공격 <font color=\"red\">+10%</font><br/>자신이 <font color=\"blue\">수중 지형</font>에 있는 상태에서 <font color=\"blue\">노도 돌진</font> 사용 시<br/>전투 후 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
   },
   "Equip": {
     "Name": "오션즈 하트(장신구)",

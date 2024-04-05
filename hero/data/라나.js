@@ -113,16 +113,16 @@
           "Desc": "2성"
         },
         {
-		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+4</font>%, 최대 <font color=\"red\">+20</font>%<br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
+		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+4%</font>, 최대 <font color=\"red\">+20%</font><br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
         },
         {
-		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+5</font>%, 최대 <font color=\"red\">+25</font>%<br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
+		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+5%</font>, 최대 <font color=\"red\">+25%</font><br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
         },
         {
-		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+6</font>%, 최대 <font color=\"red\">+30</font>%<br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
+		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+6%</font>, 최대 <font color=\"red\">+30%</font><br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
         },
         {
-		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+7</font>%, 최대 <font color=\"red\">+35</font>%<br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
+		      "Desc": "자신이 보유한 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개당 피해 <font color=\"red\">+7%</font>, 최대 <font color=\"red\">+35%</font><br/><font color=#ffa700>근접 병사</font> 보유 시 <font color=\"blue\">광역 스킬</font> 범위 <font color=\"red\">+1</font>, 사거리 <font color=\"red\">+1</font><br/><font color=#e25822>원거리 병사</font> 보유 시 <b>전투 진입하는 <font color=\"blue\">원거리 스킬</font>을 사용할 경우 부대 사거리</b> <font color=\"red\">+1</font>"
         }
       ]
     }
@@ -248,7 +248,7 @@
       "MagicDefRate": 83,
       "Skill": 167,
       "SkillRate": 57,
-      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">70</font>% 이하시, <br/><b>전투중 받는 피해량</b> <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">70%</font> 이하시, <br/><b>전투중 받는 피해량</b> <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "<b><font color =\"blue\">약화효과</font>를 보유한 부대와 전투 시</b><br/> 주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
@@ -718,7 +718,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -784,7 +784,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "[패시브]행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>행동 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20%</font> <br/><font color =\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -888,7 +888,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HolySuper.webp",
-      "Desc": "치명타 확률 <font color =\"red\">+50</font>% <br/>주위 <font color =\"red\">5</font>칸 내 모든 적군에게 <font color =\"red\">0.35</font>배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더 큰 피해를 준다.",
+      "Desc": "치명타 확률 <font color =\"red\">+50%</font> <br/>주위 <font color =\"red\">5</font>칸 내 모든 적군에게 <font color =\"red\">0.35</font>배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -954,7 +954,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/라나/2.webp",
-      "Desc": "<b>현재 위치를 <font color=\"blue\">마킹</font> 후</b>, 자신을 일정 범위내 장소로 <font color=\"blue\">텔레포트</font> 및 '<font color=\"blue\">위상</font>' 효과 획득<br/><font color=\"blue\">위상</font> : 영웅이 받는 피해 <font color=\"red\">-75</font>%, <b>선공으로 전투 진입 전 자신 부대</b> 생명 <font color=\"red\">100</font>% 회복<br/><b>행동 종료 시 자신 부대를 <font color=\"blue\">마킹</font>한 위치로 <font color=\"blue\">텔레포트</font></b><br/>지속 <font color=\"red\">1</font>행동<br/><b>해제 불가</b><br/><b>(텔레포트 범위는 대상을 기준으로 <font color=\"red\">7</font>칸)</b>",
+      "Desc": "<b>현재 위치를 <font color=\"blue\">마킹</font> 후</b>, 자신을 일정 범위내 장소로 <font color=\"blue\">텔레포트</font> 및 '<font color=\"blue\">위상</font>' 효과 획득<br/><font color=\"blue\">위상</font> : 영웅이 받는 피해 <font color=\"red\">-75%</font>, <b>선공으로 전투 진입 전 자신 부대</b> 생명 <font color=\"red\">100%</font> 회복<br/><b>행동 종료 시 자신 부대를 <font color=\"blue\">마킹</font>한 위치로 <font color=\"blue\">텔레포트</font></b><br/>지속 <font color=\"red\">1</font>행동<br/><b>해제 불가</b><br/><b>(텔레포트 범위는 대상을 기준으로 <font color=\"red\">7</font>칸)</b>",
       "SubSkills": null,
       "Animation": null
     },

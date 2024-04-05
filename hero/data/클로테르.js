@@ -82,12 +82,15 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "꺼지지 않는 불꽃",
+    "Stats": "공격, 지력 <font color=\"red\">+5%</font><br/>사망 시 <font color=\"blue\">작염</font> 효과를 가진 적에게 <font color=\"blue\">공격 + 지력</font> <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font> 및<br/><font color=\"blue\">작염</font> 지속 시간 최대로 갱신"
+  },
   "Equip": {
     "Name": "영원한 불꽃의 맹세(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "클로테르.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"purple\">파멸의 불꽃 문장</font> 보유한 적이 있을 경우<br/>자신 주위 <font color=\"red\">2</font>칸 범위 안 아군 <font color=\"blue\">공격 지력</font> <font color=\"red\">+10</font>%<br/>적에게 <font color=\"blue\">스킬</font>로 피해를 입힌 후 다음 <font color=\"blue\">스킬</font> 피해 <font color=\"red\">+25</font>%"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"purple\">파멸의 불꽃 문장</font> 보유한 적이 있을 경우<br/>자신 주위 <font color=\"red\">2</font>칸 범위 안 아군 <font color=\"blue\">공격 지력</font> <font color=\"red\">+10%</font><br/>적에게 <font color=\"blue\">스킬</font>로 피해를 입힌 후 다음 <font color=\"blue\">스킬</font> 피해 <font color=\"red\">+25</font>%"
   },
   "Soldiers": [
     4,
@@ -167,7 +170,7 @@
       "MagicDefRate": 68,
       "Skill": 113,
       "SkillRate": 36,
-      "HeartFetterBouns1": "<b>부대 생명력 <font color=\"red\">70</font>% 이하시</b><br/>전투 진입후 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "<b>부대 생명력 <font color=\"red\">70%</font> 이하시</b><br/>전투 진입후 받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "<b>공격으로 전투 진입시</b><br/>주는 피해증가 <font color=\"red\">10</font>%"
     }
   ],
@@ -630,7 +633,7 @@
             }
           ],
           "IconImageUrl": "../img/Super/클로테르_2.webp",
-          "Desc": "[마법피해]<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 피해, 대 보병 특효<br/>적에게 받는 고정 피해 <font color=\"red\">+20</font>% 및 '<font color=\"red\">작염</font>'을 획득한다<br/><b>다음 행동 종료 시 클로테르의 공격력 + 지력 <font color=\"red\">1</font>배 수치의 고정피해</b><br/>지속 <font color=\"red\">2</font>행동 및 <br/><font color=\"blue\">이그니스의 환상</font>의 쿨타임을 <font color=\"red\">4</font>행동으로 변경<br/><b><font color=\"blue\">겁화 - 린</font>에 부여된 효과는 해제 불가</b>",
+          "Desc": "[마법피해]<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 피해, 대 보병 특효<br/>적에게 받는 고정 피해 <font color=\"red\">+20%</font> 및 '<font color=\"red\">작염</font>'을 획득한다<br/><b>다음 행동 종료 시 클로테르의 공격력 + 지력 <font color=\"red\">1</font>배 수치의 고정피해</b><br/>지속 <font color=\"red\">2</font>행동 및 <br/><font color=\"blue\">이그니스의 환상</font>의 쿨타임을 <font color=\"red\">4</font>행동으로 변경<br/><b><font color=\"blue\">겁화 - 린</font>에 부여된 효과는 해제 불가</b>",
           "SubSkills": null,
           "Animation": null
         }

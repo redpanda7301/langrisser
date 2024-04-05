@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 </b><br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+2</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <br/><font color=\"blue\">액티브 스킬</font> 사용 후 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">2</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">1.5</font>배 수치로 치료"
+          "Desc": "주위 <font color=\"red\">2</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 </b><br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+2%</font><br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <br/><font color=\"blue\">액티브 스킬</font> 사용 후 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">2</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">1.5</font>배 수치로 치료"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 </b><br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+3</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <br/><font color=\"blue\">액티브 스킬</font> 사용 후 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">2</font>배 수치로 치료"
+          "Desc": "주위 <font color=\"red\">3</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 </b><br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+3%</font><br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <br/><font color=\"blue\">액티브 스킬</font> 사용 후 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">2</font>배 수치로 치료"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 </b><br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+4</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <br/><font color=\"blue\">액티브 스킬</font> 사용 후 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">2.5</font>배 수치로 치료"
+          "Desc": "주위 <font color=\"red\">3</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 </b><br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+4%</font><br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <br/><font color=\"blue\">액티브 스킬</font> 사용 후 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">3</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">2.5</font>배 수치로 치료"
         },
         {
-          "Desc": "주위 <font color=\"red\">4</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 </b><br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+5</font>%<br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <br/><font color=\"blue\">액티브 스킬</font> 사용 후 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">4</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">3</font>배 수치로 치료"
+          "Desc": "주위 <font color=\"red\">4</font>칸 범위 내에 <b>자신을 제외한 다른 부대가 <font color=\"blue\">액티브 스킬</font>을 쓸 때마다 </b><br/>자신은 '<font color=\"purple\">마나 에너지</font>' 획득 <br/><font color=\"purple\">마나 에너지</font> : 지력, 스킬 피해량 <font color=\"red\">+5%</font><br/>최대 <font color=\"red\">4</font>중첩, <b>해제불가, 면역 불가</b> <br/>자신이 <b>'<font color=\"purple\">마나 에너지</font>'효과를 보유한 상태로 <br/><font color=\"blue\">액티브 스킬</font> 사용 후 행동 종료 시</b> <br/>보유한 모든 '<font color=\"purple\">마나 에너지</font>'를 소모해 주위 <font color=\"red\">4</font>칸 범위 안에 있는 아군을 <br/>지력 <font color=\"red\">3</font>배 수치로 치료"
         }
       ]
     }
@@ -81,13 +81,13 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "성수의 힘",
-    "Stats": "스킬 피해량 <font color=\"red\">+10</font>%<br/><font color=\"purple\">마나 에너지</font>를 <font color=\"red\">3</font>개 이상 소모한 상태로 행동 종료 시<br/>해당 턴에 사용한 <font color=\"blue\">액티브 스킬</font> 쿨타임<font color=\"red\">-1</font>",
+    "Stats": "스킬 피해량 <font color=\"red\">+10%</font><br/><font color=\"purple\">마나 에너지</font>를 <font color=\"red\">3</font>개 이상 소모한 상태로 행동 종료 시<br/>해당 턴에 사용한 <font color=\"blue\">액티브 스킬</font> 쿨타임<font color=\"red\">-1</font>",
   },
   "Equip": {
     "Name": "성스러운 나무의 미소",
     "Stats": "생명 364,마방 65",
     "Icon": "마리안델.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"purple\">고유 스킬</font>로 <font color=\"purple\">마나 에너지</font> 획득 시<br/><font color=\"red\">50</font>% 확률로 추가 <font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 획득"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"purple\">고유 스킬</font>로 <font color=\"purple\">마나 에너지</font> 획득 시<br/><font color=\"red\">50%</font> 확률로 추가 <font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 획득"
   },
   "Soldiers": [
     25,
@@ -165,7 +165,7 @@
       "MagicDefRate": 82,
       "Skill": 92,
       "SkillRate": 26,
-      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">50</font>% 미만 시</b> <br/>받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">50%</font> 미만 시</b> <br/>받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "<b>치료효과</b> <font color=\"red\">+10</font>%"
     }
   ],
@@ -426,7 +426,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>행동 지속.",
+      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20%</font> <br/><font color =\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -504,7 +504,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_WindRay2.webp",
-      "Desc": "<font color=\"red\">3</font>개의 라인에 있는 모든 적군을 공격하여 <font color=\"red\">0.36</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 입힌다. <br/>적군의 공격,지력 <font color=\"red\">-20</font>%, <br/><font color=\"red\">2</font>행동 지속.",
+      "Desc": "<font color=\"red\">3</font>개의 라인에 있는 모든 적군을 공격하여 <font color=\"red\">0.36</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 입힌다. <br/>적군의 공격,지력 <font color=\"red\">-20%</font>, <br/><font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

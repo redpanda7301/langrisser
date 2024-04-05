@@ -63,16 +63,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+20</font>% <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+20%</font> <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100%</font> 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150%</font> 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+25</font>% <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+25%</font> <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100%</font> 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150%</font> 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+30</font>% <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+30%</font> <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100%</font> 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150%</font> 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         },
         {
-          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+40</font>% <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100</font>% 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150</font>% 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
+          "Desc": "행동 종료 전 이하 스킬 중 택일 추가 시전(효과 하기에 서술) <br/>1) <font color=\"blue\">영혼 묘사</font> 2) <font color=\"purple\">영혼 파열</font><br/>영혼 묘사 지력 효과 배율 <font color=\"red\">+40%</font> <br/><font color=\"blue\">그림 꼭두각시</font> 스탯은 사망 순간 최대 생명치 및 기타 스탯 <font color=\"red\">100%</font> 따라가며, <br/><b><font color=\"#00008b\">아레나</font>가 아닐 경우</b> 각 스탯의 최대 수치는 <br/><font color=\"#663399\">켈티스</font> 스탯의 <font color=\"red\">150%</font> 를 초과하지 않는다. <br/><b>적의 <font color=\"blue\">그림 꼭두각시</font>는</b> 최대 <font color=\"red\">2</font>마리까지 동시에 존재할수 있다."
         }
       ]
     }
@@ -86,7 +86,7 @@
     "Name": "영혼을 부르는 메모(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "켈티스.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"blue\">영혼의 낙인</font>을 가진 적 공격시 전투 진입 후 부대 생명 <font color =\"red\">20</font>% 회복<br/>적 격파 후 소환된 <font color=\"blue\">그림 꼭두각시</font>의 주는 피해량<font color=\"red\">+10</font>%, 받는 피해량 <font color=\"red\">-10</font>%"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">영혼의 낙인</font>을 가진 적 공격시 전투 진입 후 부대 생명 <font color =\"red\">20%</font> 회복<br/>적 격파 후 소환된 <font color=\"blue\">그림 꼭두각시</font>의 주는 피해량<font color=\"red\">+10%</font>, 받는 피해량 <font color=\"red\">-10</font>%"
   },
   "Soldiers": [
     43,
@@ -433,7 +433,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Kertesz/0_1.webp",
-          "Desc": "<font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20</font>% <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/>자신과 적 영웅의 병종이 동일할 경우 전투 시 지력 증가",
+          "Desc": "<font color=\"red\">1</font>명의 비소환물 적에게 '<font color=\"blue\">영혼의 낙인</font>' 효과 부여<br/><font color=\"purple\">영혼의 낙인</font> : <font color=\"#663399\">켈티스</font>에게 주는 피해 <font color=\"red\">-20%</font> <br/>(지속 <font color=\"red\">2</font> 행동, <b>해제불가, 면역불가</b>)<br/>자신과 적 영웅의 병종이 동일할 경우 전투 시 지력 증가",
         },
         {
           "Name": "<b><font color=\"purple\">영혼 파열</font></b>",
@@ -513,7 +513,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Kertesz/0_4.webp",
-          "Desc": "행동 종료 시 자신 주위 <font color=\"red\">2</font>칸 범위 내 적 <b>랜덤한 스탯 <font color=\"red\">1</font>개</b> <font color=\"red\">-20</font>% <br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "행동 종료 시 자신 주위 <font color=\"red\">2</font>칸 범위 내 적 <b>랜덤한 스탯 <font color=\"red\">1</font>개</b> <font color=\"red\">-20%</font> <br/>지속 <font color=\"red\">1</font>행동"
         }
       ],
       "Animation": null
@@ -580,7 +580,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -594,7 +594,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>행동 지속.",
+      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20%</font> <br/><font color =\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -620,7 +620,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ThunderCrash.webp",
-      "Desc": "범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 <font color=\"red\">-20</font>%, <font color=\"red\">2</font>행동 지속.",
+      "Desc": "범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 <font color=\"red\">-20%</font>, <font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -686,7 +686,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_JamMute.webp",
-      "Desc": "적에게 피해를 줬을 경우 <font color =\"red\">50</font>% 확률로 적에게 '<font color=\"blue\">침묵</font>' 부여, <font color =\"red\">2</font>행동 지속.",
+      "Desc": "적에게 피해를 줬을 경우 <font color =\"red\">50%</font> 확률로 적에게 '<font color=\"blue\">침묵</font>' 부여, <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -712,7 +712,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Kertesz/3.webp",
-      "Desc": "단일 개체 <font color =\"red\">1.5</font> 피해, <b>'<font color=\"blue\">영혼의 낙인</font>'을 보유한 적 공격 시 마방 <font color =\"red\">15</font>% 무시</b> <br/>전투 후 입힌 피해의 <font color =\"red\">50</font>% 수치 <font color=\"green\">생명 회복</font><br/><b>해당 스킬로 '<font color=\"blue\">영혼의 낙인</font>' 보유한 적을 격파한 경우</b>,<br/>적의 위치에 해당 영웅의 <font color=\"blue\">그림 꼭두각시</font> 소환",
+      "Desc": "단일 개체 <font color =\"red\">1.5</font> 피해, <b>'<font color=\"blue\">영혼의 낙인</font>'을 보유한 적 공격 시 마방 <font color =\"red\">15%</font> 무시</b> <br/>전투 후 입힌 피해의 <font color =\"red\">50%</font> 수치 <font color=\"green\">생명 회복</font><br/><b>해당 스킬로 '<font color=\"blue\">영혼의 낙인</font>' 보유한 적을 격파한 경우</b>,<br/>적의 위치에 해당 영웅의 <font color=\"blue\">그림 꼭두각시</font> 소환",
       "SubSkills": null,
       "Animation": null
     },
@@ -738,7 +738,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/켈티스.webp",
-      "Desc": "자신 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <br/><font color=\"red\">0.35</font>배 및 랜덤한 디버프 <font color=\"red\">2</font>개를 부여한다.<br/><b>명중한 적 <font color=\"red\">1</font>명 당 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font><br/><b>해당 스킬로 '<font color=\"blue\">영혼의 낙인</font>' 보유한 비소환물 영웅을 <font color=\"red\">1</font>명 격파할때마다</b>,<br/>해당 위치에 <font color=\"blue\">그림 꼭두각시</font> 소환",
+      "Desc": "자신 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <br/><font color=\"red\">0.35</font>배 및 랜덤한 디버프 <font color=\"red\">2</font>개를 부여한다.<br/><b>명중한 적 <font color=\"red\">1</font>명 당 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font><br/><b>해당 스킬로 '<font color=\"blue\">영혼의 낙인</font>' 보유한 비소환물 영웅을 <font color=\"red\">1</font>명 격파할때마다</b>,<br/>해당 위치에 <font color=\"blue\">그림 꼭두각시</font> 소환",
       "SubSkills": null,
       "Animation": "../img/Super/켈티스_Ani.webp"
     }

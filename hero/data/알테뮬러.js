@@ -102,23 +102,23 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+5</font>% 받는 물리 피해 <font color=\"red\">-2</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+5%</font> 받는 물리 피해 <font color=\"red\">-2%</font> (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+6</font>% 받는 물리 피해 <font color=\"red\">-3</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+6%</font> 받는 물리 피해 <font color=\"red\">-3%</font> (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+7</font>% 받는 물리 피해 <font color=\"red\">-4</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+7%</font> 받는 물리 피해 <font color=\"red\">-4%</font> (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+8</font>% 받는 물리 피해 <font color=\"red\">-5</font>% (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>  턴 시작 시 전투 진입 전 「<font color=\"blue\">무쌍</font>」 효과 획득 : 공격력 <font color=\"red\">+8%</font> 받는 물리 피해 <font color=\"red\">-5%</font> (지속 <font color =\"red\">3</font>행동 중첩 가능(최대 <font color=\"red\">4</font>중첩) <br/> 격파하는 적 <font color=\"red\">1</font>명당 「<font color=\"blue\">무쌍</font>」 효과 <font color=\"red\">1</font>개 획득 및 최대 중첩 한도 <font color=\"red\">+1</font> (최대 <font color=\"red\">+2</font>)."
         }
       ]
     }
   ],
   "Second_Awaken": {
     "Name" : "무쌍의 천명",
-    "Stats": "<font color=\"purple\">고유기</font> 제거 불가<br/><font color=\"purple\">고유기</font> 중첩 수량 <font color=\"red\">+1</font><br/>무쌍 <font color=\"red\">3</font> 스택 이상으로 행동 종료 시, 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>"
+    "Stats": "<font color=\"purple\">고유기</font> 제거 불가<br/><font color=\"purple\">고유기</font> 중첩 수량 <font color=\"red\">+1</font><br/>무쌍 <font color=\"red\">3</font> 스택 이상으로 행동 종료 시, 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>"
   },
   "Equip": {
     "Name": "리그리아 왕관(투구)",
@@ -695,7 +695,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -843,7 +843,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/알테뮬러/1.webp",
-      "Desc": "[패시브]이동 시 적 통과 가능. <b>근접 전으로 전투 진입 전</b> <br/>자신이 보유한 '<font color=\"blue\">무쌍</font>' 스택 당 생명 <font color=\"red\">10</font>% 회복 (최대 30%)<br/><b>선공으로 피해를 입힌 후 행동 종료 시</b> <font color=\"red\">2</font>칸 <font color=\"blue\">이동력 저하 면제</font> 획득,<br/> 지속 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브]이동 시 적 통과 가능. <b>근접 전으로 전투 진입 전</b> <br/>자신이 보유한 '<font color=\"blue\">무쌍</font>' 스택 당 생명 <font color=\"red\">10%</font> 회복 (최대 30%)<br/><b>선공으로 피해를 입힌 후 행동 종료 시</b> <font color=\"red\">2</font>칸 <font color=\"blue\">이동력 저하 면제</font> 획득,<br/> 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

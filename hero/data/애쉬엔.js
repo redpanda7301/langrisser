@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+12</font>%<br/>턴 시작 시, '<font color=\"purple\">눈부심</font>' 스택이 최대치가 아닌 경우 <font color=\"purple\">눈부심</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"purple\">눈부심</font> : 피해 <font color=\"red\">+5</font>%<br/>최대 <font color=\"red\">3</font>중첩, 해제 불가<br/>최대 스택일 경우, 모든 <font color=\"purple\">눈부심</font>을 상실하며 자신이 보유한 모든 스킬 쿨 <font color=\"red\">-3</font>행동 종료 시, 추가로 '<font color=\"blue\">통솔 기술</font>' 사용 가능<br/><font color=\"blue\">통솔 기술</font>은 스킬란에 설명" 
+          "Desc": "공격, 방어 <font color=\"red\">+12%</font><br/>턴 시작 시, '<font color=\"purple\">눈부심</font>' 스택이 최대치가 아닌 경우 <font color=\"purple\">눈부심</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"purple\">눈부심</font> : 피해 <font color=\"red\">+5%</font><br/>최대 <font color=\"red\">3</font>중첩, 해제 불가<br/>최대 스택일 경우, 모든 <font color=\"purple\">눈부심</font>을 상실하며 자신이 보유한 모든 스킬 쿨 <font color=\"red\">-3</font>행동 종료 시, 추가로 '<font color=\"blue\">통솔 기술</font>' 사용 가능<br/><font color=\"blue\">통솔 기술</font>은 스킬란에 설명" 
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+16</font>%<br/>턴 시작 시, '<font color=\"purple\">눈부심</font>' 스택이 최대치가 아닌 경우 <font color=\"purple\">눈부심</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"purple\">눈부심</font> : 피해 <font color=\"red\">+6</font>%<br/>최대 <font color=\"red\">3</font>중첩, 해제 불가<br/>최대 스택일 경우, 모든 <font color=\"purple\">눈부심</font>을 상실하며 자신이 보유한 모든 스킬 쿨 <font color=\"red\">-4</font>행동 종료 시, 추가로 '<font color=\"blue\">통솔 기술</font>' 사용 가능<br/><font color=\"blue\">통솔 기술</font>은 스킬란에 설명" 
+          "Desc": "공격, 방어 <font color=\"red\">+16%</font><br/>턴 시작 시, '<font color=\"purple\">눈부심</font>' 스택이 최대치가 아닌 경우 <font color=\"purple\">눈부심</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"purple\">눈부심</font> : 피해 <font color=\"red\">+6%</font><br/>최대 <font color=\"red\">3</font>중첩, 해제 불가<br/>최대 스택일 경우, 모든 <font color=\"purple\">눈부심</font>을 상실하며 자신이 보유한 모든 스킬 쿨 <font color=\"red\">-4</font>행동 종료 시, 추가로 '<font color=\"blue\">통솔 기술</font>' 사용 가능<br/><font color=\"blue\">통솔 기술</font>은 스킬란에 설명" 
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+20</font>%<br/>턴 시작 시, '<font color=\"purple\">눈부심</font>' 스택이 최대치가 아닌 경우 <font color=\"purple\">눈부심</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"purple\">눈부심</font> : 피해 <font color=\"red\">+8</font>%<br/>최대 <font color=\"red\">3</font>중첩, 해제 불가<br/>최대 스택일 경우, 모든 <font color=\"purple\">눈부심</font>을 상실하며 자신이 보유한 모든 스킬 쿨 <font color=\"red\">-5</font>행동 종료 시, 추가로 '<font color=\"blue\">통솔 기술</font>' 사용 가능<br/><font color=\"blue\">통솔 기술</font>은 스킬란에 설명" 
+          "Desc": "공격, 방어 <font color=\"red\">+20%</font><br/>턴 시작 시, '<font color=\"purple\">눈부심</font>' 스택이 최대치가 아닌 경우 <font color=\"purple\">눈부심</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"purple\">눈부심</font> : 피해 <font color=\"red\">+8%</font><br/>최대 <font color=\"red\">3</font>중첩, 해제 불가<br/>최대 스택일 경우, 모든 <font color=\"purple\">눈부심</font>을 상실하며 자신이 보유한 모든 스킬 쿨 <font color=\"red\">-5</font>행동 종료 시, 추가로 '<font color=\"blue\">통솔 기술</font>' 사용 가능<br/><font color=\"blue\">통솔 기술</font>은 스킬란에 설명" 
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+25</font>%<br/>턴 시작 시, '<font color=\"purple\">눈부심</font>' 스택이 최대치가 아닌 경우 <font color=\"purple\">눈부심</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"purple\">눈부심</font> : 피해 <font color=\"red\">+10</font>%<br/>최대 <font color=\"red\">3</font>중첩, 해제 불가<br/>최대 스택일 경우, 모든 <font color=\"purple\">눈부심</font>을 상실하며 자신이 보유한 모든 스킬 쿨 <font color=\"red\">-5</font>행동 종료 시, 추가로 '<font color=\"blue\">통솔 기술</font>' 사용 가능<br/><font color=\"blue\">통솔 기술</font>은 스킬란에 설명" 
+          "Desc": "공격, 방어 <font color=\"red\">+25%</font><br/>턴 시작 시, '<font color=\"purple\">눈부심</font>' 스택이 최대치가 아닌 경우 <font color=\"purple\">눈부심</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"purple\">눈부심</font> : 피해 <font color=\"red\">+10%</font><br/>최대 <font color=\"red\">3</font>중첩, 해제 불가<br/>최대 스택일 경우, 모든 <font color=\"purple\">눈부심</font>을 상실하며 자신이 보유한 모든 스킬 쿨 <font color=\"red\">-5</font>행동 종료 시, 추가로 '<font color=\"blue\">통솔 기술</font>' 사용 가능<br/><font color=\"blue\">통솔 기술</font>은 스킬란에 설명" 
         }
       ]
     }
@@ -222,7 +222,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Eshean/0_1.webp",
-          "Desc": "<font color=\"purple\">눈부심</font> <font color=\"red\">1</font> 소모<br/>부대 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font>"
+          "Desc": "<font color=\"purple\">눈부심</font> <font color=\"red\">1</font> 소모<br/>부대 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font>"
         },
         {
           "Name": "어명",
@@ -413,7 +413,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash2.webp",
-      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%<br/>지속 <font color =\"red\">2</font>행동",
+      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <b>생명이 <font color =\"red\">50%</font> 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15%</font><br/>지속 <font color =\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -453,7 +453,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Eshean/2.webp",
-      "Desc": "[지휘] 주위 <font color=\"Red\">2</font>칸 범위 안에 있는 아군의 <font color=\"blue\">피격 치명타 확률</font> <font color=\"Red\">-30</font>%, <font color=\"blue\">피격 원거리 피해</font> <font color=\"Red\">-15</font>%<br/>[지원] 해당 행동 종료 시 사용하는 <font color=\"blue\">통솔 기술</font> 강화<br/><font color=\"blue\">재건</font> : <font color=\"green\">회복</font> 효과 <font color=\"Red\">80</font>%로 상승 및 아군에게 사용 가능<br/><font color=\"blue\">어명</font> : 목표의 <font color=\"blue\">공방 대폭 강화</font><br/><font color=\"blue\">질주</font>목표 <font color=\"blue\">이동력</font> <font color=\"Red\">+2</font>(지속 <font color=\"Red\">2</font>행동)",
+      "Desc": "[지휘] 주위 <font color=\"Red\">2</font>칸 범위 안에 있는 아군의 <font color=\"blue\">피격 치명타 확률</font> <font color=\"Red\">-30%</font>, <font color=\"blue\">피격 원거리 피해</font> <font color=\"Red\">-15%</font><br/>[지원] 해당 행동 종료 시 사용하는 <font color=\"blue\">통솔 기술</font> 강화<br/><font color=\"blue\">재건</font> : <font color=\"green\">회복</font> 효과 <font color=\"Red\">80</font>%로 상승 및 아군에게 사용 가능<br/><font color=\"blue\">어명</font> : 목표의 <font color=\"blue\">공방 대폭 강화</font><br/><font color=\"blue\">질주</font>목표 <font color=\"blue\">이동력</font> <font color=\"Red\">+2</font>(지속 <font color=\"Red\">2</font>행동)",
       "SubSkills": null,
       "Animation": null
     },
@@ -479,7 +479,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/애쉬엔.webp",
-      "Desc": "[패시브]<font color=\"purple\">눈부심</font>을 보유한 상태에서 사망 시, 모든 <font color=\"purple\">눈부심</font> 스택을 소모하며 <font color=\"red\">30</font>% <font color=\"green\">회복</font>으로 <font color=\"blue\">부활</font> 및 모든 스킬 쿨타임 <font color=\"red\">-5</font><br/>최대 <font color=\"red\">1</font>회 발동<br/>단일 개체 <font color=\"red\">1.3</font>배 피해<br/><font color=\"purple\">눈부심</font> <font color=\"red\">1</font>스택 당 해당 스킬 피해 <font color=\"red\">+15</font>%<br/><font color=\"purple\">눈부심</font> <font color=\"red\">2</font>스택 이상일 경우 전투 전 적 <font color=\"blue\">기절</font> <font color=\"red\">1</font>행동(해제 불가)<br/>적 격파 시, 모든 <font color=\"purple\">눈부심</font>을 소모하며 모든 스킬 쿨타임 <font color=\"red\">-5</font> 및 <font color=\"blue\">재이동</font> <font color=\"red\">5</font>칸",
+      "Desc": "[패시브]<font color=\"purple\">눈부심</font>을 보유한 상태에서 사망 시, 모든 <font color=\"purple\">눈부심</font> 스택을 소모하며 <font color=\"red\">30%</font> <font color=\"green\">회복</font>으로 <font color=\"blue\">부활</font> 및 모든 스킬 쿨타임 <font color=\"red\">-5</font><br/>최대 <font color=\"red\">1</font>회 발동<br/>단일 개체 <font color=\"red\">1.3</font>배 피해<br/><font color=\"purple\">눈부심</font> <font color=\"red\">1</font>스택 당 해당 스킬 피해 <font color=\"red\">+15%</font><br/><font color=\"purple\">눈부심</font> <font color=\"red\">2</font>스택 이상일 경우 전투 전 적 <font color=\"blue\">기절</font> <font color=\"red\">1</font>행동(해제 불가)<br/>적 격파 시, 모든 <font color=\"purple\">눈부심</font>을 소모하며 모든 스킬 쿨타임 <font color=\"red\">-5</font> 및 <font color=\"blue\">재이동</font> <font color=\"red\">5</font>칸",
       "SubSkills": null,
       "Animation": "../img/Super/애쉬엔_Ani.webp"
     }

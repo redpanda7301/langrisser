@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+4</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">50</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">2</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">50</font>% 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+4</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">50%</font> 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">2</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">50%</font> 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
         },
         {
-          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+6</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">65</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">2</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">65</font>% 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+6</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">65%</font> 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">2</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">65%</font> 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
         },
         {
-          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+8</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">80</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">3</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">80</font>% 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+8</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">80%</font> 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">3</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">80%</font> 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
         },
         {
-          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+10</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">100</font>% 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">3</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">100</font>% 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
+          "Desc": "<font color=\"blue\">스킬</font> 사용 후 지력 마방 <font color=\"red\">+10</font>%.<br/>최대 <font color=\"red\">2</font>중첩 <b>해제 불가</b><br/>적에게 공격 받은 후 공격자는 <font color=\"Red\">100%</font> 확률로 <br/>'<b>행동 종료 시 랜덤한 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">+1</font></b>' 효과를 받는다, <br/><b>중첩 가능</b>, <br/>지속 <font color=\"red\">1</font>행동 <br/>주위 <font color=\"red\">3</font>칸 범위 안 아군이 <font color=\"blue\">공격 스킬</font>을 사용해 <br/>전투 진입할 경우 <font color=\"red\">100%</font> 확률로 <br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-1</font>"
         }
       ]
     }
@@ -84,7 +84,7 @@
     "Name": "아득한 메아리(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "구스타프.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>쿨타임 상태인 스킬이 있을 경우 영웅이 주는 피해량 <font color=\"red\">+10</font>%<br/>원거리 피격으로 전투 진입 전, 적에게 지력 <font color =\"red\">1</font>배 수치 <font color=\"blue\">고정피해</font>"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>쿨타임 상태인 스킬이 있을 경우 영웅이 주는 피해량 <font color=\"red\">+10%</font><br/>원거리 피격으로 전투 진입 전, 적에게 지력 <font color =\"red\">1</font>배 수치 <font color=\"blue\">고정피해</font>"
   },
   "Soldiers": [
     44,
@@ -160,7 +160,7 @@
       "MagicDefRate": 82,
       "Skill": 99,
       "SkillRate": 27,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80</font>% 초과일 경우 <br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과일 경우 <br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "공격 받아 전투 진입 시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
@@ -538,7 +538,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방 <font color=\"red\">+30</font>%,<br/>그리고 '<font color=\"blue\">기절</font>', '<font color=\"blue\">강화 방해</font>', '<font color=\"blue\">이동력 감소</font>' 면역 부여 ,<br/><font color=\"red\">2</font>행동 지속.",
+      "Desc": "범위 내 아군들의 마방 <font color=\"red\">+30%</font>,<br/>그리고 '<font color=\"blue\">기절</font>', '<font color=\"blue\">강화 방해</font>', '<font color=\"blue\">이동력 감소</font>' 면역 부여 ,<br/><font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -564,7 +564,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Gustav/2.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.6</font>배 피해, 전투 후 피해량 <font color=\"red\">20</font>% 수치 <font color=\"green\">생명 회복</font> <br/>만약 목표의 현재 <font color=\"blue\">쿨타임</font> 총합이 <font color=\"Red\">3</font> 이상일 경우 <br/><font color=\"blue\">선제 공격</font>과 피해 <font color=\"red\">+20</font>% <br/>전투 전 <font color=\"blue\">치료 불가</font> 부여<br/> 지속 <font color=\"red\">1</font> 턴",
+      "Desc": "단일 개체 <font color=\"red\">1.6</font>배 피해, 전투 후 피해량 <font color=\"red\">20%</font> 수치 <font color=\"green\">생명 회복</font> <br/>만약 목표의 현재 <font color=\"blue\">쿨타임</font> 총합이 <font color=\"Red\">3</font> 이상일 경우 <br/><font color=\"blue\">선제 공격</font>과 피해 <font color=\"red\">+20%</font> <br/>전투 전 <font color=\"blue\">치료 불가</font> 부여<br/> 지속 <font color=\"red\">1</font> 턴",
       "SubSkills": null,
       "Animation": null
     },
@@ -604,7 +604,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/구스타프.webp",
-      "Desc": "[패시브] 자신의 <font color=\"blue\">스킬 쿨타임</font>이 돌아가고 있을 때 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>[마법피해] 범위 내 적에게 <font color=\"red\">0.4</font>배 피해, <br/>랜덤한 디버프 <font color=\"red\">2</font>개 및 '<font color=\"blue\">행동 종료 시 모든 스킬 쿨타임</font> <font color=\"red\">+1</font>'(디버프) 효과 부여 <br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b> <br/>사용 후 자신에게 '<font color=\"blue\">시간의 방패</font>' 부여 <br/><font color=\"blue\">시간의 방패</font> : 받는 피해 <font color=\"Red\">-10</font>% <br/><b>적 전체의 '<font color=\"blue\">마법 부여 : 시계</font>'의 <font color=\"blue\">쿨타임 감소</font> 효과 무효화</b> <br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>",
+      "Desc": "[패시브] 자신의 <font color=\"blue\">스킬 쿨타임</font>이 돌아가고 있을 때 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>[마법피해] 범위 내 적에게 <font color=\"red\">0.4</font>배 피해, <br/>랜덤한 디버프 <font color=\"red\">2</font>개 및 '<font color=\"blue\">행동 종료 시 모든 스킬 쿨타임</font> <font color=\"red\">+1</font>'(디버프) 효과 부여 <br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b> <br/>사용 후 자신에게 '<font color=\"blue\">시간의 방패</font>' 부여 <br/><font color=\"blue\">시간의 방패</font> : 받는 피해 <font color=\"Red\">-10%</font> <br/><b>적 전체의 '<font color=\"blue\">마법 부여 : 시계</font>'의 <font color=\"blue\">쿨타임 감소</font> 효과 무효화</b> <br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/구스타프_Ani.webp"
     }

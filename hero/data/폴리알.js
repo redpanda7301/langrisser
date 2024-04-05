@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font> 바퀴 안에 있는 한 부대 당 공격 방어 <font color=\"red\">+3</font>% 최대 <font color=\"red\">+15</font>%<br/>범위 스킬이 <font color=\"red\">3</font>명 이상의 부대에 명중 시 대상의 방어 <font color=\"red\">-10</font>%<br/>지속 <font color=\"red\">2</font>행동<br/>자신은 <font color=\"blue\">면역</font> 및 <font color=\"green\">증원</font> 획득<br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "주위 <font color=\"red\">1</font> 바퀴 안에 있는 한 부대 당 공격 방어 <font color=\"red\">+3%</font> 최대 <font color=\"red\">+15%</font><br/>범위 스킬이 <font color=\"red\">3</font>명 이상의 부대에 명중 시 대상의 방어 <font color=\"red\">-10%</font><br/>지속 <font color=\"red\">2</font>행동<br/>자신은 <font color=\"blue\">면역</font> 및 <font color=\"green\">증원</font> 획득<br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font> 바퀴 안에 있는 한 부대 당 공격 방어 <font color=\"red\">+4</font>% 최대 <font color=\"red\">+20</font>%<br/>범위 스킬이 <font color=\"red\">3</font>명 이상의 부대에 명중 시 대상의 방어 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">2</font>행동<br/>자신은 <font color=\"blue\">면역</font> 및 <font color=\"green\">증원</font> 획득<br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "주위 <font color=\"red\">2</font> 바퀴 안에 있는 한 부대 당 공격 방어 <font color=\"red\">+4%</font> 최대 <font color=\"red\">+20%</font><br/>범위 스킬이 <font color=\"red\">3</font>명 이상의 부대에 명중 시 대상의 방어 <font color=\"red\">-15%</font><br/>지속 <font color=\"red\">2</font>행동<br/>자신은 <font color=\"blue\">면역</font> 및 <font color=\"green\">증원</font> 획득<br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font> 바퀴 안에 있는 한 부대 당 공격 방어 <font color=\"red\">+5</font>% 최대 <font color=\"red\">+25</font>%<br/>범위 스킬이 <font color=\"red\">2</font>명 이상의 부대에 명중 시 대상의 방어 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">2</font>행동<br/>자신은 <font color=\"blue\">면역</font> 및 <font color=\"green\">증원</font> 획득<br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "주위 <font color=\"red\">2</font> 바퀴 안에 있는 한 부대 당 공격 방어 <font color=\"red\">+5%</font> 최대 <font color=\"red\">+25%</font><br/>범위 스킬이 <font color=\"red\">2</font>명 이상의 부대에 명중 시 대상의 방어 <font color=\"red\">-15%</font><br/>지속 <font color=\"red\">2</font>행동<br/>자신은 <font color=\"blue\">면역</font> 및 <font color=\"green\">증원</font> 획득<br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font> 바퀴 안에 있는 한 부대 당 공격 방어 <font color=\"red\">+6</font>% 최대 <font color=\"red\">+30</font>%<br/>범위 스킬이 <font color=\"red\">2</font>명 이상의 부대에 명중 시 대상의 방어 <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">2</font>행동<br/>자신은 <font color=\"blue\">면역</font> 및 <font color=\"green\">증원</font> 획득<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "주위 <font color=\"red\">3</font> 바퀴 안에 있는 한 부대 당 공격 방어 <font color=\"red\">+6%</font> 최대 <font color=\"red\">+30%</font><br/>범위 스킬이 <font color=\"red\">2</font>명 이상의 부대에 명중 시 대상의 방어 <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">2</font>행동<br/>자신은 <font color=\"blue\">면역</font> 및 <font color=\"green\">증원</font> 획득<br/>지속 <font color=\"red\">2</font>행동"
         }
       ]
     }
@@ -84,7 +84,7 @@
     "Name": "선령의 속삭임(투구)",
     "Stats": "생명 583, 마방 48",
     "Icon": "폴리알.webp",
-    "Ability": "방어 <font color=\"red\">+10</font>%<br/>쿨다운 중인 스킬 <font color=\"red\">1</font>개당 부대 피해 <font color=\"red\">+10</font>%<br/>적을 <font color=\"blue\">위치 이동</font> 시켰을 경우 '<font color=\"blue\">지휘</font>. 주위 <font color=\"red\">2</font>칸 범위 적이 받는 <font color=\"green\">치료</font> <font color=\"red\">-30</font>%' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
+    "Ability": "방어 <font color=\"red\">+10%</font><br/>쿨다운 중인 스킬 <font color=\"red\">1</font>개당 부대 피해 <font color=\"red\">+10%</font><br/>적을 <font color=\"blue\">위치 이동</font> 시켰을 경우 '<font color=\"blue\">지휘</font>. 주위 <font color=\"red\">2</font>칸 범위 적이 받는 <font color=\"green\">치료</font> <font color=\"red\">-30</font>%' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
   },
   "Soldiers": [
     25,
@@ -127,8 +127,8 @@
       "MagicDefRate": 67,
       "Skill": 143,
       "SkillRate": 41,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80</font>% 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70</font>% 미만 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70%</font> 미만 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     },
     {
       "Name": "투신",
@@ -407,7 +407,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.5</font>배의 피해<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "단일 개체 <font color=\"red\">1.5</font>배의 피해<br/>전투 후, 적 방어 <font color=\"red\">-30%</font><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -421,7 +421,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
-      "Desc": "부대 생명이 <font color=\"red\">50</font>% 이하로<br/> 전투 진입 시 방어, 마방 <font color=\"red\">+10</font>%.",
+      "Desc": "부대 생명이 <font color=\"red\">50%</font> 이하로<br/> 전투 진입 시 방어, 마방 <font color=\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -447,7 +447,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BitterlyHit.webp",
-      "Desc": "[패시브]인접한 아군이 받는 <font color=\"blue\">물리공격 호위</font><br/>[액티브]호위 범위가 <font color=\"#DC143C\">2</font>칸 증가 및 방어 <font color=\"#DC143C\">+20</font>%<br/>근접 전투 종료 후 [<font color=\"blue\">미늘</font>]의 <font color=\"blue\">고정 피해</font> 반드시 발동한다.<br/>지속 <font color=\"#DC143C\">2</font>행동",
+      "Desc": "[패시브]인접한 아군이 받는 <font color=\"blue\">물리공격 호위</font><br/>[액티브]호위 범위가 <font color=\"#DC143C\">2</font>칸 증가 및 방어 <font color=\"#DC143C\">+20%</font><br/>근접 전투 종료 후 [<font color=\"blue\">미늘</font>]의 <font color=\"blue\">고정 피해</font> 반드시 발동한다.<br/>지속 <font color=\"#DC143C\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -539,7 +539,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_NerverDie.webp",
-      "Desc": "사망 시 부활 및 생명 <font color=\"Red\">20</font>% <font color=\"green\">회복</font><br/>최대 <font color=\"Red\">1</font>회",
+      "Desc": "사망 시 부활 및 생명 <font color=\"Red\">20%</font> <font color=\"green\">회복</font><br/>최대 <font color=\"Red\">1</font>회",
       "SubSkills": null,
       "Animation": null
     },
@@ -591,7 +591,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.3</font>배 피해<br/>전투 전 상대 <font color=\"blue\">버프 <font color=\"red\">2</font>개 제거</font><br/>동시에 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20</font></font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "단일 개체 <font color=\"red\">1.3</font>배 피해<br/>전투 전 상대 <font color=\"blue\">버프 <font color=\"red\">2</font>개 제거</font><br/>동시에 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -617,7 +617,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/폴리알.webp",
-      "Desc": "공격 <font color=\"Red\">+20</font>% 효과 획득<br/>지속 <font color=\"Red\">2</font>행동<br/>종점을 향해 돌격해 <font color=\"Red\">3</font>줄 직선 상에 있는 적에게 <font color=\"Red\">0.1</font>배 피해와 '<font color=\"blue\">위치 이동</font> 효과 부여<br/>(멈출 때까지 적을 밀침)<br/><font color=\"blue\">위치 이동</font> : 지나가는 경로에 있는 모든 적이 부여한 <font color =\"blue\">지형 효과 제거</font> 및 '<font color =\"blue\">선령의 대로</font>' 효과 부여<br/><font color =\"blue\">선령의 대로</font> : 비병이 아닌 아군이 통과 시 <font color =\"blue\">이동력 감소 면역</font> 기회 <font color =\"red\">1</font>칸 부여<br/>행동 종료 시 자신 주위 <font color=\"Red\">2</font>칸 범위 안 적에게 <font color=\"Red\">0.35</font>배 피해 및 랜덤한 적 <font color=\"Red\">1</font> ~ <font color=\"Red\">3</font>명을 <font color=\"blue\">기절</font>시킴<br/>지속 <font color=\"Red\">1</font>행동<br/><font color=\"Red\">4</font>행동마다 스킬의 사거리 <font color=\"Red\">-1</font>(최대 <font color=\"Red\">-3</font>)<br/>해당 효과는 아레나에서만 발동",
+      "Desc": "공격 <font color=\"Red\">+20%</font> 효과 획득<br/>지속 <font color=\"Red\">2</font>행동<br/>종점을 향해 돌격해 <font color=\"Red\">3</font>줄 직선 상에 있는 적에게 <font color=\"Red\">0.1</font>배 피해와 '<font color=\"blue\">위치 이동</font> 효과 부여<br/>(멈출 때까지 적을 밀침)<br/><font color=\"blue\">위치 이동</font> : 지나가는 경로에 있는 모든 적이 부여한 <font color =\"blue\">지형 효과 제거</font> 및 '<font color =\"blue\">선령의 대로</font>' 효과 부여<br/><font color =\"blue\">선령의 대로</font> : 비병이 아닌 아군이 통과 시 <font color =\"blue\">이동력 감소 면역</font> 기회 <font color =\"red\">1</font>칸 부여<br/>행동 종료 시 자신 주위 <font color=\"Red\">2</font>칸 범위 안 적에게 <font color=\"Red\">0.35</font>배 피해 및 랜덤한 적 <font color=\"Red\">1</font> ~ <font color=\"Red\">3</font>명을 <font color=\"blue\">기절</font>시킴<br/>지속 <font color=\"Red\">1</font>행동<br/><font color=\"Red\">4</font>행동마다 스킬의 사거리 <font color=\"Red\">-1</font>(최대 <font color=\"Red\">-3</font>)<br/>해당 효과는 아레나에서만 발동",
       "SubSkills": null,
       "Animation": "../img/Super/폴리알_Ani.webp"
     }

@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "방어 <font color=\"red\">+5</font>%<br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+1</font>%<br/>최대 <font color=\"red\">+5</font>%<br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">1</font> 바퀴 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "방어 <font color=\"red\">+5%</font><br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+1%</font><br/>최대 <font color=\"red\">+5%</font><br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">1</font> 바퀴 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "방어 <font color=\"red\">+10</font>%<br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+2</font>%<br/>최대 <font color=\"red\">+10</font>%<br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">2</font>칸 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "방어 <font color=\"red\">+10%</font><br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+2%</font><br/>최대 <font color=\"red\">+10%</font><br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">2</font>칸 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "방어 <font color=\"red\">+15</font>%<br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+3</font>%<br/>최대 <font color=\"red\">+15</font>%<br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">2</font>칸 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "방어 <font color=\"red\">+15%</font><br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+3%</font><br/>최대 <font color=\"red\">+15%</font><br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">2</font>칸 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "방어 <font color=\"red\">+20</font>%<br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+4</font>%<br/>최대 <font color=\"red\">+20</font>%<br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">2</font>바퀴 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "방어 <font color=\"red\">+20%</font><br/>이동력 <font color=\"red\">1</font>칸 당 공격력 <font color=\"red\">+4%</font><br/>최대 <font color=\"red\">+20%</font><br/>선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">2</font>바퀴 범위 안<br/>적에게 걸린 이동력 증가 효과를 이동력 감소 효과로 전환<br/>지속 <font color=\"red\">1</font>행동"
         }
       ]
     }
@@ -81,13 +81,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "동력후류",
-    "Stats": "공격 <font color=\"red\">+5</font>%<br/><font color=\"blue\">터빈 부스터</font> 사용 후 행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 안 아군 이동력 <font color=\"red\">+1</font><br/>지속 <font color=\"red\">2</font>행동"
+    "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"blue\">터빈 부스터</font> 사용 후 행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 안 아군 이동력 <font color=\"red\">+1</font><br/>지속 <font color=\"red\">2</font>행동"
   },
   "Equip": {
     "Name": "반중력 돌격 투구(투구)",
     "Stats": "생명 583, 마방 48",
     "Icon": "캐롤리안.webp",
-    "Ability": "생명,마방 <font color=\"Red\">+5</font>%<br/><font color=\"purple\">고유 스킬</font>효과 범위 <font color=\"Red\">1</font>칸 증가<br/><font color=\"blue\">이동력 저하</font> 효과 지속시간 <font color=\"red\">1</font>행동 증가, <br/>이동 <font color=\"red\">1</font>칸당 치명타 확률 및 피해 <font color=\"red\">+2</font>%<br/> 최대 <font color=\"red\">10</font>%"
+    "Ability": "생명,마방 <font color=\"Red\">+5%</font><br/><font color=\"purple\">고유 스킬</font>효과 범위 <font color=\"Red\">1</font>칸 증가<br/><font color=\"blue\">이동력 저하</font> 효과 지속시간 <font color=\"red\">1</font>행동 증가, <br/>이동 <font color=\"red\">1</font>칸당 치명타 확률 및 피해 <font color=\"red\">+2%</font><br/> 최대 <font color=\"red\">10</font>%"
   },
   "Soldiers": [
     56,
@@ -161,8 +161,8 @@
       "MagicDefRate": 65,
       "Skill": 120,
       "SkillRate": 39,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70</font>% 미만일 경우 전투 진입 시<br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만일 경우 전투 진입 후<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만일 경우 전투 진입 시<br/>받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만일 경우 전투 진입 후<br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -383,7 +383,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/39.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.4</font>배의 피해<br/>대상을 <font color=\"red\">2</font>칸 뒤로 <font color=\"blue\">위치이동</font> 및 방어 <font color=\"red\">-20</font>%<br/>'<font color=\"blue\">호위불가</font>' 부여<br/> 지속 <font color=\"red\">2</font>행동",
+      "Desc": "단일 개체 <font color=\"red\">1.4</font>배의 피해<br/>대상을 <font color=\"red\">2</font>칸 뒤로 <font color=\"blue\">위치이동</font> 및 방어 <font color=\"red\">-20%</font><br/>'<font color=\"blue\">호위불가</font>' 부여<br/> 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -437,7 +437,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.webp",
-      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"Red\">80</font>% 이상일 경우<br/>전투 중 받는 피해량-<font color=\"Red\">-30</font>%.",
+      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"Red\">80%</font> 이상일 경우<br/>전투 중 받는 피해량-<font color=\"Red\">-30</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -567,7 +567,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1</font>의 피해를 준다.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20</font>% (최대 <font color=\"#DC143C\">+60</font>%)<br/>적 부대에게 '<font color=\"blue\">치료 방해</font>' 부여<br/>지속 <font color=\"#DC143C\">1</font>행동",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1</font>의 피해를 준다.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60</font>%)<br/>적 부대에게 '<font color=\"blue\">치료 방해</font>' 부여<br/>지속 <font color=\"#DC143C\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2</font>칸 내에 다른 아군이 있을 때 피해 <font color=\"red\">+15</font>%<br/>선공으로 적에게 피해를 입힌 후 '<font color=\"blue\">이동력</font> <font color=\"red\">1</font> ~ <font color=\"red\">2</font>' 무작위 <font color=\"blue\">저하</font> 및 <font color=\"blue\">호위 불가</font>' 효과 부여<br/>지속 <font color=\"red\">1</font> 행동"
+          "Desc": "자신 주위 <font color=\"red\">2</font>칸 내에 다른 아군이 있을 때 피해 <font color=\"red\">+15%</font><br/>선공으로 적에게 피해를 입힌 후 '<font color=\"blue\">이동력</font> <font color=\"red\">1</font> ~ <font color=\"red\">2</font>' 무작위 <font color=\"blue\">저하</font> 및 <font color=\"blue\">호위 불가</font>' 효과 부여<br/>지속 <font color=\"red\">1</font> 행동"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2</font>칸 내에 다른 아군이 있을 때 피해 <font color=\"red\">+20</font>%<br/>선공으로 적에게 피해를 입힌 후 '<font color=\"blue\">이동력</font> <font color=\"red\">1</font> ~ <font color=\"red\">2</font>' 무작위 <font color=\"blue\">저하</font> 및 <font color=\"blue\">호위 불가</font>' 효과 부여<br/>지속 <font color=\"red\">1</font> 행동"
+          "Desc": "자신 주위 <font color=\"red\">2</font>칸 내에 다른 아군이 있을 때 피해 <font color=\"red\">+20%</font><br/>선공으로 적에게 피해를 입힌 후 '<font color=\"blue\">이동력</font> <font color=\"red\">1</font> ~ <font color=\"red\">2</font>' 무작위 <font color=\"blue\">저하</font> 및 <font color=\"blue\">호위 불가</font>' 효과 부여<br/>지속 <font color=\"red\">1</font> 행동"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">3</font>칸 내에 다른 아군이 있을 때 피해 <font color=\"red\">+25</font>%<br/>선공으로 적에게 피해를 입힌 후 '<font color=\"blue\">이동력</font> <font color=\"red\">1</font> ~ <font color=\"red\">2</font>' 무작위 <font color=\"blue\">저하</font> 및 <font color=\"blue\">호위 불가</font>' 효과 부여<br/>지속 <font color=\"red\">2</font> 행동"        
+          "Desc": "자신 주위 <font color=\"red\">3</font>칸 내에 다른 아군이 있을 때 피해 <font color=\"red\">+25%</font><br/>선공으로 적에게 피해를 입힌 후 '<font color=\"blue\">이동력</font> <font color=\"red\">1</font> ~ <font color=\"red\">2</font>' 무작위 <font color=\"blue\">저하</font> 및 <font color=\"blue\">호위 불가</font>' 효과 부여<br/>지속 <font color=\"red\">2</font> 행동"        
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">3</font>칸 내에 다른 아군이 있을 때 피해 <font color=\"red\">+30</font>%<br/>선공으로 적에게 피해를 입힌 후 '<font color=\"blue\">이동력</font> <font color=\"red\">1</font> ~ <font color=\"red\">2</font>' 무작위 <font color=\"blue\">저하</font> 및 <font color=\"blue\">호위 불가</font>' 효과 부여<br/>지속 <font color=\"red\">2</font> 행동"        
+          "Desc": "자신 주위 <font color=\"red\">3</font>칸 내에 다른 아군이 있을 때 피해 <font color=\"red\">+30%</font><br/>선공으로 적에게 피해를 입힌 후 '<font color=\"blue\">이동력</font> <font color=\"red\">1</font> ~ <font color=\"red\">2</font>' 무작위 <font color=\"blue\">저하</font> 및 <font color=\"blue\">호위 불가</font>' 효과 부여<br/>지속 <font color=\"red\">2</font> 행동"        
         }
       ]
     }
@@ -80,7 +80,7 @@
     "Name": "눈의 로브(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "사그니.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"blue\">살을 에는 추위</font> 사용 후, <font color=\"blue\">눈부엉이</font> 이동 횟수 <font color=\"red\">+1</font><br/>주위 <font color=\"red\">6</font>칸 범위 안에 자신이 부른 <font color=\"blue\">눈부엉이</font>가 있을 경우<br/>부활 <font color=\"red\">1</font>회<br/>(최대 <font color=\"red\">1</font>회 발동)"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">살을 에는 추위</font> 사용 후, <font color=\"blue\">눈부엉이</font> 이동 횟수 <font color=\"red\">+1</font><br/>주위 <font color=\"red\">6</font>칸 범위 안에 자신이 부른 <font color=\"blue\">눈부엉이</font>가 있을 경우<br/>부활 <font color=\"red\">1</font>회<br/>(최대 <font color=\"red\">1</font>회 발동)"
   },
   "Soldiers": [
     43,
@@ -402,7 +402,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Sagny/1_1.webp",
-          "Desc": "[지휘] 눈부엉이 주위 2칸 범위 안 적에게 피격 치명타 확률 <font color=\"red\">+10</font>%<br/>[패시브] 스킬 사용 시 눈부엉이 주위 <font color=\"red\">2</font>칸 범위 안 지역을<br/>자신의 <font color=\"blue\">스킬 사거리</font> 및 <font color=\"blue\">원거리 병사와 함께 공격 가능</font>으로 간주한다.<br/>행동 종료 시 <font color=\"blue\">눈부엉이</font>를 선택해 이동 <font color=\"red\">2</font>칸 가능.<br/><font color=\"red\">1</font>회 한정.<br/><font color=\"blue\">눈부엉이</font>가 사라지면 해당 스킬은 <font color=\"blue\">살을 에는 추위</font>로 변경."
+          "Desc": "[지휘] 눈부엉이 주위 2칸 범위 안 적에게 피격 치명타 확률 <font color=\"red\">+10%</font><br/>[패시브] 스킬 사용 시 눈부엉이 주위 <font color=\"red\">2</font>칸 범위 안 지역을<br/>자신의 <font color=\"blue\">스킬 사거리</font> 및 <font color=\"blue\">원거리 병사와 함께 공격 가능</font>으로 간주한다.<br/>행동 종료 시 <font color=\"blue\">눈부엉이</font>를 선택해 이동 <font color=\"red\">2</font>칸 가능.<br/><font color=\"red\">1</font>회 한정.<br/><font color=\"blue\">눈부엉이</font>가 사라지면 해당 스킬은 <font color=\"blue\">살을 에는 추위</font>로 변경."
         }
       ],
       "Animation": null
@@ -429,7 +429,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/20.webp",
-      "Desc": "범위 내 다수의 적군을 공격 하여 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 다수의 적군을 공격 하여 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -533,7 +533,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BreakEvil.webp",
-      "Desc": "치명타율 <font color=\"red\">+15</font>%<br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
+      "Desc": "치명타율 <font color=\"red\">+15%</font><br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -573,7 +573,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/사그니.webp",
-      "Desc": "[패시브]자신 주위 <font color=\"red\">3</font>칸 범위 안과 <font color=\"blue\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에 동시에 위치한 적과 교전 시 <font color=\"blue\">지력</font> <font color=\"red\">+15</font>%<br/>[마법피해] 공격 범위 안 적에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">침묵</font>, <font color=\"blue\">재행동 불가</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>자신에게 '<font color=\"blue\">서리 봉쇄</font>' 효과 부여<br/><font color=\"blue\">서리 봉쇄</font> : 적이 <font color=\"blue\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에서 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>(지력 <font color=\"red\">1.5</font>배 수치)<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "[패시브]자신 주위 <font color=\"red\">3</font>칸 범위 안과 <font color=\"blue\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에 동시에 위치한 적과 교전 시 <font color=\"blue\">지력</font> <font color=\"red\">+15%</font><br/>[마법피해] 공격 범위 안 적에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">침묵</font>, <font color=\"blue\">재행동 불가</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>자신에게 '<font color=\"blue\">서리 봉쇄</font>' 효과 부여<br/><font color=\"blue\">서리 봉쇄</font> : 적이 <font color=\"blue\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에서 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>(지력 <font color=\"red\">1.5</font>배 수치)<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/사그니_Ani.webp"
     }

@@ -63,16 +63,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+10</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>행동, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
+          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+10%</font><br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4%</font>, 중첩 가능, <br/>지속 <font color=\"red\">3</font>행동, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30%</font> 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
         },
         {
-          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+12</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>행동, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
+          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+12%</font><br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4%</font>, 중첩 가능, <br/>지속 <font color=\"red\">3</font>행동, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30%</font> 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
         },
         {
-          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+15</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>행동, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
+          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+15%</font><br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4%</font>, 중첩 가능, <br/>지속 <font color=\"red\">3</font>행동, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30%</font> 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
         },
         {
-          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+20</font>%<br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4</font>%, 중첩 가능, <br/>지속 <font color=\"red\">3</font>행동, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30</font>% 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
+          "Desc": "자신에게 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 이상의 버프가 걸려 있을 경우 공격 방어 <font color=\"red\">+20%</font><br/>적에게 피해를 입힌 후 '<font color=\"purple\">작열</font>' 효과 부여 <br/><font color=\"purple\">작열</font> : 받는 범위 피해 <font color=\"red\">+4%</font>, 중첩 가능, <br/>지속 <font color=\"red\">3</font>행동, <b>해제 불가</b><br/><b><font color=\"purple\">작열</font> <font color=\"red\">3</font>중첩 후 행동 종료 시 자신 주위</b> <font color=\"red\">1</font>바퀴 범위 내 아군에게 <br/><b>각자 <font color=\"green\">현재 생명</font></b> <font color=\"red\">30%</font> 수치의 <font color=\"blue\">고정피해</font>를 주고(디메리트) <br/><font color=\"purple\">작열</font> 효과 소멸"
         }
       ]
     }
@@ -83,7 +83,7 @@
     "Name": "마도 과학 무장(무기)",
     "Stats": "생명 364, 공격 118",
     "Icon": "미셸.webp",
-    "Ability": "공격 <font color=\"red\">+10</font>%<br/>적에게 피해를 입힌 후, <font color=\"Red\">50</font>% 확률로 작열 추가 부여<br/>자신에게 '<font color=\"blue\">직선 스킬 사거리</font> <font color=\"Red\">+1</font> 부여'<br/> 지속 <font color=\"Red\">1</font>행동, <b>해제 불가</b>"
+    "Ability": "공격 <font color=\"red\">+10%</font><br/>적에게 피해를 입힌 후, <font color=\"Red\">50%</font> 확률로 작열 추가 부여<br/>자신에게 '<font color=\"blue\">직선 스킬 사거리</font> <font color=\"Red\">+1</font> 부여'<br/> 지속 <font color=\"Red\">1</font>행동, <b>해제 불가</b>"
   },
   "Soldiers": [
     25,
@@ -127,7 +127,7 @@
       "Skill": 172,
       "SkillRate": 56,
       "HeartFetterBouns1": "받는 범위 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">50</font>% 미만 시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">50%</font> 미만 시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "검투 대장",
@@ -432,7 +432,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/43.webp",
-        "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%, <font color=\"red\">2</font>행동 지속.",
+        "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30%</font>, <font color=\"red\">2</font>행동 지속.",
         "SubSkills": null,
         "Animation": null
     },
@@ -446,7 +446,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-        "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+        "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
         "SubSkills": null,
         "Animation": null
     },
@@ -540,7 +540,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color=\"red\">1.3</font>배 피해를 준다.<br/>전투 전 상대 버프 <font color=\"red\">2</font>개 제거와 동시에 상대의 공격 및 지력 <font color=\"red\">-20</font>% <br/><font color=\"red\">1</font>행동 지속.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color=\"red\">1.3</font>배 피해를 준다.<br/>전투 전 상대 버프 <font color=\"red\">2</font>개 제거와 동시에 상대의 공격 및 지력 <font color=\"red\">-20%</font> <br/><font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -592,7 +592,7 @@
           }
         ],
         "IconImageUrl": "../img/Super/미셸.webp",
-        "Desc": "[패시브]'<font color=\"purple\">작열</font>' 효과가 있는 적과 교전 시 받는 피해 <font color=\"red\">-15</font>% <br/>[물리피해]<font color=\"red\">3</font>줄 직선상 적에게 <font color=\"red\">0.36</font>배 범위 피해 및 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거<br/><font color=\"red\">3</font>명 이상 명중 시 치명타 확률 <font color=\"red\">+60</font>% 및 '<font color=\"purple\">작열</font>' 효과 <font color=\"red\">1</font>개 부여, <font color=\"blue\">쿨타임</font> <font color=\"red\">-3</font>",
+        "Desc": "[패시브]'<font color=\"purple\">작열</font>' 효과가 있는 적과 교전 시 받는 피해 <font color=\"red\">-15%</font> <br/>[물리피해]<font color=\"red\">3</font>줄 직선상 적에게 <font color=\"red\">0.36</font>배 범위 피해 및 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거<br/><font color=\"red\">3</font>명 이상 명중 시 치명타 확률 <font color=\"red\">+60%</font> 및 '<font color=\"purple\">작열</font>' 효과 <font color=\"red\">1</font>개 부여, <font color=\"blue\">쿨타임</font> <font color=\"red\">-3</font>",
         "SubSkills": null,
         "Animation": "../img/Super/미셸_Ani.webp"
       }

@@ -77,7 +77,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "순수한 낙인",
-    "Stats": "<font color=\"green\">치료</font> 효과 <font color=\"red\">+10</font>%<br/><font color=\"purple\">환상의 키스</font>에 추가 효과 부여 '행동종료 시 자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font>'"
+    "Stats": "<font color=\"green\">치료</font> 효과 <font color=\"red\">+10%</font><br/><font color=\"purple\">환상의 키스</font>에 추가 효과 부여 '행동종료 시 자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font>'"
   },
   "Equip": null,
   "Soldiers": [
@@ -479,7 +479,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

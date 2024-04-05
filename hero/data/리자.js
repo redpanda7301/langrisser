@@ -57,19 +57,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+5</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">10</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
+          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+5</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">10%</font> <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
         },
         {
-          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+10</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">13</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
+          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+10</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">13%</font> <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
         },
         {
-          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+15</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">16</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
+          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+15</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">16%</font> <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
         },
         {
-          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+20</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
+          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+20</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
         },
         {
-          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+25</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">25</font>% <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
+          "Desc": "자신이 숲, 초원, 사막에 있을 경우 공격 <font color=\"red\">+25</font>%. 및<br/> 행동 종료 시 부대 생명 <font color=\"red\">25%</font> <font color=\"green\">회복</font><br/>행동 종료 전 이하 세 가지 형태 중 하나를 선택 가능(하단에 후술) <br/><b>면역 및 해제 불가</b><br/>쿨타임 <font color=\"red\">5</font>행동"
         }
       ]
     }
@@ -80,7 +80,7 @@
     "Name": "떠돌이 영혼의 머리(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "리자.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>매번 형태 선택 시 자신에게 걸린 <font color=\"blue\">디버프</font><font color=\"Red\">1</font>개를 제거하고,<br/>무작위 버프 <font color=\"Red\">1</font>개 부여."
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>매번 형태 선택 시 자신에게 걸린 <font color=\"blue\">디버프</font><font color=\"Red\">1</font>개를 제거하고,<br/>무작위 버프 <font color=\"Red\">1</font>개 부여."
   },
   "Soldiers": [
     8,
@@ -123,7 +123,7 @@
       "Skill": 300,
       "SkillRate": 81,
       "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대 받는 피해량 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">80</font>% 초과 시 <br/>전투 진입 후 주는 피해량 +<font color=\"Red\">10</font>%"
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">80%</font> 초과 시 <br/>전투 진입 후 주는 피해량 +<font color=\"Red\">10</font>%"
     },
     {
       "Name": "레인저",
@@ -379,7 +379,7 @@
           "Name": "<b><font color=\"#0070c0\">곰</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/skills/Liza/0_1.webp",
-          "Desc": "<font color =\"green\">받는 치료 효과</font> <font color=\"red\">+30</font>%, <br/>공격의 <font color=\"red\">15</font>% 수치를 방어와 마방에 더하고 <br/><b>부대가 근접 패널티를 받지 않는다</b>"
+          "Desc": "<font color =\"green\">받는 치료 효과</font> <font color=\"red\">+30%</font>, <br/>공격의 <font color=\"red\">15%</font> 수치를 방어와 마방에 더하고 <br/><b>부대가 근접 패널티를 받지 않는다</b>"
         },
         {
           "Name": "<b><font color=\"#0070c0\">늑대</font></b>",
@@ -562,7 +562,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_PHeal2.webp",
-      "Desc": "액티브 스킬, 자신 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font>한다.",
+      "Desc": "액티브 스킬, 자신 부대 생명을 <font color=\"red\">100%</font> <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },

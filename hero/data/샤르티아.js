@@ -486,7 +486,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },

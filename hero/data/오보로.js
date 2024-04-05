@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "선공으로 전투 진입시 주는 피해량 <font color=\"red\">+10</font><br/>자신에게 병사가 없을 경우 적에게 <font color=\"blue\">병사 피해</font> <font color=\"red\">-90</font>% 효과 부여<br/>행동 종료시 '<font color=\"purple\">방패</font>' 효과 획득 <br/><font color=\"purple\">방패</font> : 영웅 최대 생명 <font color=\"red\">25</font>% 수치 <font color=\"blue\">피해 방어</font>, <b>해제 불가</b><br/><font color=\"red\">영웅 사망 시</font> 공격자에게 오보로의 공격력 <font color=\"red\">0.25</font> 계수 <font color=\"blue\">범위 피해</font> 및 <font color=\"blue\">받는 피해</font> <font color=\"red\">+20</font>%<br/><b>(영구, 해제 불가)</b>"
+          "Desc": "선공으로 전투 진입시 주는 피해량 <font color=\"red\">+10</font><br/>자신에게 병사가 없을 경우 적에게 <font color=\"blue\">병사 피해</font> <font color=\"red\">-90%</font> 효과 부여<br/>행동 종료시 '<font color=\"purple\">방패</font>' 효과 획득 <br/><font color=\"purple\">방패</font> : 영웅 최대 생명 <font color=\"red\">25%</font> 수치 <font color=\"blue\">피해 방어</font>, <b>해제 불가</b><br/><font color=\"red\">영웅 사망 시</font> 공격자에게 오보로의 공격력 <font color=\"red\">0.25</font> 계수 <font color=\"blue\">범위 피해</font> 및 <font color=\"blue\">받는 피해</font> <font color=\"red\">+20%</font><br/><b>(영구, 해제 불가)</b>"
         },
         {
-          "Desc": "선공으로 전투 진입시 주는 피해량 <font color=\"red\">+12</font><br/>자신에게 병사가 없을 경우 적에게 <font color=\"blue\">병사 피해</font> <font color=\"red\">-90</font>% 효과 부여<br/>행동 종료시 '<font color=\"purple\">방패</font>' 효과 획득 <br/><font color=\"purple\">방패</font> : 영웅 최대 생명 <font color=\"red\">25</font>% 수치 <font color=\"blue\">피해 방어</font>, <b>해제 불가</b><br/><font color=\"red\">영웅 사망 시</font> 공격자에게 오보로의 공격력 <font color=\"red\">0.3</font> 계수 <font color=\"blue\">범위 피해</font> 및 <font color=\"blue\">받는 피해</font> <font color=\"red\">+20</font>%<br/><b>(영구, 해제 불가)</b>"
+          "Desc": "선공으로 전투 진입시 주는 피해량 <font color=\"red\">+12</font><br/>자신에게 병사가 없을 경우 적에게 <font color=\"blue\">병사 피해</font> <font color=\"red\">-90%</font> 효과 부여<br/>행동 종료시 '<font color=\"purple\">방패</font>' 효과 획득 <br/><font color=\"purple\">방패</font> : 영웅 최대 생명 <font color=\"red\">25%</font> 수치 <font color=\"blue\">피해 방어</font>, <b>해제 불가</b><br/><font color=\"red\">영웅 사망 시</font> 공격자에게 오보로의 공격력 <font color=\"red\">0.3</font> 계수 <font color=\"blue\">범위 피해</font> 및 <font color=\"blue\">받는 피해</font> <font color=\"red\">+20%</font><br/><b>(영구, 해제 불가)</b>"
         },
         {
-          "Desc": "선공으로 전투 진입시 주는 피해량 <font color=\"red\">+15</font><br/>자신에게 병사가 없을 경우 적에게 <font color=\"blue\">병사 피해</font> <font color=\"red\">-90</font>% 효과 부여<br/>행동 종료시 '<font color=\"purple\">방패</font>' 효과 획득 <br/><font color=\"purple\">방패</font> : 영웅 최대 생명 <font color=\"red\">25</font>% 수치 <font color=\"blue\">피해 방어</font>, <b>해제 불가</b><br/><font color=\"red\">영웅 사망 시</font> 공격자에게 오보로의 공격력 <font color=\"red\">0.4</font> 계수 <font color=\"blue\">범위 피해</font> 및 <font color=\"blue\">받는 피해</font> <font color=\"red\">+20</font>%<br/><b>(영구, 해제 불가)</b>"
+          "Desc": "선공으로 전투 진입시 주는 피해량 <font color=\"red\">+15</font><br/>자신에게 병사가 없을 경우 적에게 <font color=\"blue\">병사 피해</font> <font color=\"red\">-90%</font> 효과 부여<br/>행동 종료시 '<font color=\"purple\">방패</font>' 효과 획득 <br/><font color=\"purple\">방패</font> : 영웅 최대 생명 <font color=\"red\">25%</font> 수치 <font color=\"blue\">피해 방어</font>, <b>해제 불가</b><br/><font color=\"red\">영웅 사망 시</font> 공격자에게 오보로의 공격력 <font color=\"red\">0.4</font> 계수 <font color=\"blue\">범위 피해</font> 및 <font color=\"blue\">받는 피해</font> <font color=\"red\">+20%</font><br/><b>(영구, 해제 불가)</b>"
         },
         {
-          "Desc": "선공으로 전투 진입시 주는 피해량 <font color=\"red\">+20</font><br/>자신에게 병사가 없을 경우 적에게 <font color=\"blue\">병사 피해</font> <font color=\"red\">-90</font>% 효과 부여<br/>행동 종료시 '<font color=\"purple\">방패</font>' 효과 획득 <br/><font color=\"purple\">방패</font> : 영웅 최대 생명 <font color=\"red\">25</font>% 수치 <font color=\"blue\">피해 방어</font>, <b>해제 불가</b><br/><font color=\"red\">영웅 사망 시</font> 공격자에게 오보로의 공격력 <font color=\"red\">0.5</font> 계수 <font color=\"blue\">범위 피해</font> 및 <font color=\"blue\">받는 피해</font> <font color=\"red\">+20</font>%<br/><b>(영구, 해제 불가)</b>"
+          "Desc": "선공으로 전투 진입시 주는 피해량 <font color=\"red\">+20</font><br/>자신에게 병사가 없을 경우 적에게 <font color=\"blue\">병사 피해</font> <font color=\"red\">-90%</font> 효과 부여<br/>행동 종료시 '<font color=\"purple\">방패</font>' 효과 획득 <br/><font color=\"purple\">방패</font> : 영웅 최대 생명 <font color=\"red\">25%</font> 수치 <font color=\"blue\">피해 방어</font>, <b>해제 불가</b><br/><font color=\"red\">영웅 사망 시</font> 공격자에게 오보로의 공격력 <font color=\"red\">0.5</font> 계수 <font color=\"blue\">범위 피해</font> 및 <font color=\"blue\">받는 피해</font> <font color=\"red\">+20%</font><br/><b>(영구, 해제 불가)</b>"
         }
       ]
     }
@@ -85,13 +85,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "비룡의 위세",
-    "Stats": "스킬 피해 <font color=\"red\">+10</font>%<br/>자신이 <font color=\"blue\">용화</font> 상태이며 <font color=\"blue\">용의 위엄</font>이 최대 스택이 아닐 경우, <font color=\"blue\">용의 분노</font>로 적 격파 시 <font color=\"blue\">용의 위엄</font> <font color=\"red\">1</font>스택 획득"
+    "Stats": "스킬 피해 <font color=\"red\">+10%</font><br/>자신이 <font color=\"blue\">용화</font> 상태이며 <font color=\"blue\">용의 위엄</font>이 최대 스택이 아닐 경우, <font color=\"blue\">용의 분노</font>로 적 격파 시 <font color=\"blue\">용의 위엄</font> <font color=\"red\">1</font>스택 획득"
   },
   "Equip": {
     "Name": "영식법상(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "오보로.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"blue\">정수 축적</font> 사용 시<br/>자신이 <font color=\"blue\">초절강화 특수 효과</font>를 보유한 상태라면 즉시 <font color=\"blue\">용의 위엄</font> <font color=\"red\">1</font>개 획득<br/>선공으로 전투 진입 시 <font color=\"blue\">받는 피해</font> 및 <font color=\"green\">반사 피해</fopnt> <font color=\"red\">-30</font>%"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">정수 축적</font> 사용 시<br/>자신이 <font color=\"blue\">초절강화 특수 효과</font>를 보유한 상태라면 즉시 <font color=\"blue\">용의 위엄</font> <font color=\"red\">1</font>개 획득<br/>선공으로 전투 진입 시 <font color=\"blue\">받는 피해</font> 및 <font color=\"green\">반사 피해</fopnt> <font color=\"red\">-30</font>%"
   },
   "Soldiers": [
     47,
@@ -137,8 +137,8 @@
       "MagicDefRate": 55,
       "Skill": 174,
       "SkillRate": 51,
-      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">50</font>% 미만 시<br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">50</font>% 미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">50%</font> 미만 시<br/>받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">50%</font> 미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "영룡 전생사",
@@ -396,19 +396,19 @@
         }
       ],
       "IconImageUrl": "../img/skills/oboro/1.webp",
-      "Desc": "사용 후 <font color=\"blue\">정수 축적</font> 효과 획득 <br/>(<font color=\"blue\">공격, 이동, 타인에 의한 이동 불가</font><br/>행동 종료 시 <font colo=\"red\">20</font>% <font color=\"green\">회복</font> 및 용의 위엄 획득)<br/><font color=\"blue\">정수 축적</font>,<font color=\"blue\">용의 위엄</font>,<font color=\"blue\">용화</font>로 얻은 모든 효과는 면역 및 해제 불가",
+      "Desc": "사용 후 <font color=\"blue\">정수 축적</font> 효과 획득 <br/>(<font color=\"blue\">공격, 이동, 타인에 의한 이동 불가</font><br/>행동 종료 시 <font colo=\"red\">20%</font> <font color=\"green\">회복</font> 및 용의 위엄 획득)<br/><font color=\"blue\">정수 축적</font>,<font color=\"blue\">용의 위엄</font>,<font color=\"blue\">용화</font>로 얻은 모든 효과는 면역 및 해제 불가",
       "SubSkills": [
         {
           "Name": "<b><font color=\"blue\">용의 위엄(<font color=\"blue\">정수 축적</font>으로 인한 효과)</font></b>",
           "Entries": null,
           "IconImageUrl":  "../img/skills/oboro/1_1.webp",
-          "Desc": "이동력 <font color=\"red\">+1</font>, 영웅의 공격 방어 마방 <font color=\"red\">+7</font>% <br/>최대 <font color=\"red\">4</font>중첩<br/>각 중첩별로 이하 효과 발동<br/>'<font color=\"blue\">선공으로 전투 후 가한 피해 <font colror =\"red\>25</font>% 수치 <font color=\"green\">생명 회복</font>'</font><br/><font color=\"blue\">부대 사거리 <font color=\"red\">+2</font>'</font><br/><font color=\"blue\">모든 디버프 면역</font><br/><font color=\"blue\">주는 피해량 <font color=\"red\">+15</font>% 및 호위 무시 공격'<br/>누적 가능 "
+          "Desc": "이동력 <font color=\"red\">+1</font>, 영웅의 공격 방어 마방 <font color=\"red\">+7%</font> <br/>최대 <font color=\"red\">4</font>중첩<br/>각 중첩별로 이하 효과 발동<br/>'<font color=\"blue\">선공으로 전투 후 가한 피해 <font colror =\"red\>25%</font> 수치 <font color=\"green\">생명 회복</font>'</font><br/><font color=\"blue\">부대 사거리 <font color=\"red\">+2</font>'</font><br/><font color=\"blue\">모든 디버프 면역</font><br/><font color=\"blue\">주는 피해량 <font color=\"red\">+15%</font> 및 호위 무시 공격'<br/>누적 가능 "
         },
         {
           "Name": "<b><font color=\"blue\">용화</font>(<font color=\"blue\">용의 위엄</font>누적 수량으로 활성화)</b>",
           "Entries": null,
           "IconImageUrl":  "../img/skills/oboro/1_2.webp",
-          "Desc": "<font이동력 color=\"blue\">텔레포트</font> 후 '<font color=\"blue\">정수 축적</font>' 효과 상실 <br/><font color=\"red\">자신의 모든 병사를 제물로 바쳐</font><br/>'영웅 최대 생명 <font color=\"red\">+30</font>% 및 자신의 생명 <font color=\"red\">50</font>% <font color=\"green\">생명 회복</font>,<br/>전투 진입 시 <font color=\"blue\">추가 공격 <font color=\"red\">1</font>회</font>,<br/>병사 생명 <font color=\"red\">-90</font>% 및 <font color=\"blue\">치료 불가</font>(디메리트),<br/>'<font color=\"blue\>이동 방식을 <font color=\"gold\">비행</font> 으로 변경</font>' 효과 영구 획득,<br/>사용 후 <font color=\"blue\">재행동</font> 가능하며 '<font color=\"blue\">용의 위엄</font>' 누적 수량에 따른다.<br/><font color=\"blue\">정수 축적</font>은 <font color=\"blue\">용화</font>로 변경"
+          "Desc": "<font이동력 color=\"blue\">텔레포트</font> 후 '<font color=\"blue\">정수 축적</font>' 효과 상실 <br/><font color=\"red\">자신의 모든 병사를 제물로 바쳐</font><br/>'영웅 최대 생명 <font color=\"red\">+30%</font> 및 자신의 생명 <font color=\"red\">50%</font> <font color=\"green\">생명 회복</font>,<br/>전투 진입 시 <font color=\"blue\">추가 공격 <font color=\"red\">1</font>회</font>,<br/>병사 생명 <font color=\"red\">-90%</font> 및 <font color=\"blue\">치료 불가</font>(디메리트),<br/>'<font color=\"blue\>이동 방식을 <font color=\"gold\">비행</font> 으로 변경</font>' 효과 영구 획득,<br/>사용 후 <font color=\"blue\">재행동</font> 가능하며 '<font color=\"blue\">용의 위엄</font>' 누적 수량에 따른다.<br/><font color=\"blue\">정수 축적</font>은 <font color=\"blue\">용화</font>로 변경"
         },
       ],
       "Animation": null
@@ -489,7 +489,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf6.webp",
-      "Desc": "전투 진입 시 부대 공격,기술 <font color=\"red\">+12</font>%<br/>방어, 마방<font color=\"red\">-7</font>%",
+      "Desc": "전투 진입 시 부대 공격,기술 <font color=\"red\">+12%</font><br/>방어, 마방<font color=\"red\">-7</font>%",
       "SubSkills": null,
       "Animation": null
     },
@@ -515,7 +515,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DragonSuper.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배 범위 피해를 준다.<br/>피해를 입힌 모든 대상에게 <font color=\"blue\>무작위 디버프</font>를 부여 및 피해를 입힌 후 '<font color=\"blue\">바람 타기</font> 획득'<br/><font color=\"blue\">바람 타기</font>:부대 생명 <font color=\"red\">50</font>% 이상으로 전투 진입 시 받는 피해 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배 범위 피해를 준다.<br/>피해를 입힌 모든 대상에게 <font color=\"blue\>무작위 디버프</font>를 부여 및 피해를 입힌 후 '<font color=\"blue\">바람 타기</font> 획득'<br/><font color=\"blue\">바람 타기</font>:부대 생명 <font color=\"red\">50%</font> 이상으로 전투 진입 시 받는 피해 <font color=\"red\">-15%</font><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -529,7 +529,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -555,7 +555,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배 피해를 준다.<br/>전투 후, 적에게 <font color=\"blue\">방어 감소</font> <font color=\"red\">-30</font>% 효과 부여<br/>지속 <font color=\"red\">2</font>",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배 피해를 준다.<br/>전투 후, 적에게 <font color=\"blue\">방어 감소</font> <font color=\"red\">-30%</font> 효과 부여<br/>지속 <font color=\"red\">2</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -569,7 +569,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Helmet.webp",
-      "Desc": "원거리 공격을 받아 전투 진입 시 <font color=\"#DC143C\">25</font>% 확률로<br/><font color=\"blue\">부대가 받는 모든 피해</font> <font color=\"#DC143C\">-50</font>%",
+      "Desc": "원거리 공격을 받아 전투 진입 시 <font color=\"#DC143C\">25%</font> 확률로<br/><font color=\"blue\">부대가 받는 모든 피해</font> <font color=\"#DC143C\">-50</font>%",
       "SubSkills": null,
       "Animation": null
     },
@@ -595,7 +595,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/오보로.webp",
-      "Desc": "[패시브]자신의 보유한 '<font color=\"blue\">용의 위엄</font>' 중첩 <font color=\"red\">1</font>개 마다 <font color=\"red\">사망 시</font><br/>'<font color=\"purple\">용의 전생</font> <font>사망 시 발동하는 효과</font>'으로 인한 피해 증가 <font color=\"red\">+25</font>%<br/><b>적에게 병사가 없는 경우 선공으로 전투 진입시</b> 영웅이 주는 피해량 <font color=\"red\">+15</font>%<br/>[물리피해]단일 개체에게<font color=\"blue\">1.5</font>배의 피해<br/>전투 후 자신에게 인접한 적에게 <font color=\"Red\">0.33</font>배 피해를 준다<br/>('<font color=\"blue\">용의 위엄</font>' 중첩 <font color=\"red\">1</font>개 마다 피해 범위 <font color=\"red\">+1</font>",
+      "Desc": "[패시브]자신의 보유한 '<font color=\"blue\">용의 위엄</font>' 중첩 <font color=\"red\">1</font>개 마다 <font color=\"red\">사망 시</font><br/>'<font color=\"purple\">용의 전생</font> <font>사망 시 발동하는 효과</font>'으로 인한 피해 증가 <font color=\"red\">+25%</font><br/><b>적에게 병사가 없는 경우 선공으로 전투 진입시</b> 영웅이 주는 피해량 <font color=\"red\">+15%</font><br/>[물리피해]단일 개체에게<font color=\"blue\">1.5</font>배의 피해<br/>전투 후 자신에게 인접한 적에게 <font color=\"Red\">0.33</font>배 피해를 준다<br/>('<font color=\"blue\">용의 위엄</font>' 중첩 <font color=\"red\">1</font>개 마다 피해 범위 <font color=\"red\">+1</font>",
       "SubSkills": null,
       "Animation": "../img/Super/오보로_Ani.webp"
     }

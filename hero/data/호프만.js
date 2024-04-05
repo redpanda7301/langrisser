@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+15</font>%<br/>행동 종료 시 '<font color=\"purple\">왕국의 방패</font>' 소환 가능 (호프만의 현재 병종 및 속성 <font color=\"red\">60</font>% 수치를 따라감)<br/>전장에 이미 자신이 소환한 <font color=\"purple\">왕국의 방패</font>가 있을 경우, <font color=\"purple\">왕국의 방패</font>를 자신 주위 <font color=\"red\">2</font>칸 범위 안으로 <font color=\"blue\">텔레포트</font> 가능<br/>쿨타임 <font color=\"red\">4</font>행동<br/><font color=\"purple\">왕국의 방패</font>는 스킬란에 후술" 
+          "Desc": "공격, 방어 <font color=\"red\">+15%</font><br/>행동 종료 시 '<font color=\"purple\">왕국의 방패</font>' 소환 가능 (호프만의 현재 병종 및 속성 <font color=\"red\">60%</font> 수치를 따라감)<br/>전장에 이미 자신이 소환한 <font color=\"purple\">왕국의 방패</font>가 있을 경우, <font color=\"purple\">왕국의 방패</font>를 자신 주위 <font color=\"red\">2</font>칸 범위 안으로 <font color=\"blue\">텔레포트</font> 가능<br/>쿨타임 <font color=\"red\">4</font>행동<br/><font color=\"purple\">왕국의 방패</font>는 스킬란에 후술" 
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+20</font>%<br/>행동 종료 시 '<font color=\"purple\">왕국의 방패</font>' 소환 가능 (호프만의 현재 병종 및 속성 <font color=\"red\">70</font>% 수치를 따라감)<br/>전장에 이미 자신이 소환한 <font color=\"purple\">왕국의 방패</font>가 있을 경우, <font color=\"purple\">왕국의 방패</font>를 자신 주위 <font color=\"red\">2</font>칸 범위 안으로 <font color=\"blue\">텔레포트</font> 가능<br/>쿨타임 <font color=\"red\">3</font>행동<br/><font color=\"purple\">왕국의 방패</font>는 스킬란에 후술" 
+          "Desc": "공격, 방어 <font color=\"red\">+20%</font><br/>행동 종료 시 '<font color=\"purple\">왕국의 방패</font>' 소환 가능 (호프만의 현재 병종 및 속성 <font color=\"red\">70%</font> 수치를 따라감)<br/>전장에 이미 자신이 소환한 <font color=\"purple\">왕국의 방패</font>가 있을 경우, <font color=\"purple\">왕국의 방패</font>를 자신 주위 <font color=\"red\">2</font>칸 범위 안으로 <font color=\"blue\">텔레포트</font> 가능<br/>쿨타임 <font color=\"red\">3</font>행동<br/><font color=\"purple\">왕국의 방패</font>는 스킬란에 후술" 
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+25</font>%<br/>행동 종료 시 '<font color=\"purple\">왕국의 방패</font>' 소환 가능 (호프만의 현재 병종 및 속성 <font color=\"red\">80</font>% 수치를 따라감)<br/>전장에 이미 자신이 소환한 <font color=\"purple\">왕국의 방패</font>가 있을 경우, <font color=\"purple\">왕국의 방패</font>를 자신 주위 <font color=\"red\">2</font>칸 범위 안으로 <font color=\"blue\">텔레포트</font> 가능<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">왕국의 방패</font>는 스킬란에 후술" 
+          "Desc": "공격, 방어 <font color=\"red\">+25%</font><br/>행동 종료 시 '<font color=\"purple\">왕국의 방패</font>' 소환 가능 (호프만의 현재 병종 및 속성 <font color=\"red\">80%</font> 수치를 따라감)<br/>전장에 이미 자신이 소환한 <font color=\"purple\">왕국의 방패</font>가 있을 경우, <font color=\"purple\">왕국의 방패</font>를 자신 주위 <font color=\"red\">2</font>칸 범위 안으로 <font color=\"blue\">텔레포트</font> 가능<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">왕국의 방패</font>는 스킬란에 후술" 
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+30</font>%<br/>행동 종료 시 '<font color=\"purple\">왕국의 방패</font>' 소환 가능 (호프만의 현재 병종 및 속성 <font color=\"red\">90</font>% 수치를 따라감)<br/>전장에 이미 자신이 소환한 <font color=\"purple\">왕국의 방패</font>가 있을 경우, <font color=\"purple\">왕국의 방패</font>를 자신 주위 <font color=\"red\">2</font>칸 범위 안으로 <font color=\"blue\">텔레포트</font> 가능<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">왕국의 방패</font>는 스킬란에 후술" 
+          "Desc": "공격, 방어 <font color=\"red\">+30%</font><br/>행동 종료 시 '<font color=\"purple\">왕국의 방패</font>' 소환 가능 (호프만의 현재 병종 및 속성 <font color=\"red\">90%</font> 수치를 따라감)<br/>전장에 이미 자신이 소환한 <font color=\"purple\">왕국의 방패</font>가 있을 경우, <font color=\"purple\">왕국의 방패</font>를 자신 주위 <font color=\"red\">2</font>칸 범위 안으로 <font color=\"blue\">텔레포트</font> 가능<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">왕국의 방패</font>는 스킬란에 후술" 
         }
       ]
     }
@@ -144,7 +144,7 @@
       "Skill": 140,
       "SkillRate": 37,
       "HeartFetterBouns1": "원거리 피격 시<br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 <font color=\"red\">70</font>% 미만 시<br/>전투 진입 후 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 피해 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -251,7 +251,7 @@
         
       ],
       "IconImageUrl": "../img/skills/Hofmann/1.webp",
-      "Desc": "[패시브]선공으로 적에게 피해를 입힌 후, 적에게 '<font color=\"blue\">선동</font>' 혹은 '<font color=\"blue\">이간</font>' 효과를 랜덤으로 부여<br/><font color=\"blue\">선동</font> : <font color=\"blue\">병사 사거리</font> <font color=\"red\">-1</font>. 선공으로 전투 진입 전, <font color=\"blue\">병사 최대 생명</font> <font color=\"red\">-30</font>%, 지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">이간</font> : 영웅 사거리 <font color=\"red\">-1</font>. <font color=\"blue\">재행동 불가</font>. 지속 <font color=\"red\">1</font>행동.",
+      "Desc": "[패시브]선공으로 적에게 피해를 입힌 후, 적에게 '<font color=\"blue\">선동</font>' 혹은 '<font color=\"blue\">이간</font>' 효과를 랜덤으로 부여<br/><font color=\"blue\">선동</font> : <font color=\"blue\">병사 사거리</font> <font color=\"red\">-1</font>. 선공으로 전투 진입 전, <font color=\"blue\">병사 최대 생명</font> <font color=\"red\">-30%</font>, 지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">이간</font> : 영웅 사거리 <font color=\"red\">-1</font>. <font color=\"blue\">재행동 불가</font>. 지속 <font color=\"red\">1</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -423,7 +423,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/호프만.webp",
-      "Desc": "[패시브]주위 <font color=\"red\">3</font>칸 범위 안에 자신이 소환한 <font color=\"purple\">왕국의 방패</font>가 있을 경우, 피해 <font color=\"red\">+20</font>%<br/>[물리피해]자신 주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 명중한 적에게 <font color=\"blue\">치료 불가</font> 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/>적이 이미 <font color=\"blue\">치료 불가</font> 효과를 보유하고 있을 경우, 추가로 <font color=\"blue\">기절</font> 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"purple\">왕국의 방패</font> 방어 범위 안에 있는 적에게는 추가로 <font color=\"red\">0.12</font>배 범위 피해 및 전체 공격 효과 발동",
+      "Desc": "[패시브]주위 <font color=\"red\">3</font>칸 범위 안에 자신이 소환한 <font color=\"purple\">왕국의 방패</font>가 있을 경우, 피해 <font color=\"red\">+20%</font><br/>[물리피해]자신 주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 명중한 적에게 <font color=\"blue\">치료 불가</font> 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/>적이 이미 <font color=\"blue\">치료 불가</font> 효과를 보유하고 있을 경우, 추가로 <font color=\"blue\">기절</font> 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"purple\">왕국의 방패</font> 방어 범위 안에 있는 적에게는 추가로 <font color=\"red\">0.12</font>배 범위 피해 및 전체 공격 효과 발동",
       "SubSkills": null,
       "Animation": "../img/Super/호프만_Ani.webp"
     }

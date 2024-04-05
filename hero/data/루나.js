@@ -96,7 +96,7 @@
     "Name": "바람의 깃털관(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "루나.webp",
-    "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%,마방 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/><b><font color=\"blue\">고유 스킬</font> 및 <font color=\"blue\">스킬 지휘 효과</font></b> 범위 <b><font color=\"red\">+1</font></b>. <br/><b>행동 종료 시 인접한 아군 <font color=\"red\">2</font>명에게</b> 피해 <font color=\"red\">+15</font>%<br/>지속 <font color=\"red\">1</font>행동<br/>"
+    "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%,마방 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/><b><font color=\"blue\">고유 스킬</font> 및 <font color=\"blue\">스킬 지휘 효과</font></b> 범위 <b><font color=\"red\">+1</font></b>. <br/><b>행동 종료 시 인접한 아군 <font color=\"red\">2</font>명에게</b> 피해 <font color=\"red\">+15%</font><br/>지속 <font color=\"red\">1</font>행동<br/>"
   },
   "Soldiers": [
     16,
@@ -598,7 +598,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

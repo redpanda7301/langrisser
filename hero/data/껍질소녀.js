@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+18%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5</font>%, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+18%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+22%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5</font>%, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+22%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+26%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5</font>%, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+26%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
         },
         {
-          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+30%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5</font>%, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
+          "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+30%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
 
         }
       ]
@@ -85,7 +85,7 @@
     "Name": "과부하 코어(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "껍질소녀.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><b>피해를 입히지 않고 행동 종료 시</b> '<font color=\"blue\">강화 학습</font>' 획득<br/><font color=\"blue\">강화 학습</font> : 지력 <font color=\"red\">+5</font>%, <font color=\"blue\">스킬 사거리</font> <font color=\"red\">+1</font>'<br/><b>면역 불가</b><br/>선공으로 피해를 입힌 후 제거."
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><b>피해를 입히지 않고 행동 종료 시</b> '<font color=\"blue\">강화 학습</font>' 획득<br/><font color=\"blue\">강화 학습</font> : 지력 <font color=\"red\">+5%</font>, <font color=\"blue\">스킬 사거리</font> <font color=\"red\">+1</font>'<br/><b>면역 불가</b><br/>선공으로 피해를 입힌 후 제거."
   },
   "Soldiers": [
     43,
@@ -162,8 +162,8 @@
       "MagicDefRate": 78,
       "Skill": 111,
       "SkillRate": 37,
-      "HeartFetterBouns1": "자신 부대보다 생명 백분비가 높은 적에게 피격으로<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%, ",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70</font>% 미만 시 전투 진입 후 피해 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "자신 부대보다 생명 백분비가 높은 적에게 피격으로<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10%</font>, ",
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70%</font> 미만 시 전투 진입 후 피해 <font color=\"Red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -405,7 +405,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -431,7 +431,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -511,7 +511,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>행동 지속.",
+      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20%</font> <br/><font color =\"red\">1</font>행동 지속.",
     },
     {
       "Name": "천벌",
@@ -535,7 +535,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HolySuper.webp",
-      "Desc": "치명타 확률 <font color =\"red\">+50</font>% <br/>주위 <font color =\"red\">5</font>칸 내 모든 적에게 <font color =\"red\">0.35</font>배 범위 피해<br/>'마족'에게 더 큰 피해를 준다.",
+      "Desc": "치명타 확률 <font color =\"red\">+50%</font> <br/>주위 <font color =\"red\">5</font>칸 내 모든 적에게 <font color =\"red\">0.35</font>배 범위 피해<br/>'마족'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -561,7 +561,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/껍질소녀.webp",
-      "Desc": "[패시브] 행동 종료시 스킬을 <font color=\"red\">1</font>단계 <font color=\"blue\">업그레이드</font> 가능<br/>최대 <font color=\"red\">3</font>번<br/><font color=\"red\">1</font>번 <font color=\"blue\">업그레이드</font> 할때마다 스킬 데미지 <font color=\"red\">+5</font>% 증가<br/><font color=\"blue\">쿨타임 증가</font> <font color=\"red\">1</font>행동 (최대 2턴)<br/>[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>행동 종료시 <font color=\"#B8860B\">피해 증가</font>, <font color=\"#BA55D3\">기능 증가</font>, <font color=\"green\">항속 증가</font> 중 업그레이드 선택 가능",
+      "Desc": "[패시브] 행동 종료시 스킬을 <font color=\"red\">1</font>단계 <font color=\"blue\">업그레이드</font> 가능<br/>최대 <font color=\"red\">3</font>번<br/><font color=\"red\">1</font>번 <font color=\"blue\">업그레이드</font> 할때마다 스킬 데미지 <font color=\"red\">+5%</font> 증가<br/><font color=\"blue\">쿨타임 증가</font> <font color=\"red\">1</font>행동 (최대 2턴)<br/>[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>행동 종료시 <font color=\"#B8860B\">피해 증가</font>, <font color=\"#BA55D3\">기능 증가</font>, <font color=\"green\">항속 증가</font> 중 업그레이드 선택 가능",
       "SubSkills": [
         {
           "Name": "<b><font color=\"blue\">1단계</font></b>",
@@ -579,13 +579,13 @@
           "Name": "<b><font color=\"#BA55D3\">기능 증가</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/껍질소녀_2_1.webp",
-          "Desc": "1.전투 후 적에게 <font color=\"blue\">침묵</font>부여, 지속 <font color=\"red\">1</font>행동<br/>2.전투 전 자신에게 받는 피해량 <font color=\"red\">-20</font>% 부여, 지속 <font color=\"red\">1</font>행동<br/>3.전투 전 적에게 <font color=\"blue\">강화불가</font> 부여, 지속 <font color=\"red\">2</font>행동, <b>해제불가</b>"
+          "Desc": "1.전투 후 적에게 <font color=\"blue\">침묵</font>부여, 지속 <font color=\"red\">1</font>행동<br/>2.전투 전 자신에게 받는 피해량 <font color=\"red\">-20%</font> 부여, 지속 <font color=\"red\">1</font>행동<br/>3.전투 전 적에게 <font color=\"blue\">강화불가</font> 부여, 지속 <font color=\"red\">2</font>행동, <b>해제불가</b>"
         },
         {
           "Name": "<b><font color=\"green\">항속 증가</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/껍질소녀_3_1.webp",
-         "Desc": "1.전투 후 모든 아군 <font color=\"green\">생명력 회복</font>, 회복량은 지력 <font color=\"red\">1.5</font>배<br/>2.전투 후 피해량의 <font color=\"red\">50</font>% 만큼 자신의 <font color=\"green\">생명력 회복</font><br/>3.행동 종료시 자신 주변 <font color=\"red\">2</font>칸 모든 아군에게 지력 <font color=\"red\">1.5</font>배 <font color=\"green\">회복</font> 및 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font>"
+         "Desc": "1.전투 후 모든 아군 <font color=\"green\">생명력 회복</font>, 회복량은 지력 <font color=\"red\">1.5</font>배<br/>2.전투 후 피해량의 <font color=\"red\">50%</font> 만큼 자신의 <font color=\"green\">생명력 회복</font><br/>3.행동 종료시 자신 주변 <font color=\"red\">2</font>칸 모든 아군에게 지력 <font color=\"red\">1.5</font>배 <font color=\"green\">회복</font> 및 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font>"
 
         },
         {
@@ -598,19 +598,19 @@
           "Name": "<b><font color=\"#B8860B\">피해 증가</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/껍질소녀_1_2.webp",
-          "Desc": "전투 전 대상에게 공격, 지력, 방어, 마방, 기술 <font color=\"red\">-30</font>% 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>"
+          "Desc": "전투 전 대상에게 공격, 지력, 방어, 마방, 기술 <font color=\"red\">-30%</font> 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>"
         },
         {
           "Name": "<b><font color=\"#BA55D3\">기능 증가</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/껍질소녀_2_2.webp",
-          "Desc": "해당 스킬 사용시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">2</font>칸 증가<br/>주는 피해량 <font color=\"red\">-10</font>% (디메리트)"
+          "Desc": "해당 스킬 사용시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">2</font>칸 증가<br/>주는 피해량 <font color=\"red\">-10%</font> (디메리트)"
         },
         {
           "Name": "<b><font color=\"green\">항속 증가</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/껍질소녀_3_2.webp",
-         "Desc": "전투 진입하여 피해를 입힌후 해당 스킬 쿨타임 <font color=\"red\">-2</font>행동<br/>치유 효과 <font color=\"red\">-30</font>% 감소(디메리트)"
+         "Desc": "전투 진입하여 피해를 입힌후 해당 스킬 쿨타임 <font color=\"red\">-2</font>행동<br/>치유 효과 <font color=\"red\">-30%</font> 감소(디메리트)"
 
         }
       ],

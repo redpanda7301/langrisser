@@ -88,7 +88,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "혼돈의 침식",
-    "Stats":"방어, 마방 <font color=\"red\">+5</font>%<br/><font color=\"red\">2</font>개 이상의 <font color=\"blue\">디버프</font>를 가진 적과 교전 시 방어 마방 추가 <font color=\"red\">+10</font>%"
+    "Stats":"방어, 마방 <font color=\"red\">+5%</font><br/><font color=\"red\">2</font>개 이상의 <font color=\"blue\">디버프</font>를 가진 적과 교전 시 방어 마방 추가 <font color=\"red\">+10</font>%"
   },
   "Equip": {
     "Name": "카오스의 축복(갑옷)",
@@ -548,7 +548,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },

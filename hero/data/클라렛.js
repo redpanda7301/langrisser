@@ -100,7 +100,7 @@
     "Name": "칼자스의 전투 투구(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "클라렛.webp",
-    "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/><b>주위 <font color=\"red\">2</font>칸 내 아군이 없을 경우</b> 생명 회복 <font color=\"red\">+15</font>% <br/><b>근접 공격 받아 전투 진입 시</b> 피해 <font color=\"red\">+20</font>%, 받는 피해 <font color=\"red\">-20</font>%"
+    "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/><b>주위 <font color=\"red\">2</font>칸 내 아군이 없을 경우</b> 생명 회복 <font color=\"red\">+15%</font> <br/><b>근접 공격 받아 전투 진입 시</b> 피해 <font color=\"red\">+20%</font>, 받는 피해 <font color=\"red\">-20</font>%"
   },
   "Soldiers": [
     28,

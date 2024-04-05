@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+10</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">0.5</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+10%</font><br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">0.5</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+13</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">1</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+13%</font><br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">1</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+16</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">1.5</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+16%</font><br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">1.5</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+20</font>%<br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">2</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "선공으로 전투 진입 시 공격 치명타율<font color=\"red\">+20%</font><br/>전투 후 목표 및 주위 사선 <font color=\"red\">1</font>칸 범위 적에게 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회 및<br/><font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>피해량은 공격 <font color=\"red\">2</font>배 수치<br/>행동 종료 시 적 <font color=\"red\">1</font>명에게 '<font color=\"purple\">악념감지</font>' 효과 부여<br/><font color=\"purple\">악념감지</font> : 아군에게 <font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 추가 부여<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">3</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         }
       ]
     }
@@ -80,7 +80,7 @@
     "Name": "악을 벌하는 협객(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "타탈리아.webp",
-    "Ability": "생명, 방어 <font color=\"red\">+5</font>%<br/><font color=\"purple\">악념감지</font>를 사용한 적 부대 주위 <font color=\"red\">3</font>칸 범위 안 적과 교전 시 피해 <font color=\"red\">+10</font>%<br/><font color=\"blue\">악념잠식</font>으로 적 격파 후 행동 종료 시 '부대 생명 <font color=\"red\">70</font>%이상일 경우 <font color=\"blue\">적의 일반 공격 및 스킬 타게팅이 되지 않음</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
+    "Ability": "생명, 방어 <font color=\"red\">+5%</font><br/><font color=\"purple\">악념감지</font>를 사용한 적 부대 주위 <font color=\"red\">3</font>칸 범위 안 적과 교전 시 피해 <font color=\"red\">+10%</font><br/><font color=\"blue\">악념잠식</font>으로 적 격파 후 행동 종료 시 '부대 생명 <font color=\"red\">70</font>%이상일 경우 <font color=\"blue\">적의 일반 공격 및 스킬 타게팅이 되지 않음</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
   },
   "Soldiers": [
     8,
@@ -122,7 +122,7 @@
       "Skill": 299,
       "SkillRate": 86,
       "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대에게 피격 당해 전투 진입 시<br/>받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만 시 전투 진입 후<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시 전투 진입 후<br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "희망의 꽃",
@@ -150,7 +150,7 @@
       "MagicDefRate": 67,
       "Skill": 256,
       "SkillRate": 80,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70</font>% 미만 시 전투 진입 후<br/>받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만 시 전투 진입 후<br/>받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 적 선공 시 전투 진입 후<br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
@@ -407,7 +407,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass2.webp",
-      "Desc": "공격하여 전투 진입 시 전투 후 <font color=\"red\">30</font>% 확률로 받는 모든 피해량 <font color=\"red\">-30%</font><br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "공격하여 전투 진입 시 전투 후 <font color=\"red\">30%</font> 확률로 받는 모든 피해량 <font color=\"red\">-30%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -487,7 +487,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_TrickStep.webp",
-      "Desc": "치명타 확률 <font color=\"red\">+10</font>%<br/>전투 중 적 부대를 격파 시 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능.",
+      "Desc": "치명타 확률 <font color=\"red\">+10%</font><br/>전투 중 적 부대를 격파 시 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -539,7 +539,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/타탈리아.webp",
-      "Desc": "[패시브]<b>선공으로 전투 진입 후 사망 시</b> <font color=\"blue\">부활</font><br/>최대 <font color=\"red\">1</font>회 발동<br/>자신 <font color=\"red\">3</font>칸 범위 안에 '<font color=\"purple\">악념감지</font>'를 보유한 적이 있을 경우, 자신이 <font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%<br/>[물리피해]<font color=\"blue\">치명타 확률</font> <font color=\"red\">+30</font>%, <font color=\"blue\">호위 무시</font><br/><font color=\"blue\">원거리 병사 대동 시 병사 역시 함께 공격</font><br/><b>피해 배율은 목표가 보유한 최대 배율의 단일 개체 공격 기술의 배율을 따라간다.</b><br/>(최소 <font color=\"red\">1.3</font>배, 최대 <font color=\"red\">2</font>배)<br/>전투 후 피해량 <font color=\"red\">30</font>% 수치 <font color=\"green\">생명 회복</font>",
+      "Desc": "[패시브]<b>선공으로 전투 진입 후 사망 시</b> <font color=\"blue\">부활</font><br/>최대 <font color=\"red\">1</font>회 발동<br/>자신 <font color=\"red\">3</font>칸 범위 안에 '<font color=\"purple\">악념감지</font>'를 보유한 적이 있을 경우, 자신이 <font color=\"blue\">받는 피해</font> <font color=\"red\">-15%</font><br/>[물리피해]<font color=\"blue\">치명타 확률</font> <font color=\"red\">+30%</font>, <font color=\"blue\">호위 무시</font><br/><font color=\"blue\">원거리 병사 대동 시 병사 역시 함께 공격</font><br/><b>피해 배율은 목표가 보유한 최대 배율의 단일 개체 공격 기술의 배율을 따라간다.</b><br/>(최소 <font color=\"red\">1.3</font>배, 최대 <font color=\"red\">2</font>배)<br/>전투 후 피해량 <font color=\"red\">30%</font> 수치 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": "../img/Super/타탈리아_Ani.webp"
     }

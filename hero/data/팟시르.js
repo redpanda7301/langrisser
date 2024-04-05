@@ -67,16 +67,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+15</font>% 받는 피해 <font color=\"red\">-15</font>%<br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20</font>% 지속 <font color=\"red\">3</font>행동 중첩 가능<br/><font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50</font>% 지속 <font color=\"red\">1</font>행동<br/>(최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
+          "Desc": "<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+15%</font> 받는 피해 <font color=\"red\">-15%</font><br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20%</font> 지속 <font color=\"red\">3</font>행동 중첩 가능<br/><font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50%</font> 지속 <font color=\"red\">1</font>행동<br/>(최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
         },
         {
-          "Desc": "<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+20</font>% 받는 피해 <font color=\"red\">-20</font>%<br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20</font>% 지속 <font color=\"red\">3</font>행동 중첩 가능<br/><font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50</font>% 지속 <font color=\"red\">1</font>행동<br/>(최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
+          "Desc": "<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+20%</font> 받는 피해 <font color=\"red\">-20%</font><br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20%</font> 지속 <font color=\"red\">3</font>행동 중첩 가능<br/><font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50%</font> 지속 <font color=\"red\">1</font>행동<br/>(최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
         },
         {
-          "Desc": "<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+25</font>% 받는 피해 <font color=\"red\">-25</font>%<br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20</font>% 지속 <font color=\"red\">3</font>행동 중첩 가능<br/><font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50</font>% 지속 <font color=\"red\">1</font>행동<br/>(최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
+          "Desc": "<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+25%</font> 받는 피해 <font color=\"red\">-25%</font><br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20%</font> 지속 <font color=\"red\">3</font>행동 중첩 가능<br/><font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50%</font> 지속 <font color=\"red\">1</font>행동<br/>(최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
         },
         {
-          "Desc": "<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+30</font>% 받는 피해 <font color=\"red\">-30</font>%<br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20</font>% 지속 <font color=\"red\">3</font>행동 중첩 가능<br/><font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50</font>% 지속 <font color=\"red\">1</font>행동<br/>(최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
+          "Desc": "<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>과 전투 시 지력 <font color=\"red\">+30%</font> 받는 피해 <font color=\"red\">-30%</font><br/>선공으로 피해를 입힐 경우 목표에게 <b><font color =\"purple\">피로</font></b>효과 부여<br/><b><font color =\"purple\">피로</font></b> : 피격 치명타 확률 <font color=\"red\">+20%</font> 지속 <font color=\"red\">3</font>행동 중첩 가능<br/><font color=\"red\">2</font>중첩 된 상태로 행동 종료 시 해당 효과는 <font color=\"purple\">최면</font>으로 대체<br/><font color=\"purple\">최면</font> : 기절 피격 치명타 확률 <font color=\"red\">+50%</font> 지속 <font color=\"red\">1</font>행동<br/>(최면 효과는 1번 피격시 사라짐 쿨 <font color=\"red\">3</font>행동)"
         }
       ]
     }
@@ -87,7 +87,7 @@
     "Name": "매혹의 면사포(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "팟시르.webp",
-    "Ability": "생명, 마방 <font color=\"red\">+5</font>%<br/>적에게 <b>'비 여성 영웅'이 있을 경우</b> 이동력 <font color=\"red\">+1</font><br/>행동 종료 시 <font color=\"red\">3</font>칸 범위 내에 있는 랜덤한'<b>비 여성 영웅</b>'<br/><font color=\"red\">1</font>명에게 <font color=\"purple\">피로</font>효과 부여"
+    "Ability": "생명, 마방 <font color=\"red\">+5%</font><br/>적에게 <b>'비 여성 영웅'이 있을 경우</b> 이동력 <font color=\"red\">+1</font><br/>행동 종료 시 <font color=\"red\">3</font>칸 범위 내에 있는 랜덤한'<b>비 여성 영웅</b>'<br/><font color=\"red\">1</font>명에게 <font color=\"purple\">피로</font>효과 부여"
   },
   "Soldiers": [
     43,
@@ -171,7 +171,7 @@
       "Skill": 125,
       "SkillRate": 40,
 	    "HeartFetterBouns1": "<b>공격받아 전투 진입시</b><br/> 받는 물리량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명력이 <font color=\"red\">80</font>% 이상일시</b><br/><b>전투 진입후</b> 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "<b>부대 생명력이 <font color=\"red\">80%</font> 이상일시</b><br/><b>전투 진입후</b> 주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -484,7 +484,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">3</font>칸 내 모든 적 부대 마방 <font color=\"red\">-20</font>%, <font color=\"red\">1</font>행동 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">3</font>칸 내 모든 적 부대 마방 <font color=\"red\">-20%</font>, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -510,7 +510,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>적의 마방을 <font color=\"red\">30</font>% 무시.<b>전투 후 준 피해량</b>f의 <font color=\"red\">50</font>%만큼 회복한다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>적의 마방을 <font color=\"red\">30%</font> 무시.<b>전투 후 준 피해량</b>f의 <font color=\"red\">50</font>%만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -536,7 +536,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Patsyr1.webp",
-      "Desc": "[마법 피해]전장에 있는 단일 개체 <font color=\"red\">0.1</font>배, 목표가 '<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>'일 경우 다음 턴 <font color=\"blue\">기절</font>,<br/><b>목표 행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 다른 아군에게</b> <font color=\"blue\">고정피해</font><br/>(<b>고정피해량은 대상의 남은 생명력 <font color=\"red\">25</font>% 수치, 해당 효과는 해제 불가</b>)",
+      "Desc": "[마법 피해]전장에 있는 단일 개체 <font color=\"red\">0.1</font>배, 목표가 '<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>'일 경우 다음 턴 <font color=\"blue\">기절</font>,<br/><b>목표 행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 다른 아군에게</b> <font color=\"blue\">고정피해</font><br/>(<b>고정피해량은 대상의 남은 생명력 <font color=\"red\">25%</font> 수치, 해당 효과는 해제 불가</b>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -562,7 +562,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Patsyr2.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다. <br/>목표가 '<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>'일 경우 피해 <font color=\"red\">+20</font>% 및 <font color=\"blue\">호위 무시</font>",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다. <br/>목표가 '<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>'일 경우 피해 <font color=\"red\">+20%</font> 및 <font color=\"blue\">호위 무시</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -576,7 +576,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Patsyr3.webp",
-      "Desc": "[패시브]'<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅과 교전하여 전투에 진입시</b><br/><b>전투 후 해당 전투에서 입힌 피해량</b> <font color=\"red\">30</font>% 수치로 생명 회복",
+      "Desc": "[패시브]'<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅과 교전하여 전투에 진입시</b><br/><b>전투 후 해당 전투에서 입힌 피해량</b> <font color=\"red\">30%</font> 수치로 생명 회복",
       "SubSkills": null,
       "Animation": null
     },

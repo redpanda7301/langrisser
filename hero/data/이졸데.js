@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격 방어 <font color=\"red\">+10</font>%<br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+10</font>%, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
+          "Desc": "공격 방어 <font color=\"red\">+10%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+10%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
         },
         {
-          "Desc": "공격 방어 <font color=\"red\">+15</font>%<br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+15</font>%, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
+          "Desc": "공격 방어 <font color=\"red\">+15%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+15%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
         },
         {
-          "Desc": "공격 방어 <font color=\"red\">+20</font>%<br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+20</font>%, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
+          "Desc": "공격 방어 <font color=\"red\">+20%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+20%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
         },
         {
-          "Desc": "공격 방어 <font color=\"red\">+25</font>%<br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+25</font>%, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
+          "Desc": "공격 방어 <font color=\"red\">+25%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+25%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
         }
       ]
     }
@@ -115,7 +115,7 @@
       "MagicDefRate": 64,
       "Skill": 196,
       "SkillRate": 56,
-      "HeartFetterBouns1": "부대 생명 <font color =\"red\">70</font>% 미만 시, <br/>전투 중 받는 피해량 <font color =\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color =\"red\">70%</font> 미만 시, <br/>전투 중 받는 피해량 <font color =\"red\">-10</font>%",
       "HeartFetterBouns2": "자신보다 생명 백분비가 높은 적 선공 시<br/>전투 진입 후 주는 피해량 <font color =\"red\">+10</font>%"
     },
     {
@@ -272,7 +272,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash2.webp",
-      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%<br/>지속 <font color =\"red\">2</font>행동",
+      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <b>생명이 <font color =\"red\">50%</font> 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15%</font><br/>지속 <font color =\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -298,7 +298,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Isolde/1.webp",
-      "Desc": "자신에게 '<font color=\"blue\">뛰어남</font>' 효과 부여<br/><font color=\"blue\">뛰어남</font> : <font color=\"blue\">디버프 면역</font>, 부대 생명 <font color=\"red\">25</font>% 수치 <font color=\"blue\">피해 방어</font><br/>제거 시 <font color=\"red\">2</font>행동 간 <font color=\"blue\">증원</font> 효과 획득 제거 불가<br/>사용 후 <font color=\"red\">4</font>칸 <font color=\"blue\">재행동</font><br/>해당 <font color=\"blue\">재행동</font>은 보유한 버프 지속시간을 소모하지 않음",
+      "Desc": "자신에게 '<font color=\"blue\">뛰어남</font>' 효과 부여<br/><font color=\"blue\">뛰어남</font> : <font color=\"blue\">디버프 면역</font>, 부대 생명 <font color=\"red\">25%</font> 수치 <font color=\"blue\">피해 방어</font><br/>제거 시 <font color=\"red\">2</font>행동 간 <font color=\"blue\">증원</font> 효과 획득 제거 불가<br/>사용 후 <font color=\"red\">4</font>칸 <font color=\"blue\">재행동</font><br/>해당 <font color=\"blue\">재행동</font>은 보유한 버프 지속시간을 소모하지 않음",
       "SubSkills": null,
       "Animation": null
     },
@@ -324,7 +324,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DragonSuper.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배 범위 피해를 준다.<br/>피해를 입힌 모든 대상에게 <font color=\"blue\>무작위 디버프</font>를 부여 및 피해를 입힌 후 '<font color=\"blue\">바람 타기</font> 획득'<br/><font color=\"blue\">바람 타기</font>:부대 생명 <font color=\"red\">50</font>% 이상으로 전투 진입 시 받는 피해 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 적군에게 <font color=\"red\">0.36</font>배 범위 피해를 준다.<br/>피해를 입힌 모든 대상에게 <font color=\"blue\>무작위 디버프</font>를 부여 및 피해를 입힌 후 '<font color=\"blue\">바람 타기</font> 획득'<br/><font color=\"blue\">바람 타기</font>:부대 생명 <font color=\"red\">50%</font> 이상으로 전투 진입 시 받는 피해 <font color=\"red\">-15%</font><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -433,7 +433,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Isolde/2_3.webp",
-          "Desc": "범위 내 아군 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font> 및 '<font color=\"blue\">재생</font>' '<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "범위 내 아군 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font> 및 '<font color=\"blue\">재생</font>' '<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
         }
       ],
       "Animation": null
@@ -474,7 +474,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -514,7 +514,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/이졸데.webp",
-      "Desc": "[패시브]<font color=\"purple\">고유 스킬</font>로 <font color=\"purple\">의지</font> 획득 및 <font color=\"purple\">고유 스킬</font> <font color=\"blue\">재행동</font> 발동 후<br/>'<font color=\"A0A0A0\">초월영역</font>' 아군 공방 대폭 증가 및 '<font color=\"blue\">근접 공격 시 피해</font> <font color=\"red\">+15</font>%, <font color=\"blue\">받는 반사 피해</font> <font color=\"red\">-30</font>%' 효과 부여<br/>지속 <font color=\"red\">4</font>행동<br/>해당 효과는 다른 초절 강화와 중첩 불가<br/>[액티브] 단일 개체 <font color=\"red\">1.6</font>배 피해. <font color=\"red\">2</font>종류 이상의 <font color=\"purple\">의지</font> 보유 시, 해당 전투에서 적은  <font color=\"blue\">공격 불가</font><br/>전투 후 목표 및 목표 뒤  <font color=\"red\">3</font>줄 직선상  <font color=\"red\">3</font>칸 범위 안 적에게  <font color=\"red\">0.3</font>배 피해<br/>해당 스킬로 적 격파 시, 아직 보유하지 않은  <font color=\"purple\">의지</font>  <font color=\"red\">1</font>종을 무작위 획득.",
+      "Desc": "[패시브]<font color=\"purple\">고유 스킬</font>로 <font color=\"purple\">의지</font> 획득 및 <font color=\"purple\">고유 스킬</font> <font color=\"blue\">재행동</font> 발동 후<br/>'<font color=\"A0A0A0\">초월영역</font>' 아군 공방 대폭 증가 및 '<font color=\"blue\">근접 공격 시 피해</font> <font color=\"red\">+15%</font>, <font color=\"blue\">받는 반사 피해</font> <font color=\"red\">-30</font>%' 효과 부여<br/>지속 <font color=\"red\">4</font>행동<br/>해당 효과는 다른 초절 강화와 중첩 불가<br/>[액티브] 단일 개체 <font color=\"red\">1.6</font>배 피해. <font color=\"red\">2</font>종류 이상의 <font color=\"purple\">의지</font> 보유 시, 해당 전투에서 적은  <font color=\"blue\">공격 불가</font><br/>전투 후 목표 및 목표 뒤  <font color=\"red\">3</font>줄 직선상  <font color=\"red\">3</font>칸 범위 안 적에게  <font color=\"red\">0.3</font>배 피해<br/>해당 스킬로 적 격파 시, 아직 보유하지 않은  <font color=\"purple\">의지</font>  <font color=\"red\">1</font>종을 무작위 획득.",
       "SubSkills": null,      
       "Animation": "../img/Super/이졸데_Ani.webp"
     }

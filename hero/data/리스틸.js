@@ -88,13 +88,13 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "악혈의 포옹",
-    "Stats": "마방 <font color=\"red\">+5</font>%<br/>자신이 부여한 <font color=\"blue\">상처 저주</font>나 <font color=\"blue\">치료 반전</font> 효과를 보유한 적이 있을 경우<br/>자신 부대 <font color=\"blue\">받는 피해</font> <font color=\"red\">-10</font>%",
+    "Stats": "마방 <font color=\"red\">+5%</font><br/>자신이 부여한 <font color=\"blue\">상처 저주</font>나 <font color=\"blue\">치료 반전</font> 효과를 보유한 적이 있을 경우<br/>자신 부대 <font color=\"blue\">받는 피해</font> <font color=\"red\">-10</font>%",
   },
   "Equip": {
       "Name": "마족의 뿔투구(투구)",
       "Stats": "생명 437,마방 59",
       "Icon": "리스틸.webp",
-      "Ability": "생명 <font color=\"red\">+10</font>%<br/>부대 생명이 <font color=\"red\">80</font>% 이상일 경우 방어, 마방 <font color=\"red\">+10</font>%<br/>적에게 피해를 입힌 후 <font color=\"blue\">주는 마법 피해</font> <font color=\"red\">-20</font>% 부여 <br/>지속 <font color=\"red\">2</font>행동"
+      "Ability": "생명 <font color=\"red\">+10%</font><br/>부대 생명이 <font color=\"red\">80%</font> 이상일 경우 방어, 마방 <font color=\"red\">+10%</font><br/>적에게 피해를 입힌 후 <font color=\"blue\">주는 마법 피해</font> <font color=\"red\">-20%</font> 부여 <br/>지속 <font color=\"red\">2</font>행동"
     },
   "Soldiers": [
     19,
@@ -616,7 +616,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/리스틸.webp",
-      "Desc": "[마법 피해]<b>범위내 적에게 <font color=\"red\">0.3</font>배 피해 및 <br/><font color=\"blue\">치료</font>를 시전할 시 치료 효과를 <font color=\"red\">35</font>% 수치 피해로 반전 효과 부여,</b><br/><b>지속 <font color=\"red\">1</font>행동, 해제 불가</b><br/><b>명중한 모든 지형에 『<font color=\"blue\">피의 늪</font>』 효과 <font color=\"red\">1</font>행동 부여</b> :<br/><b>해당 지형으로 위치한 적이 행동 종료 시 <font color=\"purple\">고유 스킬</font>과 동일한 『<font color=\"blue\">상처 저주</font>』 효과 부여</b>",
+      "Desc": "[마법 피해]<b>범위내 적에게 <font color=\"red\">0.3</font>배 피해 및 <br/><font color=\"blue\">치료</font>를 시전할 시 치료 효과를 <font color=\"red\">35%</font> 수치 피해로 반전 효과 부여,</b><br/><b>지속 <font color=\"red\">1</font>행동, 해제 불가</b><br/><b>명중한 모든 지형에 『<font color=\"blue\">피의 늪</font>』 효과 <font color=\"red\">1</font>행동 부여</b> :<br/><b>해당 지형으로 위치한 적이 행동 종료 시 <font color=\"purple\">고유 스킬</font>과 동일한 『<font color=\"blue\">상처 저주</font>』 효과 부여</b>",
       "SubSkills": null,
       "Animation": "../img/Super/리스틸_Ani.webp"
     }

@@ -96,7 +96,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "성은의 세례",
-    "Stats":"지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">범위 스킬</font>로 <font color=\"red\">3</font>명 이상 명중 시<br/><font color=\"blue\">버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font> 및 자신에게 <font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>% 부여<br/>지속 <font color=\"red\">1</font>행동"
+    "Stats":"지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">범위 스킬</font>로 <font color=\"red\">3</font>명 이상 명중 시<br/><font color=\"blue\">버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font> 및 자신에게 <font color=\"blue\">받는 피해</font> <font color=\"red\">-15%</font> 부여<br/>지속 <font color=\"red\">1</font>행동"
   },
   "Equip": {
     "Name": "카콘시스의 왕관(투구)",
@@ -503,7 +503,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -595,7 +595,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HolySuper.webp",
-      "Desc": "치명타 확률 <font color =\"red\">+50</font>% <br/>주위 <font color =\"red\">5</font>칸 내 모든 적에게 <font color =\"red\">0.35</font>배 범위 피해<br/>'마족'에게 더 큰 피해를 준다.",
+      "Desc": "치명타 확률 <font color =\"red\">+50%</font> <br/>주위 <font color =\"red\">5</font>칸 내 모든 적에게 <font color =\"red\">0.35</font>배 범위 피해<br/>'마족'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -635,7 +635,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/셀파닐.webp",
-      "Desc": "[마법피해]치명타 확률 <font color=\"red\">+60</font>%,<br/>자신 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <font color=\"red\">0.38</font>배 피해 및 버프 <font color=\"red\">2</font>개 제거 <br/>대 마물 특효<br/>명중한 적이 마물일 경우 기절, 지속 <font color=\"red\">1</font>행동,<br/>명중한 적이 <font color=\"red\">3</font>명 이상일 경우 쿨타임 <font color=\"red\">-1</font>, 해당 스킬로 적을 격파했을 경우 추가 쿨타임 <font color=\"red\">-1</font>",
+      "Desc": "[마법피해]치명타 확률 <font color=\"red\">+60%</font>,<br/>자신 주위 <font color=\"red\">5</font>칸 범위 내 적에게 <font color=\"red\">0.38</font>배 피해 및 버프 <font color=\"red\">2</font>개 제거 <br/>대 마물 특효<br/>명중한 적이 마물일 경우 기절, 지속 <font color=\"red\">1</font>행동,<br/>명중한 적이 <font color=\"red\">3</font>명 이상일 경우 쿨타임 <font color=\"red\">-1</font>, 해당 스킬로 적을 격파했을 경우 추가 쿨타임 <font color=\"red\">-1</font>",
       "SubSkills": null,
       "Animation": "../img/Super/셀파닐_Ani.webp"
     }

@@ -73,7 +73,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "순백의 송가",
-    "Stats": "지력 <font color=\"red\">+10</font>%<br/><font color=\"purple\">순백의 날개</font> 패시브 효과 발동시 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 추가 부여",
+    "Stats": "지력 <font color=\"red\">+10%</font><br/><font color=\"purple\">순백의 날개</font> 패시브 효과 발동시 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 추가 부여",
   },
   "Equip": null,
   "Soldiers": [
@@ -548,7 +548,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/클로제.webp",
-      "Desc": "[패시브]<b>아군에게 스킬 사용 후 </b>목표 주위 <font color=\"red\">2</font>칸 범위 내 <br/><b>다른 아군에게</b> 클로제 지력 <font color=\"red\">1</font>배 수치로 생명 회복 및 디버프 <font color=\"red\">1</font>개 제거<br/>[치료] 범위 내 아군에게 걸린 디버프 <font color=\"red\">3</font>개 제거 및 지력 3배 수치로 생명 회복<br/><font color=\"blue\">순백의 수호</font> 효과 부여 :<br/><b>부대 생명이 낮을 수록</b> 받는 치료 효과 증가, 최대 <font color=\"red\">+30</font>%, <br/>지속 <font color=\"red\">2</font>행동, <b>해당 효과는 해제 불가</b>",
+      "Desc": "[패시브]<b>아군에게 스킬 사용 후 </b>목표 주위 <font color=\"red\">2</font>칸 범위 내 <br/><b>다른 아군에게</b> 클로제 지력 <font color=\"red\">1</font>배 수치로 생명 회복 및 디버프 <font color=\"red\">1</font>개 제거<br/>[치료] 범위 내 아군에게 걸린 디버프 <font color=\"red\">3</font>개 제거 및 지력 3배 수치로 생명 회복<br/><font color=\"blue\">순백의 수호</font> 효과 부여 :<br/><b>부대 생명이 낮을 수록</b> 받는 치료 효과 증가, 최대 <font color=\"red\">+30%</font>, <br/>지속 <font color=\"red\">2</font>행동, <b>해당 효과는 해제 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/클로제_Ani.webp"
     }

@@ -52,19 +52,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-10</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-40</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-10%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-40</font>%"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-15</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-50</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-15%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-50</font>%"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-20</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-60</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-20%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-60</font>%"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-25</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-70</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-25%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-70</font>%"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80</font>% 이상일 경우 받는 물리 피해 <font color=\"red\">-30</font>% <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-80</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-30%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-80</font>%"
         }
       ]
     }
@@ -391,7 +391,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%<br/>쿨타임 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입전 <font color=\"red\">50%</font> 확률로 적의 공격, 지력  <font color=\"red\">-20%</font><br/>쿨타임 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -469,7 +469,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Isara/2.webp",
-      "Desc": "범위 내 적에게 <font color=\"red\">0.33</font>배 피해 및 적 방어 <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 적에게 <font color=\"red\">0.33</font>배 피해 및 적 방어 <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

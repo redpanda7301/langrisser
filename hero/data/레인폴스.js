@@ -81,13 +81,13 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "잔월의 유지",
-    "Stats": "공격 <font color=\"red\">+5</font>%<br/>고유 스킬 <font color=\"purple\">크림조의 힘</font> 효과 제거 시 <font color=\"red\">2</font>개를 보류 시킴",
+    "Stats": "공격 <font color=\"red\">+5%</font><br/>고유 스킬 <font color=\"purple\">크림조의 힘</font> 효과 제거 시 <font color=\"red\">2</font>개를 보류 시킴",
   },
   "Equip": {
     "Name": "크림존의 심장(장신구)",
     "Stats": "공격 75,기술 37",
     "Icon": "레인폴스.webp",
-    "Ability": "공격 <font color=\"red\">+5</font>%, 이동력 <font color=\"red\">+1</font><br/>고유 스킬 <font color=\"green\">크림조니아의 힘</font> 중첩이, <br/><font color=\"red\">4</font> 이상일 경우<font color=\"blue\">이동시 적 통과 가능</font>, <br/><font color=\"red\">7</font> 이상일 경우 피해를 <b>입힌 후</b> 적에게 <font color=\"blue\">강력한 디버프</font><font color=\"red\">1</font>개 부여,"
+    "Ability": "공격 <font color=\"red\">+5%</font>, 이동력 <font color=\"red\">+1</font><br/>고유 스킬 <font color=\"green\">크림조니아의 힘</font> 중첩이, <br/><font color=\"red\">4</font> 이상일 경우<font color=\"blue\">이동시 적 통과 가능</font>, <br/><font color=\"red\">7</font> 이상일 경우 피해를 <b>입힌 후</b> 적에게 <font color=\"blue\">강력한 디버프</font><font color=\"red\">1</font>개 부여,"
   },
   "Soldiers": [
     4,

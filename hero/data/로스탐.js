@@ -84,7 +84,7 @@
     "Name": "사막의 광풍(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "로스탐.webp",
-    "Ability": "생명 <font color=\"red\">+5</font>%, 방어 <font color=\"red\">+5</font>%<br/><font color=\"blue\">분노의 격투</font> 패시브 효과 발동 시, '<font color=\"blue\">치명타 확률</font> <font color=\"red\">+10</font>%' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>자신이 '<font color=\"orange\">사막</font>' 지형에 있을 경우에도 <font color=\"blue\">해당 패시브</font>를 발동."
+    "Ability": "생명 <font color=\"red\">+5%</font>, 방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">분노의 격투</font> 패시브 효과 발동 시, '<font color=\"blue\">치명타 확률</font> <font color=\"red\">+10</font>%' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>자신이 '<font color=\"orange\">사막</font>' 지형에 있을 경우에도 <font color=\"blue\">해당 패시브</font>를 발동."
   },
   "Soldiers": [
     31,
@@ -392,7 +392,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"red\">30</font>% 확률로 <br/>전투 후 입힌 피해량의 <font color=\"red\">30</font>% 만큼 <font color=\"green\">생명 회복</font>",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"red\">30%</font> 확률로 <br/>전투 후 입힌 피해량의 <font color=\"red\">30%</font> 만큼 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -418,7 +418,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해<br/>전투 후 입힌 피해량 <font color=\"red\">30</font>% 만큼 <font color=\"green\">생명 회복</font>한다.",
+      "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해<br/>전투 후 입힌 피해량 <font color=\"red\">30%</font> 만큼 <font color=\"green\">생명 회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -484,7 +484,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해.<br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20</font></font>%<br/> 지속 <font color=\"red\">1</font>행동",
+      "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해.<br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20</font>%</font><br/> 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -562,7 +562,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/로스탐.webp",
-      "Desc": "[패시브]방어 지형에서 행동 종료 시 자신에게 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+15</font>%, <font color=\"blue\">반격 사거리</font> <font color=\"red\">+1</font>' 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/>[액티브]단일 개체 <font color=\"red\">1.6</font>배 피해, 치명타 확률 <font color=\"red\">+30</font>%<br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/>자신의 기술이 적보다 높을 경우 전투 전 적에게 '<font color=\"blue\">기절</font>' 효과 부여 <br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b><br/>전투 후 피해량 <font color=\"red\">30</font>% 수치로 <font color=\"green\">생명 회복</font><br/><b>해당 스킬은 근접전 패널티를 받지 않음</b>",
+      "Desc": "[패시브]방어 지형에서 행동 종료 시 자신에게 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+15%</font>, <font color=\"blue\">반격 사거리</font> <font color=\"red\">+1</font>' 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/>[액티브]단일 개체 <font color=\"red\">1.6</font>배 피해, 치명타 확률 <font color=\"red\">+30%</font><br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/>자신의 기술이 적보다 높을 경우 전투 전 적에게 '<font color=\"blue\">기절</font>' 효과 부여 <br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b><br/>전투 후 피해량 <font color=\"red\">30%</font> 수치로 <font color=\"green\">생명 회복</font><br/><b>해당 스킬은 근접전 패널티를 받지 않음</b>",
       "SubSkills": null,
       "Animation": "../img/Super/로스탐_Ani.webp"
     }

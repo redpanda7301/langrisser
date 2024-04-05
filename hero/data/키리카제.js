@@ -76,7 +76,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "마족 사냥류",
-    "Stats": "치명타 피해 <font color=\"red\">+10</font>%<br/>전투 진입 후 치명타 발생 시, 전투 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여"
+    "Stats": "치명타 피해 <font color=\"red\">+10%</font><br/>전투 진입 후 치명타 발생 시, 전투 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여"
   },
   "Equip": {
     "Name": "삿갓(투구)",
@@ -588,7 +588,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/키리카제.webp",
-      "Desc": "[패시브]<b>전투 진입 전 자신의 기술이 적보다 높을 경우 영웅이 받는 물리 피해</b><font color=\"red\">-30</font>%<br/>[물리 피해] 단일 적 부대를 공격할때<br/>치명타 확률, 치명타 피해<font color=\"red\">+20</font>%, <font color=\"red\">1.6</font>배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/><b>해당 스킬은 근접전 패널티의 영향을 받지 않는다.</b>",
+      "Desc": "[패시브]<b>전투 진입 전 자신의 기술이 적보다 높을 경우 영웅이 받는 물리 피해</b><font color=\"red\">-30%</font><br/>[물리 피해] 단일 적 부대를 공격할때<br/>치명타 확률, 치명타 피해<font color=\"red\">+20%</font>, <font color=\"red\">1.6</font>배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.<br/><b>해당 스킬은 근접전 패널티의 영향을 받지 않는다.</b>",
       "SubSkills": null,
       "Animation": "../img/Super/키리카제_Ani.webp"
     }

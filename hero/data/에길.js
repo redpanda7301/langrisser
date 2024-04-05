@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+10</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+10%</font> <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+13</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+13%</font> <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+16</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+16%</font> <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+20</font>% <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "<b>전투 진입 시</b> 공격, 치명타 확률 <font color=\"red\">+20%</font> <br/><b>해당 턴에 공격하지 않고 행동 종료 시</b> <font color =\"purple\">전투 모드</font> 선택 가능<br/>지속 <font color=\"red\">1</font>행동, <br/><b>해제 불가,면역 불가</b> <br/>전투 모드는 아래에 후술 <br/>지속 <font color=\"red\">1</font>행동"
         }
       ]
     }
@@ -88,7 +88,7 @@
     "Name": "은빛 바람의 결정(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "에길.webp",
-    "Ability": "방어 <font color=\"Red\">+10</font>%<br/>전투 시작시 <font color=\"purple\">강습 모드</font> 획득<br/><font color=\"purple\">강습 모드</font> 상태에서 이동하지 않고 선공 시<br/>전투 후 <font color=\"purple\">강습 모드</font> 재획득."
+    "Ability": "방어 <font color=\"Red\">+10%</font><br/>전투 시작시 <font color=\"purple\">강습 모드</font> 획득<br/><font color=\"purple\">강습 모드</font> 상태에서 이동하지 않고 선공 시<br/>전투 후 <font color=\"purple\">강습 모드</font> 재획득."
   },
   "Soldiers": [
     31,
@@ -385,13 +385,13 @@
           "Name": "<b><font color=\"purple\">강습 모드</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/skills/Verner/3.webp",
-          "Desc": "이동력 <font color=\"red\">+1</font>, <font color=\"blue\">스킬</font> 사거리 <font color=\"red\">+2</font>, 피해량 <font color=\"red\">+20</font>%, <font color=\"blue\">호위 무시</font>"
+          "Desc": "이동력 <font color=\"red\">+1</font>, <font color=\"blue\">스킬</font> 사거리 <font color=\"red\">+2</font>, 피해량 <font color=\"red\">+20%</font>, <font color=\"blue\">호위 무시</font>"
         },
         {
           "Name": "<b><font color=\"purple\">반격 모드</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/skills/Verner/3.webp",
-          "Desc": "이동력 <font color=\"red\">+1</font>, 자신의 <font color=\"red\">2</font>칸 범위 내 <b>아군이 없을 경우</b> <br/><font color=\"blue\">반격 피해</font> <font color=\"red\">+50</font>%, 부대가 받는 피해 <font color=\"red\">-35</font>% 및 <font color=\"blue\">원거리 공격 반격</font> 가능 <br/>피격 후 생명 <font color=\"red\">+35</font>% 수치 회복, </font><font color=\"blue\">호위 무시</font>"
+          "Desc": "이동력 <font color=\"red\">+1</font>, 자신의 <font color=\"red\">2</font>칸 범위 내 <b>아군이 없을 경우</b> <br/><font color=\"blue\">반격 피해</font> <font color=\"red\">+50%</font>, 부대가 받는 피해 <font color=\"red\">-35%</font> 및 <font color=\"blue\">원거리 공격 반격</font> 가능 <br/>피격 후 생명 <font color=\"red\">+35%</font> 수치 회복, </font><font color=\"blue\">호위 무시</font>"
         },
       ],
       "Animation": null
@@ -432,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"red\">30</font>% 확률로 <br/>이번 전투에서 준 피해량 <font color=\"red\">30</font>%의 생명을 회복한다",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"red\">30</font>%의 생명을 회복한다",
       "SubSkills": null,
       "Animation": null
     },
@@ -498,7 +498,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Verner/1.webp",
-      "Desc": "단일 적을 공격 하여 <font color=\"red\">1</font>배 피해를 입힌다. <br/><font color=\"red\">40</font>% 확률로 <font color=\"red\">2</font>회 공격 <br/><b><font color=\"purple\">강습 모드</font>일 경우 반드시</b> <font color=\"red\">2</font>회 공격 및 <font color=\"blue\">선제 공격</font>",
+      "Desc": "단일 적을 공격 하여 <font color=\"red\">1</font>배 피해를 입힌다. <br/><font color=\"red\">40%</font> 확률로 <font color=\"red\">2</font>회 공격 <br/><b><font color=\"purple\">강습 모드</font>일 경우 반드시</b> <font color=\"red\">2</font>회 공격 및 <font color=\"blue\">선제 공격</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -525,7 +525,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Verner/2.webp",
-      "Desc": "<b>자신이 <font color=\"green\">방어 지형</font>에 있는 상태에서 전투 진입 시</b> <br/><b>전투 후</b> 적에게 공격<font color=\"red\">1</font>배 수치 <font color=\"blue\">고정피해</font> 및 부대 생명 <font color=\"red\">20</font>% 회복 <br/><b>선공으로 전투 진입 후</b> <font color=\"blue\">재이동</font> <font color =\"red\">3</font> 칸",
+      "Desc": "<b>자신이 <font color=\"green\">방어 지형</font>에 있는 상태에서 전투 진입 시</b> <br/><b>전투 후</b> 적에게 공격<font color=\"red\">1</font>배 수치 <font color=\"blue\">고정피해</font> 및 부대 생명 <font color=\"red\">20%</font> 회복 <br/><b>선공으로 전투 진입 후</b> <font color=\"blue\">재이동</font> <font color =\"red\">3</font> 칸",
       "SubSkills": null,
       "Animation": null
     },
@@ -577,7 +577,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/에길.webp",
-      "Desc": "[패시브]치명타 확률 <font color=\"red\">+20</font>%, <b>영웅이 원거리 선제 공격 시 병사도 함께 공격</b> <br/>[액티브] 단일 개체에게 <font color=\"red\">1.5</font>배 피해를 준다. <br/>해당 공격은 <font color=\"blue\">부대 병종 상성 무시</font> <br/><b>적 격파시</b> <font color=\"purple\">강습 모드</font>와 추가 효과 획득 <br/> : 전투 진입 전 적에게 공격 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정피해</font> <br/>격파하지 못했을 경우 '<font color=\"purple\">반격 모드</font>' 효과 획득 <br/>지속 <font color=\"red\">1</font>행동 <br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
+      "Desc": "[패시브]치명타 확률 <font color=\"red\">+20%</font>, <b>영웅이 원거리 선제 공격 시 병사도 함께 공격</b> <br/>[액티브] 단일 개체에게 <font color=\"red\">1.5</font>배 피해를 준다. <br/>해당 공격은 <font color=\"blue\">부대 병종 상성 무시</font> <br/><b>적 격파시</b> <font color=\"purple\">강습 모드</font>와 추가 효과 획득 <br/> : 전투 진입 전 적에게 공격 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정피해</font> <br/>격파하지 못했을 경우 '<font color=\"purple\">반격 모드</font>' 효과 획득 <br/>지속 <font color=\"red\">1</font>행동 <br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
       "SubSkills": null,      
       "Animation": "../img/Super/에길_Ani.webp"
     }

@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%</font>% 상승 최대 (<font color=\"red\">10</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">20</font>% 회복<br/> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-15</font>% <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%%</font> 상승 최대 (<font color=\"red\">10</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">20%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-15%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3%</font>% 상승 최대 (<font color=\"red\">15</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">30</font>% 회복<br/> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-20</font>% <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3%%</font> 상승 최대 (<font color=\"red\">15</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">30%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-20%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4%</font>% 상승 최대 (<font color=\"red\">20</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">45</font>% 회복<br/> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-25</font>% <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4%%</font> 상승 최대 (<font color=\"red\">20</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">45%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-25%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+6%</font>% 상승 최대 (<font color=\"red\">30</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">60</font>% 회복<br/> 생명 <font color=\"red\">100</font>% 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-30</font>% <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+6%%</font> 상승 최대 (<font color=\"red\">30</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">60%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-30%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         }
       ]
     }
@@ -109,7 +109,7 @@
       "MagicDefRate": 55,
       "Skill": 154,
       "SkillRate": 54,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70</font>% <b>미만</b>시 전투 진입시 받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> <b>미만</b>시 전투 진입시 받는 피해 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "생명 <font color=\"red\">100</font>%시 전투중 입히는피해 <font color=\"red\">+10</font>%"
     },
     {
@@ -135,7 +135,7 @@
       "MagicDefRate": 55,
       "Skill": 116,
       "SkillRate": 45,
-      "HeartFetterBouns1": "<b>디버프 효과 지닌 대상과 전투 진입시</b> 피해량 <font color=\"red\">-10</font>% 감소",
+      "HeartFetterBouns1": "<b>디버프 효과 지닌 대상과 전투 진입시</b> 피해량 <font color=\"red\">-10%</font> 감소",
       "HeartFetterBouns2": "<b>피격을 받아 전투 진입시</b> 피해량 +<font color=\"red\">10</font>%"
     }
   ],
@@ -392,7 +392,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>행동지속.",
+      "Desc": "[패시브]전투 진입전 <font color=\"red\">50%</font> 확률로 적의 공격, 지력  <font color=\"red\">-20%</font>,  <font color=\"red\">1</font>행동지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -562,7 +562,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/와타루.webp",
-      "Desc": "[물리피해] 단일 개체 <font color=\"red\">1.9</font>배 피해. 전투 전 버프 <font color=\"red\">5</font>개 제거, <br/>목표 이동력이 <font color=\"red\">1</font>칸 이하일 경우 '<font color =\"blue\">기절</font>'상태 일시 피해 <font color=\"red\">+20</font>% 및 <b>부활 불가</b> (<b>부활 불가 효과는 아레나에서만 발동</b>). <br/>적을 퇴각시킬 경우 자신에게 <font color=\"red\">기진맥진</font> 효과 부여 : <br/>주는 피해 <font color=\"red\">-30</font>%, 행동 종료 시 부대 생명 <font color=\"red\">30</font>% 회복, 지속 <font color=\"red\">1</font>행동. <br/><b>기진맥진 효과는 면역 및 제거 불가</b>",
+      "Desc": "[물리피해] 단일 개체 <font color=\"red\">1.9</font>배 피해. 전투 전 버프 <font color=\"red\">5</font>개 제거, <br/>목표 이동력이 <font color=\"red\">1</font>칸 이하일 경우 '<font color =\"blue\">기절</font>'상태 일시 피해 <font color=\"red\">+20%</font> 및 <b>부활 불가</b> (<b>부활 불가 효과는 아레나에서만 발동</b>). <br/>적을 퇴각시킬 경우 자신에게 <font color=\"red\">기진맥진</font> 효과 부여 : <br/>주는 피해 <font color=\"red\">-30%</font>, 행동 종료 시 부대 생명 <font color=\"red\">30%</font> 회복, 지속 <font color=\"red\">1</font>행동. <br/><b>기진맥진 효과는 면역 및 제거 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/와타루_Ani.webp"
     }

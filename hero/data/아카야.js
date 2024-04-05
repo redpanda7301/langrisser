@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "늑대의 원한",
-    "Stats":"공격, 지력 <font color=\"red\">+5</font>%<br/><font color=\"purple\">늑대영혼</font> 사망 시 아카야가 주는 피해량 <font color=\"red\">+10</font>%<br/>지속 <font color=\"red\">1</font>행동 "
+    "Stats":"공격, 지력 <font color=\"red\">+5%</font><br/><font color=\"purple\">늑대영혼</font> 사망 시 아카야가 주는 피해량 <font color=\"red\">+10%</font><br/>지속 <font color=\"red\">1</font>행동 "
   },
   "Equip": {
     "Name": "성령의 뿔(무기)",
@@ -380,7 +380,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -576,7 +576,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/아카야.webp",
-      "Desc": "[물리피해] 단일 적군을 공격하여 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br/><b>적의 방어, 마방 <font color=\"red\">20</font>% 무시,</b><br/><b>자신의 지력이 공격력 보다 높을 경우 해당 공격은 <font color=\"blue\">마법 피해</font>로 간주</b>.<br/>근접병사를 휴대할 경우 병사도 같이 공격.<b>(해당 스킬은 근접전 패널티 무시)</b><br/><b><font color=\"blue\">전투 후 재이동</font></b> <font color=\"red\">2</font>칸 및 목표 위치에 <br/>'<font color=\"purple\">공포의 토템</font>' 설치:<br/>[지형 효과 지휘] <b><font color=\"red\">4</font>칸 범위 내 모든 적</b>의 공격 방어 -10%, <br/><b>턴 시작 시 랜덤한 <font color=\"red\">2</font>개의 <font color=\"blue\">디버프</font></b> 부여, <br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "[물리피해] 단일 적군을 공격하여 <font color=\"red\">1.3</font>배의 피해를 입힌다.<br/><b>적의 방어, 마방 <font color=\"red\">20%</font> 무시,</b><br/><b>자신의 지력이 공격력 보다 높을 경우 해당 공격은 <font color=\"blue\">마법 피해</font>로 간주</b>.<br/>근접병사를 휴대할 경우 병사도 같이 공격.<b>(해당 스킬은 근접전 패널티 무시)</b><br/><b><font color=\"blue\">전투 후 재이동</font></b> <font color=\"red\">2</font>칸 및 목표 위치에 <br/>'<font color=\"purple\">공포의 토템</font>' 설치:<br/>[지형 효과 지휘] <b><font color=\"red\">4</font>칸 범위 내 모든 적</b>의 공격 방어 -10%, <br/><b>턴 시작 시 랜덤한 <font color=\"red\">2</font>개의 <font color=\"blue\">디버프</font></b> 부여, <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/아카야_Ani.webp"
     }

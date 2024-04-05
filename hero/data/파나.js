@@ -82,12 +82,15 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "리그리아의 전법",
+    "Stats": "공격 <font color=\"red\">+10%</font><br/><font color=\"purple\">강력한 도움</font> 부여 범위 <font color=\"red\">+1</font>"
+  },
   "Equip": {
     "Name": "스칼렛 윈드(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "파나.webp",
-    "Ability": "마방 <font color=\"red\">+10</font>%<br/>범위피해 스킬 사용시 효과 범위+1,<br/>범위스킬로 피해를 준후 쿨타임에 들어가며 4턴뒤 재발동 가능."
+    "Ability": "마방 <font color=\"red\">+10%</font><br/>범위피해 스킬 사용시 효과 범위+1,<br/>범위스킬로 피해를 준후 쿨타임에 들어가며 4턴뒤 재발동 가능."
   },
   "Soldiers": [
     13,
@@ -576,7 +579,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },

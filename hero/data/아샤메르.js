@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료시 아군 한명을 지정해 '<font color=\"purple\">댄스 파트너</font>' 효과를 획득하며 지휘 효과를 갖는다.<br/><font color=\"purple\">댄스 파트너</font> : <font color=\"purple\">댄스 파트너</font>와 자신의 생명을 제외한 모든 스탯 <font color=\"Red\">+5</font>, <font color=\"blue\">기절 면역</font><br/>지속 <font color=\"red\">4</font>행동<br/><b>파트너는 오직 한 명만 가능</b> 쿨타임 <font color=\"red\">3</font>행동<br/><font color=\"purple\">파트너</font>와 지휘 효과는 해제 및 면역 불가<br/>지휘효과로 증가하는 스탯은 동류 지휘 효과와 중복 불가<br/>1) <font color=\"blue\">밀착 스텝</font> (인접 상태) : 방어, 마방 <font color=\"red\">+2</font>%,<br/>피격으로 전투 진입 시 영웅이 받는 물리 피해 <font color=\"red\">-15</font>%<br/>2) <font color=\"blue\">핸드 인 핸드 스텝</font> (사선으로 <font color=\"red\">1</font>칸 위치) : 공격 지력 <font color=\"red\">+2</font>%<br/>3) <font color=\"blue\">시리얼 스텝</font> (비직선 상으로 3칸 위치)</font> : </font> 피해를 입힌 후 재이동 <font color=\"red\">2</font>칸"    
+          "Desc": "행동 종료시 아군 한명을 지정해 '<font color=\"purple\">댄스 파트너</font>' 효과를 획득하며 지휘 효과를 갖는다.<br/><font color=\"purple\">댄스 파트너</font> : <font color=\"purple\">댄스 파트너</font>와 자신의 생명을 제외한 모든 스탯 <font color=\"Red\">+5</font>, <font color=\"blue\">기절 면역</font><br/>지속 <font color=\"red\">4</font>행동<br/><b>파트너는 오직 한 명만 가능</b> 쿨타임 <font color=\"red\">3</font>행동<br/><font color=\"purple\">파트너</font>와 지휘 효과는 해제 및 면역 불가<br/>지휘효과로 증가하는 스탯은 동류 지휘 효과와 중복 불가<br/>1) <font color=\"blue\">밀착 스텝</font> (인접 상태) : 방어, 마방 <font color=\"red\">+2%</font>,<br/>피격으로 전투 진입 시 영웅이 받는 물리 피해 <font color=\"red\">-15%</font><br/>2) <font color=\"blue\">핸드 인 핸드 스텝</font> (사선으로 <font color=\"red\">1</font>칸 위치) : 공격 지력 <font color=\"red\">+2%</font><br/>3) <font color=\"blue\">시리얼 스텝</font> (비직선 상으로 3칸 위치)</font> : </font> 피해를 입힌 후 재이동 <font color=\"red\">2</font>칸"    
         },
         {
-          "Desc": "행동 종료시 아군 한명을 지정해 '<font color=\"purple\">댄스 파트너</font>' 효과를 획득하며 지휘 효과를 갖는다.<br/><font color=\"purple\">댄스 파트너</font> : <font color=\"purple\">댄스 파트너</font>와 자신의 생명을 제외한 모든 스탯 <font color=\"Red\">+8</font>, <font color=\"blue\">기절 면역</font><br/>지속 <font color=\"red\">4</font>행동<br/><b>파트너는 오직 한 명만 가능</b> 쿨타임 <font color=\"red\">3</font>행동<br/><font color=\"purple\">파트너</font>와 지휘 효과는 해제 및 면역 불가<br/>지휘효과로 증가하는 스탯은 동류 지휘 효과와 중복 불가<br/>1) <font color=\"blue\">밀착 스텝</font> (인접 상태) : 방어, 마방 <font color=\"red\">+3</font>%,<br/>피격으로 전투 진입 시 영웅이 받는 물리 피해 <font color=\"red\">-15</font>%<br/>2) <font color=\"blue\">핸드 인 핸드 스텝</font> (사선으로 <font color=\"red\">1</font>칸 위치) : 공격 지력 <font color=\"red\">+3</font>%<br/>3) <font color=\"blue\">시리얼 스텝</font> (비직선 상으로 3칸 위치)</font> : </font> 피해를 입힌 후 재이동 <font color=\"red\">2</font>칸"
+          "Desc": "행동 종료시 아군 한명을 지정해 '<font color=\"purple\">댄스 파트너</font>' 효과를 획득하며 지휘 효과를 갖는다.<br/><font color=\"purple\">댄스 파트너</font> : <font color=\"purple\">댄스 파트너</font>와 자신의 생명을 제외한 모든 스탯 <font color=\"Red\">+8</font>, <font color=\"blue\">기절 면역</font><br/>지속 <font color=\"red\">4</font>행동<br/><b>파트너는 오직 한 명만 가능</b> 쿨타임 <font color=\"red\">3</font>행동<br/><font color=\"purple\">파트너</font>와 지휘 효과는 해제 및 면역 불가<br/>지휘효과로 증가하는 스탯은 동류 지휘 효과와 중복 불가<br/>1) <font color=\"blue\">밀착 스텝</font> (인접 상태) : 방어, 마방 <font color=\"red\">+3%</font>,<br/>피격으로 전투 진입 시 영웅이 받는 물리 피해 <font color=\"red\">-15%</font><br/>2) <font color=\"blue\">핸드 인 핸드 스텝</font> (사선으로 <font color=\"red\">1</font>칸 위치) : 공격 지력 <font color=\"red\">+3%</font><br/>3) <font color=\"blue\">시리얼 스텝</font> (비직선 상으로 3칸 위치)</font> : </font> 피해를 입힌 후 재이동 <font color=\"red\">2</font>칸"
         },
         {
-          "Desc": "행동 종료시 아군 한명을 지정해 '<font color=\"purple\">댄스 파트너</font>' 효과를 획득하며 지휘 효과를 갖는다.<br/><font color=\"purple\">댄스 파트너</font> : <font color=\"purple\">댄스 파트너</font>와 자신의 생명을 제외한 모든 스탯 <font color=\"Red\">+11</font>, <font color=\"blue\">기절 면역</font><br/>지속 <font color=\"red\">4</font>행동<br/><b>파트너는 오직 한 명만 가능</b> 쿨타임 <font color=\"red\">3</font>행동<br/><font color=\"purple\">파트너</font>와 지휘 효과는 해제 및 면역 불가<br/>지휘효과로 증가하는 스탯은 동류 지휘 효과와 중복 불가<br/>1) <font color=\"blue\">밀착 스텝</font> (인접 상태) : 방어, 마방 <font color=\"red\">+4</font>%,<br/>피격으로 전투 진입 시 영웅이 받는 물리 피해 <font color=\"red\">-15</font>%<br/>2) <font color=\"blue\">핸드 인 핸드 스텝</font> (사선으로 <font color=\"red\">1</font>칸 위치) : 공격 지력 <font color=\"red\">+4</font>%<br/>3) <font color=\"blue\">시리얼 스텝</font> (비직선 상으로 3칸 위치)</font> : </font> 피해를 입힌 후 재이동 <font color=\"red\">2</font>칸"
+          "Desc": "행동 종료시 아군 한명을 지정해 '<font color=\"purple\">댄스 파트너</font>' 효과를 획득하며 지휘 효과를 갖는다.<br/><font color=\"purple\">댄스 파트너</font> : <font color=\"purple\">댄스 파트너</font>와 자신의 생명을 제외한 모든 스탯 <font color=\"Red\">+11</font>, <font color=\"blue\">기절 면역</font><br/>지속 <font color=\"red\">4</font>행동<br/><b>파트너는 오직 한 명만 가능</b> 쿨타임 <font color=\"red\">3</font>행동<br/><font color=\"purple\">파트너</font>와 지휘 효과는 해제 및 면역 불가<br/>지휘효과로 증가하는 스탯은 동류 지휘 효과와 중복 불가<br/>1) <font color=\"blue\">밀착 스텝</font> (인접 상태) : 방어, 마방 <font color=\"red\">+4%</font>,<br/>피격으로 전투 진입 시 영웅이 받는 물리 피해 <font color=\"red\">-15%</font><br/>2) <font color=\"blue\">핸드 인 핸드 스텝</font> (사선으로 <font color=\"red\">1</font>칸 위치) : 공격 지력 <font color=\"red\">+4%</font><br/>3) <font color=\"blue\">시리얼 스텝</font> (비직선 상으로 3칸 위치)</font> : </font> 피해를 입힌 후 재이동 <font color=\"red\">2</font>칸"
         },
         {
-          "Desc": "행동 종료시 아군 한명을 지정해 '<font color=\"purple\">댄스 파트너</font>' 효과를 획득하며 지휘 효과를 갖는다.<br/><font color=\"purple\">댄스 파트너</font> : <font color=\"purple\">댄스 파트너</font>와 자신의 생명을 제외한 모든 스탯 <font color=\"Red\">+15</font>, <font color=\"blue\">기절 면역</font><br/>지속 <font color=\"red\">4</font>행동<br/><b>파트너는 오직 한 명만 가능</b> 쿨타임 <font color=\"red\">3</font>행동<br/><font color=\"purple\">파트너</font>와 지휘 효과는 해제 및 면역 불가<br/>지휘효과로 증가하는 스탯은 동류 지휘 효과와 중복 불가<br/>1) <font color=\"blue\">밀착 스텝</font> (인접 상태) : 방어, 마방 <font color=\"red\">+5</font>%,<br/>피격으로 전투 진입 시 영웅이 받는 물리 피해 <font color=\"red\">-15</font>%<br/>2) <font color=\"blue\">핸드 인 핸드 스텝</font> (사선으로 <font color=\"red\">1</font>칸 위치) : 공격 지력 <font color=\"red\">+5</font>%<br/>3) <font color=\"blue\">시리얼 스텝</font> (비직선 상으로 3칸 위치)</font> : </font> 피해를 입힌 후 재이동 <font color=\"red\">2</font>칸"
+          "Desc": "행동 종료시 아군 한명을 지정해 '<font color=\"purple\">댄스 파트너</font>' 효과를 획득하며 지휘 효과를 갖는다.<br/><font color=\"purple\">댄스 파트너</font> : <font color=\"purple\">댄스 파트너</font>와 자신의 생명을 제외한 모든 스탯 <font color=\"Red\">+15</font>, <font color=\"blue\">기절 면역</font><br/>지속 <font color=\"red\">4</font>행동<br/><b>파트너는 오직 한 명만 가능</b> 쿨타임 <font color=\"red\">3</font>행동<br/><font color=\"purple\">파트너</font>와 지휘 효과는 해제 및 면역 불가<br/>지휘효과로 증가하는 스탯은 동류 지휘 효과와 중복 불가<br/>1) <font color=\"blue\">밀착 스텝</font> (인접 상태) : 방어, 마방 <font color=\"red\">+5%</font>,<br/>피격으로 전투 진입 시 영웅이 받는 물리 피해 <font color=\"red\">-15%</font><br/>2) <font color=\"blue\">핸드 인 핸드 스텝</font> (사선으로 <font color=\"red\">1</font>칸 위치) : 공격 지력 <font color=\"red\">+5%</font><br/>3) <font color=\"blue\">시리얼 스텝</font> (비직선 상으로 3칸 위치)</font> : </font> 피해를 입힌 후 재이동 <font color=\"red\">2</font>칸"
         }
       ]
     }
@@ -81,13 +81,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "경쾌하고 부드러운 자태",
-    "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"purple\">댄스 파트너</font>가 자신 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시<br/><font color=\"red\">2</font>칸 이동력 감소 면제 기회 획득"
+    "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"purple\">댄스 파트너</font>가 자신 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시<br/><font color=\"red\">2</font>칸 이동력 감소 면제 기회 획득"
   },
   "Equip": {
     "Name": "고난의 별(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "아샤메르.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"purple\">댄스 파트너</font> 보유 시, 스킬 피해 <font color=\"red\">+10</font>%<br/>자신과 <font color=\"purple\">댄스 파트너</font> 행동 종료 시<br/><fonmt color=\"blue\">댄스 스탭</font> 유형에 따라 면역 효과를 받는다.<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">밀착</font> : 고정피해<br/><font color=\"blue\">핸드 인 핸드</font> : 침묵<br/><font color=\"blue\">시리얼</font> : 이동력 저하"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"purple\">댄스 파트너</font> 보유 시, 스킬 피해 <font color=\"red\">+10%</font><br/>자신과 <font color=\"purple\">댄스 파트너</font> 행동 종료 시<br/><fonmt color=\"blue\">댄스 스탭</font> 유형에 따라 면역 효과를 받는다.<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">밀착</font> : 고정피해<br/><font color=\"blue\">핸드 인 핸드</font> : 침묵<br/><font color=\"blue\">시리얼</font> : 이동력 저하"
   },
   "Soldiers": [
     43,
@@ -384,7 +384,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Ashumere/1.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.5</font>배의 피해<br/>적 마방 <font color=\"red\">20</font>% 무시<br/>전투 후 자신과 <font color=\"purple\">댄스 파트너</font> 생명을 지력 <font color=\"red\">2</font>배 수치로 <font color=\"green\">회복</font>",
+      "Desc": "단일 개체 <font color=\"red\">1.5</font>배의 피해<br/>적 마방 <font color=\"red\">20%</font> 무시<br/>전투 후 자신과 <font color=\"purple\">댄스 파트너</font> 생명을 지력 <font color=\"red\">2</font>배 수치로 <font color=\"green\">회복</font>",
       "SubSkills": null,
       "Animation": null
     },    
@@ -424,7 +424,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/>지속 <font color =\"red\">1</font>행동",
+      "Desc": "행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20%</font> <br/>지속 <font color =\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -450,7 +450,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BreakEvil.webp",
-      "Desc": "치명타율 <font color=\"red\">+15</font>%<br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
+      "Desc": "치명타율 <font color=\"red\">+15%</font><br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -528,7 +528,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ATKup.webp",
-      "Desc": "단일 아군에게 공격,지력 <font color =\"red\">+20</font>% 및 '<font color=\"blue\">공격, 지력 감소 면역</font>', '<font color=\"blue\">침묵</font> 부여'<br/> 지속 <font color =\"red\">2</font>행동.",
+      "Desc": "단일 아군에게 공격,지력 <font color =\"red\">+20%</font> 및 '<font color=\"blue\">공격, 지력 감소 면역</font>', '<font color=\"blue\">침묵</font> 부여'<br/> 지속 <font color =\"red\">2</font>행동.",
       "SubSkills": null,
       "Animation": null
     },

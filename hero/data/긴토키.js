@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+3</font>%, 받는 피해량 <font color =\"red\">-3</font>% 지속 <font color =\"red\">4</font>행동 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 이동력 <font color =\"red\">+2</font><br/>전투 진입 시 주는 피해량 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>아군 <font color=\"red\">사망</font> 시  <font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>스택 획득<br/>만약 해당 턴에 행동 종료 했을 경우 <font color=\"blue\">재행동</font> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b><br/><font color=\"blue\">재행동</font> 쿨타임 <font color=\"red\">1</font>행동"
+          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+3%</font>, 받는 피해량 <font color =\"red\">-3%</font> 지속 <font color =\"red\">4</font>행동 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 이동력 <font color =\"red\">+2</font><br/>전투 진입 시 주는 피해량 <font color =\"red\">+30%</font>, <font color =\"blue\">선제 공격</font> <br/>아군 <font color=\"red\">사망</font> 시  <font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>스택 획득<br/>만약 해당 턴에 행동 종료 했을 경우 <font color=\"blue\">재행동</font> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b><br/><font color=\"blue\">재행동</font> 쿨타임 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+4</font>%, 받는 피해량 <font color =\"red\">-4</font>% 지속 <font color =\"red\">4</font>행동 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 이동력 <font color =\"red\">+2</font><br/>전투 진입 시 주는 피해량 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>아군 <font color=\"red\">사망</font> 시  <font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>스택 획득<br/>만약 해당 턴에 행동 종료 했을 경우 <font color=\"blue\">재행동</font> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b><br/><font color=\"blue\">재행동</font> 쿨타임 <font color=\"red\">1</font>행동"
+          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+4%</font>, 받는 피해량 <font color =\"red\">-4%</font> 지속 <font color =\"red\">4</font>행동 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 이동력 <font color =\"red\">+2</font><br/>전투 진입 시 주는 피해량 <font color =\"red\">+30%</font>, <font color =\"blue\">선제 공격</font> <br/>아군 <font color=\"red\">사망</font> 시  <font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>스택 획득<br/>만약 해당 턴에 행동 종료 했을 경우 <font color=\"blue\">재행동</font> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b><br/><font color=\"blue\">재행동</font> 쿨타임 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+6</font>%, 받는 피해량 <font color =\"red\">-6</font>% 지속 <font color =\"red\">4</font>행동 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 이동력 <font color =\"red\">+2</font><br/>전투 진입 시 주는 피해량 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>아군 <font color=\"red\">사망</font> 시  <font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>스택 획득<br/>만약 해당 턴에 행동 종료 했을 경우 <font color=\"blue\">재행동</font> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b><br/><font color=\"blue\">재행동</font> 쿨타임 <font color=\"red\">1</font>행동"
+          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+6%</font>, 받는 피해량 <font color =\"red\">-6%</font> 지속 <font color =\"red\">4</font>행동 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 이동력 <font color =\"red\">+2</font><br/>전투 진입 시 주는 피해량 <font color =\"red\">+30%</font>, <font color =\"blue\">선제 공격</font> <br/>아군 <font color=\"red\">사망</font> 시  <font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>스택 획득<br/>만약 해당 턴에 행동 종료 했을 경우 <font color=\"blue\">재행동</font> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b><br/><font color=\"blue\">재행동</font> 쿨타임 <font color=\"red\">1</font>행동"
         },
         {
-          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+8</font>%, 받는 피해량 <font color =\"red\">-8</font>% 지속 <font color =\"red\">4</font>행동 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 이동력 <font color =\"red\">+2</font><br/>전투 진입 시 주는 피해량 <font color =\"red\">+30</font>%, <font color =\"blue\">선제 공격</font> <br/>아군 <font color=\"red\">사망</font> 시  <font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>스택 획득<br/>만약 해당 턴에 행동 종료 했을 경우 <font color=\"blue\">재행동</font> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b><br/><font color=\"blue\">재행동</font> 쿨타임 <font color=\"red\">1</font>행동"
+          "Desc": "아군 <font color=\"red\">1</font>명이 공격 받을때 마다 '<font color =\"purple\">무사의 혼</font> <font color=\"red\">1</font>스택 획득<br/><font color =\"purple\">무사의 혼</font> : 공격력 <font color =\"red\">+8%</font>, 받는 피해량 <font color =\"red\">-8%</font> 지속 <font color =\"red\">4</font>행동 <br/>최대<font color =\"red\">4</font>중첩 <br/><font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>중첩 시 '<font color =#83364f>백야차</font>' 상태에 진입 <br/><font color =#83364f>백야차</font> : 이동력 <font color =\"red\">+2</font><br/>전투 진입 시 주는 피해량 <font color =\"red\">+30%</font>, <font color =\"blue\">선제 공격</font> <br/>아군 <font color=\"red\">사망</font> 시  <font color =\"purple\">무사의 혼</font> <font color=\"red\">4</font>스택 획득<br/>만약 해당 턴에 행동 종료 했을 경우 <font color=\"blue\">재행동</font> <br/><font color =#83364f>백야차</font>는 <b>해제불가, 면역불가</b><br/><font color=\"blue\">재행동</font> 쿨타임 <font color=\"red\">1</font>행동"
         }
       ]
     }
@@ -115,7 +115,7 @@
       "MagicDefRate": 78,
       "Skill": 116,
       "SkillRate": 37,
-      "HeartFetterBouns1": "공격 전 이동 <font color=\"red\">1</font>칸 당 <br/>부대가 받는 피해 <font color=\"red\">-3</font>% (최대 <font color=\"red\">15</font>%)",
+      "HeartFetterBouns1": "공격 전 이동 <font color=\"red\">1</font>칸 당 <br/>부대가 받는 피해 <font color=\"red\">-3%</font> (최대 <font color=\"red\">15</font>%)",
       "HeartFetterBouns2": "물리 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
@@ -144,7 +144,7 @@
       "MagicDefRate": 76,
       "Skill": 226,
       "SkillRate": 52,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80</font>% 초과 시<br/> 피격 치명타 확률 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/> 피격 치명타 확률 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "피격으로 전투 진입 시<br/>치명타 확률 <font color=\"red\">+10</font>%"
     }
   ],
@@ -401,7 +401,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Gintoki/1.webp",
-      "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">무기 스킬 무효화</font> 부여<br/>지속 <font color=\"Red\">2</font>행동<br/>NPC 영웅일 경우 해당 효과는 공격,지력 <font color=\"Red\">-25</font>%로 대체 <br/><b>멀어지는 순서대로</b> 피해량 <font color=\"red\">-20</font>% (최대 <font color=\"red\">-60</font>%) 및 <font colro =\"blue\">위치 이동</font> 효과 <br/>(적을 <font color=\"red\">3</font>칸 밀침)",
+      "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">무기 스킬 무효화</font> 부여<br/>지속 <font color=\"Red\">2</font>행동<br/>NPC 영웅일 경우 해당 효과는 공격,지력 <font color=\"Red\">-25</font>%로 대체 <br/><b>멀어지는 순서대로</b> 피해량 <font color=\"red\">-20%</font> (최대 <font color=\"red\">-60</font>%) 및 <font colro =\"blue\">위치 이동</font> 효과 <br/>(적을 <font color=\"red\">3</font>칸 밀침)",
       "SubSkills": null,
       "Animation": null
     },    
@@ -427,7 +427,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Gintoki/2.webp",
-      "Desc": "소환물이 아닌 다른 아군에게 '<font color =\"blue\">수호의 맹세</font>' 효과 부여 <br/><font color =\"blue\">수호의 맹세</font> : 아군이 <font color =\"red\">3</font>칸 범위 안에 있을 경우 피격 물리 공격 <font color=\"blue\">호위</font> <br/><b><font color =\"blue\">호위</font> 도중 <font color=\"red\">사망</font>할 경우</b> <font color =\"red\">50</font>% 생명 수치로 <font color =\"blue\">부활</font> <br/>최대 <font color =\"red\">1</font>회 발동 <br/><font color =\"blue\">수호의 맹세</font>는 <b>해제 불가, 면역 불가</b> <br/><b><font color =\"blue\">수호의 맹세</font>가 걸린 아군이 <font color=\"red\">사망</font> 시</b><br/> 영구 <font color =\"purple\">백야차</font> 상태 돌입",
+      "Desc": "소환물이 아닌 다른 아군에게 '<font color =\"blue\">수호의 맹세</font>' 효과 부여 <br/><font color =\"blue\">수호의 맹세</font> : 아군이 <font color =\"red\">3</font>칸 범위 안에 있을 경우 피격 물리 공격 <font color=\"blue\">호위</font> <br/><b><font color =\"blue\">호위</font> 도중 <font color=\"red\">사망</font>할 경우</b> <font color =\"red\">50%</font> 생명 수치로 <font color =\"blue\">부활</font> <br/>최대 <font color =\"red\">1</font>회 발동 <br/><font color =\"blue\">수호의 맹세</font>는 <b>해제 불가, 면역 불가</b> <br/><b><font color =\"blue\">수호의 맹세</font>가 걸린 아군이 <font color=\"red\">사망</font> 시</b><br/> 영구 <font color =\"purple\">백야차</font> 상태 돌입",
       "SubSkills": null,
       "Animation": null
     },
@@ -479,7 +479,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Gintoki/3.webp",
-      "Desc": "[지원] <font color =\"red\">50</font>% 생명 회복, <font color =\"blue\">당분</font>스택 <font color =\"red\">1</font>개 획득<br/>지속 <font color =\"red\">6</font>행동, <b>중첩 가능</b><br/>사용 후 <font color =\"blue\">재행동</font> <font color =\"red\">3</font>칸 <br/><font color =\"blue\">당분</font> <font color =\"red\">2</font>중첩 시 '<font color =\"blue\">당분 과다</font>' 효과 획득 <br/><font color =\"blue\">당분 과다</font> : 영웅 이동력 <font color =\"red\">-1</font>, 주는 피해량 <font color=\"red\">-15</font>%(<font color =\"red\">디메리트</font>) <br/><b>해당 스킬은 다른 버프 지속시간을 소모하지 않으며,</b><br/><font color =\"blue\">당분</font>과 <font color =\"blue\">당분 과다</font>는 <b>해제 불가,면역 불가</b><br/><font color =#83364f>백야차</font> 상태에서는 <font color =\"blue\">당분 과다</font>가 발생하지 않음",
+      "Desc": "[지원] <font color =\"red\">50%</font> 생명 회복, <font color =\"blue\">당분</font>스택 <font color =\"red\">1</font>개 획득<br/>지속 <font color =\"red\">6</font>행동, <b>중첩 가능</b><br/>사용 후 <font color =\"blue\">재행동</font> <font color =\"red\">3</font>칸 <br/><font color =\"blue\">당분</font> <font color =\"red\">2</font>중첩 시 '<font color =\"blue\">당분 과다</font>' 효과 획득 <br/><font color =\"blue\">당분 과다</font> : 영웅 이동력 <font color =\"red\">-1</font>, 주는 피해량 <font color=\"red\">-15</font>%(<font color =\"red\">디메리트</font>) <br/><b>해당 스킬은 다른 버프 지속시간을 소모하지 않으며,</b><br/><font color =\"blue\">당분</font>과 <font color =\"blue\">당분 과다</font>는 <b>해제 불가,면역 불가</b><br/><font color =#83364f>백야차</font> 상태에서는 <font color =\"blue\">당분 과다</font>가 발생하지 않음",
       "SubSkills": null,
       "Animation": null
     },

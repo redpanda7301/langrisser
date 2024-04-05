@@ -83,7 +83,7 @@
     "Name": "기동폭쇄검(무기)",
     "Stats": "생명 437,공격 107",
     "Icon": "베르너.webp",
-    "Ability": "공격 <font color=\"red\">+10</font>%<br/> 이동 <font color=\"red\">1</font>칸 당 부대가 적 방어 <font color=\"red\">1</font>% 무시"
+    "Ability": "공격 <font color=\"red\">+10%</font><br/> 이동 <font color=\"red\">1</font>칸 당 부대가 적 방어 <font color=\"red\">1%</font> 무시"
   },
   "Soldiers": [
     35,
@@ -126,7 +126,7 @@
       "Skill": 122,
       "SkillRate": 39,
       "HeartFetterBouns1": "받는 범위 피해감소 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명력이 <font color=\"red\">70</font>% 이하일시, 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "부대 생명력이 <font color=\"red\">70%</font> 이하일시, 주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "로열나이트",
@@ -157,8 +157,8 @@
       "MagicDefRate": 62,
       "Skill": 122,
       "SkillRate": 35,
-      "HeartFetterBouns1": "공격하여 전투진입 시, 부대가 받는 피해량 <font color=\"red\">-10</font>% 감소",
-      "HeartFetterBouns2": "물리공격을 받아 전투 진입시, 주는 피해량 <font color=\"red\">+10</font>% 증가"
+      "HeartFetterBouns1": "공격하여 전투진입 시, 부대가 받는 피해량 <font color=\"red\">-10%</font> 감소",
+      "HeartFetterBouns2": "물리공격을 받아 전투 진입시, 주는 피해량 <font color=\"red\">+10%</font> 증가"
     }
   ],
   "Materials": {
@@ -603,7 +603,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/베르너.webp",
-      "Desc": "[액티브] 이하 스킬 중 <font color=\"red\">1</font>개 선택 및 이동력 <font color=\"red\">+1</font><br/>생명을 제외한 모든 스탯 <font color=\"red\">+5</font>% (최대 <font color=\"red\">3</font>중첩, 해제 불가)<br/>동시에 <font color=\"red\">1</font>가지 모드만 발동할 수 있으며, 모드 변형은 <b><font color=\"blue\">면역 및 제거 불가</font>",
+      "Desc": "[액티브] 이하 스킬 중 <font color=\"red\">1</font>개 선택 및 이동력 <font color=\"red\">+1</font><br/>생명을 제외한 모든 스탯 <font color=\"red\">+5%</font> (최대 <font color=\"red\">3</font>중첩, 해제 불가)<br/>동시에 <font color=\"red\">1</font>가지 모드만 발동할 수 있으며, 모드 변형은 <b><font color=\"blue\">면역 및 제거 불가</font>",
       "SubSkills": [
         {
           "Name": "<b><font color=\"#0070c0\">신속 모드</font></b>",
@@ -615,13 +615,13 @@
           "Name": "<b><font color=\"#0070c0\">강습 모드</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/베르너_2.webp",
-          "Desc": "[지원] 자신 부대가 공격 전 이동한 거리 <font color=\"red\">1</font>칸 당 피해 <font color=\"red\">+3</font>% (최대 <font color=\"red\">15</font>%)"
+          "Desc": "[지원] 자신 부대가 공격 전 이동한 거리 <font color=\"red\">1</font>칸 당 피해 <font color=\"red\">+3%</font> (최대 <font color=\"red\">15</font>%)"
         },
         {
           "Name": "<b><font color=\"#0070c0\">방어 모드</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/베르너_3.webp",
-          "Desc": "[지원] 자신 부대가 받는 피해 <font color=\"red\">-15</font>%, <b><font color=\"blue\">위치 이동 면역</font></b>, 반격 피해 <font color=\"red\">+20</font>%, <br/>행동 종료 시 부대 생명 <font color=\"red\">35</font>% 수치 생명 회복"
+          "Desc": "[지원] 자신 부대가 받는 피해 <font color=\"red\">-15%</font>, <b><font color=\"blue\">위치 이동 면역</font></b>, 반격 피해 <font color=\"red\">+20%</font>, <br/>행동 종료 시 부대 생명 <font color=\"red\">35%</font> 수치 생명 회복"
         }
       ],
       "Animation": "../img/Super/베르너_Ani.webp"

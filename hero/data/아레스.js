@@ -84,7 +84,7 @@
     "Name": "자경단의 투구(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "아레스.webp",
-    "Ability": "생명 <font color=\"red\">+5</font>%, 방어 <font color=\"red\">+5</font>%<br/><b>자신이 <font color =\"blue\">초절강화 특수효과</font> 보유시</b><br/>영웅의 일반 공격 피해량 <font color =\"red\">+30</font>%<br/><b>선공으로 전투 진입 전 추가로 <font color =\"Purple\">약진</font>효과 획득</font><br/>(<b>치명타율 <font color=\"red\">+8</font>%, </b> 최대 <font color=\"red\">5</font>개 중첩가능.)"
+    "Ability": "생명 <font color=\"red\">+5%</font>, 방어 <font color=\"red\">+5%</font><br/><b>자신이 <font color =\"blue\">초절강화 특수효과</font> 보유시</b><br/>영웅의 일반 공격 피해량 <font color =\"red\">+30%</font><br/><b>선공으로 전투 진입 전 추가로 <font color =\"Purple\">약진</font>효과 획득</font><br/>(<b>치명타율 <font color=\"red\">+8%</font>, </b> 최대 <font color=\"red\">5</font>개 중첩가능.)"
   },
   "Soldiers": [
     28,
@@ -501,7 +501,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },

@@ -87,22 +87,22 @@
       "Icon": "SP_Gift_Grenier.webp",
       "Abilities": [
         {
-          "Desc": "피격으로 전투 진입 전 <font color=\"red\">50%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+5</font>%, 받는 물리 피해 <font color=\"red\">-2</font>%<br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">50%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+5%</font>, 받는 물리 피해 <font color=\"red\">-2%</font><br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
         },
         {
-          "Desc": "피격으로 전투 진입 전 <font color=\"red\">60%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+6</font>%, 받는 물리 피해 <font color=\"red\">-3</font>%<br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">60%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+6%</font>, 받는 물리 피해 <font color=\"red\">-3%</font><br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
         },
         {
-          "Desc": "피격으로 전투 진입 전 <font color=\"red\">70%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+7</font>%, 받는 물리 피해 <font color=\"red\">-3</font>%<br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"          
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">70%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+7%</font>, 받는 물리 피해 <font color=\"red\">-3%</font><br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"          
         },
         {
-          "Desc": "피격으로 전투 진입 전 <font color=\"red\">80%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+8</font>%, 받는 물리 피해 <font color=\"red\">-4</font>%<br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"  
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">80%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+8%</font>, 받는 물리 피해 <font color=\"red\">-4%</font><br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"  
         },
         {
-          "Desc": "피격으로 전투 진입 전 <font color=\"red\">90%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+9</font>%, 받는 물리 피해 <font color=\"red\">-4</font>%<br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">90%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+9%</font>, 받는 물리 피해 <font color=\"red\">-4%</font><br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
         },
         {
-          "Desc": "피격으로 전투 진입 전 <font color=\"red\">100%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+10</font>%, 받는 물리 피해 <font color=\"red\">-5</font>%<br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
+          "Desc": "피격으로 전투 진입 전 <font color=\"red\">100%</font> 확률로 <font color=\"purple\">굳건한 방어</font>획득<br/><font color=\"purple\">굳건한 방어</font> : 공격 방어 <font color=\"red\">+10%</font>, 받는 물리 피해 <font color=\"red\">-5%</font><br/>지속 <font color=\"red\">2</font>행동<br/><b>해제 불가</b>, 최대 <font color=\"red\">3</font>회 누적 가능<br/><font color=\"blue\">버프</font> <font color=\"red\">3</font>개 이상 보유시 <font color=\"blue\">근접전 패널티 무효화</font>"
         }
       ]
     }
@@ -193,8 +193,8 @@
       "MagicDefRate": 71,
       "Skill": 180,
       "SkillRate": 50,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70</font>% 이하 시<br/><b>전투 중</b> 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 이하 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 이하 시<br/><b>전투 중</b> 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 이하 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "보우마스터",
@@ -858,7 +858,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/그레니어/2.webp",
-      "Desc": "범위 내 적에게 <font color=\"Red\">0.3</font>배 피해, <font color=\"blue\">버프</font> <font color=\"Red\">1</font>개 제거 <br/>적에게 '<font color=\"blue\">선동</font>' 효과 부여<br/><font color=\"blue\">선동</font> : <b>그레니어와 교전 시</b> 피해 <font color=\"red\">-15</font>%, 받는 피해 <font color=\"red\">+30</font>%<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 적에게 <font color=\"Red\">0.3</font>배 피해, <font color=\"blue\">버프</font> <font color=\"Red\">1</font>개 제거 <br/>적에게 '<font color=\"blue\">선동</font>' 효과 부여<br/><font color=\"blue\">선동</font> : <b>그레니어와 교전 시</b> 피해 <font color=\"red\">-15%</font>, 받는 피해 <font color=\"red\">+30%</font><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -884,7 +884,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/그레니어.webp",
-      "Desc": "[패시브]인접한 아군이 받는 <b>모든 공격</b>을 대신 받는다.<br/>[액티브]호위 범위 <font color=\"red\">2</font>칸으로 증가. '<font color=\"blue\">전력 찌르기</font>' 효과 획득,  <br/>기술 <font color=\"red\">+30</font>% (지속 <font color=\"red\">3</font>행동), <br/>'<font color=\"purple\">굳센 반격</font>' <font color=\"red\">2</font>스택 획득, <br/><b>행동 종료 시 자신이 위치한 지형에 '<font color=\"purple\">나의 영역</font>'</b> 효과 부여 : <br/><b>아군이 이동 시 통과 가능한 지형을 '<font color=\"silver\">성벽</font>'으로 간주</b>, <br/><b>부대는 지형에 따른 이동력 패널티를 받지 않으며 행동 종료 시</b> 생명 <font color=\"red\">20</font>% 회복, <br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "[패시브]인접한 아군이 받는 <b>모든 공격</b>을 대신 받는다.<br/>[액티브]호위 범위 <font color=\"red\">2</font>칸으로 증가. '<font color=\"blue\">전력 찌르기</font>' 효과 획득,  <br/>기술 <font color=\"red\">+30%</font> (지속 <font color=\"red\">3</font>행동), <br/>'<font color=\"purple\">굳센 반격</font>' <font color=\"red\">2</font>스택 획득, <br/><b>행동 종료 시 자신이 위치한 지형에 '<font color=\"purple\">나의 영역</font>'</b> 효과 부여 : <br/><b>아군이 이동 시 통과 가능한 지형을 '<font color=\"silver\">성벽</font>'으로 간주</b>, <br/><b>부대는 지형에 따른 이동력 패널티를 받지 않으며 행동 종료 시</b> 생명 <font color=\"red\">20%</font> 회복, <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/그레니어_Ani.webp"
     }

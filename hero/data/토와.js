@@ -85,13 +85,13 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "전수의 길",
-    "Stats": "공격,방어 <font color=\"red\">+5</font>%<br/>자신이 <font color=\"blue\">초절 강화 특수 효과</font> 보유한 상태로 <font color=\"blue\">전술 지도</font> 사용했을 시<br/>복제 수량 <font color=\"red\">+2</font>",
+    "Stats": "공격,방어 <font color=\"red\">+5%</font><br/>자신이 <font color=\"blue\">초절 강화 특수 효과</font> 보유한 상태로 <font color=\"blue\">전술 지도</font> 사용했을 시<br/>복제 수량 <font color=\"red\">+2</font>",
   },
   "Equip": {
     "Name": "영안 안경(투구)",
     "Stats": "생명 583, 마방 48",
     "Icon": "토와.webp",
-    "Ability": "생명 <font color=\"red\">+5</font>)%, 방어 <font color=\"red\">+5</font>%<br/><b>자신이 <font color =\"blue\">초절강화 특수효과</font> 보유시</b><br/>선공으로 전투 진입시 영웅이 주는 피해량 <font color =\"red\">+10</font>%<br/><b>적이 <font color =\"blue\">초절강화 특수효과</font> 미보유 시 적의 '<font color =\"blue\">공격, 지력 <font color =\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>행동"
+    "Ability": "생명 <font color=\"red\">+5</font>)%, 방어 <font color=\"red\">+5%</font><br/><b>자신이 <font color =\"blue\">초절강화 특수효과</font> 보유시</b><br/>선공으로 전투 진입시 영웅이 주는 피해량 <font color =\"red\">+10%</font><br/><b>적이 <font color =\"blue\">초절강화 특수효과</font> 미보유 시 적의 '<font color =\"blue\">공격, 지력 <font color =\"red\">-15%</font><br/>지속 <font color=\"red\">1</font>행동"
   },
   "Soldiers": [
     48,
@@ -139,8 +139,8 @@
       "MagicDefRate": 50,
       "Skill": 159,
       "SkillRate": 50,
-      "HeartFetterBouns1": "<b>부대 생명력이 <font color =\"red\">70</font>% 미만일시</b><br/>전투진입시 받는 피해량<font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명력이 <font color =\"red\">100</font>% 일시</b><br/>주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명력이 <font color =\"red\">70%</font> 미만일시</b><br/>전투진입시 받는 피해량<font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>부대 생명력이 <font color =\"red\">100%</font> 일시</b><br/>주는 피해량 <font color =\"red\">+10</font>%"
     },
     {
       "Name": "페가수스 별의 기사",
@@ -422,7 +422,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash2.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격하여 <font color =\"red\">1.5</font>배의 전투 피해를 준다. <br/><b>전투 전</b> [<font color =\"blue\">바람 타기</font>]획득 :<br/><b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%, <font color =\"red\">2</font>행동 지속.",
+      "Desc": "[물리 피해]단일 적 부대를 공격하여 <font color =\"red\">1.5</font>배의 전투 피해를 준다. <br/><b>전투 전</b> [<font color =\"blue\">바람 타기</font>]획득 :<br/><b>생명이 <font color =\"red\">50%</font> 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15%</font>, <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -436,7 +436,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/16.webp",
-      "Desc": "[패시브] <b>행동 종료 시 <font color =\"red\">20</font>% 확률</b>로 <font color =\"blue\">재행동</font> 가능.",
+      "Desc": "[패시브] <b>행동 종료 시 <font color =\"red\">20%</font> 확률</b>로 <font color =\"blue\">재행동</font> 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -582,7 +582,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Towa2.webp",
-      "Desc": "[물리 피해]단일 개체 <font color =\"red\">1.5</font>배, 자신에게 걸린 버프 <font color =\"red\">1</font>개당 피해 <font color =\"red\">+2</font>% (최대 <font color =\"red\">10</font>%) <br/><b>전투 진입 전 자신에게 <font color =\"blue\">초절 강화 특수 효과</font>가 있을 경우 선제공격</b><br/><b>앞 조건을 만족한 상태에서 적에게 <font color =\"blue\">초절 강화 특수 효과</font>가 <font color =\"red\">없을 경우</font> <font color =\"blue\">호위 무시</font></b>",
+      "Desc": "[물리 피해]단일 개체 <font color =\"red\">1.5</font>배, 자신에게 걸린 버프 <font color =\"red\">1</font>개당 피해 <font color =\"red\">+2%</font> (최대 <font color =\"red\">10</font>%) <br/><b>전투 진입 전 자신에게 <font color =\"blue\">초절 강화 특수 효과</font>가 있을 경우 선제공격</b><br/><b>앞 조건을 만족한 상태에서 적에게 <font color =\"blue\">초절 강화 특수 효과</font>가 <font color =\"red\">없을 경우</font> <font color =\"blue\">호위 무시</font></b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -600,13 +600,13 @@
         }
       ],
       "IconImageUrl": "../img/Super/토와.webp",
-      "Desc": "[패시브] '<font color =\"blue\">강화 불가</font>' 면역, <font color =\"blue\">각성 액티브 효과</font> 보유 시 <b>병사가 받는 물리 피해</b> <font color =\"red\">-35</font>%<br/> [액티브] 이하 효과 중 택일,<b>사용 후 <font color =\"red\">3</font>칸 <font color =\"blue\">재행동</font> 가능</b>",
+      "Desc": "[패시브] '<font color =\"blue\">강화 불가</font>' 면역, <font color =\"blue\">각성 액티브 효과</font> 보유 시 <b>병사가 받는 물리 피해</b> <font color =\"red\">-35%</font><br/> [액티브] 이하 효과 중 택일,<b>사용 후 <font color =\"red\">3</font>칸 <font color =\"blue\">재행동</font> 가능</b>",
       "SubSkills": [
         {
           "Name": "<b><font color=\"#0070c0\">진법 - 침공</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/토와_1.webp",
-          "Desc": "[지원]'<font color =\"blue\">진법 - 침공</font>' 효과 획득 :<br/>[지휘]<b>주위 <font color =\"red\">3</font>칸 범위 내 아군의 공격 지력 <font color =\"red\">+15</font>%,<br/><b>선공으로 전투 진입 전 고정 피해 (공격력 <font color =\"red\">0.5</font>배 수치)</b><br/><b><font color =\"blue\">액티브 스킬</font>로 적 격파 후 해당 스킬 쿨타임 <font color =\"red\">-1</font></b>,<br/>지속 <font color =\"red\">3</font>행동, <b>해제 불가</b>"
+          "Desc": "[지원]'<font color =\"blue\">진법 - 침공</font>' 효과 획득 :<br/>[지휘]<b>주위 <font color =\"red\">3</font>칸 범위 내 아군의 공격 지력 <font color =\"red\">+15%</font>,<br/><b>선공으로 전투 진입 전 고정 피해 (공격력 <font color =\"red\">0.5</font>배 수치)</b><br/><b><font color =\"blue\">액티브 스킬</font>로 적 격파 후 해당 스킬 쿨타임 <font color =\"red\">-1</font></b>,<br/>지속 <font color =\"red\">3</font>행동, <b>해제 불가</b>"
         },
         {
           "Name": "<b><font color=\"#0070c0\">진법 - 절벽</font></b>",

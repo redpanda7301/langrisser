@@ -85,7 +85,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "숲의 유대",
-    "Stats": "공격, 치명타 확률 <font color=\"red\">+5</font>%<br/><font color=\"purple\">궁병 계열 병사</font> 대동 시 해당 효과 <font color=\"red\">2</font>배"
+    "Stats": "공격, 치명타 확률 <font color=\"red\">+5%</font><br/><font color=\"purple\">궁병 계열 병사</font> 대동 시 해당 효과 <font color=\"red\">2</font>배"
   },
   "Equip": {
     "Name": "바람을 싣는 날개(투구)",

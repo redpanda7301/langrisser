@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "지력 <font color=\"red\">5</font>%<br/>시작 시 '<font color=\"purple\">감성</font>'과 '<font color=\"blue\">이성</font>' <font color=\"red\">2</font>스택 보유<br/>보유한 <font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힌 후 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군 <font color=\"green\">생명 회복</font><br/>지력 <font color=\"red\">1.5</font>배 수치<br/>보유한 <font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힐 시 전투 전 적에게 <font color=\"blue\">고정피해</font><br/>(지력 <font color=\"red\">0.5</font>배 수치)<br/>다른 아군이 선공을 하고 행동 종료 시 <font color=\"blue\">이성</font> <font color=\"red\">1</font>개를 <font color=\"purple\">감성</font>으로 전환<br/>아닐 경우 <font color=\"purple\">감성</font> <font color=\"red\">1</font>개를 <font color=\"blue\">이성</font>으로 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>은 <b>해제 및 면역 불가</b><br/>최대 <font color=\"red\">4</font>스택 누적"
+          "Desc": "지력 <font color=\"red\">5%</font><br/>시작 시 '<font color=\"purple\">감성</font>'과 '<font color=\"blue\">이성</font>' <font color=\"red\">2</font>스택 보유<br/>보유한 <font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힌 후 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군 <font color=\"green\">생명 회복</font><br/>지력 <font color=\"red\">1.5</font>배 수치<br/>보유한 <font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힐 시 전투 전 적에게 <font color=\"blue\">고정피해</font><br/>(지력 <font color=\"red\">0.5</font>배 수치)<br/>다른 아군이 선공을 하고 행동 종료 시 <font color=\"blue\">이성</font> <font color=\"red\">1</font>개를 <font color=\"purple\">감성</font>으로 전환<br/>아닐 경우 <font color=\"purple\">감성</font> <font color=\"red\">1</font>개를 <font color=\"blue\">이성</font>으로 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>은 <b>해제 및 면역 불가</b><br/>최대 <font color=\"red\">4</font>스택 누적"
         },
         {
-          "Desc": "지력 <font color=\"red\">10</font>%<br/>시작 시 '<font color=\"purple\">감성</font>'과 '<font color=\"blue\">이성</font>' <font color=\"red\">2</font>스택 보유<br/>보유한 <font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힌 후 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군 <font color=\"green\">생명 회복</font><br/>지력 <font color=\"red\">2</font>배 수치<br/>보유한 <font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힐 시 전투 전 적에게 <font color=\"blue\">고정피해</font><br/>(지력 <font color=\"red\">0.8</font>배 수치)<br/>다른 아군이 선공을 하고 행동 종료 시 <font color=\"blue\">이성</font> <font color=\"red\">1</font>개를 <font color=\"purple\">감성</font>으로 전환<br/>아닐 경우 <font color=\"purple\">감성</font> <font color=\"red\">1</font>개를 <font color=\"blue\">이성</font>으로 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>은 <b>해제 및 면역 불가</b><br/>최대 <font color=\"red\">4</font>스택 누적"
+          "Desc": "지력 <font color=\"red\">10%</font><br/>시작 시 '<font color=\"purple\">감성</font>'과 '<font color=\"blue\">이성</font>' <font color=\"red\">2</font>스택 보유<br/>보유한 <font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힌 후 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군 <font color=\"green\">생명 회복</font><br/>지력 <font color=\"red\">2</font>배 수치<br/>보유한 <font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힐 시 전투 전 적에게 <font color=\"blue\">고정피해</font><br/>(지력 <font color=\"red\">0.8</font>배 수치)<br/>다른 아군이 선공을 하고 행동 종료 시 <font color=\"blue\">이성</font> <font color=\"red\">1</font>개를 <font color=\"purple\">감성</font>으로 전환<br/>아닐 경우 <font color=\"purple\">감성</font> <font color=\"red\">1</font>개를 <font color=\"blue\">이성</font>으로 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>은 <b>해제 및 면역 불가</b><br/>최대 <font color=\"red\">4</font>스택 누적"
         },
         {
-          "Desc": "지력 <font color=\"red\">15</font>%<br/>시작 시 '<font color=\"purple\">감성</font>'과 '<font color=\"blue\">이성</font>' <font color=\"red\">2</font>스택 보유<br/>보유한 <font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힌 후 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군 <font color=\"green\">생명 회복</font><br/>지력 <font color=\"red\">2.5</font>배 수치<br/>보유한 <font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힐 시 전투 전 적에게 <font color=\"blue\">고정피해</font><br/>(지력 <font color=\"red\">1.1</font>배 수치)<br/>다른 아군이 선공을 하고 행동 종료 시 <font color=\"blue\">이성</font> <font color=\"red\">1</font>개를 <font color=\"purple\">감성</font>으로 전환<br/>아닐 경우 <font color=\"purple\">감성</font> <font color=\"red\">1</font>개를 <font color=\"blue\">이성</font>으로 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>은 <b>해제 및 면역 불가</b><br/>최대 <font color=\"red\">4</font>스택 누적"
+          "Desc": "지력 <font color=\"red\">15%</font><br/>시작 시 '<font color=\"purple\">감성</font>'과 '<font color=\"blue\">이성</font>' <font color=\"red\">2</font>스택 보유<br/>보유한 <font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힌 후 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군 <font color=\"green\">생명 회복</font><br/>지력 <font color=\"red\">2.5</font>배 수치<br/>보유한 <font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힐 시 전투 전 적에게 <font color=\"blue\">고정피해</font><br/>(지력 <font color=\"red\">1.1</font>배 수치)<br/>다른 아군이 선공을 하고 행동 종료 시 <font color=\"blue\">이성</font> <font color=\"red\">1</font>개를 <font color=\"purple\">감성</font>으로 전환<br/>아닐 경우 <font color=\"purple\">감성</font> <font color=\"red\">1</font>개를 <font color=\"blue\">이성</font>으로 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>은 <b>해제 및 면역 불가</b><br/>최대 <font color=\"red\">4</font>스택 누적"
         },
         {
-          "Desc": "지력 <font color=\"red\">20</font>%<br/>시작 시 '<font color=\"purple\">감성</font>'과 '<font color=\"blue\">이성</font>' <font color=\"red\">2</font>스택 보유<br/>보유한 <font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힌 후 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군 <font color=\"green\">생명 회복</font><br/>지력 <font color=\"red\">3</font>배 수치<br/>보유한 <font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힐 시 전투 전 적에게 <font color=\"blue\">고정피해</font><br/>(지력 <font color=\"red\">1.5</font>배 수치)<br/>다른 아군이 선공을 하고 행동 종료 시 <font color=\"blue\">이성</font> <font color=\"red\">1</font>개를 <font color=\"purple\">감성</font>으로 전환<br/>아닐 경우 <font color=\"purple\">감성</font> <font color=\"red\">1</font>개를 <font color=\"blue\">이성</font>으로 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>은 <b>해제 및 면역 불가</b><br/>최대 <font color=\"red\">4</font>스택 누적"
+          "Desc": "지력 <font color=\"red\">20%</font><br/>시작 시 '<font color=\"purple\">감성</font>'과 '<font color=\"blue\">이성</font>' <font color=\"red\">2</font>스택 보유<br/>보유한 <font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힌 후 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군 <font color=\"green\">생명 회복</font><br/>지력 <font color=\"red\">3</font>배 수치<br/>보유한 <font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font>, 선공으로 피해를 입힐 시 전투 전 적에게 <font color=\"blue\">고정피해</font><br/>(지력 <font color=\"red\">1.5</font>배 수치)<br/>다른 아군이 선공을 하고 행동 종료 시 <font color=\"blue\">이성</font> <font color=\"red\">1</font>개를 <font color=\"purple\">감성</font>으로 전환<br/>아닐 경우 <font color=\"purple\">감성</font> <font color=\"red\">1</font>개를 <font color=\"blue\">이성</font>으로 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>은 <b>해제 및 면역 불가</b><br/>최대 <font color=\"red\">4</font>스택 누적"
         }
       ]
     }
@@ -80,7 +80,7 @@
     "Name": "침묵의 고백(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "투어밀크.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>턴 시작 시, <font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font> 중 많은 쪽이 다른 쪽으로 <font color=\"red\">1</font>개 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>의 차이가 적을 수록 영웅이 <font color=\"blue\">주는 피해량</font> 증가<br/> 최대 <font color=\"red\">+10</font>%"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>턴 시작 시, <font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font> 중 많은 쪽이 다른 쪽으로 <font color=\"red\">1</font>개 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>의 차이가 적을 수록 영웅이 <font color=\"blue\">주는 피해량</font> 증가<br/> 최대 <font color=\"red\">+10</font>%"
   },
   "Soldiers": [
     43,
@@ -120,8 +120,8 @@
       "MagicDefRate": 85,
       "Skill": 96,
       "SkillRate": 28,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80</font>% 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "미지의 세계를 향한 찬송",
@@ -418,7 +418,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BreakEvil.webp",
-      "Desc": "치명타율 <font color=\"red\">+15</font>%<br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
+      "Desc": "치명타율 <font color=\"red\">+15%</font><br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -444,7 +444,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Tourmilk/2.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배 피해<br/>자신이 보유한 <font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font>의 수량에 따라 추가 효과<br/><font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군이 보유한 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 적 마방 <font color=\"red\">20</font>% <font color=\"blue\">무시</font>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배 피해<br/>자신이 보유한 <font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font>의 수량에 따라 추가 효과<br/><font color=\"purple\">감성</font>이 <font color=\"blue\">이성</font> 이상일 경우 행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군이 보유한 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><font color=\"blue\">이성</font>이 <font color=\"purple\">감성</font> 이상일 경우 적 마방 <font color=\"red\">20%</font> <font color=\"blue\">무시</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -458,7 +458,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakMDef.webp",
-      "Desc": "[패시브]행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20</font>% <br/><font color =\"red\">1</font>행동 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 <font color =\"red\">3</font>칸 내 모든 적 부대 마방 <font color =\"red\">-20%</font> <br/><font color =\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -536,7 +536,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_HolySuper.webp",
-      "Desc": "치명타 확률 <font color =\"red\">+50</font>% <br/>주위 <font color =\"red\">5</font>칸 내 모든 적에게 <font color =\"red\">0.35</font>배 범위 피해<br/>'마족'에게 더 큰 피해를 준다.",
+      "Desc": "치명타 확률 <font color =\"red\">+50%</font> <br/>주위 <font color =\"red\">5</font>칸 내 모든 적에게 <font color =\"red\">0.35</font>배 범위 피해<br/>'마족'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },

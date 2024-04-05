@@ -95,19 +95,19 @@
           "Desc": "1성"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+5</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">3</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+5%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">3</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+7</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">3</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+7%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">3</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+10</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">2</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+10%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">2</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+12</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">2</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+12%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">2</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+15</font>%<br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+15%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
         }
       ]
     }
@@ -117,7 +117,7 @@
     "Name": "발키리의 샛별(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "나암.webp",
-    "Ability": "마방 <font color =\"red\">+10</font>% <br/>영웅의 <font color =\"purple\">고유기술</font> 쿨타임 <font color=\"red\">-1</font>"
+    "Ability": "마방 <font color =\"red\">+10%</font> <br/>영웅의 <font color =\"purple\">고유기술</font> 쿨타임 <font color=\"red\">-1</font>"
   },
   "Soldiers": [
     15,

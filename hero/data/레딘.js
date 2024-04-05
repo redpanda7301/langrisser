@@ -98,23 +98,23 @@
           "Desc": "2성"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-10</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">30</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-10%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">30%</font> 확률로 <font color=\"blue\">>선제 공격</font>"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-15</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">40</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-15%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">40%</font> 확률로 <font color=\"blue\">>선제 공격</font>"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-20</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">50</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-20%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">50%</font> 확률로 <font color=\"blue\">>선제 공격</font>"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-25</font>%<br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">70</font>% 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-25%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">70%</font> 확률로 <font color=\"blue\">>선제 공격</font>"
         }
       ]
     }
   ],
   "Second_Awaken": {
     "Name" : "움켜쥔 신의 빛",
-    "Stats": "영웅이 주는 피해량<font color=\"red\">+10</font>%<br/>주위 <font color=\"red\">2</font>칸 범위 안에 아군 <font color=\"red\">2</font>명 이상 있을 경우, <font color=\"blue\">정의의 대결</font> 사거리 <font color=\"red\">+1</font>"
+    "Stats": "영웅이 주는 피해량<font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위 안에 아군 <font color=\"red\">2</font>명 이상 있을 경우, <font color=\"blue\">정의의 대결</font> 사거리 <font color=\"red\">+1</font>"
   },
   "Equip": {
     "Name": "신앙의 시련(무기)",
@@ -865,7 +865,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/레딘/1.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.4</font>배의 피해<br/>대상이 마물일 경우 전투 전 적에게 받는 피해 <font color=\"Red\">+20</font>% 효과 부여<br/>지속 <font color=\"Red\">2</font>행동<br/>전투 후<font color=\"red\">30</font>% 수치 <font color=\"green\">생명 회복</font><br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/><font color=\"blue\">근접전 패널티 무효화</font>",
+      "Desc": "단일 개체 <font color=\"red\">1.4</font>배의 피해<br/>대상이 마물일 경우 전투 전 적에게 받는 피해 <font color=\"Red\">+20%</font> 효과 부여<br/>지속 <font color=\"Red\">2</font>행동<br/>전투 후<font color=\"red\">30%</font> 수치 <font color=\"green\">생명 회복</font><br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/><font color=\"blue\">근접전 패널티 무효화</font>",
       "SubSkills": null,
       "Animation": null
     },

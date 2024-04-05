@@ -77,7 +77,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "용사의 자질",
-    "Stats": "공격,치명타 확률 <font color=\"red\">+5</font>%<br/>자신이 방어 지형에 있는 상태에서 <font color=\"purple\">독행 용사</font> 효과 발동 시 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 추가 <font color=\"blue\">강탈</font>",
+    "Stats": "공격,치명타 확률 <font color=\"red\">+5%</font><br/>자신이 방어 지형에 있는 상태에서 <font color=\"purple\">독행 용사</font> 효과 발동 시 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 추가 <font color=\"blue\">강탈</font>",
   },
   "Equip": {
     "Name": "위대한 왕의 증표(투구)",
@@ -535,7 +535,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/올리버.webp",
-      "Desc": "호위 무시 단일 개체 <font color=\"red\">1.3</font>배 피해, 기술 <font color=\"red\">+30</font>% <br/>전투 후 적 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 강탈 <br/>적 격파시 <font color=\"blue\">재이동</font> <font color =\"red\">3</font>칸 및 쿨타임 <font color =\"red\">-3</font>",
+      "Desc": "호위 무시 단일 개체 <font color=\"red\">1.3</font>배 피해, 기술 <font color=\"red\">+30%</font> <br/>전투 후 적 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 강탈 <br/>적 격파시 <font color=\"blue\">재이동</font> <font color =\"red\">3</font>칸 및 쿨타임 <font color =\"red\">-3</font>",
       "SubSkills": null,
       "Animation": "../img/Super/올리버_Ani.webp"
     }

@@ -113,7 +113,7 @@
   ],
   "Second_Awaken": {
     "Name" : "강철 가시",
-    "Stats": "모든 능력치 <font color=\"red\">+5</font>%<br/><font color =\"blue\">장미의 진</font> 획득 시, 방어의 기초 수치가 마방보다 높을 경우, <font color =\"blue\">창진</font> 역시 획득<br/>반대일 경우 <font color =\"blue\">강철 장미</font> 획득"
+    "Stats": "모든 능력치 <font color=\"red\">+5%</font><br/><font color =\"blue\">장미의 진</font> 획득 시, 방어의 기초 수치가 마방보다 높을 경우, <font color =\"blue\">창진</font> 역시 획득<br/>반대일 경우 <font color =\"blue\">강철 장미</font> 획득"
   },
   "Equip": {
     "Name": "가시 왕관(투구)",
@@ -880,7 +880,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/프레아.webp",
-      "Desc": "[패시브]<b>인접한 아군이 받는 모든 피해를 대신 받는다. <font color=\"blue\">치료 불가</font> 면역</b><br/>[액티브]호위 범위가 <font color =\"red\">2</font>칸으로 증가 '<font color =\"blue\">장미의 진</font>'효과 획득 <br/><font color =\"blue\">장미의 진</font> : 전투 종료 후 <font color =\"blue\">수정 가시</font>의 <b><font color=\"blue\">고정 피해</font>가 반드시 발동한다.</b><br/>[초절강화]범위 내 모든 '<font color=\"green\">빛의 기원</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승 및 <br/><b>전투 진입 시 피해량 <font color=\"red\">+12</font>% <br/>자신의 부대가 혼합 부대가 아닐 경우 추가 피해 <font color=\"red\">+5</font>%",
+      "Desc": "[패시브]<b>인접한 아군이 받는 모든 피해를 대신 받는다. <font color=\"blue\">치료 불가</font> 면역</b><br/>[액티브]호위 범위가 <font color =\"red\">2</font>칸으로 증가 '<font color =\"blue\">장미의 진</font>'효과 획득 <br/><font color =\"blue\">장미의 진</font> : 전투 종료 후 <font color =\"blue\">수정 가시</font>의 <b><font color=\"blue\">고정 피해</font>가 반드시 발동한다.</b><br/>[초절강화]범위 내 모든 '<font color=\"green\">빛의 기원</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승 및 <br/><b>전투 진입 시 피해량 <font color=\"red\">+12%</font> <br/>자신의 부대가 혼합 부대가 아닐 경우 추가 피해 <font color=\"red\">+5</font>%",
       "SubSkills": null,
       "Animation": "../img/Super/프레아_Ani.webp"
     }

@@ -52,19 +52,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10%</font> 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10%</font> 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10%</font> 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10%</font> 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
         },
         {
-          "Desc": "행동 종료 시 주위 <font color=\"red\">4</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10</font>% 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
+          "Desc": "행동 종료 시 주위 <font color=\"red\">4</font>칸 내 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여.<br/><b>전투 진입 전</b> 적에게 무작위 디버프 <font color=\"red\">3</font>개 부여 <br/>만약 적이 디버프 <font color=\"red\">5</font>개 이상일 경우 <br/>적을 <font color=\"purple\">격노</font>시켜 해당 전투 동안 <b>적에게 주는 <font color=\"red\">+10%</font> 부여</b> 및 자신에게 받는 피해량<font color=\"red\">+20</font>%"
         }
       ]
     }
@@ -132,7 +132,7 @@
       "Skill": 95,
       "SkillRate": 27,
       "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/> 받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">50</font>% 미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">50%</font> 미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -348,7 +348,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "단일 개체에게 <font color=\"Red\">1.3</font>배 피해 <br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"Red\">2</font>개 <font color=\"blue\">제거</font> 동시에 적의 <font color=\"blue\">공격 및 지력</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.3</font>배 피해 <br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"Red\">2</font>개 <font color=\"blue\">제거</font> 동시에 적의 <font color=\"blue\">공격 및 지력</font> <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -388,7 +388,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IronHand.webp",
-      "Desc": "[패시브]인접한 아군 부대의 물리 공격를 <font color=\"blue\">호위</font><br/>[액티브]<font color=\"blue\">호위</font> 범위가 <font color=\"Red\">2</font>칸으로 늘어나며 공격 <font color=\"Red\">+20</font>%,<br/>'<font color=\"blue\">응수</font>' 효과 획득<br/>지속 <font color=\"Red\">2</font>행동 ",
+      "Desc": "[패시브]인접한 아군 부대의 물리 공격를 <font color=\"blue\">호위</font><br/>[액티브]<font color=\"blue\">호위</font> 범위가 <font color=\"Red\">2</font>칸으로 늘어나며 공격 <font color=\"Red\">+20%</font>,<br/>'<font color=\"blue\">응수</font>' 효과 획득<br/>지속 <font color=\"Red\">2</font>행동 ",
       "SubSkills": null,
       "Animation": null
     },
@@ -402,7 +402,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Shinpachi/1.webp",
-      "Desc": "선공으로 전투 진입 시 받는 피해 <font color =\"red\">-20</font>% <br/><b>적을 격파하지 못했을 경우 전투 후</b> <font color =\"blue\">위치 이동</font> <br/>(<b>자신을 적 반대 방향으로</b> <font color =\"red\">3</font>칸 이동, <font color =\"blue\">위치 이동</font> 효과는 <b>면역 불가</b>)",
+      "Desc": "선공으로 전투 진입 시 받는 피해 <font color =\"red\">-20%</font> <br/><b>적을 격파하지 못했을 경우 전투 후</b> <font color =\"blue\">위치 이동</font> <br/>(<b>자신을 적 반대 방향으로</b> <font color =\"red\">3</font>칸 이동, <font color =\"blue\">위치 이동</font> 효과는 <b>면역 불가</b>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -428,7 +428,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해<br/>전투 후 입힌 피해량 <font color=\"red\">30</font>% 만큼 <font color=\"green\">생명 회복</font>한다.",
+      "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해<br/>전투 후 입힌 피해량 <font color=\"red\">30%</font> 만큼 <font color=\"green\">생명 회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -454,7 +454,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_PHeal2.webp",
-      "Desc": "자신 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font>한다.",
+      "Desc": "자신 부대 생명을 <font color=\"red\">100%</font> <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -494,7 +494,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Shinpachi/2.webp",
-      "Desc": "[패시브]<b>피격으로 전투 진입 전 <font color =\"red\">20</font>% 확률로 쌍방 부대 <font color =\"blue\">공격 불가</font></b><br/>쿨타임 <font color =\"red\">1</font>행동 <br/>[액티브]자신의 부대 생명 <font color =\"red\">100</font>% <font color=\"green\">회복</font> <br/>자신이 적의 <font color=\"blue\">일반 공격</font> 및 <font color=\"blue\">스킬 타게팅</font> 대상으로 지정되지 않음</b><br/>지속 <font color =\"red\">1</font>행동<br/><b>해제 불가</b>",
+      "Desc": "[패시브]<b>피격으로 전투 진입 전 <font color =\"red\">20%</font> 확률로 쌍방 부대 <font color =\"blue\">공격 불가</font></b><br/>쿨타임 <font color =\"red\">1</font>행동 <br/>[액티브]자신의 부대 생명 <font color =\"red\">100%</font> <font color=\"green\">회복</font> <br/>자신이 적의 <font color=\"blue\">일반 공격</font> 및 <font color=\"blue\">스킬 타게팅</font> 대상으로 지정되지 않음</b><br/>지속 <font color =\"red\">1</font>행동<br/><b>해제 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -520,7 +520,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/신파치.webp",
-      "Desc": "[패시브]받는 피해량 <font color =\"red\">-15</font>%, 인접한 아군의 모든 공격을 <font color=\"blue\">호위</font><br/>[액티브]목표 아군과 가장 가까운 곳으로 <font color=\"blue\">순간이동</font> 후 대상에게 <font color=\"blue\">피격 범위 피해량</font> <font color =\"red\">-20</font>% 및 <font color =\"blue\">디버프 면역</font> <br/>지속 <font color=\"red\">2</font>행동 <br/><font color =\"blue\">호위</font> 범위 <font color=\"red\">2</font>칸으로 확장<br/>지속 <font color=\"red\">3</font>행동",
+      "Desc": "[패시브]받는 피해량 <font color =\"red\">-15%</font>, 인접한 아군의 모든 공격을 <font color=\"blue\">호위</font><br/>[액티브]목표 아군과 가장 가까운 곳으로 <font color=\"blue\">순간이동</font> 후 대상에게 <font color=\"blue\">피격 범위 피해량</font> <font color =\"red\">-20%</font> 및 <font color =\"blue\">디버프 면역</font> <br/>지속 <font color=\"red\">2</font>행동 <br/><font color =\"blue\">호위</font> 범위 <font color=\"red\">2</font>칸으로 확장<br/>지속 <font color=\"red\">3</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/신파치_Ani.webp"
     }

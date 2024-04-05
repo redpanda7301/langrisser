@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+10</font>%<br/>선공으로 피해를 입힌 후, 적에게 <font color=\"red\">1</font>개의 '<font color=\"purple\">검은 깃털</font>' 효과 부여<br/>지속 <font color=\"red\">3</font>행동<br/>최대 <font color=\"red\">3</font>중첩<br/>추가 될 때마다 지속 시간 초기화<br/>1) <font color=\"red\">1</font>개 : 타브리스와 교전 시, <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20</font>%<br/>2) <font color=\"red\">2</font>개 : 타브리스의 스킬 타겟이 될 경우<br/>타브리스가 해당 목표 주위의 빈칸으로 <font color=\"blue\">텔레포트</font> 후 스킬 사용<br/>3) <font color=\"red\">3</font>개 : 타브리스에게 공격 받을 시, <font color=\"blue\">반격 불가</font>" 
+          "Desc": "공격, 방어 <font color=\"red\">+10%</font><br/>선공으로 피해를 입힌 후, 적에게 <font color=\"red\">1</font>개의 '<font color=\"purple\">검은 깃털</font>' 효과 부여<br/>지속 <font color=\"red\">3</font>행동<br/>최대 <font color=\"red\">3</font>중첩<br/>추가 될 때마다 지속 시간 초기화<br/>1) <font color=\"red\">1</font>개 : 타브리스와 교전 시, <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font><br/>2) <font color=\"red\">2</font>개 : 타브리스의 스킬 타겟이 될 경우<br/>타브리스가 해당 목표 주위의 빈칸으로 <font color=\"blue\">텔레포트</font> 후 스킬 사용<br/>3) <font color=\"red\">3</font>개 : 타브리스에게 공격 받을 시, <font color=\"blue\">반격 불가</font>" 
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+15</font>%<br/>선공으로 피해를 입힌 후, 적에게 <font color=\"red\">1</font>개의 '<font color=\"purple\">검은 깃털</font>' 효과 부여<br/>지속 <font color=\"red\">3</font>행동<br/>최대 <font color=\"red\">3</font>중첩<br/>추가 될 때마다 지속 시간 초기화<br/>1) <font color=\"red\">1</font>개 : 타브리스와 교전 시, <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20</font>%<br/>2) <font color=\"red\">2</font>개 : 타브리스의 스킬 타겟이 될 경우<br/>타브리스가 해당 목표 주위의 빈칸으로 <font color=\"blue\">텔레포트</font> 후 스킬 사용<br/>3) <font color=\"red\">3</font>개 : 타브리스에게 공격 받을 시, <font color=\"blue\">반격 불가</font>"
+          "Desc": "공격, 방어 <font color=\"red\">+15%</font><br/>선공으로 피해를 입힌 후, 적에게 <font color=\"red\">1</font>개의 '<font color=\"purple\">검은 깃털</font>' 효과 부여<br/>지속 <font color=\"red\">3</font>행동<br/>최대 <font color=\"red\">3</font>중첩<br/>추가 될 때마다 지속 시간 초기화<br/>1) <font color=\"red\">1</font>개 : 타브리스와 교전 시, <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font><br/>2) <font color=\"red\">2</font>개 : 타브리스의 스킬 타겟이 될 경우<br/>타브리스가 해당 목표 주위의 빈칸으로 <font color=\"blue\">텔레포트</font> 후 스킬 사용<br/>3) <font color=\"red\">3</font>개 : 타브리스에게 공격 받을 시, <font color=\"blue\">반격 불가</font>"
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+20</font>%<br/>선공으로 피해를 입힌 후, 적에게 <font color=\"red\">2</font>개의 '<font color=\"purple\">검은 깃털</font>' 효과 부여<br/>지속 <font color=\"red\">3</font>행동<br/>최대 <font color=\"red\">3</font>중첩<br/>추가 될 때마다 지속 시간 초기화<br/>1) <font color=\"red\">1</font>개 : 타브리스와 교전 시, <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20</font>%<br/>2) <font color=\"red\">2</font>개 : 타브리스의 스킬 타겟이 될 경우<br/>타브리스가 해당 목표 주위의 빈칸으로 <font color=\"blue\">텔레포트</font> 후 스킬 사용<br/>3) <font color=\"red\">3</font>개 : 타브리스에게 공격 받을 시, <font color=\"blue\">반격 불가</font>"
+          "Desc": "공격, 방어 <font color=\"red\">+20%</font><br/>선공으로 피해를 입힌 후, 적에게 <font color=\"red\">2</font>개의 '<font color=\"purple\">검은 깃털</font>' 효과 부여<br/>지속 <font color=\"red\">3</font>행동<br/>최대 <font color=\"red\">3</font>중첩<br/>추가 될 때마다 지속 시간 초기화<br/>1) <font color=\"red\">1</font>개 : 타브리스와 교전 시, <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font><br/>2) <font color=\"red\">2</font>개 : 타브리스의 스킬 타겟이 될 경우<br/>타브리스가 해당 목표 주위의 빈칸으로 <font color=\"blue\">텔레포트</font> 후 스킬 사용<br/>3) <font color=\"red\">3</font>개 : 타브리스에게 공격 받을 시, <font color=\"blue\">반격 불가</font>"
         },
         {
-          "Desc": "공격, 방어 <font color=\"red\">+25</font>%<br/>선공으로 피해를 입힌 후, 적에게 <font color=\"red\">2</font>개의 '<font color=\"purple\">검은 깃털</font>' 효과 부여<br/>지속 <font color=\"red\">3</font>행동<br/>최대 <font color=\"red\">3</font>중첩<br/>추가 될 때마다 지속 시간 초기화<br/>1) <font color=\"red\">1</font>개 : 타브리스와 교전 시, <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20</font>%<br/>2) <font color=\"red\">2</font>개 : 타브리스의 스킬 타겟이 될 경우<br/>타브리스가 해당 목표 주위의 빈칸으로 <font color=\"blue\">텔레포트</font> 후 스킬 사용<br/>3) <font color=\"red\">3</font>개 : 타브리스에게 공격 받을 시, <font color=\"blue\">반격 불가</font>"
+          "Desc": "공격, 방어 <font color=\"red\">+25%</font><br/>선공으로 피해를 입힌 후, 적에게 <font color=\"red\">2</font>개의 '<font color=\"purple\">검은 깃털</font>' 효과 부여<br/>지속 <font color=\"red\">3</font>행동<br/>최대 <font color=\"red\">3</font>중첩<br/>추가 될 때마다 지속 시간 초기화<br/>1) <font color=\"red\">1</font>개 : 타브리스와 교전 시, <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font><br/>2) <font color=\"red\">2</font>개 : 타브리스의 스킬 타겟이 될 경우<br/>타브리스가 해당 목표 주위의 빈칸으로 <font color=\"blue\">텔레포트</font> 후 스킬 사용<br/>3) <font color=\"red\">3</font>개 : 타브리스에게 공격 받을 시, <font color=\"blue\">반격 불가</font>"
         }
       ]
     }
@@ -144,7 +144,7 @@
       "MagicDefRate": 60,
       "Skill": 150,
       "SkillRate": 43,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70</font>% 미만 시<br/>전투 진입 후 받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 받는 피해 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한  적과 교전시<br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
@@ -187,7 +187,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -213,7 +213,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Tabres/1.webp",
-      "Desc": "단일 개체 아군에게 '선공으로 피해를 입힌 후, 적에게 검은 깃털 <font color=\"red\">1</font>개 부여' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 자신은 '<font color=\"blue\">역광에 깃들어</font>' 효과 획득<br/><font color=\"blue\">역광에 깃들어</font> : 부대 생명 <font color=\"red\">80</font>% 이상 시, <font color=\"blue\">적의 일반 공격 및 스킬 타겟이 되지 않음</font><br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "단일 개체 아군에게 '선공으로 피해를 입힌 후, 적에게 검은 깃털 <font color=\"red\">1</font>개 부여' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 자신은 '<font color=\"blue\">역광에 깃들어</font>' 효과 획득<br/><font color=\"blue\">역광에 깃들어</font> : 부대 생명 <font color=\"red\">80%</font> 이상 시, <font color=\"blue\">적의 일반 공격 및 스킬 타겟이 되지 않음</font><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -239,7 +239,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash2.webp",
-      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%<br/>지속 <font color =\"red\">2</font>행동",
+      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <b>생명이 <font color =\"red\">50%</font> 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15%</font><br/>지속 <font color =\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -253,7 +253,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_FlyControl.webp",
-      "Desc": "[패시브]생명이 <font color=\"red\">50</font>% 이상인 경우 전투 진입시 <font color=\"blue\">받는 모든 피해량</font> <font color=\"red\">-15</font>%.",
+      "Desc": "[패시브]생명이 <font color=\"red\">50%</font> 이상인 경우 전투 진입시 <font color=\"blue\">받는 모든 피해량</font> <font color=\"red\">-15</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -319,7 +319,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30</font>% 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -371,7 +371,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/타브리스.webp",
-      "Desc": "[패시브]아군 사망시, 피해를 입힌 자에게 <font color=\"purple\">검은 깃털</font> <font color=\"red\">2</font>개 부여<br/>[물리 피해] <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.15</font>배 피해 및 다른 아군 최대 생명 <font color=\"red\">30</font>% 수치 <font color=\"green\">회복</font>.<br/>그 후 자신은 '<font color=\"blue\">광복의 새벽</font>' 효과 획득<br/>스킬 사용후 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font>.",
+      "Desc": "[패시브]아군 사망시, 피해를 입힌 자에게 <font color=\"purple\">검은 깃털</font> <font color=\"red\">2</font>개 부여<br/>[물리 피해] <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.15</font>배 피해 및 다른 아군 최대 생명 <font color=\"red\">30%</font> 수치 <font color=\"green\">회복</font>.<br/>그 후 자신은 '<font color=\"blue\">광복의 새벽</font>' 효과 획득<br/>스킬 사용후 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font>.",
       "SubSkills": [
         {
           "Name": "광복의 새벽",

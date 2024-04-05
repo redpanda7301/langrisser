@@ -65,27 +65,30 @@
           "Desc": "2성"
         },
         {
-          "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+15</font>%<br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.1</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
+          "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+15%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.1</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
         },
         {
-          "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+20</font>%<br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.12</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
+          "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+20%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.12</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
         },
         {
-          "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">40</font>% <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+25</font>%<br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.15</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
+          "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">40%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+25%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.15</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
         },
         {
-          "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">50</font>% <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+30</font>%<br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.2</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
+          "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">50%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+30%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.2</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
         }
       ]
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "원한을 끊는 칼날",
+    "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"purple\">복수의 사슬</font>을 보유한 적을 <font color=\"blue\"끝없는 사냥</font>으로 공격 시, 자신의 모든 스킬 쿨타임 <font color=\"red\">-2</font><br/>적 격파 시 추가로 <font color=\"red\">-1</font>"
+  },
   "Equip": {
     "Name": "방랑의 죽음(갑옷)",
     "Stats": "생명 509,방어 59",
     "Icon": "방랑투사.webp",
-    "Ability": "방어 <font color=\"red\">+10</font>%<br/>선공으로 전투 진입 시 부대가 받는 피해 <font color=\"red\">-30</font>%<br/>목표에게 <font color=\"purple\">복수의 사슬</font>이 있는 경우 추가 피해 <font color=\"red\">+20</font>%"
+    "Ability": "방어 <font color=\"red\">+10%</font><br/>선공으로 전투 진입 시 부대가 받는 피해 <font color=\"red\">-30%</font><br/>목표에게 <font color=\"purple\">복수의 사슬</font>이 있는 경우 추가 피해 <font color=\"red\">+20</font>%"
   },
   "Soldiers": [
     25,
@@ -163,7 +166,7 @@
       "Skill": 171,
       "SkillRate": 42,
       "HeartFetterBouns1": "피격으로 전투 진입 시 <br/>받는 마법 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70</font>% 미만 시 <br/>전투 진입시 주는 피해량<font color=\"Red\">+10</font>%"
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70%</font> 미만 시 <br/>전투 진입시 주는 피해량<font color=\"Red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -384,7 +387,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.webp",
-      "Desc": "단일 개체 1.5배의 피해<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%,지속 <font color=\"red\">2</font>행동.",
+      "Desc": "단일 개체 1.5배의 피해<br/>전투 후, 적 방어 <font color=\"red\">-30%</font>,지속 <font color=\"red\">2</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -410,7 +413,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Duelist/1.webp",
-      "Desc": "목표 <font color=\"red\">2</font>명에게 <font color=\"purple\">복수의 사슬</font> 효과 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+20</font>%<br/><b>면역 및 해제 불가</b><br/>해당 스킬은 자신이 보유한 버프 지속 시간을 소모하지 않음<br/><font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>",
+      "Desc": "목표 <font color=\"red\">2</font>명에게 <font color=\"purple\">복수의 사슬</font> 효과 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+20%</font><br/><b>면역 및 해제 불가</b><br/>해당 스킬은 자신이 보유한 버프 지속 시간을 소모하지 않음<br/><font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>",
       "SubSkills": null,
       "Animation": null
     },
@@ -424,7 +427,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -438,7 +441,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefDown.webp",
-      "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 방어 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 방어 <font color=\"red\">-15%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -490,7 +493,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_PHeal2.webp",
-      "Desc": "자신 부대 생명을 <font color=\"red\">100</font>% <font color=\"green\">회복</font>한다.",
+      "Desc": "자신 부대 생명을 <font color=\"red\">100%</font> <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -530,7 +533,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_FlyControl.webp",
-      "Desc": "부대 생명이 <font color=\"red\">50</font>% 이상인 경우<br/>전투 진입시 받는 모든 피해량 <font color=\"red\">-15</font>%.",
+      "Desc": "부대 생명이 <font color=\"red\">50%</font> 이상인 경우<br/>전투 진입시 받는 모든 피해량 <font color=\"red\">-15</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -556,7 +559,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/방랑투사.webp",
-      "Desc": "[패시브] 사망 시 부대 생명 <font color=\"red\">20</font>% 수치로 <font color=\"blue\">부활</font><br/>전투 중 <font color=\"red\">1</font>번만 발동<br/>[물리피해]단일 개체 <font color=\"red\">1.7</font>배 피해, 전투 후 피해량 <font color=\"red\">30</font>% 수치로 <font color=\"green\">생명 회복</font> 및 <br/>목표와 <font color=\"purple\">복수의 사슬</font>을 보유한 모든 적에게 <font color=\"blue\">치료 불가</font> 및 <font color=\"blue\">치명타 확률</font> <font color=\"red\">-20</font>% 효과 부여<br/> 지속 <font color=\"red\">2</font>행동",
+      "Desc": "[패시브] 사망 시 부대 생명 <font color=\"red\">20%</font> 수치로 <font color=\"blue\">부활</font><br/>전투 중 <font color=\"red\">1</font>번만 발동<br/>[물리피해]단일 개체 <font color=\"red\">1.7</font>배 피해, 전투 후 피해량 <font color=\"red\">30%</font> 수치로 <font color=\"green\">생명 회복</font> 및 <br/>목표와 <font color=\"purple\">복수의 사슬</font>을 보유한 모든 적에게 <font color=\"blue\">치료 불가</font> 및 <font color=\"blue\">치명타 확률</font> <font color=\"red\">-20%</font> 효과 부여<br/> 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/방랑투사_Ani.webp"
     }

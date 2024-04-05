@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+8</font>% <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">90</font>%를 따라감"
+          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+8%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">90</font>%를 따라감"
         },
         {
-          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+12</font>% <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">105</font>%를 따라감"
+          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+12%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">105</font>%를 따라감"
         },
         {
-          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+16</font>% <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">110</font>%를 따라감"
+          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+16%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">110</font>%를 따라감"
         },
         {
-          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+20</font>% <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">120</font>%를 따라감"
+          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+20%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">120</font>%를 따라감"
         }
       ]
     }
@@ -85,13 +85,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "빛의 거울의 성찬식",
-    "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">성광의 거울</font> 지속 시간 <font color=\"red\">+1</font> 및 '행동 종료 시 지력 <font color=\"red\">1.5</font>배 수치 생명 <font color=\"green\">회복</font>' 효과 추가"
+    "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">성광의 거울</font> 지속 시간 <font color=\"red\">+1</font> 및 '행동 종료 시 지력 <font color=\"red\">1.5</font>배 수치 생명 <font color=\"green\">회복</font>' 효과 추가"
   },
   "Equip": {
     "Name": "경건한 신의 축복(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "엘마.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"blue\">성스러운 빛의 등불</font> <font color=\"green\">치료 효과</font> <font color=\"red\">+20</font>%<br/>자신에게 <font color=\"blue\">초절 특수 효과</font>가 있을 경우 '<font color=\"blue\">성광의 거울</font>' 효과 <b>해제 불가</b>"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">성스러운 빛의 등불</font> <font color=\"green\">치료 효과</font> <font color=\"red\">+20%</font><br/>자신에게 <font color=\"blue\">초절 특수 효과</font>가 있을 경우 '<font color=\"blue\">성광의 거울</font>' 효과 <b>해제 불가</b>"
   },
   "Soldiers": [
     17,
@@ -171,7 +171,7 @@
       "MagicDefRate": 81,
       "Skill": 85,
       "SkillRate": 25,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70</font>% 미만일 경우 <br/>받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만일 경우 <br/>받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "디버프가 걸린 적과 전투시 <br/>주는 피해량 <font color=\"red\">+10</font>"
     }
   ],
@@ -673,7 +673,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/22.webp",
-      "Desc": "부대 생명이 <font color =\"red\">90</font>% 이상일 시 지력, 마방 <font color =\"red\">+10</font>%.",
+      "Desc": "부대 생명이 <font color =\"red\">90%</font> 이상일 시 지력, 마방 <font color =\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -725,7 +725,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/엘마.webp",
-      "Desc": "범위 내 부대 주는 피해량 <font color=\"red\">+15</font>%, 받는 피해량 <font color=\"red\">-15</font>% 효과 부여 <br/>(지속 <font color=\"red\">2</font>행동) <br/> 시전자 지력 <font color=\"red\">3</font>배 수치 <font color=\"blue\">생명 회복</font> 및 자신은 '<font color=\"blue\">성광의 거울</font>' 지휘 효과 획득 <br/>[지휘]자신 주위 <font color=\"red\">3</font>칸 범위 내 모든 아군에게 <font color=\"blue\">치료 불가</font>면역 <br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 부대 주는 피해량 <font color=\"red\">+15%</font>, 받는 피해량 <font color=\"red\">-15%</font> 효과 부여 <br/>(지속 <font color=\"red\">2</font>행동) <br/> 시전자 지력 <font color=\"red\">3</font>배 수치 <font color=\"blue\">생명 회복</font> 및 자신은 '<font color=\"blue\">성광의 거울</font>' 지휘 효과 획득 <br/>[지휘]자신 주위 <font color=\"red\">3</font>칸 범위 내 모든 아군에게 <font color=\"blue\">치료 불가</font>면역 <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/엘마_Ani.webp"
     }

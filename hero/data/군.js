@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+15</font>% 전투 후 피해량 <font color=\"red\">+15</font>% 수치 생명 <font color=\"green\">회복</font><br/>처음에 '<font color=\"purple\">월랑의 힘</font>'을 보유<br/><font color=\"purple\">월랑의 힘</font> : 이동력 <font color=\"red\">+2</font>, 사망 시 <font color=\"red\">20</font>% 생명으로 <font color=\"blue\">부활</font><br/>해당 효과는 부활 시 '<font color=\"purple\">복수하는 고독한 늑대</font>'로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font> : 선공으로 전투 진입 시, 영웅 추가 공격 <font color=\"red\">1</font>회 및 부대가 반격을 받지 않고 <font color=\"blue\">피해 반사량</font> <font color=\"red\">100</font>% 감소<br/><b>다른 아군의 치료를 받을 수 없음</b>(디메리트)<br/><br/>부대 생명 <font color=\"red\">80</font>% 이상으로 행동 종료 시, 해당 효과는 <font color=\"purple\">월랑의 힘</font>으로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font>의 효과가 사라질 떄마다, 자신의 <font color=\"green\">치료</font> 효과 <font color=\"red\">-30</font>%, 중첩 가능<br/>상술 효과는 모두 면역 및 해제 불가"
+          "Desc": "주는 피해량 <font color=\"red\">+15%</font> 전투 후 피해량 <font color=\"red\">+15%</font> 수치 생명 <font color=\"green\">회복</font><br/>처음에 '<font color=\"purple\">월랑의 힘</font>'을 보유<br/><font color=\"purple\">월랑의 힘</font> : 이동력 <font color=\"red\">+2</font>, 사망 시 <font color=\"red\">20%</font> 생명으로 <font color=\"blue\">부활</font><br/>해당 효과는 부활 시 '<font color=\"purple\">복수하는 고독한 늑대</font>'로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font> : 선공으로 전투 진입 시, 영웅 추가 공격 <font color=\"red\">1</font>회 및 부대가 반격을 받지 않고 <font color=\"blue\">피해 반사량</font> <font color=\"red\">100%</font> 감소<br/><b>다른 아군의 치료를 받을 수 없음</b>(디메리트)<br/><br/>부대 생명 <font color=\"red\">80%</font> 이상으로 행동 종료 시, 해당 효과는 <font color=\"purple\">월랑의 힘</font>으로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font>의 효과가 사라질 떄마다, 자신의 <font color=\"green\">치료</font> 효과 <font color=\"red\">-30%</font>, 중첩 가능<br/>상술 효과는 모두 면역 및 해제 불가"
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+20</font>% 전투 후 피해량 <font color=\"red\">+20</font>% 수치 생명 <font color=\"green\">회복</font><br/>처음에 '<font color=\"purple\">월랑의 힘</font>'을 보유<br/><font color=\"purple\">월랑의 힘</font> : 이동력 <font color=\"red\">+2</font>, 사망 시 <font color=\"red\">20</font>% 생명으로 <font color=\"blue\">부활</font><br/>해당 효과는 부활 시 '<font color=\"purple\">복수하는 고독한 늑대</font>'로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font> : 선공으로 전투 진입 시, 영웅 추가 공격 <font color=\"red\">1</font>회 및 부대가 반격을 받지 않고 <font color=\"blue\">피해 반사량</font> <font color=\"red\">100</font>% 감소<br/><b>다른 아군의 치료를 받을 수 없음</b>(디메리트)<br/><br/>부대 생명 <font color=\"red\">80</font>% 이상으로 행동 종료 시, 해당 효과는 <font color=\"purple\">월랑의 힘</font>으로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font>의 효과가 사라질 떄마다, 자신의 <font color=\"green\">치료</font> 효과 <font color=\"red\">-30</font>%, 중첩 가능<br/>상술 효과는 모두 면역 및 해제 불가"
+          "Desc": "주는 피해량 <font color=\"red\">+20%</font> 전투 후 피해량 <font color=\"red\">+20%</font> 수치 생명 <font color=\"green\">회복</font><br/>처음에 '<font color=\"purple\">월랑의 힘</font>'을 보유<br/><font color=\"purple\">월랑의 힘</font> : 이동력 <font color=\"red\">+2</font>, 사망 시 <font color=\"red\">20%</font> 생명으로 <font color=\"blue\">부활</font><br/>해당 효과는 부활 시 '<font color=\"purple\">복수하는 고독한 늑대</font>'로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font> : 선공으로 전투 진입 시, 영웅 추가 공격 <font color=\"red\">1</font>회 및 부대가 반격을 받지 않고 <font color=\"blue\">피해 반사량</font> <font color=\"red\">100%</font> 감소<br/><b>다른 아군의 치료를 받을 수 없음</b>(디메리트)<br/><br/>부대 생명 <font color=\"red\">80%</font> 이상으로 행동 종료 시, 해당 효과는 <font color=\"purple\">월랑의 힘</font>으로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font>의 효과가 사라질 떄마다, 자신의 <font color=\"green\">치료</font> 효과 <font color=\"red\">-30%</font>, 중첩 가능<br/>상술 효과는 모두 면역 및 해제 불가"
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+25</font>% 전투 후 피해량 <font color=\"red\">+25</font>% 수치 생명 <font color=\"green\">회복</font><br/>처음에 '<font color=\"purple\">월랑의 힘</font>'을 보유<br/><font color=\"purple\">월랑의 힘</font> : 이동력 <font color=\"red\">+2</font>, 사망 시 <font color=\"red\">20</font>% 생명으로 <font color=\"blue\">부활</font><br/>해당 효과는 부활 시 '<font color=\"purple\">복수하는 고독한 늑대</font>'로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font> : 선공으로 전투 진입 시, 영웅 추가 공격 <font color=\"red\">1</font>회 및 부대가 반격을 받지 않고 <font color=\"blue\">피해 반사량</font> <font color=\"red\">100</font>% 감소<br/><b>다른 아군의 치료를 받을 수 없음</b>(디메리트)<br/><br/>부대 생명 <font color=\"red\">80</font>% 이상으로 행동 종료 시, 해당 효과는 <font color=\"purple\">월랑의 힘</font>으로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font>의 효과가 사라질 떄마다, 자신의 <font color=\"green\">치료</font> 효과 <font color=\"red\">-30</font>%, 중첩 가능<br/>상술 효과는 모두 면역 및 해제 불가"
+          "Desc": "주는 피해량 <font color=\"red\">+25%</font> 전투 후 피해량 <font color=\"red\">+25%</font> 수치 생명 <font color=\"green\">회복</font><br/>처음에 '<font color=\"purple\">월랑의 힘</font>'을 보유<br/><font color=\"purple\">월랑의 힘</font> : 이동력 <font color=\"red\">+2</font>, 사망 시 <font color=\"red\">20%</font> 생명으로 <font color=\"blue\">부활</font><br/>해당 효과는 부활 시 '<font color=\"purple\">복수하는 고독한 늑대</font>'로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font> : 선공으로 전투 진입 시, 영웅 추가 공격 <font color=\"red\">1</font>회 및 부대가 반격을 받지 않고 <font color=\"blue\">피해 반사량</font> <font color=\"red\">100%</font> 감소<br/><b>다른 아군의 치료를 받을 수 없음</b>(디메리트)<br/><br/>부대 생명 <font color=\"red\">80%</font> 이상으로 행동 종료 시, 해당 효과는 <font color=\"purple\">월랑의 힘</font>으로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font>의 효과가 사라질 떄마다, 자신의 <font color=\"green\">치료</font> 효과 <font color=\"red\">-30%</font>, 중첩 가능<br/>상술 효과는 모두 면역 및 해제 불가"
         },
         {
-          "Desc": "주는 피해량 <font color=\"red\">+30</font>% 전투 후 피해량 <font color=\"red\">+30</font>% 수치 생명 <font color=\"green\">회복</font><br/>처음에 '<font color=\"purple\">월랑의 힘</font>'을 보유<br/><font color=\"purple\">월랑의 힘</font> : 이동력 <font color=\"red\">+2</font>, 사망 시 <font color=\"red\">20</font>% 생명으로 <font color=\"blue\">부활</font><br/>해당 효과는 부활 시 '<font color=\"purple\">복수하는 고독한 늑대</font>'로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font> : 선공으로 전투 진입 시, 영웅 추가 공격 <font color=\"red\">1</font>회 및 부대가 반격을 받지 않고 <font color=\"blue\">피해 반사량</font> <font color=\"red\">100</font>% 감소<br/><b>다른 아군의 치료를 받을 수 없음</b>(디메리트)<br/><br/>부대 생명 <font color=\"red\">80</font>% 이상으로 행동 종료 시, 해당 효과는 <font color=\"purple\">월랑의 힘</font>으로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font>의 효과가 사라질 떄마다, 자신의 <font color=\"green\">치료</font> 효과 <font color=\"red\">-30</font>%, 중첩 가능<br/>상술 효과는 모두 면역 및 해제 불가"
+          "Desc": "주는 피해량 <font color=\"red\">+30%</font> 전투 후 피해량 <font color=\"red\">+30%</font> 수치 생명 <font color=\"green\">회복</font><br/>처음에 '<font color=\"purple\">월랑의 힘</font>'을 보유<br/><font color=\"purple\">월랑의 힘</font> : 이동력 <font color=\"red\">+2</font>, 사망 시 <font color=\"red\">20%</font> 생명으로 <font color=\"blue\">부활</font><br/>해당 효과는 부활 시 '<font color=\"purple\">복수하는 고독한 늑대</font>'로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font> : 선공으로 전투 진입 시, 영웅 추가 공격 <font color=\"red\">1</font>회 및 부대가 반격을 받지 않고 <font color=\"blue\">피해 반사량</font> <font color=\"red\">100%</font> 감소<br/><b>다른 아군의 치료를 받을 수 없음</b>(디메리트)<br/><br/>부대 생명 <font color=\"red\">80%</font> 이상으로 행동 종료 시, 해당 효과는 <font color=\"purple\">월랑의 힘</font>으로 변경<br/><font color=\"purple\">복수하는 고독한 늑대</font>의 효과가 사라질 떄마다, 자신의 <font color=\"green\">치료</font> 효과 <font color=\"red\">-30%</font>, 중첩 가능<br/>상술 효과는 모두 면역 및 해제 불가"
         }
       ]
     }
@@ -144,7 +144,7 @@
       "Skill": 179,
       "SkillRate": 52,
       "HeartFetterBouns1": "근접 피격 시<br/>받는 물리 피해<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70</font>% 미만 시<br/>전투 진입 후 주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 주는 피해량<font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -212,7 +212,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -238,7 +238,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해.<br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20</font></font>%<br/> 지속 <font color=\"red\">1</font>행동",
+      "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해.<br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20</font>%</font><br/> 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -336,7 +336,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Gunn/3.webp",
-      "Desc": "스킬 사용 지점으로 <font color=\"blue\">텔레포트</font> 후<br/>자신 주위 <font color=\"red\">2</font>칸 범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 '<font color=\"blue\">방어구 무효화</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>목표가 논플레이어블 영웅일 경우, 해당 효과는 <font color=\"blue\">방어</font> <font color=\"red\">-25</font>%로 대체<br/>스킬에 명중한 적 <font color=\"red\">1</font>명당 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>(최대 <font color=\"red\">60</font>%)",
+      "Desc": "스킬 사용 지점으로 <font color=\"blue\">텔레포트</font> 후<br/>자신 주위 <font color=\"red\">2</font>칸 범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 '<font color=\"blue\">방어구 무효화</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>목표가 논플레이어블 영웅일 경우, 해당 효과는 <font color=\"blue\">방어</font> <font color=\"red\">-25</font>%로 대체<br/>스킬에 명중한 적 <font color=\"red\">1</font>명당 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>(최대 <font color=\"red\">60</font>%)",
       "SubSkills": null,
       "Animation": null
     },
@@ -362,7 +362,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/군.webp",
-      "Desc": "[패시브] 일반 공격으로 전투 진입 시, 전투 후 자신의 모든 스킬 쿨타임 <font color=\"red\">-1</font><br/>[물리피해] : 단일 개체 <font color=\"red\">1.8</font>배 피해. 전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font><br/>전투 후 잃은 생명 <font color=\"red\">25</font>% 수치로 <font color=\"blue\">고정피해</font> 및 자신은 <font color=\"blue\">지휘</font> 효과 획득<br/><font color=\"blue\">지휘</font> : 주위 <font color=\"red\">2</font>칸 범위 안 모든 적은 부대 생명이 낮을 수록 <font color=\"blue\">이동력 저하</font>(최대 <font color=\"red\">-3</font>)<br/>이동력 효과 발생 시 <font color=\"blue\">호위 불가</font><br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "[패시브] 일반 공격으로 전투 진입 시, 전투 후 자신의 모든 스킬 쿨타임 <font color=\"red\">-1</font><br/>[물리피해] : 단일 개체 <font color=\"red\">1.8</font>배 피해. 전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font><br/>전투 후 잃은 생명 <font color=\"red\">25%</font> 수치로 <font color=\"blue\">고정피해</font> 및 자신은 <font color=\"blue\">지휘</font> 효과 획득<br/><font color=\"blue\">지휘</font> : 주위 <font color=\"red\">2</font>칸 범위 안 모든 적은 부대 생명이 낮을 수록 <font color=\"blue\">이동력 저하</font>(최대 <font color=\"red\">-3</font>)<br/>이동력 효과 발생 시 <font color=\"blue\">호위 불가</font><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/군_Ani.webp"
     },

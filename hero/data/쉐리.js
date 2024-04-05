@@ -743,7 +743,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -889,7 +889,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/쉐리/1.webp",
-      "Desc": "[패시브]부대 이동 <font color=\"red\">+2</font>,<br/><b>자신이 혼합 부대일 경우 행동 종료 시 부대 생명 <font color=\"red\">30</font>% 회복</b>",
+      "Desc": "[패시브]부대 이동 <font color=\"red\">+2</font>,<br/><b>자신이 혼합 부대일 경우 행동 종료 시 부대 생명 <font color=\"red\">30%</font> 회복</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -915,7 +915,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/쉐리/2.webp",
-      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 주고,<br/><b>적을 <font color=\"red\">2</font>칸 밀친다.</b><br/><b>전투 후 피해량 <font color=\"red\">20</font>% 수치로 생명 회복 및 적에게 패시브 봉인 부여</b><br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.4</font>배의 피해를 주고,<br/><b>적을 <font color=\"red\">2</font>칸 밀친다.</b><br/><b>전투 후 피해량 <font color=\"red\">20%</font> 수치로 생명 회복 및 적에게 패시브 봉인 부여</b><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

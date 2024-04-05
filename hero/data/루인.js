@@ -85,19 +85,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+5</font>%<br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+5%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+10</font>%<br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+10%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+15</font>%<br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+15%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+20</font>%<br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+20%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+30</font>%<br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+30%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
         }
       ]
     }
@@ -107,7 +107,7 @@
     "Name": "고대 성왕의 왕관(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "루인.webp",
-    "Ability": "방어 <font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위에 아군이 있을 경우, 영웅 피해 <font color=\"red\">+10</font>% <br/><font color =\"#b8860b\">빛의 군단</font> 초절 효과를 받음"
+    "Ability": "방어 <font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위에 아군이 있을 경우, 영웅 피해 <font color=\"red\">+10%</font> <br/><font color =\"#b8860b\">빛의 군단</font> 초절 효과를 받음"
   },
   "Soldiers": [
     24,
@@ -685,7 +685,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/루인/1.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해 대 마물 특효 <br/>전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 제거 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>% 효과 부여 <br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b> <br/>전투 후 자신 주위 <font color=\"red\">2</font>칸 범위 내 모든 아군 생명 공격 <font color=\"red\">2</font>배 수치로 <font color =\"green\">회복</font>",
+      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해 대 마물 특효 <br/>전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 제거 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20%</font> 효과 부여 <br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가</b> <br/>전투 후 자신 주위 <font color=\"red\">2</font>칸 범위 내 모든 아군 생명 공격 <font color=\"red\">2</font>배 수치로 <font color =\"green\">회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -717,7 +717,7 @@
           "Name": "<b><font color=\"#ff8c00\">성유 - 정벌</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/skills/sp/루인/2_1.webp",
-          "Desc": "[액티브]적 <font color=\"red\">1</font>명에게 '<font color=\"blue\">정벌</font>' 효과 부여 <br/><font color=\"blue\">정벌</font> : <font color=\"red\">2</font>칸 범위 내에 있는 시전자 아군의 공격, 지력 <font color=\"red\">+10</font>%<br/>지속 <font color=\"red\">3</font>행동<br/>아군이 '<font color=\"blue\">정벌</font>' 대상을 <b>선공 시</b> 전투 진입 전 적 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 제거 및 <br/>해당 목표 격파 시 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font>"
+          "Desc": "[액티브]적 <font color=\"red\">1</font>명에게 '<font color=\"blue\">정벌</font>' 효과 부여 <br/><font color=\"blue\">정벌</font> : <font color=\"red\">2</font>칸 범위 내에 있는 시전자 아군의 공격, 지력 <font color=\"red\">+10%</font><br/>지속 <font color=\"red\">3</font>행동<br/>아군이 '<font color=\"blue\">정벌</font>' 대상을 <b>선공 시</b> 전투 진입 전 적 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 제거 및 <br/>해당 목표 격파 시 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font>"
         },
         {
           "Name": "<b><font color=\"#ff8c00\">성유 - 대피</font></b>",

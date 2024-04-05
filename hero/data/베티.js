@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "칼날폭풍",
-    "Stats": "공격,방어 <font color=\"red\">+5</font>%<br/>고유 스킬 <font color=\"purple\">칼날 영역</font> 효과 범위<font color=\"red\">+1</font>",
+    "Stats": "공격,방어 <font color=\"red\">+5%</font><br/>고유 스킬 <font color=\"purple\">칼날 영역</font> 효과 범위<font color=\"red\">+1</font>",
   },
   "Equip": {
     "Name": "파멸의 샛별(투구)",

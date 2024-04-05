@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+10</font>%<br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">100</font>% 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>" 
+          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+10%</font><br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">100%</font> 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>" 
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+15</font>%<br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">85</font>% 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>"
+          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+15%</font><br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">85%</font> 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>"
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+20</font>%<br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">70</font>% 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>" 
+          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+20%</font><br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">70%</font> 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>" 
         },
         {
-          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+30</font>%<br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">50</font>% 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>" 
+          "Desc": "<b>전투 진입 시</b> 공격,방어 <font color=\"red\">+30%</font><br/>선공 후 '<font color=\"purple\">배고파</font>' 상태 획득<br/>최대 <font color=\"red\">7</font>중첩<br/><font color=\"red\">5</font>중첩 시 '<font color=\"purple\">너무 배고파</font>' 상태 돌입 <br/><font color=\"purple\">너무 배고파</font> : 영웅 이동력 <font color=\"Red\">-1</font>, 전투 진입시 후공(<b>디메리트</b>)<br/>행동 종료 시 <font color=\"red\">50%</font> 확률로 '<font color=\"purple\">배고파</font>' 획득<br/><font color =\"purple\">배고파</font> 및 <font color=\"purple\">너무 배고파</font>는 <b>해제 불가, 면역 불가</b>" 
         }
       ]
     }
@@ -146,7 +146,7 @@
       "Skill": 125,
       "SkillRate": 36,
       "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">70</font>% 미만 시 <br/>전투 진입후 주는 피해량 <font color=\"red\">+10</font>"
+      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">70%</font> 미만 시 <br/>전투 진입후 주는 피해량 <font color=\"red\">+10</font>"
     }
   ],
   "Materials": {
@@ -362,7 +362,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.webp",
-      "Desc": "단일 개체에게 <font color=\"Red\">1.5</font>배의 피해<br/>전투 후, 적 <font color=\"blue\">방어 <font color=\"red\">-30</font></font>%<br/>지속 <font color=\"Red\">2</font>행동",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.5</font>배의 피해<br/>전투 후, 적 <font color=\"blue\">방어 <font color=\"red\">-30</font>%</font><br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -376,7 +376,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font></font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -468,7 +468,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Kagura/2.webp",
-      "Desc": "사용 후 자신에게 걸린 <font color=\"blue\">디버프</font> <font color =\"red\">2</font>개 제거<br/><font color=\"purple\">배고파</font> <font color =\"red\">5</font>스택 제거<br/>생명 <font color =\"red\">80</font>% <font color=\"green\">회복</font><br/><b>해당 스킬은 <font color =\"purple\">배고파</font> 효과를 발동하지 않음",
+      "Desc": "사용 후 자신에게 걸린 <font color=\"blue\">디버프</font> <font color =\"red\">2</font>개 제거<br/><font color=\"purple\">배고파</font> <font color =\"red\">5</font>스택 제거<br/>생명 <font color =\"red\">80%</font> <font color=\"green\">회복</font><br/><b>해당 스킬은 <font color =\"purple\">배고파</font> 효과를 발동하지 않음",
       "SubSkills": null,
       "Animation": null
     },
@@ -508,7 +508,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Kagura/3.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해를 준다.<br/>전투 전 적 <font color =\"blue\">방어구 스킬</font>상실(최대 생명 제외)<br/> 목표가 NPC 일 경우 방어<font color =\"red\">-25</font>%로 대체 <br/>자신에게 걸린 <font color=\"purple\">배고파</font> <font color =\"red\">2</font>스택 이하일 경우 추가로 적에게 <font color=\"blue\">기절</font> 부여<br/>지속 <font color =\"red\">1</font>행동 <br/>전투 후 적 <font color=\"green\">받는 치유량</font> <font color =\"red\">-50</font>% <br/>지속 <font color =\"red\">2</font>행동 <br/>해제 불가",
+      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해를 준다.<br/>전투 전 적 <font color =\"blue\">방어구 스킬</font>상실(최대 생명 제외)<br/> 목표가 NPC 일 경우 방어<font color =\"red\">-25</font>%로 대체 <br/>자신에게 걸린 <font color=\"purple\">배고파</font> <font color =\"red\">2</font>스택 이하일 경우 추가로 적에게 <font color=\"blue\">기절</font> 부여<br/>지속 <font color =\"red\">1</font>행동 <br/>전투 후 적 <font color=\"green\">받는 치유량</font> <font color =\"red\">-50%</font> <br/>지속 <font color =\"red\">2</font>행동 <br/>해제 불가",
       "SubSkills": null,
       "Animation": null
     },    
@@ -534,7 +534,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/카구라.webp",
-      "Desc": "[패시브] <font color=\"purple\">너무 배고파</font>상태가 아닌 경우 영웅 일반 공격 피해 <font color =\"red\">+20</font>%<br/>선공으로 전투 진입 전 부대 생명 <font color =\"red\">30</font>% <font color=\"green\">회복</font><<br/>[액티브]사용시 부대 공격 <font color=\"red\">+20</font>% 및 '<font color=\"blue\">모든 디버프 면역</font>' '<font color=\"blue\">전투 본능</font>' 획득<br/><font color=\"blue\">전투 본능</font> : 주는 피해량 <font color =\"red\">+30</font>%, 받는 물리피해 <font color =\"red\">-30</font>% <br/><font color=\"blue\">액티브 스킬</font>로 피해를 입힌 후 해당 스킬 쿨타임 <font color=\"Red\">-5</font><br/>지속 <font color=\"Red\">2</font>행동<br/>사용 후 4칸 <font color=\"blue\">재행동</font><br/><font color=\"blue\">전투 본능</font>은 <font color=\"blue\">해제 불가</font> 및 지속 시간 동안 <font color=\"purple\">배고파</font> 스택을 쌓지 않으며,<br/>지속 시간 종료 후 <font color=\"purple\">배고파</font> <font color\"red\">3</font>스택 획득",
+      "Desc": "[패시브] <font color=\"purple\">너무 배고파</font>상태가 아닌 경우 영웅 일반 공격 피해 <font color =\"red\">+20%</font><br/>선공으로 전투 진입 전 부대 생명 <font color =\"red\">30%</font> <font color=\"green\">회복</font><<br/>[액티브]사용시 부대 공격 <font color=\"red\">+20%</font> 및 '<font color=\"blue\">모든 디버프 면역</font>' '<font color=\"blue\">전투 본능</font>' 획득<br/><font color=\"blue\">전투 본능</font> : 주는 피해량 <font color =\"red\">+30%</font>, 받는 물리피해 <font color =\"red\">-30%</font> <br/><font color=\"blue\">액티브 스킬</font>로 피해를 입힌 후 해당 스킬 쿨타임 <font color=\"Red\">-5</font><br/>지속 <font color=\"Red\">2</font>행동<br/>사용 후 4칸 <font color=\"blue\">재행동</font><br/><font color=\"blue\">전투 본능</font>은 <font color=\"blue\">해제 불가</font> 및 지속 시간 동안 <font color=\"purple\">배고파</font> 스택을 쌓지 않으며,<br/>지속 시간 종료 후 <font color=\"purple\">배고파</font> <font color\"red\">3</font>스택 획득",
       "SubSkills": null,
       "Animation": "../img/Super/카구라_Ani.webp"
     }

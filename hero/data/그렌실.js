@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+12</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>행동)<br/>자신의 최대 생명 <font color=\"red\">12</font>% 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">2</font>"
+          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+12%</font><br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>행동)<br/>자신의 최대 생명 <font color=\"red\">12%</font> 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">2</font>"
         },
         {
-          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+16</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>행동)<br/>자신의 최대 생명 <font color=\"red\">16</font>% 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">2</font>"
+          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+16%</font><br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>행동)<br/>자신의 최대 생명 <font color=\"red\">16%</font> 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">2</font>"
         },
         {
-          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+20</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>행동)<br/>자신의 최대 생명 <font color=\"red\">20</font>% 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">1</font>"
+          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+20%</font><br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>행동)<br/>자신의 최대 생명 <font color=\"red\">20%</font> 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">1</font>"
         },
         {
-          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+25</font>%<br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>행동)<br/>자신의 최대 생명 <font color=\"red\">25</font>% 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">1</font>"
+          "Desc": "자신 부대보다 이동력이 높지 않은 적과 교전 시 공격 방어 <font color=\"Red\">+25%</font><br/> 위험 범위 안에서 행동 종료 시 '<font color=\"blue\">서리의 보호</font>' 획득<br/><font color=\"blue\">서리의 보호</font> : <font color=\"blue\">면역</font>, 피격으로 전투 진입 시 자신에게 <font color=\"blue\">지휘</font> 효과 부여 <br/>(인접한 적의 이동력 -2, 지속 <font color=\"red\">1</font>행동)<br/>자신의 최대 생명 <font color=\"red\">25%</font> 수치만큼 <font color=\"blue\">보호막</font> 생성<br/>해제 불가<br/><font color=\"blue\">보호막</font> 쿨타임 <font color=\"red\">1</font>"
         }
       ]
     }
@@ -84,7 +84,7 @@
     "Name": "겨울 서리의 자긍심(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "그렌실.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>이동력이 자신보다 높지 않은 부대와 전투 시, <font color=\"blue\">적이 선제공격 불가</font><br/><font color=\"blue\">스킬</font> 사용으로 전투 진입 전, 적이 <font color=\"blue\">이동력 저하</font> 효과를 보유하고 있을 경우<br/>전투 후 해당 스킬 쿨타임 <font color=\"red\">-4</font>(쿨타임 <font color=\"red\">2</font>)"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>이동력이 자신보다 높지 않은 부대와 전투 시, <font color=\"blue\">적이 선제공격 불가</font><br/><font color=\"blue\">스킬</font> 사용으로 전투 진입 전, 적이 <font color=\"blue\">이동력 저하</font> 효과를 보유하고 있을 경우<br/>전투 후 해당 스킬 쿨타임 <font color=\"red\">-4</font>(쿨타임 <font color=\"red\">2</font>)"
   },
   "Soldiers": [
     48,
@@ -127,7 +127,7 @@
       "MagicDefRate": 61,
       "Skill": 141,
       "SkillRate": 37,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70</font>% 미만 시<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70%</font> 미만 시<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
       "HeartFetterBouns2": "공중에 있을 경우 범위 피해 <font color=\"Red\">+10</font>%"
     },
     {
@@ -402,7 +402,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Grunhind/1.webp",
-      "Desc": "목표된 빈 위치에 '<font color=\"blue\">혹한의 방패</font>' 부여<br/><font color=\"blue\">혹한의 방패</font> : 지휘, 주위 <font color=\"red\">2</font>칸 범위 안 모든 아군의 방어 마방 <font color=\"red\">+10</font>%<br/>인접한 적 이동력 <font color=\"red\">-2</font><br/>지속 <font color=\"red\">1</font>행동<br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">3</font>칸<br/>해당 스킬은 버프 지속 시간을 소모하지 않음",
+      "Desc": "목표된 빈 위치에 '<font color=\"blue\">혹한의 방패</font>' 부여<br/><font color=\"blue\">혹한의 방패</font> : 지휘, 주위 <font color=\"red\">2</font>칸 범위 안 모든 아군의 방어 마방 <font color=\"red\">+10%</font><br/>인접한 적 이동력 <font color=\"red\">-2</font><br/>지속 <font color=\"red\">1</font>행동<br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">3</font>칸<br/>해당 스킬은 버프 지속 시간을 소모하지 않음",
       "SubSkills": null,
       "Animation": null
     },
@@ -428,7 +428,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_IronHand.webp",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]<font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 늘어나며 공격 <font color=\"red\">+20</font>%,<br/>'<font color=\"blue\">응수</font> 효과 획득<br/>지속 <font color=\"red\">2<font>턴",
+      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]<font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 늘어나며 공격 <font color=\"red\">+20%</font>,<br/>'<font color=\"blue\">응수</font> 효과 획득<br/>지속 <font color=\"red\">2<font>턴",
       "SubSkills": null,
       "Animation": null
     },
@@ -454,7 +454,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Grunhind/2.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 <font color=\"blue\">이동력</font> <font color=\"red\">-2</font><br/>지속 <font color=\"red\">2</font>행동<br/>적이 이미 <font color=\"blue\">이동력 저하 디버프</font>를 보유하고 있을 경우 <font color=\"red\">20</font>% 확률로 <font color=\"blue\">행동 불가</font><br/>스킬 사용 후 자신은 '<font color=\"blue\">저지</font>' 효과 획득<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "주위 <font color=\"red\">2</font>칸 범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 <font color=\"blue\">이동력</font> <font color=\"red\">-2</font><br/>지속 <font color=\"red\">2</font>행동<br/>적이 이미 <font color=\"blue\">이동력 저하 디버프</font>를 보유하고 있을 경우 <font color=\"red\">20%</font> 확률로 <font color=\"blue\">행동 불가</font><br/>스킬 사용 후 자신은 '<font color=\"blue\">저지</font>' 효과 획득<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -572,7 +572,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/그렌실.webp",
-      "Desc": "[패시브]처음 행동 종료 혹은 <font color=\"purple\">전략의 대사</font> 아군이 적 격파 시, 전장의 모든 <font color=\"purple\">전략의 대사</font> 아군에게 공방 대폭 증가<br/>자신보다 이동력이 높지 않은 적과 교전 시 피해 <font color=\"red\">+15</font>%, 지속 <font color=\"red\">4</font>행동' 효과 부여<br/>해당 효과는 다른 초절 강화 효과와 중첩되지 않으며, 턴마다 최대 <font color=\"red\">1</font>회 발동<br/>[물리피해]단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 <font color=\"blue\">제거</font> 및 목표의 이동 방식이 '비행'이 아닌 경우 <font color=\"blue\">선제공격</font><br/>전투 후 상대에게 '<font color=\"blue\">이동 및 호위 불가</font>' 효과를 부여하며 자신은 '<font color=\"blue\">받는 피해</font> <font color=\"red\">-20</font>%' 효과를 획득<br/>각 효과는 지속 <font color=\"red\">1</font>행동<br/>해제 불가",
+      "Desc": "[패시브]처음 행동 종료 혹은 <font color=\"purple\">전략의 대사</font> 아군이 적 격파 시, 전장의 모든 <font color=\"purple\">전략의 대사</font> 아군에게 공방 대폭 증가<br/>자신보다 이동력이 높지 않은 적과 교전 시 피해 <font color=\"red\">+15%</font>, 지속 <font color=\"red\">4</font>행동' 효과 부여<br/>해당 효과는 다른 초절 강화 효과와 중첩되지 않으며, 턴마다 최대 <font color=\"red\">1</font>회 발동<br/>[물리피해]단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 <font color=\"blue\">제거</font> 및 목표의 이동 방식이 '비행'이 아닌 경우 <font color=\"blue\">선제공격</font><br/>전투 후 상대에게 '<font color=\"blue\">이동 및 호위 불가</font>' 효과를 부여하며 자신은 '<font color=\"blue\">받는 피해</font> <font color=\"red\">-20</font>%' 효과를 획득<br/>각 효과는 지속 <font color=\"red\">1</font>행동<br/>해제 불가",
       "SubSkills": null,
       "Animation": "../img/Super/그렌실_Ani.webp"
     }

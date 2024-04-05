@@ -84,16 +84,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "치명타율<font color=\"red\">+10</font>%<br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +15%</font>; 받는피해량 <font color=\"red\">-15%</font> 이동력+<font color=\"red\">1</font> 지속 <font color=\"red\">1</font>행동&#39;."
+          "Desc": "치명타율<font color=\"red\">+10%</font><br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +15%</font>; 받는피해량 <font color=\"red\">-15%</font> 이동력+<font color=\"red\">1</font> 지속 <font color=\"red\">1</font>행동&#39;."
         },
         {
-          "Desc": "치명타율<font color=\"red\">+13</font>%<br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +20%</font>; 받는피해량 <font color=\"red\">-20%</font> 이동력+<font color=\"red\">2</font> 지속 <font color=\"red\">1</font>행동&#39;."
+          "Desc": "치명타율<font color=\"red\">+13%</font><br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +20%</font>; 받는피해량 <font color=\"red\">-20%</font> 이동력+<font color=\"red\">2</font> 지속 <font color=\"red\">1</font>행동&#39;."
         },
         {
-          "Desc": "치명타율<font color=\"red\">+16</font>%<br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +25%</font>; 받는피해량 <font color=\"red\">-25%</font> 이동력+<font color=\"red\">3</font> 지속 <font color=\"red\">1</font>행동&#39;."
+          "Desc": "치명타율<font color=\"red\">+16%</font><br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +25%</font>; 받는피해량 <font color=\"red\">-25%</font> 이동력+<font color=\"red\">3</font> 지속 <font color=\"red\">1</font>행동&#39;."
         },
         {
-          "Desc": "치명타율<font color=\"red\">+20</font>%<br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +30%</font>; 받는피해량 <font color=\"red\">-30%</font> 이동력+<font color=\"red\">4</font> 지속 <font color=\"red\">1</font>행동&#39;."
+          "Desc": "치명타율<font color=\"red\">+20%</font><br/>행동 종료 시 [위험 범위]밖에 있다면 &#39;잠행&#39;상태 진입:<br/>&#39;치명타율치명타 피해량 <font color=\"red\"> +30%</font>; 받는피해량 <font color=\"red\">-30%</font> 이동력+<font color=\"red\">4</font> 지속 <font color=\"red\">1</font>행동&#39;."
         }
       ]
     }
@@ -101,7 +101,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "고독한 별의 검",
-    "Stats": "공격 <font color=\"red\">+10</font>%<br/>자신이 병사가 없는 상태에서 행동 종료 시, <font color =\"blue\">재행동</font> 가능<br/>해당 재행동의 이동력은 남은 이동력 <font color =\"red\">+3</font>, 쿨타임 <font color =\"red\">2</font>"
+    "Stats": "공격 <font color=\"red\">+10%</font><br/>자신이 병사가 없는 상태에서 행동 종료 시, <font color =\"blue\">재행동</font> 가능<br/>해당 재행동의 이동력은 남은 이동력 <font color =\"red\">+3</font>, 쿨타임 <font color =\"red\">2</font>"
   },
   "Equip": {
     "Name": "따뜻한 기억(투구)",

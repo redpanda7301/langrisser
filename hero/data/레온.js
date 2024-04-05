@@ -105,21 +105,24 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+10</font>%<br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-10</font>%, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+10%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-10%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+15</font>%<br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-15</font>%, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+15%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-15%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+20</font>%<br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-20</font>%, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+20%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-20%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+30</font>%<br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-30</font>%, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+30%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-30%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
         }
       ]
     }
   ],
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "기사의 모범",
+    "Stats": "<font color=\"blue\">기사도</font> 부여 효과 지속 시간 <font color=\"red\">+2</font>행동<br/>사용 후 아군 기병 부대 공격 지력 <font color=\"red\">+20</font>% 및 <font color=\"blue\">면역</font>, <font color=\"blue\">폭풍</font>, <font color=\"blue\">증원</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
+  },
   "Equip": {
     "Name": "청룡의 갑옷(갑옷)",
     "Stats": "생명 437,방어 65",
@@ -784,7 +787,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>행동지속.",
+      "Desc": "[패시브]전투 진입전 <font color=\"red\">50%</font> 확률로 적의 공격, 지력  <font color=\"red\">-20%</font>,  <font color=\"red\">1</font>행동지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -890,7 +893,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/레온/2.webp",
-      "Desc": "[패시브]이동 <font color=\"red\">1</font>칸 당 <font color=\"blue\">영웅 일반 공격 피해</font> <font color=\"red\">+6</font>% (최대 <font color=\"red\">)+30</font>%<br/>[지휘]모든 기병 아군 <font color=\"blue\">공격 지력</font> <font color=\"red\">+15</font>%<br/><b>창병과 교전 시</b> 공격 <font color=\"red\">+10</font>%<br/><b>보병 영웅에게 선공 시</b> <font color=\"blue\">선제 공격</font>(주동 공격)<br/><b>레온이 전용 장비 보유 시</b> <font color=\"blue\">아군 기병이 지형 제한을 받지 않음</font>",
+      "Desc": "[패시브]이동 <font color=\"red\">1</font>칸 당 <font color=\"blue\">영웅 일반 공격 피해</font> <font color=\"red\">+6%</font> (최대 <font color=\"red\">)+30%</font><br/>[지휘]모든 기병 아군 <font color=\"blue\">공격 지력</font> <font color=\"red\">+15%</font><br/><b>창병과 교전 시</b> 공격 <font color=\"red\">+10%</font><br/><b>보병 영웅에게 선공 시</b> <font color=\"blue\">선제 공격</font>(주동 공격)<br/><b>레온이 전용 장비 보유 시</b> <font color=\"blue\">아군 기병이 지형 제한을 받지 않음</font>",
       "SubSkills": null,
       "Animation": null
     },

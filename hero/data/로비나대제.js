@@ -84,7 +84,7 @@
     "Name": "통솔의 검(검)",
     "Stats": "생명 437, 공격 107",
     "Icon": "로비나대제.webp",
-    "Ability": "공격,생명 <font color=\"red\">+5</font>%<br/><font color=\"blue\">초절 강화 특수 효과</font> 보유한 상태로 <font color=\"blue\">범위 스킬</font> 사용 시<br/> <font color=\"blue\">스킬 범위</font> <font color=\"red\">+1</font>, <font color=\"purple\">아군 부대 배치</font> 후 주는 피해량 <font color=\"red\">+10</font>% 부여<br/> 지속 <font color=\"red\">2</font>행동<br/> <font color=\"purple\">부대 배치</font> 후 <font color=\"purple\">고유 스킬</font>로 증가하는 <br/>자신 <font color=\"blue\">이동력 효과</font> 지속 시간 <font color=\"red\">+1</font>행동"
+    "Ability": "공격,생명 <font color=\"red\">+5%</font><br/><font color=\"blue\">초절 강화 특수 효과</font> 보유한 상태로 <font color=\"blue\">범위 스킬</font> 사용 시<br/> <font color=\"blue\">스킬 범위</font> <font color=\"red\">+1</font>, <font color=\"purple\">아군 부대 배치</font> 후 주는 피해량 <font color=\"red\">+10%</font> 부여<br/> 지속 <font color=\"red\">2</font>행동<br/> <font color=\"purple\">부대 배치</font> 후 <font color=\"purple\">고유 스킬</font>로 증가하는 <br/>자신 <font color=\"blue\">이동력 효과</font> 지속 시간 <font color=\"red\">+1</font>행동"
   },
   "Soldiers": [
     28,
@@ -129,7 +129,7 @@
       "Skill": 157,
       "SkillRate": 44,
       "HeartFetterBouns1": "선제 공격으로 전투 진입 시 <br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">70</font>% 이하인 경우 전투 진입시<br/> 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">70%</font> 이하인 경우 전투 진입시<br/> 주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "정복의 기사왕",
@@ -160,7 +160,7 @@
       "MagicDefRate": 61,
       "Skill": 132,
       "SkillRate": 41,
-      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">70</font>% 이하인 경우 전투 진입시 <br/>받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">70%</font> 이하인 경우 전투 진입시 <br/>받는 피해량 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "근접 공격을 받아 전투 진입시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
@@ -422,7 +422,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_NerverDie.webp",
-      "Desc": "사망 시 <font color=\"blue\">부활</font> 및 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>. <br/>최대 <font color=\"red\">1</font>회 가능.",
+      "Desc": "사망 시 <font color=\"blue\">부활</font> 및 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>. <br/>최대 <font color=\"red\">1</font>회 가능.",
       "SubSkills": null,
       "Animation": null
     },
@@ -462,7 +462,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Loviner/1.webp",
-      "Desc": "[패시브]부대 생명이 <font color=\"red\">100</font>%일 경우 방어력 <font color=\"red\">+10</font>% <br/><b>선공 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸 가능<br/>쿨타임 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브]부대 생명이 <font color=\"red\">100</font>%일 경우 방어력 <font color=\"red\">+10%</font> <br/><b>선공 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸 가능<br/>쿨타임 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -514,7 +514,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Loviner/2.webp",
-      "Desc": "[물리 피해]단일 개체 <font color=\"red\">1.4</font>배 피해<br/><b>자신의 이동력이 적보다 높을 경우</b> <font color=\"blue\">선제 공격</font><br/><b>근접 병사 대동 시 함께 공격한다.</b><br/>해당 스킬은 <font color=\"blue\">근접 피해 감면</font>의 영향을 받지 않는다.<br/>전투 후 <font color=\"red\">20</font>% 피해 수치만큼 <font color=\"green\">생명 회복</font> 한다.",
+      "Desc": "[물리 피해]단일 개체 <font color=\"red\">1.4</font>배 피해<br/><b>자신의 이동력이 적보다 높을 경우</b> <font color=\"blue\">선제 공격</font><br/><b>근접 병사 대동 시 함께 공격한다.</b><br/>해당 스킬은 <font color=\"blue\">근접 피해 감면</font>의 영향을 받지 않는다.<br/>전투 후 <font color=\"red\">20%</font> 피해 수치만큼 <font color=\"green\">생명 회복</font> 한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -540,7 +540,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Loviner/3.webp",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<font color=\"red\">시대의 주역</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승한다.<br/>전투 진입 시 피해량 <font color=\"red\">+12</font>% <br/><font color=\"red\">3</font>칸 범위 내 <b>아군 로비나 대제</b>가 있을 경우 피해량 추가 <font color=\"red\">+5</font>%<br/>지속 <font color=\"red\">4</font>행동",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<font color=\"red\">시대의 주역</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승한다.<br/>전투 진입 시 피해량 <font color=\"red\">+12%</font> <br/><font color=\"red\">3</font>칸 범위 내 <b>아군 로비나 대제</b>가 있을 경우 피해량 추가 <font color=\"red\">+5%</font><br/>지속 <font color=\"red\">4</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -554,7 +554,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.webp",
-      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"red\">80</font>% 이상이라면<br/>전투 중 받는 피해량 <font color=\"red\">-30</font>%.",
+      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"red\">80%</font> 이상이라면<br/>전투 중 받는 피해량 <font color=\"red\">-30</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -580,7 +580,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/로비나대제.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 범위 내 모든 적에게 <font color=\"red\">0.44</font>배 피해, 적에게 '<font color=\"blue\">압도</font>'효과 부여<br/>[<font color=\"blue\">압도</font>] :  <b>공격 전</b> 이동 <font color=\"red\">1</font>칸 당 공격 <font color=\"red\">0.5</font>배 수치 <font color=\"blue\">고정피해</font> (최대 <font color=\"red\">3</font>배) 및 <font color=\"blue\">치료 불가</font> <br/>지속 <font color=\"red\">1</font>행동 <br/><font color=\"blue\">스킬</font> 사용 후 자신에게 받는 피해 <font color=\"red\">-20</font>% <br/>자신 주위 <font color=\"red\">2</font>칸 범위 안에 있는 아군의 공격, 지력 <font color=\"red\">+10</font>% <br/>지속<font color=\"red\">2</font>행동 <br/><b>해제 불가</b>",
+      "Desc": "주위 <font color=\"red\">2</font>칸 범위 내 모든 적에게 <font color=\"red\">0.44</font>배 피해, 적에게 '<font color=\"blue\">압도</font>'효과 부여<br/>[<font color=\"blue\">압도</font>] :  <b>공격 전</b> 이동 <font color=\"red\">1</font>칸 당 공격 <font color=\"red\">0.5</font>배 수치 <font color=\"blue\">고정피해</font> (최대 <font color=\"red\">3</font>배) 및 <font color=\"blue\">치료 불가</font> <br/>지속 <font color=\"red\">1</font>행동 <br/><font color=\"blue\">스킬</font> 사용 후 자신에게 받는 피해 <font color=\"red\">-20%</font> <br/>자신 주위 <font color=\"red\">2</font>칸 범위 안에 있는 아군의 공격, 지력 <font color=\"red\">+10%</font> <br/>지속<font color=\"red\">2</font>행동 <br/><b>해제 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/로비나대제_Ani.webp"
     }

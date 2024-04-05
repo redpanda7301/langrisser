@@ -80,7 +80,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "질풍파공",
-    "Stats":"공격 <font color=\"red\">+5</font>%<br/>선공으로 전투 진입 후 <b>적에게 <font color=\"blue\">버프</font>가 없으면</b><br/>실버울프 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"blue\">고정피해</font>"
+    "Stats":"공격 <font color=\"red\">+5%</font><br/>선공으로 전투 진입 후 <b>적에게 <font color=\"blue\">버프</font>가 없으면</b><br/>실버울프 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"blue\">고정피해</font>"
   },
   "Equip": {
     "Name": "의적의 가면(투구)",
@@ -463,7 +463,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>행동지속.",
+      "Desc": "[패시브]전투 진입전 <font color=\"red\">50%</font> 확률로 적의 공격, 지력  <font color=\"red\">-20%</font>,  <font color=\"red\">1</font>행동지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -583,7 +583,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/실버울프.webp",
-      "Desc": "[물리 피해] <b>단일 적 부대를 공격할때 호위를 무시하고</b> <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>전투 진입 전 자신에게</b> 이동력 <font color=\"red\">+1</font>, 기술 <font color=\"red\">+30</font>%, 받는 피해 <font color=\"red\">-20</font>% 효과를 부여한다.<br/>지속 <font color=\"red\">2</font>행동<br/><b>치명타 발동시</b> 해당 스킬 쿨타임<font color=\"red\">-1</font>",
+      "Desc": "[물리 피해] <b>단일 적 부대를 공격할때 호위를 무시하고</b> <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>전투 진입 전 자신에게</b> 이동력 <font color=\"red\">+1</font>, 기술 <font color=\"red\">+30%</font>, 받는 피해 <font color=\"red\">-20%</font> 효과를 부여한다.<br/>지속 <font color=\"red\">2</font>행동<br/><b>치명타 발동시</b> 해당 스킬 쿨타임<font color=\"red\">-1</font>",
       "SubSkills": null,
       "Animation": "../img/Super/실버울프_Ani.webp"
     }

@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "받는 피해량 <font color=\"red\">-10</font>%<br/>행동 종료 시, 적에게 '<font color=\"purple\">지배의 명령</font>' 부여<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">지배의 명령</font> 효과를 가진 적이 자신 주위 <font color=\"red\">3</font>칸 범위 안에 있을 경우 <br/>공격, 방어 <font color=\"red\">-10</font>%<br/>사망 시 역대 황제의 전투 영혼 구현화 - '<font color=\"blue\">제국의 의지</font>'<br/>비소환 아군에게 '<font color=\"purple\">전의의 메아리</font>' 사용 가능<br/>대상자는 타이란텔의 모든 능력을 계승하고 즉시 행동 가능<br/>전투 당 최대 <font color=\"red\">1</font>회 발동<br/><font color=\"purple\">지배의 명령</font>와 <font color=\"purple\">전의의 메아리</font>는 하기에 후술" 
+          "Desc": "받는 피해량 <font color=\"red\">-10%</font><br/>행동 종료 시, 적에게 '<font color=\"purple\">지배의 명령</font>' 부여<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">지배의 명령</font> 효과를 가진 적이 자신 주위 <font color=\"red\">3</font>칸 범위 안에 있을 경우 <br/>공격, 방어 <font color=\"red\">-10%</font><br/>사망 시 역대 황제의 전투 영혼 구현화 - '<font color=\"blue\">제국의 의지</font>'<br/>비소환 아군에게 '<font color=\"purple\">전의의 메아리</font>' 사용 가능<br/>대상자는 타이란텔의 모든 능력을 계승하고 즉시 행동 가능<br/>전투 당 최대 <font color=\"red\">1</font>회 발동<br/><font color=\"purple\">지배의 명령</font>와 <font color=\"purple\">전의의 메아리</font>는 하기에 후술" 
         },
         {
-          "Desc": "받는 피해량 <font color=\"red\">-15</font>%<br/>행동 종료 시, 적에게 '<font color=\"purple\">지배의 명령</font>' 부여<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">지배의 명령</font> 효과를 가진 적이 자신 주위 <font color=\"red\">3</font>칸 범위 안에 있을 경우 <br/>공격, 방어 <font color=\"red\">-13</font>%<br/>사망 시 역대 황제의 전투 영혼 구현화 - '<font color=\"blue\">제국의 의지</font>'<br/>비소환 아군에게 '<font color=\"purple\">전의의 메아리</font>' 사용 가능<br/>대상자는 타이란텔의 모든 능력을 계승하고 즉시 행동 가능<br/>전투 당 최대 <font color=\"red\">1</font>회 발동<br/><font color=\"purple\">지배의 명령</font>와 <font color=\"purple\">전의의 메아리</font>는 하기에 후술" 
+          "Desc": "받는 피해량 <font color=\"red\">-15%</font><br/>행동 종료 시, 적에게 '<font color=\"purple\">지배의 명령</font>' 부여<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">지배의 명령</font> 효과를 가진 적이 자신 주위 <font color=\"red\">3</font>칸 범위 안에 있을 경우 <br/>공격, 방어 <font color=\"red\">-13%</font><br/>사망 시 역대 황제의 전투 영혼 구현화 - '<font color=\"blue\">제국의 의지</font>'<br/>비소환 아군에게 '<font color=\"purple\">전의의 메아리</font>' 사용 가능<br/>대상자는 타이란텔의 모든 능력을 계승하고 즉시 행동 가능<br/>전투 당 최대 <font color=\"red\">1</font>회 발동<br/><font color=\"purple\">지배의 명령</font>와 <font color=\"purple\">전의의 메아리</font>는 하기에 후술" 
         },
         {
-          "Desc": "받는 피해량 <font color=\"red\">-20</font>%<br/>행동 종료 시, 적에게 '<font color=\"purple\">지배의 명령</font>' 부여<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">지배의 명령</font> 효과를 가진 적이 자신 주위 <font color=\"red\">3</font>칸 범위 안에 있을 경우 <br/>공격, 방어 <font color=\"red\">-16</font>%<br/>사망 시 역대 황제의 전투 영혼 구현화 - '<font color=\"blue\">제국의 의지</font>'<br/>비소환 아군에게 '<font color=\"purple\">전의의 메아리</font>' 사용 가능<br/>대상자는 타이란텔의 모든 능력을 계승하고 즉시 행동 가능<br/>전투 당 최대 <font color=\"red\">1</font>회 발동<br/><font color=\"purple\">지배의 명령</font>와 <font color=\"purple\">전의의 메아리</font>는 하기에 후술" 
+          "Desc": "받는 피해량 <font color=\"red\">-20%</font><br/>행동 종료 시, 적에게 '<font color=\"purple\">지배의 명령</font>' 부여<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">지배의 명령</font> 효과를 가진 적이 자신 주위 <font color=\"red\">3</font>칸 범위 안에 있을 경우 <br/>공격, 방어 <font color=\"red\">-16%</font><br/>사망 시 역대 황제의 전투 영혼 구현화 - '<font color=\"blue\">제국의 의지</font>'<br/>비소환 아군에게 '<font color=\"purple\">전의의 메아리</font>' 사용 가능<br/>대상자는 타이란텔의 모든 능력을 계승하고 즉시 행동 가능<br/>전투 당 최대 <font color=\"red\">1</font>회 발동<br/><font color=\"purple\">지배의 명령</font>와 <font color=\"purple\">전의의 메아리</font>는 하기에 후술" 
         },
         {
-          "Desc": "받는 피해량 <font color=\"red\">-25</font>%<br/>행동 종료 시, 적에게 '<font color=\"purple\">지배의 명령</font>' 부여<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">지배의 명령</font> 효과를 가진 적이 자신 주위 <font color=\"red\">3</font>칸 범위 안에 있을 경우 <br/>공격, 방어 <font color=\"red\">-20</font>%<br/>사망 시 역대 황제의 전투 영혼 구현화 - '<font color=\"blue\">제국의 의지</font>'<br/>비소환 아군에게 '<font color=\"purple\">전의의 메아리</font>' 사용 가능<br/>대상자는 타이란텔의 모든 능력을 계승하고 즉시 행동 가능<br/>전투 당 최대 <font color=\"red\">1</font>회 발동<br/><font color=\"purple\">지배의 명령</font>와 <font color=\"purple\">전의의 메아리</font>는 하기에 후술" 
+          "Desc": "받는 피해량 <font color=\"red\">-25%</font><br/>행동 종료 시, 적에게 '<font color=\"purple\">지배의 명령</font>' 부여<br/>쿨타임 <font color=\"red\">2</font>행동<br/><font color=\"purple\">지배의 명령</font> 효과를 가진 적이 자신 주위 <font color=\"red\">3</font>칸 범위 안에 있을 경우 <br/>공격, 방어 <font color=\"red\">-20%</font><br/>사망 시 역대 황제의 전투 영혼 구현화 - '<font color=\"blue\">제국의 의지</font>'<br/>비소환 아군에게 '<font color=\"purple\">전의의 메아리</font>' 사용 가능<br/>대상자는 타이란텔의 모든 능력을 계승하고 즉시 행동 가능<br/>전투 당 최대 <font color=\"red\">1</font>회 발동<br/><font color=\"purple\">지배의 명령</font>와 <font color=\"purple\">전의의 메아리</font>는 하기에 후술" 
         }
       ]
     }
@@ -144,7 +144,7 @@
       "MagicDefRate": 72,
       "Skill": 157,
       "SkillRate": 45,
-      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">80</font>% 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "생명 백분비가 자신의 부대보다 낮은 적과 교전 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
@@ -312,7 +312,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Tyrantel/2.webp",
-      "Desc": "[패시브]인접한 아군의 모든 공격 <font color=\"blue\">호위</font><br/>공격의 <font color=\"red\">15</font>% 수치만큼 <font color=\"blue\">방어 및 마방 증가</font>, <font color=\"red\">2</font>칸 <font color=\"blue\">원거리 반격 가능</font><br/>해제 불가<br/><font color=\"blue\">호위</font> 범위 <font color=\"red\">2</font>칸으로 확대<br/><font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>% 획득<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "[패시브]인접한 아군의 모든 공격 <font color=\"blue\">호위</font><br/>공격의 <font color=\"red\">15%</font> 수치만큼 <font color=\"blue\">방어 및 마방 증가</font>, <font color=\"red\">2</font>칸 <font color=\"blue\">원거리 반격 가능</font><br/>해제 불가<br/><font color=\"blue\">호위</font> 범위 <font color=\"red\">2</font>칸으로 확대<br/><font color=\"blue\">받는 피해</font> <font color=\"red\">-15%</font> 획득<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -326,7 +326,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30</font>% 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -380,7 +380,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
-      "Desc": "부대 생명이 <font color=\"Red\">50</font>% 이하로 전투 진입 시 방어, 마방 <font color=\"Red\">+10</font>%.",
+      "Desc": "부대 생명이 <font color=\"Red\">50%</font> 이하로 전투 진입 시 방어, 마방 <font color=\"Red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -406,7 +406,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Tyrantel/3.webp",
-      "Desc": "[패시브]<font color=\"blue\">주는 피해량 증가</font>, 증가 수치는 <font color=\"purple\">고유 스킬</font>의 <font color=\"blue\">받는 피해 감소</font> 수치와 동일<br/>[물리피해] 단일 개체 <font color=\"Red\">1.5</font>배 피해. 해당 전투 시 <font color=\"blue\">받는 피해</font> <font color=\"Red\">-15</font>%.<br/>전투 후 피해량 <font color=\"Red\">30</font>% 수치 생명 <font color=\"green\">회복</font>",
+      "Desc": "[패시브]<font color=\"blue\">주는 피해량 증가</font>, 증가 수치는 <font color=\"purple\">고유 스킬</font>의 <font color=\"blue\">받는 피해 감소</font> 수치와 동일<br/>[물리피해] 단일 개체 <font color=\"Red\">1.5</font>배 피해. 해당 전투 시 <font color=\"blue\">받는 피해</font> <font color=\"Red\">-15</font>%.<br/>전투 후 피해량 <font color=\"Red\">30%</font> 수치 생명 <font color=\"green\">회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -432,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/타이란텔.webp",
-      "Desc": "[패시브]인접 아군이 받는 모든 공격 <font color=\"blue\">호위</font>. <font color=\"blue\">위치 이동 면역</font>, <font color=\"blue\">고정 피해 면역</font>.<br/>[액티브]공격의 <font color=\"red\">15</font>% 수치 만큼 <font color=\"blue\">방어 및 마방 증가</font><br/><font color=\"red\">2</font>칸 <font color=\"blue\">원거리 공격 반격 가능</font><br/>해제 불가.<br/><font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 확장<br/><font color=\"blue\">공방 능력 대폭 상승</font><br/>지속 <font color=\"red\">4</font>행동.<br/>사용 후 해당 스킬은 '<font color=\"blue\">허망한 파멸</font>'로 교체<br/>지속 <font color=\"red\">3</font>행동<br/>자신이 '<font color=\"purple\">전의의 메아리</font>' 영향을 받을 경우, 보유한 버프 지속 시간이 감소하지 않으며<br/><font color=\"blue\">재행동</font> <font color=\"red\">3</font>칸 가능.",
+      "Desc": "[패시브]인접 아군이 받는 모든 공격 <font color=\"blue\">호위</font>. <font color=\"blue\">위치 이동 면역</font>, <font color=\"blue\">고정 피해 면역</font>.<br/>[액티브]공격의 <font color=\"red\">15%</font> 수치 만큼 <font color=\"blue\">방어 및 마방 증가</font><br/><font color=\"red\">2</font>칸 <font color=\"blue\">원거리 공격 반격 가능</font><br/>해제 불가.<br/><font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 확장<br/><font color=\"blue\">공방 능력 대폭 상승</font><br/>지속 <font color=\"red\">4</font>행동.<br/>사용 후 해당 스킬은 '<font color=\"blue\">허망한 파멸</font>'로 교체<br/>지속 <font color=\"red\">3</font>행동<br/>자신이 '<font color=\"purple\">전의의 메아리</font>' 영향을 받을 경우, 보유한 버프 지속 시간이 감소하지 않으며<br/><font color=\"blue\">재행동</font> <font color=\"red\">3</font>칸 가능.",
       "SubSkills": [
         {
           "Name": "허망한 파멸",

@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>전투 진입시 주는 피해량</b> <font color=\"red\">+5</font>%<br/><font color=\"blue\">스킬</font>로 피해를 입힌 후 쿨타임 감소<br/><b>감소 수치는 명중된 적의 수에 비례</b> (최대 <font color=\"red\">3</font>행동)<br/><b>전투 진입 전 및 행동 종료 시</b> [<font color=\"purple\">위광</font>] 효과 획득 <br/>[<font color=\"purple\">위광</font>] : 지력 <font color=\"red\">+5</font>% 누적 가능(최대 <font color=\"red\">2</font>개 중첩 가능,<b>해제 불가</b><br/>자신에게 있는 <font color=\"red\">2</font>개의 [<font color=\"purple\">위광</font>]마다 부대 사거리 <font color=\"red\">+1</font>"
+          "Desc": "<b>전투 진입시 주는 피해량</b> <font color=\"red\">+5%</font><br/><font color=\"blue\">스킬</font>로 피해를 입힌 후 쿨타임 감소<br/><b>감소 수치는 명중된 적의 수에 비례</b> (최대 <font color=\"red\">3</font>행동)<br/><b>전투 진입 전 및 행동 종료 시</b> [<font color=\"purple\">위광</font>] 효과 획득 <br/>[<font color=\"purple\">위광</font>] : 지력 <font color=\"red\">+5%</font> 누적 가능(최대 <font color=\"red\">2</font>개 중첩 가능,<b>해제 불가</b><br/>자신에게 있는 <font color=\"red\">2</font>개의 [<font color=\"purple\">위광</font>]마다 부대 사거리 <font color=\"red\">+1</font>"
         },
         {
-          "Desc": "<b>전투 진입시 주는 피해량</b> <font color=\"red\">+8</font>%<br/><font color=\"blue\">스킬</font>로 피해를 입힌 후 쿨타임 감소<br/><b>감소 수치는 명중된 적의 수에 비례</b> (최대 <font color=\"red\">3</font>행동)<br/><b>전투 진입 전 및 행동 종료 시</b> [<font color=\"purple\">위광</font>] 효과 획득 <br/>[<font color=\"purple\">위광</font>] : 지력 <font color=\"red\">+5</font>% 누적 가능(최대 <font color=\"red\">3</font>개 중첩 가능, <b>해제 불가</b><br/>자신에게 있는 <font color=\"red\">2</font>개의 [<font color=\"purple\">위광</font>]마다 부대 사거리 <font color=\"red\">+1</font>"
+          "Desc": "<b>전투 진입시 주는 피해량</b> <font color=\"red\">+8%</font><br/><font color=\"blue\">스킬</font>로 피해를 입힌 후 쿨타임 감소<br/><b>감소 수치는 명중된 적의 수에 비례</b> (최대 <font color=\"red\">3</font>행동)<br/><b>전투 진입 전 및 행동 종료 시</b> [<font color=\"purple\">위광</font>] 효과 획득 <br/>[<font color=\"purple\">위광</font>] : 지력 <font color=\"red\">+5%</font> 누적 가능(최대 <font color=\"red\">3</font>개 중첩 가능, <b>해제 불가</b><br/>자신에게 있는 <font color=\"red\">2</font>개의 [<font color=\"purple\">위광</font>]마다 부대 사거리 <font color=\"red\">+1</font>"
         },
         {
-          "Desc": "<b>전투 진입시 주는 피해량</b> <font color=\"red\">+11</font>%<br/><font color=\"blue\">스킬</font>로 피해를 입힌 후 쿨타임 감소<br/><b>감소 수치는 명중된 적의 수에 비례</b> (최대 <font color=\"red\">3</font>행동)<br/><b>전투 진입 전 및 행동 종료 시</b> [<font color=\"purple\">위광</font>] 효과 획득 <br/>[<font color=\"purple\">위광</font>] : 지력 <font color=\"red\">+5</font>% 누적 가능(최대 <font color=\"red\">3</font>개 중첩 가능, <b>해제 불가</b><br/>자신에게 있는 <font color=\"red\">2</font>개의 [<font color=\"purple\">위광</font>]마다 부대 사거리 <font color=\"red\">+1</font>"
+          "Desc": "<b>전투 진입시 주는 피해량</b> <font color=\"red\">+11%</font><br/><font color=\"blue\">스킬</font>로 피해를 입힌 후 쿨타임 감소<br/><b>감소 수치는 명중된 적의 수에 비례</b> (최대 <font color=\"red\">3</font>행동)<br/><b>전투 진입 전 및 행동 종료 시</b> [<font color=\"purple\">위광</font>] 효과 획득 <br/>[<font color=\"purple\">위광</font>] : 지력 <font color=\"red\">+5%</font> 누적 가능(최대 <font color=\"red\">3</font>개 중첩 가능, <b>해제 불가</b><br/>자신에게 있는 <font color=\"red\">2</font>개의 [<font color=\"purple\">위광</font>]마다 부대 사거리 <font color=\"red\">+1</font>"
         },
         {
-          "Desc": "<b>전투 진입시 주는 피해량</b> <font color=\"red\">+15</font>%<br/><font color=\"blue\">스킬</font>로 피해를 입힌 후 쿨타임 감소<br/><b>감소 수치는 명중된 적의 수에 비례</b> (최대 <font color=\"red\">3</font>행동)<br/><b>전투 진입 전 및 행동 종료 시</b> [<font color=\"purple\">위광</font>] 효과 획득 <br/>[<font color=\"purple\">위광</font>] : 지력 <font color=\"red\">+5</font>% 누적 가능(최대 <font color=\"red\">4</font>개 중첩 가능, <b>해제 불가</b><br/>자신에게 있는 <font color=\"red\">2</font>개의 [<font color=\"purple\">위광</font>]마다 부대 사거리 <font color=\"red\">+1</font>"
+          "Desc": "<b>전투 진입시 주는 피해량</b> <font color=\"red\">+15%</font><br/><font color=\"blue\">스킬</font>로 피해를 입힌 후 쿨타임 감소<br/><b>감소 수치는 명중된 적의 수에 비례</b> (최대 <font color=\"red\">3</font>행동)<br/><b>전투 진입 전 및 행동 종료 시</b> [<font color=\"purple\">위광</font>] 효과 획득 <br/>[<font color=\"purple\">위광</font>] : 지력 <font color=\"red\">+5%</font> 누적 가능(최대 <font color=\"red\">4</font>개 중첩 가능, <b>해제 불가</b><br/>자신에게 있는 <font color=\"red\">2</font>개의 [<font color=\"purple\">위광</font>]마다 부대 사거리 <font color=\"red\">+1</font>"
         }
       ]
     }
@@ -85,13 +85,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "성스러운 수호의 위엄",
-    "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">각성 재행동</font> 효과 발동 범위 <font color=\"red\">+1</font><br/>발동 시 추가로 <font color=\"purple\">위광</font> <font color=\"red\">1</font>개 획득"
+    "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">각성 재행동</font> 효과 발동 범위 <font color=\"red\">+1</font><br/>발동 시 추가로 <font color=\"purple\">위광</font> <font color=\"red\">1</font>개 획득"
   },
   "Equip": {
     "Name": "전생의 명문(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "탄생의빛.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><b>영웅 고유 스킬로 누적할 수 있는 위광 갯수</b> <font color=\"red\">+1</font><br/><font color=\"blue\">재행동</font>시 <font color=\"blue\">버프</font> 지속 시간 소모되지 않음"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><b>영웅 고유 스킬로 누적할 수 있는 위광 갯수</b> <font color=\"red\">+1</font><br/><font color=\"blue\">재행동</font>시 <font color=\"blue\">버프</font> 지속 시간 소모되지 않음"
   },
   "Soldiers": [
     44,
@@ -473,7 +473,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ATKup.webp",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 <font color =\"red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>행동 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 <font color =\"red\">+20%</font> 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -655,7 +655,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/탄생의빛.webp",
-      "Desc": "[패시브]<b><font color=\"blue\">지원 스킬</font> 사용 후 행동 종료 시</b><br/><b><font color=\"red\">1</font>명 이상의 아군이 인접해 있을 경우 재행동 (쿨타임 <font color=\"red\">2</font>행동)</b><br/>[마법피해]단일 개체 <font color=\"red\">1.5</font>배 피해, <b>신관을 제외한 모든 병종에게 더 큰 피해를 준다</b><br/><b>전투 후 아군 전체 생명 <font color=\"blue\">회복</font></b> 회복량은 술사 지력의 <font color=\"red\">2</font>배 수치, <br/><b>행동 종료 시 자신과 인접한 무작위 아군 <font color=\"red\">1</font>명에게</b> [<font color=\"blue\">성스러운 방패</font>] 효과 부여 <br/>[<font color=\"blue\">성스러운 방패</font>] : <b>생명이 <font color=\"red\">100</font>% 일 경우</b> 받는 피해 <font color=\"red\">-25</font>%, 지속 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브]<b><font color=\"blue\">지원 스킬</font> 사용 후 행동 종료 시</b><br/><b><font color=\"red\">1</font>명 이상의 아군이 인접해 있을 경우 재행동 (쿨타임 <font color=\"red\">2</font>행동)</b><br/>[마법피해]단일 개체 <font color=\"red\">1.5</font>배 피해, <b>신관을 제외한 모든 병종에게 더 큰 피해를 준다</b><br/><b>전투 후 아군 전체 생명 <font color=\"blue\">회복</font></b> 회복량은 술사 지력의 <font color=\"red\">2</font>배 수치, <br/><b>행동 종료 시 자신과 인접한 무작위 아군 <font color=\"red\">1</font>명에게</b> [<font color=\"blue\">성스러운 방패</font>] 효과 부여 <br/>[<font color=\"blue\">성스러운 방패</font>] : <b>생명이 <font color=\"red\">100%</font> 일 경우</b> 받는 피해 <font color=\"red\">-25%</font>, 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/탄생의빛_Ani.webp"
     }

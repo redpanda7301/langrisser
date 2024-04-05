@@ -85,13 +85,13 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "통솔 군령",
-    "Stats": "지력 <font color=\"red\">+5</font>%<br/><font color=\"blue\">초절 강화 특수 효과</font>를 보유한 상태에서 <font color=\"blue\">엄숙한 시위</font> 사용 시<br/>해당 스킬 쿨타임 <font color=\"red\">-2</font>",
+    "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">초절 강화 특수 효과</font>를 보유한 상태에서 <font color=\"blue\">엄숙한 시위</font> 사용 시<br/>해당 스킬 쿨타임 <font color=\"red\">-2</font>",
   },
   "Equip": {
     "Name": "제국의 보물(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "플로렌티아.webp",
-    "Ability": "생명, 마방 <font color=\"red\">+5</font>%<br/><b>병사가 받는 피해<font color=\"red\">-10</font>%</b><br/><b>매 전투 시작 시 혹은 아군 사망 시</b><br/><font color=\"scarlet\">모략</font><font color=\"red\">1</font>개 획득"
+    "Ability": "생명, 마방 <font color=\"red\">+5%</font><br/><b>병사가 받는 피해<font color=\"red\">-10</font>%</b><br/><b>매 전투 시작 시 혹은 아군 사망 시</b><br/><font color=\"scarlet\">모략</font><font color=\"red\">1</font>개 획득"
   },
   "Soldiers": [
     0,
@@ -553,7 +553,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

@@ -107,7 +107,7 @@
       "MagicDefRate": 83,
       "Skill": 137,
       "SkillRate": 45,
-      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">80</font>% 초과 시</b> 받는 치명타확률<font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">80%</font> 초과 시</b> 받는 치명타확률<font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "<b>공격을 받아 전투 진입시</b> 피해량 <font color=\"red\">+10</font>%"
     },
     {
@@ -133,8 +133,8 @@
       "MagicDefRate": 86,
       "Skill": 137,
       "SkillRate": 45,
-      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">50</font>% 미만 시</b> 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명 <font color=\"red\">80</font>% 초과 시</b> 치명타 확률 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">50%</font> 미만 시</b> 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>부대 생명 <font color=\"red\">80%</font> 초과 시</b> 치명타 확률 <font color=\"red\">+10</font>%"
     }
   ],
   "Materials": {
@@ -390,7 +390,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Kayura/1.webp",
-      "Desc": "[마법 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>전투 진입 전 병사 사거리 <font color=\"red\">+1</font></b>, <br/><b>방어 지형에 위치한 상태로 행동 종료 시</b> <font color=\"blue\">연막</font> 효과 획득 : <br/>받는 모든 피해 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">1</font>행동.",
+      "Desc": "[마법 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>전투 진입 전 병사 사거리 <font color=\"red\">+1</font></b>, <br/><b>방어 지형에 위치한 상태로 행동 종료 시</b> <font color=\"blue\">연막</font> 효과 획득 : <br/>받는 모든 피해 <font color=\"red\">-30%</font>, 지속 <font color=\"red\">1</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -522,7 +522,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/카유라.webp",
-      "Desc": "[패시브]<b>아군 숫자가 5명 이상일 경우</b> 지력 <font color=\"red\">+10</font>%, 이동력 <font color=\"red\">+3</font>, <br/>영웅이 받는 물리 피해 <font color=\"red\">-20</font>%<br/>[마법 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.6</font>배의 피해를 준다.<br/><b>전투 진입 전 병사 사거리 <font color=\"red\">+1</font></b>, <br/><b>행동 종료 시 자신 주위 3칸 범위 내 모든 아군에게 걸린 디버프 <font color=\"red\">3</font>개 제거 및</b>  <br/>지력 <font color=\"red\">3</font>배 수치로 회복",
+      "Desc": "[패시브]<b>아군 숫자가 5명 이상일 경우</b> 지력 <font color=\"red\">+10%</font>, 이동력 <font color=\"red\">+3</font>, <br/>영웅이 받는 물리 피해 <font color=\"red\">-20%</font><br/>[마법 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.6</font>배의 피해를 준다.<br/><b>전투 진입 전 병사 사거리 <font color=\"red\">+1</font></b>, <br/><b>행동 종료 시 자신 주위 3칸 범위 내 모든 아군에게 걸린 디버프 <font color=\"red\">3</font>개 제거 및</b>  <br/>지력 <font color=\"red\">3</font>배 수치로 회복",
       "SubSkills": null,
       "Animation": "../img/Super/카유라_Ani.webp"
     }

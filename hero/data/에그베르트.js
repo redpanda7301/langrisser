@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "칠흑의 마도",
-    "Stats":"지력 <font color=\"red\">+5</font>%<br/>적에게 피해를 준 뒤 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">고정피해</font><br/>피해량은 지력 <font color=\"red\">1</font>배"
+    "Stats":"지력 <font color=\"red\">+5%</font><br/>적에게 피해를 준 뒤 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">고정피해</font><br/>피해량은 지력 <font color=\"red\">1</font>배"
   },
   "Equip": {
     "Name": "플레임 코트(갑옷)",
@@ -516,7 +516,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -608,7 +608,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },

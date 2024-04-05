@@ -88,7 +88,7 @@
     "Name": "아득한 수수께끼(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "아단켈모.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>아군의 <font color=\"purple\">포탈</font> 위에서 행동 종료하는 모든 아군은 '<font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>%' 효과 획득<br/>지속 <font color=\"red\">2</font>행동<br/>비행 이동이 아닌 적이 <font color=\"purple\">포탈</fopnt> 주위 <font color=\"red\">2</font>칸 지형 통과 시 추가로 이동력 <font color=\"red\">-1</font>"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>아군의 <font color=\"purple\">포탈</font> 위에서 행동 종료하는 모든 아군은 '<font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>%' 효과 획득<br/>지속 <font color=\"red\">2</font>행동<br/>비행 이동이 아닌 적이 <font color=\"purple\">포탈</fopnt> 주위 <font color=\"red\">2</font>칸 지형 통과 시 추가로 이동력 <font color=\"red\">-1</font>"
   },
   "Soldiers": [
     0,
@@ -405,7 +405,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Adankelmo/1.webp",
-      "Desc": "지력, 방어 <font color=\"red\">+5</font>%<br/><font color=\"purple\">포탈</font>을 통과한 아군에게 피해 감소 <font color=\"red\">15</font>%<br/>지속 <font color=\"red\">1</font>행동.",
+      "Desc": "지력, 방어 <font color=\"red\">+5%</font><br/><font color=\"purple\">포탈</font>을 통과한 아군에게 피해 감소 <font color=\"red\">15%</font><br/>지속 <font color=\"red\">1</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -431,7 +431,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

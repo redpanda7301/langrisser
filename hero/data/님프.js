@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+10</font>%<br/>전투 시작 시 자신 주위 <font color=\"red\">1</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-15</font>%<br/>행동 종료 시 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>행동<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
+          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+10%</font><br/>전투 시작 시 자신 주위 <font color=\"red\">1</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-15%</font><br/>행동 종료 시 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>행동<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
         },
         {
-          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+15</font>%<br/>전투 시작 시 자신 주위 <font color=\"red\">1</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-25</font>%<br/>행동 종료 시 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>행동<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
+          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+15%</font><br/>전투 시작 시 자신 주위 <font color=\"red\">1</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-25%</font><br/>행동 종료 시 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>행동<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
         },
         {
-          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+20</font>%<br/>전투 시작 시 자신 주위 <font color=\"red\">2</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-35</font>%<br/>행동 종료 시 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>행동<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
+          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+20%</font><br/>전투 시작 시 자신 주위 <font color=\"red\">2</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-35%</font><br/>행동 종료 시 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>행동<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
         },
         {
-          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+25</font>%<br/>전투 시작 시 자신 주위 <font color=\"red\">2</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-45</font>%<br/>행동 종료 시 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>행동<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
+          "Desc": "자신이 버프 보유 시 지력 <font color=\"red\">+25%</font><br/>전투 시작 시 자신 주위 <font color=\"red\">2</font>칸 범위 안 아군에게 '<font color=\"purple\">신비한 거품</font>' 효과 부여<br/><font color=\"purple\">신비한 거품</font> : 다음 피격 범위 피해 <font color=\"red\">-45%</font><br/>행동 종료 시 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">무작위 버프 1</font>개 획득<br/><font color=\"blue\">스킬</font>을 <font color=\"red\">3</font>번 사용할 때마다 행동 종료 시 '<font color=\"purple\">신비한 거품</font>' 발동<br/><font color=\"purple\">신비한 거품</font> 지속 시간 <font color=\"red\">3</font>행동<br/><b>해제 불가</b><br/><font color=\"blue\">범위 피해</font> <font color=\"red\">1</font>회 피격 후 소멸"
         }
       ]
     }
@@ -130,7 +130,7 @@
       "MagicDefRate": 82,
       "Skill": 148,
       "SkillRate": 43,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80</font>% 초과 시 <br/>피격 치명타 확률 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80%</font> 초과 시 <br/>피격 치명타 확률 <font color=\"Red\">-10</font>%",
       "HeartFetterBouns2": "마법 공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     },
     {
@@ -515,7 +515,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefBuf.webp",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"Red\">1</font>개 아군 부대의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"Red\">1</font>개 아군 부대의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -567,7 +567,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/님프.webp",
-      "Desc": "사용 시 추가적으로 <font color=\"purple\">고유 스킬</font> 카운트 <font color=\"red\">1</font>스택 획득<br/>회복 범위 안 다수 부대의 생명을 시전자 지력 <font color=\"red\">2</font>배 수치로 <font color=\"green\">회복</font> 및 '<font color=\"blue\">주는 피해</font> <font color=\"red\">+15</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>동시에 '<font color=\"blue\">아리아</font>' 효과 획득<br/><font color=\"blue\">아리아</font> : 모든 적이 행동 종료 시 일정 확률로 '<font color=\"blue\">수면</font>' 효과 획득 (<font color=\"blue\">기절</font>)<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">아리아</font>는 해제 불가<br/>지속 시간 동안 최대 <font color=\"red\">4</font>회 발동<br/>적이 님프와 가까울수록 수면 확률 상승, 최대 <font color=\"red\">100</font>%<br/><font color=\"blue\">수면</font> 효과를 보유하고 있을 경우 갱신되지 않음",
+      "Desc": "사용 시 추가적으로 <font color=\"purple\">고유 스킬</font> 카운트 <font color=\"red\">1</font>스택 획득<br/>회복 범위 안 다수 부대의 생명을 시전자 지력 <font color=\"red\">2</font>배 수치로 <font color=\"green\">회복</font> 및 '<font color=\"blue\">주는 피해</font> <font color=\"red\">+15</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>동시에 '<font color=\"blue\">아리아</font>' 효과 획득<br/><font color=\"blue\">아리아</font> : 모든 적이 행동 종료 시 일정 확률로 '<font color=\"blue\">수면</font>' 효과 획득 (<font color=\"blue\">기절</font>)<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">아리아</font>는 해제 불가<br/>지속 시간 동안 최대 <font color=\"red\">4</font>회 발동<br/>적이 님프와 가까울수록 수면 확률 상승, 최대 <font color=\"red\">100%</font><br/><font color=\"blue\">수면</font> 효과를 보유하고 있을 경우 갱신되지 않음",
       "SubSkills": null,
       "Animation": "../img/Super/님프_Ani.webp"
     }

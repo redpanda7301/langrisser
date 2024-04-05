@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격, 기술 <font color=\"red\">+10</font>%<br/>해당 행동 때 피해를 <font color=\"red\">1</font>회 입힐 때마다 (<font color=\"blue\">고정 피해</font> 포함) '<font color=\"purple\">검의</font>' <font color=\"red\">1</font>개 획득<br/>공격하지 않았을 경우 남은 이동력을 '<font color=\"purple\">검의</font>'로 전환<br/><font color=\"purple\">검의</font> : 전투 진입 시 주는 피해량 <font color=\"Red\">+1</font>%<br/><b>면역 및 해제 불가</b>(최대 <font color=\"Red\">10</font>중첩)<br/>행동 종료 시, 해당 행동 때 공격을 진행했었고 <font color=\"purple\">검의</font>를 <font color=\"red\">10</font>개 보유하고 있을 경우<br/>생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font> 및 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>종료 시 모든 <font color=\"purple\">검의</font> 소모<br/>각 턴 최대 <font color=\"red\">1</font>회 발동."
+          "Desc": "공격, 기술 <font color=\"red\">+10%</font><br/>해당 행동 때 피해를 <font color=\"red\">1</font>회 입힐 때마다 (<font color=\"blue\">고정 피해</font> 포함) '<font color=\"purple\">검의</font>' <font color=\"red\">1</font>개 획득<br/>공격하지 않았을 경우 남은 이동력을 '<font color=\"purple\">검의</font>'로 전환<br/><font color=\"purple\">검의</font> : 전투 진입 시 주는 피해량 <font color=\"Red\">+1%</font><br/><b>면역 및 해제 불가</b>(최대 <font color=\"Red\">10</font>중첩)<br/>행동 종료 시, 해당 행동 때 공격을 진행했었고 <font color=\"purple\">검의</font>를 <font color=\"red\">10</font>개 보유하고 있을 경우<br/>생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font> 및 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>종료 시 모든 <font color=\"purple\">검의</font> 소모<br/>각 턴 최대 <font color=\"red\">1</font>회 발동."
         },
         {
-          "Desc": "공격, 기술 <font color=\"red\">+13</font>%<br/>해당 행동 때 피해를 <font color=\"red\">1</font>회 입힐 때마다 (<font color=\"blue\">고정 피해</font> 포함) '<font color=\"purple\">검의</font>' <font color=\"red\">1</font>개 획득<br/>공격하지 않았을 경우 남은 이동력을 '<font color=\"purple\">검의</font>'로 전환<br/><font color=\"purple\">검의</font> : 전투 진입 시 주는 피해량 <font color=\"Red\">+1</font>%<br/><b>면역 및 해제 불가</b>(최대 <font color=\"Red\">10</font>중첩)<br/>행동 종료 시, 해당 행동 때 공격을 진행했었고 <font color=\"purple\">검의</font>를 <font color=\"red\">10</font>개 보유하고 있을 경우<br/>생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font> 및 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>종료 시 모든 <font color=\"purple\">검의</font> 소모<br/>각 턴 최대 <font color=\"red\">1</font>회 발동."
+          "Desc": "공격, 기술 <font color=\"red\">+13%</font><br/>해당 행동 때 피해를 <font color=\"red\">1</font>회 입힐 때마다 (<font color=\"blue\">고정 피해</font> 포함) '<font color=\"purple\">검의</font>' <font color=\"red\">1</font>개 획득<br/>공격하지 않았을 경우 남은 이동력을 '<font color=\"purple\">검의</font>'로 전환<br/><font color=\"purple\">검의</font> : 전투 진입 시 주는 피해량 <font color=\"Red\">+1%</font><br/><b>면역 및 해제 불가</b>(최대 <font color=\"Red\">10</font>중첩)<br/>행동 종료 시, 해당 행동 때 공격을 진행했었고 <font color=\"purple\">검의</font>를 <font color=\"red\">10</font>개 보유하고 있을 경우<br/>생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font> 및 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>종료 시 모든 <font color=\"purple\">검의</font> 소모<br/>각 턴 최대 <font color=\"red\">1</font>회 발동."
         },
         {
-          "Desc": "공격, 기술 <font color=\"red\">+16</font>%<br/>해당 행동 때 피해를 <font color=\"red\">1</font>회 입힐 때마다 (<font color=\"blue\">고정 피해</font> 포함) '<font color=\"purple\">검의</font>' <font color=\"red\">1</font>개 획득<br/>공격하지 않았을 경우 남은 이동력을 '<font color=\"purple\">검의</font>'로 전환<br/><font color=\"purple\">검의</font> : 전투 진입 시 주는 피해량 <font color=\"Red\">+2</font>%<br/><b>면역 및 해제 불가</b>(최대 <font color=\"Red\">7</font>중첩)<br/>행동 종료 시, 해당 행동 때 공격을 진행했었고 <font color=\"purple\">검의</font>를 <font color=\"red\">7</font>개 보유하고 있을 경우<br/>생명 <font color=\"red\">40</font>% <font color=\"green\">회복</font> 및 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>종료 시 모든 <font color=\"purple\">검의</font> 소모<br/>각 턴 최대 <font color=\"red\">1</font>회 발동."
+          "Desc": "공격, 기술 <font color=\"red\">+16%</font><br/>해당 행동 때 피해를 <font color=\"red\">1</font>회 입힐 때마다 (<font color=\"blue\">고정 피해</font> 포함) '<font color=\"purple\">검의</font>' <font color=\"red\">1</font>개 획득<br/>공격하지 않았을 경우 남은 이동력을 '<font color=\"purple\">검의</font>'로 전환<br/><font color=\"purple\">검의</font> : 전투 진입 시 주는 피해량 <font color=\"Red\">+2%</font><br/><b>면역 및 해제 불가</b>(최대 <font color=\"Red\">7</font>중첩)<br/>행동 종료 시, 해당 행동 때 공격을 진행했었고 <font color=\"purple\">검의</font>를 <font color=\"red\">7</font>개 보유하고 있을 경우<br/>생명 <font color=\"red\">40%</font> <font color=\"green\">회복</font> 및 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>종료 시 모든 <font color=\"purple\">검의</font> 소모<br/>각 턴 최대 <font color=\"red\">1</font>회 발동."
         },
         {
-          "Desc": "공격, 기술 <font color=\"red\">+20</font>%<br/>해당 행동 때 피해를 <font color=\"red\">1</font>회 입힐 때마다 (<font color=\"blue\">고정 피해</font> 포함) '<font color=\"purple\">검의</font>' <font color=\"red\">1</font>개 획득<br/>공격하지 않았을 경우 남은 이동력을 '<font color=\"purple\">검의</font>'로 전환<br/><font color=\"purple\">검의</font> : 전투 진입 시 주는 피해량 <font color=\"Red\">+3</font>%<br/><b>면역 및 해제 불가</b>(최대 <font color=\"Red\">7</font>중첩)<br/>행동 종료 시, 해당 행동 때 공격을 진행했었고 <font color=\"purple\">검의</font>를 <font color=\"red\">7</font>개 보유하고 있을 경우<br/>생명 <font color=\"red\">50</font>% <font color=\"green\">회복</font> 및 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>종료 시 모든 <font color=\"purple\">검의</font> 소모<br/>각 턴 최대 <font color=\"red\">1</font>회 발동."
+          "Desc": "공격, 기술 <font color=\"red\">+20%</font><br/>해당 행동 때 피해를 <font color=\"red\">1</font>회 입힐 때마다 (<font color=\"blue\">고정 피해</font> 포함) '<font color=\"purple\">검의</font>' <font color=\"red\">1</font>개 획득<br/>공격하지 않았을 경우 남은 이동력을 '<font color=\"purple\">검의</font>'로 전환<br/><font color=\"purple\">검의</font> : 전투 진입 시 주는 피해량 <font color=\"Red\">+3%</font><br/><b>면역 및 해제 불가</b>(최대 <font color=\"Red\">7</font>중첩)<br/>행동 종료 시, 해당 행동 때 공격을 진행했었고 <font color=\"purple\">검의</font>를 <font color=\"red\">7</font>개 보유하고 있을 경우<br/>생명 <font color=\"red\">50%</font> <font color=\"green\">회복</font> 및 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>종료 시 모든 <font color=\"purple\">검의</font> 소모<br/>각 턴 최대 <font color=\"red\">1</font>회 발동."
         }
       ]
     }
@@ -134,7 +134,7 @@
       "MagicDefRate": 68,
       "Skill": 185,
       "SkillRate": 54,
-      "HeartFetterBouns1": "부대 생명이 <font color =\"red\">70</font>% 미만시<br/>전투 진입 후 받는 피해 <font color =\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명이 <font color =\"red\">70%</font> 미만시<br/>전투 진입 후 받는 피해 <font color =\"red\">-10</font>%",
       "HeartFetterBouns2": "범위 피해 <font color=\"red\">+10</font>%"
     }
   ],
@@ -365,7 +365,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30</font>% 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -393,7 +393,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Eye.webp",
-      "Desc": "치명타율 <font color=\"Red\">+15</font>%<br/>전투 진입 시 치명타가 발생한다면 전투 후<br/>적 부대의 <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"Red\">2</font>행동",
+      "Desc": "치명타율 <font color=\"Red\">+15%</font><br/>전투 진입 시 치명타가 발생한다면 전투 후<br/>적 부대의 <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -511,7 +511,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/일레인.webp",
-      "Desc": "[패시브] <font color=\"purple\">검의</font>가 있을 때 이동력 <font color=\"red\">+2</font><br/>물리 피격으로 전투 진입 시 자신의 <b>기술</b>이 상대보다 높을 수록<br/><font color=\"blue\">받는 물리 피해 감소</font>(최대 <font color=\"red\">-80</font>%, 쿨타임 <font color=\"red\">2</font>)<br/>[액티브] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/><font color=\"blue\">근접전 병사 대동 시 함께 공격</font><br/>전투 후 목표 주위 <font color=\"red\">2</font>칸 범위 안 최대 <font color=\"red\">3</font>명 적에게 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">면역 불가 고정피해</font><br/><b>적을 격파했을 경우</b> <font color=\"purple\">검의</font> <font color=\"red\">4</font>개 획득<br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>",
+      "Desc": "[패시브] <font color=\"purple\">검의</font>가 있을 때 이동력 <font color=\"red\">+2</font><br/>물리 피격으로 전투 진입 시 자신의 <b>기술</b>이 상대보다 높을 수록<br/><font color=\"blue\">받는 물리 피해 감소</font>(최대 <font color=\"red\">-80%</font>, 쿨타임 <font color=\"red\">2</font>)<br/>[액티브] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/><font color=\"blue\">근접전 병사 대동 시 함께 공격</font><br/>전투 후 목표 주위 <font color=\"red\">2</font>칸 범위 안 최대 <font color=\"red\">3</font>명 적에게 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">면역 불가 고정피해</font><br/><b>적을 격파했을 경우</b> <font color=\"purple\">검의</font> <font color=\"red\">4</font>개 획득<br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>",
       "SubSkills": null,
       "Animation": "../img/Super/일레인_Ani.webp"
     }

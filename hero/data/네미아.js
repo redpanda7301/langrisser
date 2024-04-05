@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격 <font color=\"red\">+15</font>%<br/>행동 종료 시 지정한 위치 및 주변 <font color=\"red\">1</font>칸 에 '<font color=\"purple\">심오한 해류</font>' 효과 부여<br/>(지속 <font color=\"red\">2</font>행동, 쿨타임 <font color=\"red\">1</font>행동)<br/><font color=\"purple\">심오한 해류</font> : 해당 지형에서 행동 종료 시, <font color=\"blue\">특수 효과</font>가 <font color=\"blue\">제거</font>되고 <b>대상 진영에 따라 추가 효과를 획득</b>(<font color=\"blue\">심오한 해류 설치 사거리</font> <font color=\"red\">4</font>)<br/>아군 개체일 경우 자신 부대 생명 <font color=\"red\">15</font>% <font color=\"green\">회복</font> 및 <font color=\"blue\">무작위 버프</font> 획득<br/>적 개체일 경우 최대 생명 <font color=\"red\">15</font>%의 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">모든 지형을 물로 간주</font>'하는 효과 획득<br/>(지속 <font color=\"red\">1</font>행동)<br/>자신이 아군의 <font color=\"purple\">심오한 해류</font> 효과 지형 통과 시, <font color=\"blue\">이동력 감면 면역</font> <font color=\"red\">2</font>칸 기회 획득"
+          "Desc": "공격 <font color=\"red\">+15%</font><br/>행동 종료 시 지정한 위치 및 주변 <font color=\"red\">1</font>칸 에 '<font color=\"purple\">심오한 해류</font>' 효과 부여<br/>(지속 <font color=\"red\">2</font>행동, 쿨타임 <font color=\"red\">1</font>행동)<br/><font color=\"purple\">심오한 해류</font> : 해당 지형에서 행동 종료 시, <font color=\"blue\">특수 효과</font>가 <font color=\"blue\">제거</font>되고 <b>대상 진영에 따라 추가 효과를 획득</b>(<font color=\"blue\">심오한 해류 설치 사거리</font> <font color=\"red\">4</font>)<br/>아군 개체일 경우 자신 부대 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font> 및 <font color=\"blue\">무작위 버프</font> 획득<br/>적 개체일 경우 최대 생명 <font color=\"red\">15</font>%의 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">모든 지형을 물로 간주</font>'하는 효과 획득<br/>(지속 <font color=\"red\">1</font>행동)<br/>자신이 아군의 <font color=\"purple\">심오한 해류</font> 효과 지형 통과 시, <font color=\"blue\">이동력 감면 면역</font> <font color=\"red\">2</font>칸 기회 획득"
         },
         {
-          "Desc": "공격 <font color=\"red\">+20</font>%<br/>행동 종료 시 지정한 위치 및 주변 <font color=\"red\">1</font>바퀴 에 '<font color=\"purple\">심오한 해류</font>' 효과 부여<br/>(지속 <font color=\"red\">2</font>행동, 쿨타임 <font color=\"red\">1</font>행동)<br/><font color=\"purple\">심오한 해류</font> : 해당 지형에서 행동 종료 시, <font color=\"blue\">특수 효과</font>가 <font color=\"blue\">제거</font>되고 <b>대상 진영에 따라 추가 효과를 획득</b>(<font color=\"blue\">심오한 해류 설치 사거리</font> <font color=\"red\">4</font>)<br/>아군 개체일 경우 자신 부대 생명 <font color=\"red\">15</font>% <font color=\"green\">회복</font> 및 <font color=\"blue\">무작위 버프</font> 획득<br/>적 개체일 경우 최대 생명 <font color=\"red\">15</font>%의 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">모든 지형을 물로 간주</font>'하는 효과 획득<br/>(지속 <font color=\"red\">1</font>행동)<br/>자신이 아군의 <font color=\"purple\">심오한 해류</font> 효과 지형 통과 시, <font color=\"blue\">이동력 감면 면역</font> <font color=\"red\">2</font>칸 기회 획득"
+          "Desc": "공격 <font color=\"red\">+20%</font><br/>행동 종료 시 지정한 위치 및 주변 <font color=\"red\">1</font>바퀴 에 '<font color=\"purple\">심오한 해류</font>' 효과 부여<br/>(지속 <font color=\"red\">2</font>행동, 쿨타임 <font color=\"red\">1</font>행동)<br/><font color=\"purple\">심오한 해류</font> : 해당 지형에서 행동 종료 시, <font color=\"blue\">특수 효과</font>가 <font color=\"blue\">제거</font>되고 <b>대상 진영에 따라 추가 효과를 획득</b>(<font color=\"blue\">심오한 해류 설치 사거리</font> <font color=\"red\">4</font>)<br/>아군 개체일 경우 자신 부대 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font> 및 <font color=\"blue\">무작위 버프</font> 획득<br/>적 개체일 경우 최대 생명 <font color=\"red\">15</font>%의 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">모든 지형을 물로 간주</font>'하는 효과 획득<br/>(지속 <font color=\"red\">1</font>행동)<br/>자신이 아군의 <font color=\"purple\">심오한 해류</font> 효과 지형 통과 시, <font color=\"blue\">이동력 감면 면역</font> <font color=\"red\">2</font>칸 기회 획득"
         },
         {
-          "Desc": "공격 <font color=\"red\">+25</font>%<br/>행동 종료 시 지정한 위치 및 주변 <font color=\"red\">1</font>바퀴 에 '<font color=\"purple\">심오한 해류</font>' 효과 부여<br/>(지속 <font color=\"red\">2</font>행동, 쿨타임 <font color=\"red\">1</font>행동)<br/><font color=\"purple\">심오한 해류</font> : 해당 지형에서 행동 종료 시, <font color=\"blue\">특수 효과</font>가 <font color=\"blue\">제거</font>되고 <b>대상 진영에 따라 추가 효과를 획득</b>(<font color=\"blue\">심오한 해류 설치 사거리</font> <font color=\"red\">4</font>)<br/>아군 개체일 경우 자신 부대 생명 <font color=\"red\">15</font>% <font color=\"green\">회복</font> 및 <font color=\"blue\">무작위 버프</font> 획득<br/>적 개체일 경우 최대 생명 <font color=\"red\">15</font>%의 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">모든 지형을 물로 간주</font>'하는 효과 획득<br/>(지속 <font color=\"red\">1</font>행동)<br/>자신이 아군의 <font color=\"purple\">심오한 해류</font> 효과 지형 통과 시, <font color=\"blue\">이동력 감면 면역</font> <font color=\"red\">2</font>칸 기회 획득"
+          "Desc": "공격 <font color=\"red\">+25%</font><br/>행동 종료 시 지정한 위치 및 주변 <font color=\"red\">1</font>바퀴 에 '<font color=\"purple\">심오한 해류</font>' 효과 부여<br/>(지속 <font color=\"red\">2</font>행동, 쿨타임 <font color=\"red\">1</font>행동)<br/><font color=\"purple\">심오한 해류</font> : 해당 지형에서 행동 종료 시, <font color=\"blue\">특수 효과</font>가 <font color=\"blue\">제거</font>되고 <b>대상 진영에 따라 추가 효과를 획득</b>(<font color=\"blue\">심오한 해류 설치 사거리</font> <font color=\"red\">4</font>)<br/>아군 개체일 경우 자신 부대 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font> 및 <font color=\"blue\">무작위 버프</font> 획득<br/>적 개체일 경우 최대 생명 <font color=\"red\">15</font>%의 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">모든 지형을 물로 간주</font>'하는 효과 획득<br/>(지속 <font color=\"red\">1</font>행동)<br/>자신이 아군의 <font color=\"purple\">심오한 해류</font> 효과 지형 통과 시, <font color=\"blue\">이동력 감면 면역</font> <font color=\"red\">2</font>칸 기회 획득"
         },
         {
-          "Desc": "공격 <font color=\"red\">+30</font>%<br/>행동 종료 시 지정한 위치 및 주변 <font color=\"red\">2</font>칸 에 '<font color=\"purple\">심오한 해류</font>' 효과 부여<br/>(지속 <font color=\"red\">2</font>행동, 쿨타임 <font color=\"red\">1</font>행동)<br/><font color=\"purple\">심오한 해류</font> : 해당 지형에서 행동 종료 시, <font color=\"blue\">특수 효과</font>가 <font color=\"blue\">제거</font>되고 <b>대상 진영에 따라 추가 효과를 획득</b>(<font color=\"blue\">심오한 해류 설치 사거리</font> <font color=\"red\">4</font>)<br/>아군 개체일 경우 자신 부대 생명 <font color=\"red\">15</font>% <font color=\"green\">회복</font> 및 <font color=\"blue\">무작위 버프</font> 획득<br/>적 개체일 경우 최대 생명 <font color=\"red\">15</font>%의 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">모든 지형을 물로 간주</font>'하는 효과 획득<br/>(지속 <font color=\"red\">1</font>행동)<br/>자신이 아군의 <font color=\"purple\">심오한 해류</font> 효과 지형 통과 시, <font color=\"blue\">이동력 감면 면역</font> <font color=\"red\">2</font>칸 기회 획득"
+          "Desc": "공격 <font color=\"red\">+30%</font><br/>행동 종료 시 지정한 위치 및 주변 <font color=\"red\">2</font>칸 에 '<font color=\"purple\">심오한 해류</font>' 효과 부여<br/>(지속 <font color=\"red\">2</font>행동, 쿨타임 <font color=\"red\">1</font>행동)<br/><font color=\"purple\">심오한 해류</font> : 해당 지형에서 행동 종료 시, <font color=\"blue\">특수 효과</font>가 <font color=\"blue\">제거</font>되고 <b>대상 진영에 따라 추가 효과를 획득</b>(<font color=\"blue\">심오한 해류 설치 사거리</font> <font color=\"red\">4</font>)<br/>아군 개체일 경우 자신 부대 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font> 및 <font color=\"blue\">무작위 버프</font> 획득<br/>적 개체일 경우 최대 생명 <font color=\"red\">15</font>%의 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">모든 지형을 물로 간주</font>'하는 효과 획득<br/>(지속 <font color=\"red\">1</font>행동)<br/>자신이 아군의 <font color=\"purple\">심오한 해류</font> 효과 지형 통과 시, <font color=\"blue\">이동력 감면 면역</font> <font color=\"red\">2</font>칸 기회 획득"
         }
       ]
     }
@@ -217,7 +217,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/14.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>전투 후 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">침묵</font> 부여<br/>지속 <font color=\"red\">1</font>행동<br/><b>제거 불가</b>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>전투 후 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">침묵</font> 부여<br/>지속 <font color=\"red\">1</font>행동<br/><b>제거 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -243,7 +243,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_TakeAim.webp",
-      "Desc": "사용 후 부대가 주는 피해량 <font color=\"red\">+10</font>%<br/>지속 <font color=\"red\">1</font>행동<br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸 가능",
+      "Desc": "사용 후 부대가 주는 피해량 <font color=\"red\">+10%</font><br/>지속 <font color=\"red\">1</font>행동<br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸 가능",
       "SubSkills": null,
       "Animation": null
     },
@@ -257,7 +257,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

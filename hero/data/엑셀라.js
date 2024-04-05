@@ -57,16 +57,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "생명 백분비가 자신의 부대보다 높지 않은 적과 교전 시 공방 <font color=\"red\">+10</font>%<br/>행동 종료 시 자신은 <font color=\"red\">20</font>% 확률로 '<font color=\"blue\">모으기</font>' 효과 획득<br/><font color=\"blue\">모으기</font> : 다음 선공 시 영웅 <font color=\"blue\">치명타 확률</font> <font color=\"red\">+100</font>%<br/>해당 공격 때 <font color=\"blue\">스킬</font>로 피해를 입힐 경우 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
+          "Desc": "생명 백분비가 자신의 부대보다 높지 않은 적과 교전 시 공방 <font color=\"red\">+10%</font><br/>행동 종료 시 자신은 <font color=\"red\">20%</font> 확률로 '<font color=\"blue\">모으기</font>' 효과 획득<br/><font color=\"blue\">모으기</font> : 다음 선공 시 영웅 <font color=\"blue\">치명타 확률</font> <font color=\"red\">+100%</font><br/>해당 공격 때 <font color=\"blue\">스킬</font>로 피해를 입힐 경우 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
         },
         {
-          "Desc": "생명 백분비가 자신의 부대보다 높지 않은 적과 교전 시 공방 <font color=\"red\">+13</font>%<br/>행동 종료 시 자신은 <font color=\"red\">30</font>% 확률로 '<font color=\"blue\">모으기</font>' 효과 획득<br/><font color=\"blue\">모으기</font> : 다음 선공 시 영웅 <font color=\"blue\">치명타 확률</font> <font color=\"red\">+100</font>%<br/>해당 공격 때 <font color=\"blue\">스킬</font>로 피해를 입힐 경우 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
+          "Desc": "생명 백분비가 자신의 부대보다 높지 않은 적과 교전 시 공방 <font color=\"red\">+13%</font><br/>행동 종료 시 자신은 <font color=\"red\">30%</font> 확률로 '<font color=\"blue\">모으기</font>' 효과 획득<br/><font color=\"blue\">모으기</font> : 다음 선공 시 영웅 <font color=\"blue\">치명타 확률</font> <font color=\"red\">+100%</font><br/>해당 공격 때 <font color=\"blue\">스킬</font>로 피해를 입힐 경우 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
         },
         {
-          "Desc": "생명 백분비가 자신의 부대보다 높지 않은 적과 교전 시 공방 <font color=\"red\">+16</font>%<br/>행동 종료 시 자신은 <font color=\"red\">40</font>% 확률로 '<font color=\"blue\">모으기</font>' 효과 획득<br/><font color=\"blue\">모으기</font> : 다음 선공 시 영웅 <font color=\"blue\">치명타 확률</font> <font color=\"red\">+100</font>%<br/>해당 공격 때 <font color=\"blue\">스킬</font>로 피해를 입힐 경우 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
+          "Desc": "생명 백분비가 자신의 부대보다 높지 않은 적과 교전 시 공방 <font color=\"red\">+16%</font><br/>행동 종료 시 자신은 <font color=\"red\">40%</font> 확률로 '<font color=\"blue\">모으기</font>' 효과 획득<br/><font color=\"blue\">모으기</font> : 다음 선공 시 영웅 <font color=\"blue\">치명타 확률</font> <font color=\"red\">+100%</font><br/>해당 공격 때 <font color=\"blue\">스킬</font>로 피해를 입힐 경우 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
         },
         {
-          "Desc": "생명 백분비가 자신의 부대보다 높지 않은 적과 교전 시 공방 <font color=\"red\">+20</font>%<br/>행동 종료 시 자신은 <font color=\"red\">50</font>% 확률로 '<font color=\"blue\">모으기</font>' 효과 획득<br/><font color=\"blue\">모으기</font> : 다음 선공 시 영웅 <font color=\"blue\">치명타 확률</font> <font color=\"red\">+100</font>%<br/>해당 공격 때 <font color=\"blue\">스킬</font>로 피해를 입힐 경우 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
+          "Desc": "생명 백분비가 자신의 부대보다 높지 않은 적과 교전 시 공방 <font color=\"red\">+20%</font><br/>행동 종료 시 자신은 <font color=\"red\">50%</font> 확률로 '<font color=\"blue\">모으기</font>' 효과 획득<br/><font color=\"blue\">모으기</font> : 다음 선공 시 영웅 <font color=\"blue\">치명타 확률</font> <font color=\"red\">+100%</font><br/>해당 공격 때 <font color=\"blue\">스킬</font>로 피해를 입힐 경우 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
         }
       ]
     }
@@ -357,7 +357,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.webp",
-      "Desc": "단일 개체 1.5배의 피해<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%,지속 <font color=\"red\">2</font>행동.",
+      "Desc": "단일 개체 1.5배의 피해<br/>전투 후, 적 방어 <font color=\"red\">-30%</font>,지속 <font color=\"red\">2</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -371,7 +371,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefDown.webp",
-      "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 방어 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 방어 <font color=\"red\">-15%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -463,7 +463,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Excela/2.webp",
-      "Desc": "자신에게 '<font color =\"blue\">공격</font> <font color =\"red\">+20</font>%'<br/>선공 시 <font color =\"red\">50</font>% 확률로 '<font color =\"purple\">모으기</font><font color =\"blue\">를 소모하지 않음</font>' 효과를 부여<br/>지속 <font color =\"red\">4</font>행동",
+      "Desc": "자신에게 '<font color =\"blue\">공격</font> <font color =\"red\">+20</font>%'<br/>선공 시 <font color =\"red\">50%</font> 확률로 '<font color =\"purple\">모으기</font><font color =\"blue\">를 소모하지 않음</font>' 효과를 부여<br/>지속 <font color =\"red\">4</font>행동",
       "SubSkills": null,
       "Animation": null
     },    
@@ -515,7 +515,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_FlyCrash2.webp",
-      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <b>생명이 <font color =\"red\">50</font>% 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15</font>%<br/>지속 <font color =\"red\">2</font>행동",
+      "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/><b>전투 전</b> <font color =\"blue\">바람 타기</font> 부여<br/><font color =\"blue\">바람 타기</font> : <b>생명이 <font color =\"red\">50%</font> 이상인 경우 전투 진입 시</b> 받는 피해량 <font color =\"red\">-15%</font><br/>지속 <font color =\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -567,7 +567,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/엑셀라.webp",
-      "Desc": "[패시브] 자신이 '<font color=\"blue\">모으기</font>'를 보유한 상태로 <font color=\"purple\">고유 스킬</font> 발동 시<br/>'선공으로 전투 진입 전 부대 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>[물리피해] 단일 개체 <font color=\"red\">1.5</font>배 피해, <font color=\"blue\">해당 피해는 마법 피해로 간주</font><br/><font color=\"blue\">근접 병사 대동 시 함께 공격</font>적이 <font color=\"blue\">중력장</font> 안에 있다면 행동 종료 시 <font color=\"blue\">중력장</font> 범위 안 모든 적에게 <font color=\"red\">0.2</font>배 <font color=\"blue\">물리 범위 피해</font><br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>",
+      "Desc": "[패시브] 자신이 '<font color=\"blue\">모으기</font>'를 보유한 상태로 <font color=\"purple\">고유 스킬</font> 발동 시<br/>'선공으로 전투 진입 전 부대 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>[물리피해] 단일 개체 <font color=\"red\">1.5</font>배 피해, <font color=\"blue\">해당 피해는 마법 피해로 간주</font><br/><font color=\"blue\">근접 병사 대동 시 함께 공격</font>적이 <font color=\"blue\">중력장</font> 안에 있다면 행동 종료 시 <font color=\"blue\">중력장</font> 범위 안 모든 적에게 <font color=\"red\">0.2</font>배 <font color=\"blue\">물리 범위 피해</font><br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>",
       "SubSkills": null,
       "Animation": "../img/Super/엑셀라_Ani.webp"
     }

@@ -63,16 +63,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>자신의 직선상에 위치하는 적에게</b> 치명타 확률 및 피해 <font color=\"red\">+5</font>%<br/><b>선공으로 치명타 발동 시 목표 및 목표와 인접한 모든 적에게 </b><font color =\"red\">0.5</font>배 고정 피해<br/><b>각 목표</b>는 최대 <font color =\"red\">1</font>번만 피해를 받음"
+          "Desc": "<b>자신의 직선상에 위치하는 적에게</b> 치명타 확률 및 피해 <font color=\"red\">+5%</font><br/><b>선공으로 치명타 발동 시 목표 및 목표와 인접한 모든 적에게 </b><font color =\"red\">0.5</font>배 고정 피해<br/><b>각 목표</b>는 최대 <font color =\"red\">1</font>번만 피해를 받음"
         },
         {
-          "Desc": "<b>자신의 직선상에 위치하는 적에게</b> 치명타 확률 및 피해 <font color=\"red\">+8</font>%<br/><b>선공으로 치명타 발동 시 목표 및 목표와 인접한 모든 적에게 </b><font color =\"red\">0.8</font>배 고정 피해<br/><b>각 목표</b>는 최대 <font color =\"red\">1</font>번만 피해를 받음"
+          "Desc": "<b>자신의 직선상에 위치하는 적에게</b> 치명타 확률 및 피해 <font color=\"red\">+8%</font><br/><b>선공으로 치명타 발동 시 목표 및 목표와 인접한 모든 적에게 </b><font color =\"red\">0.8</font>배 고정 피해<br/><b>각 목표</b>는 최대 <font color =\"red\">1</font>번만 피해를 받음"
         },
         {
-          "Desc": "<b>자신의 직선상에 위치하는 적에게</b> 치명타 확률 및 피해 <font color=\"red\">+11</font>%<br/><b>선공으로 치명타 발동 시 목표 및 목표와 인접한 모든 적에게 </b><font color =\"red\">1.1</font>배 고정 피해<br/><b>각 목표</b>는 최대 <font color =\"red\">1</font>번만 피해를 받음"
+          "Desc": "<b>자신의 직선상에 위치하는 적에게</b> 치명타 확률 및 피해 <font color=\"red\">+11%</font><br/><b>선공으로 치명타 발동 시 목표 및 목표와 인접한 모든 적에게 </b><font color =\"red\">1.1</font>배 고정 피해<br/><b>각 목표</b>는 최대 <font color =\"red\">1</font>번만 피해를 받음"
         },
         {
-          "Desc": "<b>자신의 직선상에 위치하는 적에게</b> 치명타 확률 및 피해 <font color=\"red\">+15</font>%<br/><b>선공으로 치명타 발동 시 목표 및 목표와 인접한 모든 적에게 </b><font color =\"red\">1.5</font>배 고정 피해<br/><b>각 목표</b>는 최대 <font color =\"red\">1</font>번만 피해를 받음"
+          "Desc": "<b>자신의 직선상에 위치하는 적에게</b> 치명타 확률 및 피해 <font color=\"red\">+15%</font><br/><b>선공으로 치명타 발동 시 목표 및 목표와 인접한 모든 적에게 </b><font color =\"red\">1.5</font>배 고정 피해<br/><b>각 목표</b>는 최대 <font color =\"red\">1</font>번만 피해를 받음"
         }
       ]
     }
@@ -80,13 +80,13 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "은밀기동",
-    "Stats": "공격 <font color=\"red\">+5</font>%<br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>(해당 효과 쿨타임 <font color=\"red\">1</font>행동)",
+    "Stats": "공격 <font color=\"red\">+5%</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>(해당 효과 쿨타임 <font color=\"red\">1</font>행동)",
   },
   "Equip": {
     "Name": "빛의 심판관(무기)",
     "Stats": "공격 107, 기술 43",
     "Icon": "수제트.webp",
-    "Ability": "공격 <font color=\"red\">+10</font>%<br/><font color =\"#b8860b\">빛의 군단</font> 초절 효과를 받음<br/><font color=\"blue\">범위 피해 스킬</font>을 지형에 조준해 사용 가능<br/>자신과 거리가 멀수록 <font color=\"blue\">치명타 확률</font> 증가<br/>(<font color=\"red\">1</font>칸당 <font color=\"red\">+3</font>%, 최대 <font color=\"red\">+15</font>%)"
+    "Ability": "공격 <font color=\"red\">+10%</font><br/><font color =\"#b8860b\">빛의 군단</font> 초절 효과를 받음<br/><font color=\"blue\">범위 피해 스킬</font>을 지형에 조준해 사용 가능<br/>자신과 거리가 멀수록 <font color=\"blue\">치명타 확률</font> 증가<br/>(<font color=\"red\">1</font>칸당 <font color=\"red\">+3%</font>, 최대 <font color=\"red\">+15</font>%)"
   },
   "Soldiers": [
     17,
@@ -131,8 +131,8 @@
       "MagicDefRate": 55,
       "Skill": 306,
       "SkillRate": 90,
-      "HeartFetterBouns1": "<b>부대 생명이 <font color =\"red\">50</font>% 미만일 경우</b><br/>받는 피해량<font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명이 <font color =\"red\">80</font>% 초과시</b><br/>치명타 피해<font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명이 <font color =\"red\">50%</font> 미만일 경우</b><br/>받는 피해량<font color =\"red\">-10</font>%",
+      "HeartFetterBouns2": "<b>부대 생명이 <font color =\"red\">80%</font> 초과시</b><br/>치명타 피해<font color =\"red\">+10</font>%"
     },  
     {
       "Name": "총격사 대장",
@@ -477,7 +477,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDexDown.webp",
-      "Desc": "[패시브]<b>행동 종료 시 주위 <font color=\"red\">3</font>칸 내 모든 적 부대</b> 기술 <font color=\"red\">-20</font>%, <font color=\"red\">1</font>행동 지속.",
+      "Desc": "[패시브]<b>행동 종료 시 주위 <font color=\"red\">3</font>칸 내 모든 적 부대</b> 기술 <font color=\"red\">-20%</font>, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -557,7 +557,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass3.webp",
-      "Desc": "[패시브]치명타 피해량 <font color=\"red\">+20</font>%. <br/><b>전투 중 치명타가 발생한 경우</b><br/>전투 종료 후 받는 모든 피해량 <font color=\"red\">-30</font>%<br/><font color=\"red\">1</font>행동 지속.",
+      "Desc": "[패시브]치명타 피해량 <font color=\"red\">+20</font>%. <br/><b>전투 중 치명타가 발생한 경우</b><br/>전투 종료 후 받는 모든 피해량 <font color=\"red\">-30%</font><br/><font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -609,7 +609,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/수제트.webp",
-      "Desc": "[물리피해]<b>범위 내 적에게 <font color=\"red\">0.35</font>배 피해, <br/><b>적 행동 종료 시 최대 생명</b> <font color=\"red\">20</font>% 수치 고정피해 및 <b>다음 턴 시작 시</b> 목표 범위에 <font color=\"red\">0.38</font>배 피해</b>",
+      "Desc": "[물리피해]<b>범위 내 적에게 <font color=\"red\">0.35</font>배 피해, <br/><b>적 행동 종료 시 최대 생명</b> <font color=\"red\">20%</font> 수치 고정피해 및 <b>다음 턴 시작 시</b> 목표 범위에 <font color=\"red\">0.38</font>배 피해</b>",
       "SubSkills": null,
       "Animation": "../img/Super/수제트_Ani.webp"
     }

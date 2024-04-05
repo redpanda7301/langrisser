@@ -80,13 +80,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "염룡의 전승",
-    "Stats":"부대 생명이 높을수록, <font color=\"blue\">반격피해</font> 최대<font color=\"red\">15</font>% 증가"
+    "Stats":"부대 생명이 높을수록, <font color=\"blue\">반격피해</font> 최대<font color=\"red\">15%</font> 증가"
   },
   "Equip": {
     "Name": "영광의 전승(망치)",
     "Stats": "생명 583,공격 85",
     "Icon": "에밀리아.webp",
-    "Ability": "방어, 마방 +<font color=\"red\">5</font>%,<br/>피격으로 전투 진입 시 부대가 받는 물리 피해 <font color=\"red\">-10</font>%, <br/>자신에게 <font color=\"blue\">성스러운 수호</font> 혹은 <br/><font color=\"blue\">고급 성스러운 수호</font> 효과가 있을 경우 <br/><font color=\"red\">원거리 반격가능</font>"
+    "Ability": "방어, 마방 +<font color=\"red\">5%</font>,<br/>피격으로 전투 진입 시 부대가 받는 물리 피해 <font color=\"red\">-10%</font>, <br/>자신에게 <font color=\"blue\">성스러운 수호</font> 혹은 <br/><font color=\"blue\">고급 성스러운 수호</font> 효과가 있을 경우 <br/><font color=\"red\">원거리 반격가능</font>"
   },
   "Soldiers": [
     3,
@@ -478,7 +478,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Emilia2.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color =\"red\">1.5</font>배 피해를 준다.<br/>전투 후, 적에게 '주는 피해량' <font color =\"red\">-20</font>% 부여,<br/><font color=\"red\">2</font>행동 지속.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color =\"red\">1.5</font>배 피해를 준다.<br/>전투 후, 적에게 '주는 피해량' <font color =\"red\">-20%</font> 부여,<br/><font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

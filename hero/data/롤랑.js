@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "지력 <font color=\"red\">+10</font>%<br/>스킬 사용 후 행동 종료 시 자신 부대 생명 <font color=\"red\">10</font>% <font color=\"green\">회복</font><br/>전투 시작 시 영웅 병종에 따라 다른 형태 획득<br/><img src=\"../img/troop/Icon_Occupation_Monk.webp\" width=\"20px\">신관 : <font color=\"purple\">납도</font>' 획득<br/><font color=\"purple\">납도</font> : 지력의 <font color=\"red\">10</font>% 수치를 방어에 더하고<br/>선공으로 전투 진입 시 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><img src=\"../img/troop/Icon_Occupation_Magician.webp\" width=\"20px\">마법사 '<font color=\"purple\">눈부심</font>' 획득<br/><font color=\"purple\">눈부심</font> : 스킬 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>선공으로 적에게 피해를 입힌 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/><font color=\"purple\">납도</font> 및 <font color=\"purple\">눈부심</font>은 면역 및 해제 불가"
+          "Desc": "지력 <font color=\"red\">+10%</font><br/>스킬 사용 후 행동 종료 시 자신 부대 생명 <font color=\"red\">10%</font> <font color=\"green\">회복</font><br/>전투 시작 시 영웅 병종에 따라 다른 형태 획득<br/><img src=\"../img/troop/Icon_Occupation_Monk.webp\" width=\"20px\">신관 : <font color=\"purple\">납도</font>' 획득<br/><font color=\"purple\">납도</font> : 지력의 <font color=\"red\">10%</font> 수치를 방어에 더하고<br/>선공으로 전투 진입 시 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><img src=\"../img/troop/Icon_Occupation_Magician.webp\" width=\"20px\">마법사 '<font color=\"purple\">눈부심</font>' 획득<br/><font color=\"purple\">눈부심</font> : 스킬 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>선공으로 적에게 피해를 입힌 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/><font color=\"purple\">납도</font> 및 <font color=\"purple\">눈부심</font>은 면역 및 해제 불가"
         },
         {
-          "Desc": "지력 <font color=\"red\">+13</font>%<br/>스킬 사용 후 행동 종료 시 자신 부대 생명 <font color=\"red\">13</font>% <font color=\"green\">회복</font><br/>전투 시작 시 영웅 병종에 따라 다른 형태 획득<br/><img src=\"../img/troop/Icon_Occupation_Monk.webp\" width=\"20px\">신관 : <font color=\"purple\">납도</font>' 획득<br/><font color=\"purple\">납도</font> : 지력의 <font color=\"red\">10</font>% 수치를 방어에 더하고<br/>선공으로 전투 진입 시 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><img src=\"../img/troop/Icon_Occupation_Magician.webp\" width=\"20px\">마법사 '<font color=\"purple\">눈부심</font>' 획득<br/><font color=\"purple\">눈부심</font> : 스킬 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>선공으로 적에게 피해를 입힌 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/><font color=\"purple\">납도</font> 및 <font color=\"purple\">눈부심</font>은 면역 및 해제 불가"
+          "Desc": "지력 <font color=\"red\">+13%</font><br/>스킬 사용 후 행동 종료 시 자신 부대 생명 <font color=\"red\">13%</font> <font color=\"green\">회복</font><br/>전투 시작 시 영웅 병종에 따라 다른 형태 획득<br/><img src=\"../img/troop/Icon_Occupation_Monk.webp\" width=\"20px\">신관 : <font color=\"purple\">납도</font>' 획득<br/><font color=\"purple\">납도</font> : 지력의 <font color=\"red\">10%</font> 수치를 방어에 더하고<br/>선공으로 전투 진입 시 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><img src=\"../img/troop/Icon_Occupation_Magician.webp\" width=\"20px\">마법사 '<font color=\"purple\">눈부심</font>' 획득<br/><font color=\"purple\">눈부심</font> : 스킬 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>선공으로 적에게 피해를 입힌 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/><font color=\"purple\">납도</font> 및 <font color=\"purple\">눈부심</font>은 면역 및 해제 불가"
         },
         {
-          "Desc": "지력 <font color=\"red\">+16</font>%<br/>스킬 사용 후 행동 종료 시 자신 부대 생명 <font color=\"red\">16</font>% <font color=\"green\">회복</font><br/>전투 시작 시 영웅 병종에 따라 다른 형태 획득<br/><img src=\"../img/troop/Icon_Occupation_Monk.webp\" width=\"20px\">신관 : <font color=\"purple\">납도</font>' 획득<br/><font color=\"purple\">납도</font> : 지력의 <font color=\"red\">10</font>% 수치를 방어에 더하고<br/>선공으로 전투 진입 시 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><img src=\"../img/troop/Icon_Occupation_Magician.webp\" width=\"20px\">마법사 '<font color=\"purple\">눈부심</font>' 획득<br/><font color=\"purple\">눈부심</font> : 스킬 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>선공으로 적에게 피해를 입힌 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/><font color=\"purple\">납도</font> 및 <font color=\"purple\">눈부심</font>은 면역 및 해제 불가"
+          "Desc": "지력 <font color=\"red\">+16%</font><br/>스킬 사용 후 행동 종료 시 자신 부대 생명 <font color=\"red\">16%</font> <font color=\"green\">회복</font><br/>전투 시작 시 영웅 병종에 따라 다른 형태 획득<br/><img src=\"../img/troop/Icon_Occupation_Monk.webp\" width=\"20px\">신관 : <font color=\"purple\">납도</font>' 획득<br/><font color=\"purple\">납도</font> : 지력의 <font color=\"red\">10%</font> 수치를 방어에 더하고<br/>선공으로 전투 진입 시 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><img src=\"../img/troop/Icon_Occupation_Magician.webp\" width=\"20px\">마법사 '<font color=\"purple\">눈부심</font>' 획득<br/><font color=\"purple\">눈부심</font> : 스킬 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>선공으로 적에게 피해를 입힌 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/><font color=\"purple\">납도</font> 및 <font color=\"purple\">눈부심</font>은 면역 및 해제 불가"
         },
         {
-          "Desc": "지력 <font color=\"red\">+20</font>%<br/>스킬 사용 후 행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font><br/>전투 시작 시 영웅 병종에 따라 다른 형태 획득<br/><img src=\"../img/troop/Icon_Occupation_Monk.webp\" width=\"20px\">신관 : <font color=\"purple\">납도</font>' 획득<br/><font color=\"purple\">납도</font> : 지력의 <font color=\"red\">10</font>% 수치를 방어에 더하고<br/>선공으로 전투 진입 시 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><img src=\"../img/troop/Icon_Occupation_Magician.webp\" width=\"20px\">마법사 '<font color=\"purple\">눈부심</font>' 획득<br/><font color=\"purple\">눈부심</font> : 스킬 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>선공으로 적에게 피해를 입힌 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/><font color=\"purple\">납도</font> 및 <font color=\"purple\">눈부심</font>은 면역 및 해제 불가"
+          "Desc": "지력 <font color=\"red\">+20%</font><br/>스킬 사용 후 행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font><br/>전투 시작 시 영웅 병종에 따라 다른 형태 획득<br/><img src=\"../img/troop/Icon_Occupation_Monk.webp\" width=\"20px\">신관 : <font color=\"purple\">납도</font>' 획득<br/><font color=\"purple\">납도</font> : 지력의 <font color=\"red\">10%</font> 수치를 방어에 더하고<br/>선공으로 전투 진입 시 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><img src=\"../img/troop/Icon_Occupation_Magician.webp\" width=\"20px\">마법사 '<font color=\"purple\">눈부심</font>' 획득<br/><font color=\"purple\">눈부심</font> : 스킬 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>선공으로 적에게 피해를 입힌 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/><font color=\"purple\">납도</font> 및 <font color=\"purple\">눈부심</font>은 면역 및 해제 불가"
         }
       ]
     }
@@ -80,7 +80,7 @@
     "Name": "서광의 비밀(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "롤랑.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><font color=\"blue\">형태 변환</font> 시, <font color=\"blue\">자신이 보유한 버프 지속 시간이 감소하지 않음</font><br/><font color=\"purple\">납도</font> 보유 시, 피해를 받지 않고 행동 종료 시 이동력 <font color=\"red\">+2</font>, 지속 <font color=\"red\">1</font>행동<br/>눈부심 보유 시, 선공 후 재이동 <font color=\"red\">2</font>칸"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">형태 변환</font> 시, <font color=\"blue\">자신이 보유한 버프 지속 시간이 감소하지 않음</font><br/><font color=\"purple\">납도</font> 보유 시, 피해를 받지 않고 행동 종료 시 이동력 <font color=\"red\">+2</font>, 지속 <font color=\"red\">1</font>행동<br/>눈부심 보유 시, 선공 후 재이동 <font color=\"red\">2</font>칸"
   },
   "Soldiers": [
     4,
@@ -200,7 +200,7 @@
     //       "Name": "<img src=\"../img/troop/Icon_Occupation_Monk.webp\" width=\"20px\">신관",
     //       "Entries": null,
     //       "IconImageUrl": "../img/skills/Roland/Gift_Roland2.webp",
-    //       "Desc": "'<font color=\"purple\">납도</font>' 획득<br/><font color=\"purple\">납도</font> : 지력의 <font color=\"red\">10</font>% 수치를 방어에 더하고<br/>선공으로 전투 진입 시 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><font color=\"purple\">납도</font>는 면역 및 해제불가"
+    //       "Desc": "'<font color=\"purple\">납도</font>' 획득<br/><font color=\"purple\">납도</font> : 지력의 <font color=\"red\">10%</font> 수치를 방어에 더하고<br/>선공으로 전투 진입 시 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><font color=\"purple\">납도</font>는 면역 및 해제불가"
     //     },
     //     {
     //       "Name": "<img src=\"../img/troop/Icon_Occupation_Magician.webp\" width=\"20px\">마법사",
@@ -259,7 +259,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Roland/1.webp",
-      "Desc": "다른 형태로 바꾸며 자신의 공격 및 지력 <font color=\"red\">+20</font>%<br/>지속 <font color=\"red\">2</font>행동<br/>(전장에 '프레시아'라는 아군이 있을 경우, 지속 시간 <font color=\"red\">4</font>행동으로 변경, 해당 효과를 함께 부여)<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font>",
+      "Desc": "다른 형태로 바꾸며 자신의 공격 및 지력 <font color=\"red\">+20%</font><br/>지속 <font color=\"red\">2</font>행동<br/>(전장에 '프레시아'라는 아군이 있을 경우, 지속 시간 <font color=\"red\">4</font>행동으로 변경, 해당 효과를 함께 부여)<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -372,7 +372,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BreakEvil.webp",
-      "Desc": "치명타율 <font color=\"red\">+15</font>%<br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
+      "Desc": "치명타율 <font color=\"red\">+15%</font><br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -424,7 +424,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BreakEvil.webp",
-      "Desc": "치명타율 <font color=\"red\">+15</font>%<br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
+      "Desc": "치명타율 <font color=\"red\">+15%</font><br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": null
     },

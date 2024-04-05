@@ -81,13 +81,13 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "마폭멸광",
-    "Stats": "치명타 피해 <font color=\"red\">+10</font>%<br/><font color=\"blue\">마검의 장벽</font>이 피해를 받아 사라질 경우 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+20</font>%'효과 획득<br/>지속 <font color=\"red\">1</font>행동",
+    "Stats": "치명타 피해 <font color=\"red\">+10%</font><br/><font color=\"blue\">마검의 장벽</font>이 피해를 받아 사라질 경우 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+20</font>%'효과 획득<br/>지속 <font color=\"red\">1</font>행동",
   },
   "Equip": {
     "Name": "소멸 - 개 -(무기)",
     "Stats": "생명 437,공격 107",
     "Icon": "입실론.webp",
-    "Ability": "공격 <font color=\"red\">+10</font>%<br/>부대 병종 상성 무시<br/>전장에 있는 부대 사망 시 자신에게 걸린 디버프 <font color=\"red\">1</font>개 제거, 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font> 및 <br/> '<font color=\"blue\">마검의 장벽</font>' 효과 획득 <br/><font color=\"blue\">마검의 장벽</font> : 다음에 부대가 받는 피해 <font color=\"red\">-80</font>% <br/>(쿨타임 <font color=\"red\">1</font> 행동)"
+    "Ability": "공격 <font color=\"red\">+10%</font><br/>부대 병종 상성 무시<br/>전장에 있는 부대 사망 시 자신에게 걸린 디버프 <font color=\"red\">1</font>개 제거, 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font> 및 <br/> '<font color=\"blue\">마검의 장벽</font>' 효과 획득 <br/><font color=\"blue\">마검의 장벽</font> : 다음에 부대가 받는 피해 <font color=\"red\">-80%</font> <br/>(쿨타임 <font color=\"red\">1</font> 행동)"
   },
   "Soldiers": [
     31,
@@ -406,7 +406,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Epsilon/1.webp",
-      "Desc": "[물리 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.3배</font>의 피해를 준다.<br/><b>(디메리트)전투 진입 전 이동 <font color=\"red\">1</font>칸</b> 당 <br/>주는 피해 <font color=\"red\">-5</font>% (최대 <font color=\"red\">-20</font>%)",
+      "Desc": "[물리 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.3배</font>의 피해를 준다.<br/><b>(디메리트)전투 진입 전 이동 <font color=\"red\">1</font>칸</b> 당 <br/>주는 피해 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-20</font>%)",
       "SubSkills": null,
       "Animation": null
     },
@@ -512,7 +512,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Epsilon/4.webp",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '메테오 스트라이크' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>전투 진입 전 적에게 피격 치명타 확률, 피격 치명타 피해</b> <font color=\"red\">+12</font>%, <br/><b>적 부대 처치 후</b> <font color=\"blue\">반격 피해량</font><font color=\"red\">+25</font>% 효과 획득<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '메테오 스트라이크' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>전투 진입 전 적에게 피격 치명타 확률, 피격 치명타 피해</b> <font color=\"red\">+12%</font>, <br/><b>적 부대 처치 후</b> <font color=\"blue\">반격 피해량</font><font color=\"red\">+25%</font> 효과 획득<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -564,7 +564,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/입실론.webp",
-      "Desc": "[패시브]<b>전장에 있는 부대가 <font color=\"red\">사망</font>할 때마다</b><br/> <font color=\"blue\">도살</font> 효과 획득 및 <font color=\"orange\">흉성의 마검</font> 쿨타임 <font color=\"red\">-1</font>행동,<br/><font color=\"blue\">도살</font> : 공격 <font color=\"red\">+5</font>%(최대 <font color=\"red\">4</font>중첩),<br/> [물리 피해]<b>단일 적 부대를 공격할때 호위를 무시하고</b><br/>치명타 확률<font color=\"red\">+30</font>%, <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>해당 스킬로 적 격파 시</b><br/>'<font color=\"blue\">도살</font>' <font color=\"red\">1</font>스택 획득",
+      "Desc": "[패시브]<b>전장에 있는 부대가 <font color=\"red\">사망</font>할 때마다</b><br/> <font color=\"blue\">도살</font> 효과 획득 및 <font color=\"orange\">흉성의 마검</font> 쿨타임 <font color=\"red\">-1</font>행동,<br/><font color=\"blue\">도살</font> : 공격 <font color=\"red\">+5</font>%(최대 <font color=\"red\">4</font>중첩),<br/> [물리 피해]<b>단일 적 부대를 공격할때 호위를 무시하고</b><br/>치명타 확률<font color=\"red\">+30%</font>, <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>해당 스킬로 적 격파 시</b><br/>'<font color=\"blue\">도살</font>' <font color=\"red\">1</font>스택 획득",
       "SubSkills": null,
       "Animation": "../img/Super/입실론_Ani.webp"
     }

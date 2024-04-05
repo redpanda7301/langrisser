@@ -84,7 +84,7 @@
     "Name": "끝없는 순환(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "초월자.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>선공으로 전투 진입 시 피해 <font color=\"Red\">+15</font>%<br/>전투 시작 시 '<font color=\"purple\">파멸과 창생의 위력</font>' <font color=\"Red\">1</font>스택 획득 <br/><font color=\"blue\">운명의 반전</font> 사용 시 적에게서 버프 <font color=\"Red\">3</font>개 강탈"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>선공으로 전투 진입 시 피해 <font color=\"Red\">+15%</font><br/>전투 시작 시 '<font color=\"purple\">파멸과 창생의 위력</font>' <font color=\"Red\">1</font>스택 획득 <br/><font color=\"blue\">운명의 반전</font> 사용 시 적에게서 버프 <font color=\"Red\">3</font>개 강탈"
   },
   "Soldiers": [
     17,
@@ -392,7 +392,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
-      "Desc": "[패시브]부대 생명이 <font color =\"red\">50</font>% 이하로 전투 진입 시 방어, 마방 <font color =\"red\">+10</font>%.",
+      "Desc": "[패시브]부대 생명이 <font color =\"red\">50%</font> 이하로 전투 진입 시 방어, 마방 <font color =\"red\">+10</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -470,7 +470,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Transcendent/2.webp",
-      "Desc": "[마법 피해]주위 <font color =\"red\">5</font>칸 내 모든 적군에게 <font color =\"red\">0.45</font>배 범위 피해 및<br/>'공격,지력 <font color =\"red\">-25</font>%'<br/>'<b>적의 방어와 마방 중 높은 쪽</b> <font color =\"red\">-25</font>% 디버프 부여'<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "[마법 피해]주위 <font color =\"red\">5</font>칸 내 모든 적군에게 <font color =\"red\">0.45</font>배 범위 피해 및<br/>'공격,지력 <font color =\"red\">-25</font>%'<br/>'<b>적의 방어와 마방 중 높은 쪽</b> <font color =\"red\">-25%</font> 디버프 부여'<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -496,7 +496,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ATKup.webp",
-      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 <font color =\"red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>행동 지속.",
+      "Desc": "[지원]액티브 스킬, 1개 부대의 공격,지력 <font color =\"red\">+20%</font> 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -522,7 +522,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Transcendent/3.webp",
-      "Desc": "[마법 피해]<font color=\"red\">1</font>개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.35</font>배 범위 및 <br/>적에게 <font color =\"blue\">주는 피해량</font> <font color =\"red\">-10</font>% 효과 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "[마법 피해]<font color=\"red\">1</font>개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.35</font>배 범위 및 <br/>적에게 <font color =\"blue\">주는 피해량</font> <font color =\"red\">-10%</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -574,7 +574,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/초월자.webp",
-      "Desc": "[패시브]<b><font color = \"blue\">부대가 근접전 패널티 영향을 받지 않는다</font></b><br/><b>피해를 입은 후 부대 생명이 처음으로 <font color=\"red\">50</font>% 미만으로 감소 시</b> [<font color=\"blue\">보호 방패</font>]효과 획득<br/><font color=\"blue\">보호 방패</font> : 자신의 최대 생명 <font color=\"red\">50</font>% 이상의 피해를 막음, <b>해제 불가</b><br/><font color=\"blue\">보호 방패</font>효과는 <font color=\"red\">1</font> 종류만 발동<br/>[액티브] : 적 하나를 선택해 <b>백분비 생명 수치</b>교환 및 사용 후 <font color=\"blue\">재행동</font><br/><b>해당 스킬은 버프 지속시간을 감소시키지 않음</b>",
+      "Desc": "[패시브]<b><font color = \"blue\">부대가 근접전 패널티 영향을 받지 않는다</font></b><br/><b>피해를 입은 후 부대 생명이 처음으로 <font color=\"red\">50%</font> 미만으로 감소 시</b> [<font color=\"blue\">보호 방패</font>]효과 획득<br/><font color=\"blue\">보호 방패</font> : 자신의 최대 생명 <font color=\"red\">50%</font> 이상의 피해를 막음, <b>해제 불가</b><br/><font color=\"blue\">보호 방패</font>효과는 <font color=\"red\">1</font> 종류만 발동<br/>[액티브] : 적 하나를 선택해 <b>백분비 생명 수치</b>교환 및 사용 후 <font color=\"blue\">재행동</font><br/><b>해당 스킬은 버프 지속시간을 감소시키지 않음</b>",
       "SubSkills": null,
       "Animation": "../img/Super/초월자_Ani.webp"
     }

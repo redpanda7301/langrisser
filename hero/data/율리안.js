@@ -64,18 +64,18 @@
           "Desc": "2성"
         },
         {
-          "Desc": "치명타 <font color=\"red\">+10</font>%<br/>적의 생명이 <font color=\"red\">90</font>% 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+15</font>% <br/>전투 후 피해량 <font color=\"red\">15</font>% 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100</font>% 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+1</font>칸, 최대 <font color=\"Red\">+3</font>칸"
+          "Desc": "치명타 <font color=\"red\">+10%</font><br/>적의 생명이 <font color=\"red\">90%</font> 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+15%</font> <br/>전투 후 피해량 <font color=\"red\">15%</font> 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100%</font> 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+1</font>칸, 최대 <font color=\"Red\">+3</font>칸"
         },
         {
-          "Desc": "치명타 <font color=\"red\">+15</font>%<br/>적의 생명이 <font color=\"red\">90</font>% 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+20</font>% <br/>전투 후 피해량 <font color=\"red\">20</font>% 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100</font>% 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+2</font>칸, 최대 <font color=\"Red\">+4</font>칸"
+          "Desc": "치명타 <font color=\"red\">+15%</font><br/>적의 생명이 <font color=\"red\">90%</font> 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+20%</font> <br/>전투 후 피해량 <font color=\"red\">20%</font> 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100%</font> 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+2</font>칸, 최대 <font color=\"Red\">+4</font>칸"
 
         },
         {
-          "Desc": "치명타 <font color=\"red\">+20</font>%<br/>적의 생명이 <font color=\"red\">90</font>% 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+30</font>% <br/>전투 후 피해량 <font color=\"red\">25</font>% 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100</font>% 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+2</font>칸, 최대 <font color=\"Red\">+4</font>칸"
+          "Desc": "치명타 <font color=\"red\">+20%</font><br/>적의 생명이 <font color=\"red\">90%</font> 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+30%</font> <br/>전투 후 피해량 <font color=\"red\">25%</font> 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100%</font> 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+2</font>칸, 최대 <font color=\"Red\">+4</font>칸"
 
         },
         {
-          "Desc": "치명타 <font color=\"red\">+30</font>%<br/>적의 생명이 <font color=\"red\">90</font>% 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+40</font>% <br/>전투 후 피해량 <font color=\"red\">30</font>% 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100</font>% 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+3</font>칸, 최대 <font color=\"Red\">+6</font>칸"
+          "Desc": "치명타 <font color=\"red\">+30%</font><br/>적의 생명이 <font color=\"red\">90%</font> 미만일 경우 전투 진입 시 피해량 <font color=\"red\">+40%</font> <br/>전투 후 피해량 <font color=\"red\">30%</font> 수치 <font color=\"green\">생명 회복</font><br/>생명 <font color=\"Red\">100%</font> 미만인 적 <font color=\"Red\">1</font>명당 율리안 이동력 <font color=\"Red\">+3</font>칸, 최대 <font color=\"Red\">+6</font>칸"
 
         }
       ]
@@ -87,7 +87,7 @@
     "Name": "집행자의 침묵(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "율리안.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>전장에 생명 <font color=\"red\">100</font>% 미만 적 부대가 있을 경우<br/><font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>공격 후 <font color=\"red\">20</font>% 확률로 <font color=\"blue\">재행동</font>(쿨타임 <font color=\"red\">2</font>행동)"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>전장에 생명 <font color=\"red\">100%</font> 미만 적 부대가 있을 경우<br/><font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>공격 후 <font color=\"red\">20%</font> 확률로 <font color=\"blue\">재행동</font>(쿨타임 <font color=\"red\">2</font>행동)"
   },
   "Soldiers": [
     8,
@@ -420,7 +420,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass2.webp",
-      "Desc": "선공으로 전투 진입 시 전투 후 <font color=\"red\">30</font>%의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30</font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "선공으로 전투 진입 시 전투 후 <font color=\"red\">30</font>%의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -460,7 +460,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Julian/1.webp",
-      "Desc": "치명타 <font color=\"Red\">+20</font>%<br/>공격 범위 안 적에게 <font color=\"Red\">0.3</font>배 피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"Red\">2</font>개 부여<br/>만약 적 생명이 <font color=\"Red\">100</font>% 미만일 경우 피해 <font color=\"Red\">+50</font>%",
+      "Desc": "치명타 <font color=\"Red\">+20%</font><br/>공격 범위 안 적에게 <font color=\"Red\">0.3</font>배 피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"Red\">2</font>개 부여<br/>만약 적 생명이 <font color=\"Red\">100%</font> 미만일 경우 피해 <font color=\"Red\">+50</font>%",
       "SubSkills": null,
       "Animation": null
     },
@@ -526,7 +526,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Julian/2.webp",
-      "Desc": "적 생명 <font color=\"Red\">100</font>% 미만일 경우 전투 진입 시 받는 피해 <font color=\"Red\">-15</font>%,<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"Red\">3</font>칸<br/>쿨타임 <font color=\"Red\">1</font>행동",
+      "Desc": "적 생명 <font color=\"Red\">100%</font> 미만일 경우 전투 진입 시 받는 피해 <font color=\"Red\">-15%</font>,<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"Red\">3</font>칸<br/>쿨타임 <font color=\"Red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -552,7 +552,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/율리안.webp",
-      "Desc": "[패시브]선공으로 적 격파 후 <b>피격으로 전투 진입 전</b>, 적에게 자신 공격 <font color=\"Red\">2</font>배 수치 <font color=\"blue\">고정 피해</font> 효과 획득<br/>지속 <font color=\"Red\">1</font>행동<br/>[물리피해]<font color=\"blue\">호위 무시</font> <font color=\"Red\">1.4</font>배 피해, 치명타 <font color=\"Red\">+30</font>%<br/>적 격파 시 스킬 쿨 <font color=\"Red\">-2</font> 및<br/> 영웅 생명 최대치 영구 증가 <font color=\"Red\">15</font>% 및 부대 생명 <font color=\"Red\">15</font>% <font color=\"green\">회복</font><br/><b>해제 불가</b><br/>증가량 최대치 <font color=\"Red\">30</font>%",
+      "Desc": "[패시브]선공으로 적 격파 후 <b>피격으로 전투 진입 전</b>, 적에게 자신 공격 <font color=\"Red\">2</font>배 수치 <font color=\"blue\">고정 피해</font> 효과 획득<br/>지속 <font color=\"Red\">1</font>행동<br/>[물리피해]<font color=\"blue\">호위 무시</font> <font color=\"Red\">1.4</font>배 피해, 치명타 <font color=\"Red\">+30%</font><br/>적 격파 시 스킬 쿨 <font color=\"Red\">-2</font> 및<br/> 영웅 생명 최대치 영구 증가 <font color=\"Red\">15%</font> 및 부대 생명 <font color=\"Red\">15%</font> <font color=\"green\">회복</font><br/><b>해제 불가</b><br/>증가량 최대치 <font color=\"Red\">30</font>%",
       "SubSkills": null,
       "Animation": "../img/Super/율리안_Ani.webp"
     }

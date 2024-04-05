@@ -63,16 +63,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+5</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+5</font>%<br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-20</font>% <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-20</font>% <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
+          "Desc": "피해량 <font color=\"red\">+5</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+5%</font><br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-20%</font> <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-20%</font> <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+8</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+8</font>%<br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-25</font>% <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-25</font>% <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
+          "Desc": "피해량 <font color=\"red\">+8</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+8%</font><br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-25%</font> <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-25%</font> <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+11</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+11</font>%<br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-30</font>% <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-30</font>% <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
+          "Desc": "피해량 <font color=\"red\">+11</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+11%</font><br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-30%</font> <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-30%</font> <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
         },
         {
-          "Desc": "피해량 <font color=\"red\">+15</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+15</font>%<br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-40</font>% <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-40</font>% <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
+          "Desc": "피해량 <font color=\"red\">+15</font>%.<br/><b>상성 관계의 부대 와 전투 시</b> 공격, 방어<font color=\"red\">+15%</font><br/><b>스테이지 진입 후 자신에게 무작위로 '<font color=\"purple\">자수정 장막</font>'이나 '<font color=\"purple\">자수정 방패</font>'중 <font color=\"red\">1</font>개 획득</b><br/><font color=\"purple\">자수정 장막</font> : 받는 마법 피해량 <font color =\"red\">-40%</font> <br/><font color=\"purple\">자수정 방패</font> : 받는 물리 피해량 <font color =\"red\">-40%</font> <br/>'<font color=\"purple\">자수정 장막</font>', '<font color=\"purple\">자수정 방패</font>'는 <b>동시 발동 불가</b><br/><b>면역 및 해제 불가</b><br/><b>턴 시작 시 상호 교체</b>"
         }
       ]
     }
@@ -80,13 +80,13 @@
   "SPTalent":null,
   "Second_Awaken":{
     "Name" : "수정 코어 충전",
-    "Stats":"공격, 방어 <font color=\"red\">+5</font>%<br/><font color=\"blue\">패시브 봉인 면역</font><br/><font color=\"blue\">자수정 폭발</font> 스킬 피해량<font color=\"red\">+10</font>%"
+    "Stats":"공격, 방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">패시브 봉인 면역</font><br/><font color=\"blue\">자수정 폭발</font> 스킬 피해량<font color=\"red\">+10</font>%"
   },
   "Equip": {
     "Name": "개조육체 α EX(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "알파.webp",
-    "Ability": "생명,방어 <font color=\"red\">+5</font>% 이동력 <font color=\"red\">+1</font><br/>자신에게 '<font color=\"purple\">자수정 방패</font>'가 있을 경우 피격 물리 공격을 피해량 <font color=\"red\">60</font>% <font color=\"green\">반사</font><br/>'<font color=\"purple\">자수정 장막</font>'이 있을 경우 피격 마법 공격을 피해량 <font color=\"red\">60</font>% <font color=\"green\">반사</font><br/>둘다 없는 경우 영웅이 주는 피해량 <font color=\"red\">+15</font>%"
+    "Ability": "생명,방어 <font color=\"red\">+5%</font> 이동력 <font color=\"red\">+1</font><br/>자신에게 '<font color=\"purple\">자수정 방패</font>'가 있을 경우 피격 물리 공격을 피해량 <font color=\"red\">60%</font> <font color=\"green\">반사</font><br/>'<font color=\"purple\">자수정 장막</font>'이 있을 경우 피격 마법 공격을 피해량 <font color=\"red\">60%</font> <font color=\"green\">반사</font><br/>둘다 없는 경우 영웅이 주는 피해량 <font color=\"red\">+15</font>%"
   },
   "Soldiers": [
     28,
@@ -381,7 +381,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/43.webp",
-        "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30</font>%, <font color=\"red\">2</font>행동 지속.",
+        "Desc": "[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 전투 피해를 준다.<br/>전투 후, 적 방어 <font color=\"red\">-30%</font>, <font color=\"red\">2</font>행동 지속.",
         "SubSkills": null,
         "Animation": null
     },
@@ -395,7 +395,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-        "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+        "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
         "SubSkills": null,
         "Animation": null
     },
@@ -421,7 +421,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color=\"red\">1.3</font>배 피해를 준다.<br/>전투 전 상대 버프 <font color=\"red\">2</font>개 제거와 동시에 상대의 공격 및 지력 <font color=\"red\">-20</font>% <br/><font color=\"red\">1</font>행동 지속.",
+      "Desc": "[물리 피해] 단일 적군을 공격하여 <font color=\"red\">1.3</font>배 피해를 준다.<br/>전투 전 상대 버프 <font color=\"red\">2</font>개 제거와 동시에 상대의 공격 및 지력 <font color=\"red\">-20%</font> <br/><font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -435,7 +435,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/Skill_Parry.webp",
-        "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격 <font color=\"red\">7</font>% 만큼 방어 상승",
+        "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시 공격 <font color=\"red\">7%</font> 만큼 방어 상승",
         "SubSkills": null,
         "Animation": null
     },
@@ -475,7 +475,7 @@
               "Value": "단일"
             }],
             "IconImageUrl": "../img/skills/Alpha/1_1.webp",
-            "Desc": "[물리 피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배 피해를 준다.<br/><b>전투 전</b> <font color=\"purple\">자수정 장막</font> 효과 획득<br/>전투 후 해당 전투에서 입힌 피해량 <font color =\"red\">30</font>% 수치 생명 회복"
+            "Desc": "[물리 피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배 피해를 준다.<br/><b>전투 전</b> <font color=\"purple\">자수정 장막</font> 효과 획득<br/>전투 후 해당 전투에서 입힌 피해량 <font color =\"red\">30%</font> 수치 생명 회복"
           },
           {
             "Name": "<font color=\"blue\">방패</font>",
@@ -497,7 +497,7 @@
               "Value": "단일"
             }],
             "IconImageUrl": "../img/skills/Alpha/1_2.webp",
-            "Desc": "[물리 피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배 피해를 준다.<br/><b>전투 전</b> <font color=\"purple\">자수정 방패</font> 효과 획득<br/>전투 후 해당 전투에서 입힌 피해량 <font color =\"red\">30</font>% 수치 생명 회복"
+            "Desc": "[물리 피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배 피해를 준다.<br/><b>전투 전</b> <font color=\"purple\">자수정 방패</font> 효과 획득<br/>전투 후 해당 전투에서 입힌 피해량 <font color =\"red\">30%</font> 수치 생명 회복"
           }
         ],
         "Animation": null
@@ -524,7 +524,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/Alpha/2.webp",
-        "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"red\">2</font>칸으로 증가, 공격 지력 <font color=\"red\">+20</font>% 및 '<font color=\"blue\">증원</font>'과 '<font color=\"blue\">응수</font>' 획득, <br/>지속 <font color=\"red\">2</font>행동 <br/><font color=\"blue\">증원</font> : 행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% 회복 <br/><font color=\"blue\">응수</font> : 공격을 받을 시 공격 <font color=\"red\">7</font>% 만큼 방어 상승",
+        "Desc": "[패시브]근접한 아군을 대신해 모든 공격을 받는다.<br/>[액티브]호위 범위가 <font color=\"red\">2</font>칸으로 증가, 공격 지력 <font color=\"red\">+20%</font> 및 '<font color=\"blue\">증원</font>'과 '<font color=\"blue\">응수</font>' 획득, <br/>지속 <font color=\"red\">2</font>행동 <br/><font color=\"blue\">증원</font> : 행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> 회복 <br/><font color=\"blue\">응수</font> : 공격을 받을 시 공격 <font color=\"red\">7%</font> 만큼 방어 상승",
         "SubSkills": null,
         "Animation": null
       },
@@ -590,7 +590,7 @@
           }
         ],
         "IconImageUrl": "../img/Super/알파.webp",
-        "Desc": "[패시브] 사망 시 생명 <font color=\"red\">100</font>% 수치로 <font color=\"blue\">부활</font> 및 <font color=\"blue\">모든 스킬 쿨타임 <font color=\"red\">-5</font></font> 및 <br/><b>'<font color=\"purple\">자수정 장막</font>','<font color=\"purple\">자수정 방패</font>' 영구 상실 및 재획득 불가(디메리트)</b><br/>최대 <font color=\"red\">1</font>회 발동.<br/>[액티브]<b>자신과 주위 <font color=\"red\">4</font>칸 <font color=\"red\">0.3</font>배 범위 피해</b><br/>사용 전 <b>자신에게 걸린</b> 모든 <font color =\"blue\">디버프 해제</font><br/>자신의 생명이 낮을 수록 피해량 증가 <br/>최대 <font color =\"red\">100</font>%",
+        "Desc": "[패시브] 사망 시 생명 <font color=\"red\">100%</font> 수치로 <font color=\"blue\">부활</font> 및 <font color=\"blue\">모든 스킬 쿨타임 <font color=\"red\">-5</font></font> 및 <br/><b>'<font color=\"purple\">자수정 장막</font>','<font color=\"purple\">자수정 방패</font>' 영구 상실 및 재획득 불가(디메리트)</b><br/>최대 <font color=\"red\">1</font>회 발동.<br/>[액티브]<b>자신과 주위 <font color=\"red\">4</font>칸 <font color=\"red\">0.3</font>배 범위 피해</b><br/>사용 전 <b>자신에게 걸린</b> 모든 <font color =\"blue\">디버프 해제</font><br/>자신의 생명이 낮을 수록 피해량 증가 <br/>최대 <font color =\"red\">100</font>%",
         "SubSkills": null,
         "Animation": "../img/Super/알파_Ani.webp"
       }

@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">2</font>% 범위 피해량 최대(<font color=\"red\">+10%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
+          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">2%</font> 범위 피해량 최대(<font color=\"red\">+10%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
         },
         {
-          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">3</font>% 범위 피해량 최대(<font color=\"red\">+15%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
+          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">3%</font> 범위 피해량 최대(<font color=\"red\">+15%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
         },
         {
-          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">4</font>% 범위 피해량 최대(<font color=\"red\">+20%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
+          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">4%</font> 범위 피해량 최대(<font color=\"red\">+20%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
         },
         {
-          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">6</font>% 범위 피해량 최대(<font color=\"red\">+30%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
+          "Desc": "이동 <font color =\"red\">1</font>칸 당 <font color=\"red\">6%</font> 범위 피해량 최대(<font color=\"red\">+30%</font>)<br/>영웅 사망시 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해."
         }
       ]
     }
@@ -81,13 +81,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "복수의 깃털 칼날",
-    "Stats": "스킬 피해 <font color=\"red\">+10</font>%<br/><font color=\"purple\">파멸의 날개</font>의 사망 효과 발동 시, 범위 내 적에게 추가로 받는 피해 <font color=\"red\">+15</font>% 효과 부여, 지속 <font color=\"red\">1</font>행동 "
+    "Stats": "스킬 피해 <font color=\"red\">+10%</font><br/><font color=\"purple\">파멸의 날개</font>의 사망 효과 발동 시, 범위 내 적에게 추가로 받는 피해 <font color=\"red\">+15%</font> 효과 부여, 지속 <font color=\"red\">1</font>행동 "
   },
   "Equip": {
     "Name": "절망의 날개 갑옷(갑옷)",
     "Stats": "생명 509,방어 59",
     "Icon": "빈센트.webp",
-    "Ability": "이동력 <font color=\"red\">1</font>칸 당 치명타 확률 <font color=\"red\">+3</font>% (최대 <font color=\"red\">+15</font>%)<br/><b>선공으로 치명타 발동 후</b> 적의 <font color=\"blue\">버프</font><font color=\"red\">1</font>개 제거"
+    "Ability": "이동력 <font color=\"red\">1</font>칸 당 치명타 확률 <font color=\"red\">+3%</font> (최대 <font color=\"red\">+15</font>%)<br/><b>선공으로 치명타 발동 후</b> 적의 <font color=\"blue\">버프</font><font color=\"red\">1</font>개 제거"
   },
   "Soldiers": [
     46,
@@ -129,7 +129,7 @@
       "MagicDefRate": 74,
       "Skill": 179,
       "SkillRate": 50,
-      "HeartFetterBouns1": "부대 생명력이 <font color=\"red\">80</font>% 이상시, 받는 치명타율 감소 <font color=\"red\">10</font>%",
+      "HeartFetterBouns1": "부대 생명력이 <font color=\"red\">80%</font> 이상시, 받는 치명타율 감소 <font color=\"red\">10</font>%",
       "HeartFetterBouns2": "공격을 받아 전투 진입시, 주는 피해증가 <font color=\"red\">10</font>%"
     },
     {
@@ -392,7 +392,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_FlyControl.webp",
-      "Desc": "[패시브]생명이 <font color=\"red\">50</font>% 이상인 경우 전투 진입시 받는 모든 피해량 <font color=\"red\">-15</font>%.",
+      "Desc": "[패시브]생명이 <font color=\"red\">50%</font> 이상인 경우 전투 진입시 받는 모든 피해량 <font color=\"red\">-15</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -458,7 +458,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Vincent/1.webp",
-      "Desc": "[물리 피해] 주위 <font color=\"red\">2</font>바퀴 <font color=\"red\">0.3</font>배 범위 피해, <br/>해당 스킬로 적을 격파 시 쿨타임 <font color=\"red\">-2</font> 및 <b>스킬 <font color=\"red\">1</font>회 재발동</b> <br/>해당 스킬을 <b>다시 사용 가능 할 경우</b> 피해 <font color=\"red\">-50</font>% <br/>(해당 효과는 <font color=\"red\">1</font>행동에 최대 <font color=\"red\">1</font>회 발동)",
+      "Desc": "[물리 피해] 주위 <font color=\"red\">2</font>바퀴 <font color=\"red\">0.3</font>배 범위 피해, <br/>해당 스킬로 적을 격파 시 쿨타임 <font color=\"red\">-2</font> 및 <b>스킬 <font color=\"red\">1</font>회 재발동</b> <br/>해당 스킬을 <b>다시 사용 가능 할 경우</b> 피해 <font color=\"red\">-50%</font> <br/>(해당 효과는 <font color=\"red\">1</font>행동에 최대 <font color=\"red\">1</font>회 발동)",
       "SubSkills": null,
       "Animation": null
     },
@@ -498,7 +498,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraAtkDown.webp",
-      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대 공격, 지력 <font color=\"red\">-15</font>%, <font color=\"red\">1</font>행동 지속.",
+      "Desc": "[패시브]행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대 공격, 지력 <font color=\"red\">-15%</font>, <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -550,7 +550,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/빈센트.webp",
-      "Desc": "[패시브] 사망 시 생명 <font color=\"red\">50</font>% 수치로 <font color=\"blue\">부활</font> 및 <font color=\"blue\">파멸의 날개 사망</font> 효과 발동, <br/>해당 효과는 전장에서 최대 <font color=\"red\">1</font>회 발동.<br/>그 후 자신이 가하는 피해 <font color=\"red\">-30</font>%, 지속 <font color=\"red\">1</font>행동, <br/><b>해당 효과는 해제 불가 및 면역 불가</b><br/>[액티브]자신을 선택한 적 <font color=\"red\">1</font>명 곁으로 이동 : <br/>목표를 향해 돌격 후 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해 입힌 후 <b>자신은 최대 생명 <font color=\"red\">30</font>% 수치의 고정피해를 받음</b>, <br/>스킬 사용 후 자신에게 걸린 모든 디버프를 제거 후 '<b>면역</b>' 효과 부여, 지속 <font color=\"red\">1</font>행동 <br/>(<b>해당 스킬의 위치 이동 및 고정 피해는 면역 및 감면 불가</b>)",
+      "Desc": "[패시브] 사망 시 생명 <font color=\"red\">50%</font> 수치로 <font color=\"blue\">부활</font> 및 <font color=\"blue\">파멸의 날개 사망</font> 효과 발동, <br/>해당 효과는 전장에서 최대 <font color=\"red\">1</font>회 발동.<br/>그 후 자신이 가하는 피해 <font color=\"red\">-30%</font>, 지속 <font color=\"red\">1</font>행동, <br/><b>해당 효과는 해제 불가 및 면역 불가</b><br/>[액티브]자신을 선택한 적 <font color=\"red\">1</font>명 곁으로 이동 : <br/>목표를 향해 돌격 후 주위 <font color=\"red\">3</font>칸 <font color=\"red\">0.3</font>배 범위 피해 입힌 후 <b>자신은 최대 생명 <font color=\"red\">30%</font> 수치의 고정피해를 받음</b>, <br/>스킬 사용 후 자신에게 걸린 모든 디버프를 제거 후 '<b>면역</b>' 효과 부여, 지속 <font color=\"red\">1</font>행동 <br/>(<b>해당 스킬의 위치 이동 및 고정 피해는 면역 및 감면 불가</b>)",
       "SubSkills": null,
       "Animation": "../img/Super/빈센트_Ani.webp"
     }

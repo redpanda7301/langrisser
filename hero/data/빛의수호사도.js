@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-10</font>% 감소<br/>행동 종료 시 <font color=\"purple\">거울의 빛</font> <font color=\"red\">1</font> 스택 획득<br/><font color=\"purple\">거울의 빛</font> : 지력 <font color=\"red\">+2</font>%, 자신이 <font color=\"blue\">버프 제거</font>를 받을때,<br/><font color=\"purple\">거울의 빛</font>이 우선적으로 제거<br/>최대 <font color=\"red\">5</font>중첩<br/>사망 시 생명 <font color=\"red\">20</font>% 수치로 부활하며<br/><font color=\"purple\">거울의 빛</font> <font color=\"Red\">3</font> 획득<br/>최대 <font color=\"red\">1</font>회"
+          "Desc": "받는 피해 <font color=\"red\">-10%</font> 감소<br/>행동 종료 시 <font color=\"purple\">거울의 빛</font> <font color=\"red\">1</font> 스택 획득<br/><font color=\"purple\">거울의 빛</font> : 지력 <font color=\"red\">+2%</font>, 자신이 <font color=\"blue\">버프 제거</font>를 받을때,<br/><font color=\"purple\">거울의 빛</font>이 우선적으로 제거<br/>최대 <font color=\"red\">5</font>중첩<br/>사망 시 생명 <font color=\"red\">20%</font> 수치로 부활하며<br/><font color=\"purple\">거울의 빛</font> <font color=\"Red\">3</font> 획득<br/>최대 <font color=\"red\">1</font>회"
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-15</font>% 감소<br/>행동 종료 시 <font color=\"purple\">거울의 빛</font> <font color=\"red\">2</font> 스택 획득<br/><font color=\"purple\">거울의 빛</font> : 지력 <font color=\"red\">+2</font>%, 자신이 <font color=\"blue\">버프 제거</font>를 받을때,<br/><font color=\"purple\">거울의 빛</font>이 우선적으로 제거<br/>최대 <font color=\"red\">5</font>중첩<br/>사망 시 생명 <font color=\"red\">30</font>% 수치로 부활하며<br/><font color=\"purple\">거울의 빛</font> <font color=\"Red\">4</font> 획득<br/>최대 <font color=\"red\">1</font>회"
+          "Desc": "받는 피해 <font color=\"red\">-15%</font> 감소<br/>행동 종료 시 <font color=\"purple\">거울의 빛</font> <font color=\"red\">2</font> 스택 획득<br/><font color=\"purple\">거울의 빛</font> : 지력 <font color=\"red\">+2%</font>, 자신이 <font color=\"blue\">버프 제거</font>를 받을때,<br/><font color=\"purple\">거울의 빛</font>이 우선적으로 제거<br/>최대 <font color=\"red\">5</font>중첩<br/>사망 시 생명 <font color=\"red\">30%</font> 수치로 부활하며<br/><font color=\"purple\">거울의 빛</font> <font color=\"Red\">4</font> 획득<br/>최대 <font color=\"red\">1</font>회"
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-20</font>% 감소<br/>행동 종료 시 <font color=\"purple\">거울의 빛</font> <font color=\"red\">2</font> 스택 획득<br/><font color=\"purple\">거울의 빛</font> : 지력 <font color=\"red\">+2</font>%, 자신이 <font color=\"blue\">버프 제거</font>를 받을때,<br/><font color=\"purple\">거울의 빛</font>이 우선적으로 제거<br/>최대 <font color=\"red\">5</font>중첩<br/>사망 시 생명 <font color=\"red\">40</font>% 수치로 부활하며<br/><font color=\"purple\">거울의 빛</font> <font color=\"Red\">4</font> 획득<br/>최대 <font color=\"red\">1</font>회"
+          "Desc": "받는 피해 <font color=\"red\">-20%</font> 감소<br/>행동 종료 시 <font color=\"purple\">거울의 빛</font> <font color=\"red\">2</font> 스택 획득<br/><font color=\"purple\">거울의 빛</font> : 지력 <font color=\"red\">+2%</font>, 자신이 <font color=\"blue\">버프 제거</font>를 받을때,<br/><font color=\"purple\">거울의 빛</font>이 우선적으로 제거<br/>최대 <font color=\"red\">5</font>중첩<br/>사망 시 생명 <font color=\"red\">40%</font> 수치로 부활하며<br/><font color=\"purple\">거울의 빛</font> <font color=\"Red\">4</font> 획득<br/>최대 <font color=\"red\">1</font>회"
         },
         {
-          "Desc": "받는 피해 <font color=\"red\">-25</font>% 감소<br/>행동 종료 시 <font color=\"purple\">거울의 빛</font> <font color=\"red\">3</font> 스택 획득<br/><font color=\"purple\">거울의 빛</font> : 지력 <font color=\"red\">+2</font>%, 자신이 <font color=\"blue\">버프 제거</font>를 받을때,<br/><font color=\"purple\">거울의 빛</font>이 우선적으로 제거<br/>최대 <font color=\"red\">5</font>중첩<br/>사망 시 생명 <font color=\"red\">50</font>% 수치로 부활하며<br/><font color=\"purple\">거울의 빛</font> <font color=\"Red\">5</font> 획득<br/>최대 <font color=\"red\">1</font>회"
+          "Desc": "받는 피해 <font color=\"red\">-25%</font> 감소<br/>행동 종료 시 <font color=\"purple\">거울의 빛</font> <font color=\"red\">3</font> 스택 획득<br/><font color=\"purple\">거울의 빛</font> : 지력 <font color=\"red\">+2%</font>, 자신이 <font color=\"blue\">버프 제거</font>를 받을때,<br/><font color=\"purple\">거울의 빛</font>이 우선적으로 제거<br/>최대 <font color=\"red\">5</font>중첩<br/>사망 시 생명 <font color=\"red\">50%</font> 수치로 부활하며<br/><font color=\"purple\">거울의 빛</font> <font color=\"Red\">5</font> 획득<br/>최대 <font color=\"red\">1</font>회"
         }
       ]
     }
@@ -84,7 +84,7 @@
     "Name": "잿불의 파수(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "빛의수호사도.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>자신이 보유한 <font color=\"blue\">거울의 빛</font> <font color=\"red\">1</font> 스택 당 <font color=\"blue\">부대 피해</font> <font color=\"blue\">+2</font>%<br/>행동 종료 시 <font color=\"red\">5</font>스택을 보유하고 있을 경우 생명이 가장 낮은 아군을 지력 <font color=\"red\">2.5</font>배 수치로 <font color=\"green\">회복</font>"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>자신이 보유한 <font color=\"blue\">거울의 빛</font> <font color=\"red\">1</font> 스택 당 <font color=\"blue\">부대 피해</font> <font color=\"blue\">+2%</font><br/>행동 종료 시 <font color=\"red\">5</font>스택을 보유하고 있을 경우 생명이 가장 낮은 아군을 지력 <font color=\"red\">2.5</font>배 수치로 <font color=\"green\">회복</font>"
   },
   "Soldiers": [
     4,
@@ -404,7 +404,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/BlessedApostle/1.webp",
-      "Desc": "[패시브]인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>[액티브] <font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 늘어나며<br/>지력 <font color=\"red\">15</font>% 수치만큼 <font color=\"blue\">방어, 마방</font> 증가<br/><font color=\"blue\">부대 반격 사거리</font><font color=\"red\">+2</font>칸 증가 <br/>지속 <font color=\"Red\">2</font>행동.",
+      "Desc": "[패시브]인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>[액티브] <font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 늘어나며<br/>지력 <font color=\"red\">15%</font> 수치만큼 <font color=\"blue\">방어, 마방</font> 증가<br/><font color=\"blue\">부대 반격 사거리</font><font color=\"red\">+2</font>칸 증가 <br/>지속 <font color=\"Red\">2</font>행동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -482,7 +482,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -496,7 +496,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_MDefBuf.webp",
-      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"Red\">1</font>개 아군 부대의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브]행동 종료 시 근접한 <font color=\"Red\">1</font>개 아군 부대의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -522,7 +522,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ATKup.webp",
-      "Desc": "<font color=\"Red\">1</font>개 부대의 공격,지력 <font color =\"red\">+20</font>% 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>행동 지속.",
+      "Desc": "<font color=\"Red\">1</font>개 부대의 공격,지력 <font color =\"red\">+20%</font> 및<br/> 면역: '공격, 지력 감소', '침묵', <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -548,7 +548,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/BlessedApostle/3.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다<br/>전장에서 아군이 <font color=\"red\">1</font>명 사망시 피해량 <font color=\"red\">+15</font>%, 최대 <font color=\"red\">+45</font>%.<br/>해당 스킬로 적 격파시, 해당 스킬 쿨타임 <font color=\"red\">-2</font><br/><font color=\"blue\">근접병사 대동시 경우 병사도 같이 공격한다. 해당 스킬은 근접전 패널티를 받지 않음</font>",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다<br/>전장에서 아군이 <font color=\"red\">1</font>명 사망시 피해량 <font color=\"red\">+15%</font>, 최대 <font color=\"red\">+45</font>%.<br/>해당 스킬로 적 격파시, 해당 스킬 쿨타임 <font color=\"red\">-2</font><br/><font color=\"blue\">근접병사 대동시 경우 병사도 같이 공격한다. 해당 스킬은 근접전 패널티를 받지 않음</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -574,7 +574,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/빛의수호사도.webp",
-      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/><font color=\"blue\">위치이동, 치료반전, 상처저주 면역</font><br/>[지휘]주위 <font color=\"red\">2</font>칸 범위 내 아군의 <font color=\"blue\">받는 치명타</font> 확률 <font color=\"red\">-20</font>%<br/>신관 계열은 추가로 방어 <font color=\"red\">+10</font>%<br/>[액티브]호위 범위가 <font color=\"Red\">2</font>칸으로 늘어나며 <br/>지력 <font color=\"Red\">15</font>% 수치만큼 <font color=\"blue\">방어, 마방 증가</font>. 지휘 범위 <font color=\"Red\">3</font>칸으로 상승<br/> <font color=\"Red\">2</font>칸 이내 <font color\"blue\">원거리 반격</font>가능하며<br/>자신과 전장의 모든 신관계열 아군의 공격, 방어 능력치가 크게 상승<br/> 지속 <font color=\"Red\">4</font>행동",
+      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/><font color=\"blue\">위치이동, 치료반전, 상처저주 면역</font><br/>[지휘]주위 <font color=\"red\">2</font>칸 범위 내 아군의 <font color=\"blue\">받는 치명타</font> 확률 <font color=\"red\">-20%</font><br/>신관 계열은 추가로 방어 <font color=\"red\">+10%</font><br/>[액티브]호위 범위가 <font color=\"Red\">2</font>칸으로 늘어나며 <br/>지력 <font color=\"Red\">15%</font> 수치만큼 <font color=\"blue\">방어, 마방 증가</font>. 지휘 범위 <font color=\"Red\">3</font>칸으로 상승<br/> <font color=\"Red\">2</font>칸 이내 <font color\"blue\">원거리 반격</font>가능하며<br/>자신과 전장의 모든 신관계열 아군의 공격, 방어 능력치가 크게 상승<br/> 지속 <font color=\"Red\">4</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/빛의수호사도_Ani.webp"
     }

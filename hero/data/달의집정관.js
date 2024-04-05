@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+12</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">4</font>행동"
+          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+12%</font> 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">4</font>행동"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+16</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+16%</font> 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+20</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+20%</font> 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+25</font>% 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">2</font>행동"
+          "Desc": "<font color=\"blue\">물 속</font>에서 생명을 제외한 모든 스탯 <font color=\"red\">+25%</font> 증가<br/>적에게 '<font color=\"blue\">위치 이동</font>' 효과 발동 후 행동 종료 시 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회 및 <br/>'<font color=\"blue\">자신이 있는 위치를 수중으로 간주</font>' '이동력 <font color=\"red\">+2</font>' 효과 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>쿨타임 <font color=\"red\">2</font>행동"
         }
       ]
     }
@@ -81,13 +81,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "어두운 달의 소용돌이",
-    "Stats": "공격 <font color=\"red\">+10</font>%<br/><font color=\"blue\">달의 조수</font>로 적 격파시 해당 스킬 <font color=\"blue\">쿨타임</font> <font color=\"red\">-1</font>"
+    "Stats": "공격 <font color=\"red\">+10%</font><br/><font color=\"blue\">달의 조수</font>로 적 격파시 해당 스킬 <font color=\"blue\">쿨타임</font> <font color=\"red\">-1</font>"
   },
   "Equip": {
     "Name": "성간함의 결의(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "달의집정관.webp",
-    "Ability": "생명 <font color=\"red\">+5</font>%,마방 <font color=\"red\">+5</font>%<br/><font color=\"blue\">재행동</font> 효과 발동시, 다른 <font color=\"blue\">버프</font> 지속시간을 소모하지 않음.<br/><b>피해를 입히지 않고</b> <font color=\"blue\">물</font> 속에서 행동 종료시 <br/> 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>"
+    "Ability": "생명 <font color=\"red\">+5%</font>,마방 <font color=\"red\">+5%</font><br/><font color=\"blue\">재행동</font> 효과 발동시, 다른 <font color=\"blue\">버프</font> 지속시간을 소모하지 않음.<br/><b>피해를 입히지 않고</b> <font color=\"blue\">물</font> 속에서 행동 종료시 <br/> 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>"
   },
   "Soldiers": [
     42,
@@ -131,7 +131,7 @@
       "MagicDefRate": 56,
       "Skill": 145,
       "SkillRate": 43,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70</font>% 미만 시 <br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70%</font> 미만 시 <br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
       "HeartFetterBouns2": "공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     },
     {
@@ -163,7 +163,7 @@
       "MagicDefRate": 57,
       "Skill": 121,
       "SkillRate": 40,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80</font>% 초과 시 피격 치명타 확률 <font color=\"Red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80%</font> 초과 시 피격 치명타 확률 <font color=\"Red\">-10</font>%",
       "HeartFetterBouns2": "자신보다 생명 백분비가 높은 적을 공격해 전투 진입 후<br/>주는 피해량 <font color=\"Red\">+10</font>%"
     }
   ],
@@ -384,7 +384,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Consul/1.webp",
-      "Desc": "직선에 있는 단일 개체 <font color=\"red\">1.4</font>배 피해<br/>전투 전 이동 거리 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">+5</font>% (최대 <font color=\"red\">+15</font>%)<br/><font color=\"blue\">호위</font>를 받지 않은 적 공격 시 <font color=\"blue\">위치 이동</font> 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 <font color=\"red\">2</font>칸 밀침<br/><b>근접전 병사 대동 시 병사도 함께 공격</b><br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
+      "Desc": "직선에 있는 단일 개체 <font color=\"red\">1.4</font>배 피해<br/>전투 전 이동 거리 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">+5%</font> (최대 <font color=\"red\">+15</font>%)<br/><font color=\"blue\">호위</font>를 받지 않은 적 공격 시 <font color=\"blue\">위치 이동</font> 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 <font color=\"red\">2</font>칸 밀침<br/><b>근접전 병사 대동 시 병사도 함께 공격</b><br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -450,7 +450,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Consul/2.webp",
-      "Desc": "<font color=\"red\">사망</font> 시 생명 <font color=\"red\">10</font>% <font color=\"green\">회복</font> 후 <font color=\"blue\">부활</font><br/><font color=\"blue\">물 속</font>에 있을 경우 <font color=\"green\">회복</font>량 <font color=\"red\">60</font>%로 상승<br/>최대 <font color=\"red\">1</font>회 발동",
+      "Desc": "<font color=\"red\">사망</font> 시 생명 <font color=\"red\">10%</font> <font color=\"green\">회복</font> 후 <font color=\"blue\">부활</font><br/><font color=\"blue\">물 속</font>에 있을 경우 <font color=\"green\">회복</font>량 <font color=\"red\">60</font>%로 상승<br/>최대 <font color=\"red\">1</font>회 발동",
       "SubSkills": null,
       "Animation": null
     },
@@ -516,7 +516,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 방어 <font color=\"red\">-20</font>%<br/><font color=\"red\">1</font>행동 지속.",
+      "Desc": "전투 진입전 <font color=\"red\">50%</font> 확률로 적의 방어 <font color=\"red\">-20%</font><br/><font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -579,7 +579,7 @@
             }
           ],
           "IconImageUrl": "../img/Super/달의집정관_1.webp",
-          "Desc": "단일 개체 <font color=\"Red\">1.5</font>배 피해, <font color=\"blue\">물 속</font>에 있을 경우 영웅이 주는 피해량 <font color=\"Red\">+40</font>%<br/>전투 후 피해량 <font color=\"Red\">30</font>% 수치 <font color=\"green\">생명 회복</font> 및 <br/>목표에게 '위치한 지형을 <font color=\"blue\">물 속</font>으로 간주' 효과 부여, <b>해제 불가</b><br/>지속 <font color=\"Red\">2</font>행동<br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">월상 인력</font>'으로 변경"
+          "Desc": "단일 개체 <font color=\"Red\">1.5</font>배 피해, <font color=\"blue\">물 속</font>에 있을 경우 영웅이 주는 피해량 <font color=\"Red\">+40%</font><br/>전투 후 피해량 <font color=\"Red\">30%</font> 수치 <font color=\"green\">생명 회복</font> 및 <br/>목표에게 '위치한 지형을 <font color=\"blue\">물 속</font>으로 간주' 효과 부여, <b>해제 불가</b><br/>지속 <font color=\"Red\">2</font>행동<br/>스킬 사용 후 해당 스킬은 '<font color=\"blue\">월상 인력</font>'으로 변경"
         }
       ],
       "Animation": "../img/Super/달의집정관_Ani.webp"

@@ -94,16 +94,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "치명타, 치명타 피해 <font color=\"red\">+10</font>% <br/>자신 <font color=\"red\">2</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-10</font>%, <br/>행동 종료 시 부대 생명 <font color=\"red\">10</font>% <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
+          "Desc": "치명타, 치명타 피해 <font color=\"red\">+10%</font> <br/>자신 <font color=\"red\">2</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-10%</font>, <br/>행동 종료 시 부대 생명 <font color=\"red\">10%</font> <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
         },
         {
-          "Desc": "치명타, 치명타 피해 <font color=\"red\">+15</font>% <br/>자신 <font color=\"red\">2</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-12</font>%, <br/>행동 종료 시 부대 생명 <font color=\"red\">15</font>% <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
+          "Desc": "치명타, 치명타 피해 <font color=\"red\">+15%</font> <br/>자신 <font color=\"red\">2</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-12%</font>, <br/>행동 종료 시 부대 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
         },
         {
-          "Desc": "치명타, 치명타 피해 <font color=\"red\">+20</font>% <br/>자신 <font color=\"red\">3</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-15</font>%, <br/>행동 종료 시 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
+          "Desc": "치명타, 치명타 피해 <font color=\"red\">+20%</font> <br/>자신 <font color=\"red\">3</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-15%</font>, <br/>행동 종료 시 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
         },
         {
-          "Desc": "치명타, 치명타 피해 <font color=\"red\">+25</font>% <br/>자신 <font color=\"red\">3</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-20</font>%, <br/>행동 종료 시 부대 생명 <font color=\"red\">25</font>% <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
+          "Desc": "치명타, 치명타 피해 <font color=\"red\">+25%</font> <br/>자신 <font color=\"red\">3</font>칸 범위 안에 여성이 있을 경우 받는 피해 <font color=\"red\">-20%</font>, <br/>행동 종료 시 부대 생명 <font color=\"red\">25%</font> <font color=\"green\">회복</font><br/><b>적을 격파 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸"
 
         }
       ]
@@ -111,7 +111,7 @@
   ],
   "Second_Awaken":{
     "Name" : "진심어린 애정",
-    "Stats": "공격 <font color=\"red\">+5</font>%<br/>전장에 <font color=\"red\">2</font>명 이상의 여성 아군이 있을 경우, 스킬을 사용해 적 격파 시 해당 스킬 쿨 <font color=\"red\">-3</font>",
+    "Stats": "공격 <font color=\"red\">+5%</font><br/>전장에 <font color=\"red\">2</font>명 이상의 여성 아군이 있을 경우, 스킬을 사용해 적 격파 시 해당 스킬 쿨 <font color=\"red\">-3</font>",
   },
   "Equip": {
     "Name": "황금 사자(투구)",
@@ -842,7 +842,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/디하르트/1.webp",
-      "Desc": "[액티브]<b>아군 여성 <font color=\"red\">1</font>명에게 사용<br/>자신과 목표의 공,방 능력 대폭 상승<br/>자신에겐 추가로 주는 피해량 <font oclor=\"red\">+15</font>%, <br/>'<font oclor=\"blue\">호위 무시</font> 공격 시 <font oclor=\"blue\">병종 상성 무시</font>' 효과 부여 지속 <font oclor=\"red\">4</font>행동 <br/>여성이 '<font color=\"green\">빛의 기원</font>' 진영일 경우 쌍방은 추가로 '<font color=\"blue\">계약</font>' 효과를 받는다, 지속 <font color=\"red\">4</font>행동, <b>해제 불가</b><br/><font color=\"blue\">계약</font> : <b><font color=\"blue\">계약</font> 효과를 가진 아군 사망 시 다른 계약 대상은</b> 생명 <font color=\"red\">60</font>% <font color=\"green\">회복</font> 및 '<font color=\"blue\">면역</font>' 효과 획득 <br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "[액티브]<b>아군 여성 <font color=\"red\">1</font>명에게 사용<br/>자신과 목표의 공,방 능력 대폭 상승<br/>자신에겐 추가로 주는 피해량 <font oclor=\"red\">+15%</font>, <br/>'<font oclor=\"blue\">호위 무시</font> 공격 시 <font oclor=\"blue\">병종 상성 무시</font>' 효과 부여 지속 <font oclor=\"red\">4</font>행동 <br/>여성이 '<font color=\"green\">빛의 기원</font>' 진영일 경우 쌍방은 추가로 '<font color=\"blue\">계약</font>' 효과를 받는다, 지속 <font color=\"red\">4</font>행동, <b>해제 불가</b><br/><font color=\"blue\">계약</font> : <b><font color=\"blue\">계약</font> 효과를 가진 아군 사망 시 다른 계약 대상은</b> 생명 <font color=\"red\">60%</font> <font color=\"green\">회복</font> 및 '<font color=\"blue\">면역</font>' 효과 획득 <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -868,7 +868,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/디하르트/2.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>치명타 확률 <font color=\"red\">+20</font>% <br/>전투 후 아군 여성 영웅 <font color=\"red\">1</font>명당 해당 스킬 쿨타임 <font color=\"red\">-1</font>",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>치명타 확률 <font color=\"red\">+20%</font> <br/>전투 후 아군 여성 영웅 <font color=\"red\">1</font>명당 해당 스킬 쿨타임 <font color=\"red\">-1</font>",
       "SubSkills": null,
       "Animation": null
     },

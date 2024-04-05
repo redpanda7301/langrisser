@@ -84,13 +84,13 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "위기 대처",
-    "Stats": "치료 효과 <font color=\"red\">+10</font>%<br/><font color=\"purple\">전쟁 물자</font> <font color=\"red\">3</font>개 이상 사용 후 행동 종료 시, 생명력이 가장 낮은 아군 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">회복</font> 및 '<font color=\"blue\">투자</font>' 효과 부여",
+    "Stats": "치료 효과 <font color=\"red\">+10%</font><br/><font color=\"purple\">전쟁 물자</font> <font color=\"red\">3</font>개 이상 사용 후 행동 종료 시, 생명력이 가장 낮은 아군 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">회복</font> 및 '<font color=\"blue\">투자</font>' 효과 부여",
   },
   "Equip": {
     "Name": "상업적 리더(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "화이트시시.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/><b>턴 시작시</b> <font color=\"red\">50</font>% 확률로 <font color =\"gold\">전쟁 자금</font> <font color=\"red\">2</font>개 획득<br/><b>만약 얻지 못한 경우 다음 턴 때</b> 확률<font color=\"red\">+50</font>% <br/><font color =\"gold\">전쟁 자금</font> 획득 후 확률은 다시 <font color=\"red\">50</font>%로 초기화"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><b>턴 시작시</b> <font color=\"red\">50%</font> 확률로 <font color =\"gold\">전쟁 자금</font> <font color=\"red\">2</font>개 획득<br/><b>만약 얻지 못한 경우 다음 턴 때</b> 확률<font color=\"red\">+50%</font> <br/><font color =\"gold\">전쟁 자금</font> 획득 후 확률은 다시 <font color=\"red\">50</font>%로 초기화"
   },
   "Soldiers": [
     0,
@@ -564,7 +564,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/WhiteSisi/2.webp",
-      "Desc": "[액티브]범위 내 부대 생명 회복 (지력 <font color=\"red\">2</font>배), 디버프 <font color=\"red\">1</font>개 제거, 이동력 <font color=\"red\">+1</font>, <br/><font color=\"blue\">이동력 저하 면역</font> 효과 부여, 지속 <font color=\"red\">2</font>행동, <br/><b>소환수에겐 추가로</b> 주는 피해 <font color=\"red\">+20</font>% 효과 부여, 지속 <font color=\"red\">2</font>행동,<br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">3</font>개 소모",
+      "Desc": "[액티브]범위 내 부대 생명 회복 (지력 <font color=\"red\">2</font>배), 디버프 <font color=\"red\">1</font>개 제거, 이동력 <font color=\"red\">+1</font>, <br/><font color=\"blue\">이동력 저하 면역</font> 효과 부여, 지속 <font color=\"red\">2</font>행동, <br/><b>소환수에겐 추가로</b> 주는 피해 <font color=\"red\">+20%</font> 효과 부여, 지속 <font color=\"red\">2</font>행동,<br/>「<b><font color=\"gold\">전쟁 자금</font></b>」<font color=\"red\">3</font>개 소모",
       "SubSkills": null,
       "Animation": null
     },

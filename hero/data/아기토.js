@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "행동 종료 시, <font color=\"purple\">야심</font> <font color=\"red\">1</font>개 획득<br/><font color=\"purple\">야심</font> : 공격 방어 <font color=\"red\">+3</font>%, 최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">3</font>행동<br/>적 격파 시 모든 <font color=\"purple\">야심</font>의 지속 시간이 최대치로 초기화)<br/><font color=\"purple\">야심</font> <font color=\"red\">3</font>개 이상 보유 시, 이동력 <font color=\"red\">+2</font><br/><font color=\"red\">5</font>개 이상 보유 시, 선공시 <font color=\"blue\">주는 피해</font> <font color=\"red\">+20</font>% 및 공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능"
+          "Desc": "행동 종료 시, <font color=\"purple\">야심</font> <font color=\"red\">1</font>개 획득<br/><font color=\"purple\">야심</font> : 공격 방어 <font color=\"red\">+3%</font>, 최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">3</font>행동<br/>적 격파 시 모든 <font color=\"purple\">야심</font>의 지속 시간이 최대치로 초기화)<br/><font color=\"purple\">야심</font> <font color=\"red\">3</font>개 이상 보유 시, 이동력 <font color=\"red\">+2</font><br/><font color=\"red\">5</font>개 이상 보유 시, 선공시 <font color=\"blue\">주는 피해</font> <font color=\"red\">+20%</font> 및 공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능"
         },
         {
-          "Desc": "행동 종료 시, <font color=\"purple\">야심</font> <font color=\"red\">1</font>개 획득<br/><font color=\"purple\">야심</font> : 공격 방어 <font color=\"red\">+4</font>%, 최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">3</font>행동<br/>적 격파 시 모든 <font color=\"purple\">야심</font>의 지속 시간이 최대치로 초기화)<br/><font color=\"purple\">야심</font> <font color=\"red\">3</font>개 이상 보유 시, 이동력 <font color=\"red\">+2</font><br/><font color=\"red\">5</font>개 이상 보유 시, 선공시 <font color=\"blue\">주는 피해</font> <font color=\"red\">+20</font>% 및 공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능"
+          "Desc": "행동 종료 시, <font color=\"purple\">야심</font> <font color=\"red\">1</font>개 획득<br/><font color=\"purple\">야심</font> : 공격 방어 <font color=\"red\">+4%</font>, 최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">3</font>행동<br/>적 격파 시 모든 <font color=\"purple\">야심</font>의 지속 시간이 최대치로 초기화)<br/><font color=\"purple\">야심</font> <font color=\"red\">3</font>개 이상 보유 시, 이동력 <font color=\"red\">+2</font><br/><font color=\"red\">5</font>개 이상 보유 시, 선공시 <font color=\"blue\">주는 피해</font> <font color=\"red\">+20%</font> 및 공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능"
         },
         {
-          "Desc": "행동 종료 시, <font color=\"purple\">야심</font> <font color=\"red\">1</font>개 획득<br/><font color=\"purple\">야심</font> : 공격 방어 <font color=\"red\">+5</font>%, 최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">3</font>행동<br/>적 격파 시 모든 <font color=\"purple\">야심</font>의 지속 시간이 최대치로 초기화)<br/><font color=\"purple\">야심</font> <font color=\"red\">3</font>개 이상 보유 시, 이동력 <font color=\"red\">+2</font><br/><font color=\"red\">5</font>개 이상 보유 시, 선공시 <font color=\"blue\">주는 피해</font> <font color=\"red\">+20</font>% 및 공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능"
+          "Desc": "행동 종료 시, <font color=\"purple\">야심</font> <font color=\"red\">1</font>개 획득<br/><font color=\"purple\">야심</font> : 공격 방어 <font color=\"red\">+5%</font>, 최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">3</font>행동<br/>적 격파 시 모든 <font color=\"purple\">야심</font>의 지속 시간이 최대치로 초기화)<br/><font color=\"purple\">야심</font> <font color=\"red\">3</font>개 이상 보유 시, 이동력 <font color=\"red\">+2</font><br/><font color=\"red\">5</font>개 이상 보유 시, 선공시 <font color=\"blue\">주는 피해</font> <font color=\"red\">+20%</font> 및 공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능"
         },
         {
-          "Desc": "행동 종료 시, <font color=\"purple\">야심</font> <font color=\"red\">1</font>개 획득<br/><font color=\"purple\">야심</font> : 공격 방어 <font color=\"red\">+6</font>%, 최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">3</font>행동<br/>적 격파 시 모든 <font color=\"purple\">야심</font>의 지속 시간이 최대치로 초기화)<br/><font color=\"purple\">야심</font> <font color=\"red\">3</font>개 이상 보유 시, 이동력 <font color=\"red\">+2</font><br/><font color=\"red\">5</font>개 이상 보유 시, 선공시 <font color=\"blue\">주는 피해</font> <font color=\"red\">+20</font>% 및 공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능"
+          "Desc": "행동 종료 시, <font color=\"purple\">야심</font> <font color=\"red\">1</font>개 획득<br/><font color=\"purple\">야심</font> : 공격 방어 <font color=\"red\">+6%</font>, 최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">3</font>행동<br/>적 격파 시 모든 <font color=\"purple\">야심</font>의 지속 시간이 최대치로 초기화)<br/><font color=\"purple\">야심</font> <font color=\"red\">3</font>개 이상 보유 시, 이동력 <font color=\"red\">+2</font><br/><font color=\"red\">5</font>개 이상 보유 시, 선공시 <font color=\"blue\">주는 피해</font> <font color=\"red\">+20%</font> 및 공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능"
         }
       ]
     }
@@ -154,7 +154,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Agito/1.webp",
-      "Desc": "단일 개체 <font color=\"red\>1</font>배 피해 및 <font color=\"red\>50</font>% 확률로 전투 후 적에게 <font color=\"blue\>무작위 디버프</font> <font color=\"red\>1</font>개 부여<br/><font color=\"blue\>근접전 병사 대동 시, 병사도 함께 공격<br/><font color=\"blue\>해당 효과는 근접전 패널티를 받지 않음</font>",
+      "Desc": "단일 개체 <font color=\"red\>1</font>배 피해 및 <font color=\"red\>50%</font> 확률로 전투 후 적에게 <font color=\"blue\>무작위 디버프</font> <font color=\"red\>1</font>개 부여<br/><font color=\"blue\>근접전 병사 대동 시, 병사도 함께 공격<br/><font color=\"blue\>해당 효과는 근접전 패널티를 받지 않음</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -168,7 +168,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
-      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20</font>% <font color=\"green\">회복</font>.",
+      "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -208,7 +208,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Agito/2.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.3</font>배 피해<br/>전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/>해당 전투에서 적 방어 <font color=\"red\">20</font>% <font color=\"blue\">방어 무시</font>",
+      "Desc": "단일 개체 <font color=\"red\">1.3</font>배 피해<br/>전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/>해당 전투에서 적 방어 <font color=\"red\">20%</font> <font color=\"blue\">방어 무시</font>",
       "SubSkills": null,
       "Animation": null
     },    

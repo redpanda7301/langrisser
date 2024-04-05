@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군이 있을 시, <font color=\"blue\">받는 피해</font> <font color=\"red\">-10</font>%<br/>반대일 경우 <font color=\"blue\">주는 피해</font> <font color=\"red\">+10</font>%<br/>전투 진입시 적 <font color=\"blue\">선제 공격 불가</font><br/>사망 시 <font color=\"green\">생명</font> <font color=\"red\">20</font>% 수치로 <font color=\"blue\">부활</font><br/>최대 <font color=\"red\">1</font>회 발동"
+          "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군이 있을 시, <font color=\"blue\">받는 피해</font> <font color=\"red\">-10%</font><br/>반대일 경우 <font color=\"blue\">주는 피해</font> <font color=\"red\">+10%</font><br/>전투 진입시 적 <font color=\"blue\">선제 공격 불가</font><br/>사망 시 <font color=\"green\">생명</font> <font color=\"red\">20%</font> 수치로 <font color=\"blue\">부활</font><br/>최대 <font color=\"red\">1</font>회 발동"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군이 있을 시, <font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%<br/>반대일 경우 <font color=\"blue\">주는 피해</font> <font color=\"red\">+15</font>%<br/>전투 진입시 적 <font color=\"blue\">선제 공격 불가</font><br/>사망 시 <font color=\"green\">생명</font> <font color=\"red\">30</font>% 수치로 <font color=\"blue\">부활</font><br/>최대 <font color=\"red\">1</font>회 발동"
+          "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군이 있을 시, <font color=\"blue\">받는 피해</font> <font color=\"red\">-15%</font><br/>반대일 경우 <font color=\"blue\">주는 피해</font> <font color=\"red\">+15%</font><br/>전투 진입시 적 <font color=\"blue\">선제 공격 불가</font><br/>사망 시 <font color=\"green\">생명</font> <font color=\"red\">30%</font> 수치로 <font color=\"blue\">부활</font><br/>최대 <font color=\"red\">1</font>회 발동"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군이 있을 시, <font color=\"blue\">받는 피해</font> <font color=\"red\">-20</font>%<br/>반대일 경우 <font color=\"blue\">주는 피해</font> <font color=\"red\">+20</font>%<br/>전투 진입시 적 <font color=\"blue\">선제 공격 불가</font><br/>사망 시 <font color=\"green\">생명</font> <font color=\"red\">40</font>% 수치로 <font color=\"blue\">부활</font><br/>최대 <font color=\"red\">1</font>회 발동"
+          "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군이 있을 시, <font color=\"blue\">받는 피해</font> <font color=\"red\">-20%</font><br/>반대일 경우 <font color=\"blue\">주는 피해</font> <font color=\"red\">+20%</font><br/>전투 진입시 적 <font color=\"blue\">선제 공격 불가</font><br/>사망 시 <font color=\"green\">생명</font> <font color=\"red\">40%</font> 수치로 <font color=\"blue\">부활</font><br/>최대 <font color=\"red\">1</font>회 발동"
         },
         {
-          "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군이 있을 시, <font color=\"blue\">받는 피해</font> <font color=\"red\">-25</font>%<br/>반대일 경우 <font color=\"blue\">주는 피해</font> <font color=\"red\">+25</font>%<br/>전투 진입시 적 <font color=\"blue\">선제 공격 불가</font><br/>사망 시 <font color=\"green\">생명</font> <font color=\"red\">50</font>% 수치로 <font color=\"blue\">부활</font><br/>최대 <font color=\"red\">1</font>회 발동"
+          "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군이 있을 시, <font color=\"blue\">받는 피해</font> <font color=\"red\">-25%</font><br/>반대일 경우 <font color=\"blue\">주는 피해</font> <font color=\"red\">+25%</font><br/>전투 진입시 적 <font color=\"blue\">선제 공격 불가</font><br/>사망 시 <font color=\"green\">생명</font> <font color=\"red\">50%</font> 수치로 <font color=\"blue\">부활</font><br/>최대 <font color=\"red\">1</font>회 발동"
         }
       ]
     }
@@ -115,7 +115,7 @@
       "MagicDefRate": 68,
       "Skill": 117,
       "SkillRate": 43,
-      "HeartFetterBouns1": "부대 생명이 <font color =\"red\">80</font>% 초과 시<br/> 받는 치명타 확률<font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명이 <font color =\"red\">80%</font> 초과 시<br/> 받는 치명타 확률<font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "부대 생명이 <font color =\"red\">100</font>%시 <br/>치명타 확률 <font color=\"red\">+10</font>%"
     },
     {
@@ -375,7 +375,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30</font>% 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -401,7 +401,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Blanche/1.webp",
-      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font>, <font color=\"blue\">위치 이동 면역</font><br/>[액티브] <font color=\"blue\">호위</font> 범위 <font color=\"red\">2</font>칸으로 확대, 공격의 <font color=\"red\">20</font>% 수치를 <font color=\"blue\">방어에 추가</font>하며 <font color=\"blue\">지휘</font> 효과 획득<br/><font color=\"blue\">지휘</font> : 주위 <font color=\"red\">2</font>칸 범위 안 아군이 <font color=\"blue\">지휘</font> 범위 밖의 적과 교전 시 받는 피해 <font color=\"red\">-10</font>%<br/>지속 <font color=\"red\">3</font>행동",
+      "Desc": "[패시브] 인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font>, <font color=\"blue\">위치 이동 면역</font><br/>[액티브] <font color=\"blue\">호위</font> 범위 <font color=\"red\">2</font>칸으로 확대, 공격의 <font color=\"red\">20%</font> 수치를 <font color=\"blue\">방어에 추가</font>하며 <font color=\"blue\">지휘</font> 효과 획득<br/><font color=\"blue\">지휘</font> : 주위 <font color=\"red\">2</font>칸 범위 안 아군이 <font color=\"blue\">지휘</font> 범위 밖의 적과 교전 시 받는 피해 <font color=\"red\">-10%</font><br/>지속 <font color=\"red\">3</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -429,7 +429,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font></font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -521,7 +521,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Blanche/2.webp",
-      "Desc": "자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font> 및 <font color=\"green\">부대 생명</font> <font color=\"red\">30</font>% <font color=\"green\">회복</font><br/>(생명 <font color=\"red\">50</font>% 미만 시, <font color=\"green\">해당 치료 효과</font> <font color=\"red\">+100</font>%)<br/><font color=\"blue\">증원</font> 효과 획득<br/><font color=\"blue\">증원</font> : 행동 종료 시 자신 <font color=\"green\">부대 생명</font> <font color=\"red\">20</font>% <font color=\"green\">회복</font><br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font> 및 <font color=\"green\">부대 생명</font> <font color=\"red\">30%</font> <font color=\"green\">회복</font><br/>(생명 <font color=\"red\">50%</font> 미만 시, <font color=\"green\">해당 치료 효과</font> <font color=\"red\">+100</font>%)<br/><font color=\"blue\">증원</font> 효과 획득<br/><font color=\"blue\">증원</font> : 행동 종료 시 자신 <font color=\"green\">부대 생명</font> <font color=\"red\">20%</font> <font color=\"green\">회복</font><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -548,7 +548,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/블랑쉬.webp",
-      "Desc": "적 <font color=\"red\">1</font>명을 선택 후 '<font color=\"blue\">결투</font>' 효과 부여<br/><font color=\"blue\">결투</font> : <b>시전자를 제외한 다른 적을 일반 공격 및 스킬의 타겟으로 삼을 수 없음</b><br/><b>해제 불가</b><br/>지속 <font color=\"red\">2</font>행동<br/>아레나가 아닌 경우 해당 효과는 '<font color=\"blue\">주는 피해</font> <font color=\"red\">-30</font>%'로 대체<br/>스킬 사용 후 자신 공방 <font color=\"red\">+20</font>%<br/>지속 <font color=\"red\">2</font>행동 및 '<font color=\"blue\">유도</font>' 효과 획득<br/><font color=\"blue\">유도</font> : 결투 효과를 보유한 적과 교전 시, <font color=\"blue\">받는 치명타 확률</font> <font color=\"red\">-100</font>%<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">2</font>행동<br/>'<font color=\"blue\">유도</font>' 효과를 보유하는 동안 해당 스킬은 '<font color=\"blue\">니케아 이지스</font>'로 변경",
+      "Desc": "적 <font color=\"red\">1</font>명을 선택 후 '<font color=\"blue\">결투</font>' 효과 부여<br/><font color=\"blue\">결투</font> : <b>시전자를 제외한 다른 적을 일반 공격 및 스킬의 타겟으로 삼을 수 없음</b><br/><b>해제 불가</b><br/>지속 <font color=\"red\">2</font>행동<br/>아레나가 아닌 경우 해당 효과는 '<font color=\"blue\">주는 피해</font> <font color=\"red\">-30</font>%'로 대체<br/>스킬 사용 후 자신 공방 <font color=\"red\">+20%</font><br/>지속 <font color=\"red\">2</font>행동 및 '<font color=\"blue\">유도</font>' 효과 획득<br/><font color=\"blue\">유도</font> : 결투 효과를 보유한 적과 교전 시, <font color=\"blue\">받는 치명타 확률</font> <font color=\"red\">-100%</font><br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">2</font>행동<br/>'<font color=\"blue\">유도</font>' 효과를 보유하는 동안 해당 스킬은 '<font color=\"blue\">니케아 이지스</font>'로 변경",
       "SubSkills": [
         {
           "Name": "니케아 이지스",
@@ -571,7 +571,7 @@
             }
           ],
           "IconImageUrl": "../img/Super/블랑쉬_1.webp",
-          "Desc": "<b>스킬 발동 지점</b>으로 <font color=\"blue\">텔레포트</font> 후 자신 주위 <font color=\"red\">2</font>칸 범위 안 적에게 <font color=\"blue\">0.25</font>배 피해<br/>해당 피해는 <font color=\"blue\">마법 피해로 간주</font>하며, <font color=\"red\">50</font>% 확률로 <font color=\"blue\">무작위 디버프 부여</font><br/><font color=\"blue\">결투</font> 효과를 부여한 적이 <font color=\"blue\">해당 스킬</font>에 피격당했을 경우, <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸<br/>(<font color=\"blue\">재행동</font> 효과는 매 턴 <font color=\"red\">1</font>번만 발동<br/>해당 <font color=\"blue\">재행동</font> 효과는 보유한 <font color=\"blue\">버프</font> 지속 시간을 소모하지 않음)<br/>자신이 보유한 <font color=\"blue\">유도</font> 효과가 사라질 경우, 해당 스킬은 <font color=\"blue\">결투 유도</font>로 변경"
+          "Desc": "<b>스킬 발동 지점</b>으로 <font color=\"blue\">텔레포트</font> 후 자신 주위 <font color=\"red\">2</font>칸 범위 안 적에게 <font color=\"blue\">0.25</font>배 피해<br/>해당 피해는 <font color=\"blue\">마법 피해로 간주</font>하며, <font color=\"red\">50%</font> 확률로 <font color=\"blue\">무작위 디버프 부여</font><br/><font color=\"blue\">결투</font> 효과를 부여한 적이 <font color=\"blue\">해당 스킬</font>에 피격당했을 경우, <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸<br/>(<font color=\"blue\">재행동</font> 효과는 매 턴 <font color=\"red\">1</font>번만 발동<br/>해당 <font color=\"blue\">재행동</font> 효과는 보유한 <font color=\"blue\">버프</font> 지속 시간을 소모하지 않음)<br/>자신이 보유한 <font color=\"blue\">유도</font> 효과가 사라질 경우, 해당 스킬은 <font color=\"blue\">결투 유도</font>로 변경"
         }
       ],
       "Animation": "../img/Super/블랑쉬_Ani.webp"

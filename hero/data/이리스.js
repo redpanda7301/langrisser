@@ -8,6 +8,10 @@
     {
       "ImageUrl": "이리스/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "이리스/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "이리스",
@@ -60,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<font color=\"blue\">이동 시 지형 제한 무시</font><br/>방어 <font color=\"red\">+5</font>%<br/>이동 <font color=\"red\">1</font>칸당 공격 <font color=\"red\">+2</font>% (최대 <font color=\"red\">+8</font>%)<br/>시작 시 '<font color=\"purple\">수호의 열쇠</font>' <font color=\"red\">1</font>개 보유<br/>행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 사용해 최대 <font color=\"red\">1</font>개 지형에 <font color=\"purple\">수호의 열쇠</font> 설치 가능<br/><font color=\"purple\">수호의 열쇠</font> : 아군이 설치한 <font color=\"purple\">수호의 열쇠</font> 위에서 이리스가 행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 <font color=\"blue\">제거</font>하며 <font color=\"blue\">재행동</font> <font color=\"red\">4</font>칸<br/>(해당 효과는 매 턴 <font color=\"red\">1</font>회 발동 가능, <b>버프 지속시간을 소모하지 않음</b>)<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">제거</font> 후에야 <font color=\"blue\">재설치</font> 가능<br/><font color=\"red\">3</font>칸 범위 안에 중복 설치 불가<br/><font color=\"purple\">수호의 열쇠</font>가 <b><font color=\"green\">방어 지형</font>에 위치할 경우<br/>해당 효과는 지형효과보다 우선한다</b>"
+          "Desc": "<font color=\"blue\">이동 시 지형 제한 무시</font><br/>방어 <font color=\"red\">+5%</font><br/>이동 <font color=\"red\">1</font>칸당 공격 <font color=\"red\">+2%</font> (최대 <font color=\"red\">+8</font>%)<br/>시작 시 '<font color=\"purple\">수호의 열쇠</font>' <font color=\"red\">1</font>개 보유<br/>행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 사용해 최대 <font color=\"red\">1</font>개 지형에 <font color=\"purple\">수호의 열쇠</font> 설치 가능<br/><font color=\"purple\">수호의 열쇠</font> : 아군이 설치한 <font color=\"purple\">수호의 열쇠</font> 위에서 이리스가 행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 <font color=\"blue\">제거</font>하며 <font color=\"blue\">재행동</font> <font color=\"red\">4</font>칸<br/>(해당 효과는 매 턴 <font color=\"red\">1</font>회 발동 가능, <b>버프 지속시간을 소모하지 않음</b>)<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">제거</font> 후에야 <font color=\"blue\">재설치</font> 가능<br/><font color=\"red\">3</font>칸 범위 안에 중복 설치 불가<br/><font color=\"purple\">수호의 열쇠</font>가 <b><font color=\"green\">방어 지형</font>에 위치할 경우<br/>해당 효과는 지형효과보다 우선한다</b>"
         },
         {
-          "Desc": "<font color=\"blue\">이동 시 지형 제한 무시</font><br/>방어 <font color=\"red\">+10</font>%<br/>이동 <font color=\"red\">1</font>칸당 공격 <font color=\"red\">+3</font>% (최대 <font color=\"red\">+12</font>%)<br/>시작 시 '<font color=\"purple\">수호의 열쇠</font>' <font color=\"red\">1</font>개 보유<br/>행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 사용해 최대 <font color=\"red\">1</font>개 지형에 <font color=\"purple\">수호의 열쇠</font> 설치 가능<br/><font color=\"purple\">수호의 열쇠</font> : 아군이 설치한 <font color=\"purple\">수호의 열쇠</font> 위에서 이리스가 행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 <font color=\"blue\">제거</font>하며 <font color=\"blue\">재행동</font> <font color=\"red\">4</font>칸<br/>(해당 효과는 매 턴 <font color=\"red\">1</font>회 발동 가능, <b>버프 지속시간을 소모하지 않음</b>)<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">제거</font> 후에야 <font color=\"blue\">재설치</font> 가능<br/><font color=\"red\">3</font>칸 범위 안에 중복 설치 불가<br/><font color=\"purple\">수호의 열쇠</font>가 <b><font color=\"green\">방어 지형</font>에 위치할 경우<br/>해당 효과는 지형효과보다 우선한다</b>"
+          "Desc": "<font color=\"blue\">이동 시 지형 제한 무시</font><br/>방어 <font color=\"red\">+10%</font><br/>이동 <font color=\"red\">1</font>칸당 공격 <font color=\"red\">+3%</font> (최대 <font color=\"red\">+12</font>%)<br/>시작 시 '<font color=\"purple\">수호의 열쇠</font>' <font color=\"red\">1</font>개 보유<br/>행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 사용해 최대 <font color=\"red\">1</font>개 지형에 <font color=\"purple\">수호의 열쇠</font> 설치 가능<br/><font color=\"purple\">수호의 열쇠</font> : 아군이 설치한 <font color=\"purple\">수호의 열쇠</font> 위에서 이리스가 행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 <font color=\"blue\">제거</font>하며 <font color=\"blue\">재행동</font> <font color=\"red\">4</font>칸<br/>(해당 효과는 매 턴 <font color=\"red\">1</font>회 발동 가능, <b>버프 지속시간을 소모하지 않음</b>)<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">제거</font> 후에야 <font color=\"blue\">재설치</font> 가능<br/><font color=\"red\">3</font>칸 범위 안에 중복 설치 불가<br/><font color=\"purple\">수호의 열쇠</font>가 <b><font color=\"green\">방어 지형</font>에 위치할 경우<br/>해당 효과는 지형효과보다 우선한다</b>"
         },
         {
-          "Desc": "<font color=\"blue\">이동 시 지형 제한 무시</font><br/>방어 <font color=\"red\">+15</font>%<br/>이동 <font color=\"red\">1</font>칸당 공격 <font color=\"red\">+4</font>% (최대 <font color=\"red\">+16</font>%)<br/>시작 시 '<font color=\"purple\">수호의 열쇠</font>' <font color=\"red\">2</font>개 보유<br/>행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 사용해 최대 <font color=\"red\">2</font>개 지형에 <font color=\"purple\">수호의 열쇠</font> 설치 가능<br/><font color=\"purple\">수호의 열쇠</font> : 아군이 설치한 <font color=\"purple\">수호의 열쇠</font> 위에서 이리스가 행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 <font color=\"blue\">제거</font>하며 <font color=\"blue\">재행동</font> <font color=\"red\">4</font>칸<br/>(해당 효과는 매 턴 <font color=\"red\">1</font>회 발동 가능, <b>버프 지속시간을 소모하지 않음</b>)<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">제거</font> 후에야 <font color=\"blue\">재설치</font> 가능<br/><font color=\"red\">3</font>칸 범위 안에 중복 설치 불가<br/><font color=\"purple\">수호의 열쇠</font>가 <b><font color=\"green\">방어 지형</font>에 위치할 경우<br/>해당 효과는 지형효과보다 우선한다</b>"
+          "Desc": "<font color=\"blue\">이동 시 지형 제한 무시</font><br/>방어 <font color=\"red\">+15%</font><br/>이동 <font color=\"red\">1</font>칸당 공격 <font color=\"red\">+4%</font> (최대 <font color=\"red\">+16</font>%)<br/>시작 시 '<font color=\"purple\">수호의 열쇠</font>' <font color=\"red\">2</font>개 보유<br/>행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 사용해 최대 <font color=\"red\">2</font>개 지형에 <font color=\"purple\">수호의 열쇠</font> 설치 가능<br/><font color=\"purple\">수호의 열쇠</font> : 아군이 설치한 <font color=\"purple\">수호의 열쇠</font> 위에서 이리스가 행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 <font color=\"blue\">제거</font>하며 <font color=\"blue\">재행동</font> <font color=\"red\">4</font>칸<br/>(해당 효과는 매 턴 <font color=\"red\">1</font>회 발동 가능, <b>버프 지속시간을 소모하지 않음</b>)<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">제거</font> 후에야 <font color=\"blue\">재설치</font> 가능<br/><font color=\"red\">3</font>칸 범위 안에 중복 설치 불가<br/><font color=\"purple\">수호의 열쇠</font>가 <b><font color=\"green\">방어 지형</font>에 위치할 경우<br/>해당 효과는 지형효과보다 우선한다</b>"
         },
         {
-          "Desc": "<font color=\"blue\">이동 시 지형 제한 무시</font><br/>방어 <font color=\"red\">+20</font>%<br/>이동 <font color=\"red\">1</font>칸당 공격 <font color=\"red\">+5</font>% (최대 <font color=\"red\">+20</font>%)<br/>시작 시 '<font color=\"purple\">수호의 열쇠</font>' <font color=\"red\">2</font>개 보유<br/>행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 사용해 최대 <font color=\"red\">2</font>개 지형에 <font color=\"purple\">수호의 열쇠</font> 설치 가능<br/><font color=\"purple\">수호의 열쇠</font> : 아군이 설치한 <font color=\"purple\">수호의 열쇠</font> 위에서 이리스가 행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 <font color=\"blue\">제거</font>하며 <font color=\"blue\">재행동</font> <font color=\"red\">4</font>칸<br/>(해당 효과는 매 턴 <font color=\"red\">1</font>회 발동 가능, <b>버프 지속시간을 소모하지 않음</b>)<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">제거</font> 후에야 <font color=\"blue\">재설치</font> 가능<br/><font color=\"red\">3</font>칸 범위 안에 중복 설치 불가<br/><font color=\"purple\">수호의 열쇠</font>가 <b><font color=\"green\">방어 지형</font>에 위치할 경우<br/>해당 효과는 지형효과보다 우선한다</b>"
+          "Desc": "<font color=\"blue\">이동 시 지형 제한 무시</font><br/>방어 <font color=\"red\">+20%</font><br/>이동 <font color=\"red\">1</font>칸당 공격 <font color=\"red\">+5%</font> (최대 <font color=\"red\">+20</font>%)<br/>시작 시 '<font color=\"purple\">수호의 열쇠</font>' <font color=\"red\">2</font>개 보유<br/>행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 사용해 최대 <font color=\"red\">2</font>개 지형에 <font color=\"purple\">수호의 열쇠</font> 설치 가능<br/><font color=\"purple\">수호의 열쇠</font> : 아군이 설치한 <font color=\"purple\">수호의 열쇠</font> 위에서 이리스가 행동 종료 시, <font color=\"purple\">수호의 열쇠</font>를 <font color=\"blue\">제거</font>하며 <font color=\"blue\">재행동</font> <font color=\"red\">4</font>칸<br/>(해당 효과는 매 턴 <font color=\"red\">1</font>회 발동 가능, <b>버프 지속시간을 소모하지 않음</b>)<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">제거</font> 후에야 <font color=\"blue\">재설치</font> 가능<br/><font color=\"red\">3</font>칸 범위 안에 중복 설치 불가<br/><font color=\"purple\">수호의 열쇠</font>가 <b><font color=\"green\">방어 지형</font>에 위치할 경우<br/>해당 효과는 지형효과보다 우선한다</b>"
         }
       ]
     }
@@ -80,7 +84,7 @@
     "Name": "영원한 밤의 열쇠(무기)",
     "Stats": "생명 583, 공격 85",
     "Icon": "이리스.webp",
-    "Ability": "공격 <font color=\"red\">+8</font>%<br/>자신 주위 3칸 범위 안에 아군의 '<font color=\"purple\">수호의 열쇠</font>'가 있을 경우, 부대 피해 <font color=\"red\">+20</font>%<br/>선공으러 전투 진입 시, 적이 아군이 설치한 <font color=\"purple\">수호의 열쇠</font> 위에 있을 경우<br/>전투 전 적 기절 (지속<font color=\"red\">1</font>행동)"
+    "Ability": "공격 <font color=\"red\">+8%</font><br/>자신 주위 3칸 범위 안에 아군의 '<font color=\"purple\">수호의 열쇠</font>'가 있을 경우, 부대 피해 <font color=\"red\">+20%</font><br/>선공으러 전투 진입 시, 적이 아군이 설치한 <font color=\"purple\">수호의 열쇠</font> 위에 있을 경우<br/>전투 전 적 기절 (지속<font color=\"red\">1</font>행동)"
   },
   "Soldiers": [
     58,
@@ -103,6 +107,9 @@
         },
         {
           "ImageUrl": "이리스/2/1.webp"
+        },
+        {
+          "ImageUrl": "이리스/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -132,6 +139,9 @@
         },
         {
           "ImageUrl": "이리스/2/1.webp"
+        },
+        {
+          "ImageUrl": "이리스/3/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -149,7 +159,7 @@
       "MagicDefRate": 61,
       "Skill": 121,
       "SkillRate": 35,
-      "HeartFetterBouns1": "부대 생명  <font color=\"red\">70</font>% 미만 시<br/>전투 중 받는 피해 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명  <font color=\"red\">70%</font> 미만 시<br/>전투 중 받는 피해 <font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "자신의 부대보다 생명 백분비가 높은 적을 선제 공격 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
@@ -366,7 +376,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/39.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.4</font>배의 피해<br/>대상을 <font color=\"red\">2</font>칸 뒤로 <font color=\"blue\">위치이동</font> 및 방어 <font color=\"red\">-20</font>%<br/>'<font color=\"blue\">호위불가</font>' 부여<br/> 지속 <font color=\"red\">2</font>행동",
+      "Desc": "단일 개체 <font color=\"red\">1.4</font>배의 피해<br/>대상을 <font color=\"red\">2</font>칸 뒤로 <font color=\"blue\">위치이동</font> 및 방어 <font color=\"red\">-20%</font><br/>'<font color=\"blue\">호위불가</font>' 부여<br/> 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -380,7 +390,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.webp",
-      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"Red\">80</font>% 이상일 경우<br/>전투 중 받는 피해량-<font color=\"Red\">-30</font>%.",
+      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"Red\">80%</font> 이상일 경우<br/>전투 중 받는 피해량-<font color=\"Red\">-30</font>%.",
       "SubSkills": null,
       "Animation": null
     },
@@ -472,7 +482,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-      "Desc": "전투 진입전 <font color=\"red\">50</font>% 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입전 <font color=\"red\">50%</font> 확률로 적의 <font color=\"blue\">방어</font> <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -486,7 +496,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefDown.webp",
-      "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 방어 <font color=\"red\">-15</font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 방어 <font color=\"red\">-15%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -538,7 +548,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/이리스.webp",
-      "Desc": "[패시브] <font color=\"purple\">고유 스킬</font> <font color=\"blue\">재행동</font> 효과 발동 시 부대 생명 <font color=\"red\">30</font>% <font color=\"green\">회복</font> 및 <font color=\"blue\">주는 피해량</font> <font color=\"red\">+20</font>% 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>[물리피해] 직선 위에 있는 단일 개체 적에게 <font color=\"red\">1.6</font>배 피해<br/>해당 공격은 적 <font color=\"blue\">방어 <font color=\"red\">30%</font> 무시</font><br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격<br/>전투 후 <font color=\"blue\">위치 이동</font> 효과<br/><font color=\"blue\">위치 이동</font> : 적을 <font color=\"red\">2</font>칸 <font color=\"blue\">밀치고</font> 적 <font color=\"blue\">이동력</font> <font color=\"red\">-2</font><br/>지속 <font color=\"red\">1</font>행동<br/><b>해제 불가</b><br/>퇴로 상에 다른 부대나 이동 불가 지형이 있을 경우 적은 <font color=\"blue\">기절</font><br/><b>해제 불가</b><br/>공격 후 직선을 따라 <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸 및 <font color=\"blue\">받는 피해</font> <font color=\"red\">-20</font>% 효과 획득<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브] <font color=\"purple\">고유 스킬</font> <font color=\"blue\">재행동</font> 효과 발동 시 부대 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font> 및 <font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font> 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>[물리피해] 직선 위에 있는 단일 개체 적에게 <font color=\"red\">1.6</font>배 피해<br/>해당 공격은 적 <font color=\"blue\">방어 <font color=\"red\">30%</font> 무시</font><br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격<br/>전투 후 <font color=\"blue\">위치 이동</font> 효과<br/><font color=\"blue\">위치 이동</font> : 적을 <font color=\"red\">2</font>칸 <font color=\"blue\">밀치고</font> 적 <font color=\"blue\">이동력</font> <font color=\"red\">-2</font><br/>지속 <font color=\"red\">1</font>행동<br/><b>해제 불가</b><br/>퇴로 상에 다른 부대나 이동 불가 지형이 있을 경우 적은 <font color=\"blue\">기절</font><br/><b>해제 불가</b><br/>공격 후 직선을 따라 <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸 및 <font color=\"blue\">받는 피해</font> <font color=\"red\">-20%</font> 효과 획득<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/이리스_Ani.webp"
     }

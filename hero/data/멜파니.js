@@ -73,7 +73,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "빛나느 수훈",
-    "Stats": "<font color=\"green\">치료</font> 효과 <font color=\"red\">+10</font>%<br/><font color=\"blue\">공훈</font> <font color=\"red\">3</font>중첩 시 추가 효과 : <font color=\"blue\">호위</font>시 <font color=\"blue\">선제 반격</font>",
+    "Stats": "<font color=\"green\">치료</font> 효과 <font color=\"red\">+10%</font><br/><font color=\"blue\">공훈</font> <font color=\"red\">3</font>중첩 시 추가 효과 : <font color=\"blue\">호위</font>시 <font color=\"blue\">선제 반격</font>",
   },
   "Equip": {
     "Name": "활기찬 소환사(지팡이)",
@@ -435,7 +435,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -565,7 +565,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/멜파니.webp",
-      "Desc": "[패시브]<b>다른 아군이 <font color =\"blue\">호위</font> 발동 시 <font color =\"blue\">호위</font>를 발동한 대상에게 '<font color =\"blue\">공훈</font>' 효과 <font color =\"red\">1</font>개 부여 <br/><font color =\"blue\">공훈</font> : 생명을 제외한 모든 스탯  <font color =\"red\">+2</font>%, 최대  <font color =\"red\">3</font>중첩.<br/><font color =\"blue\">공훈</font> <font color =\"red\">3</font>중첩 효과 : <b>다른 아군 호위 시 전투 진입 전 자신 부대</b> 생명 <font color =\"red\">20</font>% 회복<br/>[액티브]범위 내 아군 생명 회복 및 디버프 <font color =\"red\">2</font>개 제거 <br/>(회복량은 멜파니 지력 <font color =\"red\">3</font>배 수치)",
+      "Desc": "[패시브]<b>다른 아군이 <font color =\"blue\">호위</font> 발동 시 <font color =\"blue\">호위</font>를 발동한 대상에게 '<font color =\"blue\">공훈</font>' 효과 <font color =\"red\">1</font>개 부여 <br/><font color =\"blue\">공훈</font> : 생명을 제외한 모든 스탯  <font color =\"red\">+2%</font>, 최대  <font color =\"red\">3</font>중첩.<br/><font color =\"blue\">공훈</font> <font color =\"red\">3</font>중첩 효과 : <b>다른 아군 호위 시 전투 진입 전 자신 부대</b> 생명 <font color =\"red\">20%</font> 회복<br/>[액티브]범위 내 아군 생명 회복 및 디버프 <font color =\"red\">2</font>개 제거 <br/>(회복량은 멜파니 지력 <font color =\"red\">3</font>배 수치)",
       "SubSkills": null,
       "Animation": "../img/Super/멜파니_Ani.gif"
     }

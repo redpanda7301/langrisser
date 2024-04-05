@@ -84,13 +84,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "고독하고 긴 여정",
-    "Stats": "지력 <font color=\"red\">+5</font>%<br/>행동 종료 시 누적 이동 숫자 <font color=\"red\">20</font>칸 이상 시<br/>'<font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>%' 및 '<font color=\"blue\">이동력</font> <font color=\"red\">+3</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
+    "Stats": "지력 <font color=\"red\">+5%</font><br/>행동 종료 시 누적 이동 숫자 <font color=\"red\">20</font>칸 이상 시<br/>'<font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>%' 및 '<font color=\"blue\">이동력</font> <font color=\"red\">+3</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
   },
   "Equip": {
     "Name": "수호의 서약(지팡이)",
     "Stats": "생명 437,지력 107",
     "Icon": "미지의기사.webp",
-    "Ability": "지력 <font color=\"red\">+10</font>%<br/><b>자신이 <font color =\"green\">혼합 부대</font>일 경우 지형에 따른 <font color =\"blue\">이동력 저하</font> 영향을 받지 않음</b><br/>선공으로 피해를 입히기 전, 적에게 마방 <font color=\"red\">0.5</font>배 수치 <font color=\"blue\">고정 피해</font>"
+    "Ability": "지력 <font color=\"red\">+10%</font><br/><b>자신이 <font color =\"green\">혼합 부대</font>일 경우 지형에 따른 <font color =\"blue\">이동력 저하</font> 영향을 받지 않음</b><br/>선공으로 피해를 입히기 전, 적에게 마방 <font color=\"red\">0.5</font>배 수치 <font color=\"blue\">고정 피해</font>"
   },
   "Soldiers": [
     10,

@@ -89,7 +89,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "마신의 가호",
-    "Stats": "지력 <font color=\"red\">+10</font>%<br/>아군에게 <font color=\"blue\">스킬</font> 사용 시<br/>목표 중심의 아군에게 '<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' 및 <font color=\"blue\">면역</font> 효과 추가 부여<br/>지속 <font color=\"red\">2</font>행동",
+    "Stats": "지력 <font color=\"red\">+10%</font><br/>아군에게 <font color=\"blue\">스킬</font> 사용 시<br/>목표 중심의 아군에게 '<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' 및 <font color=\"blue\">면역</font> 효과 추가 부여<br/>지속 <font color=\"red\">2</font>행동",
   },
   "Equip": {
     "Name": "어린 군왕(투구)",
@@ -627,7 +627,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

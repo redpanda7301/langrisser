@@ -88,7 +88,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "격동하는 마도",
-    "Stats": "지력 <font color=\"red\">+10</font>%<br/>공격하여 전투 진입후<br/>적군에게 <font color=\"Red\">3</font>개의 '<font color=\"blue\">마력 여파</font>' <font color=\"blue\">디버프</font>를 부여<br/><font color=\"blue\">마력 여파</font> : 행동 종료시 레이첼 지력의 <font color=\"red\">0.5</font>배의 <font color=\"blue\">고정피해</font><br/>지속 <font color=\"red\">2</font>행동<br/>(중첩가능)",
+    "Stats": "지력 <font color=\"red\">+10%</font><br/>공격하여 전투 진입후<br/>적군에게 <font color=\"Red\">3</font>개의 '<font color=\"blue\">마력 여파</font>' <font color=\"blue\">디버프</font>를 부여<br/><font color=\"blue\">마력 여파</font> : 행동 종료시 레이첼 지력의 <font color=\"red\">0.5</font>배의 <font color=\"blue\">고정피해</font><br/>지속 <font color=\"red\">2</font>행동<br/>(중첩가능)",
   },
   "Equip": {
     "Name": "마도 방어복(갑옷)",
@@ -483,7 +483,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },

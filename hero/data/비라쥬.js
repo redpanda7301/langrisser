@@ -80,7 +80,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "필사의 의지",
-    "Stats": "공격 <font color=\"red\">+5</font>%<br/><font color=\"purple\">불사자</font> 상태일 경우 선공으로 전투 진입 시 <font color=\"blue\">선제공격</font>",
+    "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"purple\">불사자</font> 상태일 경우 선공으로 전투 진입 시 <font color=\"blue\">선제공격</font>",
   },
   "Equip": {
     "Name": "크림조 아머(갑옷)",
@@ -449,7 +449,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "[패시브]전투 진입전 <font color=\"red\">50</font>% 확률로 적의 공격, 지력  <font color=\"red\">-20</font>%,  <font color=\"red\">1</font>행동지속.",
+      "Desc": "[패시브]전투 진입전 <font color=\"red\">50%</font> 확률로 적의 공격, 지력  <font color=\"red\">-20%</font>,  <font color=\"red\">1</font>행동지속.",
       "SubSkills": null,
       "Animation": null
     },

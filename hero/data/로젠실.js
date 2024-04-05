@@ -88,7 +88,7 @@
     "Name": "순결한 수정의 면사(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "로젠실.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>자신이 보유한 <font color=\"purple\">수정 장벽</font> <font color=\"red\">1</font>스택 당 <font color=\"green\">치료 효과</font> <font color=\"red\">+3</font>%<br/><b>영웅 사망 시</b> 주위 <font color=\"red\">2</font>칸 범위 안 다른 아군 <font color=\"green\">생명 회복</font><br/>회복량은 로젠실 지력 <font color=\"red\">2</font>배 수치"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>자신이 보유한 <font color=\"purple\">수정 장벽</font> <font color=\"red\">1</font>스택 당 <font color=\"green\">치료 효과</font> <font color=\"red\">+3%</font><br/><b>영웅 사망 시</b> 주위 <font color=\"red\">2</font>칸 범위 안 다른 아군 <font color=\"green\">생명 회복</font><br/>회복량은 로젠실 지력 <font color=\"red\">2</font>배 수치"
   },
   "Soldiers": [
     43,
@@ -134,7 +134,7 @@
       "Skill": 99,
       "SkillRate": 36,
       "HeartFetterBouns1": "받는 범위피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명력이 <font color=\"red\">100</font>% 일시<br/> 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "부대 생명력이 <font color=\"red\">100%</font> 일시<br/> 주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "빛나는 성녀",
@@ -168,7 +168,7 @@
       "MagicDefRate": 68,
       "Skill": 85,
       "SkillRate": 36,
-      "HeartFetterBouns1": "<b>부대 생명력이 <font color=\"red\">80</font>% 이상시</b><br/>받는 치명타 확률<font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "<b>부대 생명력이 <font color=\"red\">80%</font> 이상시</b><br/>받는 치명타 확률<font color=\"red\">-10</font>%",
       "HeartFetterBouns2": "<b>약화효과를 보유한 적군 부대와 전투시</b>주는 피해량 <font color=\"red\">+10</font>%"
     }
   ],
@@ -569,7 +569,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/로젠실.webp",
-      "Desc": "[변신]<b>대규모 범위 내 다수의 부대 생명을 로젠실 지력 <font color=\"red\">3</font>배 수치로 회복</b> 및 <br/>'<font color=\"blue\">수정 치유</font>' 효과 획득:<br/><b>피격으로 피해를 입은 후</b> 로젠실 지력 <font color=\"red\">1.5</font>배 수치로 생명 회복, 지속 <font color=\"red\">2</font>행동<br/>사용 후 '<font color=\"blue\">수정 결인</font>' 상태 진입 :<br/><b><font color=\"red\">공격 및 스킬 사용 불가 및 스스로 이동 및 위치 변경 불가</font>(디메리트)</b>, <br/>치유량 <font color=\"red\">+20</font>%, 받는 피해량 <font color=\"red\">-20</font>%, <b><font color=\"purple\">고유 스킬</font> 지휘 효과 범위</b> <font color=\"red\">+1</font>, <font color=\"red\">1</font>회 부활, <br/><b>행동 종료 시 자신의 <font color=\"purple\">고유 스킬</font> 범위 안에 있는 다른 아군을</b><br/>로젠실 지력 <font color=\"red\">2</font>배 수치만큼 회복 및 '<font color=\"blue\">수정 장벽</font>' <font color=\"red\">2</font>개 효과 부여, 지속 <font color=\"red\">2</font>행동<br/>'<font color=\"blue\">수정 결인</font>'의 효과는 <b>해제 불가 및 면역 불가</b>, <br/><b>해당 스킬 지속 시간 동안 <font color=\"blue\">불굴</font> 효과</b>는 최대 <font color=\"red\">1</font>회 발동)",
+      "Desc": "[변신]<b>대규모 범위 내 다수의 부대 생명을 로젠실 지력 <font color=\"red\">3</font>배 수치로 회복</b> 및 <br/>'<font color=\"blue\">수정 치유</font>' 효과 획득:<br/><b>피격으로 피해를 입은 후</b> 로젠실 지력 <font color=\"red\">1.5</font>배 수치로 생명 회복, 지속 <font color=\"red\">2</font>행동<br/>사용 후 '<font color=\"blue\">수정 결인</font>' 상태 진입 :<br/><b><font color=\"red\">공격 및 스킬 사용 불가 및 스스로 이동 및 위치 변경 불가</font>(디메리트)</b>, <br/>치유량 <font color=\"red\">+20%</font>, 받는 피해량 <font color=\"red\">-20%</font>, <b><font color=\"purple\">고유 스킬</font> 지휘 효과 범위</b> <font color=\"red\">+1</font>, <font color=\"red\">1</font>회 부활, <br/><b>행동 종료 시 자신의 <font color=\"purple\">고유 스킬</font> 범위 안에 있는 다른 아군을</b><br/>로젠실 지력 <font color=\"red\">2</font>배 수치만큼 회복 및 '<font color=\"blue\">수정 장벽</font>' <font color=\"red\">2</font>개 효과 부여, 지속 <font color=\"red\">2</font>행동<br/>'<font color=\"blue\">수정 결인</font>'의 효과는 <b>해제 불가 및 면역 불가</b>, <br/><b>해당 스킬 지속 시간 동안 <font color=\"blue\">불굴</font> 효과</b>는 최대 <font color=\"red\">1</font>회 발동)",
       "SubSkills": null,
       "Animation": "../img/Super/로젠실_Ani.webp"
     }

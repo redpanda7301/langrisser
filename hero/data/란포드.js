@@ -97,23 +97,23 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+10</font>%<br/>주위 <font color=\"red\">2</font>칸 범위 안 아군의 생명을 제외한 모든 능력치 <font color=\"red\">+5</font>%<br/>혼합 부대일 경우 추가로 <font color=\"red\">+1</font>% 및 선공으로 전투 진입 시 <font color=\"blue\">선제 공격</font><br/>행동 종료 시,영웅 병종을 <img src=\"../img/troop/Icon_Occupation_Marines.webp\" width=\"20px\"><font color=\"green\">창병</font>으로 <font color=\"blue\">변경</font> 가능<br/>변경 시 이동력 <font color=\"red\">-2</font> 및 이동 방식은 <img src=\"../img/icon/Move_Walk.webp\" width=\"20px\">보행으로 변경<br/><font color=\"blue\">받는 피해</font> <font color=\"red\">-20</font>%<br/>면역 및 해제 불가<br/><font color=\"blue\">스킬 재사용 시 취소</font>"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위 안 아군의 생명을 제외한 모든 능력치 <font color=\"red\">+5%</font><br/>혼합 부대일 경우 추가로 <font color=\"red\">+1%</font> 및 선공으로 전투 진입 시 <font color=\"blue\">선제 공격</font><br/>행동 종료 시,영웅 병종을 <img src=\"../img/troop/Icon_Occupation_Marines.webp\" width=\"20px\"><font color=\"green\">창병</font>으로 <font color=\"blue\">변경</font> 가능<br/>변경 시 이동력 <font color=\"red\">-2</font> 및 이동 방식은 <img src=\"../img/icon/Move_Walk.webp\" width=\"20px\">보행으로 변경<br/><font color=\"blue\">받는 피해</font> <font color=\"red\">-20%</font><br/>면역 및 해제 불가<br/><font color=\"blue\">스킬 재사용 시 취소</font>"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+13</font>%<br/>주위 <font color=\"red\">2</font>칸 범위 안 아군의 생명을 제외한 모든 능력치 <font color=\"red\">+8</font>%<br/>혼합 부대일 경우 추가로 <font color=\"red\">+2</font>% 및 선공으로 전투 진입 시 <font color=\"blue\">선제 공격</font><br/>행동 종료 시,영웅 병종을 <img src=\"../img/troop/Icon_Occupation_Marines.webp\" width=\"20px\"><font color=\"green\">창병</font>으로 <font color=\"blue\">변경</font> 가능<br/>변경 시 이동력 <font color=\"red\">-2</font> 및 이동 방식은 <img src=\"../img/icon/Move_Walk.webp\" width=\"20px\">보행으로 변경<br/><font color=\"blue\">받는 피해</font> <font color=\"red\">-20</font>%<br/>면역 및 해제 불가<br/><font color=\"blue\">스킬 재사용 시 취소</font>"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+13%</font><br/>주위 <font color=\"red\">2</font>칸 범위 안 아군의 생명을 제외한 모든 능력치 <font color=\"red\">+8%</font><br/>혼합 부대일 경우 추가로 <font color=\"red\">+2%</font> 및 선공으로 전투 진입 시 <font color=\"blue\">선제 공격</font><br/>행동 종료 시,영웅 병종을 <img src=\"../img/troop/Icon_Occupation_Marines.webp\" width=\"20px\"><font color=\"green\">창병</font>으로 <font color=\"blue\">변경</font> 가능<br/>변경 시 이동력 <font color=\"red\">-2</font> 및 이동 방식은 <img src=\"../img/icon/Move_Walk.webp\" width=\"20px\">보행으로 변경<br/><font color=\"blue\">받는 피해</font> <font color=\"red\">-20%</font><br/>면역 및 해제 불가<br/><font color=\"blue\">스킬 재사용 시 취소</font>"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+16</font>%<br/>주위 <font color=\"red\">2</font>칸 범위 안 아군의 생명을 제외한 모든 능력치 <font color=\"red\">+11</font>%<br/>혼합 부대일 경우 추가로 <font color=\"red\">+3</font>% 및 선공으로 전투 진입 시 <font color=\"blue\">선제 공격</font><br/>행동 종료 시,영웅 병종을 <img src=\"../img/troop/Icon_Occupation_Marines.webp\" width=\"20px\"><font color=\"green\">창병</font>으로 <font color=\"blue\">변경</font> 가능<br/>변경 시 이동력 <font color=\"red\">-2</font> 및 이동 방식은 <img src=\"../img/icon/Move_Walk.webp\" width=\"20px\">보행으로 변경<br/><font color=\"blue\">받는 피해</font> <font color=\"red\">-20</font>%<br/>면역 및 해제 불가<br/><font color=\"blue\">스킬 재사용 시 취소</font>"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+16%</font><br/>주위 <font color=\"red\">2</font>칸 범위 안 아군의 생명을 제외한 모든 능력치 <font color=\"red\">+11%</font><br/>혼합 부대일 경우 추가로 <font color=\"red\">+3%</font> 및 선공으로 전투 진입 시 <font color=\"blue\">선제 공격</font><br/>행동 종료 시,영웅 병종을 <img src=\"../img/troop/Icon_Occupation_Marines.webp\" width=\"20px\"><font color=\"green\">창병</font>으로 <font color=\"blue\">변경</font> 가능<br/>변경 시 이동력 <font color=\"red\">-2</font> 및 이동 방식은 <img src=\"../img/icon/Move_Walk.webp\" width=\"20px\">보행으로 변경<br/><font color=\"blue\">받는 피해</font> <font color=\"red\">-20%</font><br/>면역 및 해제 불가<br/><font color=\"blue\">스킬 재사용 시 취소</font>"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+20</font>%<br/>주위 <font color=\"red\">2</font>칸 범위 안 아군의 생명을 제외한 모든 능력치 <font color=\"red\">+15</font>%<br/>혼합 부대일 경우 추가로 <font color=\"red\">+5</font>% 및 선공으로 전투 진입 시 <font color=\"blue\">선제 공격</font><br/>행동 종료 시,영웅 병종을 <img src=\"../img/troop/Icon_Occupation_Marines.webp\" width=\"20px\"><font color=\"green\">창병</font>으로 <font color=\"blue\">변경</font> 가능<br/>변경 시 이동력 <font color=\"red\">-2</font> 및 이동 방식은 <img src=\"../img/icon/Move_Walk.webp\" width=\"20px\">보행으로 변경<br/><font color=\"blue\">받는 피해</font> <font color=\"red\">-20</font>%<br/>면역 및 해제 불가<br/><font color=\"blue\">스킬 재사용 시 취소</font>"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+20%</font><br/>주위 <font color=\"red\">2</font>칸 범위 안 아군의 생명을 제외한 모든 능력치 <font color=\"red\">+15%</font><br/>혼합 부대일 경우 추가로 <font color=\"red\">+5%</font> 및 선공으로 전투 진입 시 <font color=\"blue\">선제 공격</font><br/>행동 종료 시,영웅 병종을 <img src=\"../img/troop/Icon_Occupation_Marines.webp\" width=\"20px\"><font color=\"green\">창병</font>으로 <font color=\"blue\">변경</font> 가능<br/>변경 시 이동력 <font color=\"red\">-2</font> 및 이동 방식은 <img src=\"../img/icon/Move_Walk.webp\" width=\"20px\">보행으로 변경<br/><font color=\"blue\">받는 피해</font> <font color=\"red\">-20%</font><br/>면역 및 해제 불가<br/><font color=\"blue\">스킬 재사용 시 취소</font>"
         }
       ]
     }
   ],
   "Second_Awaken": {
     "Name" : "지휘관의 위엄",
-    "Stats": " 고유 스킬 지휘 범위 안에 있는 아군 치명타 피해 <font color=\"red\">+10</font>%<br/>선공으로 전투 진입해서 <font color=\"blue\">치명타</font> 발동 후 피해량 <font color=\"red\">20</font>% 수치 <font color=\"green\">생명 회복</font>"
+    "Stats": " 고유 스킬 지휘 범위 안에 있는 아군 치명타 피해 <font color=\"red\">+10%</font><br/>선공으로 전투 진입해서 <font color=\"blue\">치명타</font> 발동 후 피해량 <font color=\"red\">20%</font> 수치 <font color=\"green\">생명 회복</font>"
   },
   "Equip": {
     "Name": "란포드의 최종 선택(투구)",
@@ -185,13 +185,13 @@
           "ImageUrl": "란포드/sp/1.webp"
         },
         {
-          "ImageUrl": "란포드/2/2.webp"
+          "ImageUrl": "란포드/2/3.webp"
         },
         {
-          "ImageUrl": "란포드/3/2.webp"
+          "ImageUrl": "란포드/3/3.webp"
         },
         {
-          "ImageUrl": "란포드/4/2.webp"
+          "ImageUrl": "란포드/4/3.webp"
         },
         {
           "ImageUrl": "란포드/sp/1.webp"
@@ -856,7 +856,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/란포드/1.webp",
-      "Desc": "[패시브]인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font>.<br/><font color=\"blue\">위치 이동</font> 및 <font color=\"blue\">침묵</font> <font color=\"blue\">면역</font><br/>[액티브]<font color=\"blue\">호위</font> 범위가 <font color=\"purple\">고유 스킬</font> <font color=\"blue\">지휘</font> 범위까지 증가, <font color=\"blue\">받는 피해</font> <font color=\"red\">-20</font>% 및<br/>공격의 <font color=\"red\">15</font>% 수치만큼 <font color=\"blue\">방어, 마방 증가</font><br/>지속 <font color=\"red\">4</font>행동",
+      "Desc": "[패시브]인접한 아군이 받는 모든 공격 <font color=\"blue\">호위</font>.<br/><font color=\"blue\">위치 이동</font> 및 <font color=\"blue\">침묵</font> <font color=\"blue\">면역</font><br/>[액티브]<font color=\"blue\">호위</font> 범위가 <font color=\"purple\">고유 스킬</font> <font color=\"blue\">지휘</font> 범위까지 증가, <font color=\"blue\">받는 피해</font> <font color=\"red\">-20%</font> 및<br/>공격의 <font color=\"red\">15%</font> 수치만큼 <font color=\"blue\">방어, 마방 증가</font><br/>지속 <font color=\"red\">4</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -870,7 +870,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/란포드/2.webp",
-      "Desc": "<font color=\"blue\">치명타 확률</font> 및 <font color=\"blue\">치명타 피해</font> <font color=\"red\">+20</font>%<br/>주위 <font color=\"red\">3</font>칸 범위 안에 혼합 부대 아군이 있는 상태에서 선공 시<br/>해당 공격은 <font color=\"blue\">호위 무시</font>",
+      "Desc": "<font color=\"blue\">치명타 확률</font> 및 <font color=\"blue\">치명타 피해</font> <font color=\"red\">+20%</font><br/>주위 <font color=\"red\">3</font>칸 범위 안에 혼합 부대 아군이 있는 상태에서 선공 시<br/>해당 공격은 <font color=\"blue\">호위 무시</font>",
       "SubSkills": null,
       "Animation": null
     },

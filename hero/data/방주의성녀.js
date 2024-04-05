@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+10</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">50</font>% 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">50</font>% 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
+          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+10</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">50%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
         },
         {
-          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+12</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">60</font>% 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">60</font>% 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
+          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+12</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">60%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">60%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
         },
         {
-          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+15</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">80</font>% 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">80</font>% 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
+          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+15</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">80%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">80%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
         },
         {
-          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+20</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">100</font>% 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">100</font>% 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
+          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+20</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">100%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">100%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
         }
       ]
     }
@@ -88,7 +88,7 @@
     "Name": "여명의 관(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "방주의성녀.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>자신 주위 <font color=\"red\">1</font> 바퀴 안에 아군 <font color=\"red\">2</font>부대 이상이 있을 경우<br/><font color=\"blue\">빛과 그림자</font>가 아군에게 피해를 입히지 않음<br/><font color=\"green\">받는 치료 효과</font> <font color=\"Red\">+8</font>%"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>자신 주위 <font color=\"red\">1</font> 바퀴 안에 아군 <font color=\"red\">2</font>부대 이상이 있을 경우<br/><font color=\"blue\">빛과 그림자</font>가 아군에게 피해를 입히지 않음<br/><font color=\"green\">받는 치료 효과</font> <font color=\"Red\">+8</font>%"
   },
   "Soldiers": [
     43,
@@ -136,8 +136,8 @@
       "MagicDefRate": 82,
       "Skill": 87,
       "SkillRate": 27,
-      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">80</font>% 이상 일 경우 <br/>피격 치명타확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">70</font>% 이하인 경우 <br/>전투시 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">80%</font> 이상 일 경우 <br/>피격 치명타확률 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">70%</font> 이하인 경우 <br/>전투시 주는 피해량 <font color=\"red\">+10</font>%"
     },
     {
       "Name": "빛과 어둠의 사자",
@@ -419,7 +419,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/SaintArk/1.webp",
-      "Desc": "[변신]사용 후 '<font color=\"blue\">마족화</font>' 상태 돌입<br/> 1) 피해량 <font color=\"red\">+20</font>%, 이동력 <font color=\"red\">+1</font><br/>적에게 피해를 입힌 후 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/>지속 <font color=\"red\">3</font>행동<br/> 2) '<font color=\"blue\">마족화</font>' 상태가 <font color=\"red\">1</font>행동 남은 경우 <font color=\"red\">제어 불가 상태</font>로 현재 위치 대기 및 영웅이 받는 피해량 <font color=\"red\">-80</font>%<br/> <font color=\"red\">이동 불가</font>, <font color=\"blue\">위치 이동</font> 및 <font color=\"blue\">텔레포트</font> 불가(<font color=\"red\">디메리트</font>)<br/>행동 종료 시 자신에게 인접한 <font color=\"red\">4</font>줄 직선 범위 내 모든 부대에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여<br/> 3) <font color=\"blue\">마족화</font> 상태 종료 시 자신의 <font color=\"green\">생명 회복</font> <font color=\"red\">100</font>%, 모든 스킬 쿨타임 <font color=\"red\">-3</font><br/> 4) <font color=\"blue\">마족화</font> 상태는 <b>해제 및 면역 불가</b><br/>해당 스킬은 자신에게 걸린 <font color=\"blue\">버프</font> 지속시간을 소모하지 않음",
+      "Desc": "[변신]사용 후 '<font color=\"blue\">마족화</font>' 상태 돌입<br/> 1) 피해량 <font color=\"red\">+20%</font>, 이동력 <font color=\"red\">+1</font><br/>적에게 피해를 입힌 후 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/>지속 <font color=\"red\">3</font>행동<br/> 2) '<font color=\"blue\">마족화</font>' 상태가 <font color=\"red\">1</font>행동 남은 경우 <font color=\"red\">제어 불가 상태</font>로 현재 위치 대기 및 영웅이 받는 피해량 <font color=\"red\">-80%</font><br/> <font color=\"red\">이동 불가</font>, <font color=\"blue\">위치 이동</font> 및 <font color=\"blue\">텔레포트</font> 불가(<font color=\"red\">디메리트</font>)<br/>행동 종료 시 자신에게 인접한 <font color=\"red\">4</font>줄 직선 범위 내 모든 부대에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">3</font>개 부여<br/> 3) <font color=\"blue\">마족화</font> 상태 종료 시 자신의 <font color=\"green\">생명 회복</font> <font color=\"red\">100%</font>, 모든 스킬 쿨타임 <font color=\"red\">-3</font><br/> 4) <font color=\"blue\">마족화</font> 상태는 <b>해제 및 면역 불가</b><br/>해당 스킬은 자신에게 걸린 <font color=\"blue\">버프</font> 지속시간을 소모하지 않음",
       "SubSkills": null,
       "Animation": null
     },
@@ -445,7 +445,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },

@@ -73,7 +73,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "시련의 검",
-    "Stats": "공격 <font color=\"red\">+10</font>%<br/><font color=\"blue\">영검 변환</font> 사용 후 <font color=\"blue\">재공격</font><br/><b>해당 재공격은 버프 지속 시간을 소모하지 않음</b>"
+    "Stats": "공격 <font color=\"red\">+10%</font><br/><font color=\"blue\">영검 변환</font> 사용 후 <font color=\"blue\">재공격</font><br/><b>해당 재공격은 버프 지속 시간을 소모하지 않음</b>"
   },
   "Equip": null,
   "Soldiers": [
@@ -512,7 +512,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/카즈마.webp",
-      "Desc": "[액티브]자신에게 '<font color=\"blue\">영검 이도류</font>', '<font color=\"blue\">영능 수리검</font>' 효과 부여<br/>영검 이도류 : 피해 <font color=\"red\">+20</font>%, <b>근접 일반 공격시 영웅 공격</b> <font color=\"red\">2</font>회<br/>영능 수리검 : <b>부대 일반 공격 사거리</b> <font color=\"red\">+1</font><br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가, 면역 불가</b>",
+      "Desc": "[액티브]자신에게 '<font color=\"blue\">영검 이도류</font>', '<font color=\"blue\">영능 수리검</font>' 효과 부여<br/>영검 이도류 : 피해 <font color=\"red\">+20%</font>, <b>근접 일반 공격시 영웅 공격</b> <font color=\"red\">2</font>회<br/>영능 수리검 : <b>부대 일반 공격 사거리</b> <font color=\"red\">+1</font><br/>지속 <font color=\"red\">2</font>행동, <b>해제 불가, 면역 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/카즈마_Ani.webp"
     }

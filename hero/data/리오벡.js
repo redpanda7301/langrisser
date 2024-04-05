@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "부대 사거리 <font color=\"red\">+1</font><br/>생명 <font color=\"red\">70</font>% 초과 시 피해량 <font color=\"red\">+10</font>%<br/>모든 아군이 선공으로 전투 진입 후 적의 생명이 <font color=\"red\">15</font>% 미만일 경우 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>수치는 리오벡 지력의 <font color=\"red\">1</font>배"
+          "Desc": "부대 사거리 <font color=\"red\">+1</font><br/>생명 <font color=\"red\">70%</font> 초과 시 피해량 <font color=\"red\">+10%</font><br/>모든 아군이 선공으로 전투 진입 후 적의 생명이 <font color=\"red\">15%</font> 미만일 경우 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>수치는 리오벡 지력의 <font color=\"red\">1</font>배"
         },
         {
-          "Desc": "부대 사거리 <font color=\"red\">+1</font><br/>생명 <font color=\"red\">70</font>% 초과 시 피해량 <font color=\"red\">+15</font>%<br/>모든 아군이 선공으로 전투 진입 후 적의 생명이 <font color=\"red\">15</font>% 미만일 경우 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>수치는 리오벡 지력의 <font color=\"red\">1.2</font>배"
+          "Desc": "부대 사거리 <font color=\"red\">+1</font><br/>생명 <font color=\"red\">70%</font> 초과 시 피해량 <font color=\"red\">+15%</font><br/>모든 아군이 선공으로 전투 진입 후 적의 생명이 <font color=\"red\">15%</font> 미만일 경우 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>수치는 리오벡 지력의 <font color=\"red\">1.2</font>배"
         },
         {
-          "Desc": "부대 사거리 <font color=\"red\">+1</font><br/>생명 <font color=\"red\">70</font>% 초과 시 피해량 <font color=\"red\">+20</font>%<br/>모든 아군이 선공으로 전투 진입 후 적의 생명이 <font color=\"red\">15</font>% 미만일 경우 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>수치는 리오벡 지력의 <font color=\"red\">1.5</font>배"
+          "Desc": "부대 사거리 <font color=\"red\">+1</font><br/>생명 <font color=\"red\">70%</font> 초과 시 피해량 <font color=\"red\">+20%</font><br/>모든 아군이 선공으로 전투 진입 후 적의 생명이 <font color=\"red\">15%</font> 미만일 경우 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>수치는 리오벡 지력의 <font color=\"red\">1.5</font>배"
         },
         {
-          "Desc": "부대 사거리 <font color=\"red\">+2</font><br/>생명 <font color=\"red\">70</font>% 초과 시 피해량 <font color=\"red\">+25</font>%<br/>모든 아군이 선공으로 전투 진입 후 적의 생명이 <font color=\"red\">15</font>% 미만일 경우 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>수치는 리오벡 지력의 <font color=\"red\">2</font>배"
+          "Desc": "부대 사거리 <font color=\"red\">+2</font><br/>생명 <font color=\"red\">70%</font> 초과 시 피해량 <font color=\"red\">+25%</font><br/>모든 아군이 선공으로 전투 진입 후 적의 생명이 <font color=\"red\">15%</font> 미만일 경우 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>수치는 리오벡 지력의 <font color=\"red\">2</font>배"
         }
       ]
     }
@@ -453,7 +453,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30</font>% 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -545,7 +545,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/RioBec/2.webp",
-      "Desc": "[패시브]적이 한 명 죽을 때마다 쿨타임<font color=\"red\">-2</font><br/>[액티브]대상에게 '<font color=\"blue\">계약</font>' 효과를 부여<br/><font color=\"blue\">계약</font> : 일격에 사망하지 않음<br/>지속 <font color=\"red\">2</font>행동<br/>아군이 <font color=\"blue\">계약</font> 효과 발동 시 '<font color=\"blue\">영혼 고갈</font>' 효과 획득<br/><font color=\"blue\">영혼 고갈</font> : 다시 <font color=\"blue\">계약</font> 효과를 받을 수 없음<br/>해제 불가<br/><font color=\"blue\">계약</font> 효과를 보유한 아군이 존재할 경우 리오벡은 행동 종료 시<br/>현재 생명 <font color =\"red\">10</font>% 수치의 <font color=\"blue\">고정 피해</font>를 받음(디메리트)<br/>최대 사용 <font color=\"Red\">3</font>회",
+      "Desc": "[패시브]적이 한 명 죽을 때마다 쿨타임<font color=\"red\">-2</font><br/>[액티브]대상에게 '<font color=\"blue\">계약</font>' 효과를 부여<br/><font color=\"blue\">계약</font> : 일격에 사망하지 않음<br/>지속 <font color=\"red\">2</font>행동<br/>아군이 <font color=\"blue\">계약</font> 효과 발동 시 '<font color=\"blue\">영혼 고갈</font>' 효과 획득<br/><font color=\"blue\">영혼 고갈</font> : 다시 <font color=\"blue\">계약</font> 효과를 받을 수 없음<br/>해제 불가<br/><font color=\"blue\">계약</font> 효과를 보유한 아군이 존재할 경우 리오벡은 행동 종료 시<br/>현재 생명 <font color =\"red\">10%</font> 수치의 <font color=\"blue\">고정 피해</font>를 받음(디메리트)<br/>최대 사용 <font color=\"Red\">3</font>회",
       "SubSkills": null,
       "Animation": null
     },

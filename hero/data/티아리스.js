@@ -100,7 +100,7 @@
     "Name": "소녀의 희망(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "티아리스.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>단일 아군에게 단일 대상 스킬 사용시, <font color=\"blue\">진격의 가호</font> 효과 부여.<br/>지속 <font color=\"red\">1</font>행동."
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>단일 아군에게 단일 대상 스킬 사용시, <font color=\"blue\">진격의 가호</font> 효과 부여.<br/>지속 <font color=\"red\">1</font>행동."
   },
   "Soldiers": [
     0,
@@ -577,7 +577,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -669,7 +669,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/티아리스.webp",
-      "Desc": "범위 내 모든 아군 이동력 <font color=\"red\">+1</font>, 공격,지력<font color=\"red\">+15</font>% <br/>선공으로 전투 진입 시 피해량 <font color=\"red\">+30</font>%, 받는 피해량 <font color=\"red\">-50</font>%, <font color=\"green\">받는 반사 피해량</font> <font color=\"red\">-30</font>%<br/><font color=\"blue\">공격, 지력 감소 면역</font> 부여 <br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 모든 아군 이동력 <font color=\"red\">+1</font>, 공격,지력<font color=\"red\">+15%</font> <br/>선공으로 전투 진입 시 피해량 <font color=\"red\">+30%</font>, 받는 피해량 <font color=\"red\">-50%</font>, <font color=\"green\">받는 반사 피해량</font> <font color=\"red\">-30%</font><br/><font color=\"blue\">공격, 지력 감소 면역</font> 부여 <br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/티아리스_Ani.webp"
     }

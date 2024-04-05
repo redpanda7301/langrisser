@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "공격, 치명타 확률 <font color=\"Red\">+10</font>%<br/>전투 시작 시 자신 주변에 '<font color=\"purple\">홀로그램 요아</font>' 소환<br/><font color=\"purple\">홀로그램</font>은 코니 스탯의 <font color=\"red\">80</font>를 따라간다."
+          "Desc": "공격, 치명타 확률 <font color=\"Red\">+10%</font><br/>전투 시작 시 자신 주변에 '<font color=\"purple\">홀로그램 요아</font>' 소환<br/><font color=\"purple\">홀로그램</font>은 코니 스탯의 <font color=\"red\">80</font>를 따라간다."
         },
         {
-          "Desc": "공격, 치명타 확률 <font color=\"Red\">+13</font>%<br/>전투 시작 시 자신 주변에 '<font color=\"purple\">홀로그램 요아</font>' 소환<br/><font color=\"purple\">홀로그램</font>은 코니 스탯의 <font color=\"red\">90</font>를 따라간다."
+          "Desc": "공격, 치명타 확률 <font color=\"Red\">+13%</font><br/>전투 시작 시 자신 주변에 '<font color=\"purple\">홀로그램 요아</font>' 소환<br/><font color=\"purple\">홀로그램</font>은 코니 스탯의 <font color=\"red\">90</font>를 따라간다."
         },
         {
-          "Desc": "공격, 치명타 확률 <font color=\"Red\">+16</font>%<br/>전투 시작 시 자신 주변에 '<font color=\"purple\">홀로그램 요아</font>' 소환<br/><font color=\"purple\">홀로그램</font>은 코니 스탯의 <font color=\"red\">100</font>를 따라간다."
+          "Desc": "공격, 치명타 확률 <font color=\"Red\">+16%</font><br/>전투 시작 시 자신 주변에 '<font color=\"purple\">홀로그램 요아</font>' 소환<br/><font color=\"purple\">홀로그램</font>은 코니 스탯의 <font color=\"red\">100</font>를 따라간다."
         },
         {
-          "Desc": "공격, 치명타 확률 <font color=\"Red\">+20</font>%<br/>전투 시작 시 자신 주변에 '<font color=\"purple\">홀로그램 요아</font>' 소환<br/><font color=\"purple\">홀로그램</font>은 코니 스탯의 <font color=\"red\">110</font>를 따라간다."
+          "Desc": "공격, 치명타 확률 <font color=\"Red\">+20%</font><br/>전투 시작 시 자신 주변에 '<font color=\"purple\">홀로그램 요아</font>' 소환<br/><font color=\"purple\">홀로그램</font>은 코니 스탯의 <font color=\"red\">110</font>를 따라간다."
         }
       ]
     }
@@ -80,7 +80,7 @@
     "Name": "Y형 시각 단말(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "코니.webp",
-    "Ability": "생명 <font color=\"red\">+10</font>%<br/>요아와의 거리가 <font color=\"red\">3</font>칸 이내일 경우 코니 <font color=\"blue\">치명타 피해</font> <font color=\"red\">+15</font>%<br/>요아 사용하는 채널 간섭에 추가 효과<br/>'<font color=\"blue\">지휘</font>. 자신 주위 <font color=\"red\">2</font>칸 범위 안 적이 코니에게 공격받을 경우 <font color=\"blue\">호위 불가</font>'<br/>지속 <font color=\"red\">2</font>행동"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>요아와의 거리가 <font color=\"red\">3</font>칸 이내일 경우 코니 <font color=\"blue\">치명타 피해</font> <font color=\"red\">+15%</font><br/>요아 사용하는 채널 간섭에 추가 효과<br/>'<font color=\"blue\">지휘</font>. 자신 주위 <font color=\"red\">2</font>칸 범위 안 적이 코니에게 공격받을 경우 <font color=\"blue\">호위 불가</font>'<br/>지속 <font color=\"red\">2</font>행동"
   },
   "Soldiers": [
     13,
@@ -397,7 +397,7 @@
         }
       ],
       "IconImageUrl": "../img/ability/Gift_Conna.webp",
-      "Desc": "적 통과 이동 가능<br/>이동가능한 지형을 평지로 간주<br/>선공으로 전투 진입 시 <font color=\"red\">받는 피해</font> <font color=\"red\">-80</font>%<br/><b>코니가 사망할 경우 행동 종료 시 즉시 사망</b>",
+      "Desc": "적 통과 이동 가능<br/>이동가능한 지형을 평지로 간주<br/>선공으로 전투 진입 시 <font color=\"red\">받는 피해</font> <font color=\"red\">-80%</font><br/><b>코니가 사망할 경우 행동 종료 시 즉시 사망</b>",
       "SubSkills":[
         {
           "Name": "<b><font color=\"purple\">채널 간섭</font></b>",
@@ -499,7 +499,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50</font>% 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font></font>%<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -619,7 +619,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/11.webp",
-      "Desc": "공격 시 주는 피해량 <font color=\"red\">+10</font>%<br/>전투 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재이동</font><br/><font color=\"blue\">재이동</font> 효과는 1턴 이후 다시 발동할 수 있다.",
+      "Desc": "공격 시 주는 피해량 <font color=\"red\">+10%</font><br/>전투 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재이동</font><br/><font color=\"blue\">재이동</font> 효과는 1턴 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -633,7 +633,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Hide.webp",
-      "Desc": "공격하여 전투 진입 시 치명타율 <font color=\"red\">+10</font>%, 받는 피해량 <font color=\"red\">-20</font>%.",
+      "Desc": "공격하여 전투 진입 시 치명타율 <font color=\"red\">+10%</font>, 받는 피해량 <font color=\"red\">-20</font>%.",
       "SubSkills": null,
       "Animation": null
     },

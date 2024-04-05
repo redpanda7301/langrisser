@@ -67,16 +67,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>전장에 있는 아군이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우</b><br/>공격력, 지력 <font color=\"red\">+5%</font>.<br/><b>행동 종료 시</b> 뮤의 지력 <font color=\"red\">1.5</font>배 수치만큼 생명 회복<br/><b>모든 적이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우 행동 종료시</b><br/><font color=\"red\">40</font>% 확률로 적에게 랜덤한 디버프 <font color=\"red\">1</font>개 부여<br/><b>해당 효과는 동일 종류의 지휘 스킬과 중첩 불가</b>"
+          "Desc": "<b>전장에 있는 아군이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우</b><br/>공격력, 지력 <font color=\"red\">+5%</font>.<br/><b>행동 종료 시</b> 뮤의 지력 <font color=\"red\">1.5</font>배 수치만큼 생명 회복<br/><b>모든 적이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우 행동 종료시</b><br/><font color=\"red\">40%</font> 확률로 적에게 랜덤한 디버프 <font color=\"red\">1</font>개 부여<br/><b>해당 효과는 동일 종류의 지휘 스킬과 중첩 불가</b>"
         },
         {
-          "Desc": "<b>전장에 있는 아군이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우</b><br/>공격력, 지력 <font color=\"red\">+8%</font>.<br/><b>행동 종료 시</b> 뮤의 지력 <font color=\"red\">2</font>배 수치만큼 생명 회복<br/><b>모든 적이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우 행동 종료시</b><br/><font color=\"red\">60</font>% 확률로 적에게 랜덤한 디버프 <font color=\"red\">1</font>개 부여<br/><b>해당 효과는 동일 종류의 지휘 스킬과 중첩 불가</b>"
+          "Desc": "<b>전장에 있는 아군이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우</b><br/>공격력, 지력 <font color=\"red\">+8%</font>.<br/><b>행동 종료 시</b> 뮤의 지력 <font color=\"red\">2</font>배 수치만큼 생명 회복<br/><b>모든 적이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우 행동 종료시</b><br/><font color=\"red\">60%</font> 확률로 적에게 랜덤한 디버프 <font color=\"red\">1</font>개 부여<br/><b>해당 효과는 동일 종류의 지휘 스킬과 중첩 불가</b>"
         },
         {
-          "Desc": "<b>전장에 있는 아군이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우</b><br/>공격력, 지력 <font color=\"red\">+11%</font>.<br/><b>행동 종료 시</b> 뮤의 지력 <font color=\"red\">2.5</font>배 수치만큼 생명 회복<br/><b>모든 적이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우 행동 종료시</b><br/><font color=\"red\">80</font>% 확률로 적에게 랜덤한 디버프 <font color=\"red\">1</font>개 부여<br/><b>해당 효과는 동일 종류의 지휘 스킬과 중첩 불가</b>"
+          "Desc": "<b>전장에 있는 아군이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우</b><br/>공격력, 지력 <font color=\"red\">+11%</font>.<br/><b>행동 종료 시</b> 뮤의 지력 <font color=\"red\">2.5</font>배 수치만큼 생명 회복<br/><b>모든 적이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우 행동 종료시</b><br/><font color=\"red\">80%</font> 확률로 적에게 랜덤한 디버프 <font color=\"red\">1</font>개 부여<br/><b>해당 효과는 동일 종류의 지휘 스킬과 중첩 불가</b>"
         },
         {
-          "Desc": "<b>전장에 있는 아군이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우</b><br/>공격력, 지력 <font color=\"red\">+15%</font>.<br/><b>행동 종료 시</b> 뮤의 지력 <font color=\"red\">3</font>배 수치만큼 생명 회복<br/><b>모든 적이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우 행동 종료시</b><br/><font color=\"red\">100</font>% 확률로 적에게 랜덤한 디버프 <font color=\"red\">1</font>개 부여<br/><b>해당 효과는 동일 종류의 지휘 스킬과 중첩 불가</b>"
+          "Desc": "<b>전장에 있는 아군이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우</b><br/>공격력, 지력 <font color=\"red\">+15%</font>.<br/><b>행동 종료 시</b> 뮤의 지력 <font color=\"red\">3</font>배 수치만큼 생명 회복<br/><b>모든 적이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font>지형에 위치해 있을 경우 행동 종료시</b><br/><font color=\"red\">100%</font> 확률로 적에게 랜덤한 디버프 <font color=\"red\">1</font>개 부여<br/><b>해당 효과는 동일 종류의 지휘 스킬과 중첩 불가</b>"
         }
       ]
     }
@@ -84,7 +84,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "삼라만상의 비호",
-    "Stats":"지력 <font color=\"red\">+5</font>%<br/><font color=\"green\">고대 엔트</font> <font color=\"blue\">스탯 상승</font> 및 '<font color=\"blue\">성장 회복</font>' 효과 획득"
+    "Stats":"지력 <font color=\"red\">+5%</font><br/><font color=\"green\">고대 엔트</font> <font color=\"blue\">스탯 상승</font> 및 '<font color=\"blue\">성장 회복</font>' 효과 획득"
   },
   "Equip": {
     "Name": "만개한 화관(투구)",
@@ -140,7 +140,7 @@
       "MagicDefRate": 85,
       "Skill": 96,
       "SkillRate": 27,
-      "HeartFetterBouns1": "<b>부대의 생명이 <font color=\"red\">80</font>% 이상일 때</b><br/>받는 치명타 확률 -10%",
+      "HeartFetterBouns1": "<b>부대의 생명이 <font color=\"red\">80%</font> 이상일 때</b><br/>받는 치명타 확률 -10%",
       "HeartFetterBouns2": "치유 효과 <font color=\"red\">+10</font>%"
     },
 	{
@@ -536,7 +536,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Mu/3.webp",
-      "Desc": "[패시브]<b>자신이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font></b>지형에 있을 경우 받는 피해 <font color=\"red\">-20</font>%<br/><b>스킬 사용시</b>부대 사거리 <font color=\"red\">+1</font><br/><b>행동 종료 시 자신 주의 <font color=\"red\">2</font>칸 범위 내 모든 아군의</b> 생명 회복 (지력 <font color=\"red\">1.5</font>배 수치)",
+      "Desc": "[패시브]<b>자신이 <font color=\"green\">숲</font>,<font color=\"green\">초원</font></b>지형에 있을 경우 받는 피해 <font color=\"red\">-20%</font><br/><b>스킬 사용시</b>부대 사거리 <font color=\"red\">+1</font><br/><b>행동 종료 시 자신 주의 <font color=\"red\">2</font>칸 범위 내 모든 아군의</b> 생명 회복 (지력 <font color=\"red\">1.5</font>배 수치)",
       "SubSkills": null,
       "Animation": null
     },	
@@ -588,7 +588,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/뮤.webp",
-      "Desc": "<br/>[마법 피해] 단일 적 부대를 공격하여 <font color=\"red\">1.6</font>배 피해를 준다.<br/><b>전투 진입 전 적이 받는 피해량<font color=\"red\">+20</font>%, '<font color=\"blue\">숲의 씨앗</font>'효과를 부여한다.<br/><font color=\"blue\">숲의 씨앗</font> : <b>사망 시 시전자의</b> '<font color=\"green\">고대 숲의 정령</font>'으로 변화<br/>지속 <font color=\"red\">2</font>행동<br/><b>전투 후 자신과 목표에게</b> '<font color=\"green\">풀밭</font>'효과 부여<br/><font color=\"green\">풀밭</font> : [지휘] <b>주위 <font color=\"red\">1</font>바퀴 범위 안에 있는 모든 부대가 이동 가능한 지형을</b><br/><font color=\"green\">초원</font>으로 간주한다. 지속<font color=\"red\">2</font>행동<br/><font color=\"green\">고대 숲의 정령</font> 최대 수량은 <font color=\"red\">1</font>기",
+      "Desc": "<br/>[마법 피해] 단일 적 부대를 공격하여 <font color=\"red\">1.6</font>배 피해를 준다.<br/><b>전투 진입 전 적이 받는 피해량<font color=\"red\">+20%</font>, '<font color=\"blue\">숲의 씨앗</font>'효과를 부여한다.<br/><font color=\"blue\">숲의 씨앗</font> : <b>사망 시 시전자의</b> '<font color=\"green\">고대 숲의 정령</font>'으로 변화<br/>지속 <font color=\"red\">2</font>행동<br/><b>전투 후 자신과 목표에게</b> '<font color=\"green\">풀밭</font>'효과 부여<br/><font color=\"green\">풀밭</font> : [지휘] <b>주위 <font color=\"red\">1</font>바퀴 범위 안에 있는 모든 부대가 이동 가능한 지형을</b><br/><font color=\"green\">초원</font>으로 간주한다. 지속<font color=\"red\">2</font>행동<br/><font color=\"green\">고대 숲의 정령</font> 최대 수량은 <font color=\"red\">1</font>기",
       "SubSkills": null,
       "Animation": "../img/Super/뮤_Ani.webp"
     }

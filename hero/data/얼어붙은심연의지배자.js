@@ -60,16 +60,16 @@
             "Desc": "2성"
           },
           {
-            "Desc": "주는 피해량 <font color=\"red\">+10</font>%<br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>행동 종료 시, 아군 <font color=\"red\">2</font>명을 선택 후 <font color=\"red\">0.1</font>배 수치 <font color=\"blue\">마법 피해</font> 및 '<font color=\"purple\">사슬 채찍</font>' 효과 부여<br/>쿨타임 <font color=\"red\">3</font> <br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">사무치는 한기</font>' 부여 (면역 및 해제 불가)<br/><font color=\"purple\">사슬 채찍</font> 및 <font color=\"purple\">사무치는 한기</font> 하기에 후술"
+            "Desc": "주는 피해량 <font color=\"red\">+10%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>행동 종료 시, 아군 <font color=\"red\">2</font>명을 선택 후 <font color=\"red\">0.1</font>배 수치 <font color=\"blue\">마법 피해</font> 및 '<font color=\"purple\">사슬 채찍</font>' 효과 부여<br/>쿨타임 <font color=\"red\">3</font> <br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">사무치는 한기</font>' 부여 (면역 및 해제 불가)<br/><font color=\"purple\">사슬 채찍</font> 및 <font color=\"purple\">사무치는 한기</font> 하기에 후술"
           },
           {
-            "Desc": "주는 피해량 <font color=\"red\">+15</font>%<br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>행동 종료 시, 아군 <font color=\"red\">2</font>명을 선택 후 <font color=\"red\">0.1</font>배 수치 <font color=\"blue\">마법 피해</font> 및 '<font color=\"purple\">사슬 채찍</font>' 효과 부여<br/>쿨타임 <font color=\"red\">3</font> <br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">사무치는 한기</font>' 부여 (면역 및 해제 불가)<br/><font color=\"purple\">사슬 채찍</font> 및 <font color=\"purple\">사무치는 한기</font> 하기에 후술"
+            "Desc": "주는 피해량 <font color=\"red\">+15%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>행동 종료 시, 아군 <font color=\"red\">2</font>명을 선택 후 <font color=\"red\">0.1</font>배 수치 <font color=\"blue\">마법 피해</font> 및 '<font color=\"purple\">사슬 채찍</font>' 효과 부여<br/>쿨타임 <font color=\"red\">3</font> <br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">사무치는 한기</font>' 부여 (면역 및 해제 불가)<br/><font color=\"purple\">사슬 채찍</font> 및 <font color=\"purple\">사무치는 한기</font> 하기에 후술"
           },
           {
-            "Desc": "주는 피해량 <font color=\"red\">+20</font>%<br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>행동 종료 시, 아군 <font color=\"red\">2</font>명을 선택 후 <font color=\"red\">0.1</font>배 수치 <font color=\"blue\">마법 피해</font> 및 '<font color=\"purple\">사슬 채찍</font>' 효과 부여<br/>쿨타임 <font color=\"red\">2</font> <br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">사무치는 한기</font>' 부여 (면역 및 해제 불가)<br/><font color=\"purple\">사슬 채찍</font> 및 <font color=\"purple\">사무치는 한기</font> 하기에 후술"
+            "Desc": "주는 피해량 <font color=\"red\">+20%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>행동 종료 시, 아군 <font color=\"red\">2</font>명을 선택 후 <font color=\"red\">0.1</font>배 수치 <font color=\"blue\">마법 피해</font> 및 '<font color=\"purple\">사슬 채찍</font>' 효과 부여<br/>쿨타임 <font color=\"red\">2</font> <br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">사무치는 한기</font>' 부여 (면역 및 해제 불가)<br/><font color=\"purple\">사슬 채찍</font> 및 <font color=\"purple\">사무치는 한기</font> 하기에 후술"
           },
           {
-            "Desc": "주는 피해량 <font color=\"red\">+25</font>%<br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>행동 종료 시, 아군 <font color=\"red\">2</font>명을 선택 후 <font color=\"red\">0.1</font>배 수치 <font color=\"blue\">마법 피해</font> 및 '<font color=\"purple\">사슬 채찍</font>' 효과 부여<br/>쿨타임 <font color=\"red\">2</font> <br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">사무치는 한기</font>' 부여 (면역 및 해제 불가)<br/><font color=\"purple\">사슬 채찍</font> 및 <font color=\"purple\">사무치는 한기</font> 하기에 후술"
+            "Desc": "주는 피해량 <font color=\"red\">+25%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>행동 종료 시, 아군 <font color=\"red\">2</font>명을 선택 후 <font color=\"red\">0.1</font>배 수치 <font color=\"blue\">마법 피해</font> 및 '<font color=\"purple\">사슬 채찍</font>' 효과 부여<br/>쿨타임 <font color=\"red\">2</font> <br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">사무치는 한기</font>' 부여 (면역 및 해제 불가)<br/><font color=\"purple\">사슬 채찍</font> 및 <font color=\"purple\">사무치는 한기</font> 하기에 후술"
           }
         ]
       }
@@ -210,13 +210,13 @@
                   }
                 ],
                 "IconImageUrl": null,
-                "Desc": "<font color=\"blue\">모든 피해, 고정 피해, 치명타 확률, 치명타 피해, 지력, 공격, 기교</font> <font color=\"red\">+10</font>%<br/>해제 불가, 지속 <font color=\"red\">2</font>행동"
+                "Desc": "<font color=\"blue\">모든 피해, 고정 피해, 치명타 확률, 치명타 피해, 지력, 공격, 기교</font> <font color=\"red\">+10%</font><br/>해제 불가, 지속 <font color=\"red\">2</font>행동"
             },
             {
               "Name": "사무치는 한기",
               "Entries": null,
               "IconImageUrl": null,
-              "Desc": "지속 시간 내에 해당 효과를 다시 얻을 시, '<font color=\"blue\">냉동</font>' 효과로 변경<br/>얼어붙은 심연의 지배자와 교전 시, 생명을 제외한 <font color=\"blue\">모든 스탯</font> <font color=\"red\">-20</font>%<br/>지속 <font color=\"red\">2</font>행동<br/>'<font color=\"purple\">사무치는 한기</font>'를 보유한 적 사망 시, 얼어붙은 심연의 지배자의 모든 스킬 쿨타임 <font color=\"red\">-2</font><br/><font color=\"blue\">냉동</font> : <font color=\"blue\">기절</font>, 지속 <font color=\"red\">1</font>행동"
+              "Desc": "지속 시간 내에 해당 효과를 다시 얻을 시, '<font color=\"blue\">냉동</font>' 효과로 변경<br/>얼어붙은 심연의 지배자와 교전 시, 생명을 제외한 <font color=\"blue\">모든 스탯</font> <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">2</font>행동<br/>'<font color=\"purple\">사무치는 한기</font>'를 보유한 적 사망 시, 얼어붙은 심연의 지배자의 모든 스킬 쿨타임 <font color=\"red\">-2</font><br/><font color=\"blue\">냉동</font> : <font color=\"blue\">기절</font>, 지속 <font color=\"red\">1</font>행동"
             }
         ],
         "Animation": null
@@ -295,7 +295,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-        "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30</font>%,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+        "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
         "SubSkills": null,
         "Animation": null
     },
@@ -347,7 +347,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/Skill_HolySuper.webp",
-        "Desc": "치명타 확률 <font color =\"red\">+50</font>% <br/>주위 <font color =\"red\">5</font>칸 내 모든 적에게 <font color =\"red\">0.35</font>배 범위 피해<br/>'마족'에게 더 큰 피해를 준다.",
+        "Desc": "치명타 확률 <font color =\"red\">+50%</font> <br/>주위 <font color =\"red\">5</font>칸 내 모든 적에게 <font color =\"red\">0.35</font>배 범위 피해<br/>'마족'에게 더 큰 피해를 준다.",
         "SubSkills": null,
         "Animation": null
     },
@@ -452,7 +452,7 @@
             }
         ],
         "IconImageUrl": "../img/Super/얼어붙은심연의지배자.webp",
-        "Desc": "[패시브]<font color=\"purple\">사슬 채찍</font> 사용 시 <font color=\"blue\">자신에게 입히는 피해 면역</font><br/>사용 후 자신의 <font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>%<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해 및 자신 및 주위 <font color=\"red\">3</font>칸 범위 안에 있는 <font color=\"purple\">사슬 채찍</font> 효과를 보유한 아군을 스킬 사거리에서 가장 먼 칸 근처로 <font color=\"blue\">텔레포트</font><br/>동시에 경로 상 빈 칸 위 무작위 한 곳에 '<font color=\"blue\">얼음 기둥</font>' 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">얼음 기둥</font> : 적이 해당 위치 통과 후 행동 종료 시<br/>시전자 지력 <font color=\"red\">1.5</font>배의 <font color=\"blue\">면역 불가 고정 피해</font> 및 <font color=\"purple\">사무치는 한기</font> 효과 획득<br/>비행 이동이 아닌 적이 해당 위치를 지나갈 때, 이동력 <font color=\"red\">1</font> 추가 소모<br/>사용 후 스킬은 <font color=\"blue\">얼어붙은 심연의 지옥</font>으로 변경.",
+        "Desc": "[패시브]<font color=\"purple\">사슬 채찍</font> 사용 시 <font color=\"blue\">자신에게 입히는 피해 면역</font><br/>사용 후 자신의 <font color=\"blue\">공격 지력</font> <font color=\"red\">+20%</font><br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해 및 자신 및 주위 <font color=\"red\">3</font>칸 범위 안에 있는 <font color=\"purple\">사슬 채찍</font> 효과를 보유한 아군을 스킬 사거리에서 가장 먼 칸 근처로 <font color=\"blue\">텔레포트</font><br/>동시에 경로 상 빈 칸 위 무작위 한 곳에 '<font color=\"blue\">얼음 기둥</font>' 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">얼음 기둥</font> : 적이 해당 위치 통과 후 행동 종료 시<br/>시전자 지력 <font color=\"red\">1.5</font>배의 <font color=\"blue\">면역 불가 고정 피해</font> 및 <font color=\"purple\">사무치는 한기</font> 효과 획득<br/>비행 이동이 아닌 적이 해당 위치를 지나갈 때, 이동력 <font color=\"red\">1</font> 추가 소모<br/>사용 후 스킬은 <font color=\"blue\">얼어붙은 심연의 지옥</font>으로 변경.",
         "SubSkills": [
             {
                 "Name": "얼어붙은 심연의 지옥 ",
@@ -475,7 +475,7 @@
                     }
                 ],
                 "IconImageUrl": "../img/Super/얼어붙은심연의지배자_1.webp",
-                "Desc": "[패시브]<font color=\"purple\">사슬 채찍</font> 사용 시 <font color=\"blue\">자신에게 입히는 피해 면역</font><br/>사용 후 자신의 <font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>%<br/>지속 <font color=\"red\">2</font>행동<br/>[마법 피해]주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 스킬 범위 가장 자리에 '<font color=\"blue\">얼음 기둥</font>' 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">얼음 기둥</font> : 적이 해당 위치 통과 후 행동 종료 시<br/>시전자 지력 <font color=\"red\">1.5</font>배의 <font color=\"blue\">면역 불가 고정 피해</font> 및 <font color=\"purple\">사무치는 한기</font> 효과 획득<br/>비행 이동이 아닌 적이 해당 위치를 지나갈 때, 이동력 <font color=\"red\">1</font> 추가 소모<br/>사용 후 스킬은 <font color=\"blue\">얼어붙은 심연의 지옥</font>효과 획득<br/>[지휘] 주위 <font color=\"red\">3</font>칸 범위 안 적은 <font color=\"blue\">재행동 불가</font>, 지속 <font color=\"red\">2</font>행동<br/>사용 후 스킬은 '<font color=\"blue\">얼어붙은 심연의 지배</font>'로 변경."
+                "Desc": "[패시브]<font color=\"purple\">사슬 채찍</font> 사용 시 <font color=\"blue\">자신에게 입히는 피해 면역</font><br/>사용 후 자신의 <font color=\"blue\">공격 지력</font> <font color=\"red\">+20%</font><br/>지속 <font color=\"red\">2</font>행동<br/>[마법 피해]주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 스킬 범위 가장 자리에 '<font color=\"blue\">얼음 기둥</font>' 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">얼음 기둥</font> : 적이 해당 위치 통과 후 행동 종료 시<br/>시전자 지력 <font color=\"red\">1.5</font>배의 <font color=\"blue\">면역 불가 고정 피해</font> 및 <font color=\"purple\">사무치는 한기</font> 효과 획득<br/>비행 이동이 아닌 적이 해당 위치를 지나갈 때, 이동력 <font color=\"red\">1</font> 추가 소모<br/>사용 후 스킬은 <font color=\"blue\">얼어붙은 심연의 지옥</font>효과 획득<br/>[지휘] 주위 <font color=\"red\">3</font>칸 범위 안 적은 <font color=\"blue\">재행동 불가</font>, 지속 <font color=\"red\">2</font>행동<br/>사용 후 스킬은 '<font color=\"blue\">얼어붙은 심연의 지배</font>'로 변경."
             }
         ],
         "Animation": "../img/Super/얼어붙은심연의지배자_Ani.webp",
