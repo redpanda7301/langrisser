@@ -195,7 +195,7 @@
       ],
       "AttkRange": 1,
       "Move": 4,
-      "MoveType": "FieldArmy",
+      "MoveType": "Walk",
       "HP": 5042,
       "HPRate": 84,
       "Attk": 568,
