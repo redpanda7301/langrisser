@@ -85,7 +85,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "강함과 부드러움의 조화",
-    "Stats": "공격 <font color=\"red\">+5%</font><br/>'<font color=\"blue\">강</font>' 보유 시, 영웅이 입히는 마법 피해 <font color=\"red\">+10%</font><br/>'<font color=\"orange\">유</font>' 보유 시, 영웅이 입히는 물리 피해 <font color=\"red\">+10</font>%",
+    "Stats": "공격 <font color=\"red\">+5%</font><br/>'<font color=\"blue\">강</font>' 보유 시, 영웅이 입히는 마법 피해 <font color=\"red\">+10%</font><br/>'<font color=\"orange\">유</font>' 보유 시, 영웅이 입히는 물리 피해 <font color=\"red\">+10%</font>",
   },
   "Equip": {
     "Name": "낭월청진(투구)",
@@ -139,8 +139,8 @@
       "MagicDefRate": 74,
       "Skill": 141,
       "SkillRate": 39,
-      "HeartFetterBouns1": "<b>선공으로 전투 진입시</b>,<br/>부대가 받는 피해량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>자신 부대 보다 생명 백분비가 높은 부대를<br/> 선공해서 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>선공으로 전투 진입시</b>,<br/>부대가 받는 피해량<font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>자신 부대 보다 생명 백분비가 높은 부대를<br/> 선공해서 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "퇴마 존자",
@@ -174,8 +174,8 @@
       "MagicDefRate": 82,
       "Skill": 141,
       "SkillRate": 39,
-      "HeartFetterBouns1": "<b>부대 생명이 <font color=\"red\">70%</font> 미만 시 전투 진입 후</b><br/>받는 피해량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>자신 부대 보다 생명 백분비가 낮은 부대를<br/>선공해서 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명이 <font color=\"red\">70%</font> 미만 시 전투 진입 후</b><br/>받는 피해량<font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>자신 부대 보다 생명 백분비가 낮은 부대를<br/>선공해서 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -462,7 +462,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ValkCrash.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.5</font>의 피해<br/>전투 후 준 피해량의 <font color=\"red\">20</font>%만큼 <font color=\"green\">생명 회복</font>.<br/><font color=\"blue\">근접병사를 휴대할 경우 병사도 같이 공격한다.</font>",
+      "Desc": "단일 개체 <font color=\"red\">1.5</font>의 피해<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 <font color=\"green\">생명 회복</font>.<br/><font color=\"blue\">근접병사를 휴대할 경우 병사도 같이 공격한다.</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -574,7 +574,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_HolyShield.webp",
-      "Desc": "전투 진입 시 마방 <font color =\"red\">+10</font>%.",
+      "Desc": "전투 진입 시 마방 <font color =\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

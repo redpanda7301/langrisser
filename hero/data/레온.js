@@ -60,10 +60,10 @@
       "Condition": "레온을 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "레아드의 도움 하에 '부서진 왕자' 클리어"
+      "Condition": "레아드의 도움 받아 '부서진 왕자' 클리어"
     },
     {
-      "Condition": "엘윈의 도움 하에 '구원과 약속' 클리어"
+      "Condition": "엘윈의 도움 받아 '구원과 약속' 클리어"
     }
   ],
   "HeartFetter": "생명+750, 방어+30, 마방+40",
@@ -105,23 +105,23 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+10%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-10%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+10%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-10%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20%</font>'<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+15%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-15%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+15%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-15%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20%</font>'<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+20%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-20%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+20%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-20%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20%</font>'<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
-          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+30%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-30%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20</font>%'<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "<b>스킬 코스트 제한 해제</b><br/>주는 피해량 <font color=\"red\">+30%</font><br/>영웅이 <font color=\"blue\">받는 물리 피해</font> <font color=\"red\">-30%</font>, 선공 시 효과 <font color=\"red\">2</font>배<br/><font color=\"blue\">이동시 적 통과 가능</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>행동 종료시 자신이 지나온 지형에 '<font color=\"blue\">저승의 불꽃</font>' 부여<br/>지속 <font color=\"red\">2</font>행동<br/><font color=\"blue\">저승의 불꽃</font> : 적이 해당 위치에서 행동 종료 시<br/>시전자 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">-20%</font>'<br/>지속 <font color=\"red\">2</font>행동"
         }
       ]
     }
   ],
   "Second_Awaken": {
     "Name" : "기사의 모범",
-    "Stats": "<font color=\"blue\">기사도</font> 부여 효과 지속 시간 <font color=\"red\">+2</font>행동<br/>사용 후 아군 기병 부대 공격 지력 <font color=\"red\">+20</font>% 및 <font color=\"blue\">면역</font>, <font color=\"blue\">폭풍</font>, <font color=\"blue\">증원</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
+    "Stats": "<font color=\"blue\">기사도</font> 부여 효과 지속 시간 <font color=\"red\">+2</font>행동<br/>사용 후 아군 기병 부대 공격 지력 <font color=\"red\">+20%</font> 및 <font color=\"blue\">면역</font>, <font color=\"blue\">폭풍</font>, <font color=\"blue\">증원</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
   },
   "Equip": {
     "Name": "청룡의 갑옷(갑옷)",
@@ -231,8 +231,8 @@
       "MagicDefRate": 62,
       "Skill": 130,
       "SkillRate": 37,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "로열 나이트",

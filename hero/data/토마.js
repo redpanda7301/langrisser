@@ -105,8 +105,8 @@
       "MagicDefRate": 55,
       "Skill": 161,
       "SkillRate": 54,
-      "HeartFetterBouns1": "<b>부대에 <font color=\"red\">5</font>개 이상 버프 보유 시 전투 중</b> 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>원거리 피격으로 전투 진입 시</b> 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대에 <font color=\"red\">5</font>개 이상 버프 보유 시 전투 중</b> 받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>원거리 피격으로 전투 진입 시</b> 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "천공의 지혜",
@@ -131,8 +131,8 @@
       "MagicDefRate": 55,
       "Skill": 205,
       "SkillRate": 60,
-      "HeartFetterBouns1": "<b>선공으로 전투 진입 시 받는 피해</b> <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명 <font color=\"red\">70%</font> 미만으로 전투 진입 시</b>  주는 피해량 +<font color=\"red\">10</font>%"
+      "HeartFetterBouns1": "<b>선공으로 전투 진입 시 받는 피해</b> <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>부대 생명 <font color=\"red\">70%</font> 미만으로 전투 진입 시</b>  주는 피해량 +<font color=\"red\">10%</font>"
     }
   ],
   "Materials": {

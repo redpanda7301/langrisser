@@ -83,7 +83,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "강습연검",
+    "Stats": "<font color=\"blue\">반격 태세</font>에서<font color=\"blue\">반격 치명타</font> 후 지속 시간 <font color=\"red\">+1</font><br/><font color=\"blue\">강습 태세</font>에서 '선공 <font color=\"blue\">치명타</font> 후 모든 스킬 쿨타임 <font color=\"Red\"-1</font>' 효과 획득",
+  },
   "Equip": {
     "Name": "은빛 바람의 결정(투구)",
     "Stats": "생명 437,마방 59",
@@ -139,8 +142,8 @@
       "MagicDefRate": 65,
       "Skill": 301,
       "SkillRate": 78,
-      "HeartFetterBouns1": "원거리 피격으로 전투 진입 시 <br/>받는 피해량 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "원거리 피격으로 전투 진입 시 <br/>주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "원거리 피격으로 전투 진입 시 <br/>받는 피해량 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "원거리 피격으로 전투 진입 시 <br/>주는 피해량 <font color =\"red\">+10%</font>"
     },
     {
       "Name": "영웅",
@@ -174,8 +177,8 @@
       "MagicDefRate": 62,
       "Skill": 181,
       "SkillRate": 50,
-      "HeartFetterBouns1": "<b>선공으로 전투 진입시</b> <br/>받는 피해량 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>근접 피격으로 전투 진입시</b> <br/>주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>선공으로 전투 진입시</b> <br/>받는 피해량 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>근접 피격으로 전투 진입시</b> <br/>주는 피해량 <font color =\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -418,7 +421,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30</font>%만큼 생명을 회복한다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30%</font>만큼 생명을 회복한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -432,7 +435,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"red\">30</font>%의 생명을 회복한다",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"red\">30%</font>의 생명을 회복한다",
       "SubSkills": null,
       "Animation": null
     },
@@ -512,7 +515,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "주위 <font color=\"red\">3</font>칸내 아군 부대가 전투 시 기술 <font color=\"red\">+20</font>%.",
+      "Desc": "주위 <font color=\"red\">3</font>칸내 아군 부대가 전투 시 기술 <font color=\"red\">+20%</font>.",
       "SubSkills": null,
       "Animation": null
     },    {

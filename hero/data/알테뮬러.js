@@ -57,10 +57,10 @@
       "Condition": "알테뮬러를 드래곤 마스터전직"
     },
     {
-      "Condition": "안나의 도움 하에 '또 다른 결말' 클리어"
+      "Condition": "안나의 도움 받아 '또 다른 결말' 클리어"
     },
     {
-      "Condition": "에마링크의 도움 하에 '숙명을 베는 검' 클리어"
+      "Condition": "에마링크의 도움 받아 '숙명을 베는 검' 클리어"
     }
   ],
   "HeartFetter": "생명+800, 방어+50, 마방+60",
@@ -181,7 +181,7 @@
       "Skill": 123,
       "SkillRate": 35,
       "HeartFetterBouns1": "받는 범위피해 -10%",
-      "HeartFetterBouns2": "<b>약화효과가 있는 부대와 </b><br/><b>전투 시</b> 주는 피해<font color=\"red\">10</font>%"
+      "HeartFetterBouns2": "<b>약화효과가 있는 부대와 </b><br/><b>전투 시</b> 주는 피해<font color=\"red\">10%</font>"
     },
     {
       "Name": "창공의 마룡",
@@ -221,8 +221,8 @@
       "MagicDefRate": 77,
       "Skill": 179,
       "SkillRate": 51,
-      "HeartFetterBouns1": "<b>약화효과가 있는 부대에게 공격받아</b> <br/><b>전투 진입시 받는 피해</b> <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>약화효과가 있는 부대와 </b><br/><b>전투 시</b><font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>약화효과가 있는 부대에게 공격받아</b> <br/><b>전투 진입시 받는 피해</b> <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>약화효과가 있는 부대와 </b><br/><b>전투 시</b><font color=\"red\">+10%</font>"
     },
     {
       "Name": "드래곤 마스터",

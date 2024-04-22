@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "마폭멸광",
-    "Stats": "치명타 피해 <font color=\"red\">+10%</font><br/><font color=\"blue\">마검의 장벽</font>이 피해를 받아 사라질 경우 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+20</font>%'효과 획득<br/>지속 <font color=\"red\">1</font>행동",
+    "Stats": "치명타 피해 <font color=\"red\">+10%</font><br/><font color=\"blue\">마검의 장벽</font>이 피해를 받아 사라질 경우 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font>'효과 획득<br/>지속 <font color=\"red\">1</font>행동",
   },
   "Equip": {
     "Name": "소멸 - 개 -(무기)",
@@ -131,8 +131,8 @@
       "MagicDefRate": 67,
       "Skill": 171,
       "SkillRate": 57,
-      "HeartFetterBouns1": "<b>원거리 공격을 받아 전투 진입 시</b> 받는 피해량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>근접 공격하여 전투 진입시</b> 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>원거리 공격을 받아 전투 진입 시</b> 받는 피해량<font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>근접 공격하여 전투 진입시</b> 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "궁극의 소체",
@@ -163,8 +163,8 @@
       "MagicDefRate": 66,
       "Skill": 251,
       "SkillRate": 71,
-      "HeartFetterBouns1": "<b>선공으로 전투 진입 시</b><br/> 부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>마법 공격을 받아 전투 진입시</b><br/> 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>선공으로 전투 진입 시</b><br/> 부대가 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>마법 공격을 받아 전투 진입시</b><br/> 주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -406,7 +406,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Epsilon/1.webp",
-      "Desc": "[물리 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.3배</font>의 피해를 준다.<br/><b>(디메리트)전투 진입 전 이동 <font color=\"red\">1</font>칸</b> 당 <br/>주는 피해 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-20</font>%)",
+      "Desc": "[물리 피해]<b>호위를 무시하고 단일 적 부대를 공격해</b> <font color=\"red\">1.3배</font>의 피해를 준다.<br/><b>(디메리트)전투 진입 전 이동 <font color=\"red\">1</font>칸</b> 당 <br/>주는 피해 <font color=\"red\">-5%</font> (최대 <font color=\"red\">-20%</font>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -446,7 +446,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Epsilon/2.webp",
-      "Desc": "[패시브]<b>주위 <font color=\"red\">2</font>칸 범위 내 아군이 없고</b>,<br/><b>해당 턴에 피해를 입히지 않고 행동 종료 시</b><br/><font color=\"blue\">그림자 회피</font> 효과 획득 : <br/><b>부대 생명이 <font color=\"red\">100</font>%일 시</b><br/><b>적의 일반 공격 및 단일 스킬 목표로 지정불가</b><br/>지속 <font color=\"red\">1</font>행동, 쿨타임 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브]<b>주위 <font color=\"red\">2</font>칸 범위 내 아군이 없고</b>,<br/><b>해당 턴에 피해를 입히지 않고 행동 종료 시</b><br/><font color=\"blue\">그림자 회피</font> 효과 획득 : <br/><b>부대 생명이 <font color=\"red\">100%</font>일 시</b><br/><b>적의 일반 공격 및 단일 스킬 목표로 지정불가</b><br/>지속 <font color=\"red\">1</font>행동, 쿨타임 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -564,7 +564,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/입실론.webp",
-      "Desc": "[패시브]<b>전장에 있는 부대가 <font color=\"red\">사망</font>할 때마다</b><br/> <font color=\"blue\">도살</font> 효과 획득 및 <font color=\"orange\">흉성의 마검</font> 쿨타임 <font color=\"red\">-1</font>행동,<br/><font color=\"blue\">도살</font> : 공격 <font color=\"red\">+5</font>%(최대 <font color=\"red\">4</font>중첩),<br/> [물리 피해]<b>단일 적 부대를 공격할때 호위를 무시하고</b><br/>치명타 확률<font color=\"red\">+30%</font>, <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>해당 스킬로 적 격파 시</b><br/>'<font color=\"blue\">도살</font>' <font color=\"red\">1</font>스택 획득",
+      "Desc": "[패시브]<b>전장에 있는 부대가 <font color=\"red\">사망</font>할 때마다</b><br/> <font color=\"blue\">도살</font> 효과 획득 및 <font color=\"orange\">흉성의 마검</font> 쿨타임 <font color=\"red\">-1</font>행동,<br/><font color=\"blue\">도살</font> : 공격 <font color=\"red\">+5%</font>(최대 <font color=\"red\">4</font>중첩),<br/> [물리 피해]<b>단일 적 부대를 공격할때 호위를 무시하고</b><br/>치명타 확률<font color=\"red\">+30%</font>, <font color=\"red\">1.4</font>배의 피해를 준다.<br/><b>해당 스킬로 적 격파 시</b><br/>'<font color=\"blue\">도살</font>' <font color=\"red\">1</font>스택 획득",
       "SubSkills": null,
       "Animation": "../img/Super/입실론_Ani.webp"
     }

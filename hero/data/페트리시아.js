@@ -116,7 +116,7 @@
       "Skill": 90,
       "SkillRate": 26,
       "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대에게 피격받아 전투 진입 시<br/>받는 피해량 <font color=\"Red\">-10%</font>, ",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">100%</font> 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">100%</font> 시<br/>주는 피해량 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "붉은 관의 법황",
@@ -144,8 +144,8 @@
       "MagicDefRate": 78,
       "Skill": 105,
       "SkillRate": 30,
-      "HeartFetterBouns1": "피격 범위 피해량 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "피격 범위 피해량 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시<br/>주는 피해량 <font color=\"Red\">+10%</font>"
     }
     
   ],
@@ -255,7 +255,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Patricia/1.webp",
-      "Desc": "단일 개체 <font colro=\"red\">1.6</font>배 피해<br/>적에게 걸린 <font colro=\"blue\">디버프</font> <font colro=\"red\">1</font>개당 피해 <font colro=\"red\">+10%</font> (최대 <font colro=\"red\">+30</font>%)<br/><font colro=\"blue\">원거리 병사 대동시 병사도 함께 공격</font><br/>전투 후 적에게 <font colro=\"blue\">강력한 디버프</font> <font colro=\"red\">1</font>개를 무작위 부여",
+      "Desc": "단일 개체 <font colro=\"red\">1.6</font>배 피해<br/>적에게 걸린 <font colro=\"blue\">디버프</font> <font colro=\"red\">1</font>개당 피해 <font colro=\"red\">+10%</font> (최대 <font colro=\"red\">+30%</font>)<br/><font colro=\"blue\">원거리 병사 대동시 병사도 함께 공격</font><br/>전투 후 적에게 <font colro=\"blue\">강력한 디버프</font> <font colro=\"red\">1</font>개를 무작위 부여",
       "SubSkills": null,
       "Animation": null
     },

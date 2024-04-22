@@ -85,19 +85,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+5%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+5%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30%</font>"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+10%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+10%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30%</font>"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+15%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+15%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30%</font>"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+20%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+20%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30%</font>"
         },
         {
-          "Desc": "공격 및 방어 <font color=\"red\">+30%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30</font>%"
+          "Desc": "공격 및 방어 <font color=\"red\">+30%</font><br/><b>공격받아 전투 진입 전 및 선공으로 전투 진입 후</b> <font color=\"green\">생명 회복</font><font color=\"red\">30%</font>"
         }
       ]
     }
@@ -152,8 +152,8 @@
       "MagicDefRate": 56,
       "Skill": 137,
       "SkillRate": 39,
-      "HeartFetterBouns1": "강화버프 <font color =\"red\">5</font>개 이상일 경우 전투시 <br/>받는 피해량 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "강화버프 <font color =\"red\">5</font>개 이상일 경우 전투시 <br/>주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "강화버프 <font color =\"red\">5</font>개 이상일 경우 전투시 <br/>받는 피해량 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "강화버프 <font color =\"red\">5</font>개 이상일 경우 전투시 <br/>주는 피해량 <font color =\"red\">+10%</font>"
     },
     {
       "Name": "기원의 군왕",
@@ -185,8 +185,8 @@
       "MagicDefRate": 52,
       "Skill": "172",
       "SkillRate": 45,
-      "HeartFetterBouns1": "피격으로 전투 진입 시 <br/>받는 마법 피해량 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "근접 피격으로 전투 진입 시 <br/>주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "피격으로 전투 진입 시 <br/>받는 마법 피해량 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "근접 피격으로 전투 진입 시 <br/>주는 피해량 <font color =\"red\">+10%</font>"
     }
   ],
   "Materials": {

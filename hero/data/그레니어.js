@@ -193,8 +193,8 @@
       "MagicDefRate": 71,
       "Skill": 180,
       "SkillRate": 50,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 이하 시<br/><b>전투 중</b> 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 이하 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 이하 시<br/><b>전투 중</b> 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 이하 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "보우마스터",

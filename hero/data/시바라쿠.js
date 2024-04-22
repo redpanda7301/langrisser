@@ -106,8 +106,8 @@
       "MagicDefRate": 55,
       "Skill": 215,
       "SkillRate": 60,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> <b>이상</b>시 치명타율 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 <font color=\"red\">70%</font> <b>미만</b>시 전투중 입히는피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> <b>이상</b>시 치명타율 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "생명 <font color=\"red\">70%</font> <b>미만</b>시 전투중 입히는피해 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "센오마루",
@@ -133,7 +133,7 @@
       "Skill": 164,
       "SkillRate": 48,
       "HeartFetterBouns1": "받는 범위 피해량이 <font color=\"red\">-10%</font> 감소",
-      "HeartFetterBouns2": "<b>근접 공격을 받아 전투 진입시</b> 피해량 +<font color=\"red\">10</font>%"
+      "HeartFetterBouns2": "<b>근접 공격을 받아 전투 진입시</b> 피해량 +<font color=\"red\">10%</font>"
     }
   ],
   "Materials": {

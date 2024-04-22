@@ -86,7 +86,7 @@
     "Name": "빛의 심판관(무기)",
     "Stats": "공격 107, 기술 43",
     "Icon": "수제트.webp",
-    "Ability": "공격 <font color=\"red\">+10%</font><br/><font color =\"#b8860b\">빛의 군단</font> 초절 효과를 받음<br/><font color=\"blue\">범위 피해 스킬</font>을 지형에 조준해 사용 가능<br/>자신과 거리가 멀수록 <font color=\"blue\">치명타 확률</font> 증가<br/>(<font color=\"red\">1</font>칸당 <font color=\"red\">+3%</font>, 최대 <font color=\"red\">+15</font>%)"
+    "Ability": "공격 <font color=\"red\">+10%</font><br/><font color =\"#b8860b\">빛의 군단</font> 초절 효과를 받음<br/><font color=\"blue\">범위 피해 스킬</font>을 지형에 조준해 사용 가능<br/>자신과 거리가 멀수록 <font color=\"blue\">치명타 확률</font> 증가<br/>(<font color=\"red\">1</font>칸당 <font color=\"red\">+3%</font>, 최대 <font color=\"red\">+15%</font>)"
   },
   "Soldiers": [
     17,
@@ -131,8 +131,8 @@
       "MagicDefRate": 55,
       "Skill": 306,
       "SkillRate": 90,
-      "HeartFetterBouns1": "<b>부대 생명이 <font color =\"red\">50%</font> 미만일 경우</b><br/>받는 피해량<font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명이 <font color =\"red\">80%</font> 초과시</b><br/>치명타 피해<font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명이 <font color =\"red\">50%</font> 미만일 경우</b><br/>받는 피해량<font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>부대 생명이 <font color =\"red\">80%</font> 초과시</b><br/>치명타 피해<font color =\"red\">+10%</font>"
     },  
     {
       "Name": "총격사 대장",
@@ -163,8 +163,8 @@
       "MagicDefRate": 66,
       "Skill": 234,
       "SkillRate": 70,
-      "HeartFetterBouns1": "<b>자신보다 생명 백분비가 높은 적 부대 공격 시</b><br/><b>전투 진입후</b>받는 피해 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명이 <font color =\"red\">100</font>%일 경우</b><br/>치명타율 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>자신보다 생명 백분비가 높은 적 부대 공격 시</b><br/><b>전투 진입후</b>받는 피해 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>부대 생명이 <font color =\"red\">100%</font>일 경우</b><br/>치명타율 <font color =\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -437,7 +437,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Suzette/1.webp",
-      "Desc": "[액티브]<b>모든 스킬 쿨타임 <font color =\"red\">-4</font> 및 부대 치명타율 <font color =\"red\">+30</font>%</b><br/><font color =\"red\">2</font>행동 지속.",
+      "Desc": "[액티브]<b>모든 스킬 쿨타임 <font color =\"red\">-4</font> 및 부대 치명타율 <font color =\"red\">+30%</font></b><br/><font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -503,7 +503,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Suzette/3.webp",
-      "Desc": "[물리피해] <b><font color=\"red\">1</font>줄 직선 범위 내 적을 다수 공격해 <font color=\"red\">0.25</font>배의 피해를 가한다.<br/><b>적 <font color=\"red\">2</font>명 명중 시 가장 멀리있는 적에게 가하는 피해량<font color=\"red\">+50</font>%</b><br/><b>적 <font color=\"red\">3</font>명 명중 시 가장 멀리있는 적에게 가하는 피해량<font color=\"red\">+100</font>%</b>",
+      "Desc": "[물리피해] <b><font color=\"red\">1</font>줄 직선 범위 내 적을 다수 공격해 <font color=\"red\">0.25</font>배의 피해를 가한다.<br/><b>적 <font color=\"red\">2</font>명 명중 시 가장 멀리있는 적에게 가하는 피해량<font color=\"red\">+50%</font></b><br/><b>적 <font color=\"red\">3</font>명 명중 시 가장 멀리있는 적에게 가하는 피해량<font color=\"red\">+100%</font></b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -543,7 +543,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.webp",
-      "Desc": "[패시브]치명타율 <font color=\"red\">+10</font>%.<br/><b>피해를 줄 때 <font color=\"red\">50</font>%의 확률로 적 부대의</b> <font color=\"blue\">패시브 스킬</font>을 무효화한다.<br/><font color=\"red\">2</font>행동 지속, 치명타 발생 시 반드시 발동.",
+      "Desc": "[패시브]치명타율 <font color=\"red\">+10%</font>.<br/><b>피해를 줄 때 <font color=\"red\">50%</font>의 확률로 적 부대의</b> <font color=\"blue\">패시브 스킬</font>을 무효화한다.<br/><font color=\"red\">2</font>행동 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -557,7 +557,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass3.webp",
-      "Desc": "[패시브]치명타 피해량 <font color=\"red\">+20</font>%. <br/><b>전투 중 치명타가 발생한 경우</b><br/>전투 종료 후 받는 모든 피해량 <font color=\"red\">-30%</font><br/><font color=\"red\">1</font>행동 지속.",
+      "Desc": "[패시브]치명타 피해량 <font color=\"red\">+20%</font>. <br/><b>전투 중 치명타가 발생한 경우</b><br/>전투 종료 후 받는 모든 피해량 <font color=\"red\">-30%</font><br/><font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

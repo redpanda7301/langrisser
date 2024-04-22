@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+8%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">90</font>%를 따라감"
+          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+8%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">90%</font>를 따라감"
         },
         {
-          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+12%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">105</font>%를 따라감"
+          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+12%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">105%</font>를 따라감"
         },
         {
-          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+16%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">110</font>%를 따라감"
+          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+16%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">110%</font>를 따라감"
         },
         {
-          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+20%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">120</font>%를 따라감"
+          "Desc": "주위 <font color=\"red\">3칸</font> 내 모든 아군이 받는 치유 효과 <font color=\"red\">+20%</font> <br/>행동 종료 시 '<font color=\"#ff8c00\">성광의 등불</font>' 소환 (<b>전투당 <font color=\"red\">1</font>회 한정</b>) <br/><font color=\"purple\">성광의 등불</font>의 모든 스탯은 <b>엘마의 소환 당시 스탯</b> <font color=\"red\">120%</font>를 따라감"
         }
       ]
     }
@@ -136,8 +136,8 @@
       "MagicDefRate": 80,
       "Skill": 85,
       "SkillRate": 25,
-      "HeartFetterBouns1": "자신보다 생명 백분비가 높은 적에게 공격받아 전투 진입 시 <br/>받는 피해량 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "원거리 피격으로 전투 진입시 <br/>주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "자신보다 생명 백분비가 높은 적에게 공격받아 전투 진입 시 <br/>받는 피해량 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "원거리 피격으로 전투 진입시 <br/>주는 피해량 <font color =\"red\">+10%</font>"
     },
     {
       "Name": "신탁 사제",
@@ -171,7 +171,7 @@
       "MagicDefRate": 81,
       "Skill": 85,
       "SkillRate": 25,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만일 경우 <br/>받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만일 경우 <br/>받는 피해량 <font color=\"red\">-10%</font>",
       "HeartFetterBouns2": "디버프가 걸린 적과 전투시 <br/>주는 피해량 <font color=\"red\">+10</font>"
     }
   ],
@@ -419,7 +419,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Elma/0.webp",
-      "Desc": "<b>이동 및 공격 불가</b>, <font color=\"blue\">모든 디버프 면역</font> <br/>주위 <font color=\"red\">3</font>칸 범위 안 모든 아군에게 <font color=\"blue\">받는 마법 피해</font> <font color=\"red\">-20</font>%",
+      "Desc": "<b>이동 및 공격 불가</b>, <font color=\"blue\">모든 디버프 면역</font> <br/>주위 <font color=\"red\">3</font>칸 범위 안 모든 아군에게 <font color=\"blue\">받는 마법 피해</font> <font color=\"red\">-20%</font>",
       "SubSkills":[
         {
           "Name": "<b><font color=\"#ff8c00\">강림</font></b>",
@@ -633,7 +633,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15</font>%",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -673,7 +673,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/22.webp",
-      "Desc": "부대 생명이 <font color =\"red\">90%</font> 이상일 시 지력, 마방 <font color =\"red\">+10</font>%.",
+      "Desc": "부대 생명이 <font color =\"red\">90%</font> 이상일 시 지력, 마방 <font color =\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

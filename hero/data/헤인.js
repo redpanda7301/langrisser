@@ -48,10 +48,10 @@
       "Condition": "헤인을 위저드전직"
     },
     {
-      "Condition": "엘윈의 도움 하에 '블루 앨범' 클리어"
+      "Condition": "엘윈의 도움 받아 '블루 앨범' 클리어"
     },
     {
-      "Condition": "쉐리의 도움 하에 '세이렌의 노래' 클리어"
+      "Condition": "쉐리의 도움 받아 '세이렌의 노래' 클리어"
     }
   ],
   "HeartFetter": "생명+500, 방어+30, 마방+50",
@@ -160,8 +160,8 @@
       "MagicDefRate": 82,
       "Skill": 80,
       "SkillRate": 22,
-      "HeartFetterBouns1": "보유중인 버프가 <font color=\"red\">7</font>개 이상일때 <br/>전투중 받는피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "보유중인 버프가 <font color=\"red\">7</font>개 이상일때 <br/>전투중 입히는피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "보유중인 버프가 <font color=\"red\">7</font>개 이상일때 <br/>전투중 받는피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "보유중인 버프가 <font color=\"red\">7</font>개 이상일때 <br/>전투중 입히는피해 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "흑룡 마도사",
@@ -195,8 +195,8 @@
       "MagicDefRate": 84,
       "Skill": 87,
       "SkillRate": 23,
-      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">80%</font> 이상일때 <br/>받는 치명타확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>공격을 받아 전투 진입시</b><br/> 주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">80%</font> 이상일때 <br/>받는 치명타확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>공격을 받아 전투 진입시</b><br/> 주는 피해량<font color=\"red\">+10%</font>"
     },
     {
       "Name": "세인트",
@@ -230,8 +230,8 @@
       "MagicDefRate": 82,
       "Skill": 80,
       "SkillRate": 22,
-      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">100</font>%일때 <br/>받는피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">100</font>%일때 <br/>입히는피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">100%</font>일때 <br/>받는피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">100%</font>일때 <br/>입히는피해 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -883,7 +883,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/헤인/1.webp",
-      "Desc": "[패시브]<font color=\"blue\">마도의 극의</font>(<b>각성기</b>) 피해 <font color=\"red\">+50%</font>, <br/>지력 <font color=\"red\">1</font>배 수치 고정 피해 추가<br/>[액티브] 자신 부대에 '<font color=\"blue\">마법 장벽</font>' 부여 : '<b>처음 받는 마법 피해 <font color=\"red\">-30</font>%</b>',<br/>지속 <font color=\"red\">3</font>행동,<br/>사용 후 <font color=\"red\">2</font>칸 재행동. <br/><b>해당 스킬은 버프 지속 시간을 소모하지 않음</b>",
+      "Desc": "[패시브]<font color=\"blue\">마도의 극의</font>(<b>각성기</b>) 피해 <font color=\"red\">+50%</font>, <br/>지력 <font color=\"red\">1</font>배 수치 고정 피해 추가<br/>[액티브] 자신 부대에 '<font color=\"blue\">마법 장벽</font>' 부여 : '<b>처음 받는 마법 피해 <font color=\"red\">-30%</font></b>',<br/>지속 <font color=\"red\">3</font>행동,<br/>사용 후 <font color=\"red\">2</font>칸 재행동. <br/><b>해당 스킬은 버프 지속 시간을 소모하지 않음</b>",
       "SubSkills": null,
       "Animation": null
     },

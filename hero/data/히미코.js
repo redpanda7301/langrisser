@@ -106,8 +106,8 @@
       "MagicDefRate": 56,
       "Skill": 326,
       "SkillRate": 90,
-      "HeartFetterBouns1": "공격을 받아 전투 진입시 마법 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "공격을 받아 전투 진입시 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "공격을 받아 전투 진입시 마법 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "공격을 받아 전투 진입시 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "겐오마루",
@@ -132,8 +132,8 @@
       "MagicDefRate": 56,
       "Skill": 326,
       "SkillRate": 90,
-      "HeartFetterBouns1": "<b>자신보다 체력 비율이 높은 부대</b>에게 <br/>공격받아 전투 진입시 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "범위 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>자신보다 체력 비율이 높은 부대</b>에게 <br/>공격받아 전투 진입시 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "범위 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {

@@ -52,10 +52,10 @@
       "Condition": "레이첼을 사용하여 시공의 균열 정예3-1 클리어"
     },
     {
-      "Condition": "안젤리나의 도움 하에 빛과 어둠의 마영 클리어"
+      "Condition": "안젤리나의 도움 받아 빛과 어둠의 마영 클리어"
     },
     {
-      "Condition": "란디우스의 도움 하에 영웅을 구하라! 클리어"
+      "Condition": "란디우스의 도움 받아 영웅을 구하라! 클리어"
     }
   ],
   "HeartFetter": "생명+350, 방어+30, 마방+60",
@@ -483,7 +483,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50%</font>만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },

@@ -52,10 +52,10 @@
       "Condition": "란포드가 검성전직"
     },
     {
-      "Condition": "셀파닐의 도움 하에 '완벽한 미인계' 클리어"
+      "Condition": "셀파닐의 도움 받아 '완벽한 미인계' 클리어"
     },
     {
-      "Condition": "란디우스의 도움 하에 '원수와 벗' 클리어"
+      "Condition": "란디우스의 도움 받아 '원수와 벗' 클리어"
     }
   ],
   "HeartFetter": "생명+700, 방어+50, 마방+40",
@@ -212,8 +212,8 @@
       "MagicDefRate": 77,
       "Skill": 179,
       "SkillRate": 51,
-      "HeartFetterBouns1": "피격으로 전투 진입 시 <br/>받는 마법 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "선공으로 생명 백분비가 자신보다 낮은 부대를 공격 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "피격으로 전투 진입 시 <br/>받는 마법 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "선공으로 생명 백분비가 자신보다 낮은 부대를 공격 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "나이트 마스터",

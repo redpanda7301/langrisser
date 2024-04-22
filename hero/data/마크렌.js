@@ -130,8 +130,8 @@
       "MagicDefRate": 58,
       "Skill": 145,
       "SkillRate": 37,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만 일 경우 <br/>전투 진입후 받는 피해량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만 일 경우 <br/>전투 진입후 받는 피해량<font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "방랑 낭객",
@@ -162,8 +162,8 @@
       "MagicDefRate": 59,
       "Skill": 300,
       "SkillRate": 78,
-      "HeartFetterBouns1": "자신 부대보다 생명 백분비가 높은 적에게 피격 당해 전투 진입 시<br/> 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "자신 부대보다 생명 백분비가 높은 적에게 피격 당해 전투 진입 시<br/> 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>주는 피해량<font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -450,7 +450,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30%</font>의 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -490,7 +490,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Adversity.webp",
-      "Desc": "부대 생명 <font color=\"red\">70</font>%이하일 때 <br/>공격, 방어 <font color=\"red\">+10</font>%",
+      "Desc": "부대 생명 <font color=\"red\">70%</font>이하일 때 <br/>공격, 방어 <font color=\"red\">+10%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -556,7 +556,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_TrickStep.webp",
-      "Desc": "치명타 확률 <font color=\"red\">+10</font>%.<br/>전투 중 적 부대를 격파 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸",
+      "Desc": "치명타 확률 <font color=\"red\">+10%</font>.<br/>전투 중 적 부대를 격파 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸",
       "SubSkills": null,
       "Animation": null
     },
@@ -570,7 +570,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
-      "Desc": "부대 생명이 <font color=\"Red\">50%</font> 이하로 전투 진입 시 방어, 마방 <font color=\"Red\">+10</font>%.",
+      "Desc": "부대 생명이 <font color=\"Red\">50%</font> 이하로 전투 진입 시 방어, 마방 <font color=\"Red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

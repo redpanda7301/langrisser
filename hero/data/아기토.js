@@ -107,8 +107,8 @@
       "MagicDefRate": 62,
       "Skill": 130,
       "SkillRate": 37,
-      "HeartFetterBouns1": "받는 범위 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "선공으로 전투 진입 시<br/>전투 중 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "선공으로 전투 진입 시<br/>전투 중 주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -182,7 +182,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -260,7 +260,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordCrash3.webp",
-      "Desc": "단일 개체에게 <font color=\"Red\">1.4</font>배 피해<br/>치명타율 <font color=\"Red\">+20</font>%.",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.4</font>배 피해<br/>치명타율 <font color=\"Red\">+20%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -300,7 +300,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Agito/3.webp",
-      "Desc": "한줄 직선 상 적에게 <font color=\"red\">0.33</font>배 피해<br/>공격 전 자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">3</font>개 <font color=\"blue\">제거</font><br/><font color=\"blue\">제거</font>하는 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개당 해당 <font color=\"blue\">스킬 피해량</font> <font color=\"red\">+10</font>%",
+      "Desc": "한줄 직선 상 적에게 <font color=\"red\">0.33</font>배 피해<br/>공격 전 자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">3</font>개 <font color=\"blue\">제거</font><br/><font color=\"blue\">제거</font>하는 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개당 해당 <font color=\"blue\">스킬 피해량</font> <font color=\"red\">+10%</font>",
       "SubSkills": null,
       "Animation": null
     },

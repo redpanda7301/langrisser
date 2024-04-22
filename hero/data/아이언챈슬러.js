@@ -137,8 +137,8 @@
       "MagicDefRate": 74,
       "Skill": 172,
       "SkillRate": 61,
-      "HeartFetterBouns1": "<b>선공으로 전투 진입 시</b><br/><b>부대가 받는 피해량</b> <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "<b>마법 공격을 받아 전투 진입 시</b><br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "<b>선공으로 전투 진입 시</b><br/><b>부대가 받는 피해량</b> <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "<b>마법 공격을 받아 전투 진입 시</b><br/>주는 피해량 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "방주의 지도자",
@@ -172,8 +172,8 @@
       "MagicDefRate": 76,
       "Skill": 172,
       "SkillRate": 61,
-      "HeartFetterBouns1": "<b>부대 생명 <font color=\"Red\">70%</font> 미만 시 전투 진입 후</b><br/>받는 피해량 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입 시</b><br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명 <font color=\"Red\">70%</font> 미만 시 전투 진입 후</b><br/>받는 피해량 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입 시</b><br/>주는 피해량 <font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -575,7 +575,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20</font>%.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
+      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font>.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -615,7 +615,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/아이언챈슬러.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해를 준다, <br/>전투 후 대상에게 영구적인 '<font color=\"blue\">패산</font>' 효과 부여<br/><font color=\"blue\">패산</font> : <font color=\"blue\">병사가 받는 치료 효과</font> <font color=\"red\">-80%</font>, <b>해제 불가</b><br/><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br/><font color=\"purple\">강공</font> 효과를 보유할 경우, <font color=\"blue\">선제 공격</font> 및 전투 전 적 버프<font color=\"red\">5</font>개 제거<br/><font color=\"purple\">수비</font> 효과를 보유할 경우 전투 후 <font color=\"blue\">재이동</font> 및 <font color=\"red\">3</font>칸 및 <br/>행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 내 모든 아군에게<br/>'<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' '전투 후 병사 생명<font color=\"red\">30%</font> <font color=\"green\">회복</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해를 준다, <br/>전투 후 대상에게 영구적인 '<font color=\"blue\">패산</font>' 효과 부여<br/><font color=\"blue\">패산</font> : <font color=\"blue\">병사가 받는 치료 효과</font> <font color=\"red\">-80%</font>, <b>해제 불가</b><br/><b>근접병사를 휴대할 경우 병사도 같이 공격한다</b><br/><font color=\"purple\">강공</font> 효과를 보유할 경우, <font color=\"blue\">선제 공격</font> 및 전투 전 적 버프<font color=\"red\">5</font>개 제거<br/><font color=\"purple\">수비</font> 효과를 보유할 경우 전투 후 <font color=\"blue\">재이동</font> 및 <font color=\"red\">3</font>칸 및 <br/>행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 내 모든 아군에게<br/>'<font color=\"blue\">받는 피해</font> <font color=\"red\">-15%</font>' '전투 후 병사 생명<font color=\"red\">30%</font> <font color=\"green\">회복</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b>해당 스킬은 근접 피해 감면 효과를 받지 않음</b>",
       "SubSkills": null,
       "Animation": "../img/Super/아이언챈슬러_Ani.webp"
     }

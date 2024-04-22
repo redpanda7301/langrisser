@@ -135,8 +135,8 @@
       "MagicDefRate": 88,
       "Skill": 111,
       "SkillRate": 33,
-      "HeartFetterBouns1": "<b>받는 범위피해량</b><font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>공격하여 전투 진입시</b><br/>피해 증가량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>받는 범위피해량</b><font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>공격하여 전투 진입시</b><br/>피해 증가량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "꿈을 쫓는 자",
@@ -170,8 +170,8 @@
       "MagicDefRate": 93,
       "Skill": 125,
       "SkillRate": 40,
-	    "HeartFetterBouns1": "<b>공격받아 전투 진입시</b><br/> 받는 물리량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명력이 <font color=\"red\">80%</font> 이상일시</b><br/><b>전투 진입후</b> 주는 피해량 <font color=\"red\">+10</font>%"
+	    "HeartFetterBouns1": "<b>공격받아 전투 진입시</b><br/> 받는 물리량<font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>부대 생명력이 <font color=\"red\">80%</font> 이상일시</b><br/><b>전투 진입후</b> 주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -510,7 +510,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>적의 마방을 <font color=\"red\">30%</font> 무시.<b>전투 후 준 피해량</b>f의 <font color=\"red\">50</font>%만큼 회복한다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>적의 마방을 <font color=\"red\">30%</font> 무시.<b>전투 후 준 피해량</b>f의 <font color=\"red\">50%</font>만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
     },

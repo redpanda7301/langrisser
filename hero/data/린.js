@@ -437,7 +437,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordCrash3.webp",
-      "Desc": "단일 개체에게 <font color=\"Red\">1.4</font>배 피해<br/>치명타율 <font color=\"Red\">+20</font>%.",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.4</font>배 피해<br/>치명타율 <font color=\"Red\">+20%</font>.",
       "SubSkills": null,
       "Animation": null
     },

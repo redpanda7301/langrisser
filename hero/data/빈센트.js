@@ -87,7 +87,7 @@
     "Name": "절망의 날개 갑옷(갑옷)",
     "Stats": "생명 509,방어 59",
     "Icon": "빈센트.webp",
-    "Ability": "이동력 <font color=\"red\">1</font>칸 당 치명타 확률 <font color=\"red\">+3%</font> (최대 <font color=\"red\">+15</font>%)<br/><b>선공으로 치명타 발동 후</b> 적의 <font color=\"blue\">버프</font><font color=\"red\">1</font>개 제거"
+    "Ability": "이동력 <font color=\"red\">1</font>칸 당 치명타 확률 <font color=\"red\">+3%</font> (최대 <font color=\"red\">+15%</font>)<br/><b>선공으로 치명타 발동 후</b> 적의 <font color=\"blue\">버프</font><font color=\"red\">1</font>개 제거"
   },
   "Soldiers": [
     46,
@@ -129,8 +129,8 @@
       "MagicDefRate": 74,
       "Skill": 179,
       "SkillRate": 50,
-      "HeartFetterBouns1": "부대 생명력이 <font color=\"red\">80%</font> 이상시, 받는 치명타율 감소 <font color=\"red\">10</font>%",
-      "HeartFetterBouns2": "공격을 받아 전투 진입시, 주는 피해증가 <font color=\"red\">10</font>%"
+      "HeartFetterBouns1": "부대 생명력이 <font color=\"red\">80%</font> 이상시, 받는 치명타율 감소 <font color=\"red\">10%</font>",
+      "HeartFetterBouns2": "공격을 받아 전투 진입시, 주는 피해증가 <font color=\"red\">10%</font>"
     },
     {
       "Name": "사신의 날개",
@@ -161,8 +161,8 @@
       "MagicDefRate": 74,
       "Skill": 179,
       "SkillRate": 50,
-      "HeartFetterBouns1": "<font color=\"blue\">하늘</font> 지형에 있을시, 받는 물리 피해감소 <font color=\"red\">10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">하늘</font> 지형에 있을시, 주는 <b>범위 피해 증가</b> <font color=\"red\">10</font>%"
+      "HeartFetterBouns1": "<font color=\"blue\">하늘</font> 지형에 있을시, 받는 물리 피해감소 <font color=\"red\">10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">하늘</font> 지형에 있을시, 주는 <b>범위 피해 증가</b> <font color=\"red\">10%</font>"
     }
   ],
   "Materials": {
@@ -392,7 +392,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_FlyControl.webp",
-      "Desc": "[패시브]생명이 <font color=\"red\">50%</font> 이상인 경우 전투 진입시 받는 모든 피해량 <font color=\"red\">-15</font>%.",
+      "Desc": "[패시브]생명이 <font color=\"red\">50%</font> 이상인 경우 전투 진입시 받는 모든 피해량 <font color=\"red\">-15%</font>.",
       "SubSkills": null,
       "Animation": null
     },

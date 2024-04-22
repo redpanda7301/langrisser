@@ -45,10 +45,10 @@
       "Condition": "초월자를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "입실론의 도움 하에 운명의문4  클리어"
+      "Condition": "입실론의 도움 받아 운명의문4  클리어"
     },
     {
-      "Condition": "기자로프의 도움 하에 운명의문5 클리어"
+      "Condition": "기자로프의 도움 받아 운명의문5 클리어"
     }
   ],
   "HeartFetter": "생명+550, 방어+40, 마방+50",
@@ -129,8 +129,8 @@
       "MagicDefRate": 91,
       "Skill": 130,
       "SkillRate": 32,
-      "HeartFetterBouns1": "받는 범위피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>자신 부대에 <font color=\"blue\">버프</font>가 <font color=\"red\">6</font>개 이상 걸려 있을 경우</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>자신 부대에 <font color=\"blue\">버프</font>가 <font color=\"red\">6</font>개 이상 걸려 있을 경우</b><br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "만물의 시초",
@@ -161,8 +161,8 @@
       "MagicDefRate": 79,
       "Skill": 99,
       "SkillRate": 29,
-      "HeartFetterBouns1": "<b>선공으로 전투 진입 시</b><br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>공격받아 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>선공으로 전투 진입 시</b><br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>공격받아 전투 진입 시</b><br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -392,7 +392,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
-      "Desc": "[패시브]부대 생명이 <font color =\"red\">50%</font> 이하로 전투 진입 시 방어, 마방 <font color =\"red\">+10</font>%.",
+      "Desc": "[패시브]부대 생명이 <font color =\"red\">50%</font> 이하로 전투 진입 시 방어, 마방 <font color =\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -470,7 +470,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Transcendent/2.webp",
-      "Desc": "[마법 피해]주위 <font color =\"red\">5</font>칸 내 모든 적군에게 <font color =\"red\">0.45</font>배 범위 피해 및<br/>'공격,지력 <font color =\"red\">-25</font>%'<br/>'<b>적의 방어와 마방 중 높은 쪽</b> <font color =\"red\">-25%</font> 디버프 부여'<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "[마법 피해]주위 <font color =\"red\">5</font>칸 내 모든 적군에게 <font color =\"red\">0.45</font>배 범위 피해 및<br/>'공격,지력 <font color =\"red\">-25%</font>'<br/>'<b>적의 방어와 마방 중 높은 쪽</b> <font color =\"red\">-25%</font> 디버프 부여'<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

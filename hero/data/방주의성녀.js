@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+10</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">50%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
+          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+10%</font>.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">50%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
         },
         {
-          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+12</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">60%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">60%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
+          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+12%</font>.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">60%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">60%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
         },
         {
-          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+15</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">80%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">80%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
+          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+15%</font>.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">80%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">80%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
         },
         {
-          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+20</font>%.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">100%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">100%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
+          "Desc": "부대 생명이 높을수록 지력 <font color=\"red\">+20%</font>.<br/>선공으로 적에게 피해를 입힐 경우 <font color=\"red\">100%</font> 확률로 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 부여 <br/><b>자신이 피해를 입을 경우</b> <font color=\"red\">100%</font> 확률로 상대에게 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여"
         }
       ]
     }
@@ -88,7 +88,7 @@
     "Name": "여명의 관(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "방주의성녀.webp",
-    "Ability": "생명 <font color=\"red\">+10%</font><br/>자신 주위 <font color=\"red\">1</font> 바퀴 안에 아군 <font color=\"red\">2</font>부대 이상이 있을 경우<br/><font color=\"blue\">빛과 그림자</font>가 아군에게 피해를 입히지 않음<br/><font color=\"green\">받는 치료 효과</font> <font color=\"Red\">+8</font>%"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>자신 주위 <font color=\"red\">1</font> 바퀴 안에 아군 <font color=\"red\">2</font>부대 이상이 있을 경우<br/><font color=\"blue\">빛과 그림자</font>가 아군에게 피해를 입히지 않음<br/><font color=\"green\">받는 치료 효과</font> <font color=\"Red\">+8%</font>"
   },
   "Soldiers": [
     43,
@@ -136,8 +136,8 @@
       "MagicDefRate": 82,
       "Skill": 87,
       "SkillRate": 27,
-      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">80%</font> 이상 일 경우 <br/>피격 치명타확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">70%</font> 이하인 경우 <br/>전투시 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">80%</font> 이상 일 경우 <br/>피격 치명타확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">70%</font> 이하인 경우 <br/>전투시 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "빛과 어둠의 사자",
@@ -171,8 +171,8 @@
       "MagicDefRate": 82,
       "Skill": 113,
       "SkillRate": 32,
-      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대의 공격을 받아 전투 진입 시 <br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대의 공격을 받아 전투 진입 시 <br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시 <br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -445,7 +445,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50%</font>만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },

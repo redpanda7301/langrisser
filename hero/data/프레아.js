@@ -52,10 +52,10 @@
       "Condition": "프레아를 로열 가디언전직"
     },
     {
-      "Condition": "디오스의 도움 하에 '기사의 허락' 클리어"
+      "Condition": "디오스의 도움 받아 '기사의 허락' 클리어"
     },
     {
-      "Condition": "디하르트의 도움 하에 '슬픈 결단' 클리어"
+      "Condition": "디하르트의 도움 받아 '슬픈 결단' 클리어"
     }
   ],
   "HeartFetter": "생명+1000, 방어+50, 마방+40",
@@ -171,8 +171,8 @@
       "MagicDefRate": 46,
       "Skill": 81,
       "SkillRate": 23,
-      "HeartFetterBouns1": "공격받아 전투 진입시 <br/>받는 물리피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "공격하여 전투 진입시 <br/>병사가 입히는피해 <font color=\"red\">+20</font>%"
+      "HeartFetterBouns1": "공격받아 전투 진입시 <br/>받는 물리피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "공격하여 전투 진입시 <br/>병사가 입히는피해 <font color=\"red\">+20%</font>"
     },
     {
       "Name": "장미의 여왕",
@@ -209,8 +209,8 @@
       "MagicDefRate": 74,
       "Skill": 92,
       "SkillRate": 26,
-      "HeartFetterBouns1": "부대 생명 80% 초과 시 <br/>전투 진입 후 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 80% 초과 시<br/>병사 피해 <font color=\"red\">+20</font>%"
+      "HeartFetterBouns1": "부대 생명 80% 초과 시 <br/>전투 진입 후 받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 80% 초과 시<br/>병사 피해 <font color=\"red\">+20%</font>"
     },
     {
       "Name": "발키리",
@@ -247,8 +247,8 @@
       "MagicDefRate": 70,
       "Skill": 94,
       "SkillRate": 26,
-      "HeartFetterBouns1": "공격받을시 받는 마법피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "공격을 받을시 병사가 입히는피해 <font color=\"red\">+20</font>%"
+      "HeartFetterBouns1": "공격받을시 받는 마법피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "공격을 받을시 병사가 입히는피해 <font color=\"red\">+20%</font>"
     }
   ],
   "Materials": {
@@ -880,7 +880,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/프레아.webp",
-      "Desc": "[패시브]<b>인접한 아군이 받는 모든 피해를 대신 받는다. <font color=\"blue\">치료 불가</font> 면역</b><br/>[액티브]호위 범위가 <font color =\"red\">2</font>칸으로 증가 '<font color =\"blue\">장미의 진</font>'효과 획득 <br/><font color =\"blue\">장미의 진</font> : 전투 종료 후 <font color =\"blue\">수정 가시</font>의 <b><font color=\"blue\">고정 피해</font>가 반드시 발동한다.</b><br/>[초절강화]범위 내 모든 '<font color=\"green\">빛의 기원</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승 및 <br/><b>전투 진입 시 피해량 <font color=\"red\">+12%</font> <br/>자신의 부대가 혼합 부대가 아닐 경우 추가 피해 <font color=\"red\">+5</font>%",
+      "Desc": "[패시브]<b>인접한 아군이 받는 모든 피해를 대신 받는다. <font color=\"blue\">치료 불가</font> 면역</b><br/>[액티브]호위 범위가 <font color =\"red\">2</font>칸으로 증가 '<font color =\"blue\">장미의 진</font>'효과 획득 <br/><font color =\"blue\">장미의 진</font> : 전투 종료 후 <font color =\"blue\">수정 가시</font>의 <b><font color=\"blue\">고정 피해</font>가 반드시 발동한다.</b><br/>[초절강화]범위 내 모든 '<font color=\"green\">빛의 기원</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승 및 <br/><b>전투 진입 시 피해량 <font color=\"red\">+12%</font> <br/>자신의 부대가 혼합 부대가 아닐 경우 추가 피해 <font color=\"red\">+5%</font>",
       "SubSkills": null,
       "Animation": "../img/Super/프레아_Ani.webp"
     }

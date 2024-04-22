@@ -119,8 +119,8 @@
       "MagicDefRate": 59,
       "Skill": 153,
       "SkillRate": 44,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "물리피격으로 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "물리피격으로 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "바다를 누비는 왕",
@@ -148,8 +148,8 @@
       "MagicDefRate": 59,
       "Skill": 129,
       "SkillRate": 41,
-      "HeartFetterBouns1": "생명 백분비가 자신 부대보다 낮은 적과 교전 시<br/> 전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">80%</font> 이상일 경우<br/>전투중 주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "생명 백분비가 자신 부대보다 낮은 적과 교전 시<br/> 전투 진입 후 받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">80%</font> 이상일 경우<br/>전투중 주는 피해량 <font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -217,7 +217,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20%</font></font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -297,7 +297,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
-      "Desc": "공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12</font>%",
+      "Desc": "공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>",
       "SubSkills": null,
       "Animation": null
     },

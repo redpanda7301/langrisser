@@ -201,8 +201,8 @@
       "MagicDefRate": 60,
       "Skill": 259,
       "SkillRate": 60,
-      "HeartFetterBouns1": "공격하여 전투 진입시,<br/>부대가 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "공격받아 전투 진입시,<br/>부대가 가하는 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "공격하여 전투 진입시,<br/>부대가 받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "공격받아 전투 진입시,<br/>부대가 가하는 피해 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "레인저",
@@ -695,7 +695,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/11.webp",
-      "Desc": "[패시브]공격 시 주는 피해량 <font color=\"red\">+10</font>%.<br/><b>전투 후</b> 다시 <font color=\"red\">2</font>칸 이동할 수 있다.<br/>재이동 효과는 <font color=\"red\">1</font>행동 이후 다시 발동할 수 있다.",
+      "Desc": "[패시브]공격 시 주는 피해량 <font color=\"red\">+10%</font>.<br/><b>전투 후</b> 다시 <font color=\"red\">2</font>칸 이동할 수 있다.<br/>재이동 효과는 <font color=\"red\">1</font>행동 이후 다시 발동할 수 있다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -735,7 +735,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_ArrowCrash4.webp",
-      "Desc": "[물리 피해]단일 적을 공격 하여 <font color=\"red\">0.8</font>배 피해를 입힌다.<br/>목표와 거리가 멀 수록 피해가 커진다. 간격 <font color=\"red\">1</font>칸마다 피해 <font color=\"red\">+15</font>%(최대 90%).<br/><b>전투 후 자신의 이동력 <font color=\"red\">+2</font></b><br/> <font color=\"red\">1</font>행동 지속.",
+      "Desc": "[물리 피해]단일 적을 공격 하여 <font color=\"red\">0.8</font>배 피해를 입힌다.<br/>목표와 거리가 멀 수록 피해가 커진다. 간격 <font color=\"red\">1</font>칸마다 피해 <font color=\"red\">+15%</font>(최대 90%).<br/><b>전투 후 자신의 이동력 <font color=\"red\">+2</font></b><br/> <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -787,7 +787,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Crystal2.webp",
-      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<font color =#0040D6>전설의 저편</font>' 아군의 <br/>공격, 방어가 상승 및 효과 부여:<br/><b>생명이 <font color =\"red\">80</font>%이하일 시</b> 피해 <font color =\"red\">+15%</font><br/><font color =\"red\">4</font>행동 지속",
+      "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '<font color =#0040D6>전설의 저편</font>' 아군의 <br/>공격, 방어가 상승 및 효과 부여:<br/><b>생명이 <font color =\"red\">80%</font>이하일 시</b> 피해 <font color =\"red\">+15%</font><br/><font color =\"red\">4</font>행동 지속",
       "SubSkills": null,
       "Animation": null
     },
@@ -815,7 +815,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Hide.webp",
-      "Desc": "[패시브]<b>공격하여 전투 진입 시</b> 치명타율 <font color =\"red\">+10%</font>, 받는 피해량 <font color =\"red\">-20</font>%.",
+      "Desc": "[패시브]<b>공격하여 전투 진입 시</b> 치명타율 <font color =\"red\">+10%</font>, 받는 피해량 <font color =\"red\">-20%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -855,7 +855,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/시그마/2.webp",
-      "Desc": "[액티브]<b><font color =\"blue\">레인저 마크</font>가 박힌 적 주위 <font color=\"red\">1</font>칸 범위 임의의 위치로 <font color =\"blue\">텔레포트</font></b> 및<br/> 대상에게 <font color=\"red\">1.4</font>배 피해<br/><b>전투 진입 전 자신에게</b> '<font color=\"blue\">근접전 패널티 무효화</font>','<font color=\"blue\">모든 디버프에 면역</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b><font color=\"purple\">킬링 쉐도우</font> 효과가 있을 경우 전투에서 쌍방 병사는 공격을 하지 않으며<br/>상대 영웅을 직접 공격</b><br/><b>전투 후 부대 생명</b> <font color=\"red\">50%</font> 회복 및 '반격 피해 <font color=\"red\">+50</font>%' '이동력 <font color=\"red\">+3</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>(<b>해당 효과는 해제 불가)<br/>(<b>해당 스킬은 버프 지속 시간을 감소시키지 않음</b>)",
+      "Desc": "[액티브]<b><font color =\"blue\">레인저 마크</font>가 박힌 적 주위 <font color=\"red\">1</font>칸 범위 임의의 위치로 <font color =\"blue\">텔레포트</font></b> 및<br/> 대상에게 <font color=\"red\">1.4</font>배 피해<br/><b>전투 진입 전 자신에게</b> '<font color=\"blue\">근접전 패널티 무효화</font>','<font color=\"blue\">모든 디버프에 면역</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/><b><font color=\"purple\">킬링 쉐도우</font> 효과가 있을 경우 전투에서 쌍방 병사는 공격을 하지 않으며<br/>상대 영웅을 직접 공격</b><br/><b>전투 후 부대 생명</b> <font color=\"red\">50%</font> 회복 및 '반격 피해 <font color=\"red\">+50%</font>' '이동력 <font color=\"red\">+3</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>(<b>해당 효과는 해제 불가)<br/>(<b>해당 스킬은 버프 지속 시간을 감소시키지 않음</b>)",
       "SubSkills": null,
       "Animation": null
     },
@@ -881,7 +881,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/시그마.webp",
-      "Desc": "[액티브]목표에게 [<font color=\"blue\">레인저 마크</font>]부여:<br/><b>시그마에게 받는 피해</b> <font color=\"red\">+15</font>%(<b>해제 및 면역 불가</b>)<br/><b>시그마의 공격을 받아 피해를 입은후</b> [<font color=\"blue\">레인저 마크</foint>]해제).<br/>동시에 [<font color=\"blue\">신속한 사냥</font>]으로 전환:",
+      "Desc": "[액티브]목표에게 [<font color=\"blue\">레인저 마크</font>]부여:<br/><b>시그마에게 받는 피해</b> <font color=\"red\">+15%</font>(<b>해제 및 면역 불가</b>)<br/><b>시그마의 공격을 받아 피해를 입은후</b> [<font color=\"blue\">레인저 마크</foint>]해제).<br/>동시에 [<font color=\"blue\">신속한 사냥</font>]으로 전환:",
       "SubSkills": [
         {
           "Name": "신속한 사냥",

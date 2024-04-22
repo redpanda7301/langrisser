@@ -65,10 +65,10 @@
       "Condition": "리아나를 프로핏전직"
     },
     {
-      "Condition": "헤인의 도움 하에 '빛과 어둠의 쌍둥이' 클리어"
+      "Condition": "헤인의 도움 받아 '빛과 어둠의 쌍둥이' 클리어"
     },
     {
-      "Condition": "엘윈의 도움 하에 '의무반고' 클리어"
+      "Condition": "엘윈의 도움 받아 '의무반고' 클리어"
     }
   ],
   "HeartFetter": "생명+650, 방어+40, 마방+50",
@@ -99,7 +99,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "빛의 기도",
+    "Stats": "<font color=\"blue\">어게인</font> 사거리 <font color=\"red\">+1</font><br/><font color=\"blue\">어게인</font> 사용 후, 목표에게 '<font color=\"blue\">증원</font>' '<font color=\"blue\">면역</font>' 효과 부여, 지속 <font color=\"red\">2</font>행동",
+  },
   "Equip": {
     "Name": "티없는 찬양(갑옷)",
     "Stats": "생명 583, 방어 54",
@@ -162,8 +165,8 @@
       "MagicDefRate": 91,
       "Skill": 88,
       "SkillRate": 25,
-      "HeartFetterBouns1": "부대생명이 <font color=\"red\">50%</font> 이하일때 <br/>받는 피해량<font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "공격하여 전투진입시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대생명이 <font color=\"red\">50%</font> 이하일때 <br/>받는 피해량<font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "공격하여 전투진입시 <br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "허미트",
@@ -209,8 +212,8 @@
       "MagicDefRate": 83,
       "Skill": 103,
       "SkillRate": 29,
-      "HeartFetterBouns1": "원거리 공격을 받아 전투진입시 <br/>받는 마법피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "물리 공격을 받아 전투진입시 <br/>주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "원거리 공격을 받아 전투진입시 <br/>받는 마법피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "물리 공격을 받아 전투진입시 <br/>주는 피해량<font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -535,7 +538,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 <font color =\"red\">+20</font>%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, <font color =\"red\">2</font>행동 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 <font color =\"red\">+20%</font>. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -601,7 +604,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/22.webp",
-      "Desc": "[패시브] 부대 생명이 <font color =\"red\">90</font>%이상일 시 지력, 마방 <font color =\"red\">+10</font>%.",
+      "Desc": "[패시브] 부대 생명이 <font color =\"red\">90%</font>이상일 시 지력, 마방 <font color =\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

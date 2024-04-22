@@ -125,8 +125,8 @@
       "MagicDefRate": 40,
       "Skill": 122,
       "SkillRate": 39,
-      "HeartFetterBouns1": "받는 범위 피해감소 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명력이 <font color=\"red\">70%</font> 이하일시, 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해감소 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명력이 <font color=\"red\">70%</font> 이하일시, 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "로열나이트",
@@ -537,7 +537,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Wagner/1.webp",
-      "Desc": "[패시브] 선공 시 받는 피해 <font color=\"#DC143C\">-10</font>%. <br/>전투 후 직선으로 재이동 가능, 이동 거리는 남은 이동력 <font color=\"#DC143C\">+2</font> 쿨타임 <font color=\"#DC143C\">2</font>",
+      "Desc": "[패시브] 선공 시 받는 피해 <font color=\"#DC143C\">-10%</font>. <br/>전투 후 직선으로 재이동 가능, 이동 거리는 남은 이동력 <font color=\"#DC143C\">+2</font> 쿨타임 <font color=\"#DC143C\">2</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -577,7 +577,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.webp",
-      "Desc": "[패시브]치명타율 <font color=\"#DC143C\">+10</font>%. <br/>피해를 줄 때 <font color=\"#DC143C\">50</font>%의 확률로 적 부대의 <b><font color=\"blue\">패시브 스킬을 무효화</font></b>한다.<br/><font color=\"#DC143C\">2</font>행동 지속, 치명타 발생 시 반드시 발동.",
+      "Desc": "[패시브]치명타율 <font color=\"#DC143C\">+10%</font>. <br/>피해를 줄 때 <font color=\"#DC143C\">50%</font>의 확률로 적 부대의 <b><font color=\"blue\">패시브 스킬을 무효화</font></b>한다.<br/><font color=\"#DC143C\">2</font>행동 지속, 치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -615,7 +615,7 @@
           "Name": "<b><font color=\"#0070c0\">강습 모드</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/베르너_2.webp",
-          "Desc": "[지원] 자신 부대가 공격 전 이동한 거리 <font color=\"red\">1</font>칸 당 피해 <font color=\"red\">+3%</font> (최대 <font color=\"red\">15</font>%)"
+          "Desc": "[지원] 자신 부대가 공격 전 이동한 거리 <font color=\"red\">1</font>칸 당 피해 <font color=\"red\">+3%</font> (최대 <font color=\"red\">15%</font>)"
         },
         {
           "Name": "<b><font color=\"#0070c0\">방어 모드</font></b>",

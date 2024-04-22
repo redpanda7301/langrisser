@@ -114,8 +114,8 @@
       "MagicDefRate": 64,
       "Skill": 140,
       "SkillRate": 40,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">버프</font> <font color=\"red\">5</font>개 이상 보유 시<br/>전투 중 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">버프</font> <font color=\"red\">5</font>개 이상 보유 시<br/>전투 중 주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -260,7 +260,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Solidarity.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 <font color=\"red\">1</font>명씩 있을 경우, 방어, 마방 <font color=\"red\">+5%</font>, 최대 <font color=\"red\">+15</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 아군이 <font color=\"red\">1</font>명씩 있을 경우, 방어, 마방 <font color=\"red\">+5%</font>, 최대 <font color=\"red\">+15%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -286,7 +286,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30</font>%만큼 <font color=\"green\">생명 회복</font>한다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30%</font>만큼 <font color=\"green\">생명 회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },

@@ -127,8 +127,8 @@
       "MagicDefRate": 61,
       "Skill": 141,
       "SkillRate": 37,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70%</font> 미만 시<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "공중에 있을 경우 범위 피해 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70%</font> 미만 시<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "공중에 있을 경우 범위 피해 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "선봉의 날개 사령관",
@@ -159,8 +159,8 @@
       "MagicDefRate": 71,
       "Skill": 157,
       "SkillRate": 41,
-      "HeartFetterBouns1": "원거리 공격 피격 시<br/>피격 물리 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 부대를 선공 시<br/>전투 진입 후 피해 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "원거리 공격 피격 시<br/>피격 물리 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 부대를 선공 시<br/>전투 진입 후 피해 <font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -480,7 +480,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Support.webp",
-      "Desc": "단일 개체 <font color=\"Red\">1.7</font>배 피해<br/>전투 전 공격의 <font color=\"Red\">20</font>%가 방어에 추가, 적 부대에게 <font color=\"blue\">패시브 봉인</font> 부여<br/>지속 <font color=\"Red\">2</font>행동 지속,<br/>해제 불가",
+      "Desc": "단일 개체 <font color=\"Red\">1.7</font>배 피해<br/>전투 전 공격의 <font color=\"Red\">20%</font>가 방어에 추가, 적 부대에게 <font color=\"blue\">패시브 봉인</font> 부여<br/>지속 <font color=\"Red\">2</font>행동 지속,<br/>해제 불가",
       "SubSkills": null,
       "Animation": null
     },
@@ -494,7 +494,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
-      "Desc": "공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12</font>%",
+      "Desc": "공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -572,7 +572,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/그렌실.webp",
-      "Desc": "[패시브]처음 행동 종료 혹은 <font color=\"purple\">전략의 대사</font> 아군이 적 격파 시, 전장의 모든 <font color=\"purple\">전략의 대사</font> 아군에게 공방 대폭 증가<br/>자신보다 이동력이 높지 않은 적과 교전 시 피해 <font color=\"red\">+15%</font>, 지속 <font color=\"red\">4</font>행동' 효과 부여<br/>해당 효과는 다른 초절 강화 효과와 중첩되지 않으며, 턴마다 최대 <font color=\"red\">1</font>회 발동<br/>[물리피해]단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 <font color=\"blue\">제거</font> 및 목표의 이동 방식이 '비행'이 아닌 경우 <font color=\"blue\">선제공격</font><br/>전투 후 상대에게 '<font color=\"blue\">이동 및 호위 불가</font>' 효과를 부여하며 자신은 '<font color=\"blue\">받는 피해</font> <font color=\"red\">-20</font>%' 효과를 획득<br/>각 효과는 지속 <font color=\"red\">1</font>행동<br/>해제 불가",
+      "Desc": "[패시브]처음 행동 종료 혹은 <font color=\"purple\">전략의 대사</font> 아군이 적 격파 시, 전장의 모든 <font color=\"purple\">전략의 대사</font> 아군에게 공방 대폭 증가<br/>자신보다 이동력이 높지 않은 적과 교전 시 피해 <font color=\"red\">+15%</font>, 지속 <font color=\"red\">4</font>행동' 효과 부여<br/>해당 효과는 다른 초절 강화 효과와 중첩되지 않으며, 턴마다 최대 <font color=\"red\">1</font>회 발동<br/>[물리피해]단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">3</font>개 <font color=\"blue\">제거</font> 및 목표의 이동 방식이 '비행'이 아닌 경우 <font color=\"blue\">선제공격</font><br/>전투 후 상대에게 '<font color=\"blue\">이동 및 호위 불가</font>' 효과를 부여하며 자신은 '<font color=\"blue\">받는 피해</font> <font color=\"red\">-20%</font>' 효과를 획득<br/>각 효과는 지속 <font color=\"red\">1</font>행동<br/>해제 불가",
       "SubSkills": null,
       "Animation": "../img/Super/그렌실_Ani.webp"
     }

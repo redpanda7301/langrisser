@@ -115,8 +115,8 @@
       "MagicDefRate": 61,
       "Skill": 190,
       "SkillRate": 65,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "하늘을 수놓는 빛나는 날개",
@@ -144,8 +144,8 @@
       "MagicDefRate": 72,
       "Skill": 171,
       "SkillRate": 60,
-      "HeartFetterBouns1": "원거리 피격 시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대가 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 이상 보유 시<br/>전투 중 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "원거리 피격 시<br/>받는 물리 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대가 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 이상 보유 시<br/>전투 중 주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -245,7 +245,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Eshean/0_2.webp",
-          "Desc": "<font color=\"purple\">눈부심</font> <font color=\"red\">1</font> 획득<br/>아군 1명에게 '<font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "<font color=\"purple\">눈부심</font> <font color=\"red\">1</font> 획득<br/>아군 1명에게 '<font color=\"blue\">공격 지력</font> <font color=\"red\">+20%</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
         },
         {
           "Name": "질주",
@@ -347,7 +347,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30</font>%만큼 <font color=\"green\">생명 회복</font>한다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30%</font>만큼 <font color=\"green\">생명 회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -427,7 +427,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
-      "Desc": "전투 진입 시 방어 <font color=\"red\">+7</font>%",
+      "Desc": "전투 진입 시 방어 <font color=\"red\">+7%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -453,7 +453,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Eshean/2.webp",
-      "Desc": "[지휘] 주위 <font color=\"Red\">2</font>칸 범위 안에 있는 아군의 <font color=\"blue\">피격 치명타 확률</font> <font color=\"Red\">-30%</font>, <font color=\"blue\">피격 원거리 피해</font> <font color=\"Red\">-15%</font><br/>[지원] 해당 행동 종료 시 사용하는 <font color=\"blue\">통솔 기술</font> 강화<br/><font color=\"blue\">재건</font> : <font color=\"green\">회복</font> 효과 <font color=\"Red\">80</font>%로 상승 및 아군에게 사용 가능<br/><font color=\"blue\">어명</font> : 목표의 <font color=\"blue\">공방 대폭 강화</font><br/><font color=\"blue\">질주</font>목표 <font color=\"blue\">이동력</font> <font color=\"Red\">+2</font>(지속 <font color=\"Red\">2</font>행동)",
+      "Desc": "[지휘] 주위 <font color=\"Red\">2</font>칸 범위 안에 있는 아군의 <font color=\"blue\">피격 치명타 확률</font> <font color=\"Red\">-30%</font>, <font color=\"blue\">피격 원거리 피해</font> <font color=\"Red\">-15%</font><br/>[지원] 해당 행동 종료 시 사용하는 <font color=\"blue\">통솔 기술</font> 강화<br/><font color=\"blue\">재건</font> : <font color=\"green\">회복</font> 효과 <font color=\"Red\">80%</font>로 상승 및 아군에게 사용 가능<br/><font color=\"blue\">어명</font> : 목표의 <font color=\"blue\">공방 대폭 강화</font><br/><font color=\"blue\">질주</font>목표 <font color=\"blue\">이동력</font> <font color=\"Red\">+2</font>(지속 <font color=\"Red\">2</font>행동)",
       "SubSkills": null,
       "Animation": null
     },

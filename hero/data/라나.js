@@ -68,10 +68,10 @@
       "Condition": "라나를 출전시켜 시공의 균열 3-1 [정예] 클리어"
     },
     {
-      "Condition": "레온의 도움 하에 '먼 구름 속의 청룡' 클리어"
+      "Condition": "레온의 도움 받아 '먼 구름 속의 청룡' 클리어"
     },
     {
-      "Condition": "엘윈의 도움 하에 '봉인의 무녀' 클리어"
+      "Condition": "엘윈의 도움 받아 '봉인의 무녀' 클리어"
     }
   ],
   "HeartFetter": "생명+400, 방어+30, 마방+60",
@@ -198,8 +198,8 @@
       "MagicDefRate": 89,
       "Skill": 96,
       "SkillRate": 27,
-      "HeartFetterBouns1": "'<font color =\"blue\">약화효과</font>'가 있는 대상에게 공격받아 전투 진입시 <br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>물리공격을 받아 전투 진입 시</b> <br/>주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "'<font color =\"blue\">약화효과</font>'가 있는 대상에게 공격받아 전투 진입시 <br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>물리공격을 받아 전투 진입 시</b> <br/>주는 피해량<font color=\"red\">+10%</font>"
     },
     {
       "Name": "단죄의 성자",
@@ -248,8 +248,8 @@
       "MagicDefRate": 83,
       "Skill": 167,
       "SkillRate": 57,
-      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">70%</font> 이하시, <br/><b>전투중 받는 피해량</b> <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b><font color =\"blue\">약화효과</font>를 보유한 부대와 전투 시</b><br/> 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">70%</font> 이하시, <br/><b>전투중 받는 피해량</b> <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b><font color =\"blue\">약화효과</font>를 보유한 부대와 전투 시</b><br/> 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "세인트",
@@ -298,8 +298,8 @@
       "MagicDefRate": 89,
       "Skill": 96,
       "SkillRate": 27,
-      "HeartFetterBouns1": "생명 <font color=\"red\">100</font>%시 <br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>마법공격을 받아 전투 진입 시</b> <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "생명 <font color=\"red\">100%</font>시 <br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>마법공격을 받아 전투 진입 시</b> <br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -718,7 +718,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50%</font>만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -980,7 +980,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/라나.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/><b>전투 진입 전 병사의 사거리</b> <font color =\"red\">+1</font>, <br/>전투 후 준 피해량의 <font color =\"red\">30</font>%만큼 회복한다.<br/>'보병','기병','창병','비병'에게 더 큰 피해를 준다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/><b>전투 진입 전 병사의 사거리</b> <font color =\"red\">+1</font>, <br/>전투 후 준 피해량의 <font color =\"red\">30%</font>만큼 회복한다.<br/>'보병','기병','창병','비병'에게 더 큰 피해를 준다.",
       "SubSkills": null,
       "Animation": "../img/Super/라나_Ani.webp"
     }

@@ -128,8 +128,8 @@
       "MagicDefRate": 82,
       "Skill": 87,
       "SkillRate": 25,
-      "HeartFetterBouns1": "<b>원거리 공격을 받아</b> <br/>전투 진입시 받는 물리피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명력이 <font color=\"red\">70%</font> 이상 일시</b>,<br/> 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>원거리 공격을 받아</b> <br/>전투 진입시 받는 물리피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>부대 생명력이 <font color=\"red\">70%</font> 이상 일시</b>,<br/> 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "사신",
@@ -160,8 +160,8 @@
       "MagicDefRate": 82,
       "Skill": 113,
       "SkillRate": 28,
-      "HeartFetterBouns1": "<b>'약화효과'가 있는 대상에게 공격받아</b> <br/> 전투 진입시 받는피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>'약화효과'가 있는 대상과</b> <br/> 전투 진입시 입히는피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>'약화효과'가 있는 대상에게 공격받아</b> <br/> 전투 진입시 받는피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>'약화효과'가 있는 대상과</b> <br/> 전투 진입시 입히는피해 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -507,7 +507,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>적의 마방을 <font color=\"red\">30%</font> 무시. 전투 후 준 피해량의 <font color=\"red\">50</font>%만큼 회복한다.",
+      "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.3</font>배의 피해를 준다.<br/>적의 마방을 <font color=\"red\">30%</font> 무시. 전투 후 준 피해량의 <font color=\"red\">50%</font>만큼 회복한다.",
       "SubSkills": null,
       "Animation": null
     },

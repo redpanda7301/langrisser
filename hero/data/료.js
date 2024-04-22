@@ -114,8 +114,8 @@
       "MagicDefRate": 61,
       "Skill": 138,
       "SkillRate": 51,
-      "HeartFetterBouns1": "<b>위험 범위에 있을 경우</b>시 받는 치명타확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대의 생명 <font color=\"red\">50%</font> 미만 시</b> 주는 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>위험 범위에 있을 경우</b>시 받는 치명타확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>부대의 생명 <font color=\"red\">50%</font> 미만 시</b> 주는 피해 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "열화의료",
@@ -143,8 +143,8 @@
       "MagicDefRate": 75,
       "Skill": 115,
       "SkillRate": 45,
-      "HeartFetterBouns1": "<b>받는 범위 피해량</b> <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>근접 공격을 받아 전투 진입시</b> 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>받는 범위 피해량</b> <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>근접 공격을 받아 전투 진입시</b> 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {

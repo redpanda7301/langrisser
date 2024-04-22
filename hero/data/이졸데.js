@@ -115,8 +115,8 @@
       "MagicDefRate": 64,
       "Skill": 196,
       "SkillRate": 56,
-      "HeartFetterBouns1": "부대 생명 <font color =\"red\">70%</font> 미만 시, <br/>전투 중 받는 피해량 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 적 선공 시<br/>전투 진입 후 주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color =\"red\">70%</font> 미만 시, <br/>전투 중 받는 피해량 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 적 선공 시<br/>전투 진입 후 주는 피해량 <font color =\"red\">+10%</font>"
     },
     {
       "Name": "세계를 지키는 역날",
@@ -144,8 +144,8 @@
       "MagicDefRate": 64,
       "Skill": 176,
       "SkillRate": 51,
-      "HeartFetterBouns1": "<font color =\"blue\">버프</font> <font color =\"red\">5</font>개 이상 보유 시<br/>전투 중 받는 피해량 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "근접 피격으로 전투 진입시<br/>주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "<font color =\"blue\">버프</font> <font color =\"red\">5</font>개 이상 보유 시<br/>전투 중 받는 피해량 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "근접 피격으로 전투 진입시<br/>주는 피해량 <font color =\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -230,7 +230,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Isolde/0_2.webp",
-          "Desc": "<font color=\"blue\">스킬 피해량</font> <font color=\"red\">+25</font>%"
+          "Desc": "<font color=\"blue\">스킬 피해량</font> <font color=\"red\">+25%</font>"
         },
         {
           "Name": "<b><font color=\"purple\">존속</font></b>",
@@ -338,7 +338,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
-      "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12</font>%.",
+      "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -433,7 +433,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Isolde/2_3.webp",
-          "Desc": "범위 내 아군 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font> 및 '<font color=\"blue\">재생</font>' '<font color=\"blue\">받는 피해</font> <font color=\"red\">-15</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
+          "Desc": "범위 내 아군 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font> 및 '<font color=\"blue\">재생</font>' '<font color=\"blue\">받는 피해</font> <font color=\"red\">-15%</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
         }
       ],
       "Animation": null
@@ -488,7 +488,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -514,7 +514,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/이졸데.webp",
-      "Desc": "[패시브]<font color=\"purple\">고유 스킬</font>로 <font color=\"purple\">의지</font> 획득 및 <font color=\"purple\">고유 스킬</font> <font color=\"blue\">재행동</font> 발동 후<br/>'<font color=\"A0A0A0\">초월영역</font>' 아군 공방 대폭 증가 및 '<font color=\"blue\">근접 공격 시 피해</font> <font color=\"red\">+15%</font>, <font color=\"blue\">받는 반사 피해</font> <font color=\"red\">-30</font>%' 효과 부여<br/>지속 <font color=\"red\">4</font>행동<br/>해당 효과는 다른 초절 강화와 중첩 불가<br/>[액티브] 단일 개체 <font color=\"red\">1.6</font>배 피해. <font color=\"red\">2</font>종류 이상의 <font color=\"purple\">의지</font> 보유 시, 해당 전투에서 적은  <font color=\"blue\">공격 불가</font><br/>전투 후 목표 및 목표 뒤  <font color=\"red\">3</font>줄 직선상  <font color=\"red\">3</font>칸 범위 안 적에게  <font color=\"red\">0.3</font>배 피해<br/>해당 스킬로 적 격파 시, 아직 보유하지 않은  <font color=\"purple\">의지</font>  <font color=\"red\">1</font>종을 무작위 획득.",
+      "Desc": "[패시브]<font color=\"purple\">고유 스킬</font>로 <font color=\"purple\">의지</font> 획득 및 <font color=\"purple\">고유 스킬</font> <font color=\"blue\">재행동</font> 발동 후<br/>'<font color=\"A0A0A0\">초월영역</font>' 아군 공방 대폭 증가 및 '<font color=\"blue\">근접 공격 시 피해</font> <font color=\"red\">+15%</font>, <font color=\"blue\">받는 반사 피해</font> <font color=\"red\">-30%</font>' 효과 부여<br/>지속 <font color=\"red\">4</font>행동<br/>해당 효과는 다른 초절 강화와 중첩 불가<br/>[액티브] 단일 개체 <font color=\"red\">1.6</font>배 피해. <font color=\"red\">2</font>종류 이상의 <font color=\"purple\">의지</font> 보유 시, 해당 전투에서 적은  <font color=\"blue\">공격 불가</font><br/>전투 후 목표 및 목표 뒤  <font color=\"red\">3</font>줄 직선상  <font color=\"red\">3</font>칸 범위 안 적에게  <font color=\"red\">0.3</font>배 피해<br/>해당 스킬로 적 격파 시, 아직 보유하지 않은  <font color=\"purple\">의지</font>  <font color=\"red\">1</font>종을 무작위 획득.",
       "SubSkills": null,      
       "Animation": "../img/Super/이졸데_Ani.webp"
     }

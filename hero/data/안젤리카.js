@@ -539,7 +539,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20</font>%.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
+      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font>.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

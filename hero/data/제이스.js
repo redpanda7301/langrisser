@@ -114,8 +114,8 @@
       "MagicDefRate": 81,
       "Skill": 115,
       "SkillRate": 33,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "원거리 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "원거리 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "세인트",
@@ -143,8 +143,8 @@
       "MagicDefRate": 81,
       "Skill": 115,
       "SkillRate": 33,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시><br/>전투 진입 후 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시><br/>전투 진입 후 피해 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -409,7 +409,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/제이스.webp",
-      "Desc": "[패시브]전장에 있는 아군의 <font color=\"purple\">마법이 빛나는 흔적</font> <font color=\"red\">1</font>개마다 피해 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30</font>%)<br/>[마법 피해]단일 개체 <font color=\"red\">1.6</font>배 피해<br/><font color=\"blue\">원거리 병사 대동 시, 병사도 함께 공격</font><br/><font color=\"blue\">마법사를 제외한 다른 병종에 특효</font><br/>이미 <font color=\"blue\">마방 저하</font> 효과를 받는 적을 공격 시, <font color=\"blue\">호위 무시</font><br/>적을 격파하지 못했을 경우, 해당 적은 <font color=\"blue\">기절</font>",
+      "Desc": "[패시브]전장에 있는 아군의 <font color=\"purple\">마법이 빛나는 흔적</font> <font color=\"red\">1</font>개마다 피해 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/>[마법 피해]단일 개체 <font color=\"red\">1.6</font>배 피해<br/><font color=\"blue\">원거리 병사 대동 시, 병사도 함께 공격</font><br/><font color=\"blue\">마법사를 제외한 다른 병종에 특효</font><br/>이미 <font color=\"blue\">마방 저하</font> 효과를 받는 적을 공격 시, <font color=\"blue\">호위 무시</font><br/>적을 격파하지 못했을 경우, 해당 적은 <font color=\"blue\">기절</font>",
       "SubSkills": null,
       "Animation": "../img/Super/제이스_Ani.webp"
     }

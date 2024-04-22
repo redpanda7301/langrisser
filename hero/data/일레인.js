@@ -108,8 +108,8 @@
       "MagicDefRate": 74,
       "Skill": 243,
       "SkillRate": 67,
-      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 부대에게 선공으로 전투 진입 시<br/> <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 부대에게 선공으로 전투 진입 시<br/> <font color=\"red\">+10%</font>"
     },
     {
       "Name": "소드 메이든",
@@ -134,8 +134,8 @@
       "MagicDefRate": 68,
       "Skill": 185,
       "SkillRate": 54,
-      "HeartFetterBouns1": "부대 생명이 <font color =\"red\">70%</font> 미만시<br/>전투 진입 후 받는 피해 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "범위 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명이 <font color =\"red\">70%</font> 미만시<br/>전투 진입 후 받는 피해 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "범위 피해 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -351,7 +351,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30</font>%만큼 <font color=\"green\">생명 회복</font>한다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30%</font>만큼 <font color=\"green\">생명 회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -365,7 +365,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30%</font>의 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -379,7 +379,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "주위 <font color=\"red\">3</font>칸 내 아군 부대 기술 <font color=\"red\">+20</font>%.",
+      "Desc": "주위 <font color=\"red\">3</font>칸 내 아군 부대 기술 <font color=\"red\">+20%</font>.",
       "SubSkills": null,
       "Animation": null
     },

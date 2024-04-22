@@ -88,7 +88,7 @@
     "Name": "방랑의 죽음(갑옷)",
     "Stats": "생명 509,방어 59",
     "Icon": "방랑투사.webp",
-    "Ability": "방어 <font color=\"red\">+10%</font><br/>선공으로 전투 진입 시 부대가 받는 피해 <font color=\"red\">-30%</font><br/>목표에게 <font color=\"purple\">복수의 사슬</font>이 있는 경우 추가 피해 <font color=\"red\">+20</font>%"
+    "Ability": "방어 <font color=\"red\">+10%</font><br/>선공으로 전투 진입 시 부대가 받는 피해 <font color=\"red\">-30%</font><br/>목표에게 <font color=\"purple\">복수의 사슬</font>이 있는 경우 추가 피해 <font color=\"red\">+20%</font>"
   },
   "Soldiers": [
     25,
@@ -133,8 +133,8 @@
       "MagicDefRate": 49,
       "Skill": 171,
       "SkillRate": 49,
-      "HeartFetterBouns1": "원거리 공격을 받아 전투 진입시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 백분비가 자신보다 높은 부대와 교전 시 <br/><b>전투 진입 후</b> 주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "원거리 공격을 받아 전투 진입시<br/>받는 물리 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "생명 백분비가 자신보다 높은 부대와 교전 시 <br/><b>전투 진입 후</b> 주는 피해량<font color=\"red\">+10%</font>"
     },
     {
       "Name": "용기사 대장",
@@ -165,8 +165,8 @@
       "MagicDefRate": 78,
       "Skill": 171,
       "SkillRate": 42,
-      "HeartFetterBouns1": "피격으로 전투 진입 시 <br/>받는 마법 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70%</font> 미만 시 <br/>전투 진입시 주는 피해량<font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "피격으로 전투 진입 시 <br/>받는 마법 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70%</font> 미만 시 <br/>전투 진입시 주는 피해량<font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -533,7 +533,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_FlyControl.webp",
-      "Desc": "부대 생명이 <font color=\"red\">50%</font> 이상인 경우<br/>전투 진입시 받는 모든 피해량 <font color=\"red\">-15</font>%.",
+      "Desc": "부대 생명이 <font color=\"red\">50%</font> 이상인 경우<br/>전투 진입시 받는 모든 피해량 <font color=\"red\">-15%</font>.",
       "SubSkills": null,
       "Animation": null
     },

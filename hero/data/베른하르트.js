@@ -53,10 +53,10 @@
       "Condition": "베른하르트를 엠퍼러전직"
     },
     {
-      "Condition": "레온의 도움 하에 '황제의 새로운 깨달음' 클리어"
+      "Condition": "레온의 도움 받아 '황제의 새로운 깨달음' 클리어"
     },
     {
-      "Condition": "보젤의 도움 하에 '약속의 사람' 클리어"
+      "Condition": "보젤의 도움 받아 '약속의 사람' 클리어"
     }
   ],
   "HeartFetter": "생명+850, 방어+60, 마방+50",
@@ -208,8 +208,8 @@
       "MagicDefRate": 63,
       "Skill": 135,
       "SkillRate": 38,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "엠퍼러",

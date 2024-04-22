@@ -115,8 +115,8 @@
         "MagicDefRate": 65,
         "Skill": 180,
         "SkillRate": 52,
-        "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"red\">-10</font>%",
-        "HeartFetterBouns2": "자신보다 생명 백분비가 낮은 부대와 교전 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
+        "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "자신보다 생명 백분비가 낮은 부대와 교전 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>"
       },
       {
         "Name": "하늘을 다스리는 서리 날개",
@@ -144,8 +144,8 @@
         "MagicDefRate": 77,
         "Skill": 134,
         "SkillRate": 39,
-        "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대에게 피격당해 전투 진입 시<br/>받는 피해량<font color=\"red\">-10</font>%",
-        "HeartFetterBouns2": "공중에 있을 경우<br/>주는 범위 피해 <font color=\"red\">+10</font>%"
+        "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대에게 피격당해 전투 진입 시<br/>받는 피해량<font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "공중에 있을 경우<br/>주는 범위 피해 <font color=\"red\">+10%</font>"
       }
     ],
     "Materials": {
@@ -400,7 +400,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-        "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15</font>%",
+        "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15%</font>",
         "SubSkills": null,
         "Animation": null
     },

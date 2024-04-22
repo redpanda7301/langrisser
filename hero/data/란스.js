@@ -41,10 +41,10 @@
       "Condition": "란스를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "나암의 도움 하에 마물 출현 클리어"
+      "Condition": "나암의 도움 받아 마물 출현 클리어"
     },
     {
-      "Condition": "쉐리의 도움 하에 '나이트' 클리어"
+      "Condition": "쉐리의 도움 받아 '나이트' 클리어"
     }
   ],
   "HeartFetter": "생명+600, 방어+30, 마방+50",
@@ -75,7 +75,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "질주하는 기사",
+    "Stats": "상성인 부대와 교전 시 모든 스텟<font color=\"red\">+15%</font><br/>자신이 혼합 부대일 경우 이동력 <font color=\"red\">+2</font> 및 전투 후 입힌 피해량의 <font color=\"red\">20</font>% 수치만큼 생명 <font color=\"green\">회복</font>",
+  },
   "Equip": {
     "Name": "칼자스의 왕관(투구)",
     "Stats": "생명 583,마방 48",
@@ -518,7 +521,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

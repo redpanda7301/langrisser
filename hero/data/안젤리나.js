@@ -57,10 +57,10 @@
       "Condition": "안젤리나를 출전시켜 시공의 균열 3-1 [정예] 클리어"
     },
     {
-      "Condition": "매튜의 도움 하에 '쌍둥이의 번뇌' 클리어"
+      "Condition": "매튜의 도움 받아 '쌍둥이의 번뇌' 클리어"
     },
     {
-      "Condition": "셀파닐의 도움 하에 '용맹한 공주' 클리어"
+      "Condition": "셀파닐의 도움 받아 '용맹한 공주' 클리어"
     }
   ],
   "HeartFetter": "생명+800, 방어+40, 마방+50",
@@ -536,7 +536,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

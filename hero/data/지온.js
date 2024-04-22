@@ -126,8 +126,8 @@
       "MagicDefRate": 58,
       "Skill": 295,
       "SkillRate": 87,
-      "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 낮은 적을 선공해 전투 진입 시 <br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/>받는 치명타 확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 낮은 적을 선공해 전투 진입 시 <br/>주는 피해량 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "저격 엽병",
@@ -158,8 +158,8 @@
       "MagicDefRate": 74,
       "Skill": 225,
       "SkillRate": 72,
-      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">70%</font> 미만일 경우 <br/>전투 진입 후 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "피격으로 전투 진입 시 <br/> 주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">70%</font> 미만일 경우 <br/>전투 진입 후 받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "피격으로 전투 진입 시 <br/> 주는 피해량 <font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -389,7 +389,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20%</font></font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -559,7 +559,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/지온.webp",
-      "Desc": "[패시브]<font color=\"blue\">범위 스킬</font>로 적 <font color=\"red\">3</font>명 이상 명중 시 <font color=\"blue\">열상</font> <font color=\"red\">1</font>스택 추가 부여<br/>[물리피해]<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해<br/>치명타 확률 <font color=\"red\">+30%</font><br/>목표에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>목표가 <font color=\"blue\">열상</font> <font color=\"red\">3</font>스택 이상 보유 시 추가적으로 '<font color=\"blue\">공격 지력</font> <font color=\"red\">-25</font>%' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸",
+      "Desc": "[패시브]<font color=\"blue\">범위 스킬</font>로 적 <font color=\"red\">3</font>명 이상 명중 시 <font color=\"blue\">열상</font> <font color=\"red\">1</font>스택 추가 부여<br/>[물리피해]<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해<br/>치명타 확률 <font color=\"red\">+30%</font><br/>목표에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/>목표가 <font color=\"blue\">열상</font> <font color=\"red\">3</font>스택 이상 보유 시 추가적으로 '<font color=\"blue\">공격 지력</font> <font color=\"red\">-25%</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸",
       "SubSkills": null,
       "Animation": "../img/Super/지온_Ani.webp"
     }

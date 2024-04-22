@@ -48,10 +48,10 @@
       "Condition": "파나를 드래곤 마스터전직"
     },
     {
-      "Condition": "안나의 도움 하에 '혼돈의 기도' 클리어"
+      "Condition": "안나의 도움 받아 '혼돈의 기도' 클리어"
     },
     {
-      "Condition": "알테뮬러의 도움 하에 '마음의 문' 클리어"
+      "Condition": "알테뮬러의 도움 받아 '마음의 문' 클리어"
     }
   ],
   "HeartFetter": "생명+650, 방어+30, 마방+60",
@@ -445,7 +445,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20</font>%.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
+      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font>.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -605,7 +605,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/파나.webp",
-      "Desc": "[물리피해] 범위 내 적에게 <font color=\"red\">0.33</font>배 피해를 준다. <br/>'비병'을 상대할 시 더 큰 피해를 준다<br/>적의 <font color=\"blue\">버프</font> <font color =\"red\">2</font>개 제거 및 '<font color=\"blue\">받는 범위 피해</font> <font color=\"red\">+10</font>%' 효과 부여 <br/>지속 <font color=\"red\">2</font>행동 <br/>전투 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재이동</font> 가능",
+      "Desc": "[물리피해] 범위 내 적에게 <font color=\"red\">0.33</font>배 피해를 준다. <br/>'비병'을 상대할 시 더 큰 피해를 준다<br/>적의 <font color=\"blue\">버프</font> <font color =\"red\">2</font>개 제거 및 '<font color=\"blue\">받는 범위 피해</font> <font color=\"red\">+10%</font>' 효과 부여 <br/>지속 <font color=\"red\">2</font>행동 <br/>전투 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재이동</font> 가능",
       "SubSkills": null,
       "Animation": "../img/Super/파나_Ani.webp"
     }

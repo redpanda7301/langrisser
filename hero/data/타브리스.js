@@ -115,8 +115,8 @@
       "MagicDefRate": 71,
       "Skill": 150,
       "SkillRate": 43,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 백분비가 자신의 부대보다 높은 적과 교전시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "생명 백분비가 자신의 부대보다 높은 적과 교전시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "검투사 대장",
@@ -144,8 +144,8 @@
       "MagicDefRate": 60,
       "Skill": 150,
       "SkillRate": 43,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한  적과 교전시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한  적과 교전시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -253,7 +253,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_FlyControl.webp",
-      "Desc": "[패시브]생명이 <font color=\"red\">50%</font> 이상인 경우 전투 진입시 <font color=\"blue\">받는 모든 피해량</font> <font color=\"red\">-15</font>%.",
+      "Desc": "[패시브]생명이 <font color=\"red\">50%</font> 이상인 경우 전투 진입시 <font color=\"blue\">받는 모든 피해량</font> <font color=\"red\">-15%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -319,7 +319,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30%</font>의 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
     },

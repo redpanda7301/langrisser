@@ -48,10 +48,10 @@
       "Condition": "오메가를 레인저전직"
     },
     {
-      "Condition": "시그마의 도움 하에 '공주의 의뢰' 클리어"
+      "Condition": "시그마의 도움 받아 '공주의 의뢰' 클리어"
     },
     {
-      "Condition": "람다의 도움 하에 '오메가 VS 시그마' 클리어"
+      "Condition": "람다의 도움 받아 '오메가 VS 시그마' 클리어"
     }
   ],
   "HeartFetter": "생명+650, 방어+30, 마방+50",
@@ -84,7 +84,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "환영 유성",
-    "Stats": "기술 <font color=\"red\">+10%</font><br/><font color=\"blue\">스킬</font>을 사용해 전투 진입 시<br/><font color=\"blue\">병사 사거리</font> <font color=\"red\">+1</font>, <font color=\"blue\">영웅이 주는 피해량</font> <font color=\"red\">+10</font>%"
+    "Stats": "기술 <font color=\"red\">+10%</font><br/><font color=\"blue\">스킬</font>을 사용해 전투 진입 시<br/><font color=\"blue\">병사 사거리</font> <font color=\"red\">+1</font>, <font color=\"blue\">영웅이 주는 피해량</font> <font color=\"red\">+10%</font>"
   },
   "Equip": {
     "Name": "아집(투구)",

@@ -45,10 +45,10 @@
       "Condition": "크림조의왕 출전시켜 [정예]시공의 균열 3-1 클리어"
     },
     {
-      "Condition": "브랜다의 도움 하에 유대의문 4 클리어"
+      "Condition": "브랜다의 도움 받아 유대의문 4 클리어"
     },
     {
-      "Condition": "실린카의 도움 하에 유대의문 5 클리어"
+      "Condition": "실린카의 도움 받아 유대의문 5 클리어"
     }
   ],
   "HeartFetter": "생명+600, 방어+50, 마방+50",
@@ -131,8 +131,8 @@
       "MagicDefRate": 70,
       "Skill": 175,
       "SkillRate": 40,
-      "HeartFetterBouns1": "<b>부대 생명이 <font color=\"red\">70%</font> 미만 시</b> 전투 진입 후 받는피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명이 <font color=\"red\">70%</font> 미만 시</b> 주는 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명이 <font color=\"red\">70%</font> 미만 시</b> 전투 진입 후 받는피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>부대 생명이 <font color=\"red\">70%</font> 미만 시</b> 주는 피해 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "선혈 수정의 지배자",
@@ -163,8 +163,8 @@
       "MagicDefRate": 73,
       "Skill": 175,
       "SkillRate": 40,
-      "HeartFetterBouns1": "<b>선공으로 전투 진입 시 </b> 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>선공으로 전투 진입 시 </b> 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>선공으로 전투 진입 시 </b> 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>선공으로 전투 진입 시 </b> 주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -538,7 +538,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/LOC/2.webp",
-      "Desc": "[마법피해]<font color=\"red\">4</font>개의 <font color=\"red\">운석</font>을 소환해 <b>범위 안에 있는 랜덤한 적을 공격</b>, 각 운석은 <font color=\"red\">0.3</font>배 피해를 입힌다. <br/><b>동일한 적에게 최대 <font color=\"red\">2</font>개까지 중첩해서 떨어지고, 두번째 운석은 <font color=\"red\">50</font>%의 피해만 입힌다</b>. <br/><b>명중하는 적</b> <font color=\"red\">1</font>명 당 스킬 쿨 <font color=\"red\">-1</font>",
+      "Desc": "[마법피해]<font color=\"red\">4</font>개의 <font color=\"red\">운석</font>을 소환해 <b>범위 안에 있는 랜덤한 적을 공격</b>, 각 운석은 <font color=\"red\">0.3</font>배 피해를 입힌다. <br/><b>동일한 적에게 최대 <font color=\"red\">2</font>개까지 중첩해서 떨어지고, 두번째 운석은 <font color=\"red\">50%</font>의 피해만 입힌다</b>. <br/><b>명중하는 적</b> <font color=\"red\">1</font>명 당 스킬 쿨 <font color=\"red\">-1</font>",
       "SubSkills": null,
       "Animation": null
     },

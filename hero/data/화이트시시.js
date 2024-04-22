@@ -48,7 +48,7 @@
       "Condition": "화이트 시시 출전시켜 [정예]시공의 균열 3-1 클리어"
     },
     {
-      "Condition": "아멜다의 도움 하에 유대의문 4 클리어"
+      "Condition": "아멜다의 도움 받아 유대의문 4 클리어"
     },
     {
       "Condition": "엘라스타를 도와 유대의문 5 클리어"
@@ -90,7 +90,7 @@
     "Name": "상업적 리더(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "화이트시시.webp",
-    "Ability": "생명 <font color=\"red\">+10%</font><br/><b>턴 시작시</b> <font color=\"red\">50%</font> 확률로 <font color =\"gold\">전쟁 자금</font> <font color=\"red\">2</font>개 획득<br/><b>만약 얻지 못한 경우 다음 턴 때</b> 확률<font color=\"red\">+50%</font> <br/><font color =\"gold\">전쟁 자금</font> 획득 후 확률은 다시 <font color=\"red\">50</font>%로 초기화"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><b>턴 시작시</b> <font color=\"red\">50%</font> 확률로 <font color =\"gold\">전쟁 자금</font> <font color=\"red\">2</font>개 획득<br/><b>만약 얻지 못한 경우 다음 턴 때</b> 확률<font color=\"red\">+50%</font> <br/><font color =\"gold\">전쟁 자금</font> 획득 후 확률은 다시 <font color=\"red\">50%</font>로 초기화"
   },
   "Soldiers": [
     0,
@@ -139,8 +139,8 @@
       "MagicDefRate": 74,
       "Skill": 80,
       "SkillRate": 22,
-      "HeartFetterBouns1": "<b>생명이 <font color=\"red\">100</font>%일때</b> 받는피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>생명이 <font color=\"red\">100</font></b>%일때 입히는피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>생명이 <font color=\"red\">100%</font>일때</b> 받는피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>생명이 <font color=\"red\">100</font></b>%일때 입히는피해 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "허미트",
@@ -174,8 +174,8 @@
       "MagicDefRate": 70,
       "Skill": 93,
       "SkillRate": 25,
-      "HeartFetterBouns1": "<b>받는 범위 피해</b> <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>선공으로 전투 진입 시 병사가 주는 피해량</b> <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>받는 범위 피해</b> <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>선공으로 전투 진입 시 병사가 주는 피해량</b> <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -616,7 +616,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20</font>%.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
+      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font>.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

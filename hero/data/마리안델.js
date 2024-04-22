@@ -133,8 +133,8 @@
       "MagicDefRate": 86,
       "Skill": 92,
       "SkillRate": 26,
-      "HeartFetterBouns1": "<b>생명 백분비가 자신보다 높은 부대에게 공격 받을 시</b> <br/>전투 진입 후 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>마법 피격으로 전투 진입 시</b> <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>생명 백분비가 자신보다 높은 부대에게 공격 받을 시</b> <br/>전투 진입 후 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>마법 피격으로 전투 진입 시</b> <br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "최초의 기원자",
@@ -165,8 +165,8 @@
       "MagicDefRate": 82,
       "Skill": 92,
       "SkillRate": 26,
-      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">50%</font> 미만 시</b> <br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>치료효과</b> <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">50%</font> 미만 시</b> <br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>치료효과</b> <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {

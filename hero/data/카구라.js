@@ -116,8 +116,8 @@
       "MagicDefRate": 46,
       "Skill": 125,
       "SkillRate": 32,
-      "HeartFetterBouns1": "받는 범위피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "피격으로 전투 진입시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "피격으로 전투 진입시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "돌격 기사",
@@ -145,7 +145,7 @@
       "MagicDefRate": 51,
       "Skill": 125,
       "SkillRate": 36,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
       "HeartFetterBouns2": "부대 생명이 <font color=\"red\">70%</font> 미만 시 <br/>전투 진입후 주는 피해량 <font color=\"red\">+10</font>"
     }
   ],
@@ -362,7 +362,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/43.webp",
-      "Desc": "단일 개체에게 <font color=\"Red\">1.5</font>배의 피해<br/>전투 후, 적 <font color=\"blue\">방어 <font color=\"red\">-30</font>%</font><br/>지속 <font color=\"Red\">2</font>행동",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.5</font>배의 피해<br/>전투 후, 적 <font color=\"blue\">방어 <font color=\"red\">-30%</font></font><br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -376,7 +376,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20%</font></font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -416,7 +416,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
-      "Desc": "전투 진입 시 방어 <font color=\"red\">+7</font>%",
+      "Desc": "전투 진입 시 방어 <font color=\"red\">+7%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -442,7 +442,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Support.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해.<br/>전투 전 공격의 <font color=\"red\">20</font>%가 <font color=\"blue\">방어력 추가</font>되며<br/>적 부대에게 '<font color=\"blue\">패시브 스킬 무효</font>' 부여<br/>지속 <font color=\"red\">2</font>행동 <br/><b>제거 불가</b>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해.<br/>전투 전 공격의 <font color=\"red\">20%</font>가 <font color=\"blue\">방어력 추가</font>되며<br/>적 부대에게 '<font color=\"blue\">패시브 스킬 무효</font>' 부여<br/>지속 <font color=\"red\">2</font>행동 <br/><b>제거 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -508,7 +508,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Kagura/3.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해를 준다.<br/>전투 전 적 <font color =\"blue\">방어구 스킬</font>상실(최대 생명 제외)<br/> 목표가 NPC 일 경우 방어<font color =\"red\">-25</font>%로 대체 <br/>자신에게 걸린 <font color=\"purple\">배고파</font> <font color =\"red\">2</font>스택 이하일 경우 추가로 적에게 <font color=\"blue\">기절</font> 부여<br/>지속 <font color =\"red\">1</font>행동 <br/>전투 후 적 <font color=\"green\">받는 치유량</font> <font color =\"red\">-50%</font> <br/>지속 <font color =\"red\">2</font>행동 <br/>해제 불가",
+      "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해를 준다.<br/>전투 전 적 <font color =\"blue\">방어구 스킬</font>상실(최대 생명 제외)<br/> 목표가 NPC 일 경우 방어<font color =\"red\">-25%</font>로 대체 <br/>자신에게 걸린 <font color=\"purple\">배고파</font> <font color =\"red\">2</font>스택 이하일 경우 추가로 적에게 <font color=\"blue\">기절</font> 부여<br/>지속 <font color =\"red\">1</font>행동 <br/>전투 후 적 <font color=\"green\">받는 치유량</font> <font color =\"red\">-50%</font> <br/>지속 <font color =\"red\">2</font>행동 <br/>해제 불가",
       "SubSkills": null,
       "Animation": null
     },    

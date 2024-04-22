@@ -115,8 +115,8 @@
       "MagicDefRate": 78,
       "Skill": 116,
       "SkillRate": 37,
-      "HeartFetterBouns1": "공격 전 이동 <font color=\"red\">1</font>칸 당 <br/>부대가 받는 피해 <font color=\"red\">-3%</font> (최대 <font color=\"red\">15</font>%)",
-      "HeartFetterBouns2": "물리 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "공격 전 이동 <font color=\"red\">1</font>칸 당 <br/>부대가 받는 피해 <font color=\"red\">-3%</font> (최대 <font color=\"red\">15%</font>)",
+      "HeartFetterBouns2": "물리 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "검성",
@@ -144,8 +144,8 @@
       "MagicDefRate": 76,
       "Skill": 226,
       "SkillRate": 52,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/> 피격 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "피격으로 전투 진입 시<br/>치명타 확률 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/> 피격 치명타 확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "피격으로 전투 진입 시<br/>치명타 확률 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -375,7 +375,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
-      "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12</font>%.",
+      "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -401,7 +401,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Gintoki/1.webp",
-      "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">무기 스킬 무효화</font> 부여<br/>지속 <font color=\"Red\">2</font>행동<br/>NPC 영웅일 경우 해당 효과는 공격,지력 <font color=\"Red\">-25</font>%로 대체 <br/><b>멀어지는 순서대로</b> 피해량 <font color=\"red\">-20%</font> (최대 <font color=\"red\">-60</font>%) 및 <font colro =\"blue\">위치 이동</font> 효과 <br/>(적을 <font color=\"red\">3</font>칸 밀침)",
+      "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">무기 스킬 무효화</font> 부여<br/>지속 <font color=\"Red\">2</font>행동<br/>NPC 영웅일 경우 해당 효과는 공격,지력 <font color=\"Red\">-25%</font>로 대체 <br/><b>멀어지는 순서대로</b> 피해량 <font color=\"red\">-20%</font> (최대 <font color=\"red\">-60%</font>) 및 <font colro =\"blue\">위치 이동</font> 효과 <br/>(적을 <font color=\"red\">3</font>칸 밀침)",
       "SubSkills": null,
       "Animation": null
     },    
@@ -479,7 +479,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Gintoki/3.webp",
-      "Desc": "[지원] <font color =\"red\">50%</font> 생명 회복, <font color =\"blue\">당분</font>스택 <font color =\"red\">1</font>개 획득<br/>지속 <font color =\"red\">6</font>행동, <b>중첩 가능</b><br/>사용 후 <font color =\"blue\">재행동</font> <font color =\"red\">3</font>칸 <br/><font color =\"blue\">당분</font> <font color =\"red\">2</font>중첩 시 '<font color =\"blue\">당분 과다</font>' 효과 획득 <br/><font color =\"blue\">당분 과다</font> : 영웅 이동력 <font color =\"red\">-1</font>, 주는 피해량 <font color=\"red\">-15</font>%(<font color =\"red\">디메리트</font>) <br/><b>해당 스킬은 다른 버프 지속시간을 소모하지 않으며,</b><br/><font color =\"blue\">당분</font>과 <font color =\"blue\">당분 과다</font>는 <b>해제 불가,면역 불가</b><br/><font color =#83364f>백야차</font> 상태에서는 <font color =\"blue\">당분 과다</font>가 발생하지 않음",
+      "Desc": "[지원] <font color =\"red\">50%</font> 생명 회복, <font color =\"blue\">당분</font>스택 <font color =\"red\">1</font>개 획득<br/>지속 <font color =\"red\">6</font>행동, <b>중첩 가능</b><br/>사용 후 <font color =\"blue\">재행동</font> <font color =\"red\">3</font>칸 <br/><font color =\"blue\">당분</font> <font color =\"red\">2</font>중첩 시 '<font color =\"blue\">당분 과다</font>' 효과 획득 <br/><font color =\"blue\">당분 과다</font> : 영웅 이동력 <font color =\"red\">-1</font>, 주는 피해량 <font color=\"red\">-15%</font>(<font color =\"red\">디메리트</font>) <br/><b>해당 스킬은 다른 버프 지속시간을 소모하지 않으며,</b><br/><font color =\"blue\">당분</font>과 <font color =\"blue\">당분 과다</font>는 <b>해제 불가,면역 불가</b><br/><font color =#83364f>백야차</font> 상태에서는 <font color =\"blue\">당분 과다</font>가 발생하지 않음",
       "SubSkills": null,
       "Animation": null
     },
@@ -505,7 +505,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordCrash3.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해<br/> 치명타율 <font color=\"Red\">+20</font>%.",
+      "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해<br/> 치명타율 <font color=\"Red\">+20%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -531,7 +531,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/긴토키.webp",
-      "Desc": "[패시브] 피해를 주지 않고 행동 종료 시 '<font color=\"blue\">거합</font>'효과 획득 <br/><font color=\"blue\">거합</font> : <b>전투 진입 전</b> 주위 <font color =\"red\">1</font>바퀴 범위 내 적에게 <font color =\"red\">0.25</font>배 피해를 준다.<br/><font color=\"red\">1</font>회 효과 발동 후 <font color=\"blue\">거합</font> 효과 상실<br/>지속 <font color =\"red\">1</font>행동<br/>[물리피해]단일 개체에게 <font color =\"red\">1.8</font>배 피해.<br/>전투 진입 전 버프 <font color=\"red\">5</font>개 제거<br/> 전투 후 <font color=\"blue\">모든 장비 스킬 무효화</font> (최대 생명력 옵션 제외)<br/>지속 <font color =\"red\">2</font>행동<br/><b>해제불가</b><br/>대상이 NPC일 경우 모든 스탯 <font color =\"red\">-25</font>%로 대체 <br/>지속 <font color =\"red\">2</font>행동<br/><b>해제 불가</b><br/><b>적이 <font color=\"red\">사망</font>하지 않았을 경우 스킬 쿨타임 <font color=\"red\">-5</font> <br/>(해당 효과 쿨타임 <font color =\"red\">2</font>)",
+      "Desc": "[패시브] 피해를 주지 않고 행동 종료 시 '<font color=\"blue\">거합</font>'효과 획득 <br/><font color=\"blue\">거합</font> : <b>전투 진입 전</b> 주위 <font color =\"red\">1</font>바퀴 범위 내 적에게 <font color =\"red\">0.25</font>배 피해를 준다.<br/><font color=\"red\">1</font>회 효과 발동 후 <font color=\"blue\">거합</font> 효과 상실<br/>지속 <font color =\"red\">1</font>행동<br/>[물리피해]단일 개체에게 <font color =\"red\">1.8</font>배 피해.<br/>전투 진입 전 버프 <font color=\"red\">5</font>개 제거<br/> 전투 후 <font color=\"blue\">모든 장비 스킬 무효화</font> (최대 생명력 옵션 제외)<br/>지속 <font color =\"red\">2</font>행동<br/><b>해제불가</b><br/>대상이 NPC일 경우 모든 스탯 <font color =\"red\">-25%</font>로 대체 <br/>지속 <font color =\"red\">2</font>행동<br/><b>해제 불가</b><br/><b>적이 <font color=\"red\">사망</font>하지 않았을 경우 스킬 쿨타임 <font color=\"red\">-5</font> <br/>(해당 효과 쿨타임 <font color =\"red\">2</font>)",
       "SubSkills": null,
       "Animation": "../img/Super/긴토키_Ani.webp"
     }

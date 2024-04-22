@@ -119,8 +119,8 @@
       "MagicDefRate": 68,
       "Skill": 149,
       "SkillRate": 47,
-      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 적과 전투시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 적과 전투시 <br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "허미트",
@@ -148,8 +148,8 @@
       "MagicDefRate": 82,
       "Skill": 99,
       "SkillRate": 31,
-      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 적에게 공격받아 전투 진입시 <br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "원거리 피격으로 전투 진입시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 적에게 공격받아 전투 진입시 <br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "원거리 피격으로 전투 진입시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -438,7 +438,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

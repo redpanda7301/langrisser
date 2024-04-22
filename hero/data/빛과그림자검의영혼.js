@@ -126,8 +126,8 @@
       "MagicDefRate": 57,
       "Skill": 186,
       "SkillRate": 53,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70</font>%미만 시 <br/>전투 진입 후 받는 피해 <font color=\"Red\">-10%</font>, ",
-      "HeartFetterBouns2": "마법 공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70%</font>미만 시 <br/>전투 진입 후 받는 피해 <font color=\"Red\">-10%</font>, ",
+      "HeartFetterBouns2": "마법 공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "마검 구현화",
@@ -158,8 +158,8 @@
       "MagicDefRate": 61,
       "Skill": 167,
       "SkillRate": 48,
-      "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/>피격 치명타 확률 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "물리 공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/>피격 치명타 확률 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "물리 공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -375,7 +375,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SwordCrash3.webp",
-      "Desc": "단일 개체에게 <font color=\"Red\">1.4</font>배 피해<br/>치명타율 <font color=\"Red\">+20</font>%.",
+      "Desc": "단일 개체에게 <font color=\"Red\">1.4</font>배 피해<br/>치명타율 <font color=\"Red\">+20%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -389,7 +389,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
-      "Desc": "부대 생명이 <font color=\"Red\">50%</font> 이하로 전투 진입 시 방어, 마방 <font color=\"Red\">+10</font>%.",
+      "Desc": "부대 생명이 <font color=\"Red\">50%</font> 이하로 전투 진입 시 방어, 마방 <font color=\"Red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

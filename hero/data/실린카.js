@@ -86,7 +86,7 @@
     "Name": "반역의 깃털 가면(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "실린카.webp",
-    "Ability": "방어 +(<font color=\"red\">2,4,6,8,10</font>)%,<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+12</font>%. <br/>자신에게 걸린 버프 효과 지속 시간 <font color=\"red\">+1</font>, <br/>휴면 상태에서도 버프 지속 시간이 감소하지 않음"
+    "Ability": "방어 +(<font color=\"red\">2,4,6,8,10</font>)%,<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+12%</font>. <br/>자신에게 걸린 버프 효과 지속 시간 <font color=\"red\">+1</font>, <br/>휴면 상태에서도 버프 지속 시간이 감소하지 않음"
   },
   "Soldiers": [
     17,

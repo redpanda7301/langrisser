@@ -60,16 +60,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+10%</font><br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">10</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+10%</font><br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">10%</font>로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+15%</font><br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">20</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+15%</font><br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">20%</font>로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+20%</font><br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">30</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+20%</font><br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">30%</font>로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+25%</font><br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">50</font>%로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "전투 진입 시 공격 방어 <font color=\"red\">+25%</font><br/>행동 종료 시 하기 스킬을 선택한다.<br/>1) <font color=\"purple\">시간 당기기</font> : 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font>지속 시간을 추가로 <font color=\"red\">1</font>행동 감소 및<br/>모든 스킬 쿨타임 <font color=\"red\">-1</font>행동<br/>2) 시간 정지 - 자신이 보유한 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간이 감소하지 않으며<br/>모든 스킬 쿨 역시 감소하지 않는다.<br/>자신이 위험 범위 안에 있는 상태에서 <font color=\"purple\">시간 정지</font> 사용 시, '<font color=\"blue\">시간 제어</font>' 효과 획득<br/><font color=\"blue\">시간 제어</font> : 사망 시 생명 <font color=\"red\">50%</font>로 부활<br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">시간 제어</font> 쿨타임 <font color=\"red\">3</font>행동"
         }
       ]
     }
@@ -80,7 +80,7 @@
     "Name": "시간의 가시(무기)",
     "Stats": "생명 364, 공격 118",
     "Icon": "프레시아.webp",
-    "Ability": "공격 <font color=\"red\">+10%</font><br/><font color=\"purple\">시간 당기기</font>로 자신의 모든 쿨 추가로 <font color=\"red\">-1</font><br/><font color=\"purple\">시간 정지</font> 쿨타임 제거<br/>쿨타임이 돌지 않는 스킬 <font color=\"red\">1</font>개당 부대 피해 <font color=\"red\">+5</font>%"
+    "Ability": "공격 <font color=\"red\">+10%</font><br/><font color=\"purple\">시간 당기기</font>로 자신의 모든 쿨 추가로 <font color=\"red\">-1</font><br/><font color=\"purple\">시간 정지</font> 쿨타임 제거<br/>쿨타임이 돌지 않는 스킬 <font color=\"red\">1</font>개당 부대 피해 <font color=\"red\">+5%</font>"
   },
   "Soldiers": [    
     4,
@@ -121,8 +121,8 @@
       "MagicDefRate" : 41,
       "Skill": 153,
       "SkillRate": 47,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만일 경우<br/> 전투 중 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "물리 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만일 경우<br/> 전투 중 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "물리 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "시간을 꿰뚫는 신의 호박",
@@ -150,8 +150,8 @@
       "MagicDefRate" : 51,
       "Skill": 104,
       "SkillRate": 37,
-      "HeartFetterBouns1": "원거리 공격을 받을 경우<br/>받는 물리 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 백분비가 자신 부대보다 높은 적을 선제 공격해서 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "원거리 공격을 받을 경우<br/>받는 물리 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 백분비가 자신 부대보다 높은 적을 선제 공격해서 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -241,7 +241,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30%</font>의 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -281,7 +281,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
-      "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12</font>%.",
+      "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -373,7 +373,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Support.webp",
-      "Desc": "단일 개체 <font color=\"Red\">1.7</font>배 피해<br/>전투 전 공격의 <font color=\"Red\">20</font>%가 방어에 추가, 적 부대에게 <font color=\"blue\">패시브 봉인</font> 부여<br/>지속 <font color=\"Red\">2</font>행동 지속,<br/>해제 불가",
+      "Desc": "단일 개체 <font color=\"Red\">1.7</font>배 피해<br/>전투 전 공격의 <font color=\"Red\">20%</font>가 방어에 추가, 적 부대에게 <font color=\"blue\">패시브 봉인</font> 부여<br/>지속 <font color=\"Red\">2</font>행동 지속,<br/>해제 불가",
       "SubSkills": null,
       "Animation": null
     },

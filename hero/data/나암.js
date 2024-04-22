@@ -53,10 +53,10 @@
       "Condition": "나암을 레인저전직"
     },
     {
-      "Condition": "란스의 도움 하에 '백발의 군사' 클리어"
+      "Condition": "란스의 도움 받아 '백발의 군사' 클리어"
     },
     {
-      "Condition": "레딘의 도움 하에 '칼자스의 성립' 클리어"
+      "Condition": "레딘의 도움 받아 '칼자스의 성립' 클리어"
     }
   ],
   "HeartFetter": "생명+650, 방어+30, 마방+60",
@@ -95,19 +95,19 @@
           "Desc": "1성"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+5%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">3</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+5%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15%</font>' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">3</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+7%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">3</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+7%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15%</font>' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">3</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+10%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">2</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+10%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15%</font>' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">2</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+12%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">2</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+12%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15%</font>' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">2</font>행동)"
         },
         {
-		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+15%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15</font>%' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
+		  "Desc": "<b>이동시 통과 가능한 지형을 평지로 간주</b><br/><b>선공으로 전투 진입 시 공격력 <font color=\"red\">+15%</font><br/>전투 후 적에게 '영웅 이동력 <font color=\"red\">-1</font>'과 'SP나암으로부터 받는 피해 <font color=\"red\">+15%</font>' 효과 부여 최대 <font color=\"red\">2</font>중첩, 해제 불가 (쿨타임 <font color=\"red\">1</font>행동)"
         }
       ]
     }
@@ -204,8 +204,8 @@
       "MagicDefRate": 89,
       "Skill": 139,
       "SkillRate": 52,
-      "HeartFetterBouns1": "<b>원거리 공격을 받을시</b><br/>받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>원거리 공격을 받아 전투 진입 시</b><br/>주는 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>원거리 공격을 받을시</b><br/>받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>원거리 공격을 받아 전투 진입 시</b><br/>주는 피해 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "페가수스 마스터",
@@ -756,7 +756,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15</font>%",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -850,7 +850,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/나암/2.webp",
-      "Desc": "[패시브]<b>부대 생명이 <font color=\"red\">100</font>%일 경우 선공으로 전투 진입 전</b><br/>목표 이동력 <font color=\"red\">-2</font> 및 호위 불가(지속 <font color=\"red\">1</font>행동)",
+      "Desc": "[패시브]<b>부대 생명이 <font color=\"red\">100%</font>일 경우 선공으로 전투 진입 전</b><br/>목표 이동력 <font color=\"red\">-2</font> 및 호위 불가(지속 <font color=\"red\">1</font>행동)",
       "SubSkills": null,
       "Animation": null
     },
@@ -876,7 +876,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/나암.webp",
-      "Desc": "[패시브]피해량 <font color=\"red\">+10</font>%. <b>전투 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸 가능 <br/>[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.6</font>배의 피해를 준다.<br/><b>'<font color=\"#ffdf00\">비병</font>'과 전투 시</b> 더큰 피해를 준다.<br/><b>전투 진입 전 목표의 이동력이 <font color=\"red\">2</font>칸 이하일 경우</br> <font color=\"blue\">호위 무시</font><br/><b>전투 후 적에게</b> '<font color=\"blue\">침묵</font>', '<font color=\"blue\">패시브 봉인</font>' 효과 부여한다.<br/>지속 <font color=\"red\">2</font>행동 <br/><b>해제 불가</br>",
+      "Desc": "[패시브]피해량 <font color=\"red\">+10%</font>. <b>전투 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸 가능 <br/>[물리 피해] 단일 적 부대를 공격해 <font color=\"red\">1.6</font>배의 피해를 준다.<br/><b>'<font color=\"#ffdf00\">비병</font>'과 전투 시</b> 더큰 피해를 준다.<br/><b>전투 진입 전 목표의 이동력이 <font color=\"red\">2</font>칸 이하일 경우</br> <font color=\"blue\">호위 무시</font><br/><b>전투 후 적에게</b> '<font color=\"blue\">침묵</font>', '<font color=\"blue\">패시브 봉인</font>' 효과 부여한다.<br/>지속 <font color=\"red\">2</font>행동 <br/><b>해제 불가</br>",
       "SubSkills": null,
       "Animation": "../img/Super/나암_Ani.webp"
     }

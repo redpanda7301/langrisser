@@ -131,8 +131,8 @@
       "MagicDefRate": 56,
       "Skill": 308,
       "SkillRate": 91,
-      "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명이 <font color=\"Red\">100</font>%일 경우<br/>치명타 확률 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/>받는 치명타 확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명이 <font color=\"Red\">100%</font>일 경우<br/>치명타 확률 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "저격 엽병",
@@ -163,8 +163,8 @@
       "MagicDefRate": 71,
       "Skill": 234,
       "SkillRate": 75,
-      "HeartFetterBouns1": "선공으로 전투 진입시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "주는 범위 피해량<font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입시<br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "주는 범위 피해량<font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -420,7 +420,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Ass2.webp",
-      "Desc": "선공으로 전투 진입 시 전투 후 <font color=\"red\">30</font>%의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font><br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "선공으로 전투 진입 시 전투 후 <font color=\"red\">30%</font>의 확률로 발동,<br/>받는 모든 피해량 <font color=\"red\">-30%</font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -434,7 +434,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "주위 <font color=\"red\">3</font>칸 내 아군 부대 기술 <font color=\"red\">+20</font>%.",
+      "Desc": "주위 <font color=\"red\">3</font>칸 내 아군 부대 기술 <font color=\"red\">+20%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -460,7 +460,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Julian/1.webp",
-      "Desc": "치명타 <font color=\"Red\">+20%</font><br/>공격 범위 안 적에게 <font color=\"Red\">0.3</font>배 피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"Red\">2</font>개 부여<br/>만약 적 생명이 <font color=\"Red\">100%</font> 미만일 경우 피해 <font color=\"Red\">+50</font>%",
+      "Desc": "치명타 <font color=\"Red\">+20%</font><br/>공격 범위 안 적에게 <font color=\"Red\">0.3</font>배 피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"Red\">2</font>개 부여<br/>만약 적 생명이 <font color=\"Red\">100%</font> 미만일 경우 피해 <font color=\"Red\">+50%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -552,7 +552,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/율리안.webp",
-      "Desc": "[패시브]선공으로 적 격파 후 <b>피격으로 전투 진입 전</b>, 적에게 자신 공격 <font color=\"Red\">2</font>배 수치 <font color=\"blue\">고정 피해</font> 효과 획득<br/>지속 <font color=\"Red\">1</font>행동<br/>[물리피해]<font color=\"blue\">호위 무시</font> <font color=\"Red\">1.4</font>배 피해, 치명타 <font color=\"Red\">+30%</font><br/>적 격파 시 스킬 쿨 <font color=\"Red\">-2</font> 및<br/> 영웅 생명 최대치 영구 증가 <font color=\"Red\">15%</font> 및 부대 생명 <font color=\"Red\">15%</font> <font color=\"green\">회복</font><br/><b>해제 불가</b><br/>증가량 최대치 <font color=\"Red\">30</font>%",
+      "Desc": "[패시브]선공으로 적 격파 후 <b>피격으로 전투 진입 전</b>, 적에게 자신 공격 <font color=\"Red\">2</font>배 수치 <font color=\"blue\">고정 피해</font> 효과 획득<br/>지속 <font color=\"Red\">1</font>행동<br/>[물리피해]<font color=\"blue\">호위 무시</font> <font color=\"Red\">1.4</font>배 피해, 치명타 <font color=\"Red\">+30%</font><br/>적 격파 시 스킬 쿨 <font color=\"Red\">-2</font> 및<br/> 영웅 생명 최대치 영구 증가 <font color=\"Red\">15%</font> 및 부대 생명 <font color=\"Red\">15%</font> <font color=\"green\">회복</font><br/><b>해제 불가</b><br/>증가량 최대치 <font color=\"Red\">30%</font>",
       "SubSkills": null,
       "Animation": "../img/Super/율리안_Ani.webp"
     }

@@ -115,8 +115,8 @@
       "MagicDefRate": 70,
       "Skill": 224,
       "SkillRate": 65,
-      "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "자신 부대 보다 생명 백분비가 높은 적을 선공 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "자신이 위험 범위 안에 있을 경우<br/>받는 치명타 확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "자신 부대 보다 생명 백분비가 높은 적을 선공 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "용익궁 연주자",
@@ -144,8 +144,8 @@
       "MagicDefRate": 67,
       "Skill": 255,
       "SkillRate": 71,
-      "HeartFetterBouns1": "근접 공격 피격 시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "근접 공격 피격 시<br/>받는 물리 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -387,7 +387,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Kirika/1.webp",
-      "Desc": "자신을 목표 위치로 <font color=\"blue\">텔레포트</font><br/>행동 종료 시 자신 주위 2칸 범위 안 아군에게 '<font color=\"blue\">주는 피해<font> <font color=\"red\">+10</font>%' 효과 부여<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "자신을 목표 위치로 <font color=\"blue\">텔레포트</font><br/>행동 종료 시 자신 주위 2칸 범위 안 아군에게 '<font color=\"blue\">주는 피해<font> <font color=\"red\">+10%</font>' 효과 부여<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

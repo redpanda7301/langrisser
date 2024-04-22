@@ -68,16 +68,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "받는 피해량 <font color=\"red\">-15%</font>,<br/><b>스테이지 시작 시</b> <font color=\"red\">5</font> 중첩의 '<font color=\"blue\">꽃잎 장막</font>'효과 획득:<br/><b>받는 피해<font color=\"red\">+2</font>%<font color = \"red\">디메리트</font>, 해제 불가</b><br/><b>자신의 '<font color=\"blue\">꽃잎 장막</font>'이 <font color=\"red\">2</font>중첩 이하일 경우</b> 생명 <font color=\"red\">20%</font> 수치로 <font color = \"blue\">부활</font> 가능.<br/>최대 <font color=\"red\">1</font>회 발동 가능<br/><b>모든 '<font color=\"blue\">꽃잎 장막</font>'이 사라진 상태로 행동 종료 시</b><br/><b>'반격시 선제 공격, 부대가 주는 피해량<font color=\"red\">20%</font> 효과 획득</b><br/><font color=\"blue\">꽃말 효과</font>는 <b>해제 및 면역 불가</b>"
+          "Desc": "받는 피해량 <font color=\"red\">-15%</font>,<br/><b>스테이지 시작 시</b> <font color=\"red\">5</font> 중첩의 '<font color=\"blue\">꽃잎 장막</font>'효과 획득:<br/><b>받는 피해<font color=\"red\">+2%</font><font color = \"red\">디메리트</font>, 해제 불가</b><br/><b>자신의 '<font color=\"blue\">꽃잎 장막</font>'이 <font color=\"red\">2</font>중첩 이하일 경우</b> 생명 <font color=\"red\">20%</font> 수치로 <font color = \"blue\">부활</font> 가능.<br/>최대 <font color=\"red\">1</font>회 발동 가능<br/><b>모든 '<font color=\"blue\">꽃잎 장막</font>'이 사라진 상태로 행동 종료 시</b><br/><b>'반격시 선제 공격, 부대가 주는 피해량<font color=\"red\">20%</font> 효과 획득</b><br/><font color=\"blue\">꽃말 효과</font>는 <b>해제 및 면역 불가</b>"
         },
         {
-          "Desc": "받는 피해량 <font color=\"red\">-18%</font>,<br/><b>스테이지 시작 시</b> <font color=\"red\">4</font> 중첩의 '<font color=\"blue\">꽃잎 장막</font>'효과 획득:<br/><b>받는 피해<font color=\"red\">+2</font>%<font color = \"red\">디메리트</font>, 해제 불가</b><br/><b>자신의 '<font color=\"blue\">꽃잎 장막</font>'이 <font color=\"red\">2</font>중첩 이하일 경우</b> 생명 <font color=\"red\">30%</font> 수치로 <font color = \"blue\">부활</font> 가능.<br/>최대 <font color=\"red\">1</font>회 발동 가능<br/><b>모든 '<font color=\"blue\">꽃잎 장막</font>'이 사라진 상태로 행동 종료 시</b><br/><b>'반격시 선제 공격, 부대가 주는 피해량<font color=\"red\">20%</font> 효과 획득</b><br/><font color=\"blue\">꽃말 효과</font>는 <b>해제 및 면역 불가</b>"
+          "Desc": "받는 피해량 <font color=\"red\">-18%</font>,<br/><b>스테이지 시작 시</b> <font color=\"red\">4</font> 중첩의 '<font color=\"blue\">꽃잎 장막</font>'효과 획득:<br/><b>받는 피해<font color=\"red\">+2%</font><font color = \"red\">디메리트</font>, 해제 불가</b><br/><b>자신의 '<font color=\"blue\">꽃잎 장막</font>'이 <font color=\"red\">2</font>중첩 이하일 경우</b> 생명 <font color=\"red\">30%</font> 수치로 <font color = \"blue\">부활</font> 가능.<br/>최대 <font color=\"red\">1</font>회 발동 가능<br/><b>모든 '<font color=\"blue\">꽃잎 장막</font>'이 사라진 상태로 행동 종료 시</b><br/><b>'반격시 선제 공격, 부대가 주는 피해량<font color=\"red\">20%</font> 효과 획득</b><br/><font color=\"blue\">꽃말 효과</font>는 <b>해제 및 면역 불가</b>"
         },
         {
-          "Desc": "받는 피해량 <font color=\"red\">-21%</font>,<br/><b>스테이지 시작 시</b> <font color=\"red\">3</font> 중첩의 '<font color=\"blue\">꽃잎 장막</font>'효과 획득:<br/><b>받는 피해<font color=\"red\">+2</font>%<font color = \"red\">디메리트</font>, 해제 불가</b><br/><b>자신의 '<font color=\"blue\">꽃잎 장막</font>'이 <font color=\"red\">2</font>중첩 이하일 경우</b> 생명 <font color=\"red\">40%</font> 수치로 <font color = \"blue\">부활</font> 가능.<br/>최대 <font color=\"red\">1</font>회 발동 가능<br/><b>모든 '<font color=\"blue\">꽃잎 장막</font>'이 사라진 상태로 행동 종료 시</b><br/><b>'반격시 선제 공격, 부대가 주는 피해량<font color=\"red\">20%</font> 효과 획득</b><br/><font color=\"blue\">꽃말 효과</font>는 <b>해제 및 면역 불가</b>"
+          "Desc": "받는 피해량 <font color=\"red\">-21%</font>,<br/><b>스테이지 시작 시</b> <font color=\"red\">3</font> 중첩의 '<font color=\"blue\">꽃잎 장막</font>'효과 획득:<br/><b>받는 피해<font color=\"red\">+2%</font><font color = \"red\">디메리트</font>, 해제 불가</b><br/><b>자신의 '<font color=\"blue\">꽃잎 장막</font>'이 <font color=\"red\">2</font>중첩 이하일 경우</b> 생명 <font color=\"red\">40%</font> 수치로 <font color = \"blue\">부활</font> 가능.<br/>최대 <font color=\"red\">1</font>회 발동 가능<br/><b>모든 '<font color=\"blue\">꽃잎 장막</font>'이 사라진 상태로 행동 종료 시</b><br/><b>'반격시 선제 공격, 부대가 주는 피해량<font color=\"red\">20%</font> 효과 획득</b><br/><font color=\"blue\">꽃말 효과</font>는 <b>해제 및 면역 불가</b>"
         },
         {
-          "Desc": "받는 피해량 <font color=\"red\">-25%</font>,<br/><b>스테이지 시작 시</b> <font color=\"red\">2</font> 중첩의 '<font color=\"blue\">꽃잎 장막</font>'효과 획득:<br/><b>받는 피해<font color=\"red\">+2</font>%<font color = \"red\">디메리트</font>, 해제 불가</b><br/><b>자신의 '<font color=\"blue\">꽃잎 장막</font>'이 <font color=\"red\">2</font>중첩 이하일 경우</b> 생명 <font color=\"red\">50%</font> 수치로 <font color = \"blue\">부활</font> 가능.<br/>최대 <font color=\"red\">1</font>회 발동 가능<br/><b>모든 '<font color=\"blue\">꽃잎 장막</font>'이 사라진 상태로 행동 종료 시</b><br/><b>'반격시 선제 공격, 부대가 주는 피해량<font color=\"red\">20%</font> 효과 획득</b><br/><font color=\"blue\">꽃말 효과</font>는 <b>해제 및 면역 불가</b>"
+          "Desc": "받는 피해량 <font color=\"red\">-25%</font>,<br/><b>스테이지 시작 시</b> <font color=\"red\">2</font> 중첩의 '<font color=\"blue\">꽃잎 장막</font>'효과 획득:<br/><b>받는 피해<font color=\"red\">+2%</font><font color = \"red\">디메리트</font>, 해제 불가</b><br/><b>자신의 '<font color=\"blue\">꽃잎 장막</font>'이 <font color=\"red\">2</font>중첩 이하일 경우</b> 생명 <font color=\"red\">50%</font> 수치로 <font color = \"blue\">부활</font> 가능.<br/>최대 <font color=\"red\">1</font>회 발동 가능<br/><b>모든 '<font color=\"blue\">꽃잎 장막</font>'이 사라진 상태로 행동 종료 시</b><br/><b>'반격시 선제 공격, 부대가 주는 피해량<font color=\"red\">20%</font> 효과 획득</b><br/><font color=\"blue\">꽃말 효과</font>는 <b>해제 및 면역 불가</b>"
         }
       ]
     }
@@ -137,8 +137,8 @@
       "MagicDefRate": 79,
       "Skill": 110,
       "SkillRate": 26,
-      "HeartFetterBouns1": "<b>선공으로 전투진입시</b><br/><b>부대가</b>받는피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>선공으로 전투진입시</b><br/>주는 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>선공으로 전투진입시</b><br/><b>부대가</b>받는피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>선공으로 전투진입시</b><br/>주는 피해 <font color=\"red\">+10%</font>"
     },
     {
      "Name": "황실 방패 호위",
@@ -172,8 +172,8 @@
       "MagicDefRate": 74,
       "Skill": 99,
       "SkillRate": 27,
-      "HeartFetterBouns1": "<b>부대 생명이 <font color =\"red\">80</font>%초과시<br/>치명타공격을 받을확률 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>원거리 공격을 받아 전투진입시</b><br/>입히는피해 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명이 <font color =\"red\">80%</font>초과시<br/>치명타공격을 받을확률 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>원거리 공격을 받아 전투진입시</b><br/>입히는피해 <font color =\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -420,7 +420,7 @@
           "Name": "<img src=\"../img/skills/Christiane/백합.webp\"/><font color=\"pink\">백합</font></b><br/><b><font color =\"black\">자신을 제외한 아군이 모두 여성이며, 그 수는 <font color =\"red\">1</font>명 이상</b></font>",
           "Entries": null,
           "IconImageUrl": null,
-          "Desc": "<b>생명을 제외한 모든 스탯</b><font color =\"red\">+5%</font><br/>[지휘]<b>전장의 모든 여성 아군</b> 방어,마방 <font color =\"red\">+5</font>%"
+          "Desc": "<b>생명을 제외한 모든 스탯</b><font color =\"red\">+5%</font><br/>[지휘]<b>전장의 모든 여성 아군</b> 방어,마방 <font color =\"red\">+5%</font>"
         },
         {
           "Name": "<img src=\"../img/skills/Christiane/장미.webp\"/><font color=\"#8d192b\">장미</font><br/><b><font color =\"black\">자신을 제외한 아군이 모두 <font color=\"#8d192b\">남성</font>이며, 그 수는 <font color =\"red\">1</font>명 이상</b></font>",
@@ -473,7 +473,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_HolyShield.webp",
-      "Desc": "[패시브]<b>전투 진입 시</b> 마방 <font color =\"red\">+10</font>%.",
+      "Desc": "[패시브]<b>전투 진입 시</b> 마방 <font color =\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -541,7 +541,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -561,13 +561,13 @@
           "Name": "<b>전장에 다른 아군 <font color =\"red\">3</font>명이 있을경우</b> 지휘 효과 획득",
           "Entries": null,
           "IconImageUrl": null,
-          "Desc": "<b>주위 <font color =\"red\">2</font>칸 범위 내 아군이</b> 받는 치명타확률<font color =\"red\">-20%</font>, 받는 원거리 피해량 <font color =\"red\">-10</font>%"
+          "Desc": "<b>주위 <font color =\"red\">2</font>칸 범위 내 아군이</b> 받는 치명타확률<font color =\"red\">-20%</font>, 받는 원거리 피해량 <font color =\"red\">-10%</font>"
         },
         {
           "Name": "<b>전장에 여성 아군<font color =\"red\">2</font>명이 있을 경우</b> 지휘 효과 획득",
           "Entries": null,
           "IconImageUrl": null,
-          "Desc": "<b>주위 <font color =\"red\">2</font>칸 범위 내 모든 아군이</b> 받는 마법피해량 <font color =\"red\">-15</font>%"
+          "Desc": "<b>주위 <font color =\"red\">2</font>칸 범위 내 모든 아군이</b> 받는 마법피해량 <font color =\"red\">-15%</font>"
         },
       ],
       "Animation": null
@@ -671,7 +671,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/크리스티안네.webp",
-      "Desc": "[패시브]인접한 아군이 받는 모든 피해를 대신 받는다. <br/><font color=\"blue\">강화 불가 면역</font><br/>[액티브]호위 범위가 <font color =\"red\">2</font>칸으로 증가 및 자신의 <font color=\"blue\">지휘 스킬</font> 범위<font color =\"red\">+1</font>칸 증가<br/>'<font color =\"blue\">고급 신성한 수호</font>' 효과 획득<br/><font color =\"blue\">고급 신성한 수호</font> : 마방의 <font color =\"red\">1.6</font>배 만큼의 수치로 공격을 대체한다.<br/><b><font color =\"red\">2</font>칸 원거리 공격 반격 가능<br/><b>(<font color=\"blue\">고급 신성한 수호</font>는 제거 불가)</b><br/>[초절강화] 범위 내 모든 '<font color=\"#ff1493\">공주 연맹</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>전장에 있는 여성 영웅 <font color=\"red\">1</font>명 당</b> 전투 진입 시 주는 피해량 <font color=\"red\">+3</font>%(최대 <font color=\"red\">+18</font>%) <br/>지속 <font color=\"red\">4</font>행동",
+      "Desc": "[패시브]인접한 아군이 받는 모든 피해를 대신 받는다. <br/><font color=\"blue\">강화 불가 면역</font><br/>[액티브]호위 범위가 <font color =\"red\">2</font>칸으로 증가 및 자신의 <font color=\"blue\">지휘 스킬</font> 범위<font color =\"red\">+1</font>칸 증가<br/>'<font color =\"blue\">고급 신성한 수호</font>' 효과 획득<br/><font color =\"blue\">고급 신성한 수호</font> : 마방의 <font color =\"red\">1.6</font>배 만큼의 수치로 공격을 대체한다.<br/><b><font color =\"red\">2</font>칸 원거리 공격 반격 가능<br/><b>(<font color=\"blue\">고급 신성한 수호</font>는 제거 불가)</b><br/>[초절강화] 범위 내 모든 '<font color=\"#ff1493\">공주 연맹</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/><b>전장에 있는 여성 영웅 <font color=\"red\">1</font>명 당</b> 전투 진입 시 주는 피해량 <font color=\"red\">+3%</font>(최대 <font color=\"red\">+18%</font>) <br/>지속 <font color=\"red\">4</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/크리스티안네_Ani.webp"
     }

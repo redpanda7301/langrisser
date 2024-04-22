@@ -78,7 +78,10 @@
     }
   ],
   "SPTalent":null,
-  "Second_Awaken": null,
+  "Second_Awaken": {
+    "Name" : "불타는 갑옷",
+    "Stats": "공격, 방어 <font color=\"red\">+5%</font><br/>스킬로 <font color=\"red\">3</font>명 이상 적 명중 시 '<font color=\"purple\">작열</font>' <font color=\"red\">1</font>개 추가 부여 및 '<font color=\"blue\">마갑 대역</font>' 남은 쿨타임 제거",
+  },
   "Equip": {
     "Name": "마도 과학 무장(무기)",
     "Stats": "생명 364, 공격 118",
@@ -126,8 +129,8 @@
       "MagicDefRate": 51,
       "Skill": 172,
       "SkillRate": 56,
-      "HeartFetterBouns1": "받는 범위 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">50%</font> 미만 시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">50%</font> 미만 시 <br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "검투 대장",
@@ -158,8 +161,8 @@
       "MagicDefRate": 60,
       "Skill": 154,
       "SkillRate": 44,
-      "HeartFetterBouns1": "공격 받아 전투 진입 시<br/>받는 마법 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "자신보다 생명 비율이 높은 적 공격하여 전투 진입 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%",
+      "HeartFetterBouns1": "공격 받아 전투 진입 시<br/>받는 마법 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "자신보다 생명 비율이 높은 적 공격하여 전투 진입 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>",
     }
   ],
   "Materials": {

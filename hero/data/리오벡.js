@@ -49,10 +49,10 @@
       "Condition": "리오벡을 사령 군주전직"
     },
     {
-      "Condition": "껍질 소녀 도움 하에 유대의문 4 클리어"
+      "Condition": "껍질 소녀 도움 받아 유대의문 4 클리어"
     },
     {
-      "Condition": "지온의 도움 하에 유대의문 5 클리어"
+      "Condition": "지온의 도움 받아 유대의문 5 클리어"
     }
   ],
   "HeartFetter": "생명+750, 방어+40, 마방+40",
@@ -134,8 +134,8 @@
       "MagicDefRate": 78,
       "Skill": 88,
       "SkillRate": 24,
-      "HeartFetterBouns1": "디버프를 보유한 부대에게 공격 당해 전투 진입 시 <br/>받는 피해량 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 적을 선공으로 전투 진입 시 <br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "디버프를 보유한 부대에게 공격 당해 전투 진입 시 <br/>받는 피해량 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 적을 선공으로 전투 진입 시 <br/>주는 피해량 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "사령 군주",
@@ -170,8 +170,8 @@
       "MagicDefRate": 80,
       "Skill": 115,
       "SkillRate": 37,
-      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "디버프를 보유한 부대와 전투 시 <br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "디버프를 보유한 부대와 전투 시 <br/>주는 피해량 <font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -413,7 +413,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/RioBec/1.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>적에게 <font color=\"blue\">부활</font> 효과가 있을 경우 피해 <font color=\"red\">+30</font>%",
+      "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>적에게 <font color=\"blue\">부활</font> 효과가 있을 경우 피해 <font color=\"red\">+30%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -427,7 +427,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15</font>%",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -453,7 +453,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50%</font>만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -571,7 +571,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/리오벡.webp",
-      "Desc": "[패시브]범위 스킬로 피해를 입히기 전 적에게 '<font color=\"blue\">명계의 화염</font>' 효과 부여<br/><font color=\"blue\">명계의 화염</font> : 자신이나 '<font color=\"blue\">계약</font>' 효과를 보유한 아군과 적이 전투 후, <font color=\"purple\">고유 스킬</font>의 <font color=\"blue\">고정 피해</font>가 무조건 발동<br/>목표 사망 시 리오벡은 '생명을 제외한 모든 능력치 <font color=\"red\">+2</font>%' 효과를 획득<br/>최대 <font color=\"red\">5</font>중첩<br/>해제 불가<br/><font color=\"blue\">명계의 화염</font>은 지속 <font color=\"red\">2</font>행동 및 <b>해제 불가</b><br/>[마법피해]범위 내 적에게 <font color=\"red\">0.4</font>배 피해, <font color=\"blue\">버프</font> <font color=\"red\">2</font>개를 <font color=\"blue\">무작위 디버프</font>로 전환",
+      "Desc": "[패시브]범위 스킬로 피해를 입히기 전 적에게 '<font color=\"blue\">명계의 화염</font>' 효과 부여<br/><font color=\"blue\">명계의 화염</font> : 자신이나 '<font color=\"blue\">계약</font>' 효과를 보유한 아군과 적이 전투 후, <font color=\"purple\">고유 스킬</font>의 <font color=\"blue\">고정 피해</font>가 무조건 발동<br/>목표 사망 시 리오벡은 '생명을 제외한 모든 능력치 <font color=\"red\">+2%</font>' 효과를 획득<br/>최대 <font color=\"red\">5</font>중첩<br/>해제 불가<br/><font color=\"blue\">명계의 화염</font>은 지속 <font color=\"red\">2</font>행동 및 <b>해제 불가</b><br/>[마법피해]범위 내 적에게 <font color=\"red\">0.4</font>배 피해, <font color=\"blue\">버프</font> <font color=\"red\">2</font>개를 <font color=\"blue\">무작위 디버프</font>로 전환",
       "SubSkills": null,
       "Animation": "../img/Super/리오벡_Ani.webp"
     }

@@ -492,7 +492,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Renata2.webp",
-      "Desc": "[물리 피해]단일 적에게 0.2배 물리 피해를 입힌다.<br/>동시에 [용인]부여: 레나타의 공격을 받을시 '호위를 받을수없음', <br/>'받는 피해 <font color=\"red\">+40</font>%'(보통 용의 인장과 중첩 불가), <font color=\"red\">2</font>행동 지속 및<br/>'재이동 불가', '부대의 패시브 스킬을 무효화', <br/>'이동력<font color=\"red\">-2</font>, 호위불가'(보통 용의 인장과 중첩 불가), <font color=\"red\">1</font>행동 지속.",
+      "Desc": "[물리 피해]단일 적에게 0.2배 물리 피해를 입힌다.<br/>동시에 [용인]부여: 레나타의 공격을 받을시 '호위를 받을수없음', <br/>'받는 피해 <font color=\"red\">+40%</font>'(보통 용의 인장과 중첩 불가), <font color=\"red\">2</font>행동 지속 및<br/>'재이동 불가', '부대의 패시브 스킬을 무효화', <br/>'이동력<font color=\"red\">-2</font>, 호위불가'(보통 용의 인장과 중첩 불가), <font color=\"red\">1</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

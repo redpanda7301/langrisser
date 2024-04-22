@@ -8,6 +8,10 @@
     {
       "ImageUrl": "코니/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "코니/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "요아 & 코니",
@@ -103,6 +107,9 @@
         },
         {
           "ImageUrl": "코니/2/1.webp"
+        },
+        {
+          "ImageUrl": "코니/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -120,8 +127,8 @@
       "MagicDefRate": 81,
       "Skill": 241,
       "SkillRate": 78,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대 피격 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">버프</font>를 <font color=\"Red\">5</font>개 이상 보유 시<br/>전투 중 피해 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대 피격 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">버프</font>를 <font color=\"Red\">5</font>개 이상 보유 시<br/>전투 중 피해 <font color =\"red\">+10%</font>"
     },  
     {
       "Name": "과학 기술 책임자",
@@ -132,6 +139,9 @@
         },
         {
           "ImageUrl": "코니/2/2.webp"
+        },
+        {
+          "ImageUrl": "코니/3/2.webp"
         }
       ],
       "AttkRange": 2,
@@ -149,8 +159,8 @@
       "MagicDefRate": 87,
       "Skill": 241,
       "SkillRate": 78,
-      "HeartFetterBouns1": "근접 공격 피격 시<br/>받는 물리 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "<font color =\"blue\">디버프</font>를 보유한 부대와 전투 시<br/>주는 피해 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "근접 공격 피격 시<br/>받는 물리 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "<font color =\"blue\">디버프</font>를 보유한 부대와 전투 시<br/>주는 피해 <font color =\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -420,7 +430,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Conna/0_1.webp",
-          "Desc": "사용 후 자신에게 '생명 <font color=\"red\">100</font>%일 경우 <font color=\"blue\">적의 일반 공격 및 스킬 타게팅 대상이 되지 않음</font><br/>행동 종료 시 자신 주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/>지속 <font color=\"red\">2</font>행동<br/>",
+          "Desc": "사용 후 자신에게 '생명 <font color=\"red\">100%</font>일 경우 <font color=\"blue\">적의 일반 공격 및 스킬 타게팅 대상이 되지 않음</font><br/>행동 종료 시 자신 주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/>지속 <font color=\"red\">2</font>행동<br/>",
         },
         {
           "Name": "<b><font color=\"purple\">펄스 사격 2형</font></b>",
@@ -485,7 +495,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Conna/1.webp",
-      "Desc": "코니와 요아에게 '<font color=\"blue\">증원</font>' 및 '<font color=\"blue\">치명타 확률</font> <font color=\"red\">+20</font>%' 효과 부여<br/> 지속 <font color=\"red\">2</font>행동",
+      "Desc": "코니와 요아에게 '<font color=\"blue\">증원</font>' 및 '<font color=\"blue\">치명타 확률</font> <font color=\"red\">+20%</font>' 효과 부여<br/> 지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -499,7 +509,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20%</font></font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -605,7 +615,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15</font>%",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 마방 <font color=\"red\">+15%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -633,7 +643,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Hide.webp",
-      "Desc": "공격하여 전투 진입 시 치명타율 <font color=\"red\">+10%</font>, 받는 피해량 <font color=\"red\">-20</font>%.",
+      "Desc": "공격하여 전투 진입 시 치명타율 <font color=\"red\">+10%</font>, 받는 피해량 <font color=\"red\">-20%</font>.",
       "SubSkills": null,
       "Animation": null
     },

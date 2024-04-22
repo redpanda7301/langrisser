@@ -107,8 +107,8 @@
       "MagicDefRate": 83,
       "Skill": 137,
       "SkillRate": 45,
-      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">80%</font> 초과 시</b> 받는 치명타확률<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>공격을 받아 전투 진입시</b> 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">80%</font> 초과 시</b> 받는 치명타확률<font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>공격을 받아 전투 진입시</b> 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "카오스 일족의 후예",
@@ -133,8 +133,8 @@
       "MagicDefRate": 86,
       "Skill": 137,
       "SkillRate": 45,
-      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">50%</font> 미만 시</b> 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명 <font color=\"red\">80%</font> 초과 시</b> 치명타 확률 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">50%</font> 미만 시</b> 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>부대 생명 <font color=\"red\">80%</font> 초과 시</b> 치명타 확률 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {

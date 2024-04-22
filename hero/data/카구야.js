@@ -87,7 +87,7 @@
     "Name": "덧없는 달빛(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "카구야.webp",
-    "Ability": "생명 <font color=\"red\">+10%</font><br/>전투 시작시 무작위 <font color=\"purple\">화투패</font> <font color=\"red\">2</font>장 획득<br/> <font color=\"blue\">소매속 패</font>로 얻는 <font color=\"blue\">부대 사거리 증가</font> 효과가 <b>해제 불가</b>로 변경.<br/>전장에서 사용한 <font color=\"purple\">저猪(<img src=\"../img/skills/Kaguya/0_1.webp\"/>)</font>, <font color=\"purple\">록鹿(<img src=\"../img/skills/Kaguya/0_2.webp\"/>)</font>, <font color=\"purple\">접蝶(<img src=\"../img/skills/Kaguya/0_3.webp\"/></font>) <font color=\"Red\">1</font>장 당<br/>치명타 확률 <font color=\"red\">+1%</font> (최대 <font color=\"red\">+10</font>%)"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>전투 시작시 무작위 <font color=\"purple\">화투패</font> <font color=\"red\">2</font>장 획득<br/> <font color=\"blue\">소매속 패</font>로 얻는 <font color=\"blue\">부대 사거리 증가</font> 효과가 <b>해제 불가</b>로 변경.<br/>전장에서 사용한 <font color=\"purple\">저猪(<img src=\"../img/skills/Kaguya/0_1.webp\"/>)</font>, <font color=\"purple\">록鹿(<img src=\"../img/skills/Kaguya/0_2.webp\"/>)</font>, <font color=\"purple\">접蝶(<img src=\"../img/skills/Kaguya/0_3.webp\"/></font>) <font color=\"Red\">1</font>장 당<br/>치명타 확률 <font color=\"red\">+1%</font> (최대 <font color=\"red\">+10%</font>)"
   },
   "Soldiers": [
     43,
@@ -130,8 +130,8 @@
       "MagicDefRate": 80,
       "Skill": 135,
       "SkillRate": 34,
-      "HeartFetterBouns1": "자신의 부대가 <font color=\"blue\">디버프</font>가 걸려있을 경우<br/>전투 중 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">디버프</font> 걸린 적과 전투 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "자신의 부대가 <font color=\"blue\">디버프</font>가 걸려있을 경우<br/>전투 중 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">디버프</font> 걸린 적과 전투 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "달의 현인",
@@ -162,8 +162,8 @@
       "MagicDefRate": 76,
       "Skill": 149,
       "SkillRate": 38,
-      "HeartFetterBouns1": "근접 공격을 받을 시<br/>받는 물리 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">70%</font> 미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "근접 공격을 받을 시<br/>받는 물리 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">70%</font> 미만 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -396,7 +396,7 @@
           "Name": "<b><font color=\"#0070c0\">소매 속의 패 - 종</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/skills/Kaguya/1_2.webp",
-          "Desc": "[액티브]<img src=\"../img/skills/Kaguya/0_1.webp\"/><img src=\"../img/skills/Kaguya/0_2.webp\"/><img src=\"../img/skills/Kaguya/0_3.webp\"/> 각각 하나를 소모해 한 쌍을 소모해 자신에게 <br/>'<font color=\"blue\">주는 피해</font> <font color=\"red\">+20</font>%' 장비 마부 발동 확률 <font color=\"red\">100</font>%' 부여</font>'효과 부여 <br/>지속 <font color=\"red\">1</font>행동"
+          "Desc": "[액티브]<img src=\"../img/skills/Kaguya/0_1.webp\"/><img src=\"../img/skills/Kaguya/0_2.webp\"/><img src=\"../img/skills/Kaguya/0_3.webp\"/> 각각 하나를 소모해 한 쌍을 소모해 자신에게 <br/>'<font color=\"blue\">주는 피해</font> <font color=\"red\">+20%</font>' 장비 마부 발동 확률 <font color=\"red\">100%</font>' 부여</font>'효과 부여 <br/>지속 <font color=\"red\">1</font>행동"
         },
         {
           "Name": "<b><font color=\"#0070c0\">소매 속의 패 - 광</font></b>",
@@ -600,7 +600,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/카구야.webp",
-      "Desc": "[패시브] 전투에서 사용한 <img src=\"../img/Skills/kaguya/0_1.webp\"/><img src=\"../img/Skills/kaguya/0_2.webp\"/><img src=\"../img/Skills/kaguya/0_3.webp\"/> 마다 <font color=\"blue\">마지막 승부</font> 치명타 확률 <font colro=\"Red\">+6%</font><br/>[마법 피해] 단일 적에게<font colro=\"Red\">1.7</font>배 피해를 준다.<br/>전투 전 적에게 <b>해제 불가 <font color=\"blue\">강력한 디버프</font></b><font color=\"Red\">2</font>개를 무작위로 부여<br/>지속 <font color=\"Red\">1</font>행동<br/>전투 후 자신에게 '<font color=\"blue\">받는 피해 <font color=\"Red\">-20</font>%</font></font>'효과 부여<br/>지속 <font color=\"Red\">1</font>행동<br/>전투 후 <font color=\"blue\">재이동</font><font color=\"Red\">3</font>칸",
+      "Desc": "[패시브] 전투에서 사용한 <img src=\"../img/Skills/kaguya/0_1.webp\"/><img src=\"../img/Skills/kaguya/0_2.webp\"/><img src=\"../img/Skills/kaguya/0_3.webp\"/> 마다 <font color=\"blue\">마지막 승부</font> 치명타 확률 <font colro=\"Red\">+6%</font><br/>[마법 피해] 단일 적에게<font colro=\"Red\">1.7</font>배 피해를 준다.<br/>전투 전 적에게 <b>해제 불가 <font color=\"blue\">강력한 디버프</font></b><font color=\"Red\">2</font>개를 무작위로 부여<br/>지속 <font color=\"Red\">1</font>행동<br/>전투 후 자신에게 '<font color=\"blue\">받는 피해 <font color=\"Red\">-20%</font></font></font>'효과 부여<br/>지속 <font color=\"Red\">1</font>행동<br/>전투 후 <font color=\"blue\">재이동</font><font color=\"Red\">3</font>칸",
       "SubSkills": null,
       "Animation": "../img/Super/카구야_Ani.webp"
     }

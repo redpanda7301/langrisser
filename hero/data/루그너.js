@@ -80,7 +80,7 @@
     "Name": "신자의 면류관(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "루그너.webp",
-    "Ability": "생명 <font color=\"red\">+10%</font><br/>아군 사망 시 가해자에게 '<font color=\"blue\">죄업</font>' <font color=\"red\">4</font>스택 부여<br/>적이 <font color=\"blue\">죄업</font> <font color=\"red\">4</font> 스택 이상을 보유할 경우<br/>신관과 교전 시 피해 <font color=\"red\">-15</font>%"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>아군 사망 시 가해자에게 '<font color=\"blue\">죄업</font>' <font color=\"red\">4</font>스택 부여<br/>적이 <font color=\"blue\">죄업</font> <font color=\"red\">4</font> 스택 이상을 보유할 경우<br/>신관과 교전 시 피해 <font color=\"red\">-15%</font>"
   },
   "Soldiers": [
     0,
@@ -120,8 +120,8 @@
       "MagicDefRate": 87,
       "Skill": 96,
       "SkillRate": 31,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "부대가 버프 <font color=\"Red\">5</font>개 이상 보유 시<br/>전투 중 피해 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대 받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "부대가 버프 <font color=\"Red\">5</font>개 이상 보유 시<br/>전투 중 피해 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "은사",
@@ -149,8 +149,8 @@
       "MagicDefRate": 84,
       "Skill": 111,
       "SkillRate": 37,
-      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대의 공격을 받아 전투 진입 시<br/>받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시<br/>주는 피해 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대의 공격을 받아 전투 진입 시<br/>받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시<br/>주는 피해 <font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {

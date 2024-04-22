@@ -64,16 +64,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "주위 <font color=\"red\">1</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+4</font>%(최대 <font color=\"red\">+20</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+1</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
+          "Desc": "주위 <font color=\"red\">1</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+4%</font>(최대 <font color=\"red\">+20%</font>).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+1</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+5</font>%(최대 <font color=\"red\">+25</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
+          "Desc": "주위 <font color=\"red\">2</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+5%</font>(최대 <font color=\"red\">+25%</font>).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
         },
         {
-          "Desc": "주위 <font color=\"red\">2</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+6</font>%(최대 <font color=\"red\">+30</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
+          "Desc": "주위 <font color=\"red\">2</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+6%</font>(최대 <font color=\"red\">+30%</font>).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
         },
         {
-          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+7</font>%(최대 <font color=\"red\">+35</font>%).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+3</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
+          "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+7%</font>(최대 <font color=\"red\">+35%</font>).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+3</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
         }
       ]
     }
@@ -128,8 +128,8 @@
       "MagicDefRate": 61,
       "Skill": 157,
       "SkillRate": 44,
-      "HeartFetterBouns1": "선제 공격으로 전투 진입 시 <br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">70%</font> 이하인 경우 전투 진입시<br/> 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선제 공격으로 전투 진입 시 <br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">70%</font> 이하인 경우 전투 진입시<br/> 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "정복의 기사왕",
@@ -160,8 +160,8 @@
       "MagicDefRate": 61,
       "Skill": 132,
       "SkillRate": 41,
-      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">70%</font> 이하인 경우 전투 진입시 <br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "근접 공격을 받아 전투 진입시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">70%</font> 이하인 경우 전투 진입시 <br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "근접 공격을 받아 전투 진입시 <br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -408,7 +408,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30</font>%만큼 생명을 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30%</font>만큼 생명을 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -462,7 +462,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Loviner/1.webp",
-      "Desc": "[패시브]부대 생명이 <font color=\"red\">100</font>%일 경우 방어력 <font color=\"red\">+10%</font> <br/><b>선공 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸 가능<br/>쿨타임 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브]부대 생명이 <font color=\"red\">100%</font>일 경우 방어력 <font color=\"red\">+10%</font> <br/><b>선공 후</b> <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸 가능<br/>쿨타임 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -554,7 +554,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.webp",
-      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"red\">80%</font> 이상이라면<br/>전투 중 받는 피해량 <font color=\"red\">-30</font>%.",
+      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"red\">80%</font> 이상이라면<br/>전투 중 받는 피해량 <font color=\"red\">-30%</font>.",
       "SubSkills": null,
       "Animation": null
     },

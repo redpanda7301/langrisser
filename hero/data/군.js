@@ -41,7 +41,7 @@
       "Condition": "백랑왕 전직"
     },
     {
-      "Condition": "페트리시아의 도움 하에 운명의문 4 클리어"
+      "Condition": "페트리시아의 도움 받아 운명의문 4 클리어"
     },
     {
       "Condition": "뭇산의 파수꾼 전직"
@@ -114,8 +114,8 @@
       "MagicDefRate": 63,
       "Skill": 160,
       "SkillRate": 46,
-      "HeartFetterBouns1": "원거리 피격 시<br/>받는 피해<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 적 선공 시<br/>전투 진입 후 주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "원거리 피격 시<br/>받는 피해<font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 적 선공 시<br/>전투 진입 후 주는 피해량<font color=\"red\">+10%</font>"
     },
     {
       "Name": "뭇산의 수호자",
@@ -143,8 +143,8 @@
       "MagicDefRate": 68,
       "Skill": 179,
       "SkillRate": 52,
-      "HeartFetterBouns1": "근접 피격 시<br/>받는 물리 피해<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "근접 피격 시<br/>받는 물리 피해<font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 주는 피해량<font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -238,7 +238,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해.<br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20</font>%</font><br/> 지속 <font color=\"red\">1</font>행동",
+      "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해.<br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20%</font></font><br/> 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -296,7 +296,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30</font>%만큼 <font color=\"green\">생명 회복</font>한다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"red\">30%</font>만큼 <font color=\"green\">생명 회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -336,7 +336,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Gunn/3.webp",
-      "Desc": "스킬 사용 지점으로 <font color=\"blue\">텔레포트</font> 후<br/>자신 주위 <font color=\"red\">2</font>칸 범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 '<font color=\"blue\">방어구 무효화</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>목표가 논플레이어블 영웅일 경우, 해당 효과는 <font color=\"blue\">방어</font> <font color=\"red\">-25</font>%로 대체<br/>스킬에 명중한 적 <font color=\"red\">1</font>명당 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>(최대 <font color=\"red\">60</font>%)",
+      "Desc": "스킬 사용 지점으로 <font color=\"blue\">텔레포트</font> 후<br/>자신 주위 <font color=\"red\">2</font>칸 범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 '<font color=\"blue\">방어구 무효화</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>목표가 논플레이어블 영웅일 경우, 해당 효과는 <font color=\"blue\">방어</font> <font color=\"red\">-25%</font>로 대체<br/>스킬에 명중한 적 <font color=\"red\">1</font>명당 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>(최대 <font color=\"red\">60%</font>)",
       "SubSkills": null,
       "Animation": null
     },

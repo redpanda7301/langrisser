@@ -69,10 +69,10 @@
       "Condition": "쉐리를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "키스의 도움 하에 '모험의 끝!' 클리어"
+      "Condition": "키스의 도움 받아 '모험의 끝!' 클리어"
     },
     {
-      "Condition": "헤인의 도움 하에 '내가 바로 최강용사!' 클리어"
+      "Condition": "헤인의 도움 받아 '내가 바로 최강용사!' 클리어"
     }
   ],
   "HeartFetter": "생명+550, 방어+30, 마방+50",
@@ -246,8 +246,8 @@
       "MagicDefRate": 70,
       "Skill": 164,
       "SkillRate": 54,
-      "HeartFetterBouns1": "<b>공격받아 전투 진입 시</b> <br/>받는 마법 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입 시</b> <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>공격받아 전투 진입 시</b> <br/>받는 마법 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입 시</b> <br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "하이 마스터",

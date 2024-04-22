@@ -52,19 +52,19 @@
           "Desc": "1성"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-10%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-40</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-10%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-40%</font>"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-15%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-50</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-15%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-50%</font>"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-20%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-60</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-20%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-60%</font>"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-25%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-70</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-25%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-70%</font>"
         },
         {
-          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-30%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-80</font>%"
+          "Desc": "부대 생명 <font color=\"red\">80%</font> 이상일 경우 받는 물리 피해 <font color=\"red\">-30%</font> <br/>직선 범위 스킬로 피격시 자신 뒤 아군이 받는 피해 <font color=\"red\">-80%</font>"
         }
       ]
     }
@@ -106,8 +106,8 @@
       "MagicDefRate": 71,
       "Skill": 201,
       "SkillRate": 62,
-      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "치료 효과 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "치료 효과 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "고급 탱크병",
@@ -132,8 +132,8 @@
       "MagicDefRate": 58,
       "Skill": 131,
       "SkillRate": 43,
-      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">100</font>%일 경우<br/> 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">100</font>%일 경우<br/> 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명이 <font color=\"red\">100%</font>일 경우<br/> 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명이 <font color=\"red\">100%</font>일 경우<br/> 주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -443,7 +443,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
-      "Desc": "범위 내 아군들의 방어 <font color =\"red\">+20</font>%.<br/>'<font color =\"blue\">방어, 마방 감소</font>','<font color =\"green\">치료 방해</font>' 면역 부여<br/>쿨타임 <font color =\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 방어 <font color =\"red\">+20%</font>.<br/>'<font color =\"blue\">방어, 마방 감소</font>','<font color =\"green\">치료 방해</font>' 면역 부여<br/>쿨타임 <font color =\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

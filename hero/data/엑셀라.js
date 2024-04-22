@@ -109,8 +109,8 @@
       "MagicDefRate": 49,
       "Skill": 183,
       "SkillRate": 51,
-      "HeartFetterBouns1": "받는 치료 효과 <font color=\"red\">+10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">범위 피해</font> <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 치료 효과 <font color=\"red\">+10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">범위 피해</font> <font color=\"red\">+10%</font>"
     },
     {
       "Name": "어룡 기사",
@@ -135,8 +135,8 @@
       "MagicDefRate": 78,
       "Skill": 183,
       "SkillRate": 51,
-      "HeartFetterBouns1": "받는 <font color=\"blue\">범위 피해</font> <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">버프</font> <font color=\"Red\">7</font>개 이상 보유 시<br/>전투 진입 후 주는 피해량<font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "받는 <font color=\"blue\">범위 피해</font> <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">버프</font> <font color=\"Red\">7</font>개 이상 보유 시<br/>전투 진입 후 주는 피해량<font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -437,7 +437,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Javelin.webp",
-      "Desc": "단일 개체 <font color=\"red\">0.8</font>배 피해를 입힘.<br/>공격 전 이동거리 <font color=\"red\">1</font>칸마다 주는 피해량 <font color=\"red\">+20</font>%(최대 <font color=\"red\">+60</font>%).<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸<br/><font color=\"blue\">근접 병사를 휴대 시 병사도 동시에 공격 가능</font>",
+      "Desc": "단일 개체 <font color=\"red\">0.8</font>배 피해를 입힘.<br/>공격 전 이동거리 <font color=\"red\">1</font>칸마다 주는 피해량 <font color=\"red\">+20%</font>(최대 <font color=\"red\">+60%</font>).<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸<br/><font color=\"blue\">근접 병사를 휴대 시 병사도 동시에 공격 가능</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -463,7 +463,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Excela/2.webp",
-      "Desc": "자신에게 '<font color =\"blue\">공격</font> <font color =\"red\">+20</font>%'<br/>선공 시 <font color =\"red\">50%</font> 확률로 '<font color =\"purple\">모으기</font><font color =\"blue\">를 소모하지 않음</font>' 효과를 부여<br/>지속 <font color =\"red\">4</font>행동",
+      "Desc": "자신에게 '<font color =\"blue\">공격</font> <font color =\"red\">+20%</font>'<br/>선공 시 <font color =\"red\">50%</font> 확률로 '<font color =\"purple\">모으기</font><font color =\"blue\">를 소모하지 않음</font>' 효과를 부여<br/>지속 <font color =\"red\">4</font>행동",
       "SubSkills": null,
       "Animation": null
     },    

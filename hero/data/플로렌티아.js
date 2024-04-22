@@ -91,7 +91,7 @@
     "Name": "제국의 보물(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "플로렌티아.webp",
-    "Ability": "생명, 마방 <font color=\"red\">+5%</font><br/><b>병사가 받는 피해<font color=\"red\">-10</font>%</b><br/><b>매 전투 시작 시 혹은 아군 사망 시</b><br/><font color=\"scarlet\">모략</font><font color=\"red\">1</font>개 획득"
+    "Ability": "생명, 마방 <font color=\"red\">+5%</font><br/><b>병사가 받는 피해<font color=\"red\">-10%</font></b><br/><b>매 전투 시작 시 혹은 아군 사망 시</b><br/><font color=\"scarlet\">모략</font><font color=\"red\">1</font>개 획득"
   },
   "Soldiers": [
     0,
@@ -473,7 +473,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20</font>%.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
+      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font>.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

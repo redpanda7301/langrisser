@@ -84,7 +84,7 @@
     "Name": "선령의 속삭임(투구)",
     "Stats": "생명 583, 마방 48",
     "Icon": "폴리알.webp",
-    "Ability": "방어 <font color=\"red\">+10%</font><br/>쿨다운 중인 스킬 <font color=\"red\">1</font>개당 부대 피해 <font color=\"red\">+10%</font><br/>적을 <font color=\"blue\">위치 이동</font> 시켰을 경우 '<font color=\"blue\">지휘</font>. 주위 <font color=\"red\">2</font>칸 범위 적이 받는 <font color=\"green\">치료</font> <font color=\"red\">-30</font>%' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
+    "Ability": "방어 <font color=\"red\">+10%</font><br/>쿨다운 중인 스킬 <font color=\"red\">1</font>개당 부대 피해 <font color=\"red\">+10%</font><br/>적을 <font color=\"blue\">위치 이동</font> 시켰을 경우 '<font color=\"blue\">지휘</font>. 주위 <font color=\"red\">2</font>칸 범위 적이 받는 <font color=\"green\">치료</font> <font color=\"red\">-30%</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
   },
   "Soldiers": [
     25,
@@ -127,8 +127,8 @@
       "MagicDefRate": 67,
       "Skill": 143,
       "SkillRate": 41,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70%</font> 미만 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70%</font> 미만 시<br/>주는 피해량 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "투신",
@@ -159,8 +159,8 @@
       "MagicDefRate": 54,
       "Skill": 159,
       "SkillRate": 47,
-      "HeartFetterBouns1": "생명 백분비가 자신 부대보다 높은 부대에게 피격 시<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 부대를 선공 시<br/> 전투 진입 후 피해 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "생명 백분비가 자신 부대보다 높은 부대에게 피격 시<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 부대를 선공 시<br/> 전투 진입 후 피해 <font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -421,7 +421,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf3.webp",
-      "Desc": "부대 생명이 <font color=\"red\">50%</font> 이하로<br/> 전투 진입 시 방어, 마방 <font color=\"red\">+10</font>%.",
+      "Desc": "부대 생명이 <font color=\"red\">50%</font> 이하로<br/> 전투 진입 시 방어, 마방 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -499,7 +499,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Polyal/1.webp",
-      "Desc": "범위 내 적에게 <font color=\"red\">0.33</font>배 피해 명중한 적에게 <font color =\"blue\">무작위 장비 효과 무효화</font> (최대 생명 제외) 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>NPC 명중 시 해당 효과는 <font color=\"blue\">무작위 스탯 저하</font> <font color=\"red\">25</font>%로 대체<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 적에게 <font color=\"red\">0.33</font>배 피해 명중한 적에게 <font color =\"blue\">무작위 장비 효과 무효화</font> (최대 생명 제외) 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>NPC 명중 시 해당 효과는 <font color=\"blue\">무작위 스탯 저하</font> <font color=\"red\">25%</font>로 대체<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -591,7 +591,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.3</font>배 피해<br/>전투 전 상대 <font color=\"blue\">버프 <font color=\"red\">2</font>개 제거</font><br/>동시에 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "단일 개체 <font color=\"red\">1.3</font>배 피해<br/>전투 전 상대 <font color=\"blue\">버프 <font color=\"red\">2</font>개 제거</font><br/>동시에 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20%</font></font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },

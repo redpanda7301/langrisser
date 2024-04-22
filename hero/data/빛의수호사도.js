@@ -129,8 +129,8 @@
       "MagicDefRate": 83,
       "Skill": 94,
       "SkillRate": 23,
-      "HeartFetterBouns1": "선공으로 전투 진입시 <br/>부대가 받는 피해량 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "근접 공격을 받아 전투 진입시 <br/>주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입시 <br/>부대가 받는 피해량 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "근접 공격을 받아 전투 진입시 <br/>주는 피해량 <font color =\"red\">+10%</font>"
     },
     {
       "Name": "빛나는 방패와 검의 수호자",
@@ -161,8 +161,8 @@
       "MagicDefRate": 72,
       "Skill": 141,
       "SkillRate": 37,
-      "HeartFetterBouns1": "부대 생명 백분율이 <font color=\"Red\">80</font>%이상 일시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "원거리 공격을 받아 전투 진입시<br/>주는 피해량 <font color=\"red\">+10</font>%",
+      "HeartFetterBouns1": "부대 생명 백분율이 <font color=\"Red\">80%</font>이상 일시<br/>받는 치명타 확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "원거리 공격을 받아 전투 진입시<br/>주는 피해량 <font color=\"red\">+10%</font>",
     }
   ],
   "Materials": {
@@ -548,7 +548,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/BlessedApostle/3.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다<br/>전장에서 아군이 <font color=\"red\">1</font>명 사망시 피해량 <font color=\"red\">+15%</font>, 최대 <font color=\"red\">+45</font>%.<br/>해당 스킬로 적 격파시, 해당 스킬 쿨타임 <font color=\"red\">-2</font><br/><font color=\"blue\">근접병사 대동시 경우 병사도 같이 공격한다. 해당 스킬은 근접전 패널티를 받지 않음</font>",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다<br/>전장에서 아군이 <font color=\"red\">1</font>명 사망시 피해량 <font color=\"red\">+15%</font>, 최대 <font color=\"red\">+45%</font>.<br/>해당 스킬로 적 격파시, 해당 스킬 쿨타임 <font color=\"red\">-2</font><br/><font color=\"blue\">근접병사 대동시 경우 병사도 같이 공격한다. 해당 스킬은 근접전 패널티를 받지 않음</font>",
       "SubSkills": null,
       "Animation": null
     },

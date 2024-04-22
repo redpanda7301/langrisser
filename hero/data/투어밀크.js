@@ -41,7 +41,7 @@
       "Condition": "투어밀크를 출전시켜 시공의 균열 3-1(정예) 클리어"
     },
     {
-      "Condition": "제시카의 도움 하에 운명의문 4 클리어"
+      "Condition": "제시카의 도움 받아 운명의문 4 클리어"
     },
     {
       "Condition": "투어밀크를 주시자전직"
@@ -80,7 +80,7 @@
     "Name": "침묵의 고백(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "투어밀크.webp",
-    "Ability": "생명 <font color=\"red\">+10%</font><br/>턴 시작 시, <font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font> 중 많은 쪽이 다른 쪽으로 <font color=\"red\">1</font>개 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>의 차이가 적을 수록 영웅이 <font color=\"blue\">주는 피해량</font> 증가<br/> 최대 <font color=\"red\">+10</font>%"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/>턴 시작 시, <font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font> 중 많은 쪽이 다른 쪽으로 <font color=\"red\">1</font>개 전환<br/><font color=\"blue\">이성</font>과 <font color=\"purple\">감성</font>의 차이가 적을 수록 영웅이 <font color=\"blue\">주는 피해량</font> 증가<br/> 최대 <font color=\"red\">+10%</font>"
   },
   "Soldiers": [
     43,
@@ -120,8 +120,8 @@
       "MagicDefRate": 85,
       "Skill": 96,
       "SkillRate": 28,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "미지의 세계를 향한 찬송",
@@ -149,8 +149,8 @@
       "MagicDefRate": 81,
       "Skill": 96,
       "SkillRate": 28,
-      "HeartFetterBouns1": "자신의 부대보다 생명 백분비가 낮은 적과 교전 시<br/>전투 진입 후 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"green\">주는 치료</font> 효과 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "자신의 부대보다 생명 백분비가 낮은 적과 교전 시<br/>전투 진입 후 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"green\">주는 치료</font> 효과 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -366,7 +366,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Tourmilk/1.webp",
-      "Desc": "[액티브]<font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font> 중 많은 쪽 하나를 다른 쪽으로 <font color=\"blue\">전환</font> 시킴<br/>'<font color=\"blue\">주는 피해량</font> <font color=\"red\">+20</font>%', '선공으로 피해를 입힐 경우 <font color=\"blue\">받는 반사 피해</font> <font color=\"red\">-30</font>%' 효과 획득<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font><br/><b>해당 재행동은 버프 지속 시간을 소모하지 않음</b>",
+      "Desc": "[액티브]<font color=\"purple\">감성</font>과 <font color=\"blue\">이성</font> 중 많은 쪽 하나를 다른 쪽으로 <font color=\"blue\">전환</font> 시킴<br/>'<font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font>', '선공으로 피해를 입힐 경우 <font color=\"blue\">받는 반사 피해</font> <font color=\"red\">-30%</font>' 효과 획득<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font><br/><b>해당 재행동은 버프 지속 시간을 소모하지 않음</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -510,7 +510,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
-      "Desc": "범위 내 아군들의 방어 <font color =\"red\">+20</font>%.<br/>'<font color =\"blue\">방어, 마방 감소</font>','<font color =\"green\">치료 방해</font>' 면역 부여<br/>쿨타임 <font color =\"red\">2</font>행동",
+      "Desc": "범위 내 아군들의 방어 <font color =\"red\">+20%</font>.<br/>'<font color =\"blue\">방어, 마방 감소</font>','<font color =\"green\">치료 방해</font>' 면역 부여<br/>쿨타임 <font color =\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

@@ -57,10 +57,10 @@
       "Condition": "크리스를 발키리전직"
     },
     {
-      "Condition": "란스의 도움 하에 '레딘에게 주는 선물' 클리어"
+      "Condition": "란스의 도움 받아 '레딘에게 주는 선물' 클리어"
     },
     {
-      "Condition": "레딘의 도움 하에 '구원의 빛' 클리어"
+      "Condition": "레딘의 도움 받아 '구원의 빛' 클리어"
     }
   ],
   "HeartFetter": "생명+650, 방어+40, 마방+60",
@@ -600,7 +600,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20</font>%.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
+      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font>.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

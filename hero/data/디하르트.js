@@ -49,10 +49,10 @@
       "Condition": "디하르트를 로열 나이트전직"
     },
     {
-      "Condition": "키리카제의 도움 하에 '검의 전승' 클리어"
+      "Condition": "키리카제의 도움 받아 '검의 전승' 클리어"
     },
     {
-      "Condition": "티아리스의 도움 하에 '전설의 수라장' 클리어"
+      "Condition": "티아리스의 도움 받아 '전설의 수라장' 클리어"
     }
   ],
   "HeartFetter": "생명+650, 방어+30, 마방+50",
@@ -202,8 +202,8 @@
       "MagicDefRate": 63,
       "Skill": 164,
       "SkillRate": 46,
-      "HeartFetterBouns1": "부대 생명 백분비가 자신보다 낮은 부대와 전투 시 <br/>전투 진입 후 받는 피해량 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 백분비가 자신보다 낮은 부대와 교전할 경우, <br/>전투 진입 후 주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 백분비가 자신보다 낮은 부대와 전투 시 <br/>전투 진입 후 받는 피해량 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "생명 백분비가 자신보다 낮은 부대와 교전할 경우, <br/>전투 진입 후 주는 피해량 <font color =\"red\">+10%</font>"
     },
     {
       "Name": "하이 마스터",

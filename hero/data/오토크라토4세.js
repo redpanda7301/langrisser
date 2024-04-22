@@ -44,10 +44,10 @@
       "Condition": "로열 마샬 전직"
     },
     {
-      "Condition": "아레스의 도움 하에  유대의문 4 클리어"
+      "Condition": "아레스의 도움 받아  유대의문 4 클리어"
     },
     {
-      "Condition": "루크레치아의 도움 하에  유대의문 5 클리어"
+      "Condition": "루크레치아의 도움 받아  유대의문 5 클리어"
     }
   ],
   "HeartFetter": "생명+850, 방어+60, 마방+30",
@@ -63,16 +63,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+10%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-1%</font> 효과 부여 <br/>최대 <font color=\"red\">-5</font>%"
+          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+10%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-1%</font> 효과 부여 <br/>최대 <font color=\"red\">-5%</font>"
         },
         {
-          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+13%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-2%</font> 효과 부여 <br/>최대 <font color=\"red\">-10</font>%"
+          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+13%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-2%</font> 효과 부여 <br/>최대 <font color=\"red\">-10%</font>"
         },
         {
-          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+16%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-3%</font> 효과 부여 <br/>최대 <font color=\"red\">-15</font>%"
+          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+16%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-3%</font> 효과 부여 <br/>최대 <font color=\"red\">-15%</font>"
         },
         {
-          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+20%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-4%</font> 효과 부여 <br/>최대 <font color=\"red\">-20</font>%"
+          "Desc": "<b>전투 진입 시 생명을 제외한 모든 스탯</b> <font color=\"red\">+20%</font>.<br/><b>주위 <font color=\"red\">3</font>칸 범위 내 적에게 공격 전</b> 이동 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">-4%</font> 효과 부여 <br/>최대 <font color=\"red\">-20%</font>"
         }
       ]
     }
@@ -83,7 +83,7 @@
     "Name": "황권의 갑옷(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "오토크라토4세.webp",
-    "Ability": "방어,마방 <font color=\"red\">+5%</font><br/>선공으로 피해를 입힐 경우 적 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 강탈<br/>모든 적이 갖고 있는 '<font color=\"blue\">도발</font>' 효과 <font color=\"red\">1</font>개당 <br/>부대의 생명을 제외한 모든 스탯 <font color=\"red\">+2%</font> <br/>(최대 <font color=\"red\">10</font>%)"
+    "Ability": "방어,마방 <font color=\"red\">+5%</font><br/>선공으로 피해를 입힐 경우 적 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 강탈<br/>모든 적이 갖고 있는 '<font color=\"blue\">도발</font>' 효과 <font color=\"red\">1</font>개당 <br/>부대의 생명을 제외한 모든 스탯 <font color=\"red\">+2%</font> <br/>(최대 <font color=\"red\">10%</font>)"
   },
   "Soldiers": [
     31,
@@ -129,8 +129,8 @@
       "MagicDefRate": 44,
       "Skill": 108,
       "SkillRate": 31,
-      "HeartFetterBouns1": "<b>받는 범위 피해</b> <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>범위 피해</b> <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>받는 범위 피해</b> <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>범위 피해</b> <font color=\"red\">+10%</font>"
     },
     {
       "Name": "황제",
@@ -161,8 +161,8 @@
       "MagicDefRate": 43,
       "Skill": 143,
       "SkillRate": 38,
-      "HeartFetterBouns1": "<b>공격 전 이동 1칸당</b> 부대 받는 피해 <font color=\"red\">-3%</font><br/>(최대 <font color=\"red\">15</font>%)",
-      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입시 </b> <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>공격 전 이동 1칸당</b> 부대 받는 피해 <font color=\"red\">-3%</font><br/>(최대 <font color=\"red\">15%</font>)",
+      "HeartFetterBouns2": "<b>물리 공격을 받아 전투 진입시 </b> <br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {

@@ -115,8 +115,8 @@
       "MagicDefRate": 63,
       "Skill": 115,
       "SkillRate": 34,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "연옥 사령관",
@@ -144,8 +144,8 @@
       "MagicDefRate": 68,
       "Skill": 115,
       "SkillRate": 34,
-      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -202,7 +202,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1</font>의 피해를 준다.<br/>공격 전 이동거리 <font color=\"Red\">1</font>칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60</font>%)<br/>적 부대에게 '<font color=\"blue\">치료 방해</font>' 부여<br/>지속 <font color=\"#DC143C\">1</font>행동",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1</font>의 피해를 준다.<br/>공격 전 이동거리 <font color=\"Red\">1</font>칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)<br/>적 부대에게 '<font color=\"blue\">치료 방해</font>' 부여<br/>지속 <font color=\"#DC143C\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -216,7 +216,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.webp",
-      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"Red\">80%</font> 이상일 경우<br/>전투 중 받는 피해량-<font color=\"Red\">-30</font>%.",
+      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"Red\">80%</font> 이상일 경우<br/>전투 중 받는 피해량-<font color=\"Red\">-30%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -242,7 +242,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Andriole/1.webp",
-      "Desc": "[패시브]주위 <font color=\"red\">3</font>칸 범위 내에 '<font color=\"purple\">충성 맹세</font>'를 보유한 아군이 있을 경우<br/>사망 시 체력 <font color=\"red\">20</font>%로 <font color=\"blue\">부활</font> (최대 <font color=\"red\">1</font>회 발동)<br/>[액티브]자신에게 '<font color=\"blue\">면역</font>' 및 '<font color=\"blue\">이동 시 적 통과</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동)<br/>사용시 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font><br/>해당 스킬은 보유한 버프 지속 시간을 소모하지 않음",
+      "Desc": "[패시브]주위 <font color=\"red\">3</font>칸 범위 내에 '<font color=\"purple\">충성 맹세</font>'를 보유한 아군이 있을 경우<br/>사망 시 체력 <font color=\"red\">20%</font>로 <font color=\"blue\">부활</font> (최대 <font color=\"red\">1</font>회 발동)<br/>[액티브]자신에게 '<font color=\"blue\">면역</font>' 및 '<font color=\"blue\">이동 시 적 통과</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동)<br/>사용시 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font><br/>해당 스킬은 보유한 버프 지속 시간을 소모하지 않음",
       "SubSkills": null,
       "Animation": null
     },
@@ -320,7 +320,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Javelin.webp",
-      "Desc": "단일 개체 <font color=\"red\">0.8</font>배 피해를 입힘.<br/>공격 전 이동거리 <font color=\"red\">1</font>칸마다 주는 피해량 <font color=\"red\">+20</font>%(최대 <font color=\"red\">+60</font>%).<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸<br/><font color=\"blue\">근접 병사를 휴대 시 병사도 동시에 공격 가능</font>",
+      "Desc": "단일 개체 <font color=\"red\">0.8</font>배 피해를 입힘.<br/>공격 전 이동거리 <font color=\"red\">1</font>칸마다 주는 피해량 <font color=\"red\">+20%</font>(최대 <font color=\"red\">+60%</font>).<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸<br/><font color=\"blue\">근접 병사를 휴대 시 병사도 동시에 공격 가능</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -360,7 +360,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Andriole/2.webp",
-      "Desc": "단일 개체 <fon color=\"Red\">1.5</font>배 피해, 전투 전 현재 영웅 생명 <fon color=\"Red\">30</font>%를 <fon color=\"blue\">자해하고</font>(디메리트)<br/>적 부대에게 동일 수치의 <fon color=\"blue\">고정 피해</font>",
+      "Desc": "단일 개체 <fon color=\"Red\">1.5</font>배 피해, 전투 전 현재 영웅 생명 <fon color=\"Red\">30%</font>를 <fon color=\"blue\">자해하고</font>(디메리트)<br/>적 부대에게 동일 수치의 <fon color=\"blue\">고정 피해</font>",
       "SubSkills": null,
       "Animation": null
     },

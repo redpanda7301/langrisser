@@ -141,7 +141,7 @@
       "Skill": 96,
       "SkillRate": 27,
       "HeartFetterBouns1": "<b>부대의 생명이 <font color=\"red\">80%</font> 이상일 때</b><br/>받는 치명타 확률 -10%",
-      "HeartFetterBouns2": "치유 효과 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns2": "치유 효과 <font color=\"red\">+10%</font>"
     },
 	{
       "Name": "주술사",
@@ -175,8 +175,8 @@
       "MagicDefRate": 90,
       "Skill": 96,
       "SkillRate": 27,
-      "HeartFetterBouns1": "<b><font color=\"green\">숲</font>,<font color=\"green\">초원</font>에 있을시</b><br/> <b>부대가 받는 마법피해</b> <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b><font color=\"green\">숲</font>,<font color=\"green\">초원</font>에 있을시</b><br/> <b>주는 피해량</b> <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b><font color=\"green\">숲</font>,<font color=\"green\">초원</font>에 있을시</b><br/> <b>부대가 받는 마법피해</b> <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b><font color=\"green\">숲</font>,<font color=\"green\">초원</font>에 있을시</b><br/> <b>주는 피해량</b> <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {

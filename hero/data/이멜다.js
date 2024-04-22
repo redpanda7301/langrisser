@@ -48,10 +48,10 @@
       "Condition": "이멜다를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "발가스의 도움 하에 '가혹한 여왕님, 강림' 클리어"
+      "Condition": "발가스의 도움 받아 '가혹한 여왕님, 강림' 클리어"
     },
     {
-      "Condition": "베른하르트의 도움 하에 '하늘을 비상하는 빙룡' 클리어"
+      "Condition": "베른하르트의 도움 받아 '하늘을 비상하는 빙룡' 클리어"
     }
   ],
   "HeartFetter": "생명+350, 방어+30, 마방+60",
@@ -445,7 +445,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20</font>%.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
+      "Desc": "범위 내 아군들의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font>.<br/>'<font color=\"blue\">공격, 지력 면역</font>','<font color=\"blue\">스킬 사용 불가 면역</font>' 부여<br/>지속 <font color=\"Red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

@@ -44,10 +44,10 @@
       "Condition": "발가스를 로열 가디언전직"
     },
     {
-      "Condition": "이멜다의 도움 하에 '찾는 물건' 클리어"
+      "Condition": "이멜다의 도움 받아 '찾는 물건' 클리어"
     },
     {
-      "Condition": "베른하르트의 도움 하에 '부드러운 사나이 클리어'"
+      "Condition": "베른하르트의 도움 받아 '부드러운 사나이 클리어'"
     }
   ],
   "HeartFetter": "생명+1150, 방어+50, 마방+30",
@@ -80,7 +80,7 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "강인한 신력",
-    "Stats": "방어 <font color=\"red\">+5%</font><br/>자신의 <font color=\"blue\">불굴</font> 효과 발동 후 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+15</font>%' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/><b>해제 불가</b>"
+    "Stats": "방어 <font color=\"red\">+5%</font><br/>자신의 <font color=\"blue\">불굴</font> 효과 발동 후 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+15%</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/><b>해제 불가</b>"
   },
   "Equip": {
     "Name": "염룡의 빛(갑옷)",

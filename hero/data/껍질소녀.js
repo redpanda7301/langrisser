@@ -45,10 +45,10 @@
       "Condition": "껍질 소녀를 사이오닉 파괴자전직"
     },
     {
-      "Condition": "율리안 도움 하에 유대의문 4 클리어"
+      "Condition": "율리안 도움 받아 유대의문 4 클리어"
     },
     {
-      "Condition": "아이언 챈슬러 도움 하에 유대의문 5 클리어"
+      "Condition": "아이언 챈슬러 도움 받아 유대의문 5 클리어"
     }
   ],
   "HeartFetter": "생명+600, 방어+30, 마방+50",
@@ -130,8 +130,8 @@
       "MagicDefRate": 80,
       "Skill": 140,
       "SkillRate": 43,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대 받는 피해량 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "자신 부대보다 생명 백분비가 높은 적에게<br/>선공으로 전투 진입 시 피해 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대 받는 피해량 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "자신 부대보다 생명 백분비가 높은 적에게<br/>선공으로 전투 진입 시 피해 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "위저드",
@@ -163,7 +163,7 @@
       "Skill": 111,
       "SkillRate": 37,
       "HeartFetterBouns1": "자신 부대보다 생명 백분비가 높은 적에게 피격으로<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10%</font>, ",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70%</font> 미만 시 전투 진입 후 피해 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70%</font> 미만 시 전투 진입 후 피해 <font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -431,7 +431,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50%</font>만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -445,7 +445,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15</font>%",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15%</font>",
       "SubSkills": null,
       "Animation": null
     },

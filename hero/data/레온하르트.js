@@ -543,7 +543,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/레온하르트.webp",
-      "Desc": "[물리피해]주위 <font color =\"red\">2</font>바퀴 내 모든 적에게 <font color =\"red\">0.2</font>배 피해를 준다.<br/><b><font color =\"red\">50%</font> 확률로 패시브 봉인</b> 지속 <font color =\"red\">2</font>행동<br/><b>공격 후 곁에 자신의 현재 스탯과 동일한 <font color =\"dark purple\">분신</font>소환</b><br/>분신은 '고유 스킬 : 주는 피해량<font color =\"red\">-30%</font>, 받는피해량 <font color =\"red\">+50</font>%',  '<font color =\"blue\">제로 스톰</font>' '<font color =\"blue\">귀염참</font>' '<font color =\"blue\">대역</font>' 스킬 보유<br/>'<font color =\"blue\">대역</font>' : <b>주변 <font color =\"red\">2</font>칸이내 소환자의 물리피해를 대신</b> 하여 공격받는다.<br/><b>분신이 사망후</b> 레온하르트 본인의 생명 <font color =\"red\">30</font>%회복 및 모든 스킬 쿨타임 <font color =\"red\">-1</font><br/><b>해당 분신 최대 <font color =\"red\">1</font>기 까지 보유가능</b>",
+      "Desc": "[물리피해]주위 <font color =\"red\">2</font>바퀴 내 모든 적에게 <font color =\"red\">0.2</font>배 피해를 준다.<br/><b><font color =\"red\">50%</font> 확률로 패시브 봉인</b> 지속 <font color =\"red\">2</font>행동<br/><b>공격 후 곁에 자신의 현재 스탯과 동일한 <font color =\"dark purple\">분신</font>소환</b><br/>분신은 '고유 스킬 : 주는 피해량<font color =\"red\">-30%</font>, 받는피해량 <font color =\"red\">+50%</font>',  '<font color =\"blue\">제로 스톰</font>' '<font color =\"blue\">귀염참</font>' '<font color =\"blue\">대역</font>' 스킬 보유<br/>'<font color =\"blue\">대역</font>' : <b>주변 <font color =\"red\">2</font>칸이내 소환자의 물리피해를 대신</b> 하여 공격받는다.<br/><b>분신이 사망후</b> 레온하르트 본인의 생명 <font color =\"red\">30%</font>회복 및 모든 스킬 쿨타임 <font color =\"red\">-1</font><br/><b>해당 분신 최대 <font color =\"red\">1</font>기 까지 보유가능</b>",
       "SubSkills": null,
       "Animation": "../img/Super/레온하르트_Ani.webp"
     }

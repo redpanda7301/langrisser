@@ -130,8 +130,8 @@
       "MagicDefRate": 86,
       "Skill": 94,
       "SkillRate": 25,
-      "HeartFetterBouns1": "받는 범위피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "범위 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "범위 피해 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "전쟁 무희",
@@ -162,8 +162,8 @@
       "MagicDefRate": 84,
       "Skill": 94,
       "SkillRate": 25,
-      "HeartFetterBouns1": "피격으로 전투 진입시<br/> 받는 마법 피해<font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"red\">7</font>개 이상 <font color=\"blue\">버프</font> 보유시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "피격으로 전투 진입시<br/> 받는 마법 피해<font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"red\">7</font>개 이상 <font color=\"blue\">버프</font> 보유시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {

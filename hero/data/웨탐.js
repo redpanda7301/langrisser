@@ -134,8 +134,8 @@
       "MagicDefRate": 69,
       "Skill": 162,
       "SkillRate": 45,
-      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 주는 피해량<font color=\"red\">+10%</font>"
     },
     {
       "Name": "혼돈의 대행자",
@@ -169,8 +169,8 @@
       "MagicDefRate": 58,
       "Skill": 164,
       "SkillRate": 42,
-      "HeartFetterBouns1": "자신이 위험 범위에 있을 경우 <br/>피격 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">80%</font> 초과 시 <br/>전투 중 주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "자신이 위험 범위에 있을 경우 <br/>피격 치명타 확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">80%</font> 초과 시 <br/>전투 중 주는 피해량<font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -404,7 +404,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
-      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 <br/>전투 중 공격 <font color=\"red\">+12</font>%.",
+      "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 <br/>전투 중 공격 <font color=\"red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -444,7 +444,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_FlyControl.webp",
-      "Desc": "[패시브]생명이 <font color=\"red\">50%</font> 이상인 경우 전투 진입시 받는 모든 피해량 <font color=\"red\">-15</font>%.",
+      "Desc": "[패시브]생명이 <font color=\"red\">50%</font> 이상인 경우 전투 진입시 받는 모든 피해량 <font color=\"red\">-15%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -484,7 +484,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -562,7 +562,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/웨탐.webp",
-      "Desc": "[패시브] : <b>'신관' 클래스와 전투 시 영웅의</b> 공격, 방어, 마방 <font color=\"red\">+15%</font> <br/><b>영웅 병종이 '마물'</b>일 경우 해당 효과는 <font color=\"red\">60</font>%로 상승 <br/>[액티브] : 지정 위치 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.15</font>배 피해 및 <font color=\"blue\">알하자드의 그림자</font> 소환 <br/>그와 동시에 자신 부대에 공격 <font color=\"red\">+20%</font> 및 면역 효과 획득 <br/> 지속 <font color=\"red\">2</font>행동 <br/>스킬 사용후 <font color =\"blue\">재행동</font> <font color=\"red\">3</font>칸",
+      "Desc": "[패시브] : <b>'신관' 클래스와 전투 시 영웅의</b> 공격, 방어, 마방 <font color=\"red\">+15%</font> <br/><b>영웅 병종이 '마물'</b>일 경우 해당 효과는 <font color=\"red\">60%</font>로 상승 <br/>[액티브] : 지정 위치 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.15</font>배 피해 및 <font color=\"blue\">알하자드의 그림자</font> 소환 <br/>그와 동시에 자신 부대에 공격 <font color=\"red\">+20%</font> 및 면역 효과 획득 <br/> 지속 <font color=\"red\">2</font>행동 <br/>스킬 사용후 <font color =\"blue\">재행동</font> <font color=\"red\">3</font>칸",
       "SubSkills": null,
       "Animation": "../img/Super/웨탐_Ani.webp"
     },
@@ -594,13 +594,13 @@
           "Name": "<b><font color=\"#0070c0\">마검의 비호</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/웨탐_2.webp",
-          "Desc": "[지휘][액티브] <font color=\"red\">3</font>칸 범위 내 적 <font color=\"red\">1</font>명 당 <b>소환자가 받는 피해</b> <font color=\"red\">-15</font>%(최대 <font color=\"red\">-45</font>%)"
+          "Desc": "[지휘][액티브] <font color=\"red\">3</font>칸 범위 내 적 <font color=\"red\">1</font>명 당 <b>소환자가 받는 피해</b> <font color=\"red\">-15%</font>(최대 <font color=\"red\">-45%</font>)"
         },
         {
           "Name": "<b><font color=\"#0070c0\">어둠의 통솔</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/웨탐_3.webp",
-          "Desc": "[지휘] 전장에 모든 <b><font color=\"purple\">어둠의 윤회 진영</font> 영웅의 생명을 제외한</b> 모든 스탯 <font color=\"red\">+5</font>%"
+          "Desc": "[지휘] 전장에 모든 <b><font color=\"purple\">어둠의 윤회 진영</font> 영웅의 생명을 제외한</b> 모든 스탯 <font color=\"red\">+5%</font>"
         },
         {
           "Name": "<b><font color=\"#0070c0\">더러운 피의 재생</font></b>",

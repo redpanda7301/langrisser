@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%%</font> 상승 최대 (<font color=\"red\">10</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">20%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-15%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%%</font> 상승 최대 (<font color=\"red\">10%</font>) <br/>턴 시작 시 부대 생명 <font color=\"red\">20%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-15%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3%%</font> 상승 최대 (<font color=\"red\">15</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">30%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-20%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3%%</font> 상승 최대 (<font color=\"red\">15%</font>) <br/>턴 시작 시 부대 생명 <font color=\"red\">30%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-20%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4%%</font> 상승 최대 (<font color=\"red\">20</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">45%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-25%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4%%</font> 상승 최대 (<font color=\"red\">20%</font>) <br/>턴 시작 시 부대 생명 <font color=\"red\">45%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-25%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         },
         {
-          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+6%%</font> 상승 최대 (<font color=\"red\">30</font>%) <br/>턴 시작 시 부대 생명 <font color=\"red\">60%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-30%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
+          "Desc": "전장에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+6%%</font> 상승 최대 (<font color=\"red\">30%</font>) <br/>턴 시작 시 부대 생명 <font color=\"red\">60%</font> 회복<br/> 생명 <font color=\"red\">100%</font> 일경우 원거리 공격 피격시  받는 피해  <font color=\"red\">-30%</font> <br/> <b><font color=\"red\">2</font><font color=\"blue\">칸 원거리 공격 반격</font></b>"
         }
       ]
     }
@@ -109,8 +109,8 @@
       "MagicDefRate": 55,
       "Skill": 154,
       "SkillRate": 54,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> <b>미만</b>시 전투 진입시 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 <font color=\"red\">100</font>%시 전투중 입히는피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> <b>미만</b>시 전투 진입시 받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "생명 <font color=\"red\">100%</font>시 전투중 입히는피해 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "류오마루",
@@ -136,7 +136,7 @@
       "Skill": 116,
       "SkillRate": 45,
       "HeartFetterBouns1": "<b>디버프 효과 지닌 대상과 전투 진입시</b> 피해량 <font color=\"red\">-10%</font> 감소",
-      "HeartFetterBouns2": "<b>피격을 받아 전투 진입시</b> 피해량 +<font color=\"red\">10</font>%"
+      "HeartFetterBouns2": "<b>피격을 받아 전투 진입시</b> 피해량 +<font color=\"red\">10%</font>"
     }
   ],
   "Materials": {
@@ -432,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

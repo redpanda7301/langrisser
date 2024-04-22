@@ -40,10 +40,10 @@ var data = [
       "Condition": "세레나를 출전시켜 시공의 균열 3-1[정예] 승리"
     },
     {
-      "Condition": "윌러의 도움 하에 웃기는 악당 등장 클리어"
+      "Condition": "윌러의 도움 받아 웃기는 악당 등장 클리어"
     },
     {
-      "Condition": "셀파닐의 도움 하에 진짜 마족? 가짜 마족? 클리어"
+      "Condition": "셀파닐의 도움 받아 진짜 마족? 가짜 마족? 클리어"
     }
   ],
   "HeartFetter": "생명+1100, 방어+40, 마방+40",
@@ -121,8 +121,8 @@ var data = [
       "MagicDefRate": 43,
       "Skill": 81,
       "SkillRate": 23,
-      "HeartFetterBouns1": "<b>받는 범위피해</b> <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>공격을 받아 진입시 주는 피해</b> <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>받는 범위피해</b> <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>공격을 받아 진입시 주는 피해</b> <font color =\"red\">+10%</font>"
     },
     {
       "Name": "가디언 마스터",
@@ -150,8 +150,8 @@ var data = [
       "MagicDefRate": 59,
       "Skill": 94,
       "SkillRate": 26,
-      "HeartFetterBouns1": "<b>공격하여 전투 진입시 <font color =\"blue\">받는</font> 피해</b> <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>공격하여 전투 진입시 <font color =\"blue\">주는</font> 피해</b> <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>공격하여 전투 진입시 <font color =\"blue\">받는</font> 피해</b> <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>공격하여 전투 진입시 <font color =\"blue\">주는</font> 피해</b> <font color =\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -560,7 +560,7 @@ var data = [
         }
       ],
       "IconImageUrl": "../img/Super/세레나.webp",
-      "Desc": "[지휘]<b>주위 <font color=\"red\">3</font>칸 범위 내 아군이 부대 생명이 <font color=\"red\">100</font>%일 때 영웅이 받는 피해 <font color=\"red\">-25</font>%</b><br/>[물리피해]<b>직선 상 단일 개체에게 <font color=\"red\">1.5</font>배 피해를 준다. 전투 진입 전 '<font color=\"blue\">전력 찌르기</font>효과 획득:'</b><br/>방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, 지속 <font color=\"#DC143C\">2턴</font><br/>위치 이동 효과 : <b>목표를 <font color =\"red\">3</font>칸 밀치며, 그 경로에 다른 부대나 진입 불가 지형이 있을 경우 <font color =\"red\">기절</font>시킴</font><br/>지속 <font color =\"red\">1</font>행동<br/><b>근접전 병사 대동 시 병사도 함꼐 공격</b><br/><b>(해당 스킬은 근접전 패널티의 영향을 받지 않는다.)</b>",
+      "Desc": "[지휘]<b>주위 <font color=\"red\">3</font>칸 범위 내 아군이 부대 생명이 <font color=\"red\">100%</font>일 때 영웅이 받는 피해 <font color=\"red\">-25%</font></b><br/>[물리피해]<b>직선 상 단일 개체에게 <font color=\"red\">1.5</font>배 피해를 준다. 전투 진입 전 '<font color=\"blue\">전력 찌르기</font>효과 획득:'</b><br/>방어의 <font color=\"#DC143C\">1.6배</font>로 공격을 대체, 지속 <font color=\"#DC143C\">2턴</font><br/>위치 이동 효과 : <b>목표를 <font color =\"red\">3</font>칸 밀치며, 그 경로에 다른 부대나 진입 불가 지형이 있을 경우 <font color =\"red\">기절</font>시킴</font><br/>지속 <font color =\"red\">1</font>행동<br/><b>근접전 병사 대동 시 병사도 함꼐 공격</b><br/><b>(해당 스킬은 근접전 패널티의 영향을 받지 않는다.)</b>",
       "SubSkills": null,
       "Animation": "../img/Super/세레나_Ani.webp"
     }

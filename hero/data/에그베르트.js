@@ -45,10 +45,10 @@
       "Condition": "에그베르트를 다크 마스터전직"
     },
     {
-      "Condition": "제시카의 도움 하에 '사제' 클리어"
+      "Condition": "제시카의 도움 받아 '사제' 클리어"
     },
     {
-      "Condition": "보젤의 도움 하에 '힘의 전승' 클리어"
+      "Condition": "보젤의 도움 받아 '힘의 전승' 클리어"
     }
   ],
   "HeartFetter": "생명+450, 방어+40, 마방+50",
@@ -516,7 +516,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
-      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50</font>%만큼 <font color=\"green\">회복</font>한다.",
+      "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50%</font>만큼 <font color=\"green\">회복</font>한다.",
       "SubSkills": null,
       "Animation": null
     },

@@ -108,8 +108,8 @@
       "MagicDefRate": 83,
       "Skill": 100,
       "SkillRate": 31,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "선공으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "선공으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "정령 검사",
@@ -134,8 +134,8 @@
       "MagicDefRate": 63,
       "Skill": 131,
       "SkillRate": 37,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">10%</font>"
     }
   ],
   "Materials": {
@@ -215,7 +215,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Zelgadiss/2.webp",
-      "Desc": "자신에게 '<font color=\"blue\">공격 지력</font> <font color=\"red\">+20</font>%' '<font color=\"blue\">부대 근접전 패널티 무효화</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸<br/>해당 스킬은 버프 지속시간을 소모하지 않음.",
+      "Desc": "자신에게 '<font color=\"blue\">공격 지력</font> <font color=\"red\">+20%</font>' '<font color=\"blue\">부대 근접전 패널티 무효화</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸<br/>해당 스킬은 버프 지속시간을 소모하지 않음.",
       "SubSkills": null,
       "Animation": null
     },
@@ -267,7 +267,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassDefup.webp",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 <font color =\"red\">+20</font>%. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, <font color =\"red\">2</font>행동 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 방어 <font color =\"red\">+20%</font>. 그리고<br/>'방어, 마방 감소','치료 방해' 면역 부여, <font color =\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },
@@ -293,7 +293,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_EarthQuake.webp",
-      "Desc": "범위 내 적들에게 <font color=\"red\">0.4</font>배의 피해<br/>'비병'에게 피해 무효<br/>피해 입힌 적에게 '<font color=\"blue\">공격,지력,방어</font> <font color=\"red\">-20</font>%' 부여<br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "범위 내 적들에게 <font color=\"red\">0.4</font>배의 피해<br/>'비병'에게 피해 무효<br/>피해 입힌 적에게 '<font color=\"blue\">공격,지력,방어</font> <font color=\"red\">-20%</font>' 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -319,7 +319,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Zelgadiss/3.webp",
-      "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>전투 전 적에게 '<font color=\"blue\">공격 지력</font> <font color=\"red\">-20</font>%' 부여<br/>지속 <font color=\"red\">2</font>행동<br/>해제 불가<br/><font color=\"blue\">근접전 병사 대동 시, 병사도 함께 공격</font><br/>자신에게 <font color=\"blue\">디버프</font>가 없는 상태로 <font color=\"blue\">스킬</font> 사용 시, 스킬 쿨타임 <font color=\"red\">-2</font><br/><font color=\"blue\">근접전 패널티 무효화</font>",
+      "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>전투 전 적에게 '<font color=\"blue\">공격 지력</font> <font color=\"red\">-20%</font>' 부여<br/>지속 <font color=\"red\">2</font>행동<br/>해제 불가<br/><font color=\"blue\">근접전 병사 대동 시, 병사도 함께 공격</font><br/>자신에게 <font color=\"blue\">디버프</font>가 없는 상태로 <font color=\"blue\">스킬</font> 사용 시, 스킬 쿨타임 <font color=\"red\">-2</font><br/><font color=\"blue\">근접전 패널티 무효화</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -333,7 +333,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefUp.webp",
-      "Desc": "부대 생명 <font color=\"red\">90%</font> 이상 시 <font color=\"blue\">방어 마방</font> <font color=\"red\">+10</font>%.",
+      "Desc": "부대 생명 <font color=\"red\">90%</font> 이상 시 <font color=\"blue\">방어 마방</font> <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -385,7 +385,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/제르가디스.webp",
-      "Desc": "[패시브] 자신보다 지력이 낮은 적과 교전 시, <font color=\"blue\">받는 피해량</font> <font color=\"red\">-10%</font><br/>(자신에게 <font color=\"blue\">디버프</font>가 없을 경우 <font color=\"red\">20</font>%로 상승)<br/>[마법 피해]단일 개체 <font color=\"red\">1.7</font>배 피해, 마물 특효<br/><font color=\"blue\">근접전 병사 대동 시, 병사도 함께 공격</font><br/>자신이 <font color=\"blue\">디버프</font>를 보유하고 있지 않을 경우<br/>공격 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font> 및 생명 <font color=\"red\">100%</font> <font color=\"green\">회복</font><br/>자신의 지력이 적의 <font color=\"red\">3</font>배를 초과할 경우, <font color=\"blue\">영웅 직접 타격</font><br/><font color=\"blue\">근접전 패널티 무효화</font>",
+      "Desc": "[패시브] 자신보다 지력이 낮은 적과 교전 시, <font color=\"blue\">받는 피해량</font> <font color=\"red\">-10%</font><br/>(자신에게 <font color=\"blue\">디버프</font>가 없을 경우 <font color=\"red\">20%</font>로 상승)<br/>[마법 피해]단일 개체 <font color=\"red\">1.7</font>배 피해, 마물 특효<br/><font color=\"blue\">근접전 병사 대동 시, 병사도 함께 공격</font><br/>자신이 <font color=\"blue\">디버프</font>를 보유하고 있지 않을 경우<br/>공격 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font> 및 생명 <font color=\"red\">100%</font> <font color=\"green\">회복</font><br/>자신의 지력이 적의 <font color=\"red\">3</font>배를 초과할 경우, <font color=\"blue\">영웅 직접 타격</font><br/><font color=\"blue\">근접전 패널티 무효화</font>",
       "SubSkills": null,
       "Animation": "../img/Super/제르가디스_Ani.webp"
     },

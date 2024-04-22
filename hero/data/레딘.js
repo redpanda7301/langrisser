@@ -53,10 +53,10 @@
       "Condition": "레딘을 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "크리스의 도움 하에 '옛 제국의 역습' 클리어"
+      "Condition": "크리스의 도움 받아 '옛 제국의 역습' 클리어"
     },
     {
-      "Condition": "엘윈의 도움 하에 '어둠의 협곡' 클리어"
+      "Condition": "엘윈의 도움 받아 '어둠의 협곡' 클리어"
     }
   ],
   "HeartFetter": "생명+1300, 방어+40, 마방+40",
@@ -72,16 +72,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-5</font>%.<br/> 영웅 생명 <font color=\"red\">100%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-5%</font>.<br/> 영웅 생명 <font color=\"red\">100%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-8</font>%.<br/> 영웅 생명 <font color=\"red\">90%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-8%</font>.<br/> 영웅 생명 <font color=\"red\">90%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-11</font>%.<br/> 영웅 생명 <font color=\"red\">75%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-11%</font>.<br/> 영웅 생명 <font color=\"red\">75%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-15</font>%.<br/> 영웅 생명 <font color=\"red\">50%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
+          "Desc": "모든 받는 피해 <font color=\"red\">-15%</font>.<br/> 영웅 생명 <font color=\"red\">50%</font> 이상인 상태에서 근접 공격을 받아 전투 진입 시 <font color=\"red\">2회</font> 공격 가능."
         }
       ]
     }
@@ -210,8 +210,8 @@
       "MagicDefRate": 73,
       "Skill": 102,
       "SkillRate": 29,
-      "HeartFetterBouns1": "자신 부대보다 생명 백분비가 높은 부대에게 피격 시<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "자신 부대보다 생명 백분비가 낮은 부대를 선공 시<br/> 전투 진입 후 피해 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "자신 부대보다 생명 백분비가 높은 부대에게 피격 시<br/>전투 진입 후 받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "자신 부대보다 생명 백분비가 낮은 부대를 선공 시<br/> 전투 진입 후 피해 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "템플러",

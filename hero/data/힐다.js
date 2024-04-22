@@ -143,8 +143,8 @@
       "MagicDefRate": 28,
       "Skill": 106,
       "SkillRate": 37,
-      "HeartFetterBouns1": "공격하여 전투진입 시<br/> 부대 받는 피해감소 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "공격받아 전투진입 시<br?> 입히는 피해  <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "공격하여 전투진입 시<br/> 부대 받는 피해감소 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "공격받아 전투진입 시<br?> 입히는 피해  <font color=\"red\">+10%</font>"
     },
     {
       "Name": "로열나이트",
@@ -469,7 +469,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Hilder/1.webp",
-      "Desc": "[패시브]근접 공격으로 전투 진입 시 공격 <font color=\"red\">+15%</font>,<br/>전투 전 <b><font color=\"blue\">적의 무기 스킬 무효화</font>(최대 생명 수치 제외)</b>,<br/>목표가 NPC 일 경우 해당 효과는 '공격 지력 <font color=\"red\">-25</font>%'로 대체, <br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "[패시브]근접 공격으로 전투 진입 시 공격 <font color=\"red\">+15%</font>,<br/>전투 전 <b><font color=\"blue\">적의 무기 스킬 무효화</font>(최대 생명 수치 제외)</b>,<br/>목표가 NPC 일 경우 해당 효과는 '공격 지력 <font color=\"red\">-25%</font>'로 대체, <br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -633,7 +633,7 @@
           "Name": "<b><font color=\"#0070c0\">호령-창진</font></b>",
           "Entries": null,
           "IconImageUrl": null,
-          "Desc": "[액티브] 호위 범위 <font color=\"red\">2</font>칸으로 확장. 지휘 범위 <font color=\"red\">3</font>칸으로 확장<br/>영웅 병종을 <img src=\"../img/troop/Icon_Occupation_Marines.webp\" width=\"20px\"><font color=\"green\">창병</font>으로 변경 <br/>피격으로 전투 진입 전 적에게 이동한 거리 <font color=\"red\">1</font>칸 당 받는 피해 <font color=\"red\">+10%</font> 부여 <br/>(최대 <font color=\"red\">50</font>%), 지속 <font color=\"red\">3</font>행동"
+          "Desc": "[액티브] 호위 범위 <font color=\"red\">2</font>칸으로 확장. 지휘 범위 <font color=\"red\">3</font>칸으로 확장<br/>영웅 병종을 <img src=\"../img/troop/Icon_Occupation_Marines.webp\" width=\"20px\"><font color=\"green\">창병</font>으로 변경 <br/>피격으로 전투 진입 전 적에게 이동한 거리 <font color=\"red\">1</font>칸 당 받는 피해 <font color=\"red\">+10%</font> 부여 <br/>(최대 <font color=\"red\">50%</font>), 지속 <font color=\"red\">3</font>행동"
         },
         {
           "Name": "<b><font color=\"#0070c0\">호령-기마돌격</font></b>",

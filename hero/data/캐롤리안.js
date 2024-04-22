@@ -87,7 +87,7 @@
     "Name": "반중력 돌격 투구(투구)",
     "Stats": "생명 583, 마방 48",
     "Icon": "캐롤리안.webp",
-    "Ability": "생명,마방 <font color=\"Red\">+5%</font><br/><font color=\"purple\">고유 스킬</font>효과 범위 <font color=\"Red\">1</font>칸 증가<br/><font color=\"blue\">이동력 저하</font> 효과 지속시간 <font color=\"red\">1</font>행동 증가, <br/>이동 <font color=\"red\">1</font>칸당 치명타 확률 및 피해 <font color=\"red\">+2%</font><br/> 최대 <font color=\"red\">10</font>%"
+    "Ability": "생명,마방 <font color=\"Red\">+5%</font><br/><font color=\"purple\">고유 스킬</font>효과 범위 <font color=\"Red\">1</font>칸 증가<br/><font color=\"blue\">이동력 저하</font> 효과 지속시간 <font color=\"red\">1</font>행동 증가, <br/>이동 <font color=\"red\">1</font>칸당 치명타 확률 및 피해 <font color=\"red\">+2%</font><br/> 최대 <font color=\"red\">10%</font>"
   },
   "Soldiers": [
     56,
@@ -129,8 +129,8 @@
       "MagicDefRate": 71,
       "Skill": 120,
       "SkillRate": 39,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "자신 부대보다 생명 백분비 높은 적을 선제 공격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량<font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "자신 부대보다 생명 백분비 높은 적을 선제 공격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "스트라이크 마스터",
@@ -161,8 +161,8 @@
       "MagicDefRate": 65,
       "Skill": 120,
       "SkillRate": 39,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만일 경우 전투 진입 시<br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만일 경우 전투 진입 후<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만일 경우 전투 진입 시<br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만일 경우 전투 진입 후<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -423,7 +423,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf2.webp",
-      "Desc": "공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12</font>%",
+      "Desc": "공격하여 전투 진입 시 전투 중 방어 <font color=\"red\">+12%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -437,7 +437,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_KnightWave.webp",
-      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"Red\">80%</font> 이상일 경우<br/>전투 중 받는 피해량-<font color=\"Red\">-30</font>%.",
+      "Desc": "공격하여 전투 진입 시 부대 생명이 <font color=\"Red\">80%</font> 이상일 경우<br/>전투 중 받는 피해량-<font color=\"Red\">-30%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -463,7 +463,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Javelin.webp",
-      "Desc": "단일 개체 <font color=\"red\">0.8</font>배 피해를 입힘.<br/>공격 전 이동거리 <font color=\"red\">1</font>칸마다 주는 피해량 <font color=\"red\">+20</font>%(최대 <font color=\"red\">+60</font>%).<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸<br/><font color=\"blue\">근접 병사를 휴대 시 병사도 동시에 공격 가능</font>",
+      "Desc": "단일 개체 <font color=\"red\">0.8</font>배 피해를 입힘.<br/>공격 전 이동거리 <font color=\"red\">1</font>칸마다 주는 피해량 <font color=\"red\">+20%</font>(최대 <font color=\"red\">+60%</font>).<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸<br/><font color=\"blue\">근접 병사를 휴대 시 병사도 동시에 공격 가능</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -541,7 +541,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Carolian/2.webp",
-      "Desc": "자신 부대 이동력 <font color=\"red\">+2</font><br/>'선공으로 전투 진입 시 피해 <font color=\"red\">+10</font>%' 및 '<font color=\"blue\">범위 스킬 사거리</font> <font color=\"red\">+1</font>' 효과 부여<br/><b>해제 불가</b><br/>지속 <font color=\"red\">3</font>행동",
+      "Desc": "자신 부대 이동력 <font color=\"red\">+2</font><br/>'선공으로 전투 진입 시 피해 <font color=\"red\">+10%</font>' 및 '<font color=\"blue\">범위 스킬 사거리</font> <font color=\"red\">+1</font>' 효과 부여<br/><b>해제 불가</b><br/>지속 <font color=\"red\">3</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -567,7 +567,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1</font>의 피해를 준다.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60</font>%)<br/>적 부대에게 '<font color=\"blue\">치료 방해</font>' 부여<br/>지속 <font color=\"#DC143C\">1</font>행동",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1</font>의 피해를 준다.<br/>공격 전 이동거리 1칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)<br/>적 부대에게 '<font color=\"blue\">치료 방해</font>' 부여<br/>지속 <font color=\"#DC143C\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -593,7 +593,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/캐롤리안.webp",
-      "Desc": "지정 장소 <font color=\"Red\">2</font>칸 범위 안 적에게 <font color=\"Red\">0.4</font>배 피해 및 해당 지형에 '<font color=\"blue\">붕괴의 기창</font>' 효과 부여 <br/><font color=\"blue\">붕괴의 기창</font> : [지휘] <font color=\"red\">2</font>칸 범위 안 적이 캐롤리안과 교전시 '공격 및 지력 <font color=\"red\">-15</font>%',<br/><font color=\"blue\">붕괴의 기창</font> 밖 지형으로 이동시 칸마다 추가 이동력 <font color=\"red\">1</font>칸 소모,<br/>피해를 입히기 전 혹은 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/><font color=\"blue\">고정 피해</font>수치는 목표의 추가 이동력에 비례하며<br/>최대 캐롤리안 공격력의 <font color=\"red\">3.5</font>배 수치<br/>해당 스킬로 적이 부여한 지형 효과를 제거 시 추가로 직선 이동 <font color=\"red\">4</font>칸 가능<br/><font color=\"blue\">붕괴의 기창</font>지형 효과는 우선 순위를 가진다.",
+      "Desc": "지정 장소 <font color=\"Red\">2</font>칸 범위 안 적에게 <font color=\"Red\">0.4</font>배 피해 및 해당 지형에 '<font color=\"blue\">붕괴의 기창</font>' 효과 부여 <br/><font color=\"blue\">붕괴의 기창</font> : [지휘] <font color=\"red\">2</font>칸 범위 안 적이 캐롤리안과 교전시 '공격 및 지력 <font color=\"red\">-15%</font>',<br/><font color=\"blue\">붕괴의 기창</font> 밖 지형으로 이동시 칸마다 추가 이동력 <font color=\"red\">1</font>칸 소모,<br/>피해를 입히기 전 혹은 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/><font color=\"blue\">고정 피해</font>수치는 목표의 추가 이동력에 비례하며<br/>최대 캐롤리안 공격력의 <font color=\"red\">3.5</font>배 수치<br/>해당 스킬로 적이 부여한 지형 효과를 제거 시 추가로 직선 이동 <font color=\"red\">4</font>칸 가능<br/><font color=\"blue\">붕괴의 기창</font>지형 효과는 우선 순위를 가진다.",
       "SubSkills": null,
       "Animation": "../img/Super/캐롤리안_Ani.webp"
     }

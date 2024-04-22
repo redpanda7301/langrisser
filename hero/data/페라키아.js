@@ -44,10 +44,10 @@
       "Condition": "페라키아가 미라지 퀸전직"
     },
     {
-      "Condition": "보젤의 도움 하에 운명의 이끌림 클리어"
+      "Condition": "보젤의 도움 받아 운명의 이끌림 클리어"
     },
     {
-      "Condition": "젤다의 도움 하에 궁극의 형태 클리어"
+      "Condition": "젤다의 도움 받아 궁극의 형태 클리어"
     }
   ],
   "HeartFetter": "생명+650, 방어+40, 마방+40",
@@ -80,7 +80,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "환마의 속삭임",
-    "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"blue\">내면의 악마</font> 사용 후 '<font color=\"blue\">상성인 부대와 교전 시 받는 피해</font> <font color=\"red\">+10</font>%' 효과 추가 부여<br/>지속 <font color=\"red\">1</font>행동",
+    "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"blue\">내면의 악마</font> 사용 후 '<font color=\"blue\">상성인 부대와 교전 시 받는 피해</font> <font color=\"red\">+10%</font>' 효과 추가 부여<br/>지속 <font color=\"red\">1</font>행동",
   },
   "Equip": {
     "Name": "악몽의 속삭임(투구)",

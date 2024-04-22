@@ -80,7 +80,7 @@
     "Name": "영혼의 에메랄드 가시 창(무기)",
     "Stats": "생명 583, 공격 85",
     "Icon": "아마데우스.webp",
-    "Ability": "공격,방어 <font color=\"red\">+5%</font><br/>자신이 보유한 '<font color=\"purple\">신목의 갑옷</font>' <font color=\"red\">1</font>스택 마다 범위 피해 <font color=\"red\">+5%</font><br/>부대 생명 <font color=\"red\">40%</font> 초과할 경우<br/>사망 시 생명 <font color=\"red\">20</font>%로 <font color=\"blue\">부활</font> 및 <font color=\"purple\">신목의 갑옷</font> <font color=\"red\">4</font>스택 획득<br/>해당 효과는 최대 <font color=\"red\">2</font>회 발동"
+    "Ability": "공격,방어 <font color=\"red\">+5%</font><br/>자신이 보유한 '<font color=\"purple\">신목의 갑옷</font>' <font color=\"red\">1</font>스택 마다 범위 피해 <font color=\"red\">+5%</font><br/>부대 생명 <font color=\"red\">40%</font> 초과할 경우<br/>사망 시 생명 <font color=\"red\">20%</font>로 <font color=\"blue\">부활</font> 및 <font color=\"purple\">신목의 갑옷</font> <font color=\"red\">4</font>스택 획득<br/>해당 효과는 최대 <font color=\"red\">2</font>회 발동"
   },
   "Soldiers": [
     57,
@@ -120,8 +120,8 @@
       "MagicDefRate": 71,
       "Skill": 103,
       "SkillRate": 34,
-      "HeartFetterBouns1": "부대 생명 백분비가 자신보다 높은 부대에게 피격으로 전투 진입 시<br/>받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 백분비가 자신보다 높은 부대에게 피격으로 전투 진입 시<br/>받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "광야의 기병",
@@ -149,8 +149,8 @@
       "MagicDefRate": 67,
       "Skill": 103,
       "SkillRate": 34,
-      "HeartFetterBouns1": "자신이 위험 범위에 있을 때<br/> 받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>치명타 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "자신이 위험 범위에 있을 때<br/> 받는 치명타 확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>치명타 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -432,7 +432,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_SpearSoul.webp",
-      "Desc": "[패시브]근접한 아군 부대를 물리 공격 피격시 <font color=\"blue\">호위</font><br/>[액티브]<font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 증가<br/>'<font color=\"blue\">응수</font>','<font color=\"blue\">미늘</font>'효과를 부여<br/>지속 <font color=\"red\">3</font>행동<br/><font color=\"blue\">응수</font> : 공격을 받을 시 공격의 <font color=\"red\">7</font>%를 방어에 추가.<br/><font color=\"blue\">미늘</font> : 전투 종료 후 적 부대에게 영웅 방어 <font color=\"red\">2.5</font>배만큼의 <font color=\"blue\">고정 피해</font>를 준다.",
+      "Desc": "[패시브]근접한 아군 부대를 물리 공격 피격시 <font color=\"blue\">호위</font><br/>[액티브]<font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 증가<br/>'<font color=\"blue\">응수</font>','<font color=\"blue\">미늘</font>'효과를 부여<br/>지속 <font color=\"red\">3</font>행동<br/><font color=\"blue\">응수</font> : 공격을 받을 시 공격의 <font color=\"red\">7%</font>를 방어에 추가.<br/><font color=\"blue\">미늘</font> : 전투 종료 후 적 부대에게 영웅 방어 <font color=\"red\">2.5</font>배만큼의 <font color=\"blue\">고정 피해</font>를 준다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -458,7 +458,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Javelin.webp",
-      "Desc": "단일 개체 <font color=\"red\">0.8</font>배 피해를 입힘.<br/>공격 전 이동거리 <font color=\"red\">1</font>칸마다 주는 피해량 <font color=\"red\">+20</font>%(최대 <font color=\"red\">+60</font>%).<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸<br/><font color=\"blue\">근접 병사를 휴대 시 병사도 동시에 공격 가능</font>",
+      "Desc": "단일 개체 <font color=\"red\">0.8</font>배 피해를 입힘.<br/>공격 전 이동거리 <font color=\"red\">1</font>칸마다 주는 피해량 <font color=\"red\">+20%</font>(최대 <font color=\"red\">+60%</font>).<br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"red\">2</font>칸<br/><font color=\"blue\">근접 병사를 휴대 시 병사도 동시에 공격 가능</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -536,7 +536,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_KnightCrash.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1</font>의 피해를 준다.<br/>공격 전 이동거리 <font color=\"Red\">1</font>칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60</font>%)<br/>적 부대에게 '<font color=\"blue\">치료 방해</font>' 부여<br/>지속 <font color=\"#DC143C\">1</font>행동",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1</font>의 피해를 준다.<br/>공격 전 이동거리 <font color=\"Red\">1</font>칸마다 주는 피해량 <font color=\"#DC143C\">+20%</font> (최대 <font color=\"#DC143C\">+60%</font>)<br/>적 부대에게 '<font color=\"blue\">치료 방해</font>' 부여<br/>지속 <font color=\"#DC143C\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -562,7 +562,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/아마데우스.webp",
-      "Desc": "[지휘] 주위 <font color=\"red\">3</font>칸 범위 안에 <font color=\"blue\">쉴드</font> 효과를 지닌 아군의 <font color=\"blue\">공격 지력</font> <font color=\"red\">+10%</font><br/>[패시브]'<font color=\"green\">숲</font>' '<font color=\"green\">산지</font>' '<font color=\"green\">초원</font>'에서 행동 종료 시 이동력 <font color=\"red\">+2</font><br/>지속 <font color=\"red\">1</font>행동<br/>스킬 사용 시 <font color=\"blue\">모든 디버프 면역</font><br/>순서에 따라 <font color=\"red\">0.2</font>배 <font color=\"blue\">범위 피해</font>를 <font color=\"red\">3</font>회 입히며<br/>스킬 쿨타임은 <font color=\"red\">3</font>행동으로 변경<br/>만약 적의 최대 생명이 자신의 <font color=\"red\">5</font>배를 초과할 경우 피해 <font color=\"red\">+300</font>%",
+      "Desc": "[지휘] 주위 <font color=\"red\">3</font>칸 범위 안에 <font color=\"blue\">쉴드</font> 효과를 지닌 아군의 <font color=\"blue\">공격 지력</font> <font color=\"red\">+10%</font><br/>[패시브]'<font color=\"green\">숲</font>' '<font color=\"green\">산지</font>' '<font color=\"green\">초원</font>'에서 행동 종료 시 이동력 <font color=\"red\">+2</font><br/>지속 <font color=\"red\">1</font>행동<br/>스킬 사용 시 <font color=\"blue\">모든 디버프 면역</font><br/>순서에 따라 <font color=\"red\">0.2</font>배 <font color=\"blue\">범위 피해</font>를 <font color=\"red\">3</font>회 입히며<br/>스킬 쿨타임은 <font color=\"red\">3</font>행동으로 변경<br/>만약 적의 최대 생명이 자신의 <font color=\"red\">5</font>배를 초과할 경우 피해 <font color=\"red\">+300%</font>",
       "SubSkills": [
         {
           "Name": "<b><font color=\"#0070c0\">맹렬한 관통</font></b>",

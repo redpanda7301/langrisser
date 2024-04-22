@@ -139,8 +139,8 @@
       "MagicDefRate": 50,
       "Skill": 159,
       "SkillRate": 50,
-      "HeartFetterBouns1": "<b>부대 생명력이 <font color =\"red\">70%</font> 미만일시</b><br/>전투진입시 받는 피해량<font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 생명력이 <font color =\"red\">100%</font> 일시</b><br/>주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명력이 <font color =\"red\">70%</font> 미만일시</b><br/>전투진입시 받는 피해량<font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>부대 생명력이 <font color =\"red\">100%</font> 일시</b><br/>주는 피해량 <font color =\"red\">+10%</font>"
     },
     {
       "Name": "페가수스 별의 기사",
@@ -174,8 +174,8 @@
       "MagicDefRate": 70,
       "Skill": 176,
       "SkillRate": 70,
-      "HeartFetterBouns1": "<b>공격하여 전투 진입시</b><br/><b>부대가</b> 받는 피해량<font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>공격받아 전투 진입시</b><br/>주는 피해량 <font color =\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>공격하여 전투 진입시</b><br/><b>부대가</b> 받는 피해량<font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>공격받아 전투 진입시</b><br/>주는 피해량 <font color =\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -450,7 +450,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "[패시브]<b>주위 <font color =\"red\">3</font>칸 내 아군 부대가 전투 시</b> 기술 <font color =\"red\">+20</font>%.",
+      "Desc": "[패시브]<b>주위 <font color =\"red\">3</font>칸 내 아군 부대가 전투 시</b> 기술 <font color =\"red\">+20%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -582,7 +582,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Towa2.webp",
-      "Desc": "[물리 피해]단일 개체 <font color =\"red\">1.5</font>배, 자신에게 걸린 버프 <font color =\"red\">1</font>개당 피해 <font color =\"red\">+2%</font> (최대 <font color =\"red\">10</font>%) <br/><b>전투 진입 전 자신에게 <font color =\"blue\">초절 강화 특수 효과</font>가 있을 경우 선제공격</b><br/><b>앞 조건을 만족한 상태에서 적에게 <font color =\"blue\">초절 강화 특수 효과</font>가 <font color =\"red\">없을 경우</font> <font color =\"blue\">호위 무시</font></b>",
+      "Desc": "[물리 피해]단일 개체 <font color =\"red\">1.5</font>배, 자신에게 걸린 버프 <font color =\"red\">1</font>개당 피해 <font color =\"red\">+2%</font> (최대 <font color =\"red\">10%</font>) <br/><b>전투 진입 전 자신에게 <font color =\"blue\">초절 강화 특수 효과</font>가 있을 경우 선제공격</b><br/><b>앞 조건을 만족한 상태에서 적에게 <font color =\"blue\">초절 강화 특수 효과</font>가 <font color =\"red\">없을 경우</font> <font color =\"blue\">호위 무시</font></b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -612,7 +612,7 @@
           "Name": "<b><font color=\"#0070c0\">진법 - 절벽</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/토와_2.webp",
-          "Desc": "[지원]'<font color =\"blue\">진법 - 절벽</font>'효과 획득 :<br/>[지휘]<b>주위 <font color =\"red\">3</font>칸 범위 내 아군의 방어 <font color =\"red\">+15</font>%</b>,<br/>'<font color =\"blue\">고정 피해</font>' '<font color =\"blue\">위치 이동</font>' 면역, 지속 <font color =\"red\">3</font>행동, <b>해제 불가</b>"
+          "Desc": "[지원]'<font color =\"blue\">진법 - 절벽</font>'효과 획득 :<br/>[지휘]<b>주위 <font color =\"red\">3</font>칸 범위 내 아군의 방어 <font color =\"red\">+15%</font></b>,<br/>'<font color =\"blue\">고정 피해</font>' '<font color =\"blue\">위치 이동</font>' 면역, 지속 <font color =\"red\">3</font>행동, <b>해제 불가</b>"
         }
       ],
       "Animation": "../img/Super/토와_Ani.webp"

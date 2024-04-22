@@ -80,7 +80,7 @@
     "Name": "악을 벌하는 협객(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "타탈리아.webp",
-    "Ability": "생명, 방어 <font color=\"red\">+5%</font><br/><font color=\"purple\">악념감지</font>를 사용한 적 부대 주위 <font color=\"red\">3</font>칸 범위 안 적과 교전 시 피해 <font color=\"red\">+10%</font><br/><font color=\"blue\">악념잠식</font>으로 적 격파 후 행동 종료 시 '부대 생명 <font color=\"red\">70</font>%이상일 경우 <font color=\"blue\">적의 일반 공격 및 스킬 타게팅이 되지 않음</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
+    "Ability": "생명, 방어 <font color=\"red\">+5%</font><br/><font color=\"purple\">악념감지</font>를 사용한 적 부대 주위 <font color=\"red\">3</font>칸 범위 안 적과 교전 시 피해 <font color=\"red\">+10%</font><br/><font color=\"blue\">악념잠식</font>으로 적 격파 후 행동 종료 시 '부대 생명 <font color=\"red\">70%</font>이상일 경우 <font color=\"blue\">적의 일반 공격 및 스킬 타게팅이 되지 않음</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
   },
   "Soldiers": [
     8,
@@ -121,8 +121,8 @@
       "MagicDefRate": 59,
       "Skill": 299,
       "SkillRate": 86,
-      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대에게 피격 당해 전투 진입 시<br/>받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시 전투 진입 후<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대에게 피격 당해 전투 진입 시<br/>받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시 전투 진입 후<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "희망의 꽃",
@@ -150,8 +150,8 @@
       "MagicDefRate": 67,
       "Skill": 256,
       "SkillRate": 80,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만 시 전투 진입 후<br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 적 선공 시 전투 진입 후<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">70%</font> 미만 시 전투 진입 후<br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "생명 백분비가 자신 부대보다 높은 적 선공 시 전투 진입 후<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -421,7 +421,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "주위 <font color=\"red\">3</font>칸 내 아군 부대 기술 <font color=\"red\">+20</font>%.",
+      "Desc": "주위 <font color=\"red\">3</font>칸 내 아군 부대 기술 <font color=\"red\">+20%</font>.",
       "SubSkills": null,
       "Animation": null
     },    

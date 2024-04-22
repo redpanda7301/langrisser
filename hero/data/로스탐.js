@@ -84,7 +84,7 @@
     "Name": "사막의 광풍(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "로스탐.webp",
-    "Ability": "생명 <font color=\"red\">+5%</font>, 방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">분노의 격투</font> 패시브 효과 발동 시, '<font color=\"blue\">치명타 확률</font> <font color=\"red\">+10</font>%' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>자신이 '<font color=\"orange\">사막</font>' 지형에 있을 경우에도 <font color=\"blue\">해당 패시브</font>를 발동."
+    "Ability": "생명 <font color=\"red\">+5%</font>, 방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">분노의 격투</font> 패시브 효과 발동 시, '<font color=\"blue\">치명타 확률</font> <font color=\"red\">+10%</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>자신이 '<font color=\"orange\">사막</font>' 지형에 있을 경우에도 <font color=\"blue\">해당 패시브</font>를 발동."
   },
   "Soldiers": [
     31,
@@ -129,8 +129,8 @@
       "MagicDefRate": 63,
       "Skill": 195,
       "SkillRate": 53,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해<font colo=\"red\">-10</font>%",
-      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 부대를 선공해 전투 진입 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해<font colo=\"red\">-10%</font>",
+      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 부대를 선공해 전투 진입 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "저항운동 지도자",
@@ -161,8 +161,8 @@
       "MagicDefRate": 58,
       "Skill": 320,
       "SkillRate": 86,
-      "HeartFetterBouns1": "원거리 피격으로 전투 진입 시<br/> 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70</font>미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "원거리 피격으로 전투 진입 시<br/> 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">70</font>미만 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -484,7 +484,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/36.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해.<br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20</font>%</font><br/> 지속 <font color=\"red\">1</font>행동",
+      "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해.<br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20%</font></font><br/> 지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -510,7 +510,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_BladeCrash2.webp",
-      "Desc": "호위를 무시하고 단일 개체에게 <font color=\"red\">1.2</font>배 피해 및<br/>치명타율 <font color=\"red\">+20</font>%.",
+      "Desc": "호위를 무시하고 단일 개체에게 <font color=\"red\">1.2</font>배 피해 및<br/>치명타율 <font color=\"red\">+20%</font>.",
       "SubSkills": null,
       "Animation": null
     },

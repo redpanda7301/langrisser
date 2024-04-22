@@ -240,8 +240,8 @@
       "MagicDefRate": 92,
       "Skill": 111,
       "SkillRate": 31,
-      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "디버프를 보유한 부대와 전투 시<br/>주는 피해량  <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "디버프를 보유한 부대와 전투 시<br/>주는 피해량  <font color=\"red\">+10%</font>"
     },
     {
       "Name": "오라클",

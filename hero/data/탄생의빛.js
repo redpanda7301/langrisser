@@ -138,8 +138,8 @@
       "MagicDefRate": 84,
       "Skill": 96,
       "SkillRate": 27,
-      "HeartFetterBouns1": "<b>디버프가 걸린 부대에게 공격받아 전투 진입 시</b> 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>디버프가 걸린 부대와 전투 시</b> 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>디버프가 걸린 부대에게 공격받아 전투 진입 시</b> 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>디버프가 걸린 부대와 전투 시</b> 주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "세인트",
@@ -173,8 +173,8 @@
       "MagicDefRate": 84,
       "Skill": 96,
       "SkillRate": 36,
-      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">100</font>%일 경우</b><br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>자신보다 생명 백분비가 높은 적을 선공 시</b><br/>전투 진입 후 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>부대 생명 <font color=\"red\">100%</font>일 경우</b><br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>자신보다 생명 백분비가 높은 적을 선공 시</b><br/>전투 진입 후 피해 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -525,7 +525,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Metro.webp",
-      "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.36</font>배의 광역 피해를 준다.<br/>'보병'에게 더 큰 피해를 준다. <br/>적은 다음 행동 종료 시 생명의 <font color=\"red\">20</font>%를 잃는다.",
+      "Desc": "[마법 피해]범위 내 적들을 공격해 <font color=\"red\">0.36</font>배의 광역 피해를 준다.<br/>'보병'에게 더 큰 피해를 준다. <br/>적은 다음 행동 종료 시 생명의 <font color=\"red\">20%</font>를 잃는다.",
       "SubSkills": null,
       "Animation": null
     },

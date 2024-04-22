@@ -131,8 +131,8 @@
       "MagicDefRate": 56,
       "Skill": 145,
       "SkillRate": 43,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70%</font> 미만 시 <br/>전투 진입 후 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">70%</font> 미만 시 <br/>전투 진입 후 받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "집정관",
@@ -163,8 +163,8 @@
       "MagicDefRate": 57,
       "Skill": 121,
       "SkillRate": 40,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80%</font> 초과 시 피격 치명타 확률 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 적을 공격해 전투 진입 후<br/>주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80%</font> 초과 시 피격 치명타 확률 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "자신보다 생명 백분비가 높은 적을 공격해 전투 진입 후<br/>주는 피해량 <font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -384,7 +384,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Consul/1.webp",
-      "Desc": "직선에 있는 단일 개체 <font color=\"red\">1.4</font>배 피해<br/>전투 전 이동 거리 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">+5%</font> (최대 <font color=\"red\">+15</font>%)<br/><font color=\"blue\">호위</font>를 받지 않은 적 공격 시 <font color=\"blue\">위치 이동</font> 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 <font color=\"red\">2</font>칸 밀침<br/><b>근접전 병사 대동 시 병사도 함께 공격</b><br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
+      "Desc": "직선에 있는 단일 개체 <font color=\"red\">1.4</font>배 피해<br/>전투 전 이동 거리 <font color=\"red\">1</font>칸당 피해 <font color=\"red\">+5%</font> (최대 <font color=\"red\">+15%</font>)<br/><font color=\"blue\">호위</font>를 받지 않은 적 공격 시 <font color=\"blue\">위치 이동</font> 효과 부여<br/><font color=\"blue\">위치 이동</font> : 목표를 <font color=\"red\">2</font>칸 밀침<br/><b>근접전 병사 대동 시 병사도 함께 공격</b><br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -436,7 +436,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "단일 적 부대를 공격해 <font color=\"Red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"Red\">30</font>%만큼 <font color=\"green\">생명 회복</font> 한다.",
+      "Desc": "단일 적 부대를 공격해 <font color=\"Red\">1.5</font>배의 피해를 준다.<br/>전투 후 가한 피해량 <font color=\"Red\">30%</font>만큼 <font color=\"green\">생명 회복</font> 한다.",
       "SubSkills": null,
       "Animation": null
     },
@@ -450,7 +450,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Consul/2.webp",
-      "Desc": "<font color=\"red\">사망</font> 시 생명 <font color=\"red\">10%</font> <font color=\"green\">회복</font> 후 <font color=\"blue\">부활</font><br/><font color=\"blue\">물 속</font>에 있을 경우 <font color=\"green\">회복</font>량 <font color=\"red\">60</font>%로 상승<br/>최대 <font color=\"red\">1</font>회 발동",
+      "Desc": "<font color=\"red\">사망</font> 시 생명 <font color=\"red\">10%</font> <font color=\"green\">회복</font> 후 <font color=\"blue\">부활</font><br/><font color=\"blue\">물 속</font>에 있을 경우 <font color=\"green\">회복</font>량 <font color=\"red\">60%</font>로 상승<br/>최대 <font color=\"red\">1</font>회 발동",
       "SubSkills": null,
       "Animation": null
     },
@@ -530,7 +530,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },    

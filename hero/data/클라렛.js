@@ -58,10 +58,10 @@
       "Condition": "클라렛을 출전시켜 '시공의 균열 3-1[정예]' 클리어"
     },
     {
-      "Condition": "루나의 도움 하에 '유품' 클리어"
+      "Condition": "루나의 도움 받아 '유품' 클리어"
     },
     {
-      "Condition": "시그마의 도움 하에 '칼자스의 혈통' 클리어"
+      "Condition": "시그마의 도움 받아 '칼자스의 혈통' 클리어"
     }
   ],
   "HeartFetter": "생명+600, 방어+40, 마방+50",
@@ -94,13 +94,13 @@
   "SPTalent": null,
   "Second_Awaken": {
     "Name" : "귀향의 길",
-    "Stats": "이동력이 높을 수록 공격력 증가 (최대 <font color=\"red\">+12</font>%)<br/>선공으로 전투 진입 시 <font color=\"blue\">부대 받는 피해 감소</font>(최대 <font color=\"red\">-20</font>%)"
+    "Stats": "이동력이 높을 수록 공격력 증가 (최대 <font color=\"red\">+12%</font>)<br/>선공으로 전투 진입 시 <font color=\"blue\">부대 받는 피해 감소</font>(최대 <font color=\"red\">-20%</font>)"
   },
   "Equip": {
     "Name": "칼자스의 전투 투구(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "클라렛.webp",
-    "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/><b>주위 <font color=\"red\">2</font>칸 내 아군이 없을 경우</b> 생명 회복 <font color=\"red\">+15%</font> <br/><b>근접 공격 받아 전투 진입 시</b> 피해 <font color=\"red\">+20%</font>, 받는 피해 <font color=\"red\">-20</font>%"
+    "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/><b>주위 <font color=\"red\">2</font>칸 내 아군이 없을 경우</b> 생명 회복 <font color=\"red\">+15%</font> <br/><b>근접 공격 받아 전투 진입 시</b> 피해 <font color=\"red\">+20%</font>, 받는 피해 <font color=\"red\">-20%</font>"
   },
   "Soldiers": [
     28,

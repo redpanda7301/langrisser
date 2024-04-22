@@ -115,8 +115,8 @@
       "MagicDefRate": 68,
       "Skill": 117,
       "SkillRate": 43,
-      "HeartFetterBouns1": "부대 생명이 <font color =\"red\">80%</font> 초과 시<br/> 받는 치명타 확률<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명이 <font color =\"red\">100</font>%시 <br/>치명타 확률 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명이 <font color =\"red\">80%</font> 초과 시<br/> 받는 치명타 확률<font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명이 <font color =\"red\">100%</font>시 <br/>치명타 확률 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "영웅",
@@ -144,8 +144,8 @@
       "MagicDefRate": 68,
       "Skill": 154,
       "SkillRate": 48,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color =\"red\">-10</font>%",
-      "HeartFetterBouns2": "피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해 <font color =\"red\">-10%</font>",
+      "HeartFetterBouns2": "피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -375,7 +375,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/1.webp",
-      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30</font>%의 <font color=\"green\">생명 회복</font>",
+      "Desc": "근접 공격으로 전투 진입 시 전투 후 <font color=\"Red\">30%</font> 확률로 <br/>이번 전투에서 준 피해량 <font color=\"Red\">30%</font>의 <font color=\"green\">생명 회복</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -415,7 +415,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
-      "Desc": "주위 <font color=\"red\">3</font>칸 내 아군 부대 기술 <font color=\"red\">+20</font>%.",
+      "Desc": "주위 <font color=\"red\">3</font>칸 내 아군 부대 기술 <font color=\"red\">+20%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -429,7 +429,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 <br/>적의 <font color=\"blue\">공격, 지력  <font color=\"red\">-20%</font></font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -443,7 +443,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 방어 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -495,7 +495,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Support.webp",
-      "Desc": "단일 개체 <font color=\"Red\">1.7</font>배 피해<br/>전투 전 공격의 <font color=\"Red\">20</font>%가 방어에 추가, 적 부대에게 <font color=\"blue\">패시브 봉인</font> 부여<br/>지속 <font color=\"Red\">2</font>행동 지속,<br/>해제 불가",
+      "Desc": "단일 개체 <font color=\"Red\">1.7</font>배 피해<br/>전투 전 공격의 <font color=\"Red\">20%</font>가 방어에 추가, 적 부대에게 <font color=\"blue\">패시브 봉인</font> 부여<br/>지속 <font color=\"Red\">2</font>행동 지속,<br/>해제 불가",
       "SubSkills": null,
       "Animation": null
     },
@@ -521,7 +521,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Blanche/2.webp",
-      "Desc": "자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font> 및 <font color=\"green\">부대 생명</font> <font color=\"red\">30%</font> <font color=\"green\">회복</font><br/>(생명 <font color=\"red\">50%</font> 미만 시, <font color=\"green\">해당 치료 효과</font> <font color=\"red\">+100</font>%)<br/><font color=\"blue\">증원</font> 효과 획득<br/><font color=\"blue\">증원</font> : 행동 종료 시 자신 <font color=\"green\">부대 생명</font> <font color=\"red\">20%</font> <font color=\"green\">회복</font><br/>지속 <font color=\"red\">2</font>행동",
+      "Desc": "자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font> 및 <font color=\"green\">부대 생명</font> <font color=\"red\">30%</font> <font color=\"green\">회복</font><br/>(생명 <font color=\"red\">50%</font> 미만 시, <font color=\"green\">해당 치료 효과</font> <font color=\"red\">+100%</font>)<br/><font color=\"blue\">증원</font> 효과 획득<br/><font color=\"blue\">증원</font> : 행동 종료 시 자신 <font color=\"green\">부대 생명</font> <font color=\"red\">20%</font> <font color=\"green\">회복</font><br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -548,7 +548,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/블랑쉬.webp",
-      "Desc": "적 <font color=\"red\">1</font>명을 선택 후 '<font color=\"blue\">결투</font>' 효과 부여<br/><font color=\"blue\">결투</font> : <b>시전자를 제외한 다른 적을 일반 공격 및 스킬의 타겟으로 삼을 수 없음</b><br/><b>해제 불가</b><br/>지속 <font color=\"red\">2</font>행동<br/>아레나가 아닌 경우 해당 효과는 '<font color=\"blue\">주는 피해</font> <font color=\"red\">-30</font>%'로 대체<br/>스킬 사용 후 자신 공방 <font color=\"red\">+20%</font><br/>지속 <font color=\"red\">2</font>행동 및 '<font color=\"blue\">유도</font>' 효과 획득<br/><font color=\"blue\">유도</font> : 결투 효과를 보유한 적과 교전 시, <font color=\"blue\">받는 치명타 확률</font> <font color=\"red\">-100%</font><br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">2</font>행동<br/>'<font color=\"blue\">유도</font>' 효과를 보유하는 동안 해당 스킬은 '<font color=\"blue\">니케아 이지스</font>'로 변경",
+      "Desc": "적 <font color=\"red\">1</font>명을 선택 후 '<font color=\"blue\">결투</font>' 효과 부여<br/><font color=\"blue\">결투</font> : <b>시전자를 제외한 다른 적을 일반 공격 및 스킬의 타겟으로 삼을 수 없음</b><br/><b>해제 불가</b><br/>지속 <font color=\"red\">2</font>행동<br/>아레나가 아닌 경우 해당 효과는 '<font color=\"blue\">주는 피해</font> <font color=\"red\">-30%</font>'로 대체<br/>스킬 사용 후 자신 공방 <font color=\"red\">+20%</font><br/>지속 <font color=\"red\">2</font>행동 및 '<font color=\"blue\">유도</font>' 효과 획득<br/><font color=\"blue\">유도</font> : 결투 효과를 보유한 적과 교전 시, <font color=\"blue\">받는 치명타 확률</font> <font color=\"red\">-100%</font><br/><b>면역 및 해제 불가</b><br/>지속 <font color=\"red\">2</font>행동<br/>'<font color=\"blue\">유도</font>' 효과를 보유하는 동안 해당 스킬은 '<font color=\"blue\">니케아 이지스</font>'로 변경",
       "SubSkills": [
         {
           "Name": "니케아 이지스",

@@ -92,29 +92,29 @@
       "Icon": "SP_Gift_Mathew.webp",
       "Abilities": [
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+1%</font> (최대 <font color=\"red\">5</font>%) <br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">5</font>행동"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+1%</font> (최대 <font color=\"red\">5%</font>) <br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">5</font>행동"
         },
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%</font> (최대 <font color=\"red\">10</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">4</font>행동"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%</font> (최대 <font color=\"red\">10%</font>)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">4</font>행동"
         },
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%</font> (최대 <font color=\"red\">10</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">4</font>행동"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+2%</font> (최대 <font color=\"red\">10%</font>)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">4</font>행동"
         },
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3%</font> (최대 <font color=\"red\">15</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+3%</font> (최대 <font color=\"red\">15%</font>)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4%</font> (최대 <font color=\"red\">20</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">3</font>행동"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+4%</font> (최대 <font color=\"red\">20%</font>)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">3</font>행동"
         },
         {
-          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+5%</font> (최대 <font color=\"red\">25</font>%)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">2</font>행동"
+          "Desc": "코스트 제한 해제<br/>전 맵에 있는 아군 <font color=\"red\">1</font>명당 공방 <font color=\"red\">+5%</font> (최대 <font color=\"red\">25%</font>)<br/>공격을 하여 행동 종료시 [<font color=\"purple\">과거회귀</font>] 스킬 사용 가능<br/><font color=\"purple\">과거회귀</font> : 행동 시작 상태로 돌아감<br/>쿨타임 <font color=\"red\">2</font>행동"
         }
       ]
     }
   ],
   "Second_Awaken": {
     "Name" : "함께하는 의지",
-    "Stats": "공격, 방어 <font color=\"red\">+5%</font><br/>모든 <font color=\"red\">주인공의 빛</font> 진영 아군은 주위 <font color=\"red\">2</font>칸 범위 안에 다른 아군이 있을 경우, 공격 지력 <font color=\"red\">+10</font>%"
+    "Stats": "공격, 방어 <font color=\"red\">+5%</font><br/>모든 <font color=\"red\">주인공의 빛</font> 진영 아군은 주위 <font color=\"red\">2</font>칸 범위 안에 다른 아군이 있을 경우, 공격 지력 <font color=\"red\">+10%</font>"
   },
   "Equip": {
     "Name": "단결의 반지(장신구)",
@@ -211,8 +211,8 @@
       "MagicDefRate": 63,
       "Skill": 214,
       "SkillRate": 62,
-      "HeartFetterBouns1": "자신보다 부대 생명력 백분비가 낮은 적과 전투시<br/>전투 진입후 받는 피해량 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "자신보다 부대 생명력 백분비가 낮은 적과 전투시<br/>전투 진입후 주는 피해량 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "자신보다 부대 생명력 백분비가 낮은 적과 전투시<br/>전투 진입후 받는 피해량 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "자신보다 부대 생명력 백분비가 낮은 적과 전투시<br/>전투 진입후 주는 피해량 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "히어로",
@@ -773,7 +773,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },

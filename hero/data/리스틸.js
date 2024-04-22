@@ -52,10 +52,10 @@
       "Condition": "리스틸을 사용하여 시공의 균열 정예3-1 클리어"
     },
     {
-      "Condition": "매튜의 도움 하에 '지난 날의 그림자' 클리어"
+      "Condition": "매튜의 도움 받아 '지난 날의 그림자' 클리어"
     },
     {
-      "Condition": "란디우스의 도움 하에 '마음의 색상' 클리어"
+      "Condition": "란디우스의 도움 받아 '마음의 색상' 클리어"
     }
   ],
   "HeartFetter": "생명+300, 방어+50, 마방+30",
@@ -88,7 +88,7 @@
   "SPTalent": null,
   "Second_Awaken":{
     "Name" : "악혈의 포옹",
-    "Stats": "마방 <font color=\"red\">+5%</font><br/>자신이 부여한 <font color=\"blue\">상처 저주</font>나 <font color=\"blue\">치료 반전</font> 효과를 보유한 적이 있을 경우<br/>자신 부대 <font color=\"blue\">받는 피해</font> <font color=\"red\">-10</font>%",
+    "Stats": "마방 <font color=\"red\">+5%</font><br/>자신이 부여한 <font color=\"blue\">상처 저주</font>나 <font color=\"blue\">치료 반전</font> 효과를 보유한 적이 있을 경우<br/>자신 부대 <font color=\"blue\">받는 피해</font> <font color=\"red\">-10%</font>",
   },
   "Equip": {
       "Name": "마족의 뿔투구(투구)",

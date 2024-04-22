@@ -115,8 +115,8 @@
       "MagicDefRate": 83,
       "Skill": 206,
       "SkillRate": 53,
-      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">디버프</font> 걸린 부대와 전투 시<br/>주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">디버프</font> 걸린 부대와 전투 시<br/>주는 피해량<font color=\"red\">+10%</font>"
     },
     {
       "Name": "정예 돌격병",
@@ -144,8 +144,8 @@
       "MagicDefRate": 73,
       "Skill": 206,
       "SkillRate": 53,
-      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80%</font> 초과 시<br/>피격 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">80%</font> 초과 시<br/>치명타 확률 <font color=\"red\">+10</font>%",
+      "HeartFetterBouns1": "부대 생명 <font color=\"Red\">80%</font> 초과 시<br/>피격 치명타 확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"Red\">80%</font> 초과 시<br/>치명타 확률 <font color=\"red\">+10%</font>",
     }
   ],
   "Materials": {
@@ -351,7 +351,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Hide.webp",
-      "Desc": "[패시브]공격하여 전투 진입 시 치명타율 <font color=\"Red\">+10%</font>, 받는 피해량 <font color=\"Red\">-20</font>%.",
+      "Desc": "[패시브]공격하여 전투 진입 시 치명타율 <font color=\"Red\">+10%</font>, 받는 피해량 <font color=\"Red\">-20%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -507,7 +507,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.webp",
-      "Desc": "치명타율 <font color=\"red\">+10</font>%. <br/>피해를 줄 때 <font color=\"red\">50</font>%의 확률로 적 부대의 <font color=\"blue\">패시브 스킬 무효</font> 부여한다.<br/>지속<font color=\"red\">2</font>행동 <br/><b>치명타 발생 시 반드시 발동</b>.",
+      "Desc": "치명타율 <font color=\"red\">+10%</font>. <br/>피해를 줄 때 <font color=\"red\">50%</font>의 확률로 적 부대의 <font color=\"blue\">패시브 스킬 무효</font> 부여한다.<br/>지속<font color=\"red\">2</font>행동 <br/><b>치명타 발생 시 반드시 발동</b>.",
       "SubSkills": null,
       "Animation": null
     },

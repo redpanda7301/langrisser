@@ -122,8 +122,8 @@
       "MagicDefRate": 81,
       "Skill": 99,
       "SkillRate": 31,
-      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "마법 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "마법 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "연옥의 소환자",
@@ -154,8 +154,8 @@
       "MagicDefRate": 81,
       "Skill": 130,
       "SkillRate": 41,
-      "HeartFetterBouns1": "생명 백분비가 자신 부대보다 높은 적에게 피격으로<br/>전투 진입 후 받는 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "생명 백분비가 자신 부대보다 높은 적에게 피격으로<br/>전투 진입 후 받는 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {

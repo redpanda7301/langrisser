@@ -69,10 +69,10 @@
       "Condition": "엘윈을 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "헤인의 도움 하에 '어둠의 길' 클리어"
+      "Condition": "헤인의 도움 받아 '어둠의 길' 클리어"
     },
     {
-      "Condition": "리아나의 도움 하에 '고독의 왕' 클리어"
+      "Condition": "리아나의 도움 받아 '고독의 왕' 클리어"
     }
   ],
   "HeartFetter": "생명+900, 방어+60, 마방+40",
@@ -198,8 +198,8 @@
       "MagicDefRate": 60,
       "Skill": 154,
       "SkillRate": 44,
-      "HeartFetterBouns1": "생명 <font color=\"red\">80%</font> 이상일때 <br/>전투중 받는 피해량<font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 <font color=\"red\">80%</font> 이상일때 <br/>전투중 주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "생명 <font color=\"red\">80%</font> 이상일때 <br/>전투중 받는 피해량<font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "생명 <font color=\"red\">80%</font> 이상일때 <br/>전투중 주는 피해량<font color=\"red\">+10%</font>"
     },
     {
       "Name": "광룡 기사단장",
@@ -248,8 +248,8 @@
       "MagicDefRate": 60,
       "Skill": 130,
       "SkillRate": 37,
-      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시 <br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시 <br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대 생명 <font color=\"red\">70%</font> 미만 시 <br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "마샬",
@@ -298,8 +298,8 @@
       "MagicDefRate": 48,
       "Skill": 116,
       "SkillRate": 33,
-      "HeartFetterBouns1": "생명비율이 낮은상대와 <br/>전투시 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명비율이 낮은상대와 <br/>전투시 주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "생명비율이 낮은상대와 <br/>전투시 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "생명비율이 낮은상대와 <br/>전투시 주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -903,7 +903,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/엘윈/1.webp",
-      "Desc": "자신에게 '<font color=\"blue\">전설의 빛</font>' 효과 부여 <br/><font color=\"blue\">전설의 빛</font> : 엘윈 전용 장비 효과 발동 확률을 <font color=\"red\">100</font>%로 조절(지속 <font color=\"red\">1</font>행동) <br/>'<font color=\"blue\">모든 디버프 면역</font>' 효과(지속 <font color=\"red\">2</font>행동), <br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">3</font>칸 가능, <b>부대가 혼합 병종이 아닐 경우</b> <font color=\"red\">4</font>칸 <font color=\"blue\">재행동</font><br/>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
+      "Desc": "자신에게 '<font color=\"blue\">전설의 빛</font>' 효과 부여 <br/><font color=\"blue\">전설의 빛</font> : 엘윈 전용 장비 효과 발동 확률을 <font color=\"red\">100%</font>로 조절(지속 <font color=\"red\">1</font>행동) <br/>'<font color=\"blue\">모든 디버프 면역</font>' 효과(지속 <font color=\"red\">2</font>행동), <br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">3</font>칸 가능, <b>부대가 혼합 병종이 아닐 경우</b> <font color=\"red\">4</font>칸 <font color=\"blue\">재행동</font><br/>(해당 스킬은 버프 지속 시간을 감소시키지 않음)",
       "SubSkills": null,
       "Animation": null
     },
@@ -943,7 +943,7 @@
         }
       ],
       "IconImageUrl": "../img/Super/엘윈.webp",
-      "Desc": "[패시브] 전장(스테이지) 시작 및 아군 사망 시 마다 전장에 있는 '<font color =\"#b8860b\">빛의 군단</font>' 아군의 공방 대폭 상승, <br/>전투 중 피해 <font color=\"red\">+15%</font>, <br/>아군 <font color=\"red\">1</font> 명이 사망시마다 추가 <font color=\"red\">+3%</font> (최대 <font color=\"red\">+12</font>%), <br/>지속 <font color=\"red\">4</font>행동 <br/>(해당 효과는 다른 초절 효과와 중첩 불가)<br/>[액티브] 단일 개체 <font color=\"red\">1.8</font>배 피해, <br/>전투 전 적 버프 <font color=\"red\">5</font>개 제거 및 적에게 '<font color=\"blue\">패시브 봉인</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동), <br/>전투 후 적에게 '<font color=\"blue\">치료 불가</font>' 부여 (지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>) ",
+      "Desc": "[패시브] 전장(스테이지) 시작 및 아군 사망 시 마다 전장에 있는 '<font color =\"#b8860b\">빛의 군단</font>' 아군의 공방 대폭 상승, <br/>전투 중 피해 <font color=\"red\">+15%</font>, <br/>아군 <font color=\"red\">1</font> 명이 사망시마다 추가 <font color=\"red\">+3%</font> (최대 <font color=\"red\">+12%</font>), <br/>지속 <font color=\"red\">4</font>행동 <br/>(해당 효과는 다른 초절 효과와 중첩 불가)<br/>[액티브] 단일 개체 <font color=\"red\">1.8</font>배 피해, <br/>전투 전 적 버프 <font color=\"red\">5</font>개 제거 및 적에게 '<font color=\"blue\">패시브 봉인</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동), <br/>전투 후 적에게 '<font color=\"blue\">치료 불가</font>' 부여 (지속 <font color=\"red\">2</font>행동, <b>해제 불가</b>) ",
       "SubSkills": null,
       "Animation": "../img/Super/엘윈_Ani.webp",
     }    

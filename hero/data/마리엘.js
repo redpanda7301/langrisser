@@ -67,16 +67,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "<b>생명 <font color=\"red\">50%</font> 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-10%</font> 공격<font color=\"red\">+10</font>%</b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50%</font> 받는 모든 피해 <font color=\"red\">-25%</font> 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
+          "Desc": "<b>생명 <font color=\"red\">50%</font> 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-10%</font> 공격<font color=\"red\">+10%</font></b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50%</font> 받는 모든 피해 <font color=\"red\">-25%</font> 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
         },
         {
-          "Desc": "<b>생명 <font color=\"red\">50%</font> 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-15%</font> 공격<font color=\"red\">+13</font>%</b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50%</font> 받는 모든 피해 <font color=\"red\">-25%</font> 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
+          "Desc": "<b>생명 <font color=\"red\">50%</font> 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-15%</font> 공격<font color=\"red\">+13%</font></b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50%</font> 받는 모든 피해 <font color=\"red\">-25%</font> 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
         },
         {
-          "Desc": "<b>생명 <font color=\"red\">50%</font> 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-20%</font> 공격<font color=\"red\">+16</font>%</b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50%</font> 받는 모든 피해 <font color=\"red\">-25%</font> 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
+          "Desc": "<b>생명 <font color=\"red\">50%</font> 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-20%</font> 공격<font color=\"red\">+16%</font></b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50%</font> 받는 모든 피해 <font color=\"red\">-25%</font> 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
         },
         {
-          "Desc": "<b>생명 <font color=\"red\">50%</font> 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-30%</font> 공격<font color=\"red\">+20</font>%</b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50%</font> 받는 모든 피해 <font color=\"red\">-25%</font> 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
+          "Desc": "<b>생명 <font color=\"red\">50%</font> 이상일 경우 선공으로 전투 진입시 받는 피해 <font color=\"red\">-30%</font> 공격<font color=\"red\">+20%</font></b><br/><b>스테이지 시작 시 [<font color=\"purple\">계율</font>] 효과 획득</b><br/>[<font color=\"purple\">계율</font>] : 치료량 <font color=\"red\">50%</font> 받는 모든 피해 <font color=\"red\">-25%</font> 주는 모든피해 <font color=\"red\">-50%</font><br/><b>선공 후</b> [<font color=\"purple\">계율</font>] 효과는 사라지며 재행동 가능"
         }
       ]
     }
@@ -136,8 +136,8 @@
       "MagicDefRate": 73,
       "Skill": 138,
       "SkillRate": 37,
-      "HeartFetterBouns1": "<b>공격하여 전투 진입시</b>, <br/>부대 받는 피해감소 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "<b>부대 체력이 <font color=\"red\">100</font>%일 경우</b><br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>공격하여 전투 진입시</b>, <br/>부대 받는 피해감소 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "<b>부대 체력이 <font color=\"red\">100%</font>일 경우</b><br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "신성 신관",
@@ -171,8 +171,8 @@
       "MagicDefRate": 80,
       "Skill": 138,
       "SkillRate": 37,
-      "HeartFetterBouns1": "<b>자신보다 생명 백분비 높은 적에게 공격 받을시</b>,<br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "치유량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "<b>자신보다 생명 백분비 높은 적에게 공격 받을시</b>,<br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "치유량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -433,7 +433,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf2.webp",
-      "Desc": "[패시브]<b>전투 진입 시 자신의 부대 공격력</b> <font color=\"red\">+7</font>%.",
+      "Desc": "[패시브]<b>전투 진입 시 자신의 부대 공격력</b> <font color=\"red\">+7%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -447,7 +447,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -473,7 +473,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MassATKup.webp",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 <font color=\"red\">+20</font>%.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, <font color=\"red\">2</font>행동 지속.",
+      "Desc": "[지원]액티브 스킬, 범위 내 아군들의 공격, 지력 <font color=\"red\">+20%</font>.<br/>그리고 '공격, 지력 감소','침묵' 면역 부여, <font color=\"red\">2</font>행동 지속.",
       "SubSkills": null,
       "Animation": null
     },

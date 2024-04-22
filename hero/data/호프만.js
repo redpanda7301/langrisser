@@ -76,7 +76,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "녹과 영광(갑옷)",
+    "Stats": "생명 437,방어 65",
+    "Icon": "호프만.webp",
+    "Ability": "생명, 방어 +5%<br/><font color=\"purple\">왕국의 방패</font>로 <font color=\"blue\">영광의 수호</font> 사용 시, 지휘 효과 획득<br/><font color=\"blue\">지휘</font> : 비행 타입이 아닌 아군이 방어 범위 지형 통과 시, <font color=\"red\">1</font>칸 <font color=\"blue\">이동력 감소 면역 기회</font> 획득<br/>지속 <font color=\"red\">4</font>행동, 해제 불가"
+  },
   "Soldiers": [
     35,
     47,
@@ -114,8 +119,8 @@
       "MagicDefRate": 70,
       "Skill": 140,
       "SkillRate": 37,
-      "HeartFetterBouns1": "자신 부대 보다 생명 백분비가 높은 부대에게 피격 시<br/>전투 진입 후 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "범위 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "자신 부대 보다 생명 백분비가 높은 부대에게 피격 시<br/>전투 진입 후 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "범위 피해 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "날개 방패 원수",
@@ -143,8 +148,8 @@
       "MagicDefRate": 61,
       "Skill": 140,
       "SkillRate": 37,
-      "HeartFetterBouns1": "원거리 피격 시<br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 피해 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "원거리 피격 시<br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "생명 <font color=\"red\">70%</font> 미만 시<br/>전투 진입 후 피해 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -221,7 +226,7 @@
             }
           ],
           "IconImageUrl": "../img/skills/Hofmann/0_1.webp",
-          "Desc": "<font color=\"red\">3</font>줄 직선으로 방어 범위 지정<br/>자신은 '<font color=\"blue\">방어 범위 안에 있는 적의 공격 지력</font> <font color=\"red\">-15</font>%' <font color=\"blue\">지휘</font> 효과 획득<br/>지속 <font color=\"red\">4</font>행동. 해제 불가."
+          "Desc": "<font color=\"red\">3</font>줄 직선으로 방어 범위 지정<br/>자신은 '<font color=\"blue\">방어 범위 안에 있는 적의 공격 지력</font> <font color=\"red\">-15%</font>' <font color=\"blue\">지휘</font> 효과 획득<br/>지속 <font color=\"red\">4</font>행동. 해제 불가."
         }
       ],
       "Animation": null
@@ -236,7 +241,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
-      "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12</font>%.",
+      "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12%</font>.",
       "SubSkills": null,
       "Animation": null
     },
@@ -305,7 +310,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Support.webp",
-      "Desc": "단일 개체 <font color=\"Red\">1.7</font>배 피해<br/>전투 전 공격의 <font color=\"Red\">20</font>%가 방어에 추가, 적 부대에게 <font color=\"blue\">패시브 봉인</font> 부여<br/>지속 <font color=\"Red\">2</font>행동 지속,<br/>해제 불가",
+      "Desc": "단일 개체 <font color=\"Red\">1.7</font>배 피해<br/>전투 전 공격의 <font color=\"Red\">20%</font>가 방어에 추가, 적 부대에게 <font color=\"blue\">패시브 봉인</font> 부여<br/>지속 <font color=\"Red\">2</font>행동 지속,<br/>해제 불가",
       "SubSkills": null,
       "Animation": null
     },
@@ -371,7 +376,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_DefBuf4.webp",
-      "Desc": "전투 진입 시 방어 <font color=\"red\">+7</font>%",
+      "Desc": "전투 진입 시 방어 <font color=\"red\">+7%</font>",
       "SubSkills": null,
       "Animation": null
     },

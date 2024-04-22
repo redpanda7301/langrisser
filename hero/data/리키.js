@@ -64,16 +64,16 @@ var data = [
           "Desc": "2성"
         },
         {
-          "Desc": "공격 <font color=\"red\">+15%</font>.<br/><b>행동 종료 시 방어 방향을 지정 가능</b>, <br/><b>지정 후 '방어 방향에서 공격을 받을 경우</b><br/><font color=\"blue\">받는 물리 피해 <font color=\"red\">-10</font>%</font> <Br/>피해를 받은 후 자신 공격 <font color=\"red\">1</font>배 수치 <font color=\"green\">생명 회복</font><br/>지속 <font color=\"Red\">3</font>행동 및 <b>해제 불가</b> 및 <br/> 이동력 <font color=\"Red\">+2</font> 지속 <font color=\"Red\">3</font>행동 효과 획득<br/>쿨타임 <font color=\"Red\">2</font>행동"
+          "Desc": "공격 <font color=\"red\">+15%</font>.<br/><b>행동 종료 시 방어 방향을 지정 가능</b>, <br/><b>지정 후 '방어 방향에서 공격을 받을 경우</b><br/><font color=\"blue\">받는 물리 피해 <font color=\"red\">-10%</font></font> <Br/>피해를 받은 후 자신 공격 <font color=\"red\">1</font>배 수치 <font color=\"green\">생명 회복</font><br/>지속 <font color=\"Red\">3</font>행동 및 <b>해제 불가</b> 및 <br/> 이동력 <font color=\"Red\">+2</font> 지속 <font color=\"Red\">3</font>행동 효과 획득<br/>쿨타임 <font color=\"Red\">2</font>행동"
         },
         {
-          "Desc": "공격 <font color=\"red\">+20%</font>.<br/><b>행동 종료 시 방어 방향을 지정 가능</b>, <br/><b>지정 후 '방어 방향에서 공격을 받을 경우</b><br/><font color=\"blue\">받는 물리 피해 <font color=\"red\">-15</font>%</font> <Br/>피해를 받은 후 자신 공격 <font color=\"red\">1</font>배 수치 <font color=\"green\">생명 회복</font><br/>지속 <font color=\"Red\">3</font>행동 및 <b>해제 불가</b> 및 <br/> 이동력 <font color=\"Red\">+2</font> 지속 <font color=\"Red\">3</font>행동 효과 획득<br/>쿨타임 <font color=\"Red\">2</font>행동"
+          "Desc": "공격 <font color=\"red\">+20%</font>.<br/><b>행동 종료 시 방어 방향을 지정 가능</b>, <br/><b>지정 후 '방어 방향에서 공격을 받을 경우</b><br/><font color=\"blue\">받는 물리 피해 <font color=\"red\">-15%</font></font> <Br/>피해를 받은 후 자신 공격 <font color=\"red\">1</font>배 수치 <font color=\"green\">생명 회복</font><br/>지속 <font color=\"Red\">3</font>행동 및 <b>해제 불가</b> 및 <br/> 이동력 <font color=\"Red\">+2</font> 지속 <font color=\"Red\">3</font>행동 효과 획득<br/>쿨타임 <font color=\"Red\">2</font>행동"
         },
         {
-          "Desc": "공격 <font color=\"red\">+25%</font>.<br/><b>행동 종료 시 방어 방향을 지정 가능</b>, <br/><b>지정 후 '방어 방향에서 공격을 받을 경우</b><br/><font color=\"blue\">받는 물리 피해 <font color=\"red\">-20</font>%</font> <Br/>피해를 받은 후 자신 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"green\">생명 회복</font><br/>지속 <font color=\"Red\">3</font>행동 및 <b>해제 불가</b> 및 <br/> 이동력 <font color=\"Red\">+2</font> 지속 <font color=\"Red\">3</font>행동 효과 획득<br/>쿨타임 <font color=\"Red\">2</font>행동"
+          "Desc": "공격 <font color=\"red\">+25%</font>.<br/><b>행동 종료 시 방어 방향을 지정 가능</b>, <br/><b>지정 후 '방어 방향에서 공격을 받을 경우</b><br/><font color=\"blue\">받는 물리 피해 <font color=\"red\">-20%</font></font> <Br/>피해를 받은 후 자신 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"green\">생명 회복</font><br/>지속 <font color=\"Red\">3</font>행동 및 <b>해제 불가</b> 및 <br/> 이동력 <font color=\"Red\">+2</font> 지속 <font color=\"Red\">3</font>행동 효과 획득<br/>쿨타임 <font color=\"Red\">2</font>행동"
         },
         {
-          "Desc": "공격 <font color=\"red\">+30%</font>.<br/><b>행동 종료 시 방어 방향을 지정 가능</b>, <br/><b>지정 후 '방어 방향에서 공격을 받을 경우</b><br/><font color=\"blue\">받는 물리 피해 <font color=\"red\">-30</font>%</font> <Br/>피해를 받은 후 자신 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"green\">생명 회복</font><br/>지속 <font color=\"Red\">3</font>행동 및 <b>해제 불가</b> 및 <br/> 이동력 <font color=\"Red\">+2</font> 지속 <font color=\"Red\">3</font>행동 효과 획득<br/>쿨타임 <font color=\"Red\">2</font>행동"
+          "Desc": "공격 <font color=\"red\">+30%</font>.<br/><b>행동 종료 시 방어 방향을 지정 가능</b>, <br/><b>지정 후 '방어 방향에서 공격을 받을 경우</b><br/><font color=\"blue\">받는 물리 피해 <font color=\"red\">-30%</font></font> <Br/>피해를 받은 후 자신 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"green\">생명 회복</font><br/>지속 <font color=\"Red\">3</font>행동 및 <b>해제 불가</b> 및 <br/> 이동력 <font color=\"Red\">+2</font> 지속 <font color=\"Red\">3</font>행동 효과 획득<br/>쿨타임 <font color=\"Red\">2</font>행동"
         }
       ]
     }
@@ -84,7 +84,7 @@ var data = [
     "Name": "진짜 영웅(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "리키.webp",
-    "Ability": "생명,방어 <font color=\"Red\">+5%</font><br/>방어 방향의 적과 교전 시 영웅 피해 <font color=\"Red\">+10%</font><br/>전장에 셀파닐 아군이 있을 경우 둘의 스킬 피해량 <font color=\"Red\">+5</font>%"
+    "Ability": "생명,방어 <font color=\"Red\">+5%</font><br/>방어 방향의 적과 교전 시 영웅 피해 <font color=\"Red\">+10%</font><br/>전장에 셀파닐 아군이 있을 경우 둘의 스킬 피해량 <font color=\"Red\">+5%</font>"
   },
   "Soldiers": [
     31,
@@ -129,8 +129,8 @@ var data = [
       "MagicDefRate": 60,
       "Skill": 151,
       "SkillRate": 44,
-      "HeartFetterBouns1": "받는 범위 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "자신 부대보다 생명 백분비가 낮은 적 선공으로 전투 진입 시<br/>주는 피해량<font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "자신 부대보다 생명 백분비가 낮은 적 선공으로 전투 진입 시<br/>주는 피해량<font color=\"red\">+10%</font>"
     },
     {
       "Name": "마샬",
@@ -161,8 +161,8 @@ var data = [
       "MagicDefRate": 48,
       "Skill": 114,
       "SkillRate": 33,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "근접 피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -423,7 +423,7 @@ var data = [
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Cancel.webp",
-      "Desc": "치명타율 <font color=\"red\">+10</font>%. 피해를 줄 때 <font color=\"red\">50</font>%의 확률로 적의 <font color=\"blue\">패시브 스킬을 무효화</font> 부여<br/>지속 <font color=\"red\">2</font><br/>치명타 발생 시 반드시 발동.",
+      "Desc": "치명타율 <font color=\"red\">+10%</font>. 피해를 줄 때 <font color=\"red\">50%</font>의 확률로 적의 <font color=\"blue\">패시브 스킬을 무효화</font> 부여<br/>지속 <font color=\"red\">2</font><br/>치명타 발생 시 반드시 발동.",
       "SubSkills": null,
       "Animation": null
     },
@@ -463,7 +463,7 @@ var data = [
         }
       ],
       "IconImageUrl": "../img/skills/Passive_Snarl.webp",
-      "Desc": "공격하여 전투 진입 전 적 부대의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</fonmt> 및<br/><font color=\"blue\">공격, 방어 <font color=\"red\">-10</font>%</font><br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "공격하여 전투 진입 전 적 부대의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</fonmt> 및<br/><font color=\"blue\">공격, 방어 <font color=\"red\">-10%</font></font><br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -503,7 +503,7 @@ var data = [
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Support.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해.<br/>전투 전 공격의 <font color=\"red\">20</font>%가 <font color=\"blue\">방어력 추가</font>되며<br/>적 부대에게 '<font color=\"blue\">패시브 스킬 무효</font>' 부여<br/>지속 <font color=\"red\">2</font>행동 <br/><b>제거 불가</b>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.7</font>배 피해.<br/>전투 전 공격의 <font color=\"red\">20%</font>가 <font color=\"blue\">방어력 추가</font>되며<br/>적 부대에게 '<font color=\"blue\">패시브 스킬 무효</font>' 부여<br/>지속 <font color=\"red\">2</font>행동 <br/><b>제거 불가</b>",
       "SubSkills": null,
       "Animation": null
     },
@@ -555,7 +555,7 @@ var data = [
         }
       ],
       "IconImageUrl": "../img/Super/리키.webp",
-      "Desc": "[지휘]방어 방향 범위 <font color=\"red\">3</font>칸 안에 있는 적 <font color=\"blue\">치명타 확률 <font color=\"red\">-20</font>%</font> <br/>반대 방향 범위 안에 있는 아군 <font color=\"blue\">공격, 지력 <font color=\"red\">+15</font>%</font><br/>[물리피해]<font color=\"red\">3</font>줄 직선상 적에게 <font color=\"red\">0.36</font>피해, <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 제거<br/><font color=\"blue\">공격 대상은 직선으로만 이동 가능</font><br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b><br/>스킬 사용후 자신은 <font color=\"blue\">지휘</font> 효과 획득<br/><font color=\"blue\">지휘 효과</font> : 방어 방향 범위 안에 있는 적이 선공으로 피해를 입히기 전<br/>리키 공격 <font color=\"blue\">1.5</font>배 수치 <font color=\"blue\">고정피해</font>를 받음<br/>적이 혼합 부대일 경우 면역 불가<br/>최대 <font color=\"red\">3</font>회 발동<br/>지속 <font color=\"red\">2</font>행동 <b>해제 불가</b>",
+      "Desc": "[지휘]방어 방향 범위 <font color=\"red\">3</font>칸 안에 있는 적 <font color=\"blue\">치명타 확률 <font color=\"red\">-20%</font></font> <br/>반대 방향 범위 안에 있는 아군 <font color=\"blue\">공격, 지력 <font color=\"red\">+15%</font></font><br/>[물리피해]<font color=\"red\">3</font>줄 직선상 적에게 <font color=\"red\">0.36</font>피해, <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 제거<br/><font color=\"blue\">공격 대상은 직선으로만 이동 가능</font><br/>지속 <font color=\"red\">1</font>행동, <b>해제 불가</b><br/>스킬 사용후 자신은 <font color=\"blue\">지휘</font> 효과 획득<br/><font color=\"blue\">지휘 효과</font> : 방어 방향 범위 안에 있는 적이 선공으로 피해를 입히기 전<br/>리키 공격 <font color=\"blue\">1.5</font>배 수치 <font color=\"blue\">고정피해</font>를 받음<br/>적이 혼합 부대일 경우 면역 불가<br/>최대 <font color=\"red\">3</font>회 발동<br/>지속 <font color=\"red\">2</font>행동 <b>해제 불가</b>",
       "SubSkills": null,
       "Animation": "../img/Super/리키_Ani.webp",
     }    

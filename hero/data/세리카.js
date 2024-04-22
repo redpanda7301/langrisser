@@ -116,8 +116,8 @@
       "MagicDefRate": 81,
       "Skill": 124,
       "SkillRate": 43,
-      "HeartFetterBouns1": "원거리 피격 시, 받는 마법 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "선공으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "원거리 피격 시, 받는 마법 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "선공으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "이치의 탐구자",
@@ -145,8 +145,8 @@
       "MagicDefRate": 84,
       "Skill": 98,
       "SkillRate": 31,
-      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "마법 공격받아 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "받는 범위 피해 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "마법 공격받아 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {

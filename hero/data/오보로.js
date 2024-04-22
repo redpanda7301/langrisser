@@ -91,7 +91,7 @@
     "Name": "영식법상(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "오보로.webp",
-    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">정수 축적</font> 사용 시<br/>자신이 <font color=\"blue\">초절강화 특수 효과</font>를 보유한 상태라면 즉시 <font color=\"blue\">용의 위엄</font> <font color=\"red\">1</font>개 획득<br/>선공으로 전투 진입 시 <font color=\"blue\">받는 피해</font> 및 <font color=\"green\">반사 피해</fopnt> <font color=\"red\">-30</font>%"
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">정수 축적</font> 사용 시<br/>자신이 <font color=\"blue\">초절강화 특수 효과</font>를 보유한 상태라면 즉시 <font color=\"blue\">용의 위엄</font> <font color=\"red\">1</font>개 획득<br/>선공으로 전투 진입 시 <font color=\"blue\">받는 피해</font> 및 <font color=\"green\">반사 피해</fopnt> <font color=\"red\">-30%</font>"
   },
   "Soldiers": [
     47,
@@ -137,8 +137,8 @@
       "MagicDefRate": 55,
       "Skill": 174,
       "SkillRate": 51,
-      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">50%</font> 미만 시<br/>받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">50%</font> 미만 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "부대의 생명이 <font color=\"red\">50%</font> 미만 시<br/>받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "부대의 생명이 <font color=\"red\">50%</font> 미만 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     },
     {
       "Name": "영룡 전생사",
@@ -172,8 +172,8 @@
       "MagicDefRate": 68,
       "Skill": 101,
       "SkillRate": 30,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10</font>%",
-      "HeartFetterBouns2": "피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
+      "HeartFetterBouns2": "피격으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -489,7 +489,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AtkBuf6.webp",
-      "Desc": "전투 진입 시 부대 공격,기술 <font color=\"red\">+12%</font><br/>방어, 마방<font color=\"red\">-7</font>%",
+      "Desc": "전투 진입 시 부대 공격,기술 <font color=\"red\">+12%</font><br/>방어, 마방<font color=\"red\">-7%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -569,7 +569,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Helmet.webp",
-      "Desc": "원거리 공격을 받아 전투 진입 시 <font color=\"#DC143C\">25%</font> 확률로<br/><font color=\"blue\">부대가 받는 모든 피해</font> <font color=\"#DC143C\">-50</font>%",
+      "Desc": "원거리 공격을 받아 전투 진입 시 <font color=\"#DC143C\">25%</font> 확률로<br/><font color=\"blue\">부대가 받는 모든 피해</font> <font color=\"#DC143C\">-50%</font>",
       "SubSkills": null,
       "Animation": null
     },

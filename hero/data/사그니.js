@@ -119,8 +119,8 @@
       "MagicDefRate": 89,
       "Skill": 98,
       "SkillRate": 31,
-      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대의 공격을 받아 전투 진입 시<br/>받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "물리 피격으로 전투 진입 시<br/>주는 피해 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "<font color=\"blue\">디버프</font>를 보유한 부대의 공격을 받아 전투 진입 시<br/>받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "물리 피격으로 전투 진입 시<br/>주는 피해 <font color=\"Red\">+10%</font>"
     },
     {
       "Name": "선지자",
@@ -148,8 +148,8 @@
       "MagicDefRate": 90,
       "Skill": 98,
       "SkillRate": 31,
-      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대 받는 피해 <font color=\"Red\">-10</font>%",
-      "HeartFetterBouns2": "원거리 피격으로 전투 진입 시<br/>주는 피해 <font color=\"Red\">+10</font>%"
+      "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대 받는 피해 <font color=\"Red\">-10%</font>",
+      "HeartFetterBouns2": "원거리 피격으로 전투 진입 시<br/>주는 피해 <font color=\"Red\">+10%</font>"
     }
   ],
   "Materials": {
@@ -455,7 +455,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Sagny/2.webp",
-      "Desc": "단일 개체 <font color =\"red\">1.6</font>배 피해<br/>창병 특효 및 적에게  <font color =\"blue\">이동력  <font color =\"red\">-2</font> 효과</font> 부여<br/>지속  <font color =\"red\">2</font>행동<br/>만약 적이 이미  <font color =\"blue\">이동력 저하 효과</font>를 보유하고 있을 경우<br/>해당 공격 피해  <font color =\"red\">+20</font>%",
+      "Desc": "단일 개체 <font color =\"red\">1.6</font>배 피해<br/>창병 특효 및 적에게  <font color =\"blue\">이동력  <font color =\"red\">-2</font> 효과</font> 부여<br/>지속  <font color =\"red\">2</font>행동<br/>만약 적이 이미  <font color =\"blue\">이동력 저하 효과</font>를 보유하고 있을 경우<br/>해당 공격 피해  <font color =\"red\">+20%</font>",
       "SubSkills": null,
       "Animation": null
     },
@@ -547,7 +547,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15</font>%",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군</b> 마방 <font color=\"red\">+15%</font>",
       "SubSkills": null,
       "Animation": null
     },

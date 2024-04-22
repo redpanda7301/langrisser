@@ -40,10 +40,10 @@
       "Condition": "제리올&레이라를 출전시켜 시공의 균열 3-1[정예] 클리어"
     },
     {
-      "Condition": "티아리스의 도움 하에 강철과 원한 클리어"
+      "Condition": "티아리스의 도움 받아 강철과 원한 클리어"
     },
     {
-      "Condition": "디하르트의 도움 하에 고통의 배신 클리어"
+      "Condition": "디하르트의 도움 받아 고통의 배신 클리어"
     }
   ],
   "HeartFetter": "생명+550, 방어+40, 마방+60",
@@ -451,7 +451,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",
-      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10</font>%.",
+      "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },
