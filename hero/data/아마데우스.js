@@ -345,7 +345,7 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "거침없는 창",
+      "Name": "횡창",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -385,7 +385,7 @@
       "Animation": null
     },
     {
-      "Name": "자리지정",
+      "Name": "입조",
       "Cost": "COST 1",
       "Entries": [
         {
@@ -406,7 +406,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Amadeus/2.webp",
-      "Desc": "전장에 있는 단일 개체 적에게 <font color=\"red\">0.2</font>배 피해 및 <font color=\"blue\">재행동 불가</font> 효과 부여<br/>지속 <font color=\"red\">1</font>행동",
+      "Desc": "전장에 있는 단일 개체 적에게 <font color=\"red\">0.2</font>배 피해 및 <font color=\"blue\">행동 불가</font> 효과 부여<br/>지속 <font color=\"red\">1</font>행동",
       "SubSkills": null,
       "Animation": null
     },
@@ -541,7 +541,7 @@
       "Animation": null
     },
     {
-      "Name": "성스러운 분노의 연격",
+      "Name": "분노의 연격",
       "Cost": "COST 3",
       "Entries": [
         {
@@ -565,16 +565,16 @@
       "Desc": "[지휘] 주위 <font color=\"red\">3</font>칸 범위 안에 <font color=\"blue\">쉴드</font> 효과를 지닌 아군의 <font color=\"blue\">공격 지력</font> <font color=\"red\">+10%</font><br/>[패시브]'<font color=\"green\">숲</font>' '<font color=\"green\">산지</font>' '<font color=\"green\">초원</font>'에서 행동 종료 시 이동력 <font color=\"red\">+2</font><br/>지속 <font color=\"red\">1</font>행동<br/>스킬 사용 시 <font color=\"blue\">모든 디버프 면역</font><br/>순서에 따라 <font color=\"red\">0.2</font>배 <font color=\"blue\">범위 피해</font>를 <font color=\"red\">3</font>회 입히며<br/>스킬 쿨타임은 <font color=\"red\">3</font>행동으로 변경<br/>만약 적의 최대 생명이 자신의 <font color=\"red\">5</font>배를 초과할 경우 피해 <font color=\"red\">+300%</font>",
       "SubSkills": [
         {
-          "Name": "<b><font color=\"#0070c0\">맹렬한 관통</font></b>",
+          "Name": "<b><font color=\"#0070c0\">강력 관통</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/아마데우스_1.webp",
-          "Desc": "[물리피해]하나를 목표로 지정해 '<font color=\"blue\">자리지정</font>' '<font color=\"blue\">종단</font>'을 차례로 사용한 후<br/>자신은 <font color=\"red\">1</font>칸 앞으로 <font color=\"blue\">진격</font>하며 '<font color=\"blue\">거침없는 창</font>' 사용"
+          "Desc": "[물리피해]하나를 목표로 지정해 '<font color=\"blue\">입조</font>' '<font color=\"blue\">종단</font>'을 차례로 사용한 후<br/>자신은 <font color=\"red\">1</font>칸 앞으로 전진하며 '<font color=\"blue\">횡창</font>' 사용"
         },
         {
-          "Name": "<b><font color=\"#0070c0\">질풍같은 소탕</font></b>",
+          "Name": "<b><font color=\"#0070c0\">질주 러시</font></b>",
           "Entries": null,
           "IconImageUrl": "../img/Super/아마데우스_2.webp",
-          "Desc": "[물리피해]하나를 목표로 지정해 '<font color=\"blue\">자리지정</font>' '<font color=\"blue\">거침없는 창</font>'을 차례로 사용한 후<br/>자신은 <font color=\"red\">1</font>칸 앞으로 <font color=\"blue\">진격</font>하며 '<font color=\"blue\">종단</font>' 사용"
+          "Desc": "[물리피해]하나를 목표로 지정해 '<font color=\"blue\">입조</font>' '<font color=\"blue\">횡창</font>'을 차례로 사용한 후<br/>자신은 <font color=\"red\">1</font>칸 앞으로 전진하며 '<font color=\"blue\">종단</font>' 사용"
         }
       ],
       "Animation": "../img/Super/아마데우스_Ani.webp"
