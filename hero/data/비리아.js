@@ -288,7 +288,7 @@
     },
     {
       "Name": "저주 마법 융합",
-      "Cost": "COST 1",
+      "Cost": "COST 2",
       "Entries": [
         {
           "Label": "유형",
@@ -308,7 +308,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Virelia/1.webp",
-      "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배 피해.<br/>자신이 보유한 <font color=\"purple\">저주 마법 준비</font> 효과마다 피해 <font color=\"red\">+15%</font><br/>사용 후 자신의 모든 쿨타임 <font color=\"red\">-1</font>",
+      "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배 피해.<br/>자신이 보유한 <font color=\"purple\">저주 마법 준비</font> 효과마다 피해 <font color=\"red\">+15%</font><br/>사용 후 자신의 고유기 쿨타임 <font color=\"red\">-1</font>",
       "SubSkills": null,
       "Animation": null
     },
