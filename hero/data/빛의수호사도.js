@@ -101,7 +101,7 @@
   ],
   "Jobs": [
     {
-      "Name": "성스러운 수호의 사도",
+      "Name": "신성의 사도",
       "Icon": "Icon_Occupation_Monk.webp",
       "SD": [
         {
@@ -133,7 +133,7 @@
       "HeartFetterBouns2": "근접 공격을 받아 전투 진입시 <br/>주는 피해량 <font color =\"red\">+10%</font>"
     },
     {
-      "Name": "빛나는 방패와 검의 수호자",
+      "Name": "빛의 방패 검사",
       "Icon": "Icon_Occupation_Infantryman.webp",
       "SD": [
         {
