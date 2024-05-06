@@ -996,7 +996,7 @@
             },
             {
               "Label": "쿨타임",
-              "Value": "3턴"
+              "Value": "-"
             },
             {
               "Label": "사거리",
@@ -1035,7 +1035,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/sp/아멜다/2.webp",
-      "Desc": "지원. 액티브. 범위 내 부대에게 '<font color=\"blue\">강심장</font>' <font color=\"red\">2</font>스택 부여<br/><font color=\"blue\">강심장</font> : <font color=\"blue\">디버프 면역</font> 및 <font color=\"blue\">반사</font> 및 시술자 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">생명 회복</font><br/>최대 <font color=\"red\">3</font>중첩, 해제 불가",
+      "Desc": "[액티브] 범위 내 부대에게 시술자 지력 <font color=\"red\">3</font>배 수치 생명 <font color=\"green\">회복</font> 및'<font color=\"blue\">강심장</font>' <font color=\"red\">2</font>스택 부여<br/><font color=\"blue\">강심장</font> : <font color=\"blue\">디버프 면역</font> 및 <font color=\"blue\">반사</font><br/>최대 <font color=\"red\">3</font>중첩, 해제 불가",
       "SubSkills": null,
       "Animation": null
     },
