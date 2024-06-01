@@ -69,7 +69,7 @@
           "Desc": "공격 방어 <font color=\"red\">20%</font><br/>턴 시작 시, 미보유한 <font color=\"purple\">강식 진화</font> 중 <font color=\"red\">1</font>개를 무작위 획득<br/>(해제 불가, 지속 <font color=\"red\">2</font>행동)<br/><font color=\"purple\">강식 진화</font>로 인한 <font color=\"blue\">증폭</font> 및 <font color=\"blue\">변화</font>는 영구 적용<br/>업그레이드 시, 즉시 미보유한 <font color=\"purple\">강식 진화</font> <font color=\"red\">1</font>개 추가 획득<br/><font color=\"purple\">강식 진화</font> 하기에 후술"
         },
         {
-          "Desc": "공격 방어 <font color=\"red\">20%</font><br/>턴 시작 시, 미보유한 <font color=\"purple\">강식 진화</font> 중 <font color=\"red\">1</font>개를 무작위 획득<br/>(해제 불가, 지속 <font color=\"red\">2</font>행동)<br/><font color=\"purple\">강식 진화</font>로 인한 <font color=\"blue\">증폭</font> 및 <font color=\"blue\">변화</font>는 영구 적용<br/>업그레이드 시, 즉시 미보유한 <font color=\"purple\">강식 진화</font> <font color=\"red\">1</font>개 추가 획득<br/><font color=\"purple\">강식 진화</font> 하기에 후술"
+          "Desc": "공격 방어 <font color=\"red\">25%</font><br/>턴 시작 시, 미보유한 <font color=\"purple\">강식 진화</font> 중 <font color=\"red\">1</font>개를 무작위 획득<br/>(해제 불가, 지속 <font color=\"red\">2</font>행동)<br/><font color=\"purple\">강식 진화</font>로 인한 <font color=\"blue\">증폭</font> 및 <font color=\"blue\">변화</font>는 영구 적용<br/>업그레이드 시, 즉시 미보유한 <font color=\"purple\">강식 진화</font> <font color=\"red\">1</font>개 추가 획득<br/><font color=\"purple\">강식 진화</font> 하기에 후술"
         }
       ]
     }
