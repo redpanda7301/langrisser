@@ -107,7 +107,7 @@
       ],
       "AttkRange": 1,
       "Move": 5,
-      "MoveType": "Fly",  
+      "MoveType": "FieldArmy",  
       "HP": 4622,
       "HPRate": 75,
       "Attk": 607,
