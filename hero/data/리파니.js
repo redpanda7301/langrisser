@@ -12,6 +12,10 @@
     {
       "ImageUrl": "리파니/3.webp",
       "Desc": "이벤트"
+    },
+    {
+      "ImageUrl": "리파니/4.webp",
+      "Desc": "서밋아레나 S18 골드스킨"
     }
   ],
   "Name": "리파니",
@@ -113,6 +117,9 @@
         },
         {
           "ImageUrl": "리파니/3/1.webp"
+        },
+        {
+          "ImageUrl": "리파니/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -145,6 +152,9 @@
         },
         {
           "ImageUrl": "리파니/3/1.webp"
+        },
+        {
+          "ImageUrl": "리파니/4/1.webp"
         }
       ],
       "AttkRange": 2,

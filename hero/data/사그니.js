@@ -8,6 +8,10 @@
     {
       "ImageUrl": "사그니/2.webp",
       "Desc": "빛의 메아리"
+    },
+    {
+      "ImageUrl": "사그니/3.webp",
+      "Desc": "형귀뽑기"
     }
   ],
   "Name": "사그니",
@@ -102,6 +106,9 @@
         },
         {
           "ImageUrl": "사그니/2/1.webp"
+        },
+        {
+          "ImageUrl": "사그니/3/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -131,6 +138,9 @@
         },
         {
           "ImageUrl": "사그니/2/1.webp"
+        },
+        {
+          "ImageUrl": "사그니/3/1.webp"
         }
       ],
       "AttkRange": 2,

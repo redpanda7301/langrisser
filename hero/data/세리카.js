@@ -426,7 +426,7 @@
       "Animation": "../img/Super/세리카_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  

@@ -12,6 +12,10 @@
     {
       "ImageUrl": "빛의수호사도/3.webp",
       "Desc": "형귀스킨"
+    },
+    {
+      "ImageUrl": "빛의수호사도/4.webp",
+      "Desc": "서밋아레나 S17 패자스킨"
     }
   ],
   "Name": "빛의 수호사도",
@@ -112,6 +116,9 @@
         },
         {
           "ImageUrl": "빛의수호사도/3/1.webp"
+        },
+        {
+          "ImageUrl": "빛의수호사도/4/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -144,6 +151,9 @@
         },
         {
           "ImageUrl": "빛의수호사도/3/1.webp"
+        },
+        {
+          "ImageUrl": "빛의수호사도/4/1.webp"
         }
       ],
       "AttkRange": 1,

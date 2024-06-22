@@ -383,7 +383,7 @@
       "Animation": "../img/Super/타브리스_Ani.webp"
     }
   ],
-  "Propose": false,
+  "Propose": true,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  

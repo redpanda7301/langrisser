@@ -16,6 +16,10 @@
     {
       "ImageUrl": "마이야/3.webp",
       "Desc": "형귀뽑기"
+    },
+    {
+      "ImageUrl": "마이야/4.webp",
+      "Desc": "한정판매"
     }
   ],
   "Name": "마이야",
@@ -120,6 +124,9 @@
         },
         {
           "ImageUrl": "마이야/3/1.webp"
+        },
+        {
+          "ImageUrl": "마이야/4/1.webp"
         }
       ],
       "AttkRange": 2,
@@ -155,6 +162,9 @@
         },
         {
           "ImageUrl": "마이야/3/1.webp"
+        },
+        {
+          "ImageUrl": "마이야/4/1.webp"
         }
       ],
       "AttkRange": 2,
