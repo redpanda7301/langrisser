@@ -543,7 +543,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Skill_PalCrash.webp",
-      "Desc": "[지원]액티브 스킬, 범위 내 아군들이 주는 피해량 +15%, 받는 피해량-15%, 2턴 지속.<br/>그리고 사용자 지력 3배의 생명을 회복시킨다.",
+      "Desc": "범위 내 아군들에게 시전자 지력 <font color=\"red\">3</font>배의 생명 <font color=\"green\">회복</font> 및<br/><font color=\"blue\">주는 피해량</font> <font color=\"red\">+15%</font>, 받는 피해량 <font color=\"red\">-15%</font> 부여<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": null
     },

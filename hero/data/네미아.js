@@ -76,7 +76,12 @@
   ],
   "SPTalent": null,
   "Second_Awaken": null,
-  "Equip": null,
+  "Equip": {
+    "Name": "근원을 거슬러 오르는 길(갑옷)",
+    "Stats": "생명 509,방어 59",
+    "Icon": "네미아.webp",
+    "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"purple\">군도의 물결</font> 사거리 <font color=\"red\">+1</font><br/>아군이 설치한 <font color=\"purple\">심오한 해류</font>의 추가 효과 획득 시<br/><font color=\"blue\">지형 특수 효과를 제거하지 않음</font><br/>주위 <font color=\"red\">2</font>칸 범위 안 다른 아군이 <font color=\"purple\">심오한 해류</font>를 제거 시<br/>'<font color=\"blue\">파도를 타는 항해</font>' 효과 획득<br/> <font color=\"blue\">파도를 타는 항해</font> : 아군의 <font color=\"purple\">심오한 해류</font>를 통과 시<br/><font color=\"red\">2</font>칸 <font color=\"blue\">이동력 저하 면역 기회</font> 획득<br/>지속 <font color=\"red\">1</font>행동"
+  },
   "Soldiers": [
    13,
    43,

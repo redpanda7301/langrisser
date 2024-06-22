@@ -598,7 +598,7 @@
       "Animation": null
     },
     {
-      "Name": "성룡의 탄식",
+      "Name": "성룡의 숨결",
       "Cost": "COST 2",
       "Entries": [
         {

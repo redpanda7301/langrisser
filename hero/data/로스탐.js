@@ -79,7 +79,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+"Second_Awaken":{
+    "Name" : "광람파사",
+    "Stats": "공격, 기술 <font color=\"red\">+5%</font><br/><font color=\"blue\">분노의 격투</font>로 전투 진입 전, 자신이 방어 지형이나 '<font color=\"brown\">사막</font>'에 위치할 경우<br/>해당 공격은 <font color=\"blue\">호위 무시</font>",
+  },
   "Equip": {
     "Name": "사막의 광풍(투구)",
     "Stats": "생명 437,마방 59",

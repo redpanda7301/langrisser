@@ -83,7 +83,10 @@
     }
   ],
   "SPTalent": null,
-  "Second_Awaken": null,
+"Second_Awaken":{
+    "Name" : "꼭두각시 각성",
+    "Stats": "지력 <font color=\"red\">+10%</font><br/>꼭두각시의 위치 이동을 다른 아군에게 사용 가능",
+  },
   "Equip": {
     "Name": "면죄의 관(투구)",
     "Stats": "생명 364,마방 65",
