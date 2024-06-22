@@ -420,7 +420,7 @@
           "Value": "고유기"
         }
     ],
-    "IconImageUrl": "../img/ability/Gift_Brightunicorn.webp",
+    "IconImageUrl": "../img/ability/Gift_Thunderunicorn.webp",
     "Desc": "전투 진입 전, <font color=\"blue\">선제 공격</font> <font color=\"red\">1</font>회<br/>자신과 빛의 소환사의 스킬, 선제 공격으로 명중하는 모든 지형에 '<font color=\"blue\">번개의 낙인</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동)<br/><font color=\"blue\">번개의 낙인</font> : 적이 해당 지형에서 행동 종료 시, 지력 <font color=\"blue\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 마방 <font color=\"red\">-30%</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동",
     "SubSkills": [
       {
