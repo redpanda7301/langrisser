@@ -232,7 +232,7 @@
               }
             ],
             "IconImageUrl": "../img/skills/Virelia/Gift_Virelia_2.webp",
-            "Desc": "'<font color=\"blue\">에너지 집중</font>' 효과 획득<br/><font color=\"blue\">에너지 집중</font> : <font color=\"blue\">스킬</font>>로 공격 시 <font color=\"blue\">사거리</font> <font color=\"red\">+2</font>, <font color=\"blue\">부대는 직선 이동만 가능</font>(디메리트)<br/>면역 및 해제 불가.<br/>다음 스킬 공격 후까지 지속<br/>자신이 보유한 버프 지속 시간이 감소하지 않으며 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능)"
+            "Desc": "'<font color=\"blue\">에너지 집중</font>' 효과 획득<br/><font color=\"blue\">에너지 집중</font> : <font color=\"blue\">스킬</font>로 공격 시 <font color=\"blue\">사거리</font> <font color=\"red\">+2</font>, <font color=\"blue\">부대는 직선 이동만 가능</font>(디메리트)<br/>면역 및 해제 불가.<br/>다음 스킬 공격 후까지 지속<br/>자신이 보유한 버프 지속 시간이 감소하지 않으며 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능)"
           },
           {
             "Name": "촉진",

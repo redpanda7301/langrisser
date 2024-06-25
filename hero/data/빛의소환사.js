@@ -433,7 +433,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/Brightsummoner/Skill_Thunderunicorn_1.webp",
-        "Desc": "선공으로 전투 진입 전, 아군 쪽 '<font color=\"blue\">번개의 낙인</font>'에 위치한 모든 적에게 '<font color=\"blue\">뇌격</font>' 효과 부여<br/><font color=\"blue\">뇌격</font> : 부대 병사 숫자 <font color=\"red\">-2</font><br/>대상이 처음부터 병사를 대동하지 않았을 경우<font color=\"blue\">받는 피해</font> <font color=\"red\">+20</font>% 효과로 대체<br/>>지속 <font color=\"red\">2</font>행동 및 지력 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>",
+        "Desc": "선공으로 전투 진입 전, 아군 쪽 '<font color=\"blue\">번개의 낙인</font>'에 위치한 모든 적에게 '<font color=\"blue\">뇌격</font>' 효과 부여<br/><font color=\"blue\">뇌격</font> : 부대 병사 숫자 <font color=\"red\">-2</font><br/>대상이 처음부터 병사를 대동하지 않았을 경우<font color=\"blue\">받는 피해</font> <font color=\"red\">+20</font>% 효과로 대체<br/>지속 <font color=\"red\">2</font>행동 및 지력 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>",
       },
       {
         "Name": "썬더스톰",

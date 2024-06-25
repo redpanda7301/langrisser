@@ -98,16 +98,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-10%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">30%</font> 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-10%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">30%</font> 확률로 <font color=\"blue\">선제 공격</font>"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-15%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">40%</font> 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-15%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">40%</font> 확률로 <font color=\"blue\">선제 공격</font>"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-20%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">50%</font> 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-20%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">50%</font> 확률로 <font color=\"blue\">선제 공격</font>"
         },
         {
-          "Desc": "모든 받는 피해 <font color=\"red\">-25%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">70%</font> 확률로 <font color=\"blue\">>선제 공격</font>"
+          "Desc": "모든 받는 피해 <font color=\"red\">-25%</font><br/>자신 주위 <font color=\"red\">1</font>바퀴 범위 안 모든 공격 호위.<br/>근접 공격 피격 시 <font color=\"red\">2회</font> 공격 및 <font color=\"Red\">70%</font> 확률로 <font color=\"blue\">선제 공격</font>"
         }
       ]
     }

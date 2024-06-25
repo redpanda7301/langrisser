@@ -144,7 +144,7 @@
       "Skill": 115,
       "SkillRate": 33,
       "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10%</font>",
-      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시><br/>전투 진입 후 피해 <font color=\"red\">+10%</font>"
+      "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시<br/>전투 진입 후 피해 <font color=\"red\">+10%</font>"
     }
   ],
   "Materials": {
