@@ -184,33 +184,6 @@
   ],
   "SPOpenConditions": null,
   "Skills": [
-    // {
-    //   "Name": "성스러운 빛의 검",
-    //   "Cost": "-",
-    //   "Entries": [
-    //     {
-    //       "Label": "유형",
-    //       "Value": "고유기"
-    //     }
-    //   ],
-    //   "IconImageUrl":"../img/ability/Gift_Ronland.webp",
-    //   "Desc": "전투 시작 시 영웅 병종에 따라 다른 형태 획득.",
-    //   "SubSkills": [
-    //     {
-    //       "Name": "<img src=\"../img/troop/Icon_Occupation_Monk.webp\" width=\"20px\">신관",
-    //       "Entries": null,
-    //       "IconImageUrl": "../img/skills/Roland/Gift_Roland2.webp",
-    //       "Desc": "'<font color=\"purple\">납도</font>' 획득<br/><font color=\"purple\">납도</font> : 지력의 <font color=\"red\">10%</font> 수치를 방어에 더하고<br/>선공으로 전투 진입 시 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font><br/><font color=\"purple\">납도</font>는 면역 및 해제불가"
-    //     },
-    //     {
-    //       "Name": "<img src=\"../img/troop/Icon_Occupation_Magician.webp\" width=\"20px\">마법사",
-    //       "Entries": null,
-    //       "IconImageUrl" : "../img/skills/Roland/Gift_Roland2.webp",
-    //       "Desc": "'<font color=\"purple\">눈부심</font>' 획득<br/><font color=\"purple\">눈부심</font> : 스킬 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>선공으로 적에게 피해를 입힌 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여<br/><font color=\"blue\>눈부심</font>은 면역 및 해제 불가"
-    //     },
-    //   ],
-    //   "Animation": null
-    // },
     {
       "Name": "징벌",
       "Cost": "COST 2",

@@ -154,7 +154,7 @@
         }
       ],
       "IconImageUrl": "../img/skills/Agito/1.webp",
-      "Desc": "단일 개체 <font color=\"red\>1</font>배 피해 및 <font color=\"red\>50%</font> 확률로 전투 후 적에게 <font color=\"blue\>무작위 디버프</font> <font color=\"red\>1</font>개 부여<br/><font color=\"blue\>근접전 병사 대동 시, 병사도 함께 공격<br/><font color=\"blue\>해당 효과는 근접전 패널티를 받지 않음</font>",
+      "Desc": "단일 개체 <font color=\"red\">1</font>배 피해 및 <font color=\"red\">50%</font> 확률로 전투 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여<br/><font color=\"blue\">근접전 병사 대동 시, 병사도 함께 공격<br/><font color=\"blue\">해당 효과는 근접전 패널티를 받지 않음</font>",
       "SubSkills": null,
       "Animation": null
     },
