@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "항로 개척",
+      "TalentName": "항로 개척",
       "Icon": "Gift_BlackJack.webp",
       "Abilities": [
         {
@@ -77,7 +77,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "검은 고양이 함장의 모자(투구)",
+    "EqpName": "검은 고양이 함장의 모자(투구)",
     "Stats": "생명 437, 마방 59",
     "Icon": "잭.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">COST 제한 무시</font><br/><font color=\"purple\">항로 표식</font> <font color=\"blue\">지휘</font> 범위 안 아군이 선공으로 피해를 준 경우<br/>적의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">약탈</font> 및 행동 종료 시 잭에게 무작위 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 부여"
@@ -253,7 +253,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "패시브 지휘"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Jack/1.webp",

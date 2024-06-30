@@ -50,7 +50,7 @@
   "HeartFetter": "생명+700, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "어둠의 소년",
+      "TalentName": "어둠의 소년",
       "Icon": "61.webp",
       "Abilities": [
         {

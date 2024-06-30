@@ -53,7 +53,7 @@
   "HeartFetter": "생명+600, 방어+20, 마방+40",
   "Talent": [
     {
-      "Name": "은밀한 날갯짓",
+      "TalentName": "은밀한 날갯짓",
       "Icon": "Gift_Tsubame.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "은밀하고 신속한 칼날",
+    "Awaken_Name" : "은밀하고 신속한 칼날",
     "Stats":"공격, 기술 <font color=\"red\">+5%</font><br/>자신이 <font color=\"purple\">은신</font> 효과 보유 상태로 <font color=\"blue\">스킬</font>로 피해를 입힐 경우<br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-3</font>행동"
   },
   "Equip": {
-    "Name": "몰래 날아가는 별의 투구(투구)",
+    "EqpName": "몰래 날아가는 별의 투구(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "츠바메.webp",
     "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/>피해 +10%, 받는 범위 피해 -10%, <br/><b>자신이 은신 상태일 경우</b> 치명타 피해 <font color=\"red\">+15%</font>, <br/><b>행동 종료 시 <font color=\"blue\">제비처럼 가볍게</font></b> 효과 획득 : <br/>이동력 <font color=\"red\">+1</font>, 최대 <font color=\"red\">2</font>중첩, <br/>지속 <font color=\"red\">2</font>행동,"

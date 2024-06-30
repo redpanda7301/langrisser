@@ -49,7 +49,7 @@ var data = [
   "HeartFetter": "생명+1100, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "솔선수범",
+      "TalentName": "솔선수범",
       "Icon": "34.webp",
       "Abilities": [
         {
@@ -75,11 +75,11 @@ var data = [
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "영원한 맹세의 창",
+    "Awaken_Name" : "영원한 맹세의 창",
     "Stats":"생명, 방어 <font color=\"red\">+5%</font><br/><b>전장에 윌러가 아군으로 있을 경우</b><br/>자신의 <font color=\"blue\">부대 반격 사거리</font> <font color=\"red\">+1</font>"
   },
   "Equip": {
-    "Name": "여명의 수호자(갑옷)",
+    "EqpName": "여명의 수호자(갑옷)",
     "Stats": "생명 583,방어 65",
     "Icon": "세레나.webp",
     "Ability": "방어 +10%<br/>자신 주변 3칸 범위내 체력이 80% 미만의 아군을 '병사를 잃은' 상태로 간주"

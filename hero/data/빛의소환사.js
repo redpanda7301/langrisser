@@ -10,7 +10,7 @@
           "Desc": "빛의 메아리"
         }
     ],
-    "Name": "빛의 소환사",
+    "Name": "빛의소환사",
     "CV": "사쿠라 아야네",
     "ChName": "辉耀圣召使",
     "EngName": "Brightsummoner",
@@ -244,7 +244,7 @@
         "Desc": "공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br/>전투 후 가장 생명이 적은 다른 아군 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 자신 지력의 <font color=\"red\">2</font>배.",
         "SubSkills": null,
         "Animation": null
-      },
+    },
     {
         "Name": "계약 소환",
         "Cost": "COST 1",
@@ -282,7 +282,16 @@
           {
             "Label": "쿨타임",
             "Value": "2턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "자신"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
           }
+
       ],
       "IconImageUrl": "../img/skills/Brightsummoner/Skill_Brightsummoner_1.webp",
       "Desc": "주위 <font color=\"red\">3</font>칸 범위 안 가장 가까운 위치에 유니콘 <font color=\"blue\">소환</font><br/>유니콘은 소환자의 장비 특성 및 스탯 <font color=\"red\">90%</font>를 따라감<br/>해당 스킬은 소환으로 변경 (자신 혹은 유니콘을 상대 곁으로 소환)",
@@ -355,7 +364,7 @@
         "Entries": [
           {
             "Label": "유형",
-            "Value": "지휘"
+            "Value": "패시브"
           }
         ],
         "IconImageUrl": "../img/skills/Brightsummoner/Skill_Brightunicorn_1.webp",
@@ -429,7 +438,7 @@
         "Entries": [
           {
             "Label": "유형",
-            "Value": "지휘"
+            "Value": "패시브"
           }
         ],
         "IconImageUrl": "../img/skills/Brightsummoner/Skill_Thunderunicorn_1.webp",

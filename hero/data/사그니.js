@@ -54,7 +54,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "냉혹한 서리",
+      "TalentName": "냉혹한 서리",
       "Icon": "Gift_Sagny.webp",
       "Abilities": [
         {
@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "눈의 로브(갑옷)",
+    "EqpName": "눈의 로브(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "사그니.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">살을 에는 추위</font> 사용 후, <font color=\"blue\">눈부엉이</font> 이동 횟수 <font color=\"red\">+1</font><br/>주위 <font color=\"red\">6</font>칸 범위 안에 자신이 부른 <font color=\"blue\">눈부엉이</font>가 있을 경우<br/>부활 <font color=\"red\">1</font>회<br/>(최대 <font color=\"red\">1</font>회 발동)"
@@ -553,7 +553,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",

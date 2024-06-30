@@ -49,7 +49,7 @@
   "HeartFetter": "생명+650, 방어+50, 마방+40",
   "Talent": [
     {
-      "Name": "이도류",
+      "TalentName": "이도류",
       "Icon": "22.webp",
       "Abilities": [
         {
@@ -75,11 +75,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "마족 사냥류",
+    "Awaken_Name" : "마족 사냥류",
     "Stats": "치명타 피해 <font color=\"red\">+10%</font><br/>전투 진입 후 치명타 발생 시, 전투 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여"
   },
   "Equip": {
-    "Name": "삿갓(투구)",
+    "EqpName": "삿갓(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "키리카제.webp",
     "Ability": "방어, 마방 +5%<br/>부대 생명이 100%시 기술 +30%"

@@ -74,7 +74,7 @@
   "HeartFetter": "생명+300, 방어+20, 마방+50",
   "Talent": [
     {
-      "Name": "숨바꼭질",
+      "TalentName": "숨바꼭질",
       "Icon": "54.webp",
       "Abilities": [
         {
@@ -100,11 +100,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "고독한 별의 검",
+    "Awaken_Name" : "고독한 별의 검",
     "Stats": "공격 <font color=\"red\">+10%</font><br/>자신이 병사가 없는 상태에서 행동 종료 시, <font color =\"blue\">재행동</font> 가능<br/>해당 재행동의 이동력은 남은 이동력 <font color =\"red\">+3</font>, 쿨타임 <font color =\"red\">2</font>"
   },
   "Equip": {
-    "Name": "따뜻한 기억(투구)",
+    "EqpName": "따뜻한 기억(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "젤다.webp",
     "Ability": "생명 +5%<br/>행동종료시, 주변 2칸 이내 아군이 없을경우 생명 20% 회복 및 1개의 디버프 제거"

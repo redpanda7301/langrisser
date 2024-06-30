@@ -50,7 +50,7 @@
   "HeartFetter": "생명+1000, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "실드 로드",
+      "TalentName": "실드 로드",
       "Icon": "Gift_Albedo.webp",
       "Abilities": [
         {

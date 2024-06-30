@@ -14,7 +14,7 @@
       "Desc": "형귀 스킨"
     }
   ],
-  "Name": "지온",
+  "Name": "시엔",
   "ChName": "席恩",
   "EngName": "Zion",
   "JapName": "",
@@ -45,7 +45,7 @@
       "Condition": "지온을 출전시켜 시공의 균열 3-1[하드] 클리어"
     },
     {
-      "Condition": "율리안의 도움을 받아 운명의문4"
+      "Condition": "줄리안의 도움을 받아 운명의문4"
     },
     {
       "Condition": "리오벡의 도움을 받아 운명의문5"
@@ -54,7 +54,7 @@
   "HeartFetter": "생명+700, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "피를 구하는 륜",
+      "TalentName": "피를 구하는 륜",
       "Icon": "Gift_Zion.webp",
       "Abilities": [
         {
@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "숨겨진 암면(투구)",
+    "EqpName": "숨겨진 암면(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "지온.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">륜</font> 회수 후, <font color=\"blue\">받는 피해</font> <font color=\"red\">-20%</font> 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>행동 종료 시 <font color=\"red\">10</font>칸 범위 안 무작위 적이 있는 위치에 <font color=\"blue\">륜</font> 생성<br/>쿨타임 <font color=\"red\">2</font><br/><b>아레나에서는 범위가 전지역으로 확대</b>"

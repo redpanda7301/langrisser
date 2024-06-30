@@ -46,7 +46,7 @@
   "HeartFetter": "생명+600, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "암흑 기사",
+      "TalentName": "암흑 기사",
       "Icon": "89.webp",
       "Abilities": [
         {

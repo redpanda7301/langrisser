@@ -57,7 +57,7 @@
   "HeartFetter": "생명+800, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "정의의 관",
+      "TalentName": "정의의 관",
       "Icon": "Gift_Mariel.webp",
       "Abilities": [
         {
@@ -83,11 +83,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "전투의 바람",
+    "Awaken_Name" : "전투의 바람",
     "Stats":"공격 <font color=\"red\">+5%</font><br/><font color=\"blue\">성스러운 분노의 일격</font>으로 적을 격파후, 행동 종료시<br/><font color=\"blue\">성스러운 분노</font> 획득<br/>반대일 경우 적 <font color=\"blue\">기절</font><br/>지속 <font color=\"red\">1</font>행동"
   },
   "Equip": {
-    "Name": "성스러운 프레일(무기)",
+    "EqpName": "성스러운 프레일(무기)",
     "Stats": "생명 583,공격 85",
     "Icon": "마리엘.webp",
     "Ability": "공격 <font color=\"red\">+10%</font><br/><font color=\"purple\">계율</font>보유 시 스킬 사용 후 스킬 쿨타임 <font color=\"red\">-1</font><br/><font color=\"purple\">계율</font> 미보유 시 영웅이 주는 피해량 <font color=\"red\">+10%</font><br/>쿨타임 <font color=\"red\">2</font>행동"
@@ -443,7 +443,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",

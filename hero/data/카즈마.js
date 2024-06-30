@@ -6,7 +6,7 @@
       "Desc": "기본"
     }
   ],
-  "Name": "쿠와바라 카즈마",
+  "Name": "카즈마",
   "ChName": "桑原和真",
   "EngName": "Kuwabara",
   "JapName": "桑原和真",
@@ -46,7 +46,7 @@
   "HeartFetter": "생명+900, 방어+60, 마방+30",
   "Talent": [
     {
-      "Name": "사랑이야말로 정의",
+      "TalentName": "사랑이야말로 정의",
       "Icon": "36.webp",
       "Abilities": [
         {
@@ -72,7 +72,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "시련의 검",
+    "Awaken_Name" : "시련의 검",
     "Stats": "공격 <font color=\"red\">+10%</font><br/><font color=\"blue\">영검 변환</font> 사용 후 <font color=\"blue\">재공격</font><br/><b>해당 재공격은 버프 지속 시간을 소모하지 않음</b>"
   },
   "Equip": null,

@@ -6,7 +6,7 @@
       "Desc": "기본"
     }
   ],
-  "Name": "이쿠사베 와타루",
+  "Name": "와타루",
   "ChName": "战部渡",
   "EngName": "Wataru",
   "JapName": "戦部ワタル",
@@ -46,7 +46,7 @@
   "HeartFetter": "생명+600, 방어+50, 마방+40",
   "Talent": [
     {
-      "Name": "신룡의 힘",
+      "TalentName": "신룡의 힘",
       "Icon": "Gift_Wataru.webp",
       "Abilities": [
         {
@@ -428,7 +428,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",

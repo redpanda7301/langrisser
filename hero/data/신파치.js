@@ -45,7 +45,7 @@
   "HeartFetter": "생명+900, 방어+60, 마방+30",
   "Talent": [
     {
-      "Name": "츳코미 담당",
+      "TalentName": "츳코미 담당",
       "Icon": "Gift_Shinpachi.webp",
       "Abilities": [
         {

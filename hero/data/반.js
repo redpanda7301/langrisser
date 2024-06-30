@@ -50,7 +50,7 @@
   "HeartFetter": "생명+750, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "곤륜류암파",
+      "TalentName": "곤륜류암파",
       "Icon": "Gift_Van.webp",
       "Abilities": [
         {

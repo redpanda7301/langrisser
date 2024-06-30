@@ -50,7 +50,7 @@
   "HeartFetter": "생명+750, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "잿빛 기사",
+      "TalentName": "잿빛 기사",
       "Icon": "Gift_Rean.webp",
       "Abilities": [
         {

@@ -50,7 +50,7 @@
   "HeartFetter": "생명+350, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "정보분석",
+      "TalentName": "정보분석",
       "Icon": "Gift_Altina.webp",
       "Abilities": [
         {

@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "칸자키 스미레",
+  "Name": "스미레",
   "ChName": "神崎堇",
   "EngName": "Sumire",
   "JapName": "神崎すみれ",
@@ -50,7 +50,7 @@
   "HeartFetter": "생명+800, 방어+60, 마방+20",
   "Talent": [
     {
-      "Name": "센터 스팟",
+      "TalentName": "센터 스팟",
       "Icon": "71.webp",
       "Abilities": [
         {
@@ -76,7 +76,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "아름다운 여인의 춤사위",
+    "Awaken_Name" : "아름다운 여인의 춤사위",
     "Stats":"공격,방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">비룡의 춤</font>, <font color=\"blue\">열반</font> <b>제거 불가</b> 및 지속 <font color=\"red\">+1</font>행동"
   },
   "Equip": null,

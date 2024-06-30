@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "소니아 블랑쉬",
+  "Name": "블랑쉬",
   "ChName": "桑妮雅",
   "EngName": "Sonia Blanche",
   "JapName": "ソニア・ブランシュ",
@@ -50,7 +50,7 @@
   "HeartFetter": "생명+850, 방어+60, 마방+50",
   "Talent": [
     {
-      "Name": "성스러운 빛의 영역",
+      "TalentName": "성스러운 빛의 영역",
       "Icon": "Gift_Blanche.webp",
       "Abilities": [
         {
@@ -411,7 +411,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
@@ -439,7 +439,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",

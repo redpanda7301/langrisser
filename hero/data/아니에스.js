@@ -50,7 +50,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "옥토 제네시스",
+      "TalentName": "옥토 제네시스",
       "Icon": "Gift_Agnes.webp",
       "Abilities": [
         {

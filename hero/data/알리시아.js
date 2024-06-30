@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "알리시아 멜키오트",
+  "Name": "알리시아",
   "ChName": "亚莉希雅·梅尔吉欧特",
   "EngName": "Alicia Melchiott",
   "JapName": "アリシア・メルキオット",
@@ -50,7 +50,7 @@
   "HeartFetter": "생명+600, 방어+50, 마방+40",
   "Talent": [
     {
-      "Name": "무력 정찰",
+      "TalentName": "무력 정찰",
       "Icon": "Gift_Alicia.webp",
       "Abilities": [
         {

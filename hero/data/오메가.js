@@ -57,7 +57,7 @@
   "HeartFetter": "생명+650, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "환영의 혜성",
+      "TalentName": "환영의 혜성",
       "Icon": "74.webp",
       "Abilities": [
         {
@@ -83,11 +83,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "환영 유성",
+    "Awaken_Name" : "환영 유성",
     "Stats": "기술 <font color=\"red\">+10%</font><br/><font color=\"blue\">스킬</font>을 사용해 전투 진입 시<br/><font color=\"blue\">병사 사거리</font> <font color=\"red\">+1</font>, <font color=\"blue\">영웅이 주는 피해량</font> <font color=\"red\">+10%</font>"
   },
   "Equip": {
-    "Name": "아집(투구)",
+    "EqpName": "아집(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "오메가.webp",
     "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%<br/><b>선공으로 스킬을 사용해 적 격파 시, 해당 스킬 쿨타임 <font color=\"red\">-2</font> 및</b> <br/><b>행동 종료 시</b> 기술 <font color=\"red\">+20%</font>, 이동력 <font color=\"red\">+2</font><br/>지속 <font color=\"red\">1</font>행동"

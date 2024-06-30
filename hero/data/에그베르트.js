@@ -54,7 +54,7 @@
   "HeartFetter": "생명+450, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "맹렬한 불길",
+      "TalentName": "맹렬한 불길",
       "Icon": "28.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "칠흑의 마도",
+    "Awaken_Name" : "칠흑의 마도",
     "Stats":"지력 <font color=\"red\">+5%</font><br/>적에게 피해를 준 뒤 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">고정피해</font><br/>피해량은 지력 <font color=\"red\">1</font>배"
   },
   "Equip": {
-    "Name": "플레임 코트(갑옷)",
+    "EqpName": "플레임 코트(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "에그베르트.webp",
     "Ability": "생명, 마방 +5%<br/>공격을 받아 피해를 입은후 \"기술사거리+1,범위+1\",1턴 지속 버프획득"

@@ -18,7 +18,7 @@
       "Desc": "한정판매"
     }
   ],
-  "Name": "아이언 챈슬러",
+  "Name": "아이언챈슬러",
   "ChName": "铁血总帅",
   "EngName": "IronChancellor",
   "JapName": "",
@@ -58,7 +58,7 @@
   "HeartFetter": "생명+400, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "철혈의 계책",
+      "TalentName": "철혈의 계책",
       "Icon": "Gift_Chancellor.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "굳건한 뜻과 용기",
+    "Awaken_Name" : "굳건한 뜻과 용기",
     "Stats": "지력 <font color=\"red\">+5%</font><br/>전장에 남은 다른 아군 수가 <font color=\"red\">2</font>인 미만일 때에도 <font color =\"purple\">열진</font> 스킬 사용 가능"
   },
   "Equip": {
-    "Name": "진홍빛 포부(투구)",
+    "EqpName": "진홍빛 포부(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "아이언챈슬러.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>전투 중 <font color=\"purple\">포진 스킬</font> 사용 후, 해당 스킬 버프 지속 시간 <font color=\"red\">+1</font>"

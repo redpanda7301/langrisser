@@ -62,7 +62,7 @@
   "HeartFetter": "생명+850, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "광휘의 신앙",
+      "TalentName": "광휘의 신앙",
       "Icon": "Gift_Rozalia.webp",
       "Abilities": [
         {
@@ -88,11 +88,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "성스러운 은의 심판",
+    "Awaken_Name" : "성스러운 은의 심판",
     "Stats": "공격 <font color=\"red\">+5%</font><br/>자신이 아군 <font color=\"blue\">수호의 검</font> <font color=\"blue\">지휘</font> 범위 안에 있을 경우<br/><font color=\"blue\">액티브 스킬</font>로 피해를 입힌 후 해당 스킬 <font color=\"blue\">쿨타임</font> <font color=\"red\">1</font> ~ <font color=\"red\">3</font> <font color=\"blue\">무작위 감소</font>"
   },
   "Equip": {
-    "Name": "성광의 검(검)",
+    "EqpName": "성광의 검(검)",
     "Stats": "생명 437,공격 107",
     "Icon": "로자리아.webp",
     "Ability": "공격 +<font color=\"red\">10%</font><br/>자신이 <font color =\"blue\">수호의 검</font> 효과 범위 안에 있을 경우,<br/>지형에 따른 이동 효과를 받지 않음, <br/>부대 받는 치명타 확률 <font color=\"red\">-20%</font>"

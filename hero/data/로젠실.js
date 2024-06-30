@@ -58,7 +58,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+30",
   "Talent": [
     {
-      "Name": "수정여왕",
+      "TalentName": "수정여왕",
       "Icon": "Gift_Rozenciel.webp",
       "Abilities": [
         {
@@ -85,7 +85,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "순결한 수정의 면사(투구)",
+    "EqpName": "순결한 수정의 면사(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "로젠실.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>자신이 보유한 <font color=\"purple\">수정 장벽</font> <font color=\"red\">1</font>스택 당 <font color=\"green\">치료 효과</font> <font color=\"red\">+3%</font><br/><b>영웅 사망 시</b> 주위 <font color=\"red\">2</font>칸 범위 안 다른 아군 <font color=\"green\">생명 회복</font><br/>회복량은 로젠실 지력 <font color=\"red\">2</font>배 수치"

@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "충성심",
+      "TalentName": "충성심",
       "Icon": "Gift_Andriole.webp",
       "Abilities": [
         {

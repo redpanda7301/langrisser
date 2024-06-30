@@ -62,7 +62,7 @@
   "HeartFetter": "생명+850, 방어+60, 마방+50",
   "Talent": [
     {
-      "Name": "패왕의 의지",
+      "TalentName": "패왕의 의지",
       "Icon": "44.webp",
       "Abilities": [
         {
@@ -114,7 +114,7 @@
   ],
   "Second_Awaken": null,
   "Equip": {
-    "Name": "패왕의 전투 갑주(갑옷)",
+    "EqpName": "패왕의 전투 갑주(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "베른하르트.webp",
     "Ability": "생명 +5%<br/>영웅 고유기술 범위 +1"

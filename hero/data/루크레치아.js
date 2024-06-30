@@ -58,7 +58,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "꼭두각시 마녀",
+      "TalentName": "꼭두각시 마녀",
       "Icon": "Gift_Lucretia.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
 "Second_Awaken":{
-    "Name" : "꼭두각시 각성",
+    "Awaken_Name" : "꼭두각시 각성",
     "Stats": "지력 <font color=\"red\">+10%</font><br/>꼭두각시의 위치 이동을 다른 아군에게 사용 가능",
   },
   "Equip": {
-    "Name": "면죄의 관(투구)",
+    "EqpName": "면죄의 관(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "루크레치아.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><font color =\"purple\">마력 꼭두각시</font>가 행동 종료 시 소환자에게 걸린 <font color =\"blue\">디버프</font> <font color =\"red\">1</font>개를 제거하며<br/><font color =\"blue\">무작위 면역</font> 효과 <font color =\"red\">1</font>개 부여<br/>지속 <font color =\"red\">1</font>행동<br/><font color =\"purple\">마력 꼭두각시</font>가 먼저 공격 시 선제 공격, 소환자 사망 시 피해 <font color =\"red\">30%</font>"

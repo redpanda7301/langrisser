@@ -49,7 +49,7 @@
   "HeartFetter": "생명+800, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "루키등장! 수륙양용의 용사",
+      "TalentName": "루키등장! 수륙양용의 용사",
       "Icon": "37.webp",
       "Abilities": [
         {
@@ -75,11 +75,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "일어서는 파도",
+    "Awaken_Name" : "일어서는 파도",
     "Stats": "공격 <font color=\"red\">+10%</font><br/>자신이 <font color=\"blue\">수중 지형</font>에 있는 상태에서 <font color=\"blue\">노도 돌진</font> 사용 시<br/>전투 후 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
   },
   "Equip": {
-    "Name": "오션즈 하트(장신구)",
+    "EqpName": "오션즈 하트(장신구)",
     "Stats": "공격 75, 기술 37",
     "Icon": "알프레드.webp",
     "Ability": "공격+8%<br/>전투진입전 적군이 '수병'이아닐경우 적군의 지형을 '수중'으로 간주, 1턴 지속.<br/>만약 자신부대의 생명이 100%라면 자신의 지형을 '수중'으로 간주, 1턴 지속.<br/>자신에게 발동하는 '수중'효과는 발동후 2턴후 재발동가능."

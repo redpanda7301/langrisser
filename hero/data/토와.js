@@ -58,7 +58,7 @@
   "HeartFetter": "생명+900, 방어+60, 마방+30",
   "Talent": [
     {
-      "Name": "방랑 군사",
+      "TalentName": "방랑 군사",
       "Icon": "Gift_Towa.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "전수의 길",
+    "Awaken_Name" : "전수의 길",
     "Stats": "공격,방어 <font color=\"red\">+5%</font><br/>자신이 <font color=\"blue\">초절 강화 특수 효과</font> 보유한 상태로 <font color=\"blue\">전술 지도</font> 사용했을 시<br/>복제 수량 <font color=\"red\">+2</font>",
   },
   "Equip": {
-    "Name": "영안 안경(투구)",
+    "EqpName": "영안 안경(투구)",
     "Stats": "생명 583, 마방 48",
     "Icon": "토와.webp",
     "Ability": "생명 <font color=\"red\">+5</font>)%, 방어 <font color=\"red\">+5%</font><br/><b>자신이 <font color =\"blue\">초절강화 특수효과</font> 보유시</b><br/>선공으로 전투 진입시 영웅이 주는 피해량 <font color =\"red\">+10%</font><br/><b>적이 <font color =\"blue\">초절강화 특수효과</font> 미보유 시 적의 '<font color =\"blue\">공격, 지력 <font color =\"red\">-15%</font><br/>지속 <font color=\"red\">1</font>행동"
@@ -446,7 +446,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",
@@ -597,6 +597,14 @@
         {
           "Label": "쿨타임",
           "Value": "5턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
         }
       ],
       "IconImageUrl": "../img/Super/토와.webp",

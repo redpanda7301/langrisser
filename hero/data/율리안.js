@@ -14,7 +14,7 @@
       "Desc": "형귀스킨"
     }
   ],
-  "Name": "율리안",
+  "Name": "줄리안",
   "ChName": "朱利安",
   "EngName": "Julian",
   "JapName": "",
@@ -54,7 +54,7 @@
   "HeartFetter": "생명+600, 방어+20, 마방+40",
   "Talent": [
     {
-      "Name": "피의 추격",
+      "TalentName": "피의 추격",
       "Icon": "Gift_Julian.webp",
       "Abilities": [
         {
@@ -84,7 +84,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "집행자의 침묵(투구)",
+    "EqpName": "집행자의 침묵(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "율리안.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>전장에 생명 <font color=\"red\">100%</font> 미만 적 부대가 있을 경우<br/><font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>공격 후 <font color=\"red\">20%</font> 확률로 <font color=\"blue\">재행동</font>(쿨타임 <font color=\"red\">2</font>행동)"
@@ -430,7 +430,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",

@@ -46,7 +46,7 @@
   "HeartFetter": "생명+350, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "섬멸천사",
+      "TalentName": "섬멸천사",
       "Icon": "63.webp",
       "Abilities": [
         {

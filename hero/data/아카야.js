@@ -54,7 +54,7 @@
   "HeartFetter": "생명+600, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "성령의 수호",
+      "TalentName": "성령의 수호",
       "Icon": "86.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "늑대의 원한",
+    "Awaken_Name" : "늑대의 원한",
     "Stats":"공격, 지력 <font color=\"red\">+5%</font><br/><font color=\"purple\">늑대영혼</font> 사망 시 아카야가 주는 피해량 <font color=\"red\">+10%</font><br/>지속 <font color=\"red\">1</font>행동 "
   },
   "Equip": {
-    "Name": "성령의 뿔(무기)",
+    "EqpName": "성령의 뿔(무기)",
     "Stats": "공격 107,지력 107",
     "Icon": "아카야.webp",
     "Ability": "공격, 지력 +10%<br/>행동 종료시, 자신 주변에 [늑대정령]소환. <br/>늑대정령의 능력치는 아카야 스탯의 75%.<br/>(한번에 한마리의 늑대정령만 보유가능하며, 전투중 최대 1회 발동)"

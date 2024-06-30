@@ -18,9 +18,9 @@
       "Desc": "서밋아레나 S14 패자스킨"
     }
   ],
-  "Name": "베르너",
+  "Name": "에길",
   "ChName": "维尔纳",
-  "EngName": "Verner",
+  "EngName": "Verner von egil",
   "JapName": "",
   "CV": "미도리카와 히카루",
   "Rank": [
@@ -58,7 +58,7 @@
   "HeartFetter": "생명+850, 방어+60, 마방+50",
   "Talent": [
     {
-      "Name": "선택의 쌍검",
+      "TalentName": "선택의 쌍검",
       "Icon": "Gift_Verner.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "강습연검",
+    "Awaken_Name" : "강습연검",
     "Stats": "<font color=\"blue\">반격 태세</font>에서<font color=\"blue\">반격 치명타</font> 후 지속 시간 <font color=\"red\">+1</font><br/><font color=\"blue\">강습 태세</font>에서 '선공 <font color=\"blue\">치명타</font> 후 모든 스킬 쿨타임 <font color=\"Red\"-1</font>' 효과 획득",
   },
   "Equip": {
-    "Name": "은빛 바람의 결정(투구)",
+    "EqpName": "은빛 바람의 결정(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "에길.webp",
     "Ability": "방어 <font color=\"Red\">+10%</font><br/>전투 시작시 <font color=\"purple\">강습 모드</font> 획득<br/><font color=\"purple\">강습 모드</font> 상태에서 이동하지 않고 선공 시<br/>전투 후 <font color=\"purple\">강습 모드</font> 재획득."
@@ -511,7 +511,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",

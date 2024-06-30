@@ -46,7 +46,7 @@
   "HeartFetter": "생명+650, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "순백의 날개",
+      "TalentName": "순백의 날개",
       "Icon": "32.webp",
       "Abilities": [
         {
@@ -72,7 +72,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "순백의 송가",
+    "Awaken_Name" : "순백의 송가",
     "Stats": "지력 <font color=\"red\">+10%</font><br/><font color=\"purple\">순백의 날개</font> 패시브 효과 발동시 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 추가 부여",
   },
   "Equip": null,

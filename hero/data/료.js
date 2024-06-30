@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "사나다 료",
+  "Name": "료",
   "ChName": "真田辽",
   "EngName": "Ryo",
   "JapName": "真田遼",
@@ -50,7 +50,7 @@
   "HeartFetter": "생명+750, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "열화의 료",
+      "TalentName": "열화의 료",
       "Icon": "Gift_SanadaRyo.webp",
       "Abilities": [
         {

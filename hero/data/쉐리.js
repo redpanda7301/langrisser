@@ -38,9 +38,9 @@
       "Desc": "한정판매"
     }
   ],
-  "Name": "雪莉",
+  "Name": "쉐리",
   "CV": "호리에 유이",
-  "ChName": "海恩",
+  "ChName": "雪莉",
   "EngName": "Cherie",
   "JapName": "シェリー",
   "Rank": [
@@ -78,7 +78,7 @@
   "HeartFetter": "생명+550, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "말괄량이",
+      "TalentName": "말괄량이",
       "Icon": "47.webp",
       "Abilities": [
         {
@@ -130,7 +130,7 @@
   ],
   "Second_Awaken": null,
   "Equip": {
-    "Name": "1UP(갑옷)",
+    "EqpName": "1UP(갑옷)",
     "Stats": "생명 509,방어 59",
     "Icon": "쉐리.webp",
     "Ability": "방어, 마방 +5%<br/>공격하여 전투 진입시 사망방지(4턴 후 재발동 가능)"

@@ -50,7 +50,7 @@
   "HeartFetter": "생명+600, 방어+50, 마방+40",
   "Talent": [
     {
-      "Name": "사안",
+      "TalentName": "사안",
       "Icon": "77.webp",
       "Abilities": [
         {

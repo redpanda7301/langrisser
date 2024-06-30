@@ -14,7 +14,7 @@
       "Desc": "형귀뽑기"
     }
   ],
-  "Name": "요아 & 코니",
+  "Name": "요아코니",
   "ChName": "修杰特",
   "EngName": "Yoa & Conna",
   "JapName": "",
@@ -54,7 +54,7 @@
   "HeartFetter": "생명+550, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "인공지능 환영 파트너",
+      "TalentName": "인공지능 환영 파트너",
       "Icon": "Gift_Conna.webp",
       "Abilities": [
         {
@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "Y형 시각 단말(투구)",
+    "EqpName": "Y형 시각 단말(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "코니.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>요아와의 거리가 <font color=\"red\">3</font>칸 이내일 경우 코니 <font color=\"blue\">치명타 피해</font> <font color=\"red\">+15%</font><br/>요아 사용하는 채널 간섭에 추가 효과<br/>'<font color=\"blue\">지휘</font>. 자신 주위 <font color=\"red\">2</font>칸 범위 안 적이 코니에게 공격받을 경우 <font color=\"blue\">호위 불가</font>'<br/>지속 <font color=\"red\">2</font>행동"
@@ -611,7 +611,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",

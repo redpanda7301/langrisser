@@ -58,7 +58,7 @@
   "HeartFetter": "생명 +600, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "또다른 공간",
+      "TalentName": "또다른 공간",
       "Icon": "Gift_Adankelmo.webp",
       "Abilities": [
         {
@@ -85,7 +85,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "아득한 수수께끼(갑옷)",
+    "EqpName": "아득한 수수께끼(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "아단켈모.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>아군의 <font color=\"purple\">포탈</font> 위에서 행동 종료하는 모든 아군은 '<font color=\"blue\">공격 지력</font> <font color=\"red\">+20%</font>' 효과 획득<br/>지속 <font color=\"red\">2</font>행동<br/>비행 이동이 아닌 적이 <font color=\"purple\">포탈</fopnt> 주위 <font color=\"red\">2</font>칸 지형 통과 시 추가로 이동력 <font color=\"red\">-1</font>"

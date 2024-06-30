@@ -53,7 +53,7 @@
   "HeartFetter": "생명+1150, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "용장의 신력",
+      "TalentName": "용장의 신력",
       "Icon": "18.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "강인한 신력",
+    "Awaken_Name" : "강인한 신력",
     "Stats": "방어 <font color=\"red\">+5%</font><br/>자신의 <font color=\"blue\">불굴</font> 효과 발동 후 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+15%</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/><b>해제 불가</b>"
   },
   "Equip": {
-    "Name": "염룡의 빛(갑옷)",
+    "EqpName": "염룡의 빛(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "발가스.webp",
     "Ability": "방어 +10%<br/><font color=\"blue\">전력 찌르기</font>효과를 보유시<br/>원거리 <font color=\"red\">2</font>칸 공격에 대해 <font color=\"blue\">반격</font>."

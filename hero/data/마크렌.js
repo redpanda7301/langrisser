@@ -54,7 +54,7 @@
   "HeartFetter": "생명+800, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "적성 개조",
+      "TalentName": "적성 개조",
       "Icon": "Gift_McClaine.webp",
       "Abilities": [
         {
@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "최초의 기계 코어(투구)",
+    "EqpName": "최초의 기계 코어(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "마크렌.webp",
     "Ability": "생명 <font color=\"red\">+5%</font>, 방어 <font color=\"red\">+5%</font><br/>아군이 설치한 분류 지형 통과 시 이동력 소모가 '<font color=\"blue\">수중</font>' 통과와 동일<br/>선공으로 적 격파 후 최대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>"

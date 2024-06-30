@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "조각가의 마음",
+      "TalentName": "조각가의 마음",
       "Icon": "Gift_Virelia.webp",
       "Abilities": [
         {

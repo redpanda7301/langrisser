@@ -18,7 +18,7 @@
       "Desc": "한정판매"
     }
   ],
-  "Name": "방주의 성녀",
+  "Name": "방주의성녀",
   "ChName": "方舟圣女",
   "EngName": "Saint of the Ark",
   "JapName": "",
@@ -58,7 +58,7 @@
   "HeartFetter": "생명 +600, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "마음 속의 그림자",
+      "TalentName": "마음 속의 그림자",
       "Icon": "Gift_SaintArk.webp",
       "Abilities": [
         {
@@ -85,7 +85,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "여명의 관(투구)",
+    "EqpName": "여명의 관(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "방주의성녀.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>자신 주위 <font color=\"red\">1</font> 바퀴 안에 아군 <font color=\"red\">2</font>부대 이상이 있을 경우<br/><font color=\"blue\">빛과 그림자</font>가 아군에게 피해를 입히지 않음<br/><font color=\"green\">받는 치료 효과</font> <font color=\"Red\">+8%</font>"

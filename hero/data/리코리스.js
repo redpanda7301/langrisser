@@ -62,7 +62,7 @@
   "HeartFetter": "생명 +400, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "마신의힘",
+      "TalentName": "마신의힘",
       "Icon": "Gift_Licorice.webp",
       "Abilities": [
         {
@@ -88,11 +88,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "마신의 가호",
+    "Awaken_Name" : "마신의 가호",
     "Stats": "지력 <font color=\"red\">+10%</font><br/>아군에게 <font color=\"blue\">스킬</font> 사용 시<br/>목표 중심의 아군에게 '<font color=\"blue\">받는 피해</font> <font color=\"red\">-15%</font>' 및 <font color=\"blue\">면역</font> 효과 추가 부여<br/>지속 <font color=\"red\">2</font>행동",
   },
   "Equip": {
-    "Name": "어린 군왕(투구)",
+    "EqpName": "어린 군왕(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "리코리스.webp",
     "Ability": "생명 (<font color=\"red\">+2, +4, +6, +8, +10</font>)%   <br/><b>재행동 발동 시 <font color=\"blue\">보유 버프</font> 지속시간이 감소하지 않음.</b><br/><b>자신에게 <font color=\"purple\">초절 강화 특수 효과</font>가 있을 경우,</b><br/><b>적에게 피해를 입히지 않고 행동 종료 시 </b><br/><b><font color=\"blue\">모든 스킬 쿨타임</font> <font color=\"red\">-1</font></b>"

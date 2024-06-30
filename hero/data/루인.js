@@ -52,7 +52,7 @@
   "HeartFetter": "생명+700, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "빛의 기원",
+      "TalentName": "빛의 기원",
       "Icon": "10.webp",
       "Abilities": [
         {
@@ -104,7 +104,7 @@
   ],
   "Second_Awaken": null,
   "Equip": {
-    "Name": "고대 성왕의 왕관(투구)",
+    "EqpName": "고대 성왕의 왕관(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "루인.webp",
     "Ability": "방어 <font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위에 아군이 있을 경우, 영웅 피해 <font color=\"red\">+10%</font> <br/><font color =\"#b8860b\">빛의 군단</font> 초절 효과를 받음"
@@ -601,7 +601,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",

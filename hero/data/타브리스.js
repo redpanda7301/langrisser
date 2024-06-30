@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "뜻을 세운 검은 날개",
+      "TalentName": "뜻을 세운 검은 날개",
       "Icon": "Gift_Tabres.webp",
       "Abilities": [
         {

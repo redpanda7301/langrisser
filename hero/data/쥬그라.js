@@ -62,7 +62,7 @@
   "HeartFetter": "생명+1000, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "성수의 영역",
+      "TalentName": "성수의 영역",
       "Icon": "53.webp",
       "Abilities": [
         {
@@ -88,11 +88,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "수석 마스코트",
+    "Awaken_Name" : "수석 마스코트",
     "Stats": "생명 <font color=\"red\">+5%</font><br/>자신의 모든 액티브 스킬이 쿨인 상태에서 행동 종료 시<br/><font color=\"purple\">고유 스킬 생명 회복</font> 효과 발동 및 모든 스킬 쿨타임 <font color=\"red\">-1</font>"
   },
   "Equip": {
-    "Name": "쥬그미의 선물(투구)",
+    "EqpName": "쥬그미의 선물(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "쥬그라.webp",
     "Ability": "생명 +5%<br/>전투 후 부대의 생명을 10% 회복, 착용 스킬의 COST 제한 무시."
@@ -710,7 +710,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",

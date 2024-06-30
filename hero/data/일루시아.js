@@ -54,7 +54,7 @@ var data = [
   "HeartFetter": "생명 +1050, 방어 +40, 마방 +40",
   "Talent": [
     {
-      "Name": "여름날 호숫가에 핀 꽃",
+      "TalentName": "여름날 호숫가에 핀 꽃",
       "Icon": "92.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@ var data = [
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "여름 호수의 그림자",
+    "Awaken_Name" : "여름 호수의 그림자",
     "Stats": "<font color=\"blue\">서리 영역</font>의 <font color=\"blue\">한빙영역</font> 효과 범위 <font color=\"red\">+1</font><br/><font color=\"blue\">수중 지형</font>에서 교전 시 <font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font>"
   },
   "Equip": {
-    "Name": "한 여름의 기억(망치)",
+    "EqpName": "한 여름의 기억(망치)",
     "Stats": "생명 583,공격 85",
     "Icon": "일루시아.webp",
     "Ability": "방어, 마방 +<font color=\"red\">5%</font>,<br/><b>피격으로 전투 진입 전 자신에게 '<font color=\"blue\">수중</font>' 효과 부여</b>, <br/>지속 <font color=\"red\">1</font>행동, <br/><b>물에 있을 시 주위 <font color=\"red\">1</font>바퀴 범위 내 아군에게 모든 공격 <font color=\"blue\">호위</font></b>"

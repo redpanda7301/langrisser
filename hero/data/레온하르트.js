@@ -50,7 +50,7 @@
   "HeartFetter": "생명+750, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "검의 수라",
+      "TalentName": "검의 수라",
       "Icon": "62.webp",
       "Abilities": [
         {

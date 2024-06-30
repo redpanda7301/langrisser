@@ -53,7 +53,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+30",
   "Talent": [
     {
-      "Name": "폭발하는 육중한 화살",
+      "TalentName": "폭발하는 육중한 화살",
       "Icon": "Gift_Suzette.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "은밀기동",
+    "Awaken_Name" : "은밀기동",
     "Stats": "공격 <font color=\"red\">+5%</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>(해당 효과 쿨타임 <font color=\"red\">1</font>행동)",
   },
   "Equip": {
-    "Name": "빛의 심판관(무기)",
+    "EqpName": "빛의 심판관(무기)",
     "Stats": "공격 107, 기술 43",
     "Icon": "수제트.webp",
     "Ability": "공격 <font color=\"red\">+10%</font><br/><font color =\"#b8860b\">빛의 군단</font> 초절 효과를 받음<br/><font color=\"blue\">범위 피해 스킬</font>을 지형에 조준해 사용 가능<br/>자신과 거리가 멀수록 <font color=\"blue\">치명타 확률</font> 증가<br/>(<font color=\"red\">1</font>칸당 <font color=\"red\">+3%</font>, 최대 <font color=\"red\">+15%</font>)"

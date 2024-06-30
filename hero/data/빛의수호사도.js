@@ -18,7 +18,7 @@
       "Desc": "서밋아레나 S17 패자스킨"
     }
   ],
-  "Name": "빛의 수호사도",
+  "Name": "빛의수호사도",
   "CV": "우에사카 스미레",
   "ChName": "光佑使徒",
   "EngName": "",
@@ -58,7 +58,7 @@
   "HeartFetter": "생명+500, 방어+20, 마방+60",
   "Talent": [
     {
-      "Name": "빛나는 거울 방패",
+      "TalentName": "빛나는 거울 방패",
       "Icon": "Gift_BlessedApostle.webp",
       "Abilities": [
         {
@@ -85,7 +85,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "잿불의 파수(투구)",
+    "EqpName": "잿불의 파수(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "빛의수호사도.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>자신이 보유한 <font color=\"blue\">거울의 빛</font> <font color=\"red\">1</font> 스택 당 <font color=\"blue\">부대 피해</font> <font color=\"blue\">+2%</font><br/>행동 종료 시 <font color=\"red\">5</font>스택을 보유하고 있을 경우 생명이 가장 낮은 아군을 지력 <font color=\"red\">2.5</font>배 수치로 <font color=\"green\">회복</font>"

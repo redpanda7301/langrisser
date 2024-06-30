@@ -57,7 +57,7 @@
   "HeartFetter": "생명+750, 방어+50, 마방+40",
   "Talent": [
     {
-      "Name": "기품있는 모범",
+      "TalentName": "기품있는 모범",
       "Icon": "87.webp",
       "Abilities": [
         {
@@ -83,11 +83,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "열영풍화",
+    "Awaken_Name" : "열영풍화",
     "Stats":"공격 <font color=\"red\">+5%</font><br/><font color=\"purple\">기품있는 모범</font> <font color=\"blue\">재행동</font> 발동시 치명타 확률 <font color=\"red\">100%</font> 증가<br/>지속 <font color=\"red\">1</font>행동"
   },
   "Equip": {
-    "Name": "전용장비 : 갑옷",
+    "EqpName": "전용장비 : 갑옷",
     "Stats": "생명 437,방어 65",
     "Icon": "브렌다.webp",
     "Ability": "생명, 방어 +5%<br/>고유스킬 발동으로 인한 재행동시 자신의 디버프 2개 제거 및 <br/>입히는피해 +10%, 받는피해 -10%, 1턴 지속."

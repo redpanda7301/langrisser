@@ -69,7 +69,7 @@
   "HeartFetter": "생명+750, 방어+30, 마방+40",
   "Talent": [
     {
-      "Name": "전설의 기사",
+      "TalentName": "전설의 기사",
       "Icon": "43.webp",
       "Abilities": [
         {
@@ -120,11 +120,11 @@
     }
   ],
   "Second_Awaken": {
-    "Name" : "기사의 모범",
+    "Awaken_Name" : "기사의 모범",
     "Stats": "<font color=\"blue\">기사도</font> 부여 효과 지속 시간 <font color=\"red\">+2</font>행동<br/>사용 후 아군 기병 부대 공격 지력 <font color=\"red\">+20%</font> 및 <font color=\"blue\">면역</font>, <font color=\"blue\">폭풍</font>, <font color=\"blue\">증원</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
   },
   "Equip": {
-    "Name": "청룡의 갑옷(갑옷)",
+    "EqpName": "청룡의 갑옷(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "레온.webp",
     "Ability": "방어 +10%<br/>피해를 받은후, \"지형 이동력 패널티 면역\"버프 획득, 1턴 지속"
@@ -889,7 +889,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/sp/레온/2.webp",

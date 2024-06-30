@@ -53,7 +53,7 @@
   "HeartFetter": "생명 +700, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "고결한 영생",
+      "TalentName": "고결한 영생",
       "Icon": "93.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "고독한 달의 핏빛 의지",
+    "Awaken_Name" : "고독한 달의 핏빛 의지",
     "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"blue\">라스트 블러드</font>을 사용해서 목표를 격파하지 못했을 경우 해당 스킬 쿨타임 <font color=\"red\">-3</font>",
   },
   "Equip": {
-    "Name": "반역의 깃털 가면(투구)",
+    "EqpName": "반역의 깃털 가면(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "실린카.webp",
     "Ability": "방어 +(<font color=\"red\">2,4,6,8,10</font>)%,<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+12%</font>. <br/>자신에게 걸린 버프 효과 지속 시간 <font color=\"red\">+1</font>, <br/>휴면 상태에서도 버프 지속 시간이 감소하지 않음"

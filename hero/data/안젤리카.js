@@ -53,7 +53,7 @@
   "HeartFetter": "생명+450, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "철저한 분석",
+      "TalentName": "철저한 분석",
       "Icon": "35.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "타임머신 부스트",
+    "Awaken_Name" : "타임머신 부스트",
     "Stats": "지력 <font color=\"red\">+10%</font><br/>아군에게 스킬 사용 시 <font color=\"red\">50%</font> 확률로 버프 지속 시간 <font color=\"red\">+1</font>",
   },
   "Equip": {
-    "Name": "만능 공구 모자(투구)",
+    "EqpName": "만능 공구 모자(투구)",
     "Stats": "생명 364, 마방 65",
     "Icon": "안젤리카.webp",
     "Ability": "마방 +10%<br/>행동종료시 전장의 생명이 가장 낮은 아군 소환물의 생명 30% 회복."

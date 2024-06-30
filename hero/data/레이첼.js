@@ -61,7 +61,7 @@
   "HeartFetter": "생명+350, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "매직 소울",
+      "TalentName": "매직 소울",
       "Icon": "65.webp",
       "Abilities": [
         {
@@ -87,11 +87,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "격동하는 마도",
+    "Awaken_Name" : "격동하는 마도",
     "Stats": "지력 <font color=\"red\">+10%</font><br/>공격하여 전투 진입후<br/>적군에게 <font color=\"Red\">3</font>개의 '<font color=\"blue\">마력 여파</font>' <font color=\"blue\">디버프</font>를 부여<br/><font color=\"blue\">마력 여파</font> : 행동 종료시 레이첼 지력의 <font color=\"red\">0.5</font>배의 <font color=\"blue\">고정피해</font><br/>지속 <font color=\"red\">2</font>행동<br/>(중첩가능)",
   },
   "Equip": {
-    "Name": "마도 방어복(갑옷)",
+    "EqpName": "마도 방어복(갑옷)",
     "Stats": "생명 583,방어 54",
     "Icon": "레이첼.webp",
     "Ability": "생명 +5%<br/>근접 공격을 받아 전투 진입전 적군에게 고정피해를 입힌다.<br/>고정피해 데미지는 영웅 지능의 1배"

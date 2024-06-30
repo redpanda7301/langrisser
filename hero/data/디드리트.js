@@ -50,7 +50,7 @@
   "HeartFetter": "생명+550, 방어+40, 마방+60",
   "Talent": [
     {
-      "Name": "돌아오지 않는 숲의 하이 엘프",
+      "TalentName": "돌아오지 않는 숲의 하이 엘프",
       "Icon": "88.webp",
       "Abilities": [
         {

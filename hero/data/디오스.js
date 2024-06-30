@@ -45,7 +45,7 @@
   "HeartFetter": "생명+400, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "관통 저격",
+      "TalentName": "관통 저격",
       "Icon": "5.webp",
       "Abilities": [
         {

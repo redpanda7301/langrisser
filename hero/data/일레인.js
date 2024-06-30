@@ -46,7 +46,7 @@
   "HeartFetter": "생명+650, 방어+50, 마방+60",
   "Talent": [
     {
-      "Name": "검의 결의",
+      "TalentName": "검의 결의",
       "Icon": "Gift_Elaine.webp",
       "Abilities": [
         {
@@ -375,7 +375,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",

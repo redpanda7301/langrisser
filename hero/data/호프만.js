@@ -50,7 +50,7 @@
   "HeartFetter": "생명+850, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "해결의 방패",
+      "TalentName": "해결의 방패",
       "Icon": "Gift_Hofmann.webp",
       "Abilities": [
         {
@@ -77,7 +77,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "녹과 영광(갑옷)",
+    "EqpName": "녹과 영광(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "호프만.webp",
     "Ability": "생명, 방어 +5%<br/><font color=\"purple\">왕국의 방패</font>로 <font color=\"blue\">영광의 수호</font> 사용 시, 지휘 효과 획득<br/><font color=\"blue\">지휘</font> : 비행 타입이 아닌 아군이 방어 범위 지형 통과 시, <font color=\"red\">1</font>칸 <font color=\"blue\">이동력 감소 면역 기회</font> 획득<br/>지속 <font color=\"red\">4</font>행동, 해제 불가"

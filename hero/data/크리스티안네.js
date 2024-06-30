@@ -58,7 +58,7 @@
   "HeartFetter": "생명+1000, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "여기사의 꽃말",
+      "TalentName": "여기사의 꽃말",
       "Icon": "Gift_Christiane.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "눈부신 찬가",
+    "Awaken_Name" : "눈부신 찬가",
     "Stats": "생명, 마방 <font color=\"red\">+5%</font><br/><font color=\"blue\">노블레스 오블리주</font> 사용 후, 자신에게 <font color=\"blue\">낙화</font> 및 <font color=\"blue\">성스러운 방패</font> 부여<br/><font color=\"blue\">성스러운 방패</font> : 전투 진입 시, 마방 <font color=\"red\">+10%</font>, 지속 <font color=\"red\">2</font>행동"
   },
   "Equip": {
-    "Name": "시인의 꽃모자(투구)",
+    "EqpName": "시인의 꽃모자(투구)",
     "Stats": "생명 583, 마방 48",
     "Icon": "크리스티안네.webp",
     "Ability": "방어, 마방 <font color=\"red\">+5%</font><br/><font color=\"blue\">위치 이동 면역</font><br/><font color=\"purple\">고유 스킬</font> <font color=\"blue\">부활</font> 발동 시 <br/>'<font color=\"purple\">꽃말</font> <img src=\"../img/skills/Christiane/석산.webp\"/><font color=\"purple\">석산</font>' 발동<br/> (<font color=\"purple\">꽃말</font> 중첩 불가, <font color=\"purple\">석산</font> 효과가 이미 있을 경우 다른 <font color=\"purple\">꽃말</font> 획득 불가)"
@@ -509,7 +509,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",
@@ -537,7 +537,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
@@ -583,6 +583,14 @@
         {
           "Label": "쿨타임",
           "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "자신"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
         }
       ],
       "IconImageUrl": "../img/skills/Christiane/2.webp",
@@ -606,7 +614,8 @@
           {
             "Label": "범위",
             "Value": "단일"
-          }],
+          }
+        ],
           "IconImageUrl": "../img/skills/Christiane/2_1.webp",
           "Desc": "[지원]<b>아군 여성 영웅에게 사용</b><br/>'<font color =\"blue\">꽃잎 장막</font>'<font color =\"red\">1</font>중첩을 소모하여 대상에게 [<font color =\"blue\">꽃의 의복</font>] 효과를 부여:<br/>받는 범위 피해 <font color =\"red\">-35%</font>,<br/><b><font color =\"red\">1</font>회 한정, 해제 불가</b>"
         },

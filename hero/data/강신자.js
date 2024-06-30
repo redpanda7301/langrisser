@@ -50,7 +50,7 @@
   "HeartFetter": "생명+750, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "혼돈의 근원",
+      "TalentName": "혼돈의 근원",
       "Icon": "Gift_Apotheosis.webp",
       "Abilities": [
         {
@@ -77,7 +77,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "심연의 계시(투구)",
+    "EqpName": "심연의 계시(투구)",
     "Stats": "생명 583, 마방 48",
     "Icon": "강신자.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>3종 이상의<font color=\"purple\">고유 스킬 스탯 증가</font> 보유 시, 자신이 부여하는 '<font color=\"purple\">어둠의 마</font>'와 '<font color=\"purple\">마의 선택</font>' <b>해제 불가</b><br/>주위 <font color=\"red\">3</font>칸 범위 안 적이 신관 혹은 마물일 경우 <font color=\"blue\">면역</font> 효과"
@@ -293,11 +293,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "패시브, 지휘"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "-"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Apotheosis/1.webp",

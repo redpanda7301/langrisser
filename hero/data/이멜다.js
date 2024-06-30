@@ -57,7 +57,7 @@
   "HeartFetter": "생명+350, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "철완의 여장군",
+      "TalentName": "철완의 여장군",
       "Icon": "26.webp",
       "Abilities": [
         {
@@ -83,11 +83,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "가혹한 은상",
+    "Awaken_Name" : "가혹한 은상",
     "Stats": "지력 <font color=\"red\">+10%</font><br/><font color=\"blue\">여왕의 채찍</font> 사용 후, 목표에게 <font color=\"green\">재생</font> 및 <font color=\"blue\">고정피해 면역</font> 효과 부여, 지속 <font color=\"red\">2</font>행동"
   },
   "Equip": {
-    "Name": "매혹의 립스틱(투구)",
+    "EqpName": "매혹의 립스틱(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "이멜다.webp",
     "Ability": "마방 +10%<br/>행동종료시, 주변 2칸내의 4명의 아군에게 면역 \"고정피해\" 부여,1턴 지속"

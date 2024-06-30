@@ -53,7 +53,7 @@
   "HeartFetter": "생명+300, 방어+20, 마방+50",
   "Talent": [
     {
-      "Name": "천재 군사",
+      "TalentName": "천재 군사",
       "Icon": "66.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "군사의 심려",
+    "Awaken_Name" : "군사의 심려",
     "Stats": "지력 <font color=\"red\">+5%</font><br/><b>단일 대상 <font color=\"blue\">지원 스킬</font></b> 사용 시<br/>대상에게 추가로 '<font color=\"blue\">사수</font>' 효과 부여<br/><font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">3</font>행동 지속"
   },
   "Equip": {
-    "Name": "은하수 제독(투구)",
+    "EqpName": "은하수 제독(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "윌러.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><b>영웅의 생명이 <font color=\"red\">50%</font> 이하일 경우</b><br/><font color=\"blue\">고정 피해면역</font><br/><b>스킬 사용 후 <font color=\"red\">50%</font> 확률로</b><br/>해당 스킬 쿨타임<font color=\"red\">-2</font>행동"

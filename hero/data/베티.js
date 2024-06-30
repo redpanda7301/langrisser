@@ -54,7 +54,7 @@
   "HeartFetter": "생명+850, 방어+50, 마방+60",
   "Talent": [
     {
-      "Name": "칼날 영역",
+      "TalentName": "칼날 영역",
       "Icon": "81.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "칼날폭풍",
+    "Awaken_Name" : "칼날폭풍",
     "Stats": "공격,방어 <font color=\"red\">+5%</font><br/>고유 스킬 <font color=\"purple\">칼날 영역</font> 효과 범위<font color=\"red\">+1</font>",
   },
   "Equip": {
-    "Name": "파멸의 샛별(투구)",
+    "EqpName": "파멸의 샛별(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "베티.webp",
     "Ability": "생명 +10%<br/>부대의 생명이 낮을 수록 입히는 고정피해가 최대 30% 상승."

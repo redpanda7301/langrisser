@@ -50,7 +50,7 @@
   "HeartFetter": "생명+900, 방어+60, 마방+30",
   "Talent": [
     {
-      "Name": "야토의 피",
+      "TalentName": "야토의 피",
       "Icon": "Gift_Kagura.webp",
       "Abilities": [
         {

@@ -57,7 +57,7 @@
   "HeartFetter": "생명+900, 방어+60, 마방+30",
   "Talent": [
     {
-      "Name": "굳센 반격",
+      "TalentName": "굳센 반격",
       "Icon": "2.webp",
       "Abilities": [
         {
@@ -109,7 +109,7 @@
   ],
   "Second_Awaken": null,
   "Equip": {
-    "Name": "꿈을 쫓는 이의 관(투구)",
+    "EqpName": "꿈을 쫓는 이의 관(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "그레니어.webp",
     "Ability": "마방 +5%<br/>자신의 강화버프가 7개 이상일 경우, 반격피해 +50%"

@@ -14,7 +14,7 @@
       "Desc": "형귀뽑기"
     }
   ],
-  "Name": "사신 크루거",
+  "Name": "크루거",
   "ChName": "邪神库鲁加",
   "EngName": "Kreuger",
   "JapName": "邪神クルーガー",
@@ -53,7 +53,7 @@
   "HeartFetter": "생명+750, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "사신 강림",
+      "TalentName": "사신 강림",
       "Icon": "Gift_Cruger.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "끝없는 죄악",
+    "Awaken_Name" : "끝없는 죄악",
     "Stats": "스킬 피해량 <font color=\"red\">+10%</font><br/><font color=\"blue\">자라나는 죄악</font> 지정 대상 수<font color=\"red\">+1</font>",
   },
   "Equip": {
-    "Name": "조롱꾼의 웃음(투구)",
+    "EqpName": "조롱꾼의 웃음(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "크루거.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>영웅 사망 시 주위 <font color=\"Red\">5</font>칸 범위 내 적이 보유한 <font color=\"blue\">버프</font> <font color=\"Red\">2</font>개를 랜덤한 <font color=\"blue\">디버프</font>로 전환"

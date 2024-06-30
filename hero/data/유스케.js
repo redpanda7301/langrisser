@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "우라메시 유스케",
+  "Name": "유스케",
   "ChName": "浦饭幽助",
   "EngName": "Yusuke",
   "JapName": "浦飯幽助",
@@ -50,7 +50,7 @@
   "HeartFetter": "생명+700, 방어+60, 마방+60",
   "Talent": [
     {
-      "Name": "동료의 힘",
+      "TalentName": "동료의 힘",
       "Icon": "76.webp",
       "Abilities": [
         {
@@ -502,7 +502,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",

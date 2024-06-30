@@ -58,7 +58,7 @@
   "HeartFetter":"생명+600 방어+40 마방+50",
   "Talent": [
     {
-      "Name": "용의 전생",
+      "TalentName": "용의 전생",
       "Icon": "Gift_Oboro.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "비룡의 위세",
+    "Awaken_Name" : "비룡의 위세",
     "Stats": "스킬 피해 <font color=\"red\">+10%</font><br/>자신이 <font color=\"blue\">용화</font> 상태이며 <font color=\"blue\">용의 위엄</font>이 최대 스택이 아닐 경우, <font color=\"blue\">용의 분노</font>로 적 격파 시 <font color=\"blue\">용의 위엄</font> <font color=\"red\">1</font>스택 획득"
   },
   "Equip": {
-    "Name": "영식법상(투구)",
+    "EqpName": "영식법상(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "오보로.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">정수 축적</font> 사용 시<br/>자신이 <font color=\"blue\">초절강화 특수 효과</font>를 보유한 상태라면 즉시 <font color=\"blue\">용의 위엄</font> <font color=\"red\">1</font>개 획득<br/>선공으로 전투 진입 시 <font color=\"blue\">받는 피해</font> 및 <font color=\"green\">반사 피해</fopnt> <font color=\"red\">-30%</font>"

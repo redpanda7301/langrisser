@@ -62,7 +62,7 @@
   "HeartFetter": "생명+1000, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "핏빛 복수",
+      "TalentName": "핏빛 복수",
       "Icon": "Gift_Hilder.webp",
       "Abilities": [
         {
@@ -88,11 +88,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "핏빛 강인함",
+    "Awaken_Name" : "핏빛 강인함",
     "Stats": "공격 <font color=\"red\">+10%</font><br/>핏빛 무장(전용장비)착용 시 <font color=\"blue\">호령-창진</font>,<font color=\"blue\">호령-기마돌격</font> 효과 해제 불가"
   },
   "Equip": {
-    "Name": "핏빛 무장(갑옷)",
+    "EqpName": "핏빛 무장(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "힐다.webp",
     "Ability": "생명,방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">코스트 제한 해제</font><br/>근접전으로 전투 진입 전 적 <font color=\"blue\">무기 스킬 무효화</font>(최대 생명 수치 제외)<br/>목표가 NPC일 경우 <font color=\"blue\">공격, 지력 <font color=\"red\">-25%</font> </font> 대체<br/>지속 <font color=\"red\">1</font>행동"

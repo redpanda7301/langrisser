@@ -62,7 +62,7 @@
   "HeartFetter": "생명+1300, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "왕의 의지",
+      "TalentName": "왕의 의지",
       "Icon": "42.webp",
       "Abilities": [
         {
@@ -113,11 +113,11 @@
     }
   ],
   "Second_Awaken": {
-    "Name" : "움켜쥔 신의 빛",
+    "Awaken_Name" : "움켜쥔 신의 빛",
     "Stats": "영웅이 주는 피해량<font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위 안에 아군 <font color=\"red\">2</font>명 이상 있을 경우, <font color=\"blue\">정의의 대결</font> 사거리 <font color=\"red\">+1</font>"
   },
   "Equip": {
-    "Name": "신앙의 시련(무기)",
+    "EqpName": "신앙의 시련(무기)",
     "Stats": "생명 583,공격 85",
     "Icon": "레딘.webp",
     "Ability": "방어, 마방 +5%<br/>적군 격파후 효과 획득 \" 사망시 1회 부활하며 피해를 입기전의 체력으로 회복된다. <br/>이 효과는 버프지속중 1회만 발동한다\", 1턴 지속(발동후 2턴후 재발동)"

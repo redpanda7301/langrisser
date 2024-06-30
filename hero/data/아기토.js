@@ -6,7 +6,7 @@
       "Desc": "기본"
     }
   ],
-  "Name": "마키시마 아기토",
+  "Name": "아기토",
   "ChName": "卷岛颚人",
   "EngName": "Agito",
   "JapName": "",
@@ -46,7 +46,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "아기토의 야심",
+      "TalentName": "아기토의 야심",
       "Icon": "Gift_Agito.webp",
       "Abilities": [
         {
@@ -178,7 +178,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",

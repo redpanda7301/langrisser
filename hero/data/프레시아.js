@@ -50,7 +50,7 @@
   "HeartFetter": "생명+800, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "시침",
+      "TalentName": "시침",
       "Icon": "Gift_Precia.webp",
       "Abilities": [
         {
@@ -77,7 +77,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "시간의 가시(무기)",
+    "EqpName": "시간의 가시(무기)",
     "Stats": "생명 364, 공격 118",
     "Icon": "프레시아.webp",
     "Ability": "공격 <font color=\"red\">+10%</font><br/><font color=\"purple\">시간 당기기</font>로 자신의 모든 쿨 추가로 <font color=\"red\">-1</font><br/><font color=\"purple\">시간 정지</font> 쿨타임 제거<br/>쿨타임이 돌지 않는 스킬 <font color=\"red\">1</font>개당 부대 피해 <font color=\"red\">+5%</font>"

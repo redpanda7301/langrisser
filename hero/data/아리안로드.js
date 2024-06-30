@@ -46,7 +46,7 @@
   "HeartFetter": "생명+800, 방어+40, 마방+60",
   "Talent": [
     {
-      "Name": "강철의 성녀",
+      "TalentName": "강철의 성녀",
       "Icon": "Gift_Arianrhod.webp",
       "Abilities": [
         {

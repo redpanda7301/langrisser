@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "가우리 가브리에프",
+  "Name": "가우리",
   "ChName": "高里",
   "EngName": "Gourry",
   "JapName": "",
@@ -50,7 +50,7 @@
   "HeartFetter": "생명+750, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "빛의 검사",
+      "TalentName": "빛의 검사",
       "Icon": "Gift_Gourry.webp",
       "Abilities": [
         {
@@ -222,7 +222,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",

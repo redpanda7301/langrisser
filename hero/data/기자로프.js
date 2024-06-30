@@ -53,7 +53,7 @@
   "HeartFetter": "생명+400, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "어둠의 의지",
+      "TalentName": "어둠의 의지",
       "Icon": "67.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "초월의 유지",
+    "Awaken_Name" : "초월의 유지",
     "Stats": "모든 능력치 <font color=\"red\">+10%</font><br/><font color=\"purple\">고유 스킬</font> <font color=\"blue\">소환</font> 효과 발동 시<br/><font color=\"blue\">최종 구조체</font> <font color=\"blue\">소환</font>",
   },
   "Equip": {
-    "Name": "소멸과 창조의 지팡이(무기)",
+    "EqpName": "소멸과 창조의 지팡이(무기)",
     "Stats": "생명 437,지력 107",
     "Icon": "기자로프.webp",
     "Ability": "지력, 생명 +5%<br/>액티브 스킬 사용후, 전장에 기자로프의 구조체가 있을 경우 구조체의 랜덤개조 1회"

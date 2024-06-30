@@ -58,7 +58,7 @@
   "HeartFetter": "생명+650, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "자유의 의지",
+      "TalentName": "자유의 의지",
       "Icon": "51.webp",
       "Abilities": [
         {
@@ -110,11 +110,11 @@
     }
   ],
   "Second_Awaken":{
-    "Name" : "진심어린 애정",
+    "Awaken_Name" : "진심어린 애정",
     "Stats": "공격 <font color=\"red\">+5%</font><br/>전장에 <font color=\"red\">2</font>명 이상의 여성 아군이 있을 경우, 스킬을 사용해 적 격파 시 해당 스킬 쿨 <font color=\"red\">-3</font>",
   },
   "Equip": {
-    "Name": "황금 사자(투구)",
+    "EqpName": "황금 사자(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "디하르트.webp",
     "Ability": "마방 +10%<br/>공격하여 적군을 죽인 이후 행동 종료후 주위 3칸이내 적군 1명에게 \"기절\" 부여,1턴 지속"

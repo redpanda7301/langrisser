@@ -62,7 +62,7 @@
   "HeartFetter": "생명+350, 방어+20, 마방+70",
   "Talent": [
     {
-      "Name": "성수의 탄식",
+      "TalentName": "성수의 탄식",
       "Icon": "69.webp",
       "Abilities": [
         {
@@ -88,11 +88,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "조용한 위로",
+    "Awaken_Name" : "조용한 위로",
     "Stats": "지력 <font color=\"red\">+10%</font><br/><font color=\"blue\">고요한 숨결</font> 지속 시간 <font color=\"red\">+1</font>"
   },
   "Equip": {
-    "Name": "세계수의 꽃(장신구)",
+    "EqpName": "세계수의 꽃(장신구)",
     "Stats": "지력 75,마방 43",
     "Icon": "람다.webp",
     "Ability": "지력 +5%<br/>기술사용시, 매 적군 1기당 피해를 입힐시 10%확률 사용한 기술의 쿨타임-5(최대 50%)"

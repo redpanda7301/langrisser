@@ -54,7 +54,7 @@
   "HeartFetter": "생명+850, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "반중력 엔진",
+      "TalentName": "반중력 엔진",
       "Icon": "Gift_Carolian.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "동력후류",
+    "Awaken_Name" : "동력후류",
     "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"blue\">터빈 부스터</font> 사용 후 행동 종료 시 주위 <font color=\"red\">3</font>칸 범위 안 아군 이동력 <font color=\"red\">+1</font><br/>지속 <font color=\"red\">2</font>행동"
   },
   "Equip": {
-    "Name": "반중력 돌격 투구(투구)",
+    "EqpName": "반중력 돌격 투구(투구)",
     "Stats": "생명 583, 마방 48",
     "Icon": "캐롤리안.webp",
     "Ability": "생명,마방 <font color=\"Red\">+5%</font><br/><font color=\"purple\">고유 스킬</font>효과 범위 <font color=\"Red\">1</font>칸 증가<br/><font color=\"blue\">이동력 저하</font> 효과 지속시간 <font color=\"red\">1</font>행동 증가, <br/>이동 <font color=\"red\">1</font>칸당 치명타 확률 및 피해 <font color=\"red\">+2%</font><br/> 최대 <font color=\"red\">10%</font>"

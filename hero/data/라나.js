@@ -77,7 +77,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "마력 강화",
+      "TalentName": "마력 강화",
       "Icon": "45.webp",
       "Abilities": [
         {
@@ -129,7 +129,7 @@
   ],
   "Second_Awaken": null,
   "Equip": {
-    "Name": "검정 드레스(갑옷)",
+    "EqpName": "검정 드레스(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "라나.webp",
     "Ability": "생명 +5%<br/>전투진입전, 적군에게 랜덤으로 1개의 강력한 디버프 부여"

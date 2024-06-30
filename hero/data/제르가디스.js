@@ -6,7 +6,7 @@
       "Desc": "기본"
     }
   ],
-  "Name": "제르가디스 그레이워즈",
+  "Name": "제르가디스",
   "ChName": "杰路刚帝士",
   "EngName": "Zelgadiss",
   "JapName": "",
@@ -46,7 +46,7 @@
   "HeartFetter": "생명+750, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "키메라 광전사",
+      "TalentName": "키메라 광전사",
       "Icon": "Gift_Zelgadiss.webp",
       "Abilities": [
         {

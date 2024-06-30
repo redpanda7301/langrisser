@@ -49,7 +49,7 @@
   "HeartFetter": "생명+800, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "수상전 명장",
+      "TalentName": "수상전 명장",
       "Icon": "14.webp",
       "Abilities": [
         {

@@ -45,7 +45,7 @@
   "HeartFetter": "생명+800, 방어+40, 마방+20",
   "Talent": [
     {
-      "Name": "수군 교관",
+      "TalentName": "수군 교관",
       "Icon": "12.webp",
       "Abilities": [
         {

@@ -6,7 +6,7 @@
       "Desc": "기본"
     }
   ],
-  "Name": "츠루기베 시바라쿠",
+  "Name": "시바라쿠",
   "ChName": "剑部武一郎",
   "EngName": "Shibaraku",
   "JapName": "剣部シバラク",
@@ -45,7 +45,7 @@
   "HeartFetter": "생명+800, 방어+60, 마방+30",
   "Talent": [
     {
-      "Name": "야규 시바라쿠류",
+      "TalentName": "야규 시바라쿠류",
       "Icon": "Gift_Shibaraku.webp",
       "Abilities": [
         {

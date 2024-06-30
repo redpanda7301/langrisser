@@ -66,7 +66,7 @@
   "HeartFetter": "생명+800, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "전투의 여신",
+      "TalentName": "전투의 여신",
       "Icon": "57.webp",
       "Abilities": [
         {
@@ -92,11 +92,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "전투의 바람",
+    "Awaken_Name" : "전투의 바람",
     "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"blue\">재행동</font> 발동 시 <font color=\"red\">30%</font> 확률로 <font color=\"blue\">공격</font> <font color=\"red\">+20</font><br/>지속 <font color=\"red\">4</font>행동",
   },
   "Equip": {
-    "Name": "바람의 꽃(투구)",
+    "EqpName": "바람의 꽃(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "안젤리나.webp",
     "Ability": "방어 +10%<br/>재행동 발동시, 보유중인 버프의 남은 행동수가 줄지 않음(해당효과는 3턴의 쿨타임이 존재)"
@@ -532,7 +532,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",

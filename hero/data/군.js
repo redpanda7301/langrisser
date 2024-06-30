@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "늑대왕의 의지",
+      "TalentName": "늑대왕의 의지",
       "Icon": "Gift_Gunn.webp",
       "Abilities": [
         {
@@ -77,7 +77,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "중산행포(갑옷)",
+    "EqpName": "중산행포(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "군.webp",
     "Ability": "생명, 방어 <font color=\"red\">+5%</font><br/><font color=\"purple\">복수하는 고독한 늑대</font> 효과 제거 시, 자신 <font color=\"green\">치유</font> 효과 패널티 <font color=\"red\">-5%</font>.<br/><font color=\"purple\">늑대왕의 의지</font>에 추가 효과 : 행동 종료 시 '<font color=\"blue\">월랑의 힘</font>'을 제거하고<br/> '<font color=\"purple\">복수하는 고독한 늑대</font>' 효과를 얻을 수 있음<br/>쿨타임 <font color=\"red\">1</font>행동"
@@ -254,10 +254,6 @@
         {
           "Label": "유형",
           "Value": "패시브"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "-"
         }
       ],
       "IconImageUrl": "../img/skills/Gunn/2.webp",

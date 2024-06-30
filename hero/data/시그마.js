@@ -58,7 +58,7 @@
   "HeartFetter": "생명+700, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "고고한 의지",
+      "TalentName": "고고한 의지",
       "Icon": "68.webp",
       "Abilities": [
         {
@@ -109,11 +109,11 @@
     }
   ],
   "Second_Awaken": {
-    "Name" : "사냥의 규칙",
+    "Awaken_Name" : "사냥의 규칙",
     "Stats": "기술 <font color=\"red\">+10%</font><br/><font color=\"blue\">레인저의 눈</font>을 사용 후, 행동 종료 시 추가로 <font color=\"blue\">레인저의 마음</font> 추가 사용"
   },
   "Equip": {
-    "Name": "스카우터(투구)",
+    "EqpName": "스카우터(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "시그마.webp",
     "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/>행동종료시 <font color=\"red\">25%</font>확률로 \"공격<font color=\"red\">+20%</font>\" 버프획득, <font color=\"red\">4</font>행동 지속."

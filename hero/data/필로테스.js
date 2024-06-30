@@ -46,7 +46,7 @@
   "HeartFetter": "생명+650, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "어둠의 나라의 다크 엘프",
+      "TalentName": "어둠의 나라의 다크 엘프",
       "Icon": "39.webp",
       "Abilities": [
         {
@@ -375,7 +375,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",

@@ -54,7 +54,7 @@
   "HeartFetter": "생명+550, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "마나 조율",
+      "TalentName": "마나 조율",
       "Icon": "Gift_Mariandel.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "성수의 힘",
+    "Awaken_Name" : "성수의 힘",
     "Stats": "스킬 피해량 <font color=\"red\">+10%</font><br/><font color=\"purple\">마나 에너지</font>를 <font color=\"red\">3</font>개 이상 소모한 상태로 행동 종료 시<br/>해당 턴에 사용한 <font color=\"blue\">액티브 스킬</font> 쿨타임<font color=\"red\">-1</font>",
   },
   "Equip": {
-    "Name": "성스러운 나무의 미소",
+    "EqpName": "성스러운 나무의 미소",
     "Stats": "생명 364,마방 65",
     "Icon": "마리안델.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"purple\">고유 스킬</font>로 <font color=\"purple\">마나 에너지</font> 획득 시<br/><font color=\"red\">50%</font> 확률로 추가 <font color=\"purple\">마나 에너지</font> <font color=\"red\">1</font>개 획득"

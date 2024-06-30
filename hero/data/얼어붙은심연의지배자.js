@@ -10,7 +10,7 @@
           "Desc": "빛의 메아리"
         }
     ],
-    "Name": "얼어붙은 심연의 지배자",
+    "Name": "얼어붙은심연의지배자",
     "CV": "타카하시 아오",
     "ChName": "冰渊凌御者",
     "EngName": "Sovereign Of IceAbyss",
@@ -50,7 +50,7 @@
     "HeartFetter": "",
     "Talent": [
       {
-        "Name": "얼어붙은 심연의 지배자",
+        "Name": "얼어붙은 심연의 여왕",
         "Icon": "Gift_Soia.webp",
         "Abilities": [
           {
@@ -396,7 +396,7 @@
         "Entries": [
           {
             "Label": "유형",
-            "Value": "지휘,패시브"
+            "Value": "패시브"
           }
         ],
         "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",

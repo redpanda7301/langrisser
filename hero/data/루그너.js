@@ -50,7 +50,7 @@
   "HeartFetter": "생명+450, 방어+20, 마방+70",
   "Talent": [
     {
-      "Name": "빛의 계율",
+      "TalentName": "빛의 계율",
       "Icon": "Gift_Lugner.webp",
       "Abilities": [
         {
@@ -77,7 +77,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "신자의 면류관(투구)",
+    "EqpName": "신자의 면류관(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "루그너.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>아군 사망 시 가해자에게 '<font color=\"blue\">죄업</font>' <font color=\"red\">4</font>스택 부여<br/>적이 <font color=\"blue\">죄업</font> <font color=\"red\">4</font> 스택 이상을 보유할 경우<br/>신관과 교전 시 피해 <font color=\"red\">-15%</font>"

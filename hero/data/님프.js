@@ -54,7 +54,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "심해의 가희",
+      "TalentName": "심해의 가희",
       "Icon": "Gift_Nymph.webp",
       "Abilities": [
         {
@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "먼 바다의 파도 노래(무기)",
+    "EqpName": "먼 바다의 파도 노래(무기)",
     "Stats": "생명 437,지력 107",
     "Icon": "님프.webp",
     "Ability": "지력 +10%<br/><font color=\"purple\">신비한 거품</font> 부여 시, 자신의 모든 스킬 쿨 <font color=\"red\">-1</font><br/>턴 시작 시, 자신이 <font color=\"blue\">영창</font> 효과 보유 시, 추가로 <font color=\"purple\">고유 스킬</font> 카운트 <font color=\"red\">1</font> 추가"

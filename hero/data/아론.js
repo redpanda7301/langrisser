@@ -48,7 +48,7 @@
   "HeartFetter": "생명+1000, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "노익장",
+      "TalentName": "노익장",
       "Icon": "3.webp",
       "Abilities": [
         {

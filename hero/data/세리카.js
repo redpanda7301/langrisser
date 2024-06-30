@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "연금술 전승",
+      "TalentName": "연금술 전승",
       "Icon": "Gift_Celica.webp",
       "Abilities": [
         {

@@ -70,7 +70,7 @@
   "HeartFetter": "생명+450, 방어+20, 마방+70",
   "Talent": [
     {
-      "Name": "치유의 빛",
+      "TalentName": "치유의 빛",
       "Icon": "52.webp",
       "Abilities": [
         {
@@ -97,7 +97,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "소녀의 희망(투구)",
+    "EqpName": "소녀의 희망(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "티아리스.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>단일 아군에게 단일 대상 스킬 사용시, <font color=\"blue\">진격의 가호</font> 효과 부여.<br/>지속 <font color=\"red\">1</font>행동."

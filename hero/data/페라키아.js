@@ -53,7 +53,7 @@
   "HeartFetter": "생명+650, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "모프",
+      "TalentName": "모프",
       "Icon": "16.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "환마의 속삭임",
+    "Awaken_Name" : "환마의 속삭임",
     "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"blue\">내면의 악마</font> 사용 후 '<font color=\"blue\">상성인 부대와 교전 시 받는 피해</font> <font color=\"red\">+10%</font>' 효과 추가 부여<br/>지속 <font color=\"red\">1</font>행동",
   },
   "Equip": {
-    "Name": "악몽의 속삭임(투구)",
+    "EqpName": "악몽의 속삭임(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "페라키아.webp",
     "Ability": "생명 +5%<br/>상성 관계인 부대와 전투시, 공격 +20%"

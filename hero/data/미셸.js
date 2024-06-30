@@ -53,7 +53,7 @@
   "HeartFetter": "생명+700, 방어+40, 마방+60",
   "Talent": [
     {
-      "Name": "마장 갑주",
+      "TalentName": "마장 갑주",
       "Icon": "Gift_Michelle.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent":null,
   "Second_Awaken": {
-    "Name" : "불타는 갑옷",
+    "Awaken_Name" : "불타는 갑옷",
     "Stats": "공격, 방어 <font color=\"red\">+5%</font><br/>스킬로 <font color=\"red\">3</font>명 이상 적 명중 시 '<font color=\"purple\">작열</font>' <font color=\"red\">1</font>개 추가 부여 및 '<font color=\"blue\">마갑 대역</font>' 남은 쿨타임 제거",
   },
   "Equip": {
-    "Name": "마도 과학 무장(무기)",
+    "EqpName": "마도 과학 무장(무기)",
     "Stats": "생명 364, 공격 118",
     "Icon": "미셸.webp",
     "Ability": "공격 <font color=\"red\">+10%</font><br/>적에게 피해를 입힌 후, <font color=\"Red\">50%</font> 확률로 작열 추가 부여<br/>자신에게 '<font color=\"blue\">직선 스킬 사거리</font> <font color=\"Red\">+1</font> 부여'<br/> 지속 <font color=\"Red\">1</font>행동, <b>해제 불가</b>"

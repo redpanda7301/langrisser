@@ -49,7 +49,7 @@
   "HeartFetter": "생명+850, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "지장의 장막",
+      "TalentName": "지장의 장막",
       "Icon": "25.webp",
       "Abilities": [
         {
@@ -75,11 +75,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "심모원려",
+    "Awaken_Name" : "심모원려",
     "Stats": "공격,방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">장막의 그림자</font>와 <font color=\"blue\">반계</font> 지속 시간 <font color=\"red\">+1</font>"
   },
   "Equip": {
-    "Name": "예지(투구)",
+    "EqpName": "예지(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "에마링크.webp",
     "Ability": "생명 +10%<br/>행동 종료시 주변 2칸이내 모든 적군에게 랜덤한 디버프 1개 부여"

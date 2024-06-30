@@ -54,7 +54,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "수리건곤",
+      "TalentName": "수리건곤",
       "Icon": "Gift_Kaguya.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "달이 머금은 빛",
+    "Awaken_Name" : "달이 머금은 빛",
     "Stats": "지력 <font color=\"red\">+5%</font><br/>턴 시작 시, 자신 주위 <font color=\"Red\">1</font>바퀴 범위 안에 아군 <font color=\"Red\">2</font>명 이상이 있을 경우, <font color=\"purple\">화투패 저 록 접</font> 생성 범위 <font color=\"Red\">1</font>바퀴 수축",
   },
   "Equip": {
-    "Name": "덧없는 달빛(투구)",
+    "EqpName": "덧없는 달빛(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "카구야.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>전투 시작시 무작위 <font color=\"purple\">화투패</font> <font color=\"red\">2</font>장 획득<br/> <font color=\"blue\">소매속 패</font>로 얻는 <font color=\"blue\">부대 사거리 증가</font> 효과가 <b>해제 불가</b>로 변경.<br/>전장에서 사용한 <font color=\"purple\">저猪(<img src=\"../img/skills/Kaguya/0_1.webp\"/>)</font>, <font color=\"purple\">록鹿(<img src=\"../img/skills/Kaguya/0_2.webp\"/>)</font>, <font color=\"purple\">접蝶(<img src=\"../img/skills/Kaguya/0_3.webp\"/></font>) <font color=\"Red\">1</font>장 당<br/>치명타 확률 <font color=\"red\">+1%</font> (최대 <font color=\"red\">+10%</font>)"

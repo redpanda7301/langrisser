@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "세상을 여행하고자 하는 소망",
+      "TalentName": "세상을 여행하고자 하는 소망",
       "Icon": "Gift_Jayce.webp",
       "Abilities": [
         {

@@ -54,7 +54,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "모래 폭풍의 사냥꾼",
+      "TalentName": "모래 폭풍의 사냥꾼",
       "Icon": "Gift_Rostam.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
 "Second_Awaken":{
-    "Name" : "광람파사",
+    "Awaken_Name" : "광람파사",
     "Stats": "공격, 기술 <font color=\"red\">+5%</font><br/><font color=\"blue\">분노의 격투</font>로 전투 진입 전, 자신이 방어 지형이나 '<font color=\"brown\">사막</font>'에 위치할 경우<br/>해당 공격은 <font color=\"blue\">호위 무시</font>",
   },
   "Equip": {
-    "Name": "사막의 광풍(투구)",
+    "EqpName": "사막의 광풍(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "로스탐.webp",
     "Ability": "생명 <font color=\"red\">+5%</font>, 방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">분노의 격투</font> 패시브 효과 발동 시, '<font color=\"blue\">치명타 확률</font> <font color=\"red\">+10%</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/>자신이 '<font color=\"orange\">사막</font>' 지형에 있을 경우에도 <font color=\"blue\">해당 패시브</font>를 발동."

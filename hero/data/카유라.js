@@ -46,7 +46,7 @@
   "HeartFetter": "생명+600, 방어+20, 마방+60",
   "Talent": [
     {
-      "Name": "유성의 빛",
+      "TalentName": "유성의 빛",
       "Icon": "Gift_Kayura.webp",
       "Abilities": [
         {

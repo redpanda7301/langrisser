@@ -58,7 +58,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "연민의 마음",
+      "TalentName": "연민의 마음",
       "Icon": "15.webp",
       "Abilities": [
         {
@@ -85,7 +85,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "성광의 베일(갑옷)",
+    "EqpName": "성광의 베일(갑옷)",
     "Stats": "생명 583, 방어 54",
     "Icon": "소피아.webp",
     "Ability": "생명 +5%<br/>아군에게 스킬 시전 시 추가 버프 부여 : <br/>\"공격,지력+15%\", \"마방+20%\", 2턴 지속."

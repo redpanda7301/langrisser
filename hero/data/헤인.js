@@ -57,7 +57,7 @@
   "HeartFetter": "생명+500, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "지식 전승",
+      "TalentName": "지식 전승",
       "Icon": "29.webp",
       "Abilities": [
         {
@@ -109,7 +109,7 @@
   ],
   "Second_Awaken": null,
   "Equip": {
-    "Name": "내,내,내가 공주라고?(투구)",
+    "EqpName": "내,내,내가 공주라고?(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "헤인.webp",
     "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/>영웅의 고유기술 중첩 최대 수치 <font color=\"red\">+1</font>,<br/><b><font color=\"pink\">공주연맹</font></b>의 초절강화 효과를 받을 수 있다."

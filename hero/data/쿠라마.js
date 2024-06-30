@@ -50,7 +50,7 @@
   "HeartFetter": "생명+350, 방어+40, 마방+60",
   "Talent": [
     {
-      "Name": "식물 조작",
+      "TalentName": "식물 조작",
       "Icon": "78.webp",
       "Abilities": [
         {

@@ -61,7 +61,7 @@
   "HeartFetter": "생명+700, 방어+50, 마방+40",
   "Talent": [
     {
-      "Name": "빈틈없는 방어",
+      "TalentName": "빈틈없는 방어",
       "Icon": "58.webp",
       "Abilities": [
         {
@@ -112,11 +112,11 @@
     }
   ],
   "Second_Awaken": {
-    "Name" : "지휘관의 위엄",
+    "Awaken_Name" : "지휘관의 위엄",
     "Stats": " 고유 스킬 지휘 범위 안에 있는 아군 치명타 피해 <font color=\"red\">+10%</font><br/>선공으로 전투 진입해서 <font color=\"blue\">치명타</font> 발동 후 피해량 <font color=\"red\">20%</font> 수치 <font color=\"green\">생명 회복</font>"
   },
   "Equip": {
-    "Name": "란포드의 최종 선택(투구)",
+    "EqpName": "란포드의 최종 선택(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "란포드.webp",
     "Ability": "방어 +10%<br/>영웅 고유기술 범위 +1"
@@ -833,7 +833,6 @@
       "SubSkills": null,
       "Animation": null
     },
-    ,
     {
       "Name": "SP : 수세",
       "Cost": "COST 2",
@@ -861,7 +860,7 @@
       "Animation": null
     },
     {
-      "Name": "SP : 계획 수립",
+      "Name": "SP 계획 수립",
       "Cost": "COST 2",
       "Entries": [
         {

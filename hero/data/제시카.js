@@ -50,7 +50,7 @@
   "HeartFetter": "생명+300, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "마법의 대가",
+      "TalentName": "마법의 대가",
       "Icon": "7.webp",
       "Abilities": [
         {

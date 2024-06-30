@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "파문의 낙인",
+      "TalentName": "파문의 낙인",
       "Icon": "Gift_Seraphina.webp",
       "Abilities": [
         {

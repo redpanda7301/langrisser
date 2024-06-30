@@ -54,7 +54,7 @@
   "HeartFetter": "생명+700, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "은하수의 쌍월",
+      "TalentName": "은하수의 쌍월",
       "Icon": "Gift_Consul.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "어두운 달의 소용돌이",
+    "Awaken_Name" : "어두운 달의 소용돌이",
     "Stats": "공격 <font color=\"red\">+10%</font><br/><font color=\"blue\">달의 조수</font>로 적 격파시 해당 스킬 <font color=\"blue\">쿨타임</font> <font color=\"red\">-1</font>"
   },
   "Equip": {
-    "Name": "성간함의 결의(투구)",
+    "EqpName": "성간함의 결의(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "달의집정관.webp",
     "Ability": "생명 <font color=\"red\">+5%</font>,마방 <font color=\"red\">+5%</font><br/><font color=\"blue\">재행동</font> 효과 발동시, 다른 <font color=\"blue\">버프</font> 지속시간을 소모하지 않음.<br/><b>피해를 입히지 않고</b> <font color=\"blue\">물</font> 속에서 행동 종료시 <br/> 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>"
@@ -526,7 +526,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",

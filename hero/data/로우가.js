@@ -49,7 +49,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "강맹함",
+      "TalentName": "강맹함",
       "Icon": "9.webp",
       "Abilities": [
         {

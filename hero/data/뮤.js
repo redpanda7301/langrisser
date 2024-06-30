@@ -57,7 +57,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "마법 덩굴의 힘",
+      "TalentName": "마법 덩굴의 힘",
       "Icon": "Gift_Mu.webp",
       "Abilities": [
         {
@@ -83,11 +83,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "삼라만상의 비호",
+    "Awaken_Name" : "삼라만상의 비호",
     "Stats":"지력 <font color=\"red\">+5%</font><br/><font color=\"green\">고대 엔트</font> <font color=\"blue\">스탯 상승</font> 및 '<font color=\"blue\">성장 회복</font>' 효과 획득"
   },
   "Equip": {
-    "Name": "만개한 화관(투구)",
+    "EqpName": "만개한 화관(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "뮤.webp",
     "Ability": "생명 (<font color=\"red\">+10</font>)% <br/>행동 종료 자신에게 '주위 <font color=\"red\">3</font>칸 범위 내 모든 부대 지형을 <font color=\"green\">초원</font>으로 간주' 효과 부여<br/>지속 <font color=\"red\">1</font>행동<br/>해당 효과 쿨타임 <font color=\"red\">3</font>행동"

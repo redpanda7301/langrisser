@@ -46,7 +46,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+40",
   "Talent": [
     {
-      "Name": "천우황녀",
+      "TalentName": "천우황녀",
       "Icon": "Gift_Meropeni.webp",
       "Abilities": [
         {
@@ -72,11 +72,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "빛나느 수훈",
+    "Awaken_Name" : "빛나느 수훈",
     "Stats": "<font color=\"green\">치료</font> 효과 <font color=\"red\">+10%</font><br/><font color=\"blue\">공훈</font> <font color=\"red\">3</font>중첩 시 추가 효과 : <font color=\"blue\">호위</font>시 <font color=\"blue\">선제 반격</font>",
   },
   "Equip": {
-    "Name": "활기찬 소환사(지팡이)",
+    "EqpName": "활기찬 소환사(지팡이)",
     "Stats": "생명 437,지력 107",
     "Icon": "멜파니.webp",
     "Ability": "치료효과 (<font color=\"red\">+3, +6, +9, +12, +15</font>)%<br/>[지휘] <b>인접 아군에게 '<font color=\"blue\">상처 저주</font>' '<font color=\"blue\">치료 불가</font>' 면역 효과</b> 부여<br/>"

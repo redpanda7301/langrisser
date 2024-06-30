@@ -14,7 +14,7 @@
       "Desc": "한정판매"
     }
   ],
-  "Name": "세계수의 현자",
+  "Name": "세계수의현자",
   "ChName": "树之贤者",
   "EngName": "Sage of the Trees",
   "JapName": "世界樹の賢者",
@@ -53,7 +53,7 @@
   "HeartFetter": "생명+400, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "영원한 수호",
+      "TalentName": "영원한 수호",
       "Icon": "Gift_MOTT.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "세상의 위엄",
+    "Awaken_Name" : "세상의 위엄",
     "Stats": "지력 <font color=\"red\">+10%</font><br/>일반 공격이 <font color=\"red\">1.5</font>배 피해를 입히며, 선공 후 아군의 <font color=\"purple\">눈부신 빛</font> 위에 있는 아군 부대 생명 <font color=\"green\">회복</font><br/>지력 <font color=\"red\">2</font>배 수치"
   },
   "Equip": {
-    "Name": "과거의 빛(투구)",
+    "EqpName": "과거의 빛(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "세계수의현자.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><b>부대의 일반 공격 사거리 <font color=\"red\">+1</font></b><br/><b>선공으로 전투 진입 후 목표 및 주위 <font color=\"red\">1</font>칸에</b><br/><font color=\"purple\">눈부신 빛</font>효과 부여<br/>지속<font color=\"red\">1</font>행동"
@@ -520,7 +520,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_MOTT1.webp",

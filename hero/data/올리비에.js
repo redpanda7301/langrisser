@@ -46,7 +46,7 @@
   "HeartFetter": "생명+700, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "호박의 사랑",
+      "TalentName": "호박의 사랑",
       "Icon": "31.webp",
       "Abilities": [
         {

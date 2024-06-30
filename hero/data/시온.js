@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "사면의 검",
+      "TalentName": "사면의 검",
       "Icon": "Gift_Shion.webp",
       "Abilities": [
         {

@@ -66,7 +66,7 @@
   "HeartFetter": "생명+800, 방어+50, 마방+60",
   "Talent": [
     {
-      "Name": "무쌍의 패왕",
+      "TalentName": "무쌍의 패왕",
       "Icon": "49.webp",
       "Abilities": [
         {
@@ -117,11 +117,11 @@
     }
   ],
   "Second_Awaken": {
-    "Name" : "무쌍의 천명",
+    "Awaken_Name" : "무쌍의 천명",
     "Stats": "<font color=\"purple\">고유기</font> 제거 불가<br/><font color=\"purple\">고유기</font> 중첩 수량 <font color=\"red\">+1</font><br/>무쌍 <font color=\"red\">3</font> 스택 이상으로 행동 종료 시, 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>"
   },
   "Equip": {
-    "Name": "리그리아 왕관(투구)",
+    "EqpName": "리그리아 왕관(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "알테뮬러.webp",
     "Ability": "방어, 마방 +5%<br/>자신이 발동 시키는 강화 효과의 지속 턴 +1"
@@ -705,7 +705,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",

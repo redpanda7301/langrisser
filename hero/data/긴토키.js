@@ -50,7 +50,7 @@
   "HeartFetter": "생명+900, 방어+60, 마방+30",
   "Talent": [
     {
-      "Name": "무사의 혼",
+      "TalentName": "무사의 혼",
       "Icon": "Gift_Gintoki.webp",
       "Abilities": [
         {

@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "리나 인버스",
+  "Name": "리나",
   "ChName": "莉娜",
   "EngName": "Lina",
   "JapName": "",
@@ -50,7 +50,7 @@
   "HeartFetter": "생명+550, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "천재 마도사",
+      "TalentName": "천재 마도사",
       "Icon": "Gift_Lina.webp",
       "Abilities": [
         {

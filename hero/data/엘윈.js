@@ -78,7 +78,7 @@
   "HeartFetter": "생명+900, 방어+60, 마방+40",
   "Talent": [
     {
-      "Name": "용사의 의지",
+      "TalentName": "용사의 의지",
       "Icon": "46.webp",
       "Abilities": [
         {
@@ -129,11 +129,11 @@
     }
   ],
 "Second_Awaken":{
-    "Name" : "빛의 재림",
+    "Awaken_Name" : "빛의 재림",
     "Stats": "주위 <font color=\"red\">2</font>칸 범위 안에 아군이 없을 경우<br/>'<font color=\"blue\">영원의 빛</font>'을 사용해 전투 진입 시 공격 <font color=\"red\">+30</font>%<br/>목표 격파 시 <font color=\"blue\">영원의 빛</font> <font color=\"blue\">패시브 효과 발동</font><br/>해당 효과는 '<font color=\"blue\">제국의 빛</font>' 아군도 획득 가능",
   },
   "Equip": {
-    "Name": "방랑의 기사(무기)",
+    "EqpName": "방랑의 기사(무기)",
     "Stats": "생명 437,공격 107",
     "Icon": "엘윈.webp",
     "Ability": "공격 <font color=\"red\">+10%</font><br/>기술을 사용하여 피해를 입힐시, <font color=\"red\">30%</font> 확률로 해당 기술의 쿨타임 -5"

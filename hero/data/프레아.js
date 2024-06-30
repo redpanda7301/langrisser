@@ -61,7 +61,7 @@
   "HeartFetter": "생명+1000, 방어+50, 마방+40",
   "Talent": [
     {
-      "Name": "슬픈 결단",
+      "TalentName": "슬픈 결단",
       "Icon": "17.webp",
       "Abilities": [
         {
@@ -112,11 +112,11 @@
     }
   ],
   "Second_Awaken": {
-    "Name" : "강철 가시",
+    "Awaken_Name" : "강철 가시",
     "Stats": "모든 능력치 <font color=\"red\">+5%</font><br/><font color =\"blue\">장미의 진</font> 획득 시, 방어의 기초 수치가 마방보다 높을 경우, <font color =\"blue\">창진</font> 역시 획득<br/>반대일 경우 <font color =\"blue\">강철 장미</font> 획득"
   },
   "Equip": {
-    "Name": "가시 왕관(투구)",
+    "EqpName": "가시 왕관(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "프레아.webp",
     "Ability": "마방 +10%<br/><b>공격을 받아 전투 진입 전 적군에게 고정피해를 입힌다.</b><br/>피해량은 영웅 마방의 <font color=\"red\">2</font>배 데미지"

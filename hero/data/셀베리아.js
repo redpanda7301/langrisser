@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "셀베리아 블레스",
+  "Name": "셀베리아",
   "ChName": "塞贝莉雅·布雷斯",
   "EngName": "Selvaria Bles",
   "JapName": "セルベリア・ブレス",
@@ -50,7 +50,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+30",
   "Talent": [
     {
-      "Name": "푸른 영역",
+      "TalentName": "푸른 영역",
       "Icon": "Gift_Selvaria.webp",
       "Abilities": [
         {

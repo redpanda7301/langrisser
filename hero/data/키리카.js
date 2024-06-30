@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "키리카 토와 알마",
+  "Name": "키리카",
   "ChName": "雾香",
   "EngName": "Kirika",
   "JapName": "キリカ・トワ・アルマ",
@@ -50,7 +50,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+30",
   "Talent": [
     {
-      "Name": "코토노카구라",
+      "TalentName": "코토노카구라",
       "Icon": "Gift_Kirika.webp",
       "Abilities": [
         {

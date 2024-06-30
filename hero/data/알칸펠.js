@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "세상을 구하는 대가",
+      "TalentName": "세상을 구하는 대가",
       "Icon": "Gift_Archanfel.webp",
       "Abilities": [
         {

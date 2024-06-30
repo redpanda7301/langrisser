@@ -62,7 +62,7 @@
   "HeartFetter": "생명+650, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "견제 전술",
+      "TalentName": "견제 전술",
       "Icon": "20.webp",
       "Abilities": [
         {
@@ -114,7 +114,7 @@
   ],
   "Second_Awaken": null,
   "Equip": {
-    "Name": "발키리의 샛별(투구)",
+    "EqpName": "발키리의 샛별(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "나암.webp",
     "Ability": "마방 <font color =\"red\">+10%</font> <br/>영웅의 <font color =\"purple\">고유기술</font> 쿨타임 <font color=\"red\">-1</font>"
@@ -752,7 +752,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",

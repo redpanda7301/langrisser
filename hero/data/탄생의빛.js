@@ -58,7 +58,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "심판의 위광",
+      "TalentName": "심판의 위광",
       "Icon": "Gift_YoungJessica.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "성스러운 수호의 위엄",
+    "Awaken_Name" : "성스러운 수호의 위엄",
     "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">각성 재행동</font> 효과 발동 범위 <font color=\"red\">+1</font><br/>발동 시 추가로 <font color=\"purple\">위광</font> <font color=\"red\">1</font>개 획득"
   },
   "Equip": {
-    "Name": "전생의 명문(투구)",
+    "EqpName": "전생의 명문(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "탄생의빛.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><b>영웅 고유 스킬로 누적할 수 있는 위광 갯수</b> <font color=\"red\">+1</font><br/><font color=\"blue\">재행동</font>시 <font color=\"blue\">버프</font> 지속 시간 소모되지 않음"

@@ -57,7 +57,7 @@
   "HeartFetter": "생명+650, 방어+30, 마방+60",
   "Talent": [
     {
-      "Name": "강력한 도움",
+      "TalentName": "강력한 도움",
       "Icon": "19.webp",
       "Abilities": [
         {
@@ -83,11 +83,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "리그리아의 전법",
+    "Awaken_Name" : "리그리아의 전법",
     "Stats": "공격 <font color=\"red\">+10%</font><br/><font color=\"purple\">강력한 도움</font> 부여 범위 <font color=\"red\">+1</font>"
   },
   "Equip": {
-    "Name": "스칼렛 윈드(투구)",
+    "EqpName": "스칼렛 윈드(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "파나.webp",
     "Ability": "마방 <font color=\"red\">+10%</font><br/>범위피해 스킬 사용시 효과 범위+1,<br/>범위스킬로 피해를 준후 쿨타임에 들어가며 4턴뒤 재발동 가능."

@@ -47,7 +47,7 @@
   "HeartFetter": "생명+800, 방어+50, 마방+60",
   "Talent": [
     {
-      "Name": "속박 붕괴",
+      "TalentName": "속박 붕괴",
       "Icon": "Gift_Excela.webp",
       "Abilities": [
         {

@@ -54,7 +54,7 @@
   "HeartFetter": "생명+600, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "마검 소체",
+      "TalentName": "마검 소체",
       "Icon": "Gift_Epsilon.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "마폭멸광",
+    "Awaken_Name" : "마폭멸광",
     "Stats": "치명타 피해 <font color=\"red\">+10%</font><br/><font color=\"blue\">마검의 장벽</font>이 피해를 받아 사라질 경우 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font>'효과 획득<br/>지속 <font color=\"red\">1</font>행동",
   },
   "Equip": {
-    "Name": "소멸 - 개 -(무기)",
+    "EqpName": "소멸 - 개 -(무기)",
     "Stats": "생명 437,공격 107",
     "Icon": "입실론.webp",
     "Ability": "공격 <font color=\"red\">+10%</font><br/>부대 병종 상성 무시<br/>전장에 있는 부대 사망 시 자신에게 걸린 디버프 <font color=\"red\">1</font>개 제거, 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font> 및 <br/> '<font color=\"blue\">마검의 장벽</font>' 효과 획득 <br/><font color=\"blue\">마검의 장벽</font> : 다음에 부대가 받는 피해 <font color=\"red\">-80%</font> <br/>(쿨타임 <font color=\"red\">1</font> 행동)"

@@ -58,7 +58,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+30",
   "Talent": [
     {
-      "Name": "성스러운 불의 칭송자",
+      "TalentName": "성스러운 불의 칭송자",
       "Icon": "Gift_Elma.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "빛의 거울의 성찬식",
+    "Awaken_Name" : "빛의 거울의 성찬식",
     "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">성광의 거울</font> 지속 시간 <font color=\"red\">+1</font> 및 '행동 종료 시 지력 <font color=\"red\">1.5</font>배 수치 생명 <font color=\"green\">회복</font>' 효과 추가"
   },
   "Equip": {
-    "Name": "경건한 신의 축복(투구)",
+    "EqpName": "경건한 신의 축복(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "엘마.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">성스러운 빛의 등불</font> <font color=\"green\">치료 효과</font> <font color=\"red\">+20%</font><br/>자신에게 <font color=\"blue\">초절 특수 효과</font>가 있을 경우 '<font color=\"blue\">성광의 거울</font>' 효과 <b>해제 불가</b>"
@@ -629,7 +629,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",

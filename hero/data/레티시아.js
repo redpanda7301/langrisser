@@ -49,7 +49,7 @@
   "HeartFetter": "생명+700, 방어+30, 마방+30",
   "Talent": [
     {
-      "Name": "사랑의 응원",
+      "TalentName": "사랑의 응원",
       "Icon": "13.webp",
       "Abilities": [
         {

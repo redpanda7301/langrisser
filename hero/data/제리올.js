@@ -10,7 +10,7 @@
       "Desc": "한정판매"
     }
   ],
-  "Name": "제리올 & 레이라",
+  "Name": "제리올레이라",
   "CV": "나가츠카 타쿠마",
   "ChName": "杰利奥鲁&蕾拉",
   "EngName": "Gerold & Layla",
@@ -49,7 +49,7 @@
   "HeartFetter": "생명+550, 방어+40, 마방+60",
   "Talent": [
     {
-      "Name": "월하의 서약",
+      "TalentName": "월하의 서약",
       "Icon": "55.webp",
       "Abilities": [
         {
@@ -75,11 +75,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "영원한 맹세",
+    "Awaken_Name" : "영원한 맹세",
     "Stats":"<font color=\"blue\">액티브 스킬</font> 피해량 <font color=\"red\">+10%</font><br/><font color=\"blue\">레이라의 축복</font>(<font color=\"blue\">제리올의 호위</font>) 지속시간 <font color=\"red\">+1</font>행동 "
   },
   "Equip": {
-    "Name": "같은 마음의 수호(망치)",
+    "EqpName": "같은 마음의 수호(망치)",
     "Stats": "공격 107,지력 107",
     "Icon": "제리올.webp",
     "Ability": "공격, 지력 <font color=\"red\">+10%</font><br/>영웅 통상 공격 사거리 <font color=\"red\">+1</font>,<br/><b>선공으로 전투 진입 시</b>, <b>전투 후 생명이 가장 낮은 아군 <font color=\"blue\">회복</font></b>, <br/><b>회복량은 술자의 공격+지력 <font color=\"red\">1</font>배</b> 수치<br/><b>재행동 발동 시, 자신에게 걸린 버프의 지속 시간이 소모되지 않음</b>"
@@ -447,7 +447,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",

@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "샤르티아 블러드폴른",
+  "Name": "샤르티아",
   "ChName": "夏提雅",
   "EngName": "Shalltear",
   "JapName": "シャルティア",
@@ -50,7 +50,7 @@
   "HeartFetter": "생명+600, 방어+40, 마방+30",
   "Talent": [
     {
-      "Name": "붉은 신성",
+      "TalentName": "붉은 신성",
       "Icon": "Gift_Shalltear.webp",
       "Abilities": [
         {

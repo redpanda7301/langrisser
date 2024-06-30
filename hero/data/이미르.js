@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "극의의 사슬",
+      "TalentName": "극의의 사슬",
       "Icon": "Gift_Ymir.webp",
       "Abilities": [
         {

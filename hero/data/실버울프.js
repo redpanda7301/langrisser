@@ -53,7 +53,7 @@
   "HeartFetter": "생명+650, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "늑대의 본성",
+      "TalentName": "늑대의 본성",
       "Icon": "23.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "질풍파공",
+    "Awaken_Name" : "질풍파공",
     "Stats":"공격 <font color=\"red\">+5%</font><br/>선공으로 전투 진입 후 <b>적에게 <font color=\"blue\">버프</font>가 없으면</b><br/>실버울프 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"blue\">고정피해</font>"
   },
   "Equip": {
-    "Name": "의적의 가면(투구)",
+    "EqpName": "의적의 가면(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "실버울프.webp",
     "Ability": "마방 +5%<br/>공격하여 전투진입시, 상대보다 강화버프가 2배 많을 경우 상대보다 먼저 공격"

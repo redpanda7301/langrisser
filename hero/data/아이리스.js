@@ -50,7 +50,7 @@
   "HeartFetter": "생명+450, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "러블리 하트",
+      "TalentName": "러블리 하트",
       "Icon": "33.webp",
       "Abilities": [
         {
@@ -76,7 +76,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "순수한 낙인",
+    "Awaken_Name" : "순수한 낙인",
     "Stats": "<font color=\"green\">치료</font> 효과 <font color=\"red\">+10%</font><br/><font color=\"purple\">환상의 키스</font>에 추가 효과 부여 '행동종료 시 자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font>'"
   },
   "Equip": null,
@@ -449,7 +449,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",

@@ -50,7 +50,7 @@
   "HeartFetter": "생명+600, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "독행 용사",
+      "TalentName": "독행 용사",
       "Icon": "40.webp",
       "Abilities": [
         {
@@ -76,11 +76,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "용사의 자질",
+    "Awaken_Name" : "용사의 자질",
     "Stats": "공격,치명타 확률 <font color=\"red\">+5%</font><br/>자신이 방어 지형에 있는 상태에서 <font color=\"purple\">독행 용사</font> 효과 발동 시 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 추가 <font color=\"blue\">강탈</font>",
   },
   "Equip": {
-    "Name": "위대한 왕의 증표(투구)",
+    "EqpName": "위대한 왕의 증표(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "올리버.webp",
     "Ability": "생명, 마방 +5%<br/>부대가 치명타공격을 입히면 1개의 강력한 디버프를 부여하고 버프를 1개 강탈."

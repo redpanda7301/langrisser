@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "영원히 타오르는 붉은 화염",
+      "TalentName": "영원히 타오르는 붉은 화염",
       "Icon": "Gift_Patricia.webp",
       "Abilities": [
         {

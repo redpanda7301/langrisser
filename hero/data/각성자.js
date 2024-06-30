@@ -54,7 +54,7 @@
   "HeartFetter": "생명+750, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "혼돈의 마력",
+      "TalentName": "혼돈의 마력",
       "Icon": "Gift_Awakener.webp",
       "Abilities": [
         {

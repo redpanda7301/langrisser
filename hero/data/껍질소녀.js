@@ -45,7 +45,7 @@
       "Condition": "껍질 소녀를 사이오닉 파괴자전직"
     },
     {
-      "Condition": "율리안 도움 받아 유대의문 4 클리어"
+      "Condition": "줄리안 도움 받아 유대의문 4 클리어"
     },
     {
       "Condition": "아이언 챈슬러 도움 받아 유대의문 5 클리어"
@@ -54,7 +54,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "각성한 인공지능",
+      "TalentName": "각성한 인공지능",
       "Icon": "Gift_GirltheShell.webp",
       "Abilities": [
         {
@@ -82,7 +82,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "과부하 코어(투구)",
+    "EqpName": "과부하 코어(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "껍질소녀.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><b>피해를 입히지 않고 행동 종료 시</b> '<font color=\"blue\">강화 학습</font>' 획득<br/><font color=\"blue\">강화 학습</font> : 지력 <font color=\"red\">+5%</font>, <font color=\"blue\">스킬 사거리</font> <font color=\"red\">+1</font>'<br/><b>면역 불가</b><br/>선공으로 피해를 입힌 후 제거."
@@ -441,7 +441,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",

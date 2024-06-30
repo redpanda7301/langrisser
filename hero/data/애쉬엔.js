@@ -50,7 +50,7 @@
   "HeartFetter": "생명+650, 방어+50, 마방+60",
   "Talent": [
     {
-      "Name": "왕국의 영광",
+      "TalentName": "왕국의 영광",
       "Icon": "Gift_Eshean.webp",
       "Abilities": [
         {

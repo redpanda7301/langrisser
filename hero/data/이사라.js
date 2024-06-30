@@ -6,7 +6,7 @@
       "Desc": "기본"
     }
   ],
-  "Name": "이사라 균터",
+  "Name": "이사라",
   "ChName": "伊莎拉·巩特",
   "EngName": "Isara Gunther",
   "JapName": "イサラ・ギュンター",
@@ -45,7 +45,7 @@
   "HeartFetter": "생명+650, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "협동 작전",
+      "TalentName": "협동 작전",
       "Icon": "Gift_Isara.webp",
       "Abilities": [
         {
@@ -479,7 +479,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",

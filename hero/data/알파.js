@@ -53,7 +53,7 @@
   "HeartFetter": "생명+900, 방어+60, 마방+30",
   "Talent": [
     {
-      "Name": "불멸의 자수정",
+      "TalentName": "불멸의 자수정",
       "Icon": "Gift_Alpha.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent":null,
   "Second_Awaken":{
-    "Name" : "수정 코어 충전",
+    "Awaken_Name" : "수정 코어 충전",
     "Stats":"공격, 방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">패시브 봉인 면역</font><br/><font color=\"blue\">자수정 폭발</font> 스킬 피해량<font color=\"red\">+10%</font>"
   },
   "Equip": {
-    "Name": "개조육체 α EX(갑옷)",
+    "EqpName": "개조육체 α EX(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "알파.webp",
     "Ability": "생명,방어 <font color=\"red\">+5%</font> 이동력 <font color=\"red\">+1</font><br/>자신에게 '<font color=\"purple\">자수정 방패</font>'가 있을 경우 피격 물리 공격을 피해량 <font color=\"red\">60%</font> <font color=\"green\">반사</font><br/>'<font color=\"purple\">자수정 장막</font>'이 있을 경우 피격 마법 공격을 피해량 <font color=\"red\">60%</font> <font color=\"green\">반사</font><br/>둘다 없는 경우 영웅이 주는 피해량 <font color=\"red\">+15%</font>"
@@ -446,10 +446,18 @@
           {
             "Label": "유형",
             "Value": "선택"
-          },
+          },          
           {
             "Label": "쿨타임",
             "Value": "2턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": ""
+          },
+          {
+            "Label": "범위",
+            "Value": ""
           }
         ],
         "IconImageUrl": "../img/skills/Alpha/1.webp",
@@ -463,17 +471,18 @@
               "Value": "물리 피해"
             },
             {
+              "Label": "쿨타임",
+              "Value": ""
+            },
+            {
               "Label": "사거리",
               "Value": "1칸"
             },
             {
-              "Label": "쿨타임",
-              "Value": "-"
-            },
-            {
               "Label": "범위",
               "Value": "단일"
-            }],
+            }
+          ],
             "IconImageUrl": "../img/skills/Alpha/1_1.webp",
             "Desc": "[물리 피해]단일 적군을 공격하여 <font color=\"red\">1.5</font>배 피해를 준다.<br/><b>전투 전</b> <font color=\"purple\">자수정 장막</font> 효과 획득<br/>전투 후 해당 전투에서 입힌 피해량 <font color =\"red\">30%</font> 수치 생명 회복"
           },
@@ -485,13 +494,13 @@
               "Value": "물리 피해"
             },
             {
-              "Label": "사거리",
-              "Value": "1칸"
+              "Label": "쿨타임",
+              "Value": ""
             },
             {
-              "Label": "쿨타임",
-              "Value": "-"
-            },
+              "Label": "사거리",
+              "Value": "1칸"
+            },            
             {
               "Label": "범위",
               "Value": "단일"

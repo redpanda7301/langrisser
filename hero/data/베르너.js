@@ -53,7 +53,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+30",
   "Talent": [
     {
-      "Name": "기갑 대장",
+      "TalentName": "기갑 대장",
       "Icon": "Gift_Werner.webp",
       "Abilities": [
         {
@@ -80,7 +80,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "기동폭쇄검(무기)",
+    "EqpName": "기동폭쇄검(무기)",
     "Stats": "생명 437,공격 107",
     "Icon": "베르너.webp",
     "Ability": "공격 <font color=\"red\">+10%</font><br/> 이동 <font color=\"red\">1</font>칸 당 부대가 적 방어 <font color=\"red\">1%</font> 무시"

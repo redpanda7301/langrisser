@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "초대 황제의 결의",
+      "TalentName": "초대 황제의 결의",
       "Icon": "Gift_Tyrantel.webp",
       "Abilities": [
         {

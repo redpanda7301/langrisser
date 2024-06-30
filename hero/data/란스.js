@@ -50,7 +50,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "하늘의 사령관",
+      "TalentName": "하늘의 사령관",
       "Icon": "30.webp",
       "Abilities": [
         {
@@ -76,11 +76,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "질주하는 기사",
+    "Awaken_Name" : "질주하는 기사",
     "Stats": "상성인 부대와 교전 시 모든 스텟<font color=\"red\">+15%</font><br/>자신이 혼합 부대일 경우 이동력 <font color=\"red\">+2</font> 및 전투 후 입힌 피해량의 <font color=\"red\">20</font>% 수치만큼 생명 <font color=\"green\">회복</font>",
   },
   "Equip": {
-    "Name": "칼자스의 왕관(투구)",
+    "EqpName": "칼자스의 왕관(투구)",
     "Stats": "생명 583,마방 48",
     "Icon": "란스.webp",
     "Ability": "생명 +5%<br/>자신의 부대가 [혼합부대]시, 입히는 피해 +20%"
@@ -517,7 +517,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",

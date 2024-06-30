@@ -6,7 +6,7 @@
       "Desc": "기본"
     }
   ],
-  "Name": "도구로 형제",
+  "Name": "도구로",
   "ChName": "户愚吕兄弟",
   "EngName": "Toguro Bros",
   "JapName": "戸愚呂兄弟",
@@ -46,7 +46,7 @@
   "HeartFetter": "생명+650, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "근육 조작",
+      "TalentName": "근육 조작",
       "Icon": "79.webp",
       "Abilities": [
         {

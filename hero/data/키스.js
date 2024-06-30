@@ -44,7 +44,7 @@
   "HeartFetter": "생명+500, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "신중한 수장",
+      "TalentName": "신중한 수장",
       "Icon": "6.webp",
       "Abilities": [
         {

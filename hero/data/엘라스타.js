@@ -58,7 +58,7 @@
   "HeartFetter": "생명+550, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "숲의 권속",
+      "TalentName": "숲의 권속",
       "Icon": "73.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "숲의 유대",
+    "Awaken_Name" : "숲의 유대",
     "Stats": "공격, 치명타 확률 <font color=\"red\">+5%</font><br/><font color=\"purple\">궁병 계열 병사</font> 대동 시 해당 효과 <font color=\"red\">2</font>배"
   },
   "Equip": {
-    "Name": "바람을 싣는 날개(투구)",
+    "EqpName": "바람을 싣는 날개(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "엘라스타.webp",
     "Ability": "마방 +10%<br/>자신이 '숲', '산지', '풀밭'에 있을 경우 호위 무시 공격 가능 및<br/>전투 후 피해량의 20% 만큼 생명 회복"
@@ -468,7 +468,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",

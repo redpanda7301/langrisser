@@ -53,7 +53,7 @@
   "HeartFetter": "생명+1000, 방어+60, 마방+40",
   "Talent": [
     {
-      "Name": "신력의 전승",
+      "TalentName": "신력의 전승",
       "Icon": "83.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "염룡의 전승",
+    "Awaken_Name" : "염룡의 전승",
     "Stats":"부대 생명이 높을수록, <font color=\"blue\">반격피해</font> 최대<font color=\"red\">15%</font> 증가"
   },
   "Equip": {
-    "Name": "영광의 전승(망치)",
+    "EqpName": "영광의 전승(망치)",
     "Stats": "생명 583,공격 85",
     "Icon": "에밀리아.webp",
     "Ability": "방어, 마방 +<font color=\"red\">5%</font>,<br/>피격으로 전투 진입 시 부대가 받는 물리 피해 <font color=\"red\">-10%</font>, <br/>자신에게 <font color=\"blue\">성스러운 수호</font> 혹은 <br/><font color=\"blue\">고급 성스러운 수호</font> 효과가 있을 경우 <br/><font color=\"red\">원거리 반격가능</font>"

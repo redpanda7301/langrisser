@@ -49,7 +49,7 @@
   "HeartFetter": "생명+400, 방어+20, 마방+60",
   "Talent": [
     {
-      "Name": "의외의 축복",
+      "TalentName": "의외의 축복",
       "Icon": "4.webp",
       "Abilities": [
         {

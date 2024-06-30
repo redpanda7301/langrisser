@@ -61,7 +61,7 @@
   "HeartFetter": "생명+300, 방어+50, 마방+30",
   "Talent": [
     {
-      "Name": "블러드 퀸",
+      "TalentName": "블러드 퀸",
       "Icon": "59.webp",
       "Abilities": [
         {
@@ -87,11 +87,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "악혈의 포옹",
+    "Awaken_Name" : "악혈의 포옹",
     "Stats": "마방 <font color=\"red\">+5%</font><br/>자신이 부여한 <font color=\"blue\">상처 저주</font>나 <font color=\"blue\">치료 반전</font> 효과를 보유한 적이 있을 경우<br/>자신 부대 <font color=\"blue\">받는 피해</font> <font color=\"red\">-10%</font>",
   },
   "Equip": {
-      "Name": "마족의 뿔투구(투구)",
+      "EqpName": "마족의 뿔투구(투구)",
       "Stats": "생명 437,마방 59",
       "Icon": "리스틸.webp",
       "Ability": "생명 <font color=\"red\">+10%</font><br/>부대 생명이 <font color=\"red\">80%</font> 이상일 경우 방어, 마방 <font color=\"red\">+10%</font><br/>적에게 피해를 입힌 후 <font color=\"blue\">주는 마법 피해</font> <font color=\"red\">-20%</font> 부여 <br/>지속 <font color=\"red\">2</font>행동"

@@ -58,7 +58,7 @@
   "HeartFetter": "생명+550, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "마성의 피",
+      "TalentName": "마성의 피",
       "Icon": "24.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "마성의 자질",
+    "Awaken_Name" : "마성의 자질",
     "Stats": "모든 능력치 <font color=\"red\">+5%</font><br/>전투 시작 시 <font color=\"purple\">고유 스킬</font> 강화 <font color=\"red\">1</font>개 획득<br/><font color=\"blue\">혼돈의 소용돌이</font>로 부여하는 디버프 지속 시간 <font color=\"red\">+1</font>"
   },
   "Equip": {
-    "Name": "검은 서광(무기)",
+    "EqpName": "검은 서광(무기)",
     "Stats": "공격 107,지력 107",
     "Icon": "소니아.webp",
     "Ability": "공격, 지력 +10%<br/>근접으로 공격하여 전투 진입 전 적군에게 고정피해, 피해량은 영웅 지력의 2배<br/>원거리로 공격하여 전투 진입 후 적군에게 고정피해, 피해량은 영웅 공격의 2배"

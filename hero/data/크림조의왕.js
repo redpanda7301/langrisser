@@ -54,7 +54,7 @@
   "HeartFetter": "생명+600, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "흩날리는 크림조의 꽃",
+      "TalentName": "흩날리는 크림조의 꽃",
       "Icon": "Gift_LOC.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "흩날리는 피",
+    "Awaken_Name" : "흩날리는 피",
     "Stats":"지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">선혈 수정의 수호</font> 발동 시 모든 스킬 쿨타임 <font color=\"red\">-3</font>"
   },
   "Equip": {
-    "Name": "달의 전투복(갑옷)",
+    "EqpName": "달의 전투복(갑옷)",
     "Stats": "생명 583,방어 54",
     "Icon": "크림조의왕.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">고정 피해량</font> 및 <font color=\"green\">받는 치유 효과</font> <font color=\"blue\">+20%</font>, <br/>'<font color=\"blue\">달의 암면</font>' 지휘 범위 <font color=\"red\">+1</font>"

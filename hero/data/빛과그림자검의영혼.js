@@ -14,7 +14,7 @@
       "Desc": "형귀스킨"
     }
   ],
-  "Name": "빛과 그림자 검의영혼",
+  "Name": "빛과그림자검의영혼",
   "CV": "니시다 노조미",
   "ChName": "光影剑魄",
   "EngName": "",
@@ -54,7 +54,7 @@
   "HeartFetter": "생명+300, 방어+20, 마방+50",
   "Talent": [
     {
-      "Name": "혼을 빨아들이는 부러진 검",
+      "TalentName": "혼을 빨아들이는 부러진 검",
       "Icon": "Gift_SwordLightShadow.webp",
       "Abilities": [
         {
@@ -81,7 +81,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "교차하는 소망(갑옷)",
+    "EqpName": "교차하는 소망(갑옷)",
     "Stats": "생명 364, 방어 65",
     "Icon": "빛과그림자검의영혼.webp",
     "Ability": "생명, 방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">부활</font> 가능한 적과 전투 시, 부대 공방 <font color=\"red\">+10%</font><br/>자신이 <font color=\"blue\">부활</font> 발동 후, 해당 위치에 <font color=\"purple\">영혼의 잔재</font> 생성 (쿨 3)"

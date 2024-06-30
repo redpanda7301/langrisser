@@ -50,7 +50,7 @@
   "HeartFetter": "생명+600, 방어+30, 마방+40",
   "Talent": [
     {
-      "Name": "선령의 강대한 힘",
+      "TalentName": "선령의 강대한 힘",
       "Icon": "Gift_Amadeus.webp",
       "Abilities": [
         {
@@ -77,7 +77,7 @@
   "SPTalent": null,
   "Second_Awaken": null,
   "Equip": {
-    "Name": "영혼의 에메랄드 가시 창(무기)",
+    "EqpName": "영혼의 에메랄드 가시 창(무기)",
     "Stats": "생명 583, 공격 85",
     "Icon": "아마데우스.webp",
     "Ability": "공격,방어 <font color=\"red\">+5%</font><br/>자신이 보유한 '<font color=\"purple\">신목의 갑옷</font>' <font color=\"red\">1</font>스택 마다 범위 피해 <font color=\"red\">+5%</font><br/>부대 생명 <font color=\"red\">40%</font> 초과할 경우<br/>사망 시 생명 <font color=\"red\">20%</font>로 <font color=\"blue\">부활</font> 및 <font color=\"purple\">신목의 갑옷</font> <font color=\"red\">4</font>스택 획득<br/>해당 효과는 최대 <font color=\"red\">2</font>회 발동"

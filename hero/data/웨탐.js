@@ -58,7 +58,7 @@
   "HeartFetter": "생명+900, 방어+60, 마방+40",
   "Talent": [
     {
-      "Name": "인연의 종말",
+      "TalentName": "인연의 종말",
       "Icon": "Gift_Wehttam.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
 "Second_Awaken":{
-    "Name" : "마의 잔향",
+    "Awaken_Name" : "마의 잔향",
     "Stats": "'<font color=\"blue\">알하자드의 그림자</font>' 주위 <font color=\"red\">3</font>칸 범위 안에 해당 소환자가 있을 경우<br/>사망 시 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"blue\">0.15</font>배 <font color=\"blue\">범위 피해</font> 및 <font color=\"purple\">절망</font> 부여.<br/>반대일 경우 행동 종료 시 그 주위 <font color=\"red\">2</font>칸 범위 안 <font color=\"blue\">텔레포트</font>",
   },
   "Equip": {
-    "Name": "용맹한 마족 장군(투구)",
+    "EqpName": "용맹한 마족 장군(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "웨탐.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"purple\">절망</font> 보유한 적을 상대로 전투 진입시 영웅 피해 <font color=\"red\">+10%</font><br/><font color=\"blue\">스킬</font>을 사용했다면 <font color=\"blue\">해당 스킬</font> 쿨타임 <font color=\"red\">-1</font>행동"
@@ -483,7 +483,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",

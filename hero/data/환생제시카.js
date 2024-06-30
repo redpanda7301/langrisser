@@ -22,7 +22,7 @@
       "Desc": "한정 판매"
     }
   ],
-  "Name": "환생 제시카",
+  "Name": "환생제시카",
   "ChName": "女神化身",
   "EngName": "Jessica (Young)",
   "JapName": "転生ジェシカ",
@@ -62,7 +62,7 @@
   "HeartFetter": "생명+350, 방어+30, 마방+70",
   "Talent": [
     {
-      "Name": "여신의 대행자",
+      "TalentName": "여신의 대행자",
       "Icon": "82.webp",
       "Abilities": [
         {
@@ -88,11 +88,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "빛의 권속",
+    "Awaken_Name" : "빛의 권속",
     "Stats":"지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">여신의 세례</font> 사용 시 명중시킨 아군 <font color=\"red\">1</font>명당 <font color=\"blue\">쿨타임</font> <font color=\"red\">-1</font>(최대 <font color=\"red\">-3</font>행동)"
   },
   "Equip": {
-    "Name": "신탁을 받은 자(투구)",
+    "EqpName": "신탁을 받은 자(투구)",
     "Stats": "생명 364, 마방 65",
     "Icon": "환생제시카.webp",
     "Ability": "생명 +5%<br/>행동종료시 피해를 입히지 않고 이동하지 않은 상태라면 재행동.<br/>(재행동 효과는 발동후 4턴 이후 재발동)"

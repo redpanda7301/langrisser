@@ -58,7 +58,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+40",
   "Talent": [
     {
-      "Name": "제국의 전략",
+      "TalentName": "제국의 전략",
       "Icon": "Gift_Florentia.webp",
       "Abilities": [
         {
@@ -84,11 +84,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "통솔 군령",
+    "Awaken_Name" : "통솔 군령",
     "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">초절 강화 특수 효과</font>를 보유한 상태에서 <font color=\"blue\">엄숙한 시위</font> 사용 시<br/>해당 스킬 쿨타임 <font color=\"red\">-2</font>",
   },
   "Equip": {
-    "Name": "제국의 보물(투구)",
+    "EqpName": "제국의 보물(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "플로렌티아.webp",
     "Ability": "생명, 마방 <font color=\"red\">+5%</font><br/><b>병사가 받는 피해<font color=\"red\">-10%</font></b><br/><b>매 전투 시작 시 혹은 아군 사망 시</b><br/><font color=\"scarlet\">모략</font><font color=\"red\">1</font>개 획득"
@@ -606,8 +606,16 @@
           "Value": "전략 스킬"
         },
         {
+          "Label": "쿨타임",
+          "Value": ""
+        },
+        {
           "Label": "사거리",
           "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Florentia9.webp",
@@ -624,8 +632,16 @@
           "Value": "전략 스킬"
         },
         {
+          "Label": "쿨타임",
+          "Value": ""
+        },
+        {
           "Label": "사거리",
           "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Florentia7.webp",
@@ -642,8 +658,16 @@
           "Value": "전략 스킬"
         },
         {
+          "Label": "쿨타임",
+          "Value": ""
+        },
+        {
           "Label": "사거리",
           "Value": "4칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_Florentia8.webp",

@@ -66,7 +66,7 @@
   "HeartFetter": "생명+650, 방어+40, 마방+60",
   "Talent": [
     {
-      "Name": "선물",
+      "TalentName": "선물",
       "Icon": "21.webp",
       "Abilities": [
         {
@@ -92,11 +92,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "용감한 성녀",
+    "Awaken_Name" : "용감한 성녀",
     "Stats": "지력 <font color=\"red\">+10%</font><br/>선공으로 전투 진입 시, 전투 후 자신 생명 <font color=\"green\">회복</font> (지력 <font color=\"red\">2</font>배 수치) 및 <font color=\"blue\">무작위 버프</font> <font color=\"red\">1</font>개 획득",
   },
   "Equip": {
-    "Name": "성녀 예찬(투구)",
+    "EqpName": "성녀 예찬(투구)",
     "Stats": "생명 437, 마방 59",
     "Icon": "크리스.webp",
     "Ability": "생명<font color=\"red\">+5%</font>, 마방<font color=\"red\">+5%</font>. <br/><b>피해를 입힌 뒤 행동 종료 시</b>, <br/><b><font color=\"blue\">고유 스킬</font>로 부여하는 랜덤한 버프가 <font color=\"red\">1</font>가지 추가</b>.<br/><b>마물 격파 후 재행동 <font color=\"red\">1<font>회</font></font></b> <br/>쿨타임 <font color=\"red\">2</font>행동"

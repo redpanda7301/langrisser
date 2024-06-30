@@ -13,7 +13,7 @@
   "Name": "티아나",
   "ChName": "缇雅娜",
   "EngName": "Tiana",
-  "JapName": "시마무라 유우",
+  "JapName": "",
   "CV": "",
   "Rank": [
     0
@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "마지막 수호",
+      "TalentName": "마지막 수호",
       "Icon": "Gift_Tiana.webp",
       "Abilities": [
         {

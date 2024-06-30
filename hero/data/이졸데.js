@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "진룡의 의지",
+      "TalentName": "진룡의 의지",
       "Icon": "Gift_Isolde.webp",
       "Abilities": [
         {
@@ -484,7 +484,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/2.webp",

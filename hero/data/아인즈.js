@@ -14,7 +14,7 @@
       "Desc": "한정 이벤트"
     }
   ],
-  "Name": "아인즈 울 고운",
+  "Name": "아인즈",
   "ChName": "安兹·乌尔·恭",
   "EngName": "Ainz",
   "JapName": "アインズ・ウール・ゴウン",
@@ -54,7 +54,7 @@
   "HeartFetter": "생명+400, 방어+20, 마방+60",
   "Talent": [
     {
-      "Name": "불사자의 왕",
+      "TalentName": "불사자의 왕",
       "Icon": "Gift_Ains.webp",
       "Abilities": [
         {
@@ -535,7 +535,7 @@
       "Animation": null
     },
     {
-      "Name": "별에 소원을Wish upon a star",
+      "Name": "별에 소원을 Wish upon a star",
       "Cost": "COST 3",
       "Entries": [
         {

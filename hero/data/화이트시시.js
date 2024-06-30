@@ -18,7 +18,7 @@
       "Desc": "한정 판매"
     }
   ],
-  "Name": "화이트 시시",
+  "Name": "화이트시시",
   "ChName": "怀特·茜茜",
   "EngName": "SissiWhite",
   "JapName": "シシ・ホワイト",
@@ -57,7 +57,7 @@
   "HeartFetter": "생명+650, 방어+30, 마방+30",
   "Talent": [
     {
-      "Name": "재벌 가문",
+      "TalentName": "재벌 가문",
       "Icon": "Gift_SissiWhite.webp",
       "Abilities": [
         {
@@ -83,11 +83,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "위기 대처",
+    "Awaken_Name" : "위기 대처",
     "Stats": "치료 효과 <font color=\"red\">+10%</font><br/><font color=\"purple\">전쟁 물자</font> <font color=\"red\">3</font>개 이상 사용 후 행동 종료 시, 생명력이 가장 낮은 아군 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">회복</font> 및 '<font color=\"blue\">투자</font>' 효과 부여",
   },
   "Equip": {
-    "Name": "상업적 리더(투구)",
+    "EqpName": "상업적 리더(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "화이트시시.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><b>턴 시작시</b> <font color=\"red\">50%</font> 확률로 <font color =\"gold\">전쟁 자금</font> <font color=\"red\">2</font>개 획득<br/><b>만약 얻지 못한 경우 다음 턴 때</b> 확률<font color=\"red\">+50%</font> <br/><font color =\"gold\">전쟁 자금</font> 획득 후 확률은 다시 <font color=\"red\">50%</font>로 초기화"

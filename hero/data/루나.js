@@ -66,7 +66,7 @@
   "HeartFetter": "생명+900, 방어+40, 마방+30",
   "Talent": [
     {
-      "Name": "바람의 가호",
+      "TalentName": "바람의 가호",
       "Icon": "50.webp",
       "Abilities": [
         {
@@ -92,11 +92,11 @@
   ],
   "SPTalent": null,
 "Second_Awaken":{
-    "Name" : "바람을 스치는 습격",
+    "Awaken_Name" : "바람을 스치는 습격",
     "Stats": "마방 <font color=\"red\">+5%</font><br/>자신이 <font color=\"blue\">초절 강화 특수 효과</font> 보유 시, 주는 피해량 <font color=\"red\">+15%</font><br/>스킬로 적에게 피해를 입힌 후 해당 스킬 쿨타임 <font color=\"red\">-2</font>",
   },
   "Equip": {
-    "Name": "바람의 깃털관(투구)",
+    "EqpName": "바람의 깃털관(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "루나.webp",
     "Ability": "생명 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%,마방 (<font color=\"red\">+1, +2, +3, +4, +5</font>)%<br/><b><font color=\"blue\">고유 스킬</font> 및 <font color=\"blue\">스킬 지휘 효과</font></b> 범위 <b><font color=\"red\">+1</font></b>. <br/><b>행동 종료 시 인접한 아군 <font color=\"red\">2</font>명에게</b> 피해 <font color=\"red\">+15%</font><br/>지속 <font color=\"red\">1</font>행동<br/>"
@@ -517,7 +517,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",

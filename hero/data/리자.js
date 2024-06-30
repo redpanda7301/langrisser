@@ -50,7 +50,7 @@
   "HeartFetter": "생명+700, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "광야를 누비는 영혼",
+      "TalentName": "광야를 누비는 영혼",
       "Icon": "Gift_Liza.webp",
       "Abilities": [
         {
@@ -76,11 +76,11 @@
   ],
   "SPTalent": null,
 "Second_Awaken":{
-    "Name" : "자연의 형태",
+    "Awaken_Name" : "자연의 형태",
     "Stats": "공격 <font color=\"red\">+5%</font><br/>형태 변환 시 <font color=\"blue\">자연의 맹약</font> 쿨타임 감소",
   },
   "Equip": {
-    "Name": "떠돌이 영혼의 머리(투구)",
+    "EqpName": "떠돌이 영혼의 머리(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "리자.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/>매번 형태 선택 시 자신에게 걸린 <font color=\"blue\">디버프</font><font color=\"Red\">1</font>개를 제거하고,<br/>무작위 버프 <font color=\"Red\">1</font>개 부여."

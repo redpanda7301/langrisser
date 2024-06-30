@@ -53,7 +53,7 @@
   "HeartFetter": "생명+600, 방어+40, 마방+50",
   "Talent": [
     {
-      "Name": "복수의 용의 각인",
+      "TalentName": "복수의 용의 각인",
       "Icon": "Gift_Renata.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "거룡의 응시",
+    "Awaken_Name" : "거룡의 응시",
     "Stats": "공격 <font color=\"red\">+5%</font><br/>선공으로 전투 진입 전 목표에게 '<font color=\"purple\">용인</font>' 부여<br/>쿨타임 <font color=\"red\">1</font>행동"
   },
   "Equip": {
-    "Name": "용을 다스리는 관(투구)",
+    "EqpName": "용을 다스리는 관(투구)",
     "Stats": "생명 437,마방 59",
     "Icon": "레나타.webp",
     "Ability": "방어 <font color=\"red\">+10%</font>,<br/>적에게 부여하는 디버프 효과 지속 시간 <font color=\"red\">+1</font>, <br/>자신의 고유 스킬 발동 시 자신에게 '바람 호위' 효과 부여 및 <br/>'공격 지력 저하' '침묵' 면역, 지속 <font color=\"red\">2</font>행동, <br/>'메테오 스트라이크' 초절을 받을 수 있음"

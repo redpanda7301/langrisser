@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "신구지 사쿠라",
+  "Name": "사쿠라",
   "ChName": "真宫寺樱",
   "EngName": "Sakura",
   "JapName": "真宮寺さくら",
@@ -50,7 +50,7 @@
   "HeartFetter": "생명+700, 방어+50, 마방+40",
   "Talent": [
     {
-      "Name": "영검 아라타카",
+      "TalentName": "영검 아라타카",
       "Icon": "70.webp",
       "Abilities": [
         {

@@ -53,7 +53,7 @@
   "HeartFetter": "생명+700, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "크림조랜더의 집념",
+      "TalentName": "크림조랜더의 집념",
       "Icon": "84.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "필사의 의지",
+    "Awaken_Name" : "필사의 의지",
     "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"purple\">불사자</font> 상태일 경우 선공으로 전투 진입 시 <font color=\"blue\">선제공격</font>",
   },
   "Equip": {
-    "Name": "크림조 아머(갑옷)",
+    "EqpName": "크림조 아머(갑옷)",
     "Stats": "생명 437,방어 65",
     "Icon": "비라쥬.webp",
     "Ability": "방어 +10%<br/>영웅이 사망하지 않고 부활시, 랜덤한 강화버프 1개 획득."
@@ -473,7 +473,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",

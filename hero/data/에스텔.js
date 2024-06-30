@@ -46,7 +46,7 @@
   "HeartFetter": "생명+1000, 방어+70, 마방+20",
   "Talent": [
     {
-      "Name": "빛의 소녀",
+      "TalentName": "빛의 소녀",
       "Icon": "60.webp",
       "Abilities": [
         {

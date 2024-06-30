@@ -54,7 +54,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "모래의 춤사위",
+      "TalentName": "모래의 춤사위",
       "Icon": "Gift_Ashumare.webp",
       "Abilities": [
         {
@@ -80,11 +80,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "경쾌하고 부드러운 자태",
+    "Awaken_Name" : "경쾌하고 부드러운 자태",
     "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"purple\">댄스 파트너</font>가 자신 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시<br/><font color=\"red\">2</font>칸 이동력 감소 면제 기회 획득"
   },
   "Equip": {
-    "Name": "고난의 별(투구)",
+    "EqpName": "고난의 별(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "아샤메르.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"purple\">댄스 파트너</font> 보유 시, 스킬 피해 <font color=\"red\">+10%</font><br/>자신과 <font color=\"purple\">댄스 파트너</font> 행동 종료 시<br/><fonmt color=\"blue\">댄스 스탭</font> 유형에 따라 면역 효과를 받는다.<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">밀착</font> : 고정피해<br/><font color=\"blue\">핸드 인 핸드</font> : 침묵<br/><font color=\"blue\">시리얼</font> : 이동력 저하"

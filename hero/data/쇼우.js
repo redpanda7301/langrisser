@@ -10,7 +10,7 @@
       "Desc": "빛의 메아리"
     }
   ],
-  "Name": "후카마치 쇼우",
+  "Name": "쇼우",
   "ChName": "深町晶",
   "EngName": "Sho",
   "JapName": "",
@@ -50,7 +50,7 @@
   "HeartFetter": "",
   "Talent": [
     {
-      "Name": "강식 진화",
+      "TalentName": "강식 진화",
       "Icon": "Gift_Sho.webp",
       "Abilities": [
         {

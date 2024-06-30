@@ -45,7 +45,7 @@
   "HeartFetter": "생명+600, 방어+40, 마방+30",
   "Talent": [
     {
-      "Name": "신중한 전술가",
+      "TalentName": "신중한 전술가",
       "Icon": "8.webp",
       "Abilities": [
         {

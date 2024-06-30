@@ -6,7 +6,7 @@
       "Desc": "기본"
     }
   ],
-  "Name": "하시바 토마",
+  "Name": "토마",
   "ChName": "羽柴当麻",
   "EngName": "Touma",
   "JapName": "羽柴当麻",
@@ -45,7 +45,7 @@
   "HeartFetter": "생명+500, 방어+30, 마방+30",
   "Talent": [
     {
-      "Name": "천공의 지혜",
+      "TalentName": "천공의 지혜",
       "Icon": "Gift_HashibaTouma.webp",
       "Abilities": [
         {
@@ -466,7 +466,7 @@
       "Entries": [
         {
           "Label": "유형",
-          "Value": "지휘,패시브"
+          "Value": "패시브"
         }
       ],
       "IconImageUrl": "../img/skills/Skill_DexCommand.webp",

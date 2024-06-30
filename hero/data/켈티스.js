@@ -53,7 +53,7 @@
   "HeartFetter": "생명+750, 방어+40, 마방+40",
   "Talent": [
     {
-      "Name": "영혼을 사냥하는 화가",
+      "TalentName": "영혼을 사냥하는 화가",
       "Icon": "Gift_Kertesz.webp",
       "Abilities": [
         {
@@ -79,11 +79,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Name" : "영혼을 찾는 붓",
+    "Awaken_Name" : "영혼을 찾는 붓",
     "Stats": "<font color=\"blue\">영혼의 낙인</font> 지속 시간 <font color=\"red\">+1</font><br/><font color=\"blue\">영혼의 낙인</font>을 부여한 적 <font color=\"red\">1</font>명당 부대 사거리 <font color=\"red\">+1</font>(최대 <font color=\"red\">+2</font>)",
   },
   "Equip": {
-    "Name": "영혼을 부르는 메모(투구)",
+    "EqpName": "영혼을 부르는 메모(투구)",
     "Stats": "생명 364,마방 65",
     "Icon": "켈티스.webp",
     "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">영혼의 낙인</font>을 가진 적 공격시 전투 진입 후 부대 생명 <font color =\"red\">20%</font> 회복<br/>적 격파 후 소환된 <font color=\"blue\">그림 꼭두각시</font>의 주는 피해량<font color=\"red\">+10%</font>, 받는 피해량 <font color=\"red\">-10%</font>"

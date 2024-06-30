@@ -49,7 +49,7 @@
   "HeartFetter": "생명+600, 방어+40, 마방+30",
   "Talent": [
     {
-      "Name": "기사의 신념",
+      "TalentName": "기사의 신념",
       "Icon": "11.webp",
       "Abilities": [
         {

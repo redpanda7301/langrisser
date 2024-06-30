@@ -6,7 +6,7 @@
       "Desc": "기본"
     }
   ],
-  "Name": "시노비베 히미코",
+  "Name": "히미코",
   "ChName": "忍部火美子",
   "EngName": "Himiko",
   "JapName": "忍部ヒミコ",
@@ -46,7 +46,7 @@
   "HeartFetter": "생명+650, 방어+50, 마방+50",
   "Talent": [
     {
-      "Name": "인법 - 바꿔치기술",
+      "TalentName": "인법 - 바꿔치기술",
       "Icon": "Gift_Himiko.webp",
       "Abilities": [
         {

@@ -61,7 +61,7 @@
   "HeartFetter": "생명+400, 방어+30, 마방+50",
   "Talent": [
     {
-      "Name": "만능 메이드",
+      "TalentName": "만능 메이드",
       "Icon": "91.webp",
       "Abilities": [
         {
@@ -87,11 +87,11 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Name" : "연장근무",
+    "Awaken_Name" : "연장근무",
     "Stats": "지력 <font color=\"red\">+10%</font><br/><font color=\"blue\">초특급 대청소</font>를 <font color=\"red\">3</font>칸 범위 안 적이나 아군에게 사용시<br/>적군의 <font color=\"blue\">버프 제거</font> 숫자 <font color=\"red\">+1</font><br/>아군의 <font color=\"blue\">디버프 제거</font> 숫자 <font color=\"red\">+1</font>"
   },
   "Equip": {
-    "Name": "치명적인 청소 명령(지팡이)",
+    "EqpName": "치명적인 청소 명령(지팡이)",
     "Stats": "생명 437,지력 107",
     "Icon": "마이야.webp",
     "Ability": "지력 +(<font color=\"red\">2,4,6,8,10</font>)%,<br/>부대 이동 방식을 비행으로 변경,  범위 스킬로 명중한 지형에 걸린 적이 부여한 지형 효과를 전부 제거<br/>행동 종료 시 <font color=\"red\">2</font>칸 범위 내 아군에게 걸린 디버프 <font color=\"red\">1</font>개 제거"
