@@ -13,7 +13,7 @@
   "Name": "티아나",
   "ChName": "缇雅娜",
   "EngName": "Tiana",
-  "JapName": "",
+  "JapName": "시마무라 유우",
   "CV": "",
   "Rank": [
     0
