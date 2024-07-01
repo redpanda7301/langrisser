@@ -382,7 +382,7 @@
         },
         {
           "Label": "범위",
-          "Value": "1줄"
+          "Value": "단일"
         }
       ],
       "IconImageUrl": "../img/Super/안드리올.webp",
