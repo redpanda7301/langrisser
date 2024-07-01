@@ -317,7 +317,7 @@
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/Brightsummoner/Skill_Brightsummoner_1_1.webp",
+        "IconImageUrl": "../img/skills/Brightsummoner/Skill_Brightsummoner_1_2.webp",
         "Desc": "자신을 유니콘 곁으로 텔레포트 시키고 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/><font color=\"blue\">해당 스킬의 재행동은 보유한 버프의 지속 시간을 소모하지 않음</font>"
     },
     {
@@ -340,7 +340,7 @@
           "Value": "단일"
         }
       ],
-      "IconImageUrl": "../img/skills/Brightsummoner/Skill_Brightsummoner_1_2.webp",
+      "IconImageUrl": "../img/skills/Brightsummoner/Skill_Brightsummoner_1_1.webp",
       "Desc": "유니콘을 자신 곁으로 <font color=\"blue\">텔레포트</font>"
     }
     ],
