@@ -103,7 +103,7 @@
         ],
         "AttkRange": 2,
         "Move": 3,
-        "MoveType": "Walk",
+        "MoveType": "Fly",
         "HP": 4356,
         "HPRate": 78,
         "Attk": 280,
@@ -146,7 +146,7 @@
         "Skill": 166,
         "SkillRate": 48,
         "HeartFetterBouns1": "생명 백분비가 자신 부대보다 낮은 적과 교전 시<br/>전투 진입 후 받는 피해량 <font color=\"red\">-10%</font>",
-        "HeartFetterBouns2": "부대 생명 <font color=\"red\">80%<font> 초과 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
+        "HeartFetterBouns2": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
       }
     ],
     "Materials": {
