@@ -76,7 +76,7 @@
     "HeartFetter": "생명+500, 방어+20, 마방+60",
     "Talent": [
       {
-        "Name": "딴지 걸기",
+        "TalentName": "딴지 걸기",
         "Icon": "1.webp",
         "Abilities": [
           {
