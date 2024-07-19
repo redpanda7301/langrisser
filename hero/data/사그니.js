@@ -380,7 +380,7 @@
       "Animation": null
     },
     {
-      "Name": "살을 에는 추위",
+      "Name": "한기의 눈빛",
       "Cost": "COST 1",
       "Entries": [
         {

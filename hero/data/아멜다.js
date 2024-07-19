@@ -2,36 +2,36 @@
   {
     "Skins": [
       {
-        "ImageUrl": "아멜다/Aimeeda_0.webp",
+        "ImageUrl": "아멜다/0.webp",
         "Desc" : "기본"
       },
       {
-        "ImageUrl": "아멜다/Aimeeda_1.webp",
+        "ImageUrl": "아멜다/1.webp",
         "Desc": "스킨상점",
       },
       {
-        "ImageUrl": "아멜다/Aimeeda_2.webp",
+        "ImageUrl": "아멜다/2.webp",
         "Desc": "한정판매",
       },
       {
-        "ImageUrl": "아멜다/Aimeeda_3.webp",
+        "ImageUrl": "아멜다/3.webp",
         "Desc": "이벤트",
         
       },
       {
-        "ImageUrl": "아멜다/Aimeeda_4.webp",
+        "ImageUrl": "아멜다/4.webp",
         "Desc": "한정판매",
       },
       {
-        "ImageUrl": "아멜다/Aimeeda_5.webp",
+        "ImageUrl": "아멜다/5.webp",
         "Desc": "한정판매",
       },
       {
-        "ImageUrl": "아멜다/Aimeeda_SP.webp",
+        "ImageUrl": "아멜다/SP.webp",
         "Desc": "SP 각성",
       },    
       {
-        "ImageUrl": "아멜다/Aimeeda_6.webp",
+        "ImageUrl": "아멜다/6.webp",
         "Desc": "한정판매",
       }
     ],
@@ -155,28 +155,28 @@
         "Icon": "Icon_Occupation_Monk.webp",
         "SD": [
           {
-            "src": "아멜다/SD/Aimeeda_0_monk_3_1.webp"
+            "src": "아멜다/SD/0_monk_3_1.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_1_monk.webp"
+            "src": "아멜다/SD/1_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_2_monk.webp"
+            "src": "아멜다/SD/2_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_3_monk.webp"
+            "src": "아멜다/SD/3_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_4_monk.webp"
+            "src": "아멜다/SD/4_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_5_monk.webp"
+            "src": "아멜다/SD/5_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_SP.webp"
+            "src": "아멜다/SD/SP.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_6_monk.webp"
+            "src": "아멜다/SD/6_monk.webp"
           }
         ],
         "AttkRange": 2,
@@ -202,28 +202,28 @@
         "Icon": "Icon_Occupation_MagicianSP.webp",
         "SD": [
           {
-            "src": "아멜다/SD/Aimeeda_SP.webp"
+            "src": "아멜다/SD/SP.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_1_monk.webp"
+            "src": "아멜다/SD/1_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_2_monk.webp"
+            "src": "아멜다/SD/2_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_3_monk.webp"
+            "src": "아멜다/SD/3_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_4_monk.webp"
+            "src": "아멜다/SD/4_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_5_monk.webp"
+            "src": "아멜다/SD/5_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_SP.webp"
+            "src": "아멜다/SD/SP.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_6_monk.webp"
+            "src": "아멜다/SD/6_monk.webp"
           }
         ],
         "AttkRange": 2,
@@ -249,28 +249,28 @@
         "Icon": "Icon_Occupation_Monk.webp",
         "SD": [
           {
-            "src": "아멜다/SD/Aimeeda_0_monk_3_0.webp"
+            "src": "아멜다/SD/0_monk_3_0.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_1_monk.webp"
+            "src": "아멜다/SD/1_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_2_monk.webp"
+            "src": "아멜다/SD/2_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_3_monk.webp"
+            "src": "아멜다/SD/3_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_4_monk.webp"
+            "src": "아멜다/SD/4_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_5_monk.webp"
+            "src": "아멜다/SD/5_monk.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_SP.webp"
+            "src": "아멜다/SD/SP.webp"
           },
           {
-            "src": "아멜다/SD/Aimeeda_6_monk.webp"
+            "src": "아멜다/SD/6_monk.webp"
           }
         ],
         "AttkRange": 2,

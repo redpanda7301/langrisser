@@ -333,7 +333,7 @@
       "Animation": null
     },
     {
-      "Name": "메가 스메셔",
+      "Name": "메가 스메셔(기간틱 XD)",
       "Cost": "COST 3",
       "Entries": [
         {
