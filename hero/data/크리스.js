@@ -92,7 +92,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "용감한 성녀",
+    "Name" : "용감한 성녀",
     "Stats": "지력 <font color=\"red\">+10%</font><br/>선공으로 전투 진입 시, 전투 후 자신 생명 <font color=\"green\">회복</font> (지력 <font color=\"red\">2</font>배 수치) 및 <font color=\"blue\">무작위 버프</font> <font color=\"red\">1</font>개 획득",
   },
   "Equip": {

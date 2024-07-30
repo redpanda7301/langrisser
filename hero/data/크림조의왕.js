@@ -80,7 +80,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "흩날리는 피",
+    "Name" : "흩날리는 피",
     "Stats":"지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">선혈 수정의 수호</font> 발동 시 모든 스킬 쿨타임 <font color=\"red\">-3</font>"
   },
   "Equip": {

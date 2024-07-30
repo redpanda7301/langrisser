@@ -75,7 +75,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "마족 사냥류",
+    "Name" : "마족 사냥류",
     "Stats": "치명타 피해 <font color=\"red\">+10%</font><br/>전투 진입 후 치명타 발생 시, 전투 후 적에게 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">1</font>개 부여"
   },
   "Equip": {

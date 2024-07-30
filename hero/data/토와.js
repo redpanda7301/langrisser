@@ -84,7 +84,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "전수의 길",
+    "Name" : "전수의 길",
     "Stats": "공격,방어 <font color=\"red\">+5%</font><br/>자신이 <font color=\"blue\">초절 강화 특수 효과</font> 보유한 상태로 <font color=\"blue\">전술 지도</font> 사용했을 시<br/>복제 수량 <font color=\"red\">+2</font>",
   },
   "Equip": {

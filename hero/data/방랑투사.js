@@ -81,7 +81,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "원한을 끊는 칼날",
+    "Name" : "원한을 끊는 칼날",
     "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"purple\">복수의 사슬</font>을 보유한 적을 <font color=\"blue\"끝없는 사냥</font>으로 공격 시, 자신의 모든 스킬 쿨타임 <font color=\"red\">-2</font><br/>적 격파 시 추가로 <font color=\"red\">-1</font>"
   },
   "Equip": {

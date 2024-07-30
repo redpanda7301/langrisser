@@ -83,7 +83,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "리그리아의 전법",
+    "Name" : "리그리아의 전법",
     "Stats": "공격 <font color=\"red\">+10%</font><br/><font color=\"purple\">강력한 도움</font> 부여 범위 <font color=\"red\">+1</font>"
   },
   "Equip": {

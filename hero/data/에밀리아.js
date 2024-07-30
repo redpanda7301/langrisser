@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "염룡의 전승",
+    "Name" : "염룡의 전승",
     "Stats":"부대 생명이 높을수록, <font color=\"blue\">반격피해</font> 최대<font color=\"red\">15%</font> 증가"
   },
   "Equip": {

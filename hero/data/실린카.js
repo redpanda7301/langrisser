@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "고독한 달의 핏빛 의지",
+    "Name" : "고독한 달의 핏빛 의지",
     "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"blue\">라스트 블러드</font>을 사용해서 목표를 격파하지 못했을 경우 해당 스킬 쿨타임 <font color=\"red\">-3</font>",
   },
   "Equip": {

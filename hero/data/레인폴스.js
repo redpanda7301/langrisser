@@ -80,7 +80,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "잔월의 유지",
+    "Name" : "잔월의 유지",
     "Stats": "공격 <font color=\"red\">+5%</font><br/>고유 스킬 <font color=\"purple\">크림조의 힘</font> 효과 제거 시 <font color=\"red\">2</font>개를 보류 시킴",
   },
   "Equip": {

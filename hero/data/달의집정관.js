@@ -80,7 +80,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "어두운 달의 소용돌이",
+    "Name" : "어두운 달의 소용돌이",
     "Stats": "공격 <font color=\"red\">+10%</font><br/><font color=\"blue\">달의 조수</font>로 적 격파시 해당 스킬 <font color=\"blue\">쿨타임</font> <font color=\"red\">-1</font>"
   },
   "Equip": {

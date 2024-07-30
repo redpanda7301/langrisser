@@ -83,7 +83,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "삼라만상의 비호",
+    "Name" : "삼라만상의 비호",
     "Stats":"지력 <font color=\"red\">+5%</font><br/><font color=\"green\">고대 엔트</font> <font color=\"blue\">스탯 상승</font> 및 '<font color=\"blue\">성장 회복</font>' 효과 획득"
   },
   "Equip": {

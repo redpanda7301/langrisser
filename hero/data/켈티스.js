@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "영혼을 찾는 붓",
+    "Name" : "영혼을 찾는 붓",
     "Stats": "<font color=\"blue\">영혼의 낙인</font> 지속 시간 <font color=\"red\">+1</font><br/><font color=\"blue\">영혼의 낙인</font>을 부여한 적 <font color=\"red\">1</font>명당 부대 사거리 <font color=\"red\">+1</font>(최대 <font color=\"red\">+2</font>)",
   },
   "Equip": {

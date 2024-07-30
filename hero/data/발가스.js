@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "강인한 신력",
+    "Name" : "강인한 신력",
     "Stats": "방어 <font color=\"red\">+5%</font><br/>자신의 <font color=\"blue\">불굴</font> 효과 발동 후 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+15%</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동<br/><b>해제 불가</b>"
   },
   "Equip": {

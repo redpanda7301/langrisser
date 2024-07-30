@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
 "Second_Awaken":{
-    "Awaken_Name" : "거짓 감옥",
+    "Name" : "거짓 감옥",
     "Stats": "방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">텔레포트</font> 및 <font color=\"blue\">위치 이동</font> 효과 스킬 사용 시<br/>추가로 이동력 <font color=\"red\">-2</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동",
   },
   "Equip": {

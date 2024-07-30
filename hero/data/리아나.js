@@ -100,7 +100,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "빛의 기도",
+    "Name" : "빛의 기도",
     "Stats": "<font color=\"blue\">어게인</font> 사거리 <font color=\"red\">+1</font><br/><font color=\"blue\">어게인</font> 사용 후, 목표에게 '<font color=\"blue\">증원</font>' '<font color=\"blue\">면역</font>' 효과 부여, 지속 <font color=\"red\">2</font>행동",
   },
   "Equip": {

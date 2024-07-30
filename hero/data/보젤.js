@@ -87,7 +87,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "혼돈의 침식",
+    "Name" : "혼돈의 침식",
     "Stats":"방어, 마방 <font color=\"red\">+5%</font><br/><font color=\"red\">2</font>개 이상의 <font color=\"blue\">디버프</font>를 가진 적과 교전 시 방어 마방 추가 <font color=\"red\">+10%</font>"
   },
   "Equip": {

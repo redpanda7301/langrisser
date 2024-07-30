@@ -80,7 +80,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "거룡의 응시",
+    "Name" : "거룡의 응시",
     "Stats": "공격 <font color=\"red\">+5%</font><br/>선공으로 전투 진입 전 목표에게 '<font color=\"purple\">용인</font>' 부여<br/>쿨타임 <font color=\"red\">1</font>행동"
   },
   "Equip": {

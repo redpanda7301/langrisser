@@ -83,7 +83,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "가혹한 은상",
+    "Name" : "가혹한 은상",
     "Stats": "지력 <font color=\"red\">+10%</font><br/><font color=\"blue\">여왕의 채찍</font> 사용 후, 목표에게 <font color=\"green\">재생</font> 및 <font color=\"blue\">고정피해 면역</font> 효과 부여, 지속 <font color=\"red\">2</font>행동"
   },
   "Equip": {

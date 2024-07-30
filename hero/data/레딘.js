@@ -113,7 +113,7 @@
     }
   ],
   "Second_Awaken": {
-    "Awaken_Name" : "움켜쥔 신의 빛",
+    "Name" : "움켜쥔 신의 빛",
     "Stats": "영웅이 주는 피해량<font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위 안에 아군 <font color=\"red\">2</font>명 이상 있을 경우, <font color=\"blue\">정의의 대결</font> 사거리 <font color=\"red\">+1</font>"
   },
   "Equip": {

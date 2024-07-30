@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "군사의 심려",
+    "Name" : "군사의 심려",
     "Stats": "지력 <font color=\"red\">+5%</font><br/><b>단일 대상 <font color=\"blue\">지원 스킬</font></b> 사용 시<br/>대상에게 추가로 '<font color=\"blue\">사수</font>' 효과 부여<br/><font color=\"purple\">사수</font> : 전투 전 윌러의 지력 <font color=\"red\">5</font>배만큼 생명 회복 <font color=\"red\">3</font>행동 지속"
   },
   "Equip": {

@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "질풍파공",
+    "Name" : "질풍파공",
     "Stats":"공격 <font color=\"red\">+5%</font><br/>선공으로 전투 진입 후 <b>적에게 <font color=\"blue\">버프</font>가 없으면</b><br/>실버울프 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"blue\">고정피해</font>"
   },
   "Equip": {

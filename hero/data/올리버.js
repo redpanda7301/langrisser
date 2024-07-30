@@ -76,7 +76,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "용사의 자질",
+    "Name" : "용사의 자질",
     "Stats": "공격,치명타 확률 <font color=\"red\">+5%</font><br/>자신이 방어 지형에 있는 상태에서 <font color=\"purple\">독행 용사</font> 효과 발동 시 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 추가 <font color=\"blue\">강탈</font>",
   },
   "Equip": {

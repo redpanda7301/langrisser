@@ -84,7 +84,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "강함과 부드러움의 조화",
+    "Name" : "강함과 부드러움의 조화",
     "Stats": "공격 <font color=\"red\">+5%</font><br/>'<font color=\"blue\">강</font>' 보유 시, 영웅이 입히는 마법 피해 <font color=\"red\">+10%</font><br/>'<font color=\"orange\">유</font>' 보유 시, 영웅이 입히는 물리 피해 <font color=\"red\">+10%</font>",
   },
   "Equip": {

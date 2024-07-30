@@ -80,7 +80,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "마폭멸광",
+    "Name" : "마폭멸광",
     "Stats": "치명타 피해 <font color=\"red\">+10%</font><br/><font color=\"blue\">마검의 장벽</font>이 피해를 받아 사라질 경우 '<font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font>'효과 획득<br/>지속 <font color=\"red\">1</font>행동",
   },
   "Equip": {

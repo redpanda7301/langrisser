@@ -80,7 +80,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "복수의 깃털 칼날",
+    "Name" : "복수의 깃털 칼날",
     "Stats": "스킬 피해 <font color=\"red\">+10%</font><br/><font color=\"purple\">파멸의 날개</font>의 사망 효과 발동 시, 범위 내 적에게 추가로 받는 피해 <font color=\"red\">+15%</font> 효과 부여, 지속 <font color=\"red\">1</font>행동 "
   },
   "Equip": {

@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "초월의 유지",
+    "Name" : "초월의 유지",
     "Stats": "모든 능력치 <font color=\"red\">+10%</font><br/><font color=\"purple\">고유 스킬</font> <font color=\"blue\">소환</font> 효과 발동 시<br/><font color=\"blue\">최종 구조체</font> <font color=\"blue\">소환</font>",
   },
   "Equip": {

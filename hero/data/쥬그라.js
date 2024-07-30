@@ -88,7 +88,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "수석 마스코트",
+    "Name" : "수석 마스코트",
     "Stats": "생명 <font color=\"red\">+5%</font><br/>자신의 모든 액티브 스킬이 쿨인 상태에서 행동 종료 시<br/><font color=\"purple\">고유 스킬 생명 회복</font> 효과 발동 및 모든 스킬 쿨타임 <font color=\"red\">-1</font>"
   },
   "Equip": {

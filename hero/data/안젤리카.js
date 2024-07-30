@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "타임머신 부스트",
+    "Name" : "타임머신 부스트",
     "Stats": "지력 <font color=\"red\">+10%</font><br/>아군에게 스킬 사용 시 <font color=\"red\">50%</font> 확률로 버프 지속 시간 <font color=\"red\">+1</font>",
   },
   "Equip": {

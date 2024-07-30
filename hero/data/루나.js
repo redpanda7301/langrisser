@@ -92,7 +92,7 @@
   ],
   "SPTalent": null,
 "Second_Awaken":{
-    "Awaken_Name" : "바람을 스치는 습격",
+    "Name" : "바람을 스치는 습격",
     "Stats": "마방 <font color=\"red\">+5%</font><br/>자신이 <font color=\"blue\">초절 강화 특수 효과</font> 보유 시, 주는 피해량 <font color=\"red\">+15%</font><br/>스킬로 적에게 피해를 입힌 후 해당 스킬 쿨타임 <font color=\"red\">-2</font>",
   },
   "Equip": {

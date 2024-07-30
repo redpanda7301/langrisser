@@ -75,7 +75,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "영원한 맹세",
+    "Name" : "영원한 맹세",
     "Stats":"<font color=\"blue\">액티브 스킬</font> 피해량 <font color=\"red\">+10%</font><br/><font color=\"blue\">레이라의 축복</font>(<font color=\"blue\">제리올의 호위</font>) 지속시간 <font color=\"red\">+1</font>행동 "
   },
   "Equip": {

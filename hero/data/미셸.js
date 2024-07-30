@@ -79,7 +79,7 @@
   ],
   "SPTalent":null,
   "Second_Awaken": {
-    "Awaken_Name" : "불타는 갑옷",
+    "Name" : "불타는 갑옷",
     "Stats": "공격, 방어 <font color=\"red\">+5%</font><br/>스킬로 <font color=\"red\">3</font>명 이상 적 명중 시 '<font color=\"purple\">작열</font>' <font color=\"red\">1</font>개 추가 부여 및 '<font color=\"blue\">마갑 대역</font>' 남은 쿨타임 제거",
   },
   "Equip": {

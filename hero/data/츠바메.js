@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "은밀하고 신속한 칼날",
+    "Name" : "은밀하고 신속한 칼날",
     "Stats":"공격, 기술 <font color=\"red\">+5%</font><br/>자신이 <font color=\"purple\">은신</font> 효과 보유 상태로 <font color=\"blue\">스킬</font>로 피해를 입힐 경우<br/>해당 <font color=\"blue\">스킬</font> 쿨타임 <font color=\"red\">-3</font>행동"
   },
   "Equip": {

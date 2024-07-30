@@ -84,7 +84,7 @@
   ],
   "SPTalent": null,
 "Second_Awaken":{
-    "Awaken_Name" : "마의 잔향",
+    "Name" : "마의 잔향",
     "Stats": "'<font color=\"blue\">알하자드의 그림자</font>' 주위 <font color=\"red\">3</font>칸 범위 안에 해당 소환자가 있을 경우<br/>사망 시 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"blue\">0.15</font>배 <font color=\"blue\">범위 피해</font> 및 <font color=\"purple\">절망</font> 부여.<br/>반대일 경우 행동 종료 시 그 주위 <font color=\"red\">2</font>칸 범위 안 <font color=\"blue\">텔레포트</font>",
   },
   "Equip": {

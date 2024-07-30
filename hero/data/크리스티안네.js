@@ -84,7 +84,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "눈부신 찬가",
+    "Name" : "눈부신 찬가",
     "Stats": "생명, 마방 <font color=\"red\">+5%</font><br/><font color=\"blue\">노블레스 오블리주</font> 사용 후, 자신에게 <font color=\"blue\">낙화</font> 및 <font color=\"blue\">성스러운 방패</font> 부여<br/><font color=\"blue\">성스러운 방패</font> : 전투 진입 시, 마방 <font color=\"red\">+10%</font>, 지속 <font color=\"red\">2</font>행동"
   },
   "Equip": {

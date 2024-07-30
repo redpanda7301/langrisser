@@ -83,7 +83,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "열영풍화",
+    "Name" : "열영풍화",
     "Stats":"공격 <font color=\"red\">+5%</font><br/><font color=\"purple\">기품있는 모범</font> <font color=\"blue\">재행동</font> 발동시 치명타 확률 <font color=\"red\">100%</font> 증가<br/>지속 <font color=\"red\">1</font>행동"
   },
   "Equip": {

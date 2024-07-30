@@ -83,7 +83,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "환영 유성",
+    "Name" : "환영 유성",
     "Stats": "기술 <font color=\"red\">+10%</font><br/><font color=\"blue\">스킬</font>을 사용해 전투 진입 시<br/><font color=\"blue\">병사 사거리</font> <font color=\"red\">+1</font>, <font color=\"blue\">영웅이 주는 피해량</font> <font color=\"red\">+10%</font>"
   },
   "Equip": {

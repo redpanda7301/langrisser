@@ -76,7 +76,7 @@
   ],
   "SPTalent": null,
 "Second_Awaken":{
-    "Awaken_Name" : "자연의 형태",
+    "Name" : "자연의 형태",
     "Stats": "공격 <font color=\"red\">+5%</font><br/>형태 변환 시 <font color=\"blue\">자연의 맹약</font> 쿨타임 감소",
   },
   "Equip": {

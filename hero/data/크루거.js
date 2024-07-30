@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "끝없는 죄악",
+    "Name" : "끝없는 죄악",
     "Stats": "스킬 피해량 <font color=\"red\">+10%</font><br/><font color=\"blue\">자라나는 죄악</font> 지정 대상 수<font color=\"red\">+1</font>",
   },
   "Equip": {

@@ -84,7 +84,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "성스러운 수호의 위엄",
+    "Name" : "성스러운 수호의 위엄",
     "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">각성 재행동</font> 효과 발동 범위 <font color=\"red\">+1</font><br/>발동 시 추가로 <font color=\"purple\">위광</font> <font color=\"red\">1</font>개 획득"
   },
   "Equip": {

@@ -84,7 +84,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "강습연검",
+    "Name" : "강습연검",
     "Stats": "<font color=\"blue\">반격 태세</font>에서<font color=\"blue\">반격 치명타</font> 후 지속 시간 <font color=\"red\">+1</font><br/><font color=\"blue\">강습 태세</font>에서 '선공 <font color=\"blue\">치명타</font> 후 모든 스킬 쿨타임 <font color=\"Red\"-1</font>' 효과 획득",
   },
   "Equip": {

@@ -120,7 +120,7 @@
     }
   ],
   "Second_Awaken": {
-    "Awaken_Name" : "기사의 모범",
+    "Name" : "기사의 모범",
     "Stats": "<font color=\"blue\">기사도</font> 부여 효과 지속 시간 <font color=\"red\">+2</font>행동<br/>사용 후 아군 기병 부대 공격 지력 <font color=\"red\">+20%</font> 및 <font color=\"blue\">면역</font>, <font color=\"blue\">폭풍</font>, <font color=\"blue\">증원</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
   },
   "Equip": {

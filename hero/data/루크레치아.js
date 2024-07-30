@@ -84,7 +84,7 @@
   ],
   "SPTalent": null,
 "Second_Awaken":{
-    "Awaken_Name" : "꼭두각시 각성",
+    "Name" : "꼭두각시 각성",
     "Stats": "지력 <font color=\"red\">+10%</font><br/>꼭두각시의 위치 이동을 다른 아군에게 사용 가능",
   },
   "Equip": {

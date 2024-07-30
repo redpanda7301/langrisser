@@ -84,7 +84,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "통솔 군령",
+    "Name" : "통솔 군령",
     "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">초절 강화 특수 효과</font>를 보유한 상태에서 <font color=\"blue\">엄숙한 시위</font> 사용 시<br/>해당 스킬 쿨타임 <font color=\"red\">-2</font>",
   },
   "Equip": {

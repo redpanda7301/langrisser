@@ -83,7 +83,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "이능력 로브 제작",
+    "Name" : "이능력 로브 제작",
     "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">이능력 로브</font> 상태에서 매번 선공으로 피해를 입힐 때마다<br/><font color=\"blue\">이능력 로브</font> <font color=\"blue\">쿨타임</font> <font color=\"red\">-2</font>"
   },
   "Equip": {

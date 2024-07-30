@@ -83,7 +83,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "꺼지지 않는 불꽃",
+    "Name" : "꺼지지 않는 불꽃",
     "Stats": "공격, 지력 <font color=\"red\">+5%</font><br/>사망 시 <font color=\"blue\">작염</font> 효과를 가진 적에게 <font color=\"blue\">공격 + 지력</font> <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font> 및<br/><font color=\"blue\">작염</font> 지속 시간 최대로 갱신"
   },
   "Equip": {

@@ -80,7 +80,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "달이 머금은 빛",
+    "Name" : "달이 머금은 빛",
     "Stats": "지력 <font color=\"red\">+5%</font><br/>턴 시작 시, 자신 주위 <font color=\"Red\">1</font>바퀴 범위 안에 아군 <font color=\"Red\">2</font>명 이상이 있을 경우, <font color=\"purple\">화투패 저 록 접</font> 생성 범위 <font color=\"Red\">1</font>바퀴 수축",
   },
   "Equip": {

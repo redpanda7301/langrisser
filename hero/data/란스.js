@@ -76,7 +76,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "질주하는 기사",
+    "Name" : "질주하는 기사",
     "Stats": "상성인 부대와 교전 시 모든 스텟<font color=\"red\">+15%</font><br/>자신이 혼합 부대일 경우 이동력 <font color=\"red\">+2</font> 및 전투 후 입힌 피해량의 <font color=\"red\">20</font>% 수치만큼 생명 <font color=\"green\">회복</font>",
   },
   "Equip": {

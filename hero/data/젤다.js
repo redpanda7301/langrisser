@@ -100,7 +100,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "고독한 별의 검",
+    "Name" : "고독한 별의 검",
     "Stats": "공격 <font color=\"red\">+10%</font><br/>자신이 병사가 없는 상태에서 행동 종료 시, <font color =\"blue\">재행동</font> 가능<br/>해당 재행동의 이동력은 남은 이동력 <font color =\"red\">+3</font>, 쿨타임 <font color =\"red\">2</font>"
   },
   "Equip": {

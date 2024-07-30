@@ -109,7 +109,7 @@
     }
   ],
   "Second_Awaken": {
-    "Awaken_Name" : "사냥의 규칙",
+    "Name" : "사냥의 규칙",
     "Stats": "기술 <font color=\"red\">+10%</font><br/><font color=\"blue\">레인저의 눈</font>을 사용 후, 행동 종료 시 추가로 <font color=\"blue\">레인저의 마음</font> 추가 사용"
   },
   "Equip": {

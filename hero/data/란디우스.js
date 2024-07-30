@@ -91,7 +91,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "단결의 의지",
+    "Name" : "단결의 의지",
     "Stats":"<font color=\"blue\">패시브 봉인 면역</font><br/>주변 <font color=\"red\">3</font>칸 이내 아군 <font color=\"red\">1</font>명당 방어 <font color=\"red\">3%</font> 증가(최대 <font color=\"red\">12</font>)%"
   },
   "Equip": {

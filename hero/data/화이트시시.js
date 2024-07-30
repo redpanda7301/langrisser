@@ -83,7 +83,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "위기 대처",
+    "Name" : "위기 대처",
     "Stats": "치료 효과 <font color=\"red\">+10%</font><br/><font color=\"purple\">전쟁 물자</font> <font color=\"red\">3</font>개 이상 사용 후 행동 종료 시, 생명력이 가장 낮은 아군 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">회복</font> 및 '<font color=\"blue\">투자</font>' 효과 부여",
   },
   "Equip": {

@@ -76,7 +76,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "아름다운 여인의 춤사위",
+    "Name" : "아름다운 여인의 춤사위",
     "Stats":"공격,방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">비룡의 춤</font>, <font color=\"blue\">열반</font> <b>제거 불가</b> 및 지속 <font color=\"red\">+1</font>행동"
   },
   "Equip": null,

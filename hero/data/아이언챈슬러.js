@@ -84,7 +84,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "굳건한 뜻과 용기",
+    "Name" : "굳건한 뜻과 용기",
     "Stats": "지력 <font color=\"red\">+5%</font><br/>전장에 남은 다른 아군 수가 <font color=\"red\">2</font>인 미만일 때에도 <font color =\"purple\">열진</font> 스킬 사용 가능"
   },
   "Equip": {

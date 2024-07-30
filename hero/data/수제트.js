@@ -79,7 +79,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "은밀기동",
+    "Name" : "은밀기동",
     "Stats": "공격 <font color=\"red\">+5%</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸 가능<br/>(해당 효과 쿨타임 <font color=\"red\">1</font>행동)",
   },
   "Equip": {

@@ -88,7 +88,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "마신의 가호",
+    "Name" : "마신의 가호",
     "Stats": "지력 <font color=\"red\">+10%</font><br/>아군에게 <font color=\"blue\">스킬</font> 사용 시<br/>목표 중심의 아군에게 '<font color=\"blue\">받는 피해</font> <font color=\"red\">-15%</font>' 및 <font color=\"blue\">면역</font> 효과 추가 부여<br/>지속 <font color=\"red\">2</font>행동",
   },
   "Equip": {

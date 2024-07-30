@@ -88,7 +88,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "빛의 권속",
+    "Name" : "빛의 권속",
     "Stats":"지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">여신의 세례</font> 사용 시 명중시킨 아군 <font color=\"red\">1</font>명당 <font color=\"blue\">쿨타임</font> <font color=\"red\">-1</font>(최대 <font color=\"red\">-3</font>행동)"
   },
   "Equip": {

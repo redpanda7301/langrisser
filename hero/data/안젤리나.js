@@ -92,7 +92,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "전투의 바람",
+    "Name" : "전투의 바람",
     "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"blue\">재행동</font> 발동 시 <font color=\"red\">30%</font> 확률로 <font color=\"blue\">공격</font> <font color=\"red\">+20</font><br/>지속 <font color=\"red\">4</font>행동",
   },
   "Equip": {

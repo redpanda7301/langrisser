@@ -76,7 +76,7 @@
   ],
   "SPTalent": null,
 "Second_Awaken":{
-    "Awaken_Name" : "자유의 성스러운 인장",
+    "Name" : "자유의 성스러운 인장",
     "Stats": "공격, 기술 <font color=\"red\">+5%</font><br/><font color=\"red\">3</font>칸 이상 이동 후 행동 종료 시, '<font color=\"blue\">맹진</font>' 효과 획득<br/><font color=\"blue\">맹진</font> : 공격 기교 <font color=\"red\">+3%</font>, 이동력 <font color=\"red\">+1</font><br/>지속 <font color=\"red\">2</font>행동<br/>최대 <font color=\"red\">3</font>중첩",
   },
   "Equip": null,

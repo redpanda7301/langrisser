@@ -80,7 +80,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken":{
-    "Awaken_Name" : "성수의 힘",
+    "Name" : "성수의 힘",
     "Stats": "스킬 피해량 <font color=\"red\">+10%</font><br/><font color=\"purple\">마나 에너지</font>를 <font color=\"red\">3</font>개 이상 소모한 상태로 행동 종료 시<br/>해당 턴에 사용한 <font color=\"blue\">액티브 스킬</font> 쿨타임<font color=\"red\">-1</font>",
   },
   "Equip": {

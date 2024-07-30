@@ -88,7 +88,7 @@
   ],
   "SPTalent": null,
   "Second_Awaken": {
-    "Awaken_Name" : "핏빛 강인함",
+    "Name" : "핏빛 강인함",
     "Stats": "공격 <font color=\"red\">+10%</font><br/>핏빛 무장(전용장비)착용 시 <font color=\"blue\">호령-창진</font>,<font color=\"blue\">호령-기마돌격</font> 효과 해제 불가"
   },
   "Equip": {
