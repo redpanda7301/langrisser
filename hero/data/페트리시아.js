@@ -131,7 +131,7 @@
       ],
       "AttkRange": 2,
       "Move": 3,
-      "MoveType": "Fly",
+      "MoveType": "Walk",
       "HP": 3457,
       "HPRate": 54,
       "Attk": 288,
