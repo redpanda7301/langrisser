@@ -155,28 +155,28 @@
         "Icon": "Icon_Occupation_Monk.webp",
         "SD": [
           {
-            "src": "아멜다/SD/0_monk_3_1.webp"
+            "src": "아멜다/SD/0.webp"
           },
           {
-            "src": "아멜다/SD/1_monk.webp"
+            "src": "아멜다/SD/1.webp"
           },
           {
-            "src": "아멜다/SD/2_monk.webp"
+            "src": "아멜다/SD/2.webp"
           },
           {
-            "src": "아멜다/SD/3_monk.webp"
+            "src": "아멜다/SD/3.webp"
           },
           {
-            "src": "아멜다/SD/4_monk.webp"
+            "src": "아멜다/SD/4.webp"
           },
           {
-            "src": "아멜다/SD/5_monk.webp"
+            "src": "아멜다/SD/5.webp"
           },
           {
             "src": "아멜다/SD/SP.webp"
           },
           {
-            "src": "아멜다/SD/6_monk.webp"
+            "src": "아멜다/SD/6.webp"
           }
         ],
         "AttkRange": 2,
@@ -205,25 +205,25 @@
             "src": "아멜다/SD/SP.webp"
           },
           {
-            "src": "아멜다/SD/1_monk.webp"
+            "src": "아멜다/SD/1.webp"
           },
           {
-            "src": "아멜다/SD/2_monk.webp"
+            "src": "아멜다/SD/2.webp"
           },
           {
-            "src": "아멜다/SD/3_monk.webp"
+            "src": "아멜다/SD/3.webp"
           },
           {
-            "src": "아멜다/SD/4_monk.webp"
+            "src": "아멜다/SD/4.webp"
           },
           {
-            "src": "아멜다/SD/5_monk.webp"
+            "src": "아멜다/SD/5.webp"
           },
           {
             "src": "아멜다/SD/SP.webp"
           },
           {
-            "src": "아멜다/SD/6_monk.webp"
+            "src": "아멜다/SD/6.webp"
           }
         ],
         "AttkRange": 2,
@@ -249,28 +249,28 @@
         "Icon": "Icon_Occupation_Monk.webp",
         "SD": [
           {
-            "src": "아멜다/SD/0_monk_3_0.webp"
+            "src": "아멜다/SD/0.webp"
           },
           {
-            "src": "아멜다/SD/1_monk.webp"
+            "src": "아멜다/SD/1.webp"
           },
           {
-            "src": "아멜다/SD/2_monk.webp"
+            "src": "아멜다/SD/2.webp"
           },
           {
-            "src": "아멜다/SD/3_monk.webp"
+            "src": "아멜다/SD/3.webp"
           },
           {
-            "src": "아멜다/SD/4_monk.webp"
+            "src": "아멜다/SD/4.webp"
           },
           {
-            "src": "아멜다/SD/5_monk.webp"
+            "src": "아멜다/SD/5.webp"
           },
           {
             "src": "아멜다/SD/SP.webp"
           },
           {
-            "src": "아멜다/SD/6_monk.webp"
+            "src": "아멜다/SD/6.webp"
           }
         ],
         "AttkRange": 2,
