@@ -1,38 +1,37 @@
-﻿var data = [
+var data = [
   {
     "Skins": [
       {
-        "ImageUrl": "아멜다/0.webp",
-        "Desc" : "기본"
-      },
-      {
         "ImageUrl": "아멜다/1.webp",
-        "Desc": "스킨상점",
+        "Desc": "기본"
       },
       {
         "ImageUrl": "아멜다/2.webp",
-        "Desc": "한정판매",
+        "Desc": "스킨상점"
       },
       {
         "ImageUrl": "아멜다/3.webp",
-        "Desc": "이벤트",
-        
+        "Desc": "한정판매"
       },
       {
         "ImageUrl": "아멜다/4.webp",
-        "Desc": "한정판매",
+        "Desc": "이벤트"
       },
       {
         "ImageUrl": "아멜다/5.webp",
-        "Desc": "한정판매",
+        "Desc": "한정판매"
+      },
+      {
+        "ImageUrl": "아멜다/6.webp",
+        "Desc": "한정판매"
       },
       {
         "ImageUrl": "아멜다/SP.webp",
-        "Desc": "SP 각성",
-      },    
+        "Desc": "SP 각성"
+      },
       {
-        "ImageUrl": "아멜다/6.webp",
-        "Desc": "한정판매",
+        "ImageUrl": "아멜다/7.webp",
+        "Desc": "한정판매"
       }
     ],
     "Name": "아멜다",
@@ -46,9 +45,9 @@
     ],
     "SP": false,
     "Groups": [
-      0,
-      1,
-      10
+      "주인공",
+      "빛군",
+      "인외"
     ],
     "HP": 20,
     "SPHP": 0,
@@ -126,9 +125,9 @@
         ]
       }
     ],
-    "Second_Awaken" : {
-      "Name" : "To Be Continue",
-      "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">메타발언</font> 및 <font color=\"blue\">조롱대회</font> 스킬 사용후<br/>스킬 쿨타임 <font color=\"red\">1</font> ~ <font color=\"red\">4</font>행동 감소",
+    "Second_Awaken": {
+      "Name": "To Be Continue",
+      "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">메타발언</font> 및 <font color=\"blue\">조롱대회</font> 스킬 사용후<br/>스킬 쿨타임 <font color=\"red\">1</font> ~ <font color=\"red\">4</font>행동 감소"
     },
     "Equip": {
       "EqpName": "■ ■ ■ ■(무기)",
@@ -137,51 +136,51 @@
       "Ability": "지력 +10%<br/>공격하여 피해를 입힌 후 적군에게 '이동력 -1, 호위불가' 디버프 부여, 1턴 지속"
     },
     "Soldiers": [
-      0,
-      1,
-      7,
-      15,
-      17,
-      44,
-      58,
-      76,
-      91,
-      2,
-      103
+      "신관",
+      "숲의 사제",
+      "미스트 댄서",
+      "천공 사수",
+      "하이엘프",
+      "마법사",
+      "템플러",
+      "영종의 투승",
+      "신성보호술사",
+      "무녀",
+      "꽃과 바람의 성가대"
     ],
     "Jobs": [
       {
         "Name": "세인트",
-        "Icon": "Icon_Occupation_Monk.webp",
+        "Icon": "승려",
         "SD": [
           {
-            "src": "아멜다/SD/0.webp"
+            "ImageUrl": "아멜다/1/1.webp"
           },
           {
-            "src": "아멜다/SD/1.webp"
+            "ImageUrl": "아멜다/2/1.webp"
           },
           {
-            "src": "아멜다/SD/2.webp"
+            "ImageUrl": "아멜다/3/1.webp"
           },
           {
-            "src": "아멜다/SD/3.webp"
+            "ImageUrl": "아멜다/4/1.webp"
           },
           {
-            "src": "아멜다/SD/4.webp"
+            "ImageUrl": "아멜다/5/1.webp"
           },
           {
-            "src": "아멜다/SD/5.webp"
+            "ImageUrl": "아멜다/6/1.webp"
           },
           {
-            "src": "아멜다/SD/SP.webp"
+            "ImageUrl": "아멜다/SP/SP.webp"
           },
           {
-            "src": "아멜다/SD/6.webp"
+            "ImageUrl": "아멜다/7/1.webp"
           }
         ],
         "AttkRange": 2,
         "Move": 3,
-        "MoveType": "Walk",
+        "MoveType": "보행",
         "HP": 3378,
         "HPRate": 56,
         "Attk": 311,
@@ -199,36 +198,36 @@
       },
       {
         "Name": "새벽빛의 은총",
-        "Icon": "Icon_Occupation_MagicianSP.webp",
+        "Icon": "마법사SP",
         "SD": [
           {
-            "src": "아멜다/SD/SP.webp"
+            "ImageUrl": "아멜다/SP/1.webp"
           },
           {
-            "src": "아멜다/SD/1.webp"
+            "ImageUrl": "아멜다/2/1.webp"
           },
           {
-            "src": "아멜다/SD/2.webp"
+            "ImageUrl": "아멜다/3/1.webp"
           },
           {
-            "src": "아멜다/SD/3.webp"
+            "ImageUrl": "아멜다/4/1.webp"
           },
           {
-            "src": "아멜다/SD/4.webp"
+            "ImageUrl": "아멜다/5/1.webp"
           },
           {
-            "src": "아멜다/SD/5.webp"
+            "ImageUrl": "아멜다/6/1.webp"
           },
           {
-            "src": "아멜다/SD/SP.webp"
+            "ImageUrl": "아멜다/SP/SP.webp"
           },
           {
-            "src": "아멜다/SD/6.webp"
+            "ImageUrl": "아멜다/7/1.webp"
           }
         ],
         "AttkRange": 2,
         "Move": 3,
-        "MoveType": "Walk",
+        "MoveType": "보행",
         "HP": 3918,
         "HPRate": 74,
         "Attk": 259,
@@ -246,36 +245,36 @@
       },
       {
         "Name": "오라클",
-        "Icon": "Icon_Occupation_Monk.webp",
+        "Icon": "승려",
         "SD": [
           {
-            "src": "아멜다/SD/0.webp"
+            "ImageUrl": "아멜다/1/2.webp"
           },
           {
-            "src": "아멜다/SD/1.webp"
+            "ImageUrl": "아멜다/2/1.webp"
           },
           {
-            "src": "아멜다/SD/2.webp"
+            "ImageUrl": "아멜다/3/1.webp"
           },
           {
-            "src": "아멜다/SD/3.webp"
+            "ImageUrl": "아멜다/4/1.webp"
           },
           {
-            "src": "아멜다/SD/4.webp"
+            "ImageUrl": "아멜다/5/1.webp"
           },
           {
-            "src": "아멜다/SD/5.webp"
+            "ImageUrl": "아멜다/6/1.webp"
           },
           {
-            "src": "아멜다/SD/SP.webp"
+            "ImageUrl": "아멜다/SP/SP.webp"
           },
           {
-            "src": "아멜다/SD/6.webp"
+            "ImageUrl": "아멜다/7/1.webp"
           }
         ],
         "AttkRange": 2,
         "Move": 3,
-        "MoveType": "Walk",
+        "MoveType": "보행",
         "HP": 3227,
         "HPRate": 53,
         "Attk": 311,
@@ -717,7 +716,7 @@
             "Value": "단일"
           }
         ],
-        "Iconsrc": "../img/skills/17.webp",
+        "IconImageUrl": "../img/skills/17.webp",
         "Desc": "[치료] 액티브 스킬. 단일 부대의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 5배. 그리고 디버프를 1개 제거한다.",
         "SubSkills": null,
         "Animation": null
@@ -743,7 +742,7 @@
             "Value": "단일"
           }
         ],
-        "Iconsrc": "../img/skills/18.webp",
+        "IconImageUrl": "../img/skills/18.webp",
         "Desc": "[지원]액티브 스킬, 1개 부대의 방어 +20% 및 <br/>면역: '방어, 마방 감소', '치료 방해', 2턴 지속.",
         "SubSkills": null,
         "Animation": null
@@ -769,7 +768,7 @@
             "Value": "단일"
           }
         ],
-        "Iconsrc": "../img/skills/19.webp",
+        "IconImageUrl": "../img/skills/19.webp",
         "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
         "SubSkills": null,
         "Animation": null
@@ -795,7 +794,7 @@
             "Value": "3칸"
           }
         ],
-        "Iconsrc": "../img/skills/20.webp",
+        "IconImageUrl": "../img/skills/20.webp",
         "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 공격, 지력 -20%, 2턴 지속.",
         "SubSkills": null,
         "Animation": null
@@ -821,7 +820,7 @@
             "Value": "3칸"
           }
         ],
-        "Iconsrc": "../img/skills/21.webp",
+        "IconImageUrl": "../img/skills/21.webp",
         "Desc": "[마법 피해] 0.3배의 광역 피해를 주고 <br/>범위 내 적군의 버프를 1개 제거하며 무작위 디버프를 1개 부여한다.",
         "SubSkills": null,
         "Animation": null
@@ -835,7 +834,7 @@
             "Value": "패시브"
           }
         ],
-        "Iconsrc": "../img/skills/22.webp",
+        "IconImageUrl": "../img/skills/22.webp",
         "Desc": "[패시브] 부대 생명이 90%이상일 시 지력, 마방 +10%.",
         "SubSkills": null,
         "Animation": null
@@ -861,7 +860,7 @@
             "Value": "3칸"
           }
         ],
-        "Iconsrc": "../img/skills/23.webp",
+        "IconImageUrl": "../img/skills/23.webp",
         "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
         "SubSkills": null,
         "Animation": null
@@ -887,7 +886,7 @@
             "Value": "직선"
           }
         ],
-        "Iconsrc": "../img/skills/24.webp",
+        "IconImageUrl": "../img/skills/24.webp",
         "Desc": "[마법 피해] 3개의 라인에 있는 모든 적군을 공격하여 0.36배 범위 피해를 입힌다.<br/>'마물'과 전투 시 더 큰 피해를 입힌다. 버프를 1개 제거한다.",
         "SubSkills": null,
         "Animation": null
@@ -913,7 +912,7 @@
             "Value": "단일"
           }
         ],
-        "Iconsrc": "../img/skills/25.webp",
+        "IconImageUrl": "../img/skills/25.webp",
         "Desc": "[지원]액티브 스킬, 1개 부대의 마방 +30% 및 <br/>면역: '기절','강화 방해','이동력 감소', 2턴지속.",
         "SubSkills": null,
         "Animation": null
@@ -939,7 +938,7 @@
             "Value": "-"
           }
         ],
-        "Iconsrc": "../img/skills/sp/아멜다/1.webp",
+        "IconImageUrl": "../img/skills/sp/아멜다/1.webp",
         "Desc": "<font color=\"blue\">악담</font> <font color=\"red\">1</font>가지 선택 후 사용.<br/>사용 후 행동 종료시 모든 <font color=\"blue\">지원 스킬</font> 쿨타임 <font color=\"red\">-1</font>",
         "SubSkills": [
           {
@@ -962,7 +961,7 @@
                 "Value": "단일"
               }
             ],
-            "Iconsrc": "../img/skills/sp/아멜다/1_1.webp",
+            "IconImageUrl": "../img/skills/sp/아멜다/1_1.webp",
             "Desc": "[액티브] 해당 행동 <font color=\"green\">치유</font> 효과 <font color=\"red\">+50%</font><br/>행동 종료 시, <font color=\"purple\">고유 스킬</font> 발동으로 회복하는 아군 <font color=\"red\">1</font>명 추가"
           },
           {
@@ -985,7 +984,7 @@
                 "Value": "단일"
               }
             ],
-            "Iconsrc": "../img/skills/sp/아멜다/1_2.webp",
+            "IconImageUrl": "../img/skills/sp/아멜다/1_2.webp",
             "Desc": "[액티브]부대 하나에게 '<font color=\"blue\">선공으로 전투 진입 시, 전투 전 적에게 무작위 디버프</font> <font color=\"red\">2</font>개 부여' 효과 부여<br/>지속 <font color=\"red\">2</font>행동"
           },
           {
@@ -1008,7 +1007,7 @@
                 "Value": "단일"
               }
             ],
-            "Iconsrc": "../img/skills/sp/아멜다/1_3.webp",
+            "IconImageUrl": "../img/skills/sp/아멜다/1_3.webp",
             "Desc": "전장에 있는 적 하나에게 <font color=\"red\">0.2</font>배 피해 및 <font color=\"blue\">강력한 디버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">무작위</font> 부여"
           }
         ],
@@ -1035,7 +1034,7 @@
             "Value": "3칸"
           }
         ],
-        "Iconsrc": "../img/skills/sp/아멜다/2.webp",
+        "IconImageUrl": "../img/skills/sp/아멜다/2.webp",
         "Desc": "[액티브] 범위 내 부대에게 시술자 지력 <font color=\"red\">3</font>배 수치 생명 <font color=\"green\">회복</font> 및'<font color=\"blue\">강심장</font>' <font color=\"red\">2</font>스택 부여<br/><font color=\"blue\">강심장</font> : <font color=\"blue\">디버프 면역</font> 및 <font color=\"blue\">반사</font><br/>최대 <font color=\"red\">3</font>중첩, 해제 불가",
         "SubSkills": null,
         "Animation": null
@@ -1061,7 +1060,7 @@
             "Value": "단일"
           }
         ],
-        "Iconsrc": "../img/Super/아멜다.webp",
+        "IconImageUrl": "../img/Super/아멜다.webp",
         "Desc": "[지원] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 동시에 [조롱] 획득.<br/>[조롱]: \"행동 종료시, 주위 4칸 이내 2기 적군에게 1개의 디버프 부여\", 2턴 지속.",
         "SubSkills": null,
         "Animation": "../img/Super/아멜다_Ani.webp"
@@ -1212,6 +1211,7 @@
         "Desc": "그럼, 또·만·나·요!"
       }
     ],
-    "Performance2": null,  
+    "Performance2": null,
     "Misc": ""
-  }];
+  }
+]
