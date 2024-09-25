@@ -363,7 +363,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/군.webp",
-        "Desc": "[패시브] 일반 공격으로 전투 진입 시, 전투 후 자신의 모든 스킬 쿨타임 <font color=\"red\">-1</font><br/>[물리피해] : 단일 개체 <font color=\"red\">1.8</font>배 피해. 전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font><br/>전투 후 잃은 생명 <font color=\"red\">25%</font> 수치로 <font color=\"blue\">고정피해</font> 및 자신은 <font color=\"blue\">지휘</font> 효과 획득<br/><font color=\"blue\">지휘</font> : 주위 <font color=\"red\">2</font>칸 범위 안 모든 적은 부대 생명이 낮을 수록 <font color=\"blue\">이동력 저하</font>(최대 <font color=\"red\">-3</font>)<br/>이동력 효과 발생 시 <font color=\"blue\">호위 불가</font><br/>지속 <font color=\"red\">2</font>행동",
+        "Desc": "[패시브] 일반 공격으로 전투 진입 시, 전투 후 자신의 모든 스킬 쿨타임 <font color=\"red\">-1</font><br/>[물리피해] : 단일 개체 <font color=\"red\">1.8</font>배 피해. 전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font><br/>전투 후 잃은 생명 <font color=\"red\">25%</font> 수치로 <font color=\"blue\">고정 피해</font> 및 자신은 <font color=\"blue\">지휘</font> 효과 획득<br/><font color=\"blue\">지휘</font> : 주위 <font color=\"red\">2</font>칸 범위 안 모든 적은 부대 생명이 낮을 수록 <font color=\"blue\">이동력 저하</font>(최대 <font color=\"red\">-3</font>)<br/>이동력 효과 발생 시 <font color=\"blue\">호위 불가</font><br/>지속 <font color=\"red\">2</font>행동",
         "SubSkills": null,
         "Animation": "../img/Super/군_Ani.webp"
       }

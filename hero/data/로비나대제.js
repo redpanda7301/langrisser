@@ -580,7 +580,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/로비나대제.webp",
-        "Desc": "주위 <font color=\"red\">2</font>칸 범위 내 모든 적에게 <font color=\"red\">0.44</font>배 피해, 적에게 '<font color=\"blue\">압도</font>'효과 부여<br/>[<font color=\"blue\">압도</font>] :  <b>공격 전</b> 이동 <font color=\"red\">1</font>칸 당 공격 <font color=\"red\">0.5</font>배 수치 <font color=\"blue\">고정피해</font> (최대 <font color=\"red\">3</font>배) 및 <font color=\"blue\">치료 불가</font> <br/>지속 <font color=\"red\">1</font>행동 <br/><font color=\"blue\">스킬</font> 사용 후 자신에게 받는 피해 <font color=\"red\">-20%</font> <br/>자신 주위 <font color=\"red\">2</font>칸 범위 안에 있는 아군의 공격, 지력 <font color=\"red\">+10%</font> <br/>지속<font color=\"red\">2</font>행동 <br/><b>해제 불가</b>",
+        "Desc": "주위 <font color=\"red\">2</font>칸 범위 내 모든 적에게 <font color=\"red\">0.44</font>배 피해, 적에게 '<font color=\"blue\">압도</font>'효과 부여<br/>[<font color=\"blue\">압도</font>] :  <b>공격 전</b> 이동 <font color=\"red\">1</font>칸 당 공격 <font color=\"red\">0.5</font>배 수치 <font color=\"blue\">고정 피해</font> (최대 <font color=\"red\">3</font>배) 및 <font color=\"blue\">치료 불가</font> <br/>지속 <font color=\"red\">1</font>행동 <br/><font color=\"blue\">스킬</font> 사용 후 자신에게 받는 피해 <font color=\"red\">-20%</font> <br/>자신 주위 <font color=\"red\">2</font>칸 범위 안에 있는 아군의 공격, 지력 <font color=\"red\">+10%</font> <br/>지속<font color=\"red\">2</font>행동 <br/><b>해제 불가</b>",
         "SubSkills": null,
         "Animation": "../img/Super/로비나대제_Ani.webp"
       }

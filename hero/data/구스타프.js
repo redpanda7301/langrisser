@@ -84,7 +84,7 @@ var data = [
       "EqpName": "아득한 메아리(투구)",
       "Stats": "생명 364,마방 65",
       "Icon": "구스타프.webp",
-      "Ability": "생명 <font color=\"red\">+10%</font><br/>쿨타임 상태인 스킬이 있을 경우 영웅이 주는 피해량 <font color=\"red\">+10%</font><br/>원거리 피격으로 전투 진입 전, 적에게 지력 <font color =\"red\">1</font>배 수치 <font color=\"blue\">고정피해</font>"
+      "Ability": "생명 <font color=\"red\">+10%</font><br/>쿨타임 상태인 스킬이 있을 경우 영웅이 주는 피해량 <font color=\"red\">+10%</font><br/>원거리 피격으로 전투 진입 전, 적에게 지력 <font color =\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>"
     },
     "Soldiers": [
       "마법사",

@@ -572,7 +572,7 @@ var data = [
             "Name": "<b><font color=\"#B8860B\">피해 증가</font></b>",
             "Entries": null,
             "IconImageUrl": "../img/Super/껍질소녀_1_1.webp",
-            "Desc": "1.보병/창병 특효<br/>2.기병/비병 특효<br/>3.신관/법사 특효<br/>4.전투 전 목표에게 지력 <font color=\"Red\">1</font>배수만큼 <font color=\"blue\">고정피해</font>"
+            "Desc": "1.보병/창병 특효<br/>2.기병/비병 특효<br/>3.신관/법사 특효<br/>4.전투 전 목표에게 지력 <font color=\"Red\">1</font>배수만큼 <font color=\"blue\">고정 피해</font>"
           },
           {
             "Name": "<b><font color=\"#BA55D3\">기능 증가</font></b>",

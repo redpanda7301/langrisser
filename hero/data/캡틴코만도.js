@@ -80,7 +80,7 @@
     "중장 창병",
     "송곳니 근위대",
     "기계 용기사",
-    "",
+    "할버드",
     "성스러운 방패 친위대"
   ],
   "Jobs": [
@@ -140,7 +140,125 @@
   "SPOpenConditions": null,
   "Skills": [
     {
-      "Name": "헤비 어택",
+      "Name": "힘의 외침",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/36.webp",
+      "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해.<br/>전투 전 상대 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">공격 및 지력 <font color=\"red\">-20%</font></font><br/> 지속 <font color=\"red\">1</font>행동",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "박투술",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "2턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
+      "IconImageUrl": "../img/skills/CaptainBaby/1.webp",
+      "Desc": "인접한 적에게 <font color=\"red\">0.2</font>배 <font color=\"blue\">범위 피해</font>.<br/><font color=\"purple\">전투 열정</font> 스택 <font color=\"red\">1</font>초과 시, 최대 추가 피해 <font color=\"red\">1</font>회 및 해당 스킬 쿨타임 <font color=\"red\">-1</font>",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "캡틴 파이어",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "3턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "3칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "1칸"
+        }
+      ],
+      "IconImageUrl": "../img/skills/CaptainBaby/2.webp",
+      "Desc": " <font color=\"red\">3</font>줄 직선 상 최대 <font color=\"red\">3</font>칸 범위 내 적에게 <font color=\"red\">0.3</font>배 <font color=\"blue\">범위 피해</font> 및<br/>적에게 <font color=\"blue\">받는 피해</font> <font color=\"red\">+20%</font> 효과 부여<br/>(지속 <font color=\"red\">2</font>행동). 2명 이상 적 명중 시 전투 열정 1스택 추가 획득",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "업어 치기",
+      "Cost": "COST 1",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "물리 피해"
+        },
+        {
+          "Label": "쿨타임",
+          "Value": "1턴"
+        },
+        {
+          "Label": "사거리",
+          "Value": "1칸"
+        },
+        {
+          "Label": "범위",
+          "Value": "단일"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Skill_Virash1.webp",
+      "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.2</font>배의 피해를 준다.<br/>적이 <font color=\"blue\">호위</font>를 받지 않을 경우 적을 자신의 반대 편으로 <font color=\"blue\">위치 이동</font> 시킨다",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "공격 위협",
+      "Cost": "COST 2",
+      "Entries": [
+        {
+          "Label": "유형",
+          "Value": "패시브"
+        }
+      ],
+      "IconImageUrl": "../img/skills/Passive_AuraAtkDown.webp",
+      "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 내 모든 적 공격, 지력 <font color=\"red\">-15%</font><br/>지속 <font color=\"red\">1</font>턴",
+      "SubSkills": null,
+      "Animation": null
+    },
+    {
+      "Name": "파일 드라이버",
       "Cost": "COST 2",
       "Entries": [
         {
@@ -157,16 +275,16 @@
         },
         {
           "Label": "범위",
-          "Value": "단일"
+          "Value": "1칸"
         }
       ],
-      "IconImageUrl": "../img/skills/Skill_Thump.webp",
-      "Desc": "[물리 피해]단일 적 부대를 공격해 1.2배의 공격 피해를 준다.<br/>자신이 방어 지형에 있을 시 전투 전 적군에게 기절 시전, 1턴 지속.",
+      "IconImageUrl": "../img/skills/CaptainBaby/3.webp",
+      "Desc": " 직선상 단일 적에게 <font color=\"red\">0.3</font>배 <font color=\"blue\">범위 피해</font> 및 <font color=\"blue\">위치 이동</font> 효과 부여<br/>(적을 주위 <font color=\"red\">1</font>칸 범위 안 빈 곳으로 <font color=\"blue\">무작위 이동</font>  및 <font color=\"blue\">기절</font> )",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "반격",
+      "Name": "철벽",
       "Cost": "COST 1",
       "Entries": [
         {
@@ -174,39 +292,13 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/42.webp",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>공격을 받을 시, 공격 +12%",
+      "IconImageUrl": "../img/skills/Passive_DefUp.webp",
+      "Desc": "부대 생명 <font color=\"red\">90%</font> 이상 시 <font color=\"blue\">방어 마방</font> <font color=\"red\">+10%</font>.",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "철완",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "액티브"
-        },
-        {
-          "Label": "쿨타임",
-          "Value": "2턴"
-        },
-        {
-          "Label": "사거리",
-          "Value": "자신"
-        },
-        {
-          "Label": "범위",
-          "Value": "단일"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Skill_IronHand.webp",
-      "Desc": "[패시브]근접한 아군 부대를 대신해 물리 공격을 받는다.<br/>[액티브]호위 범위가 2칸으로 늘어나며 공격+20%,<br/>[응수]효과 획득, 2턴 지속.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "명경",
+      "Name": "불굴",
       "Cost": "COST 1",
       "Entries": [
         {
@@ -214,83 +306,13 @@
           "Value": "패시브"
         }
       ],
-      "IconImageUrl": "../img/skills/Passive_SwordSpirit.webp",
-      "Desc": "[패시브]받는 치료 효과 +15%.<br/>근접 공격을 받아 전투 진입 시 공격,방어 +10%.",
+      "IconImageUrl": "../img/skills/Skill_NerverDie.webp",
+      "Desc": "사망 시 부활 및 생명 <font color=\"Red\">20%</font> <font color=\"green\">회복</font><br/>최대 <font color=\"Red\">1</font>회",
       "SubSkills": null,
       "Animation": null
     },
     {
-      "Name": "강철 투구",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Skill_Helmet.webp",
-      "Desc": "[패시브] 원거리 공격을 받을 시 <font color=\"#DC143C\">25%</font>확률로 부대가 받는 모든 피해 <font color=\"#DC143C\">-50%</font>.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "검기",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Passive_DoubleAttack.webp",
-      "Desc": "[패시브]공격하여 전투 후 주위 1칸 범위 내 모든 적군에게 0.1배 범위 피해를 입힌다.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "모두의 의지",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Skill_Solidarity.webp",
-      "Desc": "[패시브] 주위 <font color=\"red\">2</font>칸 내 아군이 <font color=\"red\">1</font>명씩 있을 경우, 방어, 마방 <font color=\"red\">+5%</font>, 최대 <font color=\"red\">+15%</font>.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "기술 위협",
-      "Cost": "COST 2",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Passive_AuraDexDown.webp",
-      "Desc": "[패시브]행동 종료 시 주위 3칸 내 모든 적 부대 기술 -20%, 1턴 지속.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "기술 지원",
-      "Cost": "COST 1",
-      "Entries": [
-        {
-          "Label": "유형",
-          "Value": "패시브"
-        }
-      ],
-      "IconImageUrl": "../img/skills/Passive_DexBuf5.webp",
-      "Desc": "[패시브]행동 종료 시 근접한 1개 아군 부대의 기술 +20% 및<br/>면역:'치료 반전','재행동 불가', 1턴 지속.",
-      "SubSkills": null,
-      "Animation": null
-    },
-    {
-      "Name": "도검난무",
+      "Name": "드롭킥 & 캡틴 코레더",
       "Cost": "COST 3",
       "Entries": [
         {
@@ -299,7 +321,7 @@
         },
         {
           "Label": "쿨타임",
-          "Value": "5턴"
+          "Value": "3턴"
         },
         {
           "Label": "사거리",
@@ -307,16 +329,16 @@
         },
         {
           "Label": "범위",
-          "Value": "2바퀴"
+          "Value": "3칸"
         }
       ],
       "IconImageUrl": "../img/Super/캡틴코만도.webp",
-      "Desc": "[패시브] 범위 스킬로 인해 사망 시 부활 (매 전장에서 최대 <font color=\"red\">3</font>회 발동),<br/>고유 스킬 범위 내에 있는 아군 <font color=\"red\">1</font>명이 피격당할 시 <br/>공격자 및 그 주위 <font color=\"red\">3</font>칸 범위 내 적 <font color=\"red\">2</font>명에게 '피해 <font color=\"red\">-15%</font>' 디버프 부여,지속 <font color=\"red\">1</font>행동<br/>[물리피해] 주위 2바퀴 범위 내 적에게 <font color=\"red\">0.3</font>배 피해 및 고정피해 (캡틴코만도 공격 <font color=\"red\">1</font>배 수치),<br/>치료 불가 효과 부여, 지속 <font color=\"red\">2</font>행동",
+      "Desc": "[패시브] 모든 이동력을 소모하고 행동 종료 시, <font color=\"purple\">전투 열정</font> <font color=\"red\">1</font>스택 획득<br/>[물리피해]자신 주위 <font color=\"red\">3</font>칸 범위 안 각 적에게 <font color=\"red\">0.3</font>배 <font color=\"blue\">범위 피해</font> 및<br/>인접한 적에게 <font color=\"red\">0.1</font>배 <font color=\"blue\">범위 피해</font><br/>공격 후 명중한 지형에 '<font color=\"red\">감전</font>' 효과 부여<br/><font color=\"red\">감전</font> : 스킬 사용 전 시전자 공격 <font color=\"red\">0.5</font>배 수치 <font color=\"blue\">고정 피해</font> 및 해당 스킬의 쿨타임 <font color=\"red\">1</font>당 계수 수치 <font color=\"red\">0.5</font>배 증가<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
       "Animation": "../img/Super/캡틴코만도_Ani.webp"
     }
   ],
-  "Propose": true,
+  "Propose": false,
   "Bio": null,
   "Performance": null,
   "Performance2": null,  

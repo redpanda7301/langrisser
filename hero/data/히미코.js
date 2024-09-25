@@ -389,7 +389,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_BladeCrash3.webp",
-        "Desc": "[물리 피해]호위를 무시하고 단일 적 부대를 공격해 1.1배의 피해를 준다.<br/>전투 후 상대가 가진 버프를 최대 3개 뺏어온다.",
+        "Desc": "<font color=\"blue\">호위 무시</font> 및 단일 개체 <font color=\"red\">1.1</font>배의 피해<br/>전투 후 적 버프 <font color=\"Red\">3</font>개 <font color=\"blue\">강탈</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -481,7 +481,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Passive_Hide.webp",
-        "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
+        "Desc": "공격하여 전투 진입 시 치명타율 <font color=\"red\">+10%</font>, 받는 피해량 <font color=\"red\">-20%</font>.",
         "SubSkills": null,
         "Animation": null
       },

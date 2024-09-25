@@ -64,16 +64,16 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+15%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.1</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
+            "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+15%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.1</font>배 <b>면역 불가</b> <font color=\"blue\">고정 피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
           },
           {
-            "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+20%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.12</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
+            "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+20%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.12</font>배 <b>면역 불가</b> <font color=\"blue\">고정 피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
           },
           {
-            "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">40%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+25%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.15</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
+            "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">40%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+25%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.15</font>배 <b>면역 불가</b> <font color=\"blue\">고정 피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
           },
           {
-            "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">50%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+30%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.2</font>배 <b>면역 불가</b> <font color=\"blue\">고정피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
+            "Desc": "아군 사망 시 자신 부대 생명 <font color=\"red\">50%</font> <font color=\"green\">회복</font> 및 격파자에게 '<font color=\"purple\">복수의 사슬</font>' 영구 부여<br/><font color=\"purple\">복수의 사슬</font> : 방랑 투사에게 공격 받을 시, 받는 피해량 <font color=\"red\">+30%</font><br/><b>면역 및 해제 불가</b> <br/>선공으로 전투 진입 후<br/><font color=\"purple\">복수의 사슬</font> 효과를 보유한 모든 적에게 해당 피해 <font color=\"red\">0.2</font>배 <b>면역 불가</b> <font color=\"blue\">고정 피해</font>를 준다.<br/>(최대 공격 <font color=\"red\">4</font>배 수치)"
           }
         ]
       }

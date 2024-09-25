@@ -449,7 +449,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Passive_Ass1.webp",
-        "Desc": "전투 중 치명타가 발생한 경우<br/>전투 후 적에게 '<font color=\"blue\">고정피해</font>'를 준다.<br/>(피해량은 영웅 공격의 2배)",
+        "Desc": "전투 중 치명타가 발생한 경우<br/>전투 후 적에게 '<font color=\"blue\">고정 피해</font>'를 준다.<br/>(피해량은 영웅 공격의 2배)",
         "SubSkills": null,
         "Animation": null
       },
@@ -529,7 +529,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Verner/2.webp",
-        "Desc": "<b>자신이 <font color=\"green\">방어 지형</font>에 있는 상태에서 전투 진입 시</b> <br/><b>전투 후</b> 적에게 공격<font color=\"red\">1</font>배 수치 <font color=\"blue\">고정피해</font> 및 부대 생명 <font color=\"red\">20%</font> 회복 <br/><b>선공으로 전투 진입 후</b> <font color=\"blue\">재이동</font> <font color =\"red\">3</font> 칸",
+        "Desc": "<b>자신이 <font color=\"green\">방어 지형</font>에 있는 상태에서 전투 진입 시</b> <br/><b>전투 후</b> 적에게 공격<font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font> 및 부대 생명 <font color=\"red\">20%</font> 회복 <br/><b>선공으로 전투 진입 후</b> <font color=\"blue\">재이동</font> <font color =\"red\">3</font> 칸",
         "SubSkills": null,
         "Animation": null
       },
@@ -581,7 +581,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/에길.webp",
-        "Desc": "[패시브]치명타 확률 <font color=\"red\">+20%</font>, <b>영웅이 원거리 선제 공격 시 병사도 함께 공격</b> <br/>[액티브] 단일 개체에게 <font color=\"red\">1.5</font>배 피해를 준다. <br/>해당 공격은 <font color=\"blue\">부대 병종 상성 무시</font> <br/><b>적 격파시</b> <font color=\"purple\">강습 모드</font>와 추가 효과 획득 <br/> : 전투 진입 전 적에게 공격 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정피해</font> <br/>격파하지 못했을 경우 '<font color=\"purple\">반격 모드</font>' 효과 획득 <br/>지속 <font color=\"red\">1</font>행동 <br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
+        "Desc": "[패시브]치명타 확률 <font color=\"red\">+20%</font>, <b>영웅이 원거리 선제 공격 시 병사도 함께 공격</b> <br/>[액티브] 단일 개체에게 <font color=\"red\">1.5</font>배 피해를 준다. <br/>해당 공격은 <font color=\"blue\">부대 병종 상성 무시</font> <br/><b>적 격파시</b> <font color=\"purple\">강습 모드</font>와 추가 효과 획득 <br/> : 전투 진입 전 적에게 공격 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정 피해</font> <br/>격파하지 못했을 경우 '<font color=\"purple\">반격 모드</font>' 효과 획득 <br/>지속 <font color=\"red\">1</font>행동 <br/><b>해당 스킬은 근접전 패널티 영향을 받지 않음</b>",
         "SubSkills": null,
         "Animation": "../img/Super/에길_Ani.webp"
       }

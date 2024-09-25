@@ -478,7 +478,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/비리아.webp",
-        "Desc": "[패시브] 스킬로 피해를 입힌 후, 명중한 적에게 지력 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정피해</font>.<br/> 목표 생명이 <font color=\"red\">20%</font> 이하일 경우, 해당 <font color=\"blue\">고정 피해</font>는 면역 불가<br/>[마법 피해]범위 내 적에게 <font color=\"red\">0.33</font>배 마법피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여.<br/>해당 스킬로 격파한 적 <font color=\"red\">1</font>명마다 행동 종료 시 무작위 <font color=\"blue\">저주 마법 준비</font> 획득",
+        "Desc": "[패시브] 스킬로 피해를 입힌 후, 명중한 적에게 지력 <font color=\"red\">2</font>배 수치 <font color=\"blue\">고정 피해</font>.<br/> 목표 생명이 <font color=\"red\">20%</font> 이하일 경우, 해당 <font color=\"blue\">고정 피해</font>는 면역 불가<br/>[마법 피해]범위 내 적에게 <font color=\"red\">0.33</font>배 마법피해 및 <font color=\"blue\">무작위 디버프</font> <font color=\"red\">2</font>개 부여.<br/>해당 스킬로 격파한 적 <font color=\"red\">1</font>명마다 행동 종료 시 무작위 <font color=\"blue\">저주 마법 준비</font> 획득",
         "SubSkills": null,
         "Animation": "../img/Super/비리아_Ani.webp"
       }

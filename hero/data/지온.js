@@ -429,7 +429,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Passive_Ass1.webp",
-        "Desc": "전투 중 치명타가 발생한 경우<br/>전투 후 적에게 '<font color=\"blue\">고정피해</font>'를 준다.<br/>(피해량은 영웅 공격의 2배)",
+        "Desc": "전투 중 치명타가 발생한 경우<br/>전투 후 적에게 '<font color=\"blue\">고정 피해</font>'를 준다.<br/>(피해량은 영웅 공격의 2배)",
         "SubSkills": null,
         "Animation": null
       },

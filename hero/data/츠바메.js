@@ -427,7 +427,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_DorsalThorns.webp",
-        "Desc": "[패시브]공격하여 전투 진입 시 적 부대 생명이 100%일 경우<br/>전투 전 영웅 공격 2배의 고정 피해를 1회 입힘.",
+        "Desc": "선공으로 전투 진입 시 적 부대 생명이 <font color=\"red\">100%</font>일 경우<br/>전투 전 공격 <font color=\"red\">2</font>배의 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회.",
         "SubSkills": null,
         "Animation": null
       },

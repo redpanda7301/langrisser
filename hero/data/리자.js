@@ -513,7 +513,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_BladeCrash3.webp",
-        "Desc": "호위를 무시하고 단일 적 부대를 공격해 <font color=\"Red\">1.1</font>배의 피해를 준다.<br/><b>전투 후</b> 상대가 가진 <font color=\"blue\">버프</font>를 최대 <font color=\"Red\">3</font>개 뺏어온다.",
+        "Desc": "<font color=\"blue\">호위 무시</font> 및 단일 개체 <font color=\"red\">1.1</font>배의 피해<br/>전투 후 적 버프 <font color=\"Red\">3</font>개 <font color=\"blue\">강탈</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -651,7 +651,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/Super/리자_2.webp",
-            "Desc": "호위 무시 단일 개체 <font color=\"red\">1.3</font>배 피해, <br/><b>전투 후</b> 적에게 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정피해</font>"
+            "Desc": "호위 무시 단일 개체 <font color=\"red\">1.3</font>배 피해, <br/><b>전투 후</b> 적에게 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>"
           },
           {
             "Name": "<b><font color=\"#0070c0\">토끼 - 혈액 순환 촉진</font></b>",
@@ -697,7 +697,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/skills/Liza/1.webp",
-            "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해, <br/><b>전투 전 적을 <font color=\"blue\">기절</font>시킨다.<br/>지속 <font color=\"red\">1</font>행동<br/><b>전투 후</b> 적에게 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"blue\">고정피해</font> 및 <br/>공격 <font color=\"red\">2</font>배 수치로 모든 <br/>아군 <font color=\"green\">생명 회복</font>"
+            "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해, <br/><b>전투 전 적을 <font color=\"blue\">기절</font>시킨다.<br/>지속 <font color=\"red\">1</font>행동<br/><b>전투 후</b> 적에게 공격 <font color=\"red\">1.5</font>배 수치 <font color=\"blue\">고정 피해</font> 및 <br/>공격 <font color=\"red\">2</font>배 수치로 모든 <br/>아군 <font color=\"green\">생명 회복</font>"
           }
         ],
         "Animation": "../img/Super/리자_Ani.webp"

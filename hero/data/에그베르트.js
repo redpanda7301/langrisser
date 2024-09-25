@@ -81,7 +81,7 @@ var data = [
     "SPTalent": null,
     "Second_Awaken": {
       "Name": "칠흑의 마도",
-      "Stats": "지력 <font color=\"red\">+5%</font><br/>적에게 피해를 준 뒤 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">고정피해</font><br/>피해량은 지력 <font color=\"red\">1</font>배"
+      "Stats": "지력 <font color=\"red\">+5%</font><br/>적에게 피해를 준 뒤 <font color=\"red\">50%</font> 확률로 <font color=\"blue\">고정 피해</font><br/>피해량은 지력 <font color=\"red\">1</font>배"
     },
     "Equip": {
       "EqpName": "플레임 코트(갑옷)",

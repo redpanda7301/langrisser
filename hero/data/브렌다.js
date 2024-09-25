@@ -582,7 +582,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Passive_Hide.webp",
-        "Desc": "[패시브]공격하여 전투 진입 시 치명타율 +10%, 받는 피해량 -20%.",
+        "Desc": "공격하여 전투 진입 시 치명타율 <font color=\"red\">+10%</font>, 받는 피해량 <font color=\"red\">-20%</font>.",
         "SubSkills": null,
         "Animation": null
       },

@@ -536,7 +536,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_Patsyr1.webp",
-        "Desc": "[마법 피해]전장에 있는 단일 개체 <font color=\"red\">0.1</font>배, 목표가 '<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>'일 경우 다음 턴 <font color=\"blue\">기절</font>,<br/><b>목표 행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 다른 아군에게</b> <font color=\"blue\">고정피해</font><br/>(<b>고정피해량은 대상의 남은 생명력 <font color=\"red\">25%</font> 수치, 해당 효과는 해제 불가</b>)",
+        "Desc": "[마법 피해]전장에 있는 단일 개체 <font color=\"red\">0.1</font>배, 목표가 '<b><font color=\"#DB00DB\">여성</font>이 아닌 영웅</b>'일 경우 다음 턴 <font color=\"blue\">기절</font>,<br/><b>목표 행동 종료 시 주위 <font color=\"red\">1</font>바퀴 범위 다른 아군에게</b> <font color=\"blue\">고정 피해</font><br/>(<b>고정피해량은 대상의 남은 생명력 <font color=\"red\">25%</font> 수치, 해당 효과는 해제 불가</b>)",
         "SubSkills": null,
         "Animation": null
       },

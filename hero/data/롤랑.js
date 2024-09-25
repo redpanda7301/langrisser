@@ -278,7 +278,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/skills/Roland/2_1.webp",
-            "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>전투 전 지력 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정피해</font><br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font>,<font color=\"blue\">근접전 패널티 무효화</font>"
+            "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>전투 전 지력 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font><br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font>,<font color=\"blue\">근접전 패널티 무효화</font>"
           },
           {
             "Name": "눈부심 - 빛",
