@@ -22,8 +22,8 @@ function initPage() {
     var basicInfoTemplate = _.template($("#basic-info-template").html());
     var talentSoldierInfoTemplate = _.template($("#talent-soldier-info-template").html());
     var jobInfoTemplate = _.template($("#job-info-template").html());
-    var materialInfoTemplate = _.template($("#material-info-template").html());
-    var classUpInfoTemplate = _.template($("#class-up-info-template").html());
+    // var materialInfoTemplate = _.template($("#material-info-template").html());
+    // var classUpInfoTemplate = _.template($("#class-up-info-template").html());
     var SPConditionInfoTemplate = _.template($("#sp-condition-info-template").html());
     var SkillInfoTemplate = _.template($("#skill-info-template").html());
     var BioInfoTemplate = _.template($("#bio-info-template").html());
@@ -34,8 +34,8 @@ function initPage() {
     $("#basic-info").replaceWith(basicInfoTemplate(data[0]));
     $("#talent-soldier-info").replaceWith(talentSoldierInfoTemplate(data[0]));
     $("#job-info").replaceWith(jobInfoTemplate(data[0]));
-    $("#material-info").replaceWith(materialInfoTemplate(data[0]));
-    $("#class-up-info").replaceWith(classUpInfoTemplate(data[0]));
+    // $("#material-info").replaceWith(materialInfoTemplate(data[0]));
+    // $("#class-up-info").replaceWith(classUpInfoTemplate(data[0]));
     $("#sp-condition-info").replaceWith(SPConditionInfoTemplate(data[0]));
     $("#skill-info").replaceWith(SkillInfoTemplate(data[0]));
     $("#bio-info").replaceWith(BioInfoTemplate(data[0]));

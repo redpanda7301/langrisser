@@ -92,7 +92,7 @@ var data = [
     "Jobs": [
       {
         "Name": "빛의 신의 권속",
-        "Icon": "승려LLR.webp",
+        "Icon": "승려LLR",
         "SD": [
           {
             "ImageUrl": "빛의소환사/1/1.webp"
@@ -121,7 +121,7 @@ var data = [
       },
       {
         "Name": "성스러운 번개 소환사",
-        "Icon": "마법사LLR.webp",
+        "Icon": "마법사LLR",
         "SD": [
           {
             "ImageUrl": "빛의소환사/1/2.webp"
