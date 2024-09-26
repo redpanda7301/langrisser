@@ -107,7 +107,8 @@ var data = [
       "송곳니 근위대",
       "성스러운 방패 친위대",
       "황야 답사대",
-      "아인 유랑자"
+      "아인 유랑자",
+      "검은 깃털의 가시"
     ],
     "Jobs": [
       {
@@ -405,7 +406,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -459,7 +460,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -485,7 +486,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -539,7 +540,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",

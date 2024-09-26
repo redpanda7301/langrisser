@@ -106,7 +106,8 @@ var data = [
       "듀라한",
       "중장 해골",
       "거대영혼인형",
-      "계약골렘"
+      "계약골렘",
+      "연옥의 마력 코어"
     ],
     "Jobs": [
       {
@@ -428,7 +429,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -494,7 +495,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -520,7 +521,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -560,7 +561,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -600,7 +601,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",

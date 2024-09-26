@@ -99,7 +99,10 @@ var data = [
       "듀라한",
       "사무라이",
       "거대영혼인형",
-      "계약골렘"
+      "계약골렘",
+      "연옥의 마력 코어",
+      "암흑 수정 용기병",
+      "검은 깃털의 가시"
     ],
     "Jobs": [
       {
@@ -364,7 +367,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -390,7 +393,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -416,7 +419,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -456,7 +459,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -522,7 +525,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -548,7 +551,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",

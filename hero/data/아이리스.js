@@ -439,7 +439,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/23.webp",
-        "Desc": "[치료] 액티브 스킬. 범위 내 아군들의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 3배. 그리고 디버프를 1개 제거한다.",
+        "Desc": "범위 내 아군들의 <font color=\"green\">생명 회복</font>시킨다.<br/>회복량은 사용자 지력의 <font color=\"red\">3</font>배. 그리고 <font color=\"blue\">디버프</font>를 <font color=\"red\">1</font>개 제거한다.",
         "SubSkills": null,
         "Animation": null
       },

@@ -663,7 +663,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -703,7 +703,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -769,7 +769,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -823,7 +823,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -889,7 +889,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -983,7 +983,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -1009,7 +1009,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",

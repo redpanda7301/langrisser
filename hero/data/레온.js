@@ -144,7 +144,9 @@ var data = [
       "태양 전투매",
       "늑대 인간",
       "불꽃 카발리에",
-      "송곳니 근위대"
+      "송곳니 근위대",
+      "연옥의 마력 코어",
+      "암흑 수정 용기병"
     ],
     "Jobs": [
       {
@@ -678,7 +680,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -718,7 +720,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -824,7 +826,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -904,7 +906,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",

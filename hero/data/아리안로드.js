@@ -81,7 +81,8 @@ var data = [
       "광신자",
       "템플러",
       "할버드",
-      "신성보호술사"
+      "신성보호술사",
+      "파도 소환사"
     ],
     "Jobs": [
       {
@@ -334,7 +335,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -360,7 +361,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -414,7 +415,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -454,7 +455,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -480,7 +481,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -506,7 +507,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",

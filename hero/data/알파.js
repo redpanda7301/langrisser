@@ -100,7 +100,8 @@ var data = [
       "교국 친위대",
       "사막용병",
       "왕 도마뱀 기수",
-      "성스러운 방패 친위대"
+      "성스러운 방패 친위대",
+      "파도 소환사"
     ],
     "Jobs": [
       {
@@ -365,7 +366,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -405,7 +406,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -468,7 +469,7 @@ var data = [
             "Entries": [
               {
                 "Label": "유형",
-                "Value": "물리 피해"
+                "Value": "물리피해"
               },
               {
                 "Label": "쿨타임",
@@ -491,7 +492,7 @@ var data = [
             "Entries": [
               {
                 "Label": "유형",
-                "Value": "물리 피해"
+                "Value": "물리피해"
               },
               {
                 "Label": "쿨타임",
@@ -558,7 +559,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",

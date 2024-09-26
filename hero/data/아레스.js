@@ -95,7 +95,8 @@ var data = [
       "천상의 수호자",
       "중장 기병",
       "태양 전투매",
-      "불꽃 카발리에"
+      "불꽃 카발리에",
+      "암흑 수정 용기병"
     ],
     "Jobs": [
       {
@@ -391,7 +392,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -445,7 +446,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -471,7 +472,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -537,7 +538,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",

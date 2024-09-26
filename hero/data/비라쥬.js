@@ -97,7 +97,8 @@ var data = [
       "리저드 맨",
       "머맨 로드",
       "교국 친위대",
-      "사막용병"
+      "사막용병",
+      "파도 소환사"
     ],
     "Jobs": [
       {
@@ -419,7 +420,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -501,7 +502,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -541,7 +542,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",

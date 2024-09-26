@@ -82,7 +82,8 @@ var data = [
       "어둠의 연금술사",
       "화염 저격수",
       "사막용병",
-      "용암 골렘"
+      "용암 골렘",
+      "주문술사"
     ],
     "Jobs": [
       {
@@ -173,7 +174,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -225,7 +226,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -277,7 +278,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -303,7 +304,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -343,7 +344,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",

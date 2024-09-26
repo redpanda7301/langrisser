@@ -102,7 +102,8 @@ var data = [
       "마녀",
       "화염 저격수",
       "파도의 정령",
-      "화염 주술사"
+      "화염 주술사",
+      "빛의 성자"
     ],
     "Jobs": [
       {
@@ -470,7 +471,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -496,7 +497,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -522,7 +523,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -562,7 +563,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -588,7 +589,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -609,12 +610,12 @@ var data = [
         "Animation": null
       },
       {
-        "Name": "턴언데드",
+        "Name": "턴 언데드",
         "Cost": "COST 2",
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -630,7 +631,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_ValkCrash2.webp",
-        "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더큰 피해를 준다. 전투 후 대상의 버프를 2개 제거한다.",
+        "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/>'마물'에게 더큰 피해를 준다.<br/><b>전투 후</b> 대상의 <font color =\"blue\">버프</font>를 <font color =\"red\">2</font>개 제거한다.",
         "SubSkills": null,
         "Animation": null
       },
@@ -666,7 +667,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",

@@ -97,7 +97,8 @@ var data = [
       "수정 골렘",
       "왕 도마뱀 기수",
       "불꽃 카발리에",
-      "송곳니 근위대"
+      "송곳니 근위대",
+      "파도 소환사"
     ],
     "Jobs": [
       {
@@ -393,7 +394,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -433,7 +434,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -487,7 +488,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -539,7 +540,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",

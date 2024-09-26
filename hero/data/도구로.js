@@ -83,7 +83,8 @@ var data = [
       "중장 해골",
       "늑대 인간",
       "황금기사",
-      "왕 도마뱀 기수"
+      "왕 도마뱀 기수",
+      "연옥의 마력 코어"
     ],
     "Jobs": [
       {
@@ -336,7 +337,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -444,7 +445,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -484,7 +485,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",

@@ -90,7 +90,8 @@ var data = [
       "듀얼리스트",
       "광신자",
       "갑판 포병",
-      "수정술사"
+      "수정술사",
+      "주문술사"
     ],
     "Jobs": [
       {
@@ -187,7 +188,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -326,7 +327,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -352,7 +353,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -371,33 +372,7 @@ var data = [
         "Desc": "<font color=\"red\">1</font>개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.33</font>배 범위 피해를 입힌다.<br/><b>'마물'과 전투 시</b> 더 큰 피해를 입힌다. <font color =\"red\">1</font>개 <font color =\"blue\">버프 제거</font>.",
         "SubSkills": null,
         "Animation": null
-      },
-      {
-        "Name": "파사",
-        "Cost": "COST 2",
-        "Entries": [
-          {
-            "Label": "유형",
-            "Value": "마법 피해"
-          },
-          {
-            "Label": "쿨타임",
-            "Value": "3턴"
-          },
-          {
-            "Label": "사거리",
-            "Value": "3칸"
-          },
-          {
-            "Label": "범위",
-            "Value": "3칸"
-          }
-        ],
-        "IconImageUrl": "../img/skills/Skill_BreakEvil.webp",
-        "Desc": "치명타율 <font color=\"red\">+15%</font><br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
-        "SubSkills": null,
-        "Animation": null
-      },
+      },      
       {
         "Name": "공격 지휘",
         "Cost": "COST 2",

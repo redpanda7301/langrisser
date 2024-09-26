@@ -103,7 +103,8 @@ var data = [
       "투석기",
       "요정예언자",
       "갑판 포병",
-      "꽃과 바람의 성가대"
+      "꽃과 바람의 성가대",
+      "빛의 성자"
     ],
     "Jobs": [
       {
@@ -405,7 +406,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -421,7 +422,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_Fireball.webp",
-        "Desc": "[마법 피해]단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다. <br/>'보병'에게 더큰 피해를 준다.",
+        "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해.<br/>'보병'에게 더큰 피해를 준다.",
         "SubSkills": null,
         "Animation": null
       },
@@ -431,7 +432,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -509,7 +510,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -561,7 +562,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -587,7 +588,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -613,7 +614,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -629,7 +630,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_ThunderBolt.webp",
-        "Desc": "[마법 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>'기병'에게 더큰 피해를 준다.",
+        "Desc": "단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'기병'에게 더 큰 피해를 준다.",
         "SubSkills": null,
         "Animation": null
       },

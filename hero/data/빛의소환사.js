@@ -210,7 +210,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -447,7 +447,7 @@ var data = [
             "Entries": [
               {
                 "Label": "유형",
-                "Value": "마법 피해"
+                "Value": "마법피해"
               },
               {
                 "Label": "쿨타임",
@@ -521,12 +521,12 @@ var data = [
         "Animation": null
       },
       {
-        "Name": "턴언데드",
+        "Name": "턴 언데드",
         "Cost": "COST 2",
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -578,7 +578,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -627,7 +627,7 @@ var data = [
             "Entries": [
               {
                 "Label": "유형",
-                "Value": "마법 피해"
+                "Value": "마법피해"
               },
               {
                 "Label": "쿨타임",

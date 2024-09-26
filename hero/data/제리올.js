@@ -355,7 +355,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -421,7 +421,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -487,7 +487,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -503,7 +503,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/19.webp",
-        "Desc": "[마법 피해] 단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>'마물'에게 더 큰 피해를 준다. 전투 후 생명이 가장 적은 아군의 생명을 회복시킨다.<br/>회복량은 사용자 지력의 4배.",
+        "Desc": "단일 적에게 <font color=\"red\">1.5</font>배의 피해 <br/>'마물'에게 더 큰 피해를 준다<br/>전투 후 생명이 백분비가 가장 적은 아군의 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 사용자 지력의 <font color=\"red\">4</font>배.",
         "SubSkills": null,
         "Animation": null
       },

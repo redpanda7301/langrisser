@@ -401,7 +401,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -469,7 +469,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -499,7 +499,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Passive_Belief.webp",
-        "Desc": "[패시브] 공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br/>전투 후 가장 생명이 적은 다른 아군 생명 회복, 회복량은 자신 지력의 <font color=\"red\">2</font>배.",
+        "Desc": "공격하여 전투 진입 시 피해량 +<font color=\"red\">15%</font>,<br/>전투 후 가장 생명이 적은 다른 아군 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 자신 지력의 <font color=\"red\">2</font>배.",
         "SubSkills": null,
         "Animation": null
       },
@@ -523,7 +523,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",

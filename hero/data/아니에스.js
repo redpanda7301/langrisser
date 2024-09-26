@@ -86,7 +86,8 @@ var data = [
       "드워프 모험가",
       "요정예언자",
       "신성보호술사",
-      "갑판 포병"
+      "갑판 포병",
+      "주문술사"
     ],
     "Jobs": [
       {
@@ -345,7 +346,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -371,7 +372,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -397,7 +398,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -413,7 +414,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/19.webp",
-        "Desc": "단일 개체 <font color=\"Red\">1.5</font>배의 피해<br/>'마물'에게 더 큰 피해를 준다<br/>전투 후 생명이 가장 적은 아군의 <font color=\"green\">생명 회복</font>.<br/>회복량은 사용자 지력의 <font color=\"Red\">4</font>배.",
+        "Desc": "단일 적에게 <font color=\"red\">1.5</font>배의 피해 <br/>'마물'에게 더 큰 피해를 준다<br/>전투 후 생명이 백분비가 가장 적은 아군의 <font color=\"green\">생명 회복</font><br/><font color=\"green\">회복량</font>은 사용자 지력의 <font color=\"red\">4</font>배.",
         "SubSkills": null,
         "Animation": null
       },
@@ -423,7 +424,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -449,7 +450,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -501,7 +502,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "마법 피해"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
