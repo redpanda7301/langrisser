@@ -79,7 +79,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "기도의 송가",
+      "Stats": "스킬 피해량 <font color=\"red\">+10%</font><br/><font color=\"blue\">스킬</font>로 피해를 입힌 후 행동 종료 시, 쿨 감소. <br/>감소 수량은 해당 <font color=\"blue\">스킬</font>로 명중시킨 적 수량 (최대 <font color=\"red\">-3</font>)"
+    },
     "Equip": {
       "EqpName": "선령의 속삭임(투구)",
       "Stats": "생명 583, 마방 48",

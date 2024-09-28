@@ -360,7 +360,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/0.webp",
-        "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+        "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해<br/><font color=\"blue\">근접전 병사를 이끌고 있다면 병사도 함께 공격한다.</font>",
         "SubSkills": null,
         "Animation": null
       },

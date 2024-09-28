@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "타탈리아/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "타탈리아/3.webp",
+        "Desc": "형귀뽑기"
       }
     ],
     "Name": "타탈리아",
@@ -105,6 +109,9 @@ var data = [
           },
           {
             "ImageUrl": "타탈리아/2/1.webp"
+          },
+          {
+            "ImageUrl": "타탈리아/3/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -134,6 +141,9 @@ var data = [
           },
           {
             "ImageUrl": "타탈리아/2/1.webp"
+          },
+          {
+            "ImageUrl": "타탈리아/3/1.webp"
           }
         ],
         "AttkRange": 2,

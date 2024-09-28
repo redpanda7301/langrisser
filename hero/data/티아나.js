@@ -375,7 +375,7 @@ var data = [
         "Animation": "../img/Super/티아나_Ani.webp"
       }
     ],
-    "Propose": false,
+    "Propose": true,
     "Bio": null,
     "Performance": null,
     "Performance2": null,

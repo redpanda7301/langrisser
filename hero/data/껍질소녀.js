@@ -12,6 +12,10 @@ var data = [
       {
         "ImageUrl": "껍질소녀/3.webp",
         "Desc": "한정판매"
+      },
+      {
+        "ImageUrl": "껍질소녀/4.webp",
+        "Desc": "한정판매"
       }
     ],
     "Name": "껍질소녀",
@@ -112,6 +116,9 @@ var data = [
           },
           {
             "ImageUrl": "껍질소녀/3/1.webp"
+          },
+          {
+            "ImageUrl": "껍질소녀/4/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -144,6 +151,9 @@ var data = [
           },
           {
             "ImageUrl": "껍질소녀/3/2.webp"
+          },
+          {
+            "ImageUrl": "껍질소녀/4/1.webp"
           }
         ],
         "AttkRange": 2,

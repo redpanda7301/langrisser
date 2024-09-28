@@ -71,7 +71,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "어두운 빛의 그림자",
+      "Stats": "공격 <font color=\"red\">+10%</font><br/><font color=\"blue\">재행동</font> 발동 시, 보유 버프 지속 시간을 소모하지 않고 '<font color=\"blue\">선공으로 적 격파 시 해당 스킬 쿨 초기화</font>' 효과 획득<br/>지속 <font color=\"red\">1</font>행동"
+    },
     "Equip": null,
     "Soldiers": [
       "미스트 댄서",

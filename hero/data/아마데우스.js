@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "아마데우스/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "아마데우스/3.webp",
+        "Desc": "형귀뽑기"
       }
     ],
     "Name": "아마데우스",
@@ -103,6 +107,9 @@ var data = [
           },
           {
             "ImageUrl": "아마데우스/2/1.webp"
+          },
+          {
+            "ImageUrl": "아마데우스/3/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -132,6 +139,9 @@ var data = [
           },
           {
             "ImageUrl": "아마데우스/2/1.webp"
+          },
+          {
+            "ImageUrl": "아마데우스/3/1.webp"
           }
         ],
         "AttkRange": 1,

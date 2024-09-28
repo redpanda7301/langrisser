@@ -71,7 +71,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "쾌속저격",
+      "Stats": "공격 <font color=\"red\">+10%</font><br/>스킬로 명중하는 적 <font color=\"red\">1</font>명 당 스킬 피해 <font color=\"red\">+5%</font> (최대 <font color=\"red\">+15%</font>)<br/>해당 스킬 쿨 <font color=\"red\">-1</font> (최대 <font color=\"red\">-3</font>)"
+    },
     "Equip": null,
     "Soldiers": [
       "미스트 댄서",

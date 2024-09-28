@@ -769,7 +769,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_IceCrash.webp",
-        "Desc": "[마법 피해]범위 내 다수의 적군을 공격하여 <font color =\"red\">0.3</font>배의 범위 피해를 입힌다.<br/>'창병'에게 더 큰 피해를 준다. <br/>적군 이동력 <font color =\"red\">-1</font>칸 및 <font color=\"blue\">호위 불가</font>를 부여한다, <br/><font color =\"red\">2</font>행동 지속.",
+        "Desc": "범위 내 다수의 적군에게 <font color =\"red\">0.3</font>배의 피해.<br/>'창병'에게 더 큰 피해를 준다. <br/>적의 이동력 <font color =\"red\">-1</font>칸 및 <font color=\"blue\">호위 불가</font>를 부여<br/>지속 <font color =\"red\">2</font>행동",
         "SubSkills": null,
         "Animation": null
       },

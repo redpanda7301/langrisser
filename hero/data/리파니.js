@@ -15,7 +15,7 @@ var data = [
       },
       {
         "ImageUrl": "리파니/4.webp",
-        "Desc": "서밋아레나 S18 골드스킨"
+        "Desc": "서밋아레나 S19 골드스킨"
       }
     ],
     "Name": "리파니",
@@ -461,7 +461,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/20.webp",
-        "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 공격, 지력 -20%, 2턴 지속.",
+        "Desc": "범위 내 다수의 적군을 공격 하여 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">2</font>행동",
         "SubSkills": null,
         "Animation": null
       },

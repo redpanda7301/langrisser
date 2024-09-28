@@ -95,7 +95,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "빛의 전진",
+      "Stats": "지력 <font color=\"red\">+5%</font><br/>부대 생명 <font color=\"red\">70%</font> 이상 시 이동력 <font color=\"red\">+1</font>"
+    },
     "Equip": {
       "EqpName": "여신의 성스러운 옷(갑옷)",
       "Stats": "생명 583,방어 54",

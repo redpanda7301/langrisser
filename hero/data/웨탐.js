@@ -395,7 +395,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/0.webp",
-        "Desc": "[물리 피해]단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+        "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해<br/><font color=\"blue\">근접전 병사를 이끌고 있다면 병사도 함께 공격한다.</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -409,7 +409,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
-        "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 <br/>전투 중 공격 <font color=\"red\">+12%</font>.",
+        "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12%</font>.",
         "SubSkills": null,
         "Animation": null
       },

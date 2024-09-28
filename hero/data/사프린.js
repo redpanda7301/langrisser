@@ -151,7 +151,7 @@ var data = [
       "SPOpenConditions": null,
       "Skills": [
         {
-          "Name": "연쇄 번개(임시명)",
+          "Name": "썬더",
           "Cost": "COST 1",
           "Entries": [
             {
@@ -164,44 +164,44 @@ var data = [
             },
             {
               "Label": "사거리",
-              "Value": "1칸"
+              "Value": "2칸"
             },
             {
               "Label": "범위",
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/Gourry/1.webp",
-          "Desc": "null",
+          "IconImageUrl": "../img/skills/Skill_ThunderBolt.webp",
+          "Desc": "단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'기병'에게 더 큰 피해를 준다.",
           "SubSkills": null,
           "Animation": null
         },
         {
-            "Name": "토네이도",
-            "Cost": "COST 2",
-            "Entries": [
-              {
-                "Label": "유형",
-                "Value": "마법피해"
-              },
-              {
-                "Label": "쿨타임",
-                "Value": "3턴"
-              },
-              {
-                "Label": "사거리",
-                "Value": "3칸"
-              },
-              {
-                "Label": "범위",
-                "Value": "3칸"
-              }
-            ],
-            "IconImageUrl": "../img/skills/20.webp",
-            "Desc": "[마법 피해] 범위 내 다수의 적군을 공격 하여 0.3배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 공격, 지력 -20%, 2턴 지속.",
-            "SubSkills": null,
-            "Animation": null
-          },
+          "Name": "토네이도",
+          "Cost": "COST 2",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "마법피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "3턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "3칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "3칸"
+            }
+          ],
+          "IconImageUrl": "../img/skills/20.webp",
+          "Desc": "범위 내 다수의 적군을 공격 하여 <font color=\"red\">0.3</font>배 범위 피해를 입힌다.<br/>'비병'과 전투 시 더 큰 피해를 준다.<br/>적군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">-20%</font><br/>지속 <font color=\"red\">2</font>행동",
+          "SubSkills": null,
+          "Animation": null
+        },
         {
           "Name": "자연 흡수",
           "Cost": "COST 2",
@@ -223,63 +223,63 @@ var data = [
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/Skill_SwordCrash3.webp",
+          "IconImageUrl": "../img/skills/Safreen/1.webp",
           "Desc": "단일 개체에게 <font color=\"Red\">1.4</font>배 피해<br/><font color=\"purple\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명당 적 마방 <font color=\"Red\">10%</font> 무시 (최대 <font color=\"Red\">30%</font>)<br/>전투 후 <font color=\"purple\">쉴드</font> 획득<br/><font color=\"purple\">쉴드</font> : 시전자 지력 <font color=\"red\">3</font>배 수치 피해 흡수, 지속 <font color=\"red\">2</font>턴, 해제 불가<br/>병사 대동 시 병사도 함께 공격<br/>해당 스킬은 근접전 페널티를 받지 않음",
           "SubSkills": null,
           "Animation": null
         },
         {
-            "Name": "썬더스톰",
-            "Cost": "COST 2",
-            "Entries": [
-              {
-                "Label": "유형",
-                "Value": "마법피해"
-              },
-              {
-                "Label": "쿨타임",
-                "Value": "3턴"
-              },
-              {
-                "Label": "사거리",
-                "Value": "3칸"
-              },
-              {
-                "Label": "범위",
-                "Value": "3칸"
-              }
-            ],
-            "IconImageUrl": "../img/skills/Skill_ThunderCrash.webp",
-            "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
-            "SubSkills": null,
-            "Animation": null
-          },
-          {
-            "Name": "아이스",
-            "Cost": "COST 2",
-            "Entries": [
-              {
-                "Label": "유형",
-                "Value": "마법피해"
-              },
-              {
-                "Label": "쿨타임",
-                "Value": "3턴"
-              },
-              {
-                "Label": "사거리",
-                "Value": "3칸"
-              },
-              {
-                "Label": "범위",
-                "Value": "3칸"
-              }
-            ],
-            "IconImageUrl": "../img/skills/Skill_IceCrash.webp",
-            "Desc": "[마법 피해]범위 내 다수의 적군을 공격하여 0.3배의 범위 피해를 입힌다.<br/>'창병'에게 더 큰 피해를 준다. 적군 이동력 -1칸, 2턴 지속.",
-            "SubSkills": null,
-            "Animation": null
-          },
+          "Name": "썬더스톰",
+          "Cost": "COST 2",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "마법피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "3턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "3칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "3칸"
+            }
+          ],
+          "IconImageUrl": "../img/skills/Skill_ThunderCrash.webp",
+          "Desc": "범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 <font color=\"red\">-20%</font>, <font color=\"red\">2</font>행동 지속.",
+          "SubSkills": null,
+          "Animation": null
+        },
+        {
+          "Name": "아이스",
+          "Cost": "COST 2",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "마법피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "3턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "3칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "3칸"
+            }
+          ],
+          "IconImageUrl": "../img/skills/Skill_IceCrash.webp",
+          "Desc": "범위 내 다수의 적군에게 <font color =\"red\">0.3</font>배의 피해.<br/>'창병'에게 더 큰 피해를 준다. <br/>적의 이동력 <font color =\"red\">-1</font>칸 및 <font color=\"blue\">호위 불가</font>를 부여<br/>지속 <font color =\"red\">2</font>행동",
+          "SubSkills": null,
+          "Animation": null
+        },
         {
           "Name": "감싸는 마력",
           "Cost": "COST 2",
@@ -301,7 +301,7 @@ var data = [
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/0.webp",
+          "IconImageUrl": "../img/skills/Safreen/2.webp",
           "Desc": "[패시브] 스킬 사용 후 <font color=\"purple\">원소 친화</font>를 보유한 아군과 위치 교환 가능<br/>[액티브] <font color=\"purple\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명에게 <font color=\"purple\">쉴드</font> 부여<br/><font color=\"purple\">쉴드</font> : 시전자 지력 <font color=\"red\">3</font>배 수치 피해 흡수, 지속 <font color=\"red\">2</font>턴, 해제 불가",
           "SubSkills": null,
           "Animation": null

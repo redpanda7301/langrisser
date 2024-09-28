@@ -12,6 +12,10 @@ var data = [
       {
         "ImageUrl": "로스탐/3.webp",
         "Desc": "형귀 뽑기"
+      },
+      {
+        "ImageUrl": "로스탐/4.webp",
+        "Desc": "빛의 메아리(캡틴코만도)"
       }
     ],
     "Name": "로스탐",
@@ -115,6 +119,9 @@ var data = [
           },
           {
             "ImageUrl": "로스탐/3/1.webp"
+          },
+          {
+            "ImageUrl": "로스탐/4/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -147,6 +154,9 @@ var data = [
           },
           {
             "ImageUrl": "로스탐/3/1.webp"
+          },
+          {
+            "ImageUrl": "로스탐/4/1.webp"
           }
         ],
         "AttkRange": 2,

@@ -20,6 +20,10 @@ var data = [
       {
         "ImageUrl": "힐다/5.webp",
         "Desc": "한정판매"
+      },
+      {
+        "ImageUrl": "힐다/6.webp",
+        "Desc": "빛의 메아리(캡틴코만도)"
       }
     ],
     "Name": "힐다",
@@ -126,6 +130,9 @@ var data = [
           },
           {
             "ImageUrl": "힐다/5/1.webp"
+          },
+          {
+            "ImageUrl": "힐다/6/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -164,6 +171,9 @@ var data = [
           },
           {
             "ImageUrl": "힐다/5/2.webp"
+          },
+          {
+            "ImageUrl": "힐다/6/2.webp"
           }
         ],
         "AttkRange": 1,

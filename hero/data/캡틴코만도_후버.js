@@ -2,7 +2,7 @@
 {
   "Skins": [
     {
-      "ImageUrl": "캡틴코만도/1.webp",
+      "ImageUrl": "캡틴코만도_후버/1.webp",
       "Desc": "기본"
     }
   ],
@@ -89,7 +89,7 @@
       "Icon": "보병",
       "SD": [
         {
-          "ImageUrl": "캡틴코만도/1/1.webp"
+          "ImageUrl": "캡틴코만도_후버/1/1.webp"
         }
       ],
       "AttkRange": 1,
@@ -115,7 +115,7 @@
       "Icon": "보병",
       "SD": [
         {
-          "ImageUrl": "캡틴코만도/1/2.webp"
+          "ImageUrl": "캡틴코만도_후버/1/2.webp"
         }
       ],
       "AttkRange": 1,
@@ -332,10 +332,10 @@
           "Value": "3칸"
         }
       ],
-      "IconImageUrl": "../img/Super/캡틴코만도.webp",
+      "IconImageUrl": "../img/Super/캡틴코만도_후버.webp",
       "Desc": "[패시브] 모든 이동력을 소모하고 행동 종료 시, <font color=\"purple\">전투 열정</font> <font color=\"red\">1</font>스택 획득<br/>[물리피해]자신 주위 <font color=\"red\">3</font>칸 범위 안 각 적에게 <font color=\"red\">0.3</font>배 <font color=\"blue\">범위 피해</font> 및<br/>인접한 적에게 <font color=\"red\">0.1</font>배 <font color=\"blue\">범위 피해</font><br/>공격 후 명중한 지형에 '<font color=\"red\">감전</font>' 효과 부여<br/><font color=\"red\">감전</font> : 스킬 사용 전 시전자 공격 <font color=\"red\">0.5</font>배 수치 <font color=\"blue\">고정 피해</font> 및 해당 스킬의 쿨타임 <font color=\"red\">1</font>당 계수 수치 <font color=\"red\">0.5</font>배 증가<br/>지속 <font color=\"red\">2</font>행동",
       "SubSkills": null,
-      "Animation": "../img/Super/캡틴코만도_Ani.webp"
+      "Animation": "../img/Super/캡틴코만도_후버_Ani.webp"
     }
   ],
   "Propose": false,

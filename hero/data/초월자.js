@@ -79,7 +79,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "영원한 창멸",
+      "Stats": "<font color=\"purple\">파멸과 창세의 위력</font> 최대 중첩수<font color=\"red\">+1</font><br/>피해를 입히지 않고 행동 종료 시 <font color=\"purple\">파멸과 창세의 위력</font> <font color=\"red\">+1</font><br/><font color=\"blue\">운명의 반전</font>으로 <font color=\"blue\">보호막</font>을 획득 시 일격에 사망하지 않음"
+    },
     "Equip": {
       "EqpName": "끝없는 순환(투구)",
       "Stats": "생명 364,마방 65",

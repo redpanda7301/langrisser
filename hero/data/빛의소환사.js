@@ -649,7 +649,7 @@ var data = [
         "Animation": "../img/Super/빛의소환사_Ani.webp"
       }
     ],
-    "Propose": false,
+    "Propose": true,
     "Bio": null,
     "Performance": null,
     "Performance2": null,

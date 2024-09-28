@@ -76,7 +76,12 @@ var data = [
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "검은 날개 투구(투구)",
+      "Stats": "생명 437,마방 59",
+      "Icon": "타브리스.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/>아군이 적의 공격으로 피해를 입은 후, 가해자에게 <font color=\"purple\">검은 깃털</font> <font color=\"red\">1</font>개 부여<br/>스킬 사용으로 전투 진입 시, 적이 보유한 <font color=\"purple\">검은 깃털</font> <font color=\"red\">1</font>개당 해당 스킬 쿨타임 <font color=\"red\">-1</font>"
+    },
     "Soldiers": [
       "로열 그리폰",
       "근위기병",

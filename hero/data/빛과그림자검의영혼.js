@@ -12,6 +12,10 @@ var data = [
       {
         "ImageUrl": "빛과그림자검의영혼/3.webp",
         "Desc": "형귀스킨"
+      },
+      {
+        "ImageUrl": "빛과그림자검의영혼/4.webp",
+        "Desc": "한정판매"
       }
     ],
     "Name": "빛과그림자검의영혼",
@@ -111,6 +115,9 @@ var data = [
           },
           {
             "ImageUrl": "빛과그림자검의영혼/3/1.webp"
+          },
+          {
+            "ImageUrl": "빛과그림자검의영혼/4/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -143,6 +150,9 @@ var data = [
           },
           {
             "ImageUrl": "빛과그림자검의영혼/3/1.webp"
+          },
+          {
+            "ImageUrl": "빛과그림자검의영혼/4/1.webp"
           }
         ],
         "AttkRange": 1,

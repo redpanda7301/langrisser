@@ -75,7 +75,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "매력의 현악",
+      "Stats": "주는 <font color=\"blue\">버프</font>, <font color=\"blue\">디버프</font> 지속 시간 <font color=\"red\">+1</font><br/><font color=\"blue\">결투 유도</font> 사거리를 맵 전체로 확대<br/><font color=\"blue\">니케아 이지스</font>로 <font color=\"blue\">결투 상대</font>인 적 명중 시 대상은 다음 턴 <font color=\"blue\">제어 불가</font>"
+    },
     "Equip": null,
     "Soldiers": [
       "가면 메이드",

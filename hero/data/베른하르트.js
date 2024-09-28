@@ -112,7 +112,10 @@ var data = [
         ]
       }
     ],
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "끝없는 패업",
+      "Stats": "공격력 <font color=\"red\">+5%</font><br/><font color=\"blue\">철혈의 야망</font> 사용 후 <font color=\"blue\">재행동</font><br/>보유한 버프 지속 시간이 소모하지 않음<br/>해당 <font color=\"blue\">재행동</font>의 이동력은 스킬 사용 시 남은 이동력을 사용함"
+    },
     "Equip": {
       "EqpName": "패왕의 전투 갑주(갑옷)",
       "Stats": "생명 437,방어 65",

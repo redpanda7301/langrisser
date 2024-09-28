@@ -163,7 +163,7 @@ var data = [
           },
           {
             "Label": "쿨타임",
-            "Value": "0턴"
+            "Value": "-"
           },
           {
             "Label": "사거리",
@@ -241,7 +241,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Enya/2.webp",
-        "Desc": "전설 초절, 선공으로 전투 진입 시 피해 <font color=\"red\">+15%</font><br/><font color=\"blue\">재행동</font> 시 자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font> 및 해당 턴에서 <font color=\"blue\">모든 디버프 면역</font>",
+        "Desc": "[초절강화]범위 내 모든 '<b>전설</b>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+15%</font><br/><font color=\"blue\">재행동</font> 시 자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font> 및 해당 턴에서 <font color=\"blue\">모든 디버프 면역</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -397,7 +397,7 @@ var data = [
             "Desc": "[패시브] 운명의 예언을 적에게 사용가능. 적에게 <font color=\"purple\">예언</font> 시 <font color=\"blue\">선도</font> <font color=\"red\">1</font>개 추가 획득<br/>적에게 <font color=\"purple\">예언</font> 적중 시 효과를 '스킬 쿨 <font color=\"red\">+2</font>'로 변경.<br/>선도 수량이 한계치일 경우 예언이 적중된 적은 즉시 <font color=\"blue\">기절</font> <br/>(아레나에서는 즉시 행동 종료로 변경)<br/>[지휘] <font color=\"blue\">물의 거울</font> 범위 안 아군이 <font color=\"blue\">받는 범위 피해</font> <font color=\"red\">-25%</font><br/>행동 종료 시 엔야 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">생명 회복</font><br/>[액티브] 단일 부대 받는 피해 <font color=\"red\">-20%</font> 및 <font color=\"blue\">모든 디버프 면역</font>, 지속 <font color=\"red\">2</font>행동.<br/><font color=\"blue\">환상</font>을 목표로 할 시, <font color=\"blue\">위치 이동 효과 발동</font><br/>(본체와 위치 교환)"
           }
         ],
-        "Animation": "../img/Super/엔야_Ani.gif"
+        "Animation": "../img/Super/엔야_Ani.webp"
       }
     ],
     "Propose": false,

@@ -12,6 +12,10 @@ var data = [
       {
         "ImageUrl": "각성자/3.webp",
         "Desc": "한정판매"
+      },
+      {
+        "ImageUrl": "각성자/4.webp",
+        "Desc": "한정판매"
       }
     ],
     "Name": "각성자",
@@ -105,6 +109,9 @@ var data = [
           },
           {
             "ImageUrl": "각성자/3/1.webp"
+          },
+          {
+            "ImageUrl": "각성자/4/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -137,6 +144,9 @@ var data = [
           },
           {
             "ImageUrl": "각성자/3/1.webp"
+          },
+          {
+            "ImageUrl": "각성자/4/1.webp"
           }
         ],
         "AttkRange": 2,

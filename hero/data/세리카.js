@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "세리카/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "세리카/3.webp",
+        "Desc": "한정판매"
       }
     ],
     "Name": "세리카",
@@ -98,6 +102,9 @@ var data = [
           },
           {
             "ImageUrl": "세리카/2/1.webp"
+          },
+          {
+            "ImageUrl": "세리카/3/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -127,6 +134,9 @@ var data = [
           },
           {
             "ImageUrl": "세리카/2/1.webp"
+          },
+          {
+            "ImageUrl": "세리카/3/1.webp"
           }
         ],
         "AttkRange": 2,

@@ -76,7 +76,12 @@
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "붉은 숨결(지팡이)",
+      "Stats": "생명 437,지력 107",
+      "Icon": "페트리시아.webp",
+      "Ability": "지력 <font color=\"red\">+10%</font><br/>자신이 부여한 '<font color=\"purple\">영혼을 태우는 불길/font>' 지속 시간 <font color=\"red\">+1</font><br/>선공으로 피해를 입힌 후 <font color=\"red\">100%</font> 확률로 상대에게 <font color=\"purple\">영혼을 태우는 불길/font> <font color=\"red\">1</font>개 추가 부여"
+    },
     "Soldiers": [
       "마녀",
       "투석기",

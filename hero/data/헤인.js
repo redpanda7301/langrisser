@@ -107,7 +107,10 @@ var data = [
         ]
       }
     ],
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "수석의 재능",
+      "Stats": "지력 <font color=\"red\">+5%</font><br/>행동 종료 시 <font color=\"purple\">고유 스킬</font> 지력 상승 효과 <font color=\"red\">+1</font><br/>(흑룡의 학식 고유 스킬은 추가로 <b><font color =\"blue\">번개</font></b> 혹은 <b><font color =\"red\">화염</font></b> <font color=\"red\">1</font>개 획득)"
+    },
     "Equip": {
       "EqpName": "내,내,내가 공주라고?(투구)",
       "Stats": "생명 364,마방 65",
@@ -728,7 +731,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_ThunderCrash.webp",
-        "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
+        "Desc": "범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 <font color=\"red\">-20%</font>, <font color=\"red\">2</font>행동 지속.",
         "SubSkills": null,
         "Animation": null
       },

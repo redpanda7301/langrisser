@@ -76,7 +76,12 @@ var data = [
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "새벽바람(갑옷)",
+      "Stats": "생명 583, 방어 54",
+      "Icon": "제이스.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/>피해를 입히지 않고 행동 종료 시, 현재 쿨타임이 가장 짧은 스킬 쿨 <font color=\"red\">-1</font><br/>전장에 있는 <font color=\"purple\">마법의 빛나는 흔적</font> <font color=\"red\">1</font>개당 적 마방 <font color=\"red\">5%</font> 무시 (최대 <font color=\"red\">20%</font>)"
+    },
     "Soldiers": [
       "마녀",
       "하이엘프",
@@ -146,44 +151,6 @@ var data = [
         "SkillRate": 33,
         "HeartFetterBouns1": "부대 생명 <font color=\"red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10%</font>",
         "HeartFetterBouns2": "<font color=\"blue\">디버프</font>를 보유한 부대와 전투 시<br/>전투 진입 후 피해 <font color=\"red\">+10%</font>"
-      }
-    ],
-    "Materials": {
-      "HeartFetter": [],
-      "Fetter": [],
-      "Awaken": []
-    },
-    "ClassUp": [
-      {
-        "ClassTitle": "메이지 : ",
-        "Tiers": [
-          {
-            "Name": "T1",
-            "Materials": []
-          },
-          {
-            "Name": "T2",
-            "Materials": [
-              "rank1-5"
-            ]
-          }
-        ]
-      },
-      {
-        "ClassTitle": "아크메이지  : 생명+48, 지력+12",
-        "Tiers": null
-      },
-      {
-        "ClassTitle": "위저드 : 생명+90, 마방+10, 지력+25",
-        "Tiers": null
-      },
-      {
-        "ClassTitle": "마터 : 마방+8, 지력+7",
-        "Tiers": null
-      },
-      {
-        "ClassTitle": "세인트 : 지력+25, 마방 +10, 생명+90",
-        "Tiers": null
       }
     ],
     "SPOpenConditions": null,

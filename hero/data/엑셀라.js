@@ -71,7 +71,10 @@
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "용의 노래",
+      "Stats": "공격력 <font color=\"red\">+5%</font><br/><font color=\"blue\">결투 유도</font> <font color=\"blue\">태고의 노래</font> 사용 후 모으기 획득<br/>사용 후 <font color=\"blue\">재공격</font> 가능(이동 불가)"
+    },
     "Equip": null,
     "Soldiers": [
       "마스터 디노",

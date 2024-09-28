@@ -510,7 +510,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
-        "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 +12%.",
+        "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12%</font>.",
         "SubSkills": null,
         "Animation": null
       },

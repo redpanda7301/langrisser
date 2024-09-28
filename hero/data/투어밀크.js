@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "투어밀크/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "투어밀크/3.webp",
+        "Desc": "형귀뽑기"
       }
     ],
     "Name": "투어밀크",
@@ -104,6 +108,9 @@ var data = [
           },
           {
             "ImageUrl": "투어밀크/2/1.webp"
+          },
+          {
+            "ImageUrl": "투어밀크/3/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -133,6 +140,9 @@ var data = [
           },
           {
             "ImageUrl": "투어밀크/2/1.webp"
+          },
+          {
+            "ImageUrl": "투어밀크/3/1.webp"
           }
         ],
         "AttkRange": 2,

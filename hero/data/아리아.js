@@ -60,16 +60,16 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "피해 <font color=\"red\">+15%</font><br/>처음 시작 시 <font color=\"blue\">행운</font> 효과 <font color=\"red\">3</font>종 보유<br/>1) <font color=\"blue\">시운</font> : 행동 종료 시 주위 <font color=\"red\">2</font>칸 범위 아군을 자신 지력 <font color=\"red\">1</font>배 수치로 <font color=\"green\">치료</font><br/>2) <font color=\"blue\">강운</font> 공격, 지력 <font color=\"red\">+10%</font><br/>3) <font color=\"blue\">행운</font> 행동 종료 시 <font color=\"blue\">무작위 버프</font> <font color=\"red\">+1</font>개 획득, <font color=\"blue\">행운</font>은 최대 <font color=\"red\">3</font>개 존재, 해제 불가<br/>행동 시작 시 무작위 <font color=\"blue\">행운</font> <font color=\"red\">1</font>개 획득<br/><font color=\"red\">2</font>개 이상 같은 종류의 <font color=\"blue\">행운</font> 보유 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/><font color=\"red\">3</font>개 이상 같은 종류의 <font color=\"blue\">행운</font>을 보유한 상태로 행동 종료 시 자신이 보유한 <font color=\"blue\">모든 피해 스킬 쿨 초기화</font>"
+            "Desc": "피해 <font color=\"red\">+15%</font><br/>처음 시작 시 <font color=\"blue\">행운</font> 효과 <font color=\"red\">3</font>종 보유<br/>행동 시작 시 무작위 <font color=\"blue\">행운</font> <font color=\"red\">1</font>개 획득<br/><font color=\"red\">2</font>개 이상 같은 종류의 <font color=\"blue\">행운</font> 보유 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/><font color=\"red\">3</font>개 이상 같은 종류의 <font color=\"blue\">행운</font>을 보유한 상태로 행동 종료 시 자신이 보유한 <font color=\"blue\">모든 피해 스킬 쿨 초기화</font><br/><font color=\"blue\">시운</font>,<font color=\"blue\">강운</font>,<font color=\"blue\">행운</font>은 하기에 별도 설명"
           },
           {
-            "Desc": "피해 <font color=\"red\">+20%</font><br/>처음 시작 시 <font color=\"blue\">행운</font> 효과 <font color=\"red\">3</font>종 보유<br/>1) <font color=\"blue\">시운</font> : 행동 종료 시 주위 <font color=\"red\">2</font>칸 범위 아군을 자신 지력 <font color=\"red\">1</font>배 수치로 <font color=\"green\">치료</font><br/>2) <font color=\"blue\">강운</font> 공격, 지력 <font color=\"red\">+10%</font><br/>3) <font color=\"blue\">행운</font> 행동 종료 시 <font color=\"blue\">무작위 버프</font> <font color=\"red\">+1</font>개 획득, <font color=\"blue\">행운</font>은 최대 <font color=\"red\">3</font>개 존재, 해제 불가<br/>행동 시작 시 무작위 <font color=\"blue\">행운</font> <font color=\"red\">1</font>개 획득<br/><font color=\"red\">2</font>개 이상 같은 종류의 <font color=\"blue\">행운</font> 보유 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/><font color=\"red\">3</font>개 이상 같은 종류의 <font color=\"blue\">행운</font>을 보유한 상태로 행동 종료 시 자신이 보유한 <font color=\"blue\">모든 피해 스킬 쿨 초기화</font>"
+            "Desc": "피해 <font color=\"red\">+20%</font><br/>처음 시작 시 <font color=\"blue\">행운</font> 효과 <font color=\"red\">3</font>종 보유<br/>행동 시작 시 무작위 <font color=\"blue\">행운</font> <font color=\"red\">1</font>개 획득<br/><font color=\"red\">2</font>개 이상 같은 종류의 <font color=\"blue\">행운</font> 보유 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/><font color=\"red\">3</font>개 이상 같은 종류의 <font color=\"blue\">행운</font>을 보유한 상태로 행동 종료 시 자신이 보유한 <font color=\"blue\">모든 피해 스킬 쿨 초기화</font><br/><font color=\"blue\">시운</font>,<font color=\"blue\">강운</font>,<font color=\"blue\">행운</font>은 하기에 별도 설명"
           },
           {
-            "Desc": "피해 <font color=\"red\">+25%</font><br/>처음 시작 시 <font color=\"blue\">행운</font> 효과 <font color=\"red\">3</font>종 보유<br/>1) <font color=\"blue\">시운</font> : 행동 종료 시 주위 <font color=\"red\">2</font>칸 범위 아군을 자신 지력 <font color=\"red\">1</font>배 수치로 <font color=\"green\">치료</font><br/>2) <font color=\"blue\">강운</font> 공격, 지력 <font color=\"red\">+10%</font><br/>3) <font color=\"blue\">행운</font> 행동 종료 시 <font color=\"blue\">무작위 버프</font> <font color=\"red\">+1</font>개 획득, <font color=\"blue\">행운</font>은 최대 <font color=\"red\">3</font>개 존재, 해제 불가<br/>행동 시작 시 무작위 <font color=\"blue\">행운</font> <font color=\"red\">1</font>개 획득<br/><font color=\"red\">2</font>개 이상 같은 종류의 <font color=\"blue\">행운</font> 보유 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/><font color=\"red\">3</font>개 이상 같은 종류의 <font color=\"blue\">행운</font>을 보유한 상태로 행동 종료 시 자신이 보유한 <font color=\"blue\">모든 피해 스킬 쿨 초기화</font>"
+            "Desc": "피해 <font color=\"red\">+25%</font><br/>처음 시작 시 <font color=\"blue\">행운</font> 효과 <font color=\"red\">3</font>종 보유<br/>행동 시작 시 무작위 <font color=\"blue\">행운</font> <font color=\"red\">1</font>개 획득<br/><font color=\"red\">2</font>개 이상 같은 종류의 <font color=\"blue\">행운</font> 보유 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/><font color=\"red\">3</font>개 이상 같은 종류의 <font color=\"blue\">행운</font>을 보유한 상태로 행동 종료 시 자신이 보유한 <font color=\"blue\">모든 피해 스킬 쿨 초기화</font><br/><font color=\"blue\">시운</font>,<font color=\"blue\">강운</font>,<font color=\"blue\">행운</font>은 하기에 별도 설명"
           },
           {
-            "Desc": "피해 <font color=\"red\">+30%</font><br/>처음 시작 시 <font color=\"blue\">행운</font> 효과 <font color=\"red\">3</font>종 보유<br/>1) <font color=\"blue\">시운</font> : 행동 종료 시 주위 <font color=\"red\">2</font>칸 범위 아군을 자신 지력 <font color=\"red\">1</font>배 수치로 <font color=\"green\">치료</font><br/>2) <font color=\"blue\">강운</font> 공격, 지력 <font color=\"red\">+10%</font><br/>3) <font color=\"blue\">행운</font> 행동 종료 시 <font color=\"blue\">무작위 버프</font> <font color=\"red\">+1</font>개 획득, <font color=\"blue\">행운</font>은 최대 <font color=\"red\">3</font>개 존재, 해제 불가<br/>행동 시작 시 무작위 <font color=\"blue\">행운</font> <font color=\"red\">1</font>개 획득<br/><font color=\"red\">2</font>개 이상 같은 종류의 <font color=\"blue\">행운</font> 보유 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/><font color=\"red\">3</font>개 이상 같은 종류의 <font color=\"blue\">행운</font>을 보유한 상태로 행동 종료 시 자신이 보유한 <font color=\"blue\">모든 피해 스킬 쿨 초기화</font>"
+            "Desc": "피해 <font color=\"red\">+30%</font><br/>처음 시작 시 <font color=\"blue\">행운</font> 효과 <font color=\"red\">3</font>종 보유<br/>행동 시작 시 무작위 <font color=\"blue\">행운</font> <font color=\"red\">1</font>개 획득<br/><font color=\"red\">2</font>개 이상 같은 종류의 <font color=\"blue\">행운</font> 보유 시 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/><font color=\"red\">3</font>개 이상 같은 종류의 <font color=\"blue\">행운</font>을 보유한 상태로 행동 종료 시 자신이 보유한 <font color=\"blue\">모든 피해 스킬 쿨 초기화</font><br/><font color=\"blue\">시운</font>,<font color=\"blue\">강운</font>,<font color=\"blue\">행운</font>은 하기에 별도 설명"
           }
         ]
       }
@@ -149,6 +149,51 @@ var data = [
     ],
     "SPOpenConditions": null,
     "Skills": [
+      {
+        "Name": "운 트임",
+        "Cost": "COST 1",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "액티브"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "1턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "2칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/ability/Gift_Alia.webp",
+        "Desc": "행동 시작시 무작위로 행운 획득",
+        "SubSkills": [
+          {
+            "Name": "시운",
+            "Entries": null,
+            "IconImageUrl": "../img/skills/Alia/0_1.webp",
+            "Desc": "행동 종료 시 주위 <font color=\"red\">2</font>칸 범위 아군을 자신 지력 <font color=\"red\">1</font>배 수치로 <font color=\"green\">치료</font>"
+          },
+          {
+            "Name": "강운",
+            "Entries": null,
+            "IconImageUrl": "../img/skills/Alia/0_2.webp",
+            "Desc": "공격, 지력 <font color=\"red\">+10%</font>"
+          },
+          {
+            "Name": "길운",
+            "Entries": null,
+            "IconImageUrl": "../img/skills/Alia/0_3.webp",
+            "Desc": "행동 종료 시 <font color=\"blue\">무작위 버프</font> <font color=\"red\">+1</font>개 획득, <font color=\"blue\">행운</font>은 최대 <font color=\"red\">3</font>개 존재, 해제 불가<br/>"
+          },
+        ],
+        "Animation": null
+      },
       {
         "Name": "파이어볼",
         "Cost": "COST 1",
@@ -376,7 +421,7 @@ var data = [
         "IconImageUrl": "../img/Super/아리아.webp",
         "Desc": "[패시브] <font color=\"red\">3</font>개 이상의 동일한 <font color=\"blue\">행운</font> 보유했을 경우, 선공으로 전투 진입 시 적 반격 불가<br/>[마법피해] 단일 개체 <font color=\"red\">1.6</font>배 피해<br/>전투 후 보유한 동일한 <font color=\"blue\">행운</font> <font color=\"red\">1</font>개마다 <font color=\"blue\">재이동</font><font color=\"red\">1</font>칸 가능<br/>행동 종료 시 추가 <font color=\"blue\">행운</font> 선택 가능, 해당 <font color=\"blue\">행운</font>은 교체되거나 사라지지 않음, 지속 <font color=\"red\">2</font>행동<br/>해제 불가",
         "SubSkills": null,
-        "Animation": "../img/Super/아리아_Ani.gif"
+        "Animation": "../img/Super/아리아_Ani.webp"
       }
     ],
     "Propose": false,

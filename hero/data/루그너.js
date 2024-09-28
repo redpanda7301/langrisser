@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "루그너/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "루그너/3.webp",
+        "Desc": "형귀뽑기"
       }
     ],
     "Name": "루그너",
@@ -103,6 +107,9 @@ var data = [
           },
           {
             "ImageUrl": "루그너/2/1.webp"
+          },
+          {
+            "ImageUrl": "루그너/3/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -132,6 +139,9 @@ var data = [
           },
           {
             "ImageUrl": "루그너/2/1.webp"
+          },
+          {
+            "ImageUrl": "루그너/3/1.webp"
           }
         ],
         "AttkRange": 2,

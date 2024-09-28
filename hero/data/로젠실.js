@@ -83,7 +83,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "수정의 만가",
+      "Stats": "지력 <font color=\"red\">+10%</font><br/>수정 치유 지속 시간 <font color=\"red\">+1</font>, <font color=\"blue\">수정 결계</font>로 부여하는 <font color=\"blue\">수정 치유</font> 해제 불가"
+    },
     "Equip": {
       "EqpName": "순결한 수정의 면사(투구)",
       "Stats": "생명 364,마방 65",

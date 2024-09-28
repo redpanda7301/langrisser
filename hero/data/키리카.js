@@ -75,7 +75,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "엘프의 카구라",
+      "Stats": "<font color=\"purple\">고유 스킬</font> <font color=\"red\">4</font>스택 이상인 상태에서 <font color=\"blue\">제비 떨구기</font> 사용 시 <font color=\"blue\">재행동</font><br/><font color=\"blue\">섬황</font>으로 명중시킨 적 <font color=\"red\">1</font>명당 해당 스킬 쿨 <font color=\"red\">-1</font>"
+    },
     "Equip": null,
     "Soldiers": [
       "밴디트",

@@ -321,7 +321,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_WaterCrash.webp",
-        "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>물 속에 있을 경우 2배의 피해를 준다.",
+        "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5</font>배의 피해를 준다.<br/><font color=\"blue\">물 속</font>에 있을 경우 <font color=\"red\">2</font>배의 피해를 준다.",
         "SubSkills": null,
         "Animation": null
       },

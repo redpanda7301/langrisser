@@ -363,7 +363,7 @@ var data = [
         "Animation": "../img/Super/세라피나_Ani.webp"
       }
     ],
-    "Propose": false,
+    "Propose": true,
     "Bio": null,
     "Performance": null,
     "Performance2": null,

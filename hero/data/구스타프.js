@@ -79,7 +79,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "제거 개시",
+      "Stats": "지력 <font color=\"red\">+5%</font><br/>자신을 목표로 스킬 사용 시 해당 스킬 쿨타임 <font color=\"red\">+1</font><br/>사용 후 추가 <font color =\"blue\">재행동</font> <font color=\"red\">2</font>칸"
+    },
     "Equip": {
       "EqpName": "아득한 메아리(투구)",
       "Stats": "생명 364,마방 65",

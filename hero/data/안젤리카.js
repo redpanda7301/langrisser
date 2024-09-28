@@ -7,7 +7,7 @@ var data = [
       },
       {
         "ImageUrl": "안젤리카/2.webp",
-        "Desc": "서밋아레나 시즌5 골드스킨"
+        "Desc": "서밋아레나 S5 골드스킨"
       },
       {
         "ImageUrl": "안젤리카/3.webp",

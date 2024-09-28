@@ -170,7 +170,7 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/Gourry/1.webp",
+        "IconImageUrl": "../img/skills/Nornorin/1.webp",
         "Desc": "자신이 <font color=\"blue\">물</font>, <font color=\"blue\">격류</font>, <font color=\"blue\">늪</font>, 및 아군 <font color=\"blue\">만조</font> 지형 통과 시,<br/><font color=\"red\">2</font>칸 이동력 저하 면제 기회 획득.<br/>지속 <font color=\"red\">2</font>행동, <font color=\"red\">2</font>칸 재행동<br/>해당 스킬 사용 후 행동 종료 시 <font color=\"blue\">파도 부르기 사용 불가</font><br/><font color=\"blue\">보유한 버프 지속 시간을 소모하지 않음</font>",
         "SubSkills": null,
         "Animation": null
@@ -181,7 +181,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -197,7 +197,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/0.webp",
-        "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
+        "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해<br/><font color=\"blue\">근접전 병사를 이끌고 있다면 병사도 함께 공격한다.</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -207,7 +207,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "물리 피해"
+            "Value": "물리피해"
           },
           {
             "Label": "쿨타임",
@@ -223,7 +223,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_SwordCrash3.webp",
-        "Desc": "단일 개체에게 <font color=\"Red\">1.4</font>배 피해<br/>치명타율 <font color=\"Red\">+20%</font>.",
+        "Desc": "단일 개체에게 <font color=\"red\">1.4</font>배 피해<br/> 치명타율 <font color=\"Red\">+20%</font>.",
         "SubSkills": null,
         "Animation": null
       },
@@ -237,7 +237,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
-        "Desc": "[패시브]부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 +12%.",
+        "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12%</font>.",
         "SubSkills": null,
         "Animation": null
       },
@@ -288,7 +288,7 @@ var data = [
             "Value": "2칸"
           }
         ],
-        "IconImageUrl": "../img/skills/0.webp",
+        "IconImageUrl": "../img/skills/Nornorin/2.webp",
         "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내 적에게 <font color=\"red\">0.36</font>배 피해 및 적에게 <font color=\"blue\">재행동 불가</font> 효과 부여, 지속 <font color=\"red\">2</font>행동. 명중한 지형에는 <font color=\"red\">2</font>턴간 <font color=\"blue\">만조</font> 효과 부여",
         "SubSkills": null,
         "Animation": null

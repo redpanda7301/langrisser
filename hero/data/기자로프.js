@@ -541,7 +541,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_ThunderCrash.webp",
-        "Desc": "[마법 피해]범위 내 적들을 공격해 0.3배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 -20%, 2턴 지속.",
+        "Desc": "범위 내 적들을 공격해 <font color=\"red\">0.3</font>배의 광역 피해를 준다.<br/>'기병'에게 더 큰 피해를 주며 적의 방어 <font color=\"red\">-20%</font>, <font color=\"red\">2</font>행동 지속.",
         "SubSkills": null,
         "Animation": null
       },

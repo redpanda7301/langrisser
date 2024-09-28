@@ -78,7 +78,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "히든 코어",
+      "Stats": "공격 <font color=\"red\">+5%</font><br/><font color=\"blue\">기동 변형</font>후 매턴 <font color=\"red\">1</font>회 한정 <font color=\"blue\">재행동</font>"
+    },
     "Equip": {
       "EqpName": "기동폭쇄검(무기)",
       "Stats": "생명 437,공격 107",

@@ -70,7 +70,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "파익청공",
+      "Stats": "부대 사거리 <font color=\"red\">+1</font><br/><font color=\"blue\">고정 피해</font>를 입힌 후 이미 발동한 <font color=\"purple\">천공의 무장</font>의 쿨 <font color=\"red\">-1</font><br/><font color=\"purple\">천공의 무장</font>을 보유하고 있을 경우 <font color=\"blue\">고정 피해</font> <font color=\"red\">+30%</font>"
+    },
     "Equip": null,
     "Soldiers": [
       "하이엘프",
