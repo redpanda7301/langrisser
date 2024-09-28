@@ -78,7 +78,7 @@ var data = [
     "Second_Awaken": null,
     "Equip": {
       "EqpName": "검은 날개 투구(투구)",
-      "Stats": "생명 437,마방 59",
+      "Stats": "생명 583,마방 48",
       "Icon": "타이란텔.webp",
       "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"purple\">지배의 명령</font>을 보유한 적과 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font> 및 전투 후 피해량  <font color=\"red\">30%</font> 수치로 <font color=\"green\">생명 회복</font><br/><font color=\"purple\">지배의 명령</font>을 보유한 적이 사망 시, 다음에 사용하는 <font color=\"purple\">지배의 명령</font>은 목표 하나를 추가로 선택 가능<br/>면역 및 해제 불가"
     },
