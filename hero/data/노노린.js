@@ -44,7 +44,7 @@ var data = [
         "Condition": "프레시아와 함께 운명의문4"
       },
       {
-        "Condition": "파도를 지배하는 별 전직"
+        "Condition": "파도를 지배하는 장군 전직"
       }
     ],
     "HeartFetter": "생명+750, 방어+50, 마방+50",
@@ -118,7 +118,7 @@ var data = [
         "HeartFetterBouns2": "<b><font color=\"blue\">물</font>에서</b><br/>주는 물리 피해량 <font color=\"red\">+10%</font>"
       },
       {
-        "Name": "파도를 지배하는 별",
+        "Name": "파도를 지배하는 장군",
         "Icon": "수병",
         "SD": [
           {
