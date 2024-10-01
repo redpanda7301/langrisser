@@ -32,7 +32,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 15,
     "SPMagicDef": 0,
-    "HowToGet": "한정 콜라보 소환",
+    "HowToGet": "영웅 소환 (콜라보)",
     "Fetters": [
       {
         "Condition": "우라메시 유스케가 레벨30에 도달"

@@ -32,7 +32,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 30,
     "SPMagicDef": 0,
-    "HowToGet": "한정 콜라보 소환",
+    "HowToGet": "영웅 소환 (콜라보)",
     "Fetters": [
       {
         "Condition": "요슈아 레벨30 도달"

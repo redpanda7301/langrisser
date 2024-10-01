@@ -32,7 +32,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 25,
     "SPMagicDef": 0,
-    "HowToGet": "한정 콜라보 소환",
+    "HowToGet": "영웅 소환 (콜라보)",
     "Fetters": [
       {
         "Condition": "히에이를 출전시켜 아레나에서 5회 승리"

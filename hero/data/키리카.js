@@ -32,7 +32,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 25,
     "SPMagicDef": 0,
-    "HowToGet": "콜라보 한정 소환",
+    "HowToGet": "영웅 소환 (콜라보)",
     "Fetters": [
       {
         "Condition": "키리카 레벨30 도달"

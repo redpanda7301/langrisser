@@ -27,7 +27,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 15,
     "SPMagicDef": 0,
-    "HowToGet": "한정 콜라보 이벤트",
+    "HowToGet": "콜라보 이벤트",
     "Fetters": [
       {
         "Condition": "츠루기베 시바라쿠를 출전시켜 시공의 균열 3-6 클리어"

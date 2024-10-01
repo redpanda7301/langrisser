@@ -28,7 +28,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 10,
     "SPMagicDef": 0,
-    "HowToGet": "한정 콜라보 소환",
+    "HowToGet": "영웅 소환 (콜라보)",
     "Fetters": [
       {
         "Condition": "도구로 형제가 레벨30에 도달"

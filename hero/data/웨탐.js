@@ -40,7 +40,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 15,
     "SPMagicDef": 0,
-    "HowToGet": "영웅 소환",
+    "HowToGet": "영웅 소환 (1인 한정)",
     "Fetters": [
       {
         "Condition": "웨탐을 출전시켜  시공의 균열 3-6 클리어"

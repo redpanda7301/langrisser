@@ -28,7 +28,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 15,
     "SPMagicDef": 0,
-    "HowToGet": "한정 콜라보 소환",
+    "HowToGet": "영웅 소환 (콜라보)",
     "Fetters": [
       {
         "Condition": "에스텔을 사용하여 시공의 균열3-6 클리어"

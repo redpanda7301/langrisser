@@ -16,7 +16,7 @@ var data = [
     "JapName": "",
     "CV": "토미타 미유",
     "Rank": [
-      1
+      0
     ],
     "SP": false,
     "Groups": [
@@ -32,7 +32,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 25,
     "SPMagicDef": 0,
-    "HowToGet": "한정 소환",
+    "HowToGet": "영웅 소환",
     "Fetters": [
       {
         "Condition": "아레나 1승"

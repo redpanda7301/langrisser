@@ -28,7 +28,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 35,
     "SPMagicDef": 0,
-    "HowToGet": "한정 콜라보 소환",
+    "HowToGet": "영웅 소환 (콜라보)",
     "Fetters": [
       {
         "Condition": "아리안로드를 출전시켜 아레나 5승"

@@ -16,7 +16,7 @@ var data = [
     "JapName": "",
     "CV": "이노우에 키쿠코",
     "Rank": [
-      1
+      0
     ],
     "SP": false,
     "Groups": [
@@ -32,7 +32,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 30,
     "SPMagicDef": 0,
-    "HowToGet": "한정 소환",
+    "HowToGet": "영웅 소환 (1인 한정)",
     "Fetters": [
       {
         "Condition": "레벨 30"

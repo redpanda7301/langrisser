@@ -36,7 +36,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 15,
     "SPMagicDef": 0,
-    "HowToGet": "한정 콜라보 이벤트",
+    "HowToGet": "콜라보 이벤트",
     "Fetters": [
       {
         "Condition": "레벨 30 달성"

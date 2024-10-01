@@ -16,7 +16,7 @@ var data = [
     "JapName": "",
     "CV": "히카사 요코",
     "Rank": [
-      1
+      0
     ],
     "SP": false,
     "Groups": [
@@ -32,7 +32,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 25,
     "SPMagicDef": 0,
-    "HowToGet": "한정 소환",
+    "HowToGet": "영웅 소환",
     "Fetters": [
       {
         "Condition": "시공의 균열 3-6 클리어"
@@ -41,7 +41,7 @@ var data = [
         "Condition": "시공의 균열 3-1[정예] 클리어"
       },
       {
-        "Condition": "이리아의 도움을 받아 운명의 문4"
+        "Condition": "아리아의 도움을 받아 운명의 문4"
       },
       {
         "Condition": "신운의 성녀 전직"
@@ -118,7 +118,7 @@ var data = [
         "HeartFetterBouns2": "<font color=\"Red\">5</font>개 이상 버프 보유 시<br/>전투 진입 후 주는 피해 <font color=\"Red\">+10%</font>"
       },
       {
-        "Name": "신의 보살핌을 받는 자",
+        "Name": "신운의 성녀",
         "Icon": "승려",
         "SD": [
           {

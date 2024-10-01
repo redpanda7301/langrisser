@@ -32,7 +32,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 30,
     "SPMagicDef": 0,
-    "HowToGet": "한정 콜라보 이벤트",
+    "HowToGet": "콜라보 이벤트",
     "Fetters": [
       {
         "Condition": "알티나가 레벨30에 도달"

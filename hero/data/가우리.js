@@ -32,7 +32,7 @@
     "SPDef": 0,
     "MagicDef": 15,
     "SPMagicDef": 0,
-    "HowToGet": "이벤트 획득",
+    "HowToGet": "콜라보 이벤트",
     "Fetters": [
       {
         "Condition": "가우리를 출전시켜 시공의 균열 3-6 클리어"

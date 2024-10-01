@@ -32,7 +32,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 25,
     "SPMagicDef": 0,
-    "HowToGet": "콜라보 소환",
+    "HowToGet": "영웅 소환 (콜라보)",
     "Fetters": [
       {
         "Condition": "레벨 30달성"

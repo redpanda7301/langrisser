@@ -32,7 +32,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 10,
     "SPMagicDef": 0,
-    "HowToGet": "영웅 소환",
+    "HowToGet": "메인 시나리오, 시공의균열 보상",
     "Fetters": [
       {
         "Condition": "레벨 30 달성"

@@ -32,7 +32,7 @@ var data = [
     "SPDef": 0,
     "MagicDef": 20,
     "SPMagicDef": 0,
-    "HowToGet": "콜라보 한정소환",
+    "HowToGet": "영웅 소환 (콜라보)",
     "Fetters": [
       {
         "Condition": "신구지 사쿠라 레벨 30 달성"
