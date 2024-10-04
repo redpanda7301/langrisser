@@ -196,7 +196,7 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/Ilia/1.webp",
+        "IconImageUrl": "../img/skills/Ilia/2.webp",
         "Desc": "[패시브] 자신이 영력 감지 <font color=\"red\">2</font>스택 이상 보유 시, <font color=\"blue\">정의의 천사</font> 범위 안에 적이 이동할 경우 추가 이동력 <font color=\"red\">1</font> 소모<br/>[마법피해] 자신 혹은 <font color=\"blue\">정의의 천사</font>를 대상으로 사용<br/>목표 주위 <font color=\"red\">5</font>칸 범위 안 적에게 <font color=\"red\">0.3</font>배 피해, 전투 후 <font color=\"blue\">텔레포트</font> 효과<br/>(적을 자신 혹은 정의의 천사와 3칸 떨어진 곳으로 <font color=\"blue\">텔레포트</font>)",
         "SubSkills": null,
         "Animation": null
@@ -326,7 +326,7 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/Ilia/2.webp",
+        "IconImageUrl": "../img/skills/Ilia/1.webp",
         "Desc": "단일 부대에게 '<font color =\"blue\">빛의 가호</font>' <font color =\"red\">1</font>스택 부여<br/><font color =\"blue\">빛의 가호</font> : 다음에 받는 <font color =\"blue\">디버프</font> <font color =\"red\">1</font>개 <font color =\"blue\">면역</font><br/>자신이 보유한 <font color =\"blue\">영력 감지</font> <font color =\"red\">1</font>스택당 추가로 <font color =\"red\">1</font>스택 부여, 최대 <font color =\"red\">5</font>스택, 해제 불가<br/>사용 후 <font color =\"red\">2</font>칸 <font color =\"blue\">재행동</font><br/>(해당 재행동은 보유한 버프 지속 시간을 소모하지 않음)",
         "SubSkills": null,
         "Animation": null
