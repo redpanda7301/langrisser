@@ -521,7 +521,7 @@ var data = [
             "Value": "1바퀴"
           }
         ],
-        "IconImageUrl": "../img/skills/Iris/1.webp",
+        "IconImageUrl": "../img/skills/Iris/2.webp",
         "Desc": "자신 주위 <font color=\"red\">1</font>바퀴 범위 안 적이 보유한 <font color=\"blue\">버프</font>를 무작위 <font color=\"red\">1</font개 <font color=\"blue\">강탈</font><br/>스킬 범위 안에 아군이 설치한 <font color=\"purple\">수호의 열쇠</font>가 있을 경우, <font color=\"blue\">해당 지형에 부여된 특수 효과를 제거하고</font> <font color=\"purple\">고유 스킬</font> <font color=\"blue\">재행동</font> 발동",
         "SubSkills": null,
         "Animation": null

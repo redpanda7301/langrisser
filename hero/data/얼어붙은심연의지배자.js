@@ -91,7 +91,7 @@ var data = [
     "Jobs": [
       {
         "Name": "침략의 서리 발톱",
-        "Icon": "Icon_Occupation_CavalryLLR.webp",
+        "Icon": "기병LLR.webp",
         "SD": [
           {
             "ImageUrl": "얼어붙은심연의지배자/1/1.webp"
