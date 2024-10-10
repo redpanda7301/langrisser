@@ -81,8 +81,8 @@ var data = [
     "SPTalent": null,
     "Second_Awaken": null,
     "Equip": {
-      "EqpName": "영원한 밤의 열쇠(무기)",
-      "Stats": "생명 583, 공격 85",
+      "EqpName": "영원한 밤의 열쇠(악세사리)",
+      "Stats": "공격 75, 방어 43",
       "Icon": "이리스.webp",
       "Ability": "공격 <font color=\"red\">+8%</font><br/>자신 주위 3칸 범위 안에 아군의 '<font color=\"purple\">수호의 열쇠</font>'가 있을 경우, 부대 피해 <font color=\"red\">+20%</font><br/>선공으러 전투 진입 시, 적이 아군이 설치한 <font color=\"purple\">수호의 열쇠</font> 위에 있을 경우<br/>전투 전 적 기절 (지속<font color=\"red\">1</font>행동)"
     },
