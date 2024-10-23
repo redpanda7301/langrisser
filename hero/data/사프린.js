@@ -151,7 +151,7 @@ var data = [
       "SPOpenConditions": null,
       "Skills": [
         {
-          "Name": "썬더",
+          "Name": "번개 사슬",
           "Cost": "COST 1",
           "Entries": [
             {
@@ -164,7 +164,7 @@ var data = [
             },
             {
               "Label": "사거리",
-              "Value": "2칸"
+              "Value": "1칸"
             },
             {
               "Label": "범위",

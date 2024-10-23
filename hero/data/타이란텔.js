@@ -41,7 +41,7 @@ var data = [
         "Condition": "타이란텔을 출전시켜 시공의 균열 3-1 [정예] 클리어"
       },
       {
-        "Condition": "페트리시아의 도움을 받아 운명의문5 클리어"
+        "Condition": "페트리시아의 도움을 받아 운명의문4 클리어"
       },
       {
         "Condition": "불멸의 황제 전직"
@@ -121,8 +121,8 @@ var data = [
         "MagicDefRate": 67,
         "Skill": 140,
         "SkillRate": 40,
-        "HeartFetterBouns1": "피격으로 전투 진입 시<br/>받는 피해 <font color=\"red\">-10%</font>",
-        "HeartFetterBouns2": "부대 생명이 <font color=\"red\">100%</font>일 경우 <br/>주는 피해량 <font color=\"red\">+10%</font>"
+        "HeartFetterBouns1": "<b>부대 생명이 <font color=\"red\">100%</font>일 경우</b><br/>받는 피해 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "<b>공격받았을 때,</b><br/>전투 중 주는 피해량 <font color=\"red\">+10%</font>"
       },
       {
         "Name": "종말의 맹세",
@@ -150,8 +150,8 @@ var data = [
         "MagicDefRate": 72,
         "Skill": 157,
         "SkillRate": 45,
-        "HeartFetterBouns1": "부대 생명이 <font color=\"red\">80%</font> 초과 시<br/>받는 치명타 확률 <font color=\"red\">-10%</font>",
-        "HeartFetterBouns2": "생명 백분비가 자신의 부대보다 낮은 적과 교전 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>"
+        "HeartFetterBouns1": "<b>부대 생명이 <font color=\"red\">80%</font> 초과 시</b><br/>받는 치명타 확률 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "<b>생명 백분비가 자신의 부대보다 낮은 적과 교전 시</b><br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>"
       }
     ],
     "Materials": {

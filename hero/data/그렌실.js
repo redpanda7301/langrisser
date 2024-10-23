@@ -85,7 +85,7 @@ var data = [
     "SPTalent": null,
     "Second_Awaken": {
       "Name": "혹한의 검",
-      "Stats": "전투 진입 전, 적이 보유한 <font color=\"blue\">이동력 증가 버프</font>를 <font color=\"red\">이동력 증가 버프</font>로 전환<br/>지속 <font color=\"Red\">1</font>행동<br/><font color=\"blue\">혹한의 방패</font>에 추가 지휘 효과 부여<br/><font color=\"blue\">지휘</font> : 주위 <font color=\"Red\">2</font>칸 범위 안 모든 아군 공격 지력 <font color=\"Red\">+10%</font>"
+      "Stats": "전투 진입 전, 적이 보유한 <font color=\"blue\">이동력 증가 버프</font>를 <font color=\"red\">이동력 감소 디버프</font>로 전환<br/>지속 <font color=\"Red\">1</font>행동<br/><font color=\"blue\">혹한의 방패</font>에 추가 지휘 효과 부여<br/><font color=\"blue\">지휘</font> : 주위 <font color=\"Red\">2</font>칸 범위 안 모든 아군 공격 지력 <font color=\"Red\">+10%</font>"
     },
     "Equip": {
       "EqpName": "겨울 서리의 자긍심(투구)",
