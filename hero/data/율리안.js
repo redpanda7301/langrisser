@@ -79,7 +79,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "목숨을 삼키는 기습",
+      "Stats": "공격 <font color=\"red\">+5%</font><br/>선공으로 전투 진입 전, 전장에 생명 <font color=\"red\">100%</font> 미만의 적이 있을 경우 목표에게 공격 <font color=\"red\">2</font>배 수치 고정 피해"
+    },
     "Equip": {
       "EqpName": "집행자의 침묵(투구)",
       "Stats": "생명 437,마방 59",

@@ -83,7 +83,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "티없는 가호",
+      "Stats": "지력 <font color=\"red\">+10%</font><br/>아군에게 <font color=\"blue\">스킬</font> 사용 시 추가로 디버프 <font color=\"red\">2</font>개 제거"
+    },
     "Equip": {
       "EqpName": "성광의 베일(갑옷)",
       "Stats": "생명 583, 방어 54",

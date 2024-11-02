@@ -127,7 +127,10 @@ var data = [
         ]
       }
     ],
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "암광의 가호",
+      "Stats": "지력 <font color=\"red\">+5%</font><br/>부대 사거리 <font color=\"red\">+1</font><br/><font color=\"blue\">스킬</font>로 공격 전, 선택한 목표 수에 따라 랜덤한 버프 획득"
+    },
     "Equip": {
       "EqpName": "검정 드레스(갑옷)",
       "Stats": "생명 583, 방어 54",

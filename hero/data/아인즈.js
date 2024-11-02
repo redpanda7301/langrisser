@@ -79,7 +79,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "불사자 왕의 위엄",
+      "Stats": "지력 <font color=\"red\">+10%</font><br/>버프 지속 시간 <font color=\"red\">+1</font>"
+    },
     "Equip": null,
     "Soldiers": [
       "다크엘프 저격수",
