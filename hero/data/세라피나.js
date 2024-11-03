@@ -76,7 +76,12 @@ var data = [
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "(갑옷)",
+      "Stats": "생명 437, 방어 65",
+      "Icon": "세라피나.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/>지나간 적에게 <font color=\"blue\">랜덤한 디버프</font> <font color=\"red\">1</font>개 부여<br/>적에게 피해를 입힌 후 (고정 피해 포함) <font color=\"blue\">랜덤한 강력 디버프</font> <font color=\"red\">1</font>개 부여"
+    },
     "Soldiers": [
       "중장 보병",
       "근위기병",
