@@ -107,7 +107,10 @@ var data = [
         ]
       }
     ],
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "빛의 서약",
+      "Stats": "<font color=\"blue\">굳건한 방어</font> 버프 지속 시간 <font color=\"red\">+1</font>턴, 최대 중첩 횟수 <font color=\"red\">+1</font><br/><font color=\"blue\">온 마을의 희망</font> 사용 후 행동 종료 시, 추가로 모든 <font color=\"blue\">빛의 군단</font> 아군이 위치한 곳에 <font color=\"purple\">나의 영역</font> 효과 부여"
+    },
     "Equip": {
       "EqpName": "꿈을 쫓는 이의 관(투구)",
       "Stats": "생명 583,마방 48",

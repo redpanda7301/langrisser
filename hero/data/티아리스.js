@@ -38,20 +38,20 @@ var data = [
     "Rank": [
       0
     ],
-    "SP": false,
+    "SP": true,
     "Groups": [
       "주인공",
       "기원",
       "공주"
     ],
     "HP": 10,
-    "SPHP": 0,
+    "SPHP": 20,
     "Attk": 10,
-    "SPAttk": 0,
+    "SPAttk": 20,
     "Def": 40,
-    "SPDef": 0,
+    "SPDef": 30,
     "MagicDef": 40,
-    "SPMagicDef": 0,
+    "SPMagicDef": 30,
     "HowToGet": "영웅 소환",
     "Fetters": [
       {
@@ -94,8 +94,36 @@ var data = [
         ]
       }
     ],
-    "SPTalent": null,
-    "Second_Awaken": null,
+    "SPTalent": [
+      {
+        "Name": "영원한 송가",
+        "Icon": "SP_Gift_Elwin.webp",
+        "Abilities": [
+          {
+            "Desc": "1성"
+          },
+          {
+            "Desc": "2성"
+          },
+          {
+            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">50</font>% 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴"
+          },
+          {
+            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">60</font>% 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴"
+          },
+          {
+            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">80</font>% 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴"
+          },
+          {
+            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">100</font>% 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴"
+          }
+        ]
+      }
+    ],
+    "Second_Awaken": {
+      "Name": "빛의 인도",
+      "Stats": "지력 <font color=\"red\">+5</font>%<br/>부여하는 버프 지속 시간 <font color=\"red\">+1</font>턴"
+    },
     "Equip": {
       "EqpName": "소녀의 희망(투구)",
       "Stats": "생명 364,마방 65",
@@ -111,7 +139,8 @@ var data = [
       "마녀",
       "템플러",
       "공성 발리스타",
-      "꽃과 바람의 성가대"
+      "꽃과 바람의 성가대",
+      "요정예언자"
     ],
     "Jobs": [
       {
@@ -155,8 +184,52 @@ var data = [
         "MagicDefRate": 90,
         "Skill": 96,
         "SkillRate": 27,
-        "HeartFetterBouns1": "생명이 100%일때 받는피해 -10%",
-        "HeartFetterBouns2": "공격하여 전투진입시 입히는피해 +10%"
+        "HeartFetterBouns1": "생명이 <font color=\"red\">100</font>%일 때<br/>받는 피해 <font color=\"red\">-10</font>%",
+        "HeartFetterBouns2": "선공으로 전투 진입 시<br/>입히는 피해 <font color=\"red\">+10</font>%"
+      },
+      {
+        "Name": "여명의 성기사",
+        "Icon": "SP승려",
+        "SD": [
+          {
+            "ImageUrl": "티아리스/1/1.webp"
+          },
+          {
+            "ImageUrl": "티아리스/2/1.webp"
+          },
+          {
+            "ImageUrl": "티아리스/3/1.webp"
+          },
+          {
+            "ImageUrl": "티아리스/4/1.webp"
+          },
+          {
+            "ImageUrl": "티아리스/5/1.webp"
+          },
+          {
+            "ImageUrl": "티아리스/6/1.webp"
+          },
+          {
+            "ImageUrl": "티아리스/7/1.webp"
+          }
+        ],
+        "AttkRange": 2,
+        "Move": 5,
+        "MoveType": "야전",
+        "HP": 3527,
+        "HPRate": 54,
+        "Attk": 294,
+        "AttkRate": 45,
+        "Int": 584,
+        "IntRate": 89,
+        "Def": 279,
+        "DefRate": 62,
+        "MagicDef": 375,
+        "MagicDefRate": 83,
+        "Skill": 96,
+        "SkillRate": 27,
+        "HeartFetterBouns1": "근접 공격 피격 시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
+        "HeartFetterBouns2": "선공으로 전투 진입 시<br/>입히는 피해 <font color=\"red\">+10</font>%"
       },
       {
         "Name": "유니콘 마스터",
@@ -199,8 +272,8 @@ var data = [
         "MagicDefRate": 77,
         "Skill": 125,
         "SkillRate": 36,
-        "HeartFetterBouns1": "원거리 공격을 받아 전투진입시 받는 물리피해 -10%",
-        "HeartFetterBouns2": "마법공격을 받아 전투진입시 입히는피해 +10%"
+        "HeartFetterBouns1": "원거리 공격을 받아 전투 진입 시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
+        "HeartFetterBouns2": "마법공격을 받아 전투 진입 시<br/>입히는 피해 <font color=\"red\">+10</font>%"
       }
     ],
     "Materials": {
@@ -423,7 +496,178 @@ var data = [
         ]
       }
     ],
-    "SPOpenConditions": null,
+    "SPOpenConditions": [
+      {
+        "Name": "개방",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/AlterEgo_Elwin.webp",
+            "Amount": 1
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "1단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank8-4.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank7-5.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank6-7.webp",
+            "Amount": 50
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "1단계 미션",
+        "Materials": [],
+        "Desc": "티아리스를 포함한 파티를 짜서 형귀 헬스장 나임(승병) 60레벨 이상 클리어"
+      },
+      {
+        "Name": "2단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/item/스알열쇠.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/알열쇠.webp",
+            "Amount": 50
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "2단계 미션",
+        "Materials": [],
+        "Desc": "소녀의 희망(투구) 레벨 50 달성"
+      },
+      {
+        "Name": "3단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/룬스톤.webp",
+            "Amount": 2
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "3단계 미션",
+        "Materials": [],
+        "Desc": "티아리스를 포함한 파티를 짜서 여신의 시련 - 뇌룡 카르코사 60레벨 클리어"
+      },
+      {
+        "Name": "",
+        "Materials": [],
+        "Desc": "여명의 성기사 전직 가능, 영원의 송가(SP 고유기술)스킬 획득, SP 일러스트 획득"
+      },
+      {
+        "Name": "4단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/heart/h1.webp",
+            "Amount": 60
+          },
+          {
+            "MaterialImgUrl": "../img/heart/h1-1.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/heart/x.webp",
+            "Amount": 12
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "4단계 미션",
+        "Materials": [],
+        "Desc": "티아리스를 포함한 파티를 짜서 형귀 헬스장 샘슨(기병) 65레벨 이상 클리어"
+      },
+      {
+        "Name": "5단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+            "Amount": 5
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "5단계 미션",
+        "Materials": [],
+        "Desc": "티아리스를 포함한 파티를 짜서 여신의 시련 - 빙룡 아산테 65레벨 이상 클리어"
+      },
+      {
+        "Name": "6단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+            "Amount": 600
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Holy1.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Holy3.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Holy5.webp",
+            "Amount": 5
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "6단계 미션",
+        "Materials": [],
+        "Desc": "티아리스를 포함한 파티를 짜서 영원의 신전 - 리바이엘 65레벨 이상 클리어"
+      },
+      {
+        "Name": "",
+        "Materials": [],
+        "Desc": "SP 스탯, SP 스킬 2개 활성화, 요정예언자 고용가능"
+      }
+    ],
     "Skills": [
       {
         "Name": "힐",

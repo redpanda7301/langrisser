@@ -324,8 +324,8 @@ var data = [
         "Animation": null
       },
       {
-        "Name": "주문 직격",
-        "Cost": "COST 1",
+        "Name": "근원 정화",
+        "Cost": "COST 2",
         "Entries": [
           {
             "Label": "유형",

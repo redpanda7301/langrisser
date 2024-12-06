@@ -76,7 +76,12 @@ var data = [
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "운명지어진 왕의 검(무기)",
+      "Stats": "생명 437, 공격력 107",
+      "Icon": "시온.webp",
+      "Ability": "공격력 <font color=\"red\">+10%</font><br/>매 전투 시작 시 <font color=\"blue\">왕명</font> 획득.<br/><font color=\"blue\">왕명</font>이나 <font color=\"blue\">천명</font>을 보유했을 경우<br/>선공으로 전투 진입 시 죽지 않으며, 이동하는 모든 지형을 평지로 간주"
+    },
     "Soldiers": [
       "중장 보병",
       "광전사",
