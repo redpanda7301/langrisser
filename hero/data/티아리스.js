@@ -106,23 +106,23 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">50</font>% 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴"
+            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">50%</font> 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴)"
           },
           {
-            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">60</font>% 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴"
+            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">60%</font> 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴)"
           },
           {
-            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">80</font>% 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴"
+            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">80%</font> 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴)"
           },
           {
-            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">100</font>% 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴"
+            "Desc": "행동 종료 시 주위 <font color=\"red\">3</font>칸 내 아군에게 <font color=\"blue\">치료</font> 효과 부여.<br/><font color=\"blue\">치료</font>: 피해를 받은 후 <font color=\"red\">100%</font> 확률로 시전자 지력의 <font color=\"red\">2.5</font>배만큼 생명 회복.<br/>아군에게 스킬 사용 시 <font color=\"blue\">치유의 방패</font> 부여<br/><font color=\"blue\">치유의 방패</font>: 시전자 지력 <font color=\"red\">3</font>배 수치의 피해 방어, 해제 불가<br/>스킬이 명중하는 아군 <font color=\"red\">1</font>명당 현재 쿨타임이 가장 긴 스킬 쿨 <font color=\"red\">-1</font>턴 (최대 <font color=\"red\">-3</font>턴)"
           }
         ]
       }
     ],
     "Second_Awaken": {
       "Name": "빛의 인도",
-      "Stats": "지력 <font color=\"red\">+5</font>%<br/>부여하는 버프 지속 시간 <font color=\"red\">+1</font>턴"
+      "Stats": "지력 <font color=\"red\">+5%</font><br/>부여하는 버프 지속 시간 <font color=\"red\">+1</font>턴"
     },
     "Equip": {
       "EqpName": "소녀의 희망(투구)",
@@ -184,8 +184,8 @@ var data = [
         "MagicDefRate": 90,
         "Skill": 96,
         "SkillRate": 27,
-        "HeartFetterBouns1": "생명이 <font color=\"red\">100</font>%일 때<br/>받는 피해 <font color=\"red\">-10</font>%",
-        "HeartFetterBouns2": "선공으로 전투 진입 시<br/>입히는 피해 <font color=\"red\">+10</font>%"
+        "HeartFetterBouns1": "생명이 <font color=\"red\">100%</font>일 때<br/>받는 피해 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "선공으로 전투 진입 시<br/>입히는 피해 <font color=\"red\">+10%</font>"
       },
       {
         "Name": "여명의 성기사",
@@ -228,8 +228,8 @@ var data = [
         "MagicDefRate": 83,
         "Skill": 96,
         "SkillRate": 27,
-        "HeartFetterBouns1": "근접 공격 피격 시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
-        "HeartFetterBouns2": "선공으로 전투 진입 시<br/>입히는 피해 <font color=\"red\">+10</font>%"
+        "HeartFetterBouns1": "근접 공격 피격 시<br/>받는 물리 피해 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "선공으로 전투 진입 시<br/>입히는 피해 <font color=\"red\">+10%</font>"
       },
       {
         "Name": "유니콘 마스터",
@@ -272,8 +272,8 @@ var data = [
         "MagicDefRate": 77,
         "Skill": 125,
         "SkillRate": 36,
-        "HeartFetterBouns1": "원거리 공격을 받아 전투 진입 시<br/>받는 물리 피해 <font color=\"red\">-10</font>%",
-        "HeartFetterBouns2": "마법공격을 받아 전투 진입 시<br/>입히는 피해 <font color=\"red\">+10</font>%"
+        "HeartFetterBouns1": "원거리 공격을 받아 전투 진입 시<br/>받는 물리 피해 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "마법공격을 받아 전투 진입 시<br/>입히는 피해 <font color=\"red\">+10%</font>"
       }
     ],
     "Materials": {
@@ -888,6 +888,42 @@ var data = [
         ],
         "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
         "Desc": "[패시브]행동 종료 시 근접한 <font color=\"red\">1개</font> 아군 부대의 공격, 지력 <font color=\"red\">+15%</font> 및<br/>면역: '공격, 지력 감소', '침묵', <font color=\"red\">1턴</font> 지속.",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
+        "Name": "성스러운 빛의 가호",
+        "Cost": "COST 1",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "패시브"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
+        "Desc": "[패시브]일반 공격 사거리 <font color=\"red\">+2</font> 및 <font color=\"red\">1.5</font>배 피해, 원거리 공격 병사 대동 시 함께 공격.<br/>선공으로 피해를 입힌 후 <font color=\"blue\">치유 (치유의 빛)</font> 및 <font color=\"blue\">치유 (영원의 송가)</font>를 보유한 아군 부대의 생명을 자신 지력의 <font color=\"red\">2</font>배 만큼 회복.",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
+        "Name": "휴식 공간",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "치료"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "2턴"
+          },
+          {
+            "Label": "범위",
+            "Value": "3칸"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Skill_SacredRay.webp",
+        "Desc": "[지휘]주위 <font color=\"red\">3</font>칸 이내 모든 아군에게 <font color=\"blue\">면역: 이동력 감소</font> 효과, 받는 고정 피해 <font color=\"red\">-35%</font> 효과 부여<br/>[치료]액티브, 범위 내 모든 아군에게 걸린 디버프 <font color=\"red\">1</font>개 제거 및 시전자 지력 <font color=\"red\">3</font>배 수치 생명 회복. 동시에 목표 중심에 '<font color=\"purple\">휴식 공간</font>' 효과 부여.<br/><font color=\"purple\">휴식 공간</font>: 지휘, 주위 <font color=\"red\">3</font>칸 범위 안 모든 아군에게 <font color=\"blue\">방어</font>, <font color=\"blue\">마방</font> <font color=\"red\">+15%</font>. 행동 종료 시 시전자 지력 <font color=\"red\">3</font>배 수치 생명 회복. 지속 <font color=\"red\">2</font>턴.<br/>휴식 공간은 비교적 높은 지형 우선순위를 가짐",
         "SubSkills": null,
         "Animation": null
       },
