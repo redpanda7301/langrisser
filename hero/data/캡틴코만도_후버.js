@@ -56,16 +56,16 @@
           "Desc": "2성"
         },
         {
-          "Desc": "범위 피해 <font color=\"red\">+15%</font><br/>병사가 없는 적과 교전 시 <font color=\"red\">+150%</font>까지 상승<br/>선공 후, '<font color=\"purple\">전투 열정</font>' 획득<br/><font color=\"purple\">전투 열정</font> : 이동력 <font color=\"red\">+1</font>, 공방 <font color=\"red\">+10</font>%<br/>최대 <font color=\"red\">3</font>중첩<br/>해제 불가, 지속 <font color=\"red\">2</font>행동"
+          "Desc": "범위 피해 <font color=\"red\">+15%</font><br/>병사가 없는 적과 교전 시 <font color=\"red\">+150%</font>까지 상승<br/>선공 후, '<font color=\"purple\">전투 열정</font>' 획득<br/><font color=\"purple\">전투 열정</font> : 이동력 <font color=\"red\">+1</font>, 공방 <font color=\"red\">+10</font>%<br/>최대 <font color=\"red\">3</font>중첩<br/>해제 불가, 지속 <font color=\"red\">2</font>행동</br><font color=\"purple\">전투 열정</font>이 최대 스택인 상황에서 행동 종료 시 <font color=\"blue\">재행동</font> (쿨타임 <font color=\"red\">4</font>턴, 해당 재행동은 버프 지속시간을 소모하지 않음)"
         },
         {
-          "Desc": "범위 피해 <font color=\"red\">+20%</font><br/>병사가 없는 적과 교전 시 <font color=\"red\">+200%</font>까지 상승<br/>선공 후, '<font color=\"purple\">전투 열정</font>' 획득<br/><font color=\"purple\">전투 열정</font> : 이동력 <font color=\"red\">+1</font>, 공방 <font color=\"red\">+10</font>%<br/>최대 <font color=\"red\">3</font>중첩<br/>해제 불가, 지속 <font color=\"red\">2</font>행동"
+          "Desc": "범위 피해 <font color=\"red\">+20%</font><br/>병사가 없는 적과 교전 시 <font color=\"red\">+200%</font>까지 상승<br/>선공 후, '<font color=\"purple\">전투 열정</font>' 획득<br/><font color=\"purple\">전투 열정</font> : 이동력 <font color=\"red\">+1</font>, 공방 <font color=\"red\">+10</font>%<br/>최대 <font color=\"red\">3</font>중첩<br/>해제 불가, 지속 <font color=\"red\">2</font>행동</br><font color=\"purple\">전투 열정</font>이 최대 스택인 상황에서 행동 종료 시 <font color=\"blue\">재행동</font> (쿨타임 <font color=\"red\">3</font>턴, 해당 재행동은 버프 지속시간을 소모하지 않음)"
         },
         {
-          "Desc": "범위 피해 <font color=\"red\">+25%</font><br/>병사가 없는 적과 교전 시 <font color=\"red\">+250%</font>까지 상승<br/>선공 후, '<font color=\"purple\">전투 열정</font>' 획득<br/><font color=\"purple\">전투 열정</font> : 이동력 <font color=\"red\">+1</font>, 공방 <font color=\"red\">+10</font>%<br/>최대 <font color=\"red\">3</font>중첩<br/>해제 불가, 지속 <font color=\"red\">2</font>행동"
+          "Desc": "범위 피해 <font color=\"red\">+25%</font><br/>병사가 없는 적과 교전 시 <font color=\"red\">+250%</font>까지 상승<br/>선공 후, '<font color=\"purple\">전투 열정</font>' 획득<br/><font color=\"purple\">전투 열정</font> : 이동력 <font color=\"red\">+1</font>, 공방 <font color=\"red\">+10</font>%<br/>최대 <font color=\"red\">3</font>중첩<br/>해제 불가, 지속 <font color=\"red\">2</font>행동</br><font color=\"purple\">전투 열정</font>이 최대 스택인 상황에서 행동 종료 시 <font color=\"blue\">재행동</font> (쿨타임 <font color=\"red\">2</font>턴, 해당 재행동은 버프 지속시간을 소모하지 않음)"
         },
         {
-          "Desc": "범위 피해 <font color=\"red\">+30%</font><br/>병사가 없는 적과 교전 시 <font color=\"red\">+300%</font>까지 상승<br/>선공 후, '<font color=\"purple\">전투 열정</font>' 획득<br/><font color=\"purple\">전투 열정</font> : 이동력 <font color=\"red\">+1</font>, 공방 <font color=\"red\">+10</font>%<br/>최대 <font color=\"red\">3</font>중첩<br/>해제 불가, 지속 <font color=\"red\">2</font>행동"
+          "Desc": "범위 피해 <font color=\"red\">+30%</font><br/>병사가 없는 적과 교전 시 <font color=\"red\">+300%</font>까지 상승<br/>선공 후, '<font color=\"purple\">전투 열정</font>' 획득<br/><font color=\"purple\">전투 열정</font> : 이동력 <font color=\"red\">+1</font>, 공방 <font color=\"red\">+10</font>%<br/>최대 <font color=\"red\">3</font>중첩<br/>해제 불가, 지속 <font color=\"red\">2</font>행동</br><font color=\"purple\">전투 열정</font>이 최대 스택인 상황에서 행동 종료 시 <font color=\"blue\">재행동</font> (쿨타임 <font color=\"red\">2</font>턴, 해당 재행동은 버프 지속시간을 소모하지 않음)"
         }
       ]
     }
