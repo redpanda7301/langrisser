@@ -8,7 +8,7 @@ var data = [
       {
         "ImageUrl": "란델/2.webp",
         "Desc": "빛의 메아리"
-      },
+      }
     ],
     "Name": "란델",
     "ChName": "兰黛尔",
@@ -98,7 +98,7 @@ var data = [
           },
           {
             "ImageUrl": "란델/2/1.webp"
-          },
+          }
         ],
         "AttkRange": 2,
         "Move": 3,
@@ -127,7 +127,7 @@ var data = [
           },
           {
             "ImageUrl": "란델/2/1.webp"
-          },
+          }
         ],
         "AttkRange": 2,
         "Move": 3,
