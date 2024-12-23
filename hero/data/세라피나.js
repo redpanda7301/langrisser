@@ -108,6 +108,9 @@ var data = [
           },
           {
             "ImageUrl": "세라피나/2/1.webp"
+          },
+          {
+            "ImageUrl": "세라피나/3/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -137,6 +140,9 @@ var data = [
           },
           {
             "ImageUrl": "세라피나/2/1.webp"
+          },
+          {
+            "ImageUrl": "세라피나/3/1.webp"
           }
         ],
         "AttkRange": 2,

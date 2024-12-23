@@ -400,7 +400,7 @@ var data = [
         "Animation": "../img/Super/엔야_Ani.webp"
       }
     ],
-    "Propose": false,
+    "Propose": true,
     "Bio": null,
     "Performance": null,
     "Performance2": null,

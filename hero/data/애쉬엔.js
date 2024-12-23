@@ -102,6 +102,9 @@ var data = [
           },
           {
             "ImageUrl": "애쉬엔/2/1.webp"
+          },
+          {
+            "ImageUrl": "애쉬엔/3/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -131,6 +134,9 @@ var data = [
           },
           {
             "ImageUrl": "애쉬엔/2/2.webp"
+          },
+          {
+            "ImageUrl": "애쉬엔/3/2.webp"
           }
         ],
         "AttkRange": 1,
