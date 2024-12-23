@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "세라피나/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "세라피나/3.webp",
+        "Desc": "형귀스킨"
       }
     ],
     "Name": "세라피나",

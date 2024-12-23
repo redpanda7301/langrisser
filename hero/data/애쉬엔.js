@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "애쉬엔/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "애쉬엔/3.webp",
+        "Desc": "한정 판매"
       }
     ],
     "Name": "애쉬엔",

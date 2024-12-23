@@ -80,7 +80,7 @@ var data = [
       "EqpName": "새벽바람(갑옷)",
       "Stats": "생명 583, 방어 54",
       "Icon": "제이스.webp",
-      "Ability": "생명 <font color=\"red\">+10%</font><br/>피해를 입히지 않고 행동 종료 시, 현재 쿨타임이 가장 짧은 스킬 쿨 <font color=\"red\">-1</font><br/>전장에 있는 <font color=\"purple\">마법의 빛나는 흔적</font> <font color=\"red\">1</font>개당 적 마방 <font color=\"red\">5%</font> 무시 (최대 <font color=\"red\">20%</font>)"
+      "Ability": "생명 <font color=\"red\">+10%</font><br/>피해를 입히고 행동 종료 시, 현재 쿨타임이 가장 짧은 스킬 쿨 <font color=\"red\">-1</font><br/>전장에 있는 <font color=\"purple\">마법의 빛나는 흔적</font> <font color=\"red\">1</font>개당 적 마방 <font color=\"red\">5%</font> 무시 (최대 <font color=\"red\">20%</font>)"
     },
     "Soldiers": [
       "마녀",
@@ -269,7 +269,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Jayce/1.webp",
-        "Desc": "범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 목표 위치에 '<font color=\"purple\">빛의 소용돌이</font>' 효과 부여<br/><font color=\"purple\">빛의 소용돌이</font>[<font color=\"blue\">지휘</font>] 주위 <font color=\"red\">2</font>칸 범위 안 적군 마방 <font color=\"red\">-10%</font><br/><font color=\"blue\">지휘</font> 범위 밖으로 이동 시 칸마다 추가 이동력 <font color=\"red\">1</font> 소모<br/>지휘 범위 안에서 행동 종료 시 <font color=\"blue\">빛의 소용돌이</font> 중심으로 <font color=\"blue\">텔레포트</font><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"blue\">빛의 소용돌이</font> 효과는 지형 효과에서 우선",
+        "Desc": "범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 목표 위치에 '<font color=\"purple\">빛의 소용돌이</font>' 효과 부여<br/><font color=\"purple\">빛의 소용돌이</font>[<font color=\"blue\">지휘</font>] 주위 <font color=\"red\">2</font>칸 범위 안 적군 마방 <font color=\"red\">-10%</font><br/><font color=\"blue\">지휘</font> 범위 밖으로 이동 시 칸마다 추가 이동력 <font color=\"red\">1</font> 소모<br/>지휘 범위 안에서 행동 종료 시 <font color=\"purple\">빛의 소용돌이</font> 중심으로 <font color=\"blue\">텔레포트</font><br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"purple\">빛의 소용돌이</font> 효과는 지형 효과에서 우선",
         "SubSkills": null,
         "Animation": null
       },
