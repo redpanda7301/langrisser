@@ -50,7 +50,7 @@ var data = [
     "HeartFetter": "",
     "Talent": [
       {
-        "Name": "성스러운 빛의 계약",
+        "TalentName": "성스러운 빛의 계약",
         "Icon": "Gift_Brightsummoner.webp",
         "Abilities": [
           {

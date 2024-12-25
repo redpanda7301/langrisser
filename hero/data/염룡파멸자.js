@@ -50,7 +50,7 @@ var data = [
       "HeartFetter": "",
       "Talent": [
         {
-          "Name": "끝없는 격노",
+          "TalentName": "끝없는 격노",
           "Icon": "Gift_Temp.webp",
           "Abilities": [
             {
@@ -91,7 +91,7 @@ var data = [
       "Jobs": [
         {
           "Name": "염옥의 지배자",
-          "Icon": "마족LLR",
+          "Icon": "마물LLR",
           "SD": [
             {
               "ImageUrl": "염룡파멸자/1/1.webp"

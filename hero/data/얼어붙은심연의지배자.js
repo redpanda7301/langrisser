@@ -50,7 +50,7 @@ var data = [
     "HeartFetter": "",
     "Talent": [
       {
-        "Name": "얼어붙은 심연의 여왕",
+        "TalentName": "얼어붙은 심연의 여왕",
         "Icon": "Gift_Soia.webp",
         "Abilities": [
           {
