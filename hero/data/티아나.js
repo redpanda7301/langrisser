@@ -80,7 +80,7 @@ var data = [
       "EqpName": "고독한 기사의 결의(투구)",
       "Stats": "생명 437,마방 59",
       "Icon": "티아나.webp",
-      "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">수호</font> 효과를 지닌 아군을 대신해 전투 진입 후, <font color=\"blue\">선제기습</font> 효과 획득 (지속 <font color=\"red\">2</font>턴)<br/><font color=\"blue\">고립</font> 효과를 지닌 적 사망 시, 대상 주위 <font color=\"red\">2</font>칸 범위 내 아군 1명에게 <font color=\"blue\">고립</font> 효과 부여"
+      "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">수호</font> 효과를 지닌 아군을 대신해 전투 진입 후, <font color=\"blue\">선제기습</font> 효과 획득 (지속 <font color=\"red\">2</font>턴)<br/><font color=\"blue\">고립</font> 효과를 지닌 적 사망 시, 대상 주위 <font color=\"red\">2</font>칸 범위 내 아군 <font color=\"red\">1</font>명에게 <font color=\"blue\">고립</font> 효과 부여"
     },
     "Soldiers": [
       "발키리",
