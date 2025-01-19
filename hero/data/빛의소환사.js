@@ -132,7 +132,7 @@ var data = [
         ],
         "AttkRange": 2,
         "Move": 3,
-        "MoveType": "보행",
+        "MoveType": "야전",
         "HP": 4039,
         "HPRate": 71,
         "Attk": 253,
@@ -205,7 +205,7 @@ var data = [
         "Animation": null
       },
       {
-        "Name": "징벌",
+        "Name": "빛의 징벌",
         "Cost": "COST 2",
         "Entries": [
           {
@@ -226,7 +226,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_ValkCrash.webp",
-        "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 <font color=\"green\">회복</font>한다.<br/>근접병사를 휴대할 경우 병사도 같이 공격한다.",
+        "Desc": "단일 적 부대를 공격해 <font color=\"red\">1.5배</font>의 피해를 준다.<br/>전투 후 준 피해량의 <font color=\"red\">20%</font>만큼 생명을 <font color=\"green\">회복</font>한다.",
         "SubSkills": null,
         "Animation": null
       },
@@ -356,7 +356,7 @@ var data = [
         "Desc": "빛의 소환사가 보유한 '<font color=\"blue\">치유량 증가</font>' 효과를<br/>해당 효과의 <font color=\"red\">40%</font> 수치만큼 '<font color=\"blue\">주는 피해량 증가</font>' 효과로 받음<br/>부대 사거리 <font color=\"red\">+2</font><br/><font color=\"blue\">자신의 보유한 버프 효과 지속 시간</font> <font color=\"red\">+1</font>",
         "SubSkills": [
           {
-            "Name": "빛의 전투 기도",
+            "Name": "빛의 성역",
             "Cost": "COST 1",
             "Entries": [
               {
@@ -392,7 +392,7 @@ var data = [
             "Desc": "범위 내 아군들에게 시전자 지력 <font color=\"red\">3</font>배의 생명 <font color=\"green\">회복</font> 및<br/><font color=\"blue\">주는 피해량</font> <font color=\"red\">+15%</font>, 받는 피해량 <font color=\"red\">-15%</font> 부여<br/>지속 <font color=\"red\">2</font>행동"
           },
           {
-            "Name": "빛의 성역",
+            "Name": "빛의 전투 기도",
             "Cost": "COST 2",
             "Entries": [
               {
@@ -521,7 +521,7 @@ var data = [
         "Animation": null
       },
       {
-        "Name": "턴 언데드",
+        "Name": "빛의 구원",
         "Cost": "COST 2",
         "Entries": [
           {
@@ -541,8 +541,8 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/Skill_ValkCrash2.webp",
-        "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/>'마물'에게 더큰 피해를 준다.<br/><b>전투 후</b> 대상의 <font color =\"blue\">버프</font>를 <font color =\"red\">2</font>개 제거한다.",
+        "IconImageUrl": "../img/skills/Skill_ValkSuper.webp",
+        "Desc": "[마법 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 모든 다른 아군의 생명을 회복시킨다. 회복량은 자신 지력의 2배.",
         "SubSkills": null,
         "Animation": null
       },
@@ -643,7 +643,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/Super/빛의소환사_1.webp",
-            "Desc": "[패시브]<font color=\"blue\">유니콘 소환</font> 시, 전장의 모든 빛의 군단 아군 공방 대폭 증가 및<br/>전투 중 입히는 피해 <font color=\"red\">+15</font>%<br/>선공으로 전투 진입 시, 전투 후 생명 수치가 가장 낮은 아군 생명 <font color=\"green\">회복</font><br/>(지력 <font color=\"red\">2</font>배 수치)<br/>지속 <font color=\"red\">4</font>행동<br/>다른 초절 강화 기술과 중첩 불가<br/>[마법피해]단일 개체 <font color=\"red\">1.5</font>배 피해.<br/>전투 후, 다른 모든 아군 생명 회복 (지력 <font color=\"red\">2</font>배 수치) 및 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font>.<br/>공격 전, 해당 부대 입히는 피해 <font color=\"red\">+20</font>%, 받는 피해 <font color=\"red\">-20</font>% 효과 부여, 지속 <font color=\"red\">2</font>행동.<br/>적 영웅이 '마족'일 경우, 전투 전 <font color=\"blue\">기절</font> 부여<br/>지속 <font color=\"red\">1</font>행동<br/>해제 불가."
+            "Desc": "[패시브]<font color=\"blue\">유니콘 소환</font> 시, 전장의 모든 빛의 군단 아군 공방 대폭 증가 및<br/>전투 중 입히는 피해 <font color=\"red\">+15</font>%<br/>선공으로 전투 진입 시, 전투 후 생명 수치가 가장 낮은 아군 생명 <font color=\"green\">회복</font><br/>(지력 <font color=\"red\">2</font>배 수치)<br/>지속 <font color=\"red\">4</font>행동<br/>다른 초절 강화 기술과 중첩 불가<br/>[마법피해]단일 개체 <font color=\"red\">1.6</font>배 피해.<br/>전투 후, 다른 모든 아군 생명 회복 (지력 <font color=\"red\">2</font>배 수치) 및 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font>.<br/>공격 전, 해당 부대 입히는 피해 <font color=\"red\">+20</font>%, 받는 피해 <font color=\"red\">-20</font>% 효과 부여, 지속 <font color=\"red\">2</font>행동.<br/>적 영웅이 '마족'일 경우, 전투 전 <font color=\"blue\">기절</font> 부여<br/>지속 <font color=\"red\">1</font>행동<br/>해제 불가."
           }
         ],
         "Animation": "../img/Super/빛의소환사_Ani.webp"
