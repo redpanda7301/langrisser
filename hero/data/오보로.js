@@ -15,7 +15,7 @@ var data = [
       },
       {
         "ImageUrl": "오보로/4.webp",
-        "Desc": "한정판매"
+        "Desc": "서밋아레나 S17 패자스킨"
       }
     ],
     "Name": "오보로",

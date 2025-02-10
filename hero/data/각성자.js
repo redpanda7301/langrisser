@@ -15,7 +15,7 @@ var data = [
       },
       {
         "ImageUrl": "각성자/4.webp",
-        "Desc": "한정판매"
+        "Desc": "서밋아레나 S19 패자스킨"
       }
     ],
     "Name": "각성자",
