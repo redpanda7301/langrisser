@@ -51,7 +51,7 @@ var data = [
       "Talent": [
         {
           "TalentName": "비천의 춤",
-          "Icon": "Gift_Temp.webp",
+          "Icon": "Gift_Nyotengu.webp",
           "Abilities": [
             {
               "Desc": "1성"

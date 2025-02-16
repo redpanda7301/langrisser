@@ -51,7 +51,7 @@ var data = [
       "Talent": [
         {
           "TalentName": "시스테마",
-          "Icon": "Gift_Temp.webp",
+          "Icon": "Gift_MarieRose.webp",
           "Abilities": [
             {
               "Desc": "1성"

@@ -51,7 +51,7 @@ var data = [
       "Talent": [
         {
           "TalentName": "무환천신류",
-          "Icon": "Gift_Temp.webp",
+          "Icon": "Gift_Kasumi.webp",
           "Abilities": [
             {
               "Desc": "1성"
@@ -114,7 +114,7 @@ var data = [
           "Skill": 252,
           "SkillRate": 72,
           "HeartFetterBouns1": "피격으로 전투 진입 시<br/>받는 물리 피해량 <font color=\"red\">-10%</font>",
-          "HeartFetterBouns2": "선공으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">-10%</font>"
+          "HeartFetterBouns2": "선공으로 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
         }
       ],
       "SPOpenConditions": null,

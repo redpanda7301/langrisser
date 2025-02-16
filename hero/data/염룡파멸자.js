@@ -51,7 +51,7 @@ var data = [
       "Talent": [
         {
           "TalentName": "끝없는 격노",
-          "Icon": "Gift_Temp.webp",
+          "Icon": "Gift_Blazingdevastator.webp",
           "Abilities": [
             {
               "Desc": "1성"

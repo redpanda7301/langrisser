@@ -97,7 +97,7 @@ var data = [
     "SPTalent": [
       {
         "Name": "영원한 송가",
-        "Icon": "SP_Gift_Elwin.webp",
+        "Icon": "SP_Gift_Tialice.webp",
         "Abilities": [
           {
             "Desc": "1성"

@@ -51,7 +51,7 @@ var data = [
     "Talent": [
       {
         "TalentName": "상자의 책",
-        "Icon": "Gift_Temp.webp",
+        "Icon": "Gift_Randele.webp",
         "Abilities": [
           {
             "Desc": "1성"
