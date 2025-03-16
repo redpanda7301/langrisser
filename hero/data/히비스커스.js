@@ -223,7 +223,7 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/Hibiscus/Temp1.webp",
+        "IconImageUrl": "../img/skills/Hibiscus/2.webp",
         "Desc": "단일 개체 <font color=\"Red\">1.5</font>배 피해<br/>전투 진입 전 적에게 <font color=\"blue\">받는 치명타 확률</font> <font color=\"Red\">+25%</font>, <font color=\"blue\">받는 치명타 피해</font> <font color=\"Red\">+25%</font> 효과 부여 (지속 <font color=\"Red\">2</font>턴)",
         "SubSkills": null,
         "Animation": null
@@ -289,7 +289,7 @@ var data = [
             "Value": "직선"
           }
         ],
-        "IconImageUrl": "../img/skills/Hibiscus/Temp1.webp",
+        "IconImageUrl": "../img/skills/Hibiscus/1.webp",
         "Desc": "[패시브] 턴 시작 시 랜덤한 인접 아군 <font color=\"Red\">2</font>명에게 '행동 종료 시 주위 <font color=\"Red\">2</font>칸 범위 안 <font color=\"blue\">주시</font>를 보유한 적에게 면역 및 해제 불가의 <font color=\"blue\">파악</font> (지속 <font color=\"Red\">2</font>턴) 부여' 효과 부여 (지속 <font color=\"Red\">1</font>턴)<br/>[물리피해] <font color=\"Red\">1</font>줄 직선 상 적에게 <font color=\"Red\">0.2</font>배 피해 및 <font color=\"blue\">주시</font> 부여.<br/>전투 후 <font color=\"Red\">3</font>칸 <font color=\"blue\">재이동</font><br/>자신이 <font color=\"blue\">물</font>에 있을 경우<br/>해당 스킬 사거리 <font color=\"Red\">+2</font>.",
         "SubSkills": null,
         "Animation": null

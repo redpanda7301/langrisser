@@ -4,10 +4,6 @@ var data = [
         {
           "ImageUrl": "카스미/1.webp",
           "Desc": "기본"
-        },
-        {
-          "ImageUrl": "카스미/2.webp",
-          "Desc": "빛의 메아리"
         }
       ],
       "Name": "카스미",
@@ -93,9 +89,6 @@ var data = [
           "SD": [
             {
               "ImageUrl": "카스미/1/1.webp"
-            },
-            {
-              "ImageUrl": "카스미/2/1.webp"
             }
           ],
           "AttkRange": 1,
@@ -166,7 +159,7 @@ var data = [
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/Kasumi/Temp1.webp",
+          "IconImageUrl": "../img/skills/Kasumi/1.webp",
           "Desc": "액티브. 직선 방향의 빈 곳 혹은 부대에게 사용, <font color=\"blue\">위치 이동</font> 효과 부여 : 자신을 목표 위치로 당긴 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font><br/>해당 효과는 면역 불가<br/>위치 이동 시 부대 이동 방식은 <font color=\"blue\">비행</font>으로 간주<br/>해당 스킬의 재행동은 보유한 버프 지속 시간이 감소하지 않음",
           "SubSkills": null,
           "Animation": null
@@ -272,7 +265,7 @@ var data = [
                 "Value": "단일"
               }
             ],
-            "IconImageUrl": "../img/skills/Kasumi/Temp1.webp",
+            "IconImageUrl": "../img/skills/Kasumi/2.webp",
             "Desc": "단일 개체 <font color=\"red\">1.4</font>배의 피해 및 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font> 효과 부여 (지속 <font color=\"red\">1</font>턴)<br/>적이 <font color=\"blue\">경직</font>보유 시,<br/>전투 후 <font color=\"blue\">방어력</font> <font color=\"Red\">-30%</font> 효과 부여. (지속 <font color=\"red\">2</font>턴)",
             "SubSkills": null,
             "Animation": null

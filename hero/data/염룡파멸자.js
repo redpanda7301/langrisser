@@ -211,7 +211,7 @@ var data = [
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/Dragonslayer/Temp1.webp",
+          "IconImageUrl": "../img/skills/Dragonslayer/2.webp",
           "Desc": "[패시브]인접 아군이 받는 모든 공격 <font color=\"blue\">호위</font>, 받는 치명타 확률 <font color=\"red\">-30%</font>,<br/><font color=\"blue\">위치 이동 면역</font><br/>[액티브]<font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 확장, <font color=\"red\">2</font>칸 <font color=\"blue\">원거리 공격 반격 가능</font> 및<br/>방어의 <font color=\"red\">20%</font>수치만큼 공격력 증가.<br/>해제 불가<br/><font color=\"purple\">격노</font> 효과 보유 시, 호위 범위 <font color=\"red\">1</font>칸 증가<br/>지속 <font color=\"red\">3</font>턴",
           "SubSkills": null,
           "Animation": null
@@ -291,7 +291,7 @@ var data = [
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/Dragonslayer/Temp1.webp",
+          "IconImageUrl": "../img/skills/Dragonslayer/1.webp",
           "Desc": "[패시브]사망 시 생명 <font color=\"red\">50%</font> 수치로 <font color=\"blue\">부활</font>, 해당 효과는 전투 당 <font color=\"red\">1</font>번만 발동<br/>[액티브]자신의 공방 대폭 상승 및 <font color=\"purple\">격노</font> 획득, 지속 <font color=\"red\">2</font>턴.<br/>이미 <font color=\"purple\">격노</font>를 갖고 있을 경우 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font>",
           "SubSkills": null,
           "Animation": null

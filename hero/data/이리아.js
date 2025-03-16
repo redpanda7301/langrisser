@@ -185,7 +185,7 @@ var data = [
           },
           {
             "Label": "쿨타임",
-            "Value": "1턴"
+            "Value": "4턴"
           },
           {
             "Label": "사거리",

@@ -28,6 +28,10 @@ var data = [
       {
         "ImageUrl": "티아리스/7.webp",
         "Desc": "한정판매"
+      },
+      {
+        "ImageUrl": "티아리스/sp.webp",
+        "Desc": "SP 각성"
       }
     ],
     "Name": "티아리스",
@@ -167,6 +171,9 @@ var data = [
           },
           {
             "ImageUrl": "티아리스/7/1.webp"
+          },
+          {
+            "ImageUrl": "티아리스/sp/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -211,6 +218,9 @@ var data = [
           },
           {
             "ImageUrl": "티아리스/7/1.webp"
+          },
+          {
+            "ImageUrl": "티아리스/sp/2.webp"
           }
         ],
         "AttkRange": 2,
@@ -255,6 +265,9 @@ var data = [
           },
           {
             "ImageUrl": "티아리스/7/1.webp"
+          },
+          {
+            "ImageUrl": "티아리스/sp/3.webp"
           }
         ],
         "AttkRange": 2,
@@ -892,7 +905,7 @@ var data = [
         "Animation": null
       },
       {
-        "Name": "성스러운 빛의 가호",
+        "Name": "SP : 성스러운 빛의 가호",
         "Cost": "COST 1",
         "Entries": [
           {
@@ -900,13 +913,13 @@ var data = [
             "Value": "패시브"
           }
         ],
-        "IconImageUrl": "../img/skills/Passive_AtkBuf5.webp",
+        "IconImageUrl": "../img/skills/sp/티아리스/1.webp",
         "Desc": "[패시브]일반 공격 사거리 <font color=\"red\">+2</font> 및 <font color=\"red\">1.5</font>배 피해, 원거리 공격 병사 대동 시 함께 공격.<br/>선공으로 피해를 입힌 후 <font color=\"blue\">치유 (치유의 빛)</font> 및 <font color=\"blue\">치유 (영원의 송가)</font>를 보유한 아군 부대의 생명을 자신 지력의 <font color=\"red\">2</font>배 만큼 회복.",
         "SubSkills": null,
         "Animation": null
       },
       {
-        "Name": "휴식 공간",
+        "Name": "SP : 휴식 공간",
         "Cost": "COST 2",
         "Entries": [
           {
@@ -922,7 +935,7 @@ var data = [
             "Value": "3칸"
           }
         ],
-        "IconImageUrl": "../img/skills/Skill_SacredRay.webp",
+        "IconImageUrl": "../img/skills/sp/티아리스/2.webp",
         "Desc": "[지휘]주위 <font color=\"red\">3</font>칸 이내 모든 아군에게 <font color=\"blue\">면역: 이동력 감소</font> 효과, 받는 고정 피해 <font color=\"red\">-35%</font> 효과 부여<br/>[치료]액티브, 범위 내 모든 아군에게 걸린 디버프 <font color=\"red\">1</font>개 제거 및 시전자 지력 <font color=\"red\">3</font>배 수치 생명 회복. 동시에 목표 중심에 '<font color=\"purple\">휴식 공간</font>' 효과 부여.<br/><font color=\"purple\">휴식 공간</font>: 지휘, 주위 <font color=\"red\">3</font>칸 범위 안 모든 아군에게 <font color=\"blue\">방어</font>, <font color=\"blue\">마방</font> <font color=\"red\">+15%</font>. 행동 종료 시 시전자 지력 <font color=\"red\">3</font>배 수치 생명 회복. 지속 <font color=\"red\">2</font>턴.<br/>휴식 공간은 비교적 높은 지형 우선순위를 가짐",
         "SubSkills": null,
         "Animation": null

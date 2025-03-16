@@ -138,7 +138,7 @@ var data = [
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/MarieRose/Temp1.webp",
+          "IconImageUrl": "../img/skills/MarieRose/1.webp",
           "Desc": "[패시브] 턴마다 적을 처음 <font color=\"blue\">위치 이동</font> 시켰으나 성공하지 못했을 경우, 행동 종료 시 직선 <font color=\"red\">3</font>칸 범위 안 임의의 장소로 텔레포트 시키고, 해당 텔레포트는 <font color=\"blue\">위치 이동</font> 효과로 간주<br/>액티브. 자신 최대 생명 <font color=\"red\">30%</font> 회복, 주위 <font color=\"red\">4</font>칸 범위 안에 적이 있을 경우 <font color=\"blue\">준비 스텝</font> <font color=\"red\">1</font>개 획득",
           "SubSkills": null,
           "Animation": null
@@ -164,7 +164,7 @@ var data = [
               "Value": "4칸"
             }
           ],
-          "IconImageUrl": "../img/skills/MarieRose/Temp1.webp",
+          "IconImageUrl": "../img/skills/MarieRose/3.webp",
           "Desc": "직선 범위 내 적에게 <font color=\"red\">0.1</font>배 피해<br/>공격 시 스킬 사거리 가장 먼 곳까지 텔레포트<br/>적 명중 시 <font color=\"blue\">준비 스텝</font> <font color=\"red\">1</font>개 획득",
           "SubSkills": null,
           "Animation": null
@@ -258,7 +258,7 @@ var data = [
                 "Value": "1바퀴"
               }
             ],
-            "IconImageUrl": "../img/skills/MarieRose/Temp1.webp",
+            "IconImageUrl": "../img/skills/MarieRose/2.webp",
             "Desc": "주위 <font color=\"red\">1</font>바퀴 범위 내 적에게 <font color=\"red\">0.36</font>배의 피해<br/>공격 후 적의 위치가 바뀌지 않았다면 적의 버프 <font color=\"red\">1</font>개 제거 (<font color=\"blue\">위치 이동 면역</font> 효과가 최우선) 및 <font color=\"blue\">패시브 봉인</font> 부여 (지속 <font color=\"red\">2</font>턴)",
             "SubSkills": null,
             "Animation": null
@@ -284,7 +284,7 @@ var data = [
                 "Value": "단일"
               }
             ],
-            "IconImageUrl": "../img/skills/MarieRose/Temp1.webp",
+            "IconImageUrl": "../img/skills/MarieRose/4.webp",
             "Desc": "단일 개체 <font color=\"red\">1.6</font>배의 피해<br/><font color=\"blue\">준비 스텝</font>보유 시, <font color=\"blue\">반격 불가</font><br/>전투 후 적은 다음 턴 <font color=\"blue\">기절</font>",
             "SubSkills": null,
             "Animation": null

@@ -171,7 +171,7 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/Randele/Temp1.webp",
+        "IconImageUrl": "../img/skills/Randele/2_1.webp",
         "Desc": "[패시브] 자신 마방의 <font color=\"red\">25%</font> 수치를 지력에 더함.</br>고유 스킬 발동 시, 추가로 <font color=\"blue\">혼돈의 단편</font> 을 <font color=\"red\">1</font>개 더 소모해서 아군 <font color=\"red\">1</font>명을 지력 <font color=\"red\">3</font>배 수치로 치료하며, <font color=\"blue\">받는 피해</font> <font color=\"red\">-15%</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)</br>[액티브] <font color=\"blue\">혼돈의 단편</font> <font color=\"red\">1</font>개를 소모해 해당 스킬을 <font color=\"blue\">펼쳐지는 두루마리</font>로 변경",
         "SubSkills": null,
         "Animation": null
@@ -197,7 +197,7 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/Randele/Temp1.webp",
+        "IconImageUrl": "../img/skills/Randele/3.webp",
         "Desc": "[액티브] <font color=\"blue\">혼돈의 단편</font> <font color=\"red\">2</font>개를 소모해 아군 <font color=\"red\">1</font>명을 자신 주위 <font color=\"red\">2</font>칸 범위 안으로 <font color=\"blue\">텔레포트</font> 시키고, <font color=\"red\">3</font>칸 범위 안에서 그 아군을 대상으로 한 모든 공격을 <font color=\"blue\">호위</font>하며, 피격 시 <font color=\"blue\">근접전 페널티를 무효화</font>한다. (지속 <font color=\"red\">2</font>턴)</br>또한 자신은 <font color=\"blue\">다음 번 피격 시 받는 피해</font> <font color=\"red\">-80%</font> (해제 불가) 효과를 얻는다.",
         "SubSkills": null,
         "Animation": null
@@ -301,7 +301,7 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/Randele/Temp1.webp",
+        "IconImageUrl": "../img/skills/Randele/1_1.webp",
         "Desc": "[패시브] 인접한 아군을 대신해 마법 공격 <font color=\"blue\">호위</font>.</br>고유 스킬 발동 시, 추가로 <font color=\"blue\">혼돈의 단편</font> 을 <font color=\"red\">1</font>개 더 소모해서 호위 범위를 <font color=\"red\">2</font>칸으로 확장시키며, 피격으로 전투 진입 시 <font color=\"blue\">선제 공격</font> 및 <font color=\"blue\">원거리 공격에 반격 가능</font> (지속 <font color=\"red\">2</font>턴)</br>[액티브] <font color=\"blue\">혼돈의 단편</font> <font color=\"red\">1</font>개를 소모해 해당 스킬을 <font color=\"blue\">상자 속 어둠</font>로 변경",
         "SubSkills": null,
         "Animation": null

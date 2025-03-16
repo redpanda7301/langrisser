@@ -139,7 +139,7 @@ var data = [
                 "Value": "단일"
               }
             ],
-            "IconImageUrl": "../img/skills/Nyotengu/Temp1.webp",
+            "IconImageUrl": "../img/skills/Nyotengu/3.webp",
             "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>전투 후 적에게 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/><font color=\"blue\">비천의 춤</font> 보유 시 피해가 <font color=\"red\">1.8</font>배로 증가 및 적에게 다음 턴 <font color=\"blue\">기절</font> 효과 부여",
             "SubSkills": null,
             "Animation": null
@@ -179,7 +179,7 @@ var data = [
                 "Value": "단일"
               }
             ],
-            "IconImageUrl": "../img/skills/Nyotengu/Temp1.webp",
+            "IconImageUrl": "../img/skills/Nyotengu/1.webp",
             "Desc": "액티브, 자신에게 <font color=\"blue\">공격력</font> <font color=\"red\">+20%</font> 및 <font color=\"blue\">태풍</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/><font color=\"blue\">태풍</font> : 선공으로 피해를 입힌 후 자신 주위 <font color=\"red\">1</font>바퀴 범위 안 적에게 <font color=\"red\">0.1</font>배 피해 및 <font color=\"blue\">텔레포트</font> 효과 부여 (명중한 적 위치 변화)<br/>사용 후 남은 이동력만큼 <font color=\"blue\">재행동</font> 가능<br/>해당 스킬의 재행동은 보유한 버프 지속 시간을 소모하지 않음",
             "SubSkills": null,
             "Animation": null
@@ -245,7 +245,7 @@ var data = [
                 "Value": "직선"
               }
             ],
-            "IconImageUrl": "../img/skills/Nyotengu/Temp1.webp",
+            "IconImageUrl": "../img/skills/Nyotengu/2.webp",
             "Desc": "1줄 직선 상 적에게 <font color=\"red\">0.4</font>배 피해<br/>공격 시 스킬 사거리 가장 먼 곳 혹은 범위 내 가장 가까운 적으로 <font color=\"blue\">텔레포트</font><br/><font color=\"blue\">위치 이동</font> 효과 부여 (적을 <font color=\"red\">2</font>칸 밀침, 경로 상에 다른 부대나 진입 불가 지형이 있을 경우, 해당 적은 다음 턴 <font color=\"blue\">기절</font>)",
             "SubSkills": null,
             "Animation": null
