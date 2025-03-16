@@ -84,7 +84,12 @@ var data = [
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "종말의 시야(투구)",
+      "Stats": "생명 364, 마방 65",
+      "Icon": "각성자.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"purple\">주박</font> 효과가 있는 적군과 교전 시 <font color=\"blue\">부대 공격력, 지력</font> <font color=\"red\">+15%</font>.<br/>사망 시 가해자 주위 <font color=\"red\">1</font>칸 범위 안 모든 적에게 <font color=\"purple\">주박</font> 효과 부여"
+    },
     "Soldiers": [
       "마녀",
       "리바이어선",

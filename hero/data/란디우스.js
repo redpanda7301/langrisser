@@ -24,6 +24,10 @@ var data = [
       {
         "ImageUrl": "란디우스/6.webp",
         "Desc": "한정판매"
+      },
+      {
+        "ImageUrl": "란디우스/sp.webp",
+        "Desc": "SP 각성"
       }
     ],
     "Name": "란디우스",
@@ -89,7 +93,32 @@ var data = [
         ]
       }
     ],
-    "SPTalent": null,
+    "SPTalent": [
+      {
+        "Name": "마도성벽",
+        "Icon": "SP_Gift_Landius.webp",
+        "Abilities": [
+          {
+            "Desc": "1성"
+          },
+          {
+            "Desc": "2성"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/>공격 <font color=\"red\">+10%</font> 및 공격의 <font color=\"red\">5%</font>를 방어와 마방에 추가<br/>사망 시 체력 <font color=\"red\">20%</font> 수치로 부활. 최대 <font color=\"red\">1</font>회 발동<br/>행동 종료 시 자신의 <font color=\"red\">3</font>칸 내 아군이 있을 경우 자신은 <font color=\"blue\">영광스러운 공명</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"blue\">영광스러운 공명</font>: 받는 원거리 피해 <font color=\"red\">-10%</font><br/>피격으로 전투 진입 시 피격 피해 <font color=\"red\">10%</font> 수치 반사. 최대 <font color=\"red\">3</font>중첩. 지속 <font color=\"red\">2</font>턴"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/>공격 <font color=\"red\">+13%</font> 및 공격의 <font color=\"red\">8%</font>를 방어와 마방에 추가<br/>사망 시 체력 <font color=\"red\">30%</font> 수치로 부활. 최대 <font color=\"red\">1</font>회 발동<br/>행동 종료 시 자신의 <font color=\"red\">3</font>칸 내 아군이 있을 경우 자신은 <font color=\"blue\">영광스러운 공명</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"blue\">영광스러운 공명</font>: 받는 원거리 피해 <font color=\"red\">-10%</font><br/>피격으로 전투 진입 시 피격 피해 <font color=\"red\">10%</font> 수치 반사. 최대 <font color=\"red\">3</font>중첩. 지속 <font color=\"red\">2</font>턴"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/>공격 <font color=\"red\">+16%</font> 및 공격의 <font color=\"red\">11%</font>를 방어와 마방에 추가<br/>사망 시 체력 <font color=\"red\">40%</font> 수치로 부활. 최대 <font color=\"red\">1</font>회 발동<br/>행동 종료 시 자신의 <font color=\"red\">3</font>칸 내 아군이 있을 경우 자신은 <font color=\"blue\">영광스러운 공명</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"blue\">영광스러운 공명</font>: 받는 원거리 피해 <font color=\"red\">-10%</font><br/>피격으로 전투 진입 시 피격 피해 <font color=\"red\">10%</font> 수치 반사. 최대 <font color=\"red\">3</font>중첩. 지속 <font color=\"red\">2</font>턴"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/>공격 <font color=\"red\">+20%</font> 및 공격의 <font color=\"red\">15%</font>를 방어와 마방에 추가<br/>사망 시 체력 <font color=\"red\">50%</font> 수치로 부활. 최대 <font color=\"red\">1</font>회 발동<br/>행동 종료 시 자신의 <font color=\"red\">3</font>칸 내 아군이 있을 경우 자신은 <font color=\"blue\">영광스러운 공명</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"blue\">영광스러운 공명</font>: 받는 원거리 피해 <font color=\"red\">-10%</font><br/>피격으로 전투 진입 시 피격 피해 <font color=\"red\">10%</font> 수치 반사. 최대 <font color=\"red\">3</font>중첩. 지속 <font color=\"red\">2</font>턴"
+          }
+        ]
+      }
+    ],
     "Second_Awaken": {
       "Name": "단결의 의지",
       "Stats": "<font color=\"blue\">패시브 봉인 면역</font><br/>주변 <font color=\"red\">3</font>칸 이내 아군 <font color=\"red\">1</font>명당 방어 <font color=\"red\">3%</font> 증가(최대 <font color=\"red\">12</font>)%"
@@ -112,7 +141,8 @@ var data = [
       "황금기사",
       "엘프 투창병",
       "성스러운 방패 친위대",
-      "파도 소환사"
+      "파도 소환사",
+      "송곳니 근위대"
     ],
     "Jobs": [
       {
@@ -136,6 +166,9 @@ var data = [
           },
           {
             "ImageUrl": "란디우스/6/1.webp"
+          },
+          {
+            "ImageUrl": "란디우스/sp/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -155,6 +188,50 @@ var data = [
         "SkillRate": 34,
         "HeartFetterBouns1": "생명이 70%이하일때 전투중 받는피해 -10%",
         "HeartFetterBouns2": "생명이 70%이하일때 전투중 입히는피해 +10%"
+      },
+      {
+        "Name": "마도 성기사",
+        "Icon": "SP기병",
+        "SD": [
+          {
+            "ImageUrl": "란디우스/1/1.webp"
+          },
+          {
+            "ImageUrl": "란디우스/2/1.webp"
+          },
+          {
+            "ImageUrl": "란디우스/3/1.webp"
+          },
+          {
+            "ImageUrl": "란디우스/4/1.webp"
+          },
+          {
+            "ImageUrl": "란디우스/5/1.webp"
+          },
+          {
+            "ImageUrl": "란디우스/6/1.webp"
+          },
+          {
+            "ImageUrl": "란디우스/sp/2.webp"
+          }
+        ],
+        "AttkRange": 1,
+        "Move": 5,
+        "MoveType": "기마",
+        "HP": 5494,
+        "HPRate": 84,
+        "Attk": 581,
+        "AttkRate": 89,
+        "Int": 247,
+        "IntRate": 38,
+        "Def": 330,
+        "DefRate": 73,
+        "MagicDef": 267,
+        "MagicDefRate": 59,
+        "Skill": 135,
+        "SkillRate": 38,
+        "HeartFetterBouns1": "부대 생명 <font color=\"red\">100%</font>일 경우<br/>받는 피해 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "버프 <font color=\"red\">5</font>개 이상 보유 시<br/>전투 중 입히는 피해 <font color=\"red\">+10%</font>"
       },
       {
         "Name": "로열 나이트",
@@ -177,6 +254,9 @@ var data = [
           },
           {
             "ImageUrl": "란디우스/6/2.webp"
+          },
+          {
+            "ImageUrl": "란디우스/sp/3.webp"
           }
         ],
         "AttkRange": 1,
@@ -603,6 +683,58 @@ var data = [
         ],
         "IconImageUrl": "../img/skills/1.webp",
         "Desc": "[물리 피해]단일 적 부대를 공격해 1.5배의 피해를 준다.<br/>전투 후 가한 피해량 30%만큼 생명을 회복한다.",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
+        "Name": "SP : 영광스러운 호위",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "치료"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "2턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "3칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/skills/sp/란디우스/1.webp",
+        "Desc": "[패시브]<font color=\"blue\">지수</font> 혹은 <font color=\"blue\">명경지수</font> 사용 후 행동 종료 시 전장의 모든 '전설의 저편' 아군의 공격, 방어 능력치가 크게 상승하고, '주는 피해량 <font color=\"red\">+8%</font>, 상성이 아닌 부대와 교전 시 추가 주는 피해량 <font color=\"red\">+8%</font> (지속 <font color=\"red\">4</font>턴) 효과 부여. (이효과는 다른 초절강화 스킬과 중첩불가)<br/>[액티브] 목표 아군에게 <font color=\"blue\">영광스러운 공명</font> <font color=\"red\">1</font>스택 부여.<br/><font color=\"blue\">영광스러운 공명</font>: 받는 원거리 피해 <font color=\"red\">-10%</font><br/>피격으로 전투 진입 시 피격 피해 <font color=\"red\">10%</font> 수치 반사. 최대 <font color=\"red\">3</font>중첩. 지속 <font color=\"red\">2</font>턴",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
+        "Name": "SP : 기사단의 분노",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "액티브"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "2턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "자신"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/skills/sp/란디우스/2.webp",
+        "Desc": "[패시브]근접 피격으로 전투 진입 시 <font color=\"blue\">받는 피해량</font> <font color=\"red\">-10%</font>, 보유한 <font color=\"blue\">영광스러운 공명</font> <font color=\"red\">1</font>스택 당 추가로 <font color=\"red\">-5%</font>.<br/>[액티브] 주위 <font color=\"red\">3</font>칸 범위 안에 있는 부대 <font color=\"red\">1</font>개당 <font color=\"blue\">기사단의 분노</font> <font color=\"red\">1</font>스택 획득.<br/><font color=\"blue\">기사단의 분노</font>: 피격으로 전투 진입 시 사거리 <font color=\"red\">+1</font>.<br/>버프를 제거당할 경우 <font color=\"blue\">기사단의 분노</font>를 우선 제거. 최대 <font color=\"red\">5</font>중첩. 지속 <font color=\"red\">2</font>턴",
         "SubSkills": null,
         "Animation": null
       },
