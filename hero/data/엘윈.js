@@ -206,7 +206,7 @@ var data = [
       },
       {
         "Name": "광룡 기사단장",
-        "Icon": "SP기병",
+        "Icon": "기병SP",
         "SD": [
           {
             "ImageUrl": "엘윈/sp/1.webp"

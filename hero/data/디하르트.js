@@ -171,7 +171,7 @@ var data = [
       },
       {
         "Name": "이국의 협객",
-        "Icon": "SP기병",
+        "Icon": "기병SP",
         "SD": [
           {
             "ImageUrl": "디하르트/sp/1.webp"

@@ -191,25 +191,25 @@ var data = [
       },
       {
         "Name": "마도 성기사",
-        "Icon": "SP기병",
+        "Icon": "기병SP",
         "SD": [
           {
-            "ImageUrl": "란디우스/1/1.webp"
+            "ImageUrl": "란디우스/1/2.webp"
           },
           {
-            "ImageUrl": "란디우스/2/1.webp"
+            "ImageUrl": "란디우스/2/2.webp"
           },
           {
-            "ImageUrl": "란디우스/3/1.webp"
+            "ImageUrl": "란디우스/3/2.webp"
           },
           {
-            "ImageUrl": "란디우스/4/1.webp"
+            "ImageUrl": "란디우스/4/2.webp"
           },
           {
-            "ImageUrl": "란디우스/5/1.webp"
+            "ImageUrl": "란디우스/5/2.webp"
           },
           {
-            "ImageUrl": "란디우스/6/1.webp"
+            "ImageUrl": "란디우스/6/2.webp"
           },
           {
             "ImageUrl": "란디우스/sp/2.webp"

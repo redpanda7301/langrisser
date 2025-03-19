@@ -151,33 +151,7 @@ var data = [
       "SPOpenConditions": null,
       "Skills": [
         {
-          "Name": "자연의 은혜",
-          "Cost": "COST 1",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "치료"
-            },
-            {
-              "Label": "쿨타임",
-              "Value": "-"
-            },
-            {
-              "Label": "사거리",
-              "Value": "3칸"
-            },
-            {
-              "Label": "범위",
-              "Value": "단일"
-            }
-          ],
-          "IconImageUrl": "../img/skills/Enya/1.webp",
-          "Desc": "[패시브] <font color=\"purple\">예언</font> 적중 시 자신에게 <font color=\"blue\">침묵 면역</font> 부여, 지속 <font color=\"red\">2</font>행동<br/>[액티브] 단일 부대 생명력 지력 <font color=\"red\">5</font>배 수치 회복. <font color=\"blue\">선도</font> <font color=\"red\">2</font>스택 이상 시 목표 <font color=\"red\">1</font>개 추가 선택",
-          "SubSkills": null,
-          "Animation": null
-        },
-        {
-          "Name": "턴 언데드",
+          "Name": "어둠의 낫",
           "Cost": "COST 2",
           "Entries": [
             {
@@ -197,39 +171,13 @@ var data = [
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/Skill_ValkCrash2.webp",
-          "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해<br/>'마물'에게 더큰 피해를 준다.<br/><b>전투 후</b> 대상의 <font color =\"blue\">버프</font>를 <font color =\"red\">2</font>개 제거한다.",
+          "IconImageUrl": "../img/skills/Skill_DarkCrash.webp",
+          "Desc": "단일 적에게 <font color =\"red\">1.3</font>배의 피해<br/>적의 마방을 <font color =\"red\">30%</font> 무시. <br/>전투 후 준 피해량의 <font color =\"red\">50%</font>만큼 <font color=\"green\">회복</font>한다.",
           "SubSkills": null,
           "Animation": null
         },
         {
-          "Name": "매스 힐",
-          "Cost": "COST 2",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "치료"
-            },
-            {
-              "Label": "쿨타임",
-              "Value": "1턴"
-            },
-            {
-              "Label": "사거리",
-              "Value": "3칸"
-            },
-            {
-              "Label": "범위",
-              "Value": "3칸"
-            }
-          ],
-          "IconImageUrl": "../img/skills/23.webp",
-          "Desc": "범위 내 아군들의 <font color=\"green\">생명 회복</font>시킨다.<br/>회복량은 사용자 지력의 <font color=\"red\">3</font>배. 그리고 <font color=\"blue\">디버프</font>를 <font color=\"red\">1</font>개 제거한다.",
-          "SubSkills": null,
-          "Animation": null
-        },
-        {
-          "Name": "미증유의 전설",
+          "Name": "꿈의 법칙",
           "Cost": "COST 1",
           "Entries": [
             {
@@ -237,39 +185,13 @@ var data = [
               "Value": "패시브"
             }
           ],
-          "IconImageUrl": "../img/skills/Enya/2.webp",
-          "Desc": "[초절강화]범위 내 모든 '<b>전설</b>' 아군의 <br/>공격, 방어 능력치가 크게 상승하고<br/>선공으로 전투 진입 시 피해 <font color=\"red\">+15%</font><br/><font color=\"blue\">재행동</font> 시 자신에게 걸린 <font color=\"blue\">디버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">제거</font> 및 해당 턴에서 <font color=\"blue\">모든 디버프 면역</font>",
+          "IconImageUrl": "../img/skills/Sylrna/2.webp",
+          "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군의 <font color=\"blue\">꿈의 균열</font>이 있을 경우, 선공으로 전투 진입 시 적은 <font color=\"blue\">반격 불가</font>,<br/>전투 후 자신의 고유 스킬의 쿨 <font color=\"red\">-1</font>턴",
           "SubSkills": null,
           "Animation": null
-        },
+        },,
         {
-          "Name": "광역 마방",
-          "Cost": "COST 2",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "지원"
-            },
-            {
-              "Label": "쿨타임",
-              "Value": "2턴"
-            },
-            {
-              "Label": "사거리",
-              "Value": "3칸"
-            },
-            {
-              "Label": "범위",
-              "Value": "3칸"
-            }
-          ],
-          "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
-          "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
-          "SubSkills": null,
-          "Animation": null
-        },
-        {
-          "Name": "주문 직격",
+          "Name": "파이어볼",
           "Cost": "COST 1",
           "Entries": [
             {
@@ -289,18 +211,18 @@ var data = [
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/Enya/3.webp",
-          "Desc": "[패시브] <font color=\"purple\">예언</font> 적중 시 자신의 모든 스킬 쿨타임 <font color=\"red\">-1</font><br/>[액티브] 단일 개체에게 <font color=\"red\">1.5</font>배 수치 피해, 보유한 <font color=\"blue\">선도</font>마다 <font color=\"red\">+10%</font>",
+          "IconImageUrl": "../img/skills/Skill_Fireball.webp",
+          "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해.<br/>'보병'에게 더큰 피해를 준다.",
           "SubSkills": null,
           "Animation": null
         },
         {
-          "Name": "파사",
+          "Name": "어두운 꿈의 윤회",
           "Cost": "COST 2",
           "Entries": [
             {
               "Label": "유형",
-              "Value": "마법피해"
+              "Value": "초절강화"
             },
             {
               "Label": "쿨타임",
@@ -308,55 +230,95 @@ var data = [
             },
             {
               "Label": "사거리",
-              "Value": "3칸"
+              "Value": "자신"
             },
             {
               "Label": "범위",
-              "Value": "3칸"
+              "Value": "맵전체"
             }
           ],
-          "IconImageUrl": "../img/skills/Skill_BreakEvil.webp",
-          "Desc": "치명타율 <font color=\"red\">+15%</font><br/>범위 내 모든 적에게 <font color=\"red\">0.3</font>배의 광격 피해를 주고<br/>적이 가진 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 제거한다.<br/>'마물'에게 더 큰 피해를 준다.",
+          "IconImageUrl": "../img/skills/Sylrna/4.webp",
+          "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '어둠의 윤회' 아군의 공격, 방어 능력치가 크게 상승하고 선공으로 전투 진입 시 주는 피해량 <font color=\"red\">+8%</font>,<br/>격파당한 아군 부대마다 추가 <font color=\"red\">+2%</font> (최대 <font color=\"red\">+8%</font>).<br/>4턴 지속.(이효과는 다른 초절강화 스킬과 중첩불가)",
           "SubSkills": null,
           "Animation": null
         },
         {
-          "Name": "근원 정화",
-          "Cost": "COST 2",
+          "Name": "죄의 낙인",
+          "Cost": "COST 1",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "패시브"
+            }
+          ],
+          "IconImageUrl": "../img/skills/Sylrna/2.webp",
+          "Desc": "전장의 다른 비소환물 아군이 사망 시, 자신의 고유 스킬의 쿨 <font color=\"red\">-1</font>턴 및 가해자에게 <font color=\"blue\">죄의 낙인</font> 부여 (면역 및 해제 불가, 지속 <font color=\"red\">2</font>턴)<br/>자신이 <font color=\"blue\">죄의 낙인</font>을 보유한 적과 전투 시, 목표의 <font color=\"blue\">부활 무효화</font> 및 <font color=\"blue\">생명을 제외한 모든 스탯</font> <font color=\"red\">-20%</font>.<br/>적 격파 시 해당 적에게 격파된 아군의 환영 소환.<br/>(<font color=\"blue\">부활 무효화</font> 효과는 아레나 모드에서만 발동. 환영은 본체의 초기 상태로 소환되며, 어둠 진영으로 간주)<br/><b>실나가 죄의 낙인 스킬을 갖고 있을 경우, 엔야의 환상으로 소환 불가.</b>",
+          "SubSkills": null,
+          "Animation": null
+        },
+        {
+          "Name": "썬더",
+          "Cost": "COST 1",
           "Entries": [
             {
               "Label": "유형",
               "Value": "마법피해"
-            },
-            {
-              "Label": "쿨타임",
-              "Value": "3턴"
-            },
-            {
-              "Label": "사거리",
-              "Value": "6칸"
-            },
-            {
-              "Label": "범위",
-              "Value": "직선"
-            }
-          ],
-          "IconImageUrl": "../img/skills/Enya/4.webp",
-          "Desc": "<font color=\"red\">3</font>줄 직선상 적에게 <font color=\"red\">0.3</font>배 피해 및 범위 내 적의 <font color=\"blue\">지형효과 모두 제거</font>.<br/>범위 안 아군 생명 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">회복</font> 및 돌아가는 쿨타임 <font color=\"red\">-1</font><br/>자신이 보유한 <font color=\"blue\">선도</font>당 적 버프 <font color=\"red\">1</font>개 및 아군 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font>",
-          "SubSkills": null,
-          "Animation": null
-        },
-        {
-          "Name": "모든 것을 비추는 물의 거울",
-          "Cost": "COST 3",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "소환"
             },
             {
               "Label": "쿨타임",
               "Value": "1턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "2칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
+            }
+          ],
+          "IconImageUrl": "../img/skills/Skill_ThunderBolt.webp",
+          "Desc": "단일 적 부대를 공격해 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'기병'에게 더 큰 피해를 준다.",
+          "SubSkills": null,
+          "Animation": null
+        },
+        {
+          "Name": "블랙홀",
+          "Cost": "COST 2",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "마법피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "5턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "3칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "4칸"
+            }
+          ],
+          "IconImageUrl": "../img/skills/Skill_DarkHole.webp",
+          "Desc": "범위 내 적들을 공격해 <font color =\"red\">0.36</font>배의 광역 피해를 준다.<br/>각 부대에게 <b <font color=\"blue\">무작위 디버프</font></b>를 <font color =\"red\">2</font>개씩 부여한다.",
+          "SubSkills": null,
+          "Animation": null
+        },
+        {
+          "Name": "꿈의 가호",
+          "Cost": "COST 2",
+          "Entries": [
+            {
+              "Label": "유형",
+              "Value": "액티브"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "2턴"
             },
             {
               "Label": "사거리",
@@ -367,33 +329,35 @@ var data = [
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/Super/실나.webp",
-          "Desc": "비소환물 부대의 환상을 소환, 자신 주위 <font color=\"red\">2</font>바퀴 범위로 <font color=\"blue\">물의 거울</font> 생성, 지속 <font color=\"red\">2</font>행동, 사용 후 <font color=\"blue\">재행동</font><br/><font color=\"blue\">물의 거울</font>이 존재할 경우, 해당 스킬은 <font color=\"blue\">운명의 질서</font>로 변경, <font color=\"blue\">물의 거울</font> 범위 밖에서 행동 종료 시 <font color=\"blue\">제거</font><br/>(아레나에서는 각 캐릭마다 <font color=\"red\">1</font>번씩만 선택 가능.<br/>환상은 본체의 초기 상태 및 현재 보유한 모든 효과 계승, <font color=\"blue\">전설 진영</font> 유닛으로 간주<br/><font color=\"blue\">물의 거울</font>과 공존하고 그 범위 밖에 있을 시 <font color=\"blue\">받는 피해</font> <font color=\"red\">+50%</font><br/>환상 사망 시 해당 스킬 쿨타임 <font color=\"red\">+1</font>",
-          "SubSkills": [
+          "IconImageUrl": "../img/skills/Sylrna/3.webp",
+          "Desc": "[지원] 액티브, 목표 아군의 모든 스킬 쿨 <font color=\"red\">-3</font>턴 및 시전자 지력 <font color=\"red\">5</font>배 수치 생명 회복, 동시에 <font color=\"blue\">꿈의 가호</font> 효과 부여<br/><font color=\"blue\">꿈의 가호</font>: 아군 <font color=\"blue\">꿈의 균열</font> 주위 <font color=\"red\">2</font>칸 범위 안에 있을 경우, 적의 일반 공격 및 스킬 목표가 될 수 없으며, 범위 공격 스킬 피해 면역 (지속 <font color=\"red\">2</font>턴, 해제 불가)",
+          "SubSkills": null,
+          "Animation": null
+        },
+        {
+          "Name": "종말의 꿈의 바다",
+          "Cost": "COST 3",
+          "Entries": [
             {
-              "Name": "운명의 질서",
-              "Entries": [
-                {
-                  "Label": "유형",
-                  "Value": "지원"
-                },
-                {
-                  "Label": "쿨타임",
-                  "Value": "2턴"
-                },
-                {
-                  "Label": "사거리",
-                  "Value": "3칸"
-                },
-                {
-                  "Label": "범위",
-                  "Value": "단일"
-                }
-              ],
-              "IconImageUrl": "../img/Super/실나_1.webp",
-              "Desc": "[패시브] 운명의 예언을 적에게 사용가능. 적에게 <font color=\"purple\">예언</font> 시 <font color=\"blue\">선도</font> <font color=\"red\">1</font>개 추가 획득<br/>적에게 <font color=\"purple\">예언</font> 적중 시 효과를 '스킬 쿨 <font color=\"red\">+2</font>'로 변경.<br/>선도 수량이 한계치일 경우 예언이 적중된 적은 즉시 <font color=\"blue\">기절</font> <br/>(아레나에서는 즉시 행동 종료로 변경)<br/>[지휘] <font color=\"blue\">물의 거울</font> 범위 안 아군이 <font color=\"blue\">받는 범위 피해</font> <font color=\"red\">-25%</font><br/>행동 종료 시 실나 지력 <font color=\"red\">3</font>배 수치 <font color=\"green\">생명 회복</font><br/>[액티브] 단일 부대 받는 피해 <font color=\"red\">-20%</font> 및 <font color=\"blue\">모든 디버프 면역</font>, 지속 <font color=\"red\">2</font>행동.<br/><font color=\"blue\">환상</font>을 목표로 할 시, <font color=\"blue\">위치 이동 효과 발동</font><br/>(본체와 위치 교환)"
+              "Label": "유형",
+              "Value": "마법피해"
+            },
+            {
+              "Label": "쿨타임",
+              "Value": "4턴"
+            },
+            {
+              "Label": "사거리",
+              "Value": "2칸"
+            },
+            {
+              "Label": "범위",
+              "Value": "단일"
             }
           ],
+          "IconImageUrl": "../img/Super/실나.webp",
+          "Desc": "[패시브] <font color=\"blue\">꿈의 균열</font> 소환 후, 전장의 모든 '어둠의 윤회' 아군의 공격, 방어 능력치가 크게 상승하고 선공으로 입히는 피해량 <font color=\"red\">+15%</font>,<br/>아군 <font color=\"blue\">꿈의 균열</font> 통과 시 <font color=\"red\">1</font>칸 이동력 소모 면제 (지속 <font color=\"red\">4</font>턴)<br/>[마법피해] 단일 개체 <font color=\"red\">1.7</font>배 피해 및 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font>, <font color=\"blue\">호위받을 수 없음, 다른 아군의 스킬 대상이 될 수 없음, 다른 아군의 스킬 효과를 받을 수 없음 (아레나에서만 발동)</font> 효과 부여 (지속 <font color=\"red\">2</font>턴, 해제 불가)<br/>적 주위 <font color=\"red\">2</font>칸 범위 안에 아군 <font color=\"blue\">꿈의 균열</font>이 존재할 경우, 해당 전투는 <font color=\"blue\">호위 무시</font><br/>전투 후, 아군 <font color=\"blue\">꿈의 균열</font> 주위 <font color=\"red\">2</font>칸 범위 내 위치로 텔레포트 가능",
+          "SubSkills": null,
           "Animation": "../img/Super/실나_Ani.webp"
         }
       ],

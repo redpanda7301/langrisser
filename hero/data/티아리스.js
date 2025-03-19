@@ -196,7 +196,7 @@ var data = [
       },
       {
         "Name": "여명의 성기사",
-        "Icon": "SP승려",
+        "Icon": "승려SP",
         "SD": [
           {
             "ImageUrl": "티아리스/1/1.webp"
@@ -929,6 +929,10 @@ var data = [
           {
             "Label": "쿨타임",
             "Value": "2턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "3칸"
           },
           {
             "Label": "범위",

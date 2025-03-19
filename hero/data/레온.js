@@ -195,7 +195,7 @@ var data = [
       },
       {
         "Name": "어둠에 삼켜진 청룡",
-        "Icon": "SP기병",
+        "Icon": "기병SP",
         "SD": [
           {
             "ImageUrl": "레온/1/1.webp"
