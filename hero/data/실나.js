@@ -185,7 +185,7 @@ var data = [
               "Value": "패시브"
             }
           ],
-          "IconImageUrl": "../img/skills/Sylrna/1.webp",
+          "IconImageUrl": "../img/skills/Sylrna/2.webp",
           "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군의 <font color=\"blue\">꿈의 균열</font>이 있을 경우, 선공으로 전투 진입 시 적은 <font color=\"blue\">반격 불가</font>,<br/>전투 후 자신의 고유 스킬의 쿨 <font color=\"red\">-1</font>턴",
           "SubSkills": null,
           "Animation": null
