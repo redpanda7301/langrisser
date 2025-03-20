@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "잭/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "잭/3.webp",
+        "Desc": "한정 패스 스킨"
       }
     ],
     "Name": "잭",
@@ -103,6 +107,9 @@ var data = [
           },
           {
             "ImageUrl": "잭/2/1.webp"
+          },
+          {
+            "ImageUrl": "잭/3/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -132,6 +139,9 @@ var data = [
           },
           {
             "ImageUrl": "잭/2/2.webp"
+          },
+          {
+            "ImageUrl": "잭/3/2.webp"
           }
         ],
         "AttkRange": 1,
