@@ -514,7 +514,7 @@ var data = [
         "Name": "개방",
         "Materials": [
           {
-            "MaterialImgUrl": "../img/item/AlterEgo_Elwin.webp",
+            "MaterialImgUrl": "../img/item/AlterEgo_Tialice.webp",
             "Amount": 1
           }
         ],
