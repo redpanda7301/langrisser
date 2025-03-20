@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "강신자/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "강신자/3.webp",
+        "Desc": "서밋아레나 S20 패자스킨"
       }
     ],
     "Name": "강신자",
@@ -105,6 +109,9 @@ var data = [
           },
           {
             "ImageUrl": "강신자/2/1.webp"
+          },
+          {
+            "ImageUrl": "강신자/3/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -134,6 +141,9 @@ var data = [
           },
           {
             "ImageUrl": "강신자/2/1.webp"
+          },
+          {
+            "ImageUrl": "강신자/3/2.webp"
           }
         ],
         "AttkRange": 1,

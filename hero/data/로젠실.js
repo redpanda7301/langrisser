@@ -15,7 +15,11 @@ var data = [
       },
       {
         "ImageUrl": "로젠실/4.webp",
-        "Desc": "형귀뽑기"
+        "Desc": "형귀스킨"
+      },
+      {
+        "ImageUrl": "로젠실/5.webp",
+        "Desc": "형귀스킨"
       }
     ],
     "Name": "로젠실",
@@ -119,6 +123,9 @@ var data = [
           },
           {
             "ImageUrl": "로젠실/4/1.webp"
+          },
+          {
+            "ImageUrl": "로젠실/5/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -154,6 +161,9 @@ var data = [
           },
           {
             "ImageUrl": "로젠실/4/1.webp"
+          },
+          {
+            "ImageUrl": "로젠실/5/1.webp"
           }
         ],
         "AttkRange": 2,

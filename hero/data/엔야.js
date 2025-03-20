@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "엔야/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "엔야/3.webp",
+        "Desc": "한정 판매"
       }
     ],
     "Name": "엔야",
@@ -100,6 +104,9 @@ var data = [
           },
           {
             "ImageUrl": "엔야/2/1.webp"
+          },
+          {
+            "ImageUrl": "엔야/3/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -129,6 +136,9 @@ var data = [
           },
           {
             "ImageUrl": "엔야/2/1.webp"
+          },
+          {
+            "ImageUrl": "엔야/3/1.webp"
           }
         ],
         "AttkRange": 2,

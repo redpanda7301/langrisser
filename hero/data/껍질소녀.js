@@ -11,7 +11,7 @@ var data = [
       },
       {
         "ImageUrl": "껍질소녀/3.webp",
-        "Desc": "한정판매"
+        "Desc": "형귀스킨"
       },
       {
         "ImageUrl": "껍질소녀/4.webp",

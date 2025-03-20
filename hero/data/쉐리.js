@@ -36,6 +36,10 @@ var data = [
       {
         "ImageUrl": "쉐리/8.webp",
         "Desc": "한정판매"
+      },
+      {
+        "ImageUrl": "쉐리/9.webp",
+        "Desc": "한정 패스 스킨"
       }
     ],
     "Name": "쉐리",
@@ -179,6 +183,9 @@ var data = [
           },
           {
             "ImageUrl": "쉐리/8/1.webp"
+          },
+          {
+            "ImageUrl": "쉐리/9/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -229,6 +236,9 @@ var data = [
           },
           {
             "ImageUrl": "쉐리/8/3.webp"
+          },
+          {
+            "ImageUrl": "쉐리/9/3.webp"
           }
         ],
         "AttkRange": 1,
@@ -279,6 +289,9 @@ var data = [
           },
           {
             "ImageUrl": "쉐리/8/2.webp"
+          },
+          {
+            "ImageUrl": "쉐리/9/2.webp"
           }
         ],
         "AttkRange": 2,

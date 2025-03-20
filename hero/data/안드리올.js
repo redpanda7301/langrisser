@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "안드리올/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "안드리올/3.webp",
+        "Desc": "한정 판매"
       }
     ],
     "Name": "안드리올",
@@ -99,6 +103,9 @@ var data = [
           },
           {
             "ImageUrl": "안드리올/2/1.webp"
+          },
+          {
+            "ImageUrl": "안드리올/3/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -128,6 +135,9 @@ var data = [
           },
           {
             "ImageUrl": "안드리올/2/1.webp"
+          },
+          {
+            "ImageUrl": "안드리올/3/1.webp"
           }
         ],
         "AttkRange": 1,

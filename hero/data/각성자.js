@@ -16,6 +16,10 @@ var data = [
       {
         "ImageUrl": "각성자/4.webp",
         "Desc": "서밋아레나 S19 패자스킨"
+      },
+      {
+        "ImageUrl": "각성자/5.webp",
+        "Desc": "형귀스킨"
       }
     ],
     "Name": "각성자",
@@ -117,6 +121,9 @@ var data = [
           },
           {
             "ImageUrl": "각성자/4/1.webp"
+          },
+          {
+            "ImageUrl": "각성자/5/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -152,6 +159,9 @@ var data = [
           },
           {
             "ImageUrl": "각성자/4/1.webp"
+          },
+          {
+            "ImageUrl": "각성자/5/1.webp"
           }
         ],
         "AttkRange": 2,

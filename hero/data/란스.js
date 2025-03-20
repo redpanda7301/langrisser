@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "란스/2.webp",
         "Desc": "한정판매"
+      },
+      {
+        "ImageUrl": "란스/3.webp",
+        "Desc": "서밋아레나 S21 골드스킨"
       }
     ],
     "Name": "란스",
@@ -108,6 +112,9 @@ var data = [
           },
           {
             "ImageUrl": "란스/2/1.webp"
+          },
+          {
+            "ImageUrl": "란스/3/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -137,6 +144,9 @@ var data = [
           },
           {
             "ImageUrl": "란스/2/1.webp"
+          },
+          {
+            "ImageUrl": "란스/3/2.webp"
           }
         ],
         "AttkRange": 1,
