@@ -162,7 +162,7 @@ var data = [
         ],
         "AttkRange": 1,
         "Move": 5,
-        "MoveType": "보행",
+        "MoveType": "기마",
         "HP": 4610,
         "HPRate": 77,
         "Attk": 590,

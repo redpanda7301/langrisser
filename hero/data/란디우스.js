@@ -44,13 +44,13 @@ var data = [
       "전설"
     ],
     "HP": 20,
-    "SPHP": 0,
+    "SPHP": 20,
     "Attk": 35,
-    "SPAttk": 0,
+    "SPAttk": 35,
     "Def": 35,
-    "SPDef": 0,
+    "SPDef": 35,
     "MagicDef": 10,
-    "SPMagicDef": 0,
+    "SPMagicDef": 10,
     "HowToGet": "영웅 소환",
     "Fetters": [
       {
