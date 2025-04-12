@@ -76,7 +76,12 @@ var data = [
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "운명의 권속(갑옷)",
+      "Stats": "생명 583, 방어 54",
+      "Icon": "아리아.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"red\">2</font>개 이상의 동일한 <font color=\"blue\">행운</font> 보유 시,<br/><font color=\"blue\">부대 이동력</font> <font color=\"red\">+1</font>, 동일한 <font color=\"blue\">행운</font> <font color=\"red\">1</font>개마다 추가로 <font color=\"red\">+1</font><br/><font color=\"red\">3</font>개 이상의 동일한 <font color=\"blue\">행운</font> 보유 시,<br/><font color=\"blue\">부활</font>, 발동 후 랜덤한 <font color=\"blue\">행운</font> <font color=\"red\">3</font>개 획득 (쿨타임 <font color=\"red\">4</font>턴)"
+    },
     "Soldiers": [
       "신관",
       "마법사",

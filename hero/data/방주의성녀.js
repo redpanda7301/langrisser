@@ -83,7 +83,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "빛과 어둠의 균형",
+      "Stats": "지력 <font color=\"red\">+10%</font><br/><font color =\"blue\">빛과 그림자</font> 사용 후 <font color=\"red\">2</font>칸 <font color =\"blue\">재행동</font>"
+    },
     "Equip": {
       "EqpName": "여명의 관(투구)",
       "Stats": "생명 364,마방 65",

@@ -112,7 +112,10 @@ var data = [
         ]
       }
     ],
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "필중의 현",
+      "Stats": "공격 <font color=\"red\">+10%</font><br/>자신 주위 <font color=\"red\">6</font>칸 범위 내에 <font color =\"blue\">이동력 저하</font>가 걸린 적이 있을 경우,<br/>스킬 사거리로 간주하며 원거리 병사가 함께 공격"
+    },
     "Equip": {
       "EqpName": "발키리의 샛별(투구)",
       "Stats": "생명 437,마방 59",

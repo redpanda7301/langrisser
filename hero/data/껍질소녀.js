@@ -68,22 +68,25 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+18%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
+            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+18%</font>.<br/><b>행동 종료시</b>『<font color = \"blue\">기계 학습</font>』 획득<br/><font color = \"blue\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
           },
           {
-            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+22%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
+            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+22%</font>.<br/><b>행동 종료시</b>『<font color = \"blue\">기계 학습</font>』 획득<br/><font color = \"blue\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
           },
           {
-            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+26%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
+            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+26%</font>.<br/><b>행동 종료시</b>『<font color = \"blue\">기계 학습</font>』 획득<br/><font color = \"blue\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
           },
           {
-            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+30%</font>.<br/><b>행동 종료시</b>『<font color = \"purple\">기계 학습</font>』 획득<br/><font color = \"purple\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
+            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대  <font color=\"red\">+30%</font>.<br/><b>행동 종료시</b>『<font color = \"blue\">기계 학습</font>』 획득<br/><font color = \"blue\">기계 학습</font> : 지능 <font color=\"red\">+5%</font>, 부대 사거리 <font color=\"red\">+1</font>. 최대 <font color=\"red\">2</font>개 누적가능<br/>해제 불가"
           }
         ]
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "딥러닝",
+      "Stats": "지력 <font color=\"red\">+5%</font><br/><font color =\"blue\">적응성 해킹</font>으로 적 격파 후 <font color=\"blue\">기계 학습</font> <font color=\"red\">1</font>개 획득<br/><font color=\"blue\">기계 학습</font> 수량이 상한에 다다른 상태에서 행동 종료 시 <font color=\"blue\">강화 학습</font> <font color=\"red\">1</font>개 획득"
+    },
     "Equip": {
       "EqpName": "과부하 코어(투구)",
       "Stats": "생명 364,마방 65",

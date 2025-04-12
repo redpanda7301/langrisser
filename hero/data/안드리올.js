@@ -12,6 +12,10 @@ var data = [
       {
         "ImageUrl": "안드리올/3.webp",
         "Desc": "한정 판매"
+      },
+      {
+        "ImageUrl": "안드리올/4.webp",
+        "Desc": "형귀스킨"
       }
     ],
     "Name": "안드리올",
@@ -64,23 +68,28 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "주위 <font color=\"red\">1</font>칸 안에 아군이 없을 경우 공격 방어 <font color=\"red\">+10%</font><br/>전투 중 <font color=\"red\">1</font>회 행동 종료 시 비소환수 아군을 지정해 '<font color=\"purple\">충성 맹세</font>'를 부여하고, 자신은 '<font color=\"blue\">지휘</font>'를 획득<br/>(충성 맹세를 보유한 아군과 자신은 생명을 제외한 모든 능력치 <font color=\"red\">+5%</font><br/><font color=\"purple\">충성 맹세</font>를 보유한 아군이 적을 격파하거나 퇴각 시 자신 부대 생명 <font color=\"red\">100%</font> <font color=\"green\">회복</font>하며<br/>만약 자신이 이미 행동 종료 했을 경우 <font color=\"blue\">재행동</font><br/><font color=\"purple\">충성 맹세</font>를 보유한 아군이 퇴각 시 자신은 '<font color=\"blue\">적개심</font>' 획득'<br/>(<font color=\"blue\">이동 시 지형 제한을 받지 않음</font>, <font color=\"blue\">전투 진입 시 선제 공격</font> 및 <font color=\"blue\">적 방어</font> <font color=\"red\">30%</font> <font color=\"blue\">무시</font>)<br/><font color=\"purple\">충성 맹세</font>와 <font color=\"blue\">적개심</font>, 지휘 효과 모두 면역 및 해제 불가<br/><font color=\"blue\">지휘 스킬</font>의 스탯 상승 효과는 동일 지휘 스킬과 중첩 불가<br/><font color=\"blue\">재행동</font>은 매 턴 최대 <font color=\"red\">1</font>회 발동"
+            "Desc": "주위 <font color=\"red\">1</font>칸 안에 아군이 없을 경우 공격 방어 <font color=\"red\">+10%</font><br/>전투 중 <font color=\"red\">1</font>회 행동 종료 시 비소환수 아군을 지정해 '<font color=\"blue\">충성 맹세</font>'를 부여하고, 자신은 '<font color=\"blue\">지휘</font>'를 획득<br/>(충성 맹세를 보유한 아군과 자신은 생명을 제외한 모든 능력치 <font color=\"red\">+5%</font><br/><font color=\"blue\">충성 맹세</font>를 보유한 아군이 적을 격파하거나 퇴각 시 자신 부대 생명 <font color=\"red\">100%</font> <font color=\"green\">회복</font>하며<br/>만약 자신이 이미 행동 종료 했을 경우 <font color=\"blue\">재행동</font><br/><font color=\"blue\">충성 맹세</font>를 보유한 아군이 퇴각 시 자신은 '<font color=\"blue\">적개심</font>' 획득'<br/>(<font color=\"blue\">이동 시 지형 제한을 받지 않음</font>, <font color=\"blue\">전투 진입 시 선제 공격</font> 및 <font color=\"blue\">적 방어</font> <font color=\"red\">30%</font> <font color=\"blue\">무시</font>)<br/><font color=\"blue\">충성 맹세</font>와 <font color=\"blue\">적개심</font>, 지휘 효과 모두 면역 및 해제 불가<br/><font color=\"blue\">지휘 스킬</font>의 스탯 상승 효과는 동일 지휘 스킬과 중첩 불가<br/><font color=\"blue\">재행동</font>은 매 턴 최대 <font color=\"red\">1</font>회 발동"
           },
           {
-            "Desc": "주위 <font color=\"red\">1</font>칸 안에 아군이 없을 경우 공격 방어 <font color=\"red\">+13%</font><br/>전투 중 <font color=\"red\">1</font>회 행동 종료 시 비소환수 아군을 지정해 '<font color=\"purple\">충성 맹세</font>'를 부여하고, 자신은 '<font color=\"blue\">지휘</font>'를 획득<br/>(충성 맹세를 보유한 아군과 자신은 생명을 제외한 모든 능력치 <font color=\"red\">+8%</font><br/><font color=\"purple\">충성 맹세</font>를 보유한 아군이 적을 격파하거나 퇴각 시 자신 부대 생명 <font color=\"red\">100%</font> <font color=\"green\">회복</font>하며<br/>만약 자신이 이미 행동 종료 했을 경우 <font color=\"blue\">재행동</font><br/><font color=\"purple\">충성 맹세</font>를 보유한 아군이 퇴각 시 자신은 '<font color=\"blue\">적개심</font>' 획득'<br/>(<font color=\"blue\">이동 시 지형 제한을 받지 않음</font>, <font color=\"blue\">전투 진입 시 선제 공격</font> 및 <font color=\"blue\">적 방어</font> <font color=\"red\">30%</font> <font color=\"blue\">무시</font>)<br/><font color=\"purple\">충성 맹세</font>와 <font color=\"blue\">적개심</font>, 지휘 효과 모두 면역 및 해제 불가<br/><font color=\"blue\">지휘 스킬</font>의 스탯 상승 효과는 동일 지휘 스킬과 중첩 불가<br/><font color=\"blue\">재행동</font>은 매 턴 최대 <font color=\"red\">1</font>회 발동"
+            "Desc": "주위 <font color=\"red\">1</font>칸 안에 아군이 없을 경우 공격 방어 <font color=\"red\">+13%</font><br/>전투 중 <font color=\"red\">1</font>회 행동 종료 시 비소환수 아군을 지정해 '<font color=\"blue\">충성 맹세</font>'를 부여하고, 자신은 '<font color=\"blue\">지휘</font>'를 획득<br/>(충성 맹세를 보유한 아군과 자신은 생명을 제외한 모든 능력치 <font color=\"red\">+8%</font><br/><font color=\"blue\">충성 맹세</font>를 보유한 아군이 적을 격파하거나 퇴각 시 자신 부대 생명 <font color=\"red\">100%</font> <font color=\"green\">회복</font>하며<br/>만약 자신이 이미 행동 종료 했을 경우 <font color=\"blue\">재행동</font><br/><font color=\"blue\">충성 맹세</font>를 보유한 아군이 퇴각 시 자신은 '<font color=\"blue\">적개심</font>' 획득'<br/>(<font color=\"blue\">이동 시 지형 제한을 받지 않음</font>, <font color=\"blue\">전투 진입 시 선제 공격</font> 및 <font color=\"blue\">적 방어</font> <font color=\"red\">30%</font> <font color=\"blue\">무시</font>)<br/><font color=\"blue\">충성 맹세</font>와 <font color=\"blue\">적개심</font>, 지휘 효과 모두 면역 및 해제 불가<br/><font color=\"blue\">지휘 스킬</font>의 스탯 상승 효과는 동일 지휘 스킬과 중첩 불가<br/><font color=\"blue\">재행동</font>은 매 턴 최대 <font color=\"red\">1</font>회 발동"
           },
           {
-            "Desc": "주위 <font color=\"red\">1</font>칸 안에 아군이 없을 경우 공격 방어 <font color=\"red\">+16%</font><br/>전투 중 <font color=\"red\">1</font>회 행동 종료 시 비소환수 아군을 지정해 '<font color=\"purple\">충성 맹세</font>'를 부여하고, 자신은 '<font color=\"blue\">지휘</font>'를 획득<br/>(충성 맹세를 보유한 아군과 자신은 생명을 제외한 모든 능력치 <font color=\"red\">+11%</font><br/><font color=\"purple\">충성 맹세</font>를 보유한 아군이 적을 격파하거나 퇴각 시 자신 부대 생명 <font color=\"red\">100%</font> <font color=\"green\">회복</font>하며<br/>만약 자신이 이미 행동 종료 했을 경우 <font color=\"blue\">재행동</font><br/><font color=\"purple\">충성 맹세</font>를 보유한 아군이 퇴각 시 자신은 '<font color=\"blue\">적개심</font>' 획득'<br/>(<font color=\"blue\">이동 시 지형 제한을 받지 않음</font>, <font color=\"blue\">전투 진입 시 선제 공격</font> 및 <font color=\"blue\">적 방어</font> <font color=\"red\">30%</font> <font color=\"blue\">무시</font>)<br/><font color=\"purple\">충성 맹세</font>와 <font color=\"blue\">적개심</font>, 지휘 효과 모두 면역 및 해제 불가<br/><font color=\"blue\">지휘 스킬</font>의 스탯 상승 효과는 동일 지휘 스킬과 중첩 불가<br/><font color=\"blue\">재행동</font>은 매 턴 최대 <font color=\"red\">1</font>회 발동"
+            "Desc": "주위 <font color=\"red\">1</font>칸 안에 아군이 없을 경우 공격 방어 <font color=\"red\">+16%</font><br/>전투 중 <font color=\"red\">1</font>회 행동 종료 시 비소환수 아군을 지정해 '<font color=\"blue\">충성 맹세</font>'를 부여하고, 자신은 '<font color=\"blue\">지휘</font>'를 획득<br/>(충성 맹세를 보유한 아군과 자신은 생명을 제외한 모든 능력치 <font color=\"red\">+11%</font><br/><font color=\"blue\">충성 맹세</font>를 보유한 아군이 적을 격파하거나 퇴각 시 자신 부대 생명 <font color=\"red\">100%</font> <font color=\"green\">회복</font>하며<br/>만약 자신이 이미 행동 종료 했을 경우 <font color=\"blue\">재행동</font><br/><font color=\"blue\">충성 맹세</font>를 보유한 아군이 퇴각 시 자신은 '<font color=\"blue\">적개심</font>' 획득'<br/>(<font color=\"blue\">이동 시 지형 제한을 받지 않음</font>, <font color=\"blue\">전투 진입 시 선제 공격</font> 및 <font color=\"blue\">적 방어</font> <font color=\"red\">30%</font> <font color=\"blue\">무시</font>)<br/><font color=\"blue\">충성 맹세</font>와 <font color=\"blue\">적개심</font>, 지휘 효과 모두 면역 및 해제 불가<br/><font color=\"blue\">지휘 스킬</font>의 스탯 상승 효과는 동일 지휘 스킬과 중첩 불가<br/><font color=\"blue\">재행동</font>은 매 턴 최대 <font color=\"red\">1</font>회 발동"
           },
           {
-            "Desc": "주위 <font color=\"red\">1</font>칸 안에 아군이 없을 경우 공격 방어 <font color=\"red\">+20%</font><br/>전투 중 <font color=\"red\">1</font>회 행동 종료 시 비소환수 아군을 지정해 '<font color=\"purple\">충성 맹세</font>'를 부여하고, 자신은 '<font color=\"blue\">지휘</font>'를 획득<br/>(충성 맹세를 보유한 아군과 자신은 생명을 제외한 모든 능력치 <font color=\"red\">+15%</font><br/><font color=\"purple\">충성 맹세</font>를 보유한 아군이 적을 격파하거나 퇴각 시 자신 부대 생명 <font color=\"red\">100%</font> <font color=\"green\">회복</font>하며<br/>만약 자신이 이미 행동 종료 했을 경우 <font color=\"blue\">재행동</font><br/><font color=\"purple\">충성 맹세</font>를 보유한 아군이 퇴각 시 자신은 '<font color=\"blue\">적개심</font>' 획득'<br/>(<font color=\"blue\">이동 시 지형 제한을 받지 않음</font>, <font color=\"blue\">전투 진입 시 선제 공격</font> 및 <font color=\"blue\">적 방어</font> <font color=\"red\">30%</font> <font color=\"blue\">무시</font>)<br/><font color=\"purple\">충성 맹세</font>와 <font color=\"blue\">적개심</font>, 지휘 효과 모두 면역 및 해제 불가<br/><font color=\"blue\">지휘 스킬</font>의 스탯 상승 효과는 동일 지휘 스킬과 중첩 불가<br/><font color=\"blue\">재행동</font>은 매 턴 최대 <font color=\"red\">1</font>회 발동"
+            "Desc": "주위 <font color=\"red\">1</font>칸 안에 아군이 없을 경우 공격 방어 <font color=\"red\">+20%</font><br/>전투 중 <font color=\"red\">1</font>회 행동 종료 시 비소환수 아군을 지정해 '<font color=\"blue\">충성 맹세</font>'를 부여하고, 자신은 '<font color=\"blue\">지휘</font>'를 획득<br/>(충성 맹세를 보유한 아군과 자신은 생명을 제외한 모든 능력치 <font color=\"red\">+15%</font><br/><font color=\"blue\">충성 맹세</font>를 보유한 아군이 적을 격파하거나 퇴각 시 자신 부대 생명 <font color=\"red\">100%</font> <font color=\"green\">회복</font>하며<br/>만약 자신이 이미 행동 종료 했을 경우 <font color=\"blue\">재행동</font><br/><font color=\"blue\">충성 맹세</font>를 보유한 아군이 퇴각 시 자신은 '<font color=\"blue\">적개심</font>' 획득'<br/>(<font color=\"blue\">이동 시 지형 제한을 받지 않음</font>, <font color=\"blue\">전투 진입 시 선제 공격</font> 및 <font color=\"blue\">적 방어</font> <font color=\"red\">30%</font> <font color=\"blue\">무시</font>)<br/><font color=\"blue\">충성 맹세</font>와 <font color=\"blue\">적개심</font>, 지휘 효과 모두 면역 및 해제 불가<br/><font color=\"blue\">지휘 스킬</font>의 스탯 상승 효과는 동일 지휘 스킬과 중첩 불가<br/><font color=\"blue\">재행동</font>은 매 턴 최대 <font color=\"red\">1</font>회 발동"
           }
         ]
       }
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "수여받은 명예(갑옷)",
+      "Stats": "생명 437, 방어 65",
+      "Icon": "안드리올.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">충성 맹세</font> 사용 후 자신은 목표의 모든 진영을 추가로 획득하고, 부대 통과 시 <font color=\"blue\">이동력 소모 감면</font> <font color=\"red\">1</font>칸<br/><font color=\"blue\">충성 맹세</font>한 아군이 선공으로 전투 진입 후 적을 격파하지 못 했을 경우,<br/>자신은 <font color=\"blue\">적개심</font> 획득 (지속 <font color=\"red\">2</font>턴)"
+    },
     "Soldiers": [
       "마스터 디노",
       "로열 그리폰",
@@ -106,6 +115,9 @@ var data = [
           },
           {
             "ImageUrl": "안드리올/3/1.webp"
+          },
+          {
+            "ImageUrl": "안드리올/4/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -138,6 +150,9 @@ var data = [
           },
           {
             "ImageUrl": "안드리올/3/1.webp"
+          },
+          {
+            "ImageUrl": "안드리올/4/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -250,7 +265,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Andriole/1.webp",
-        "Desc": "[패시브]주위 <font color=\"red\">3</font>칸 범위 내에 '<font color=\"purple\">충성 맹세</font>'를 보유한 아군이 있을 경우<br/>사망 시 체력 <font color=\"red\">20%</font>로 <font color=\"blue\">부활</font> (최대 <font color=\"red\">1</font>회 발동)<br/>[액티브]자신에게 '<font color=\"blue\">면역</font>' 및 '<font color=\"blue\">이동 시 적 통과</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동)<br/>사용시 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font><br/>해당 스킬은 보유한 버프 지속 시간을 소모하지 않음",
+        "Desc": "[패시브]주위 <font color=\"red\">3</font>칸 범위 내에 '<font color=\"blue\">충성 맹세</font>'를 보유한 아군이 있을 경우<br/>사망 시 체력 <font color=\"red\">20%</font>로 <font color=\"blue\">부활</font> (최대 <font color=\"red\">1</font>회 발동)<br/>[액티브]자신에게 '<font color=\"blue\">면역</font>' 및 '<font color=\"blue\">이동 시 적 통과</font>' 효과 부여 (지속 <font color=\"red\">2</font>행동)<br/>사용시 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font><br/>해당 스킬은 보유한 버프 지속 시간을 소모하지 않음",
         "SubSkills": null,
         "Animation": null
       },
@@ -394,7 +409,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/안드리올.webp",
-        "Desc": "[패시브]행동 종료 시 자신 및 '<font color=\"purple\">충성 맹세</font>'를 보유한 아군 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font> (<font color=\"blue\">적개심</font> 보유 시 치료량 <font color=\"red\">2</font>배)<br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font><br/>주위 <font color=\"red\">3</font>칸 범위 안에 <font color=\"purple\">충성 맹세</font>를 보유한 아군이 있거나 자신이 <font color=\"blue\">적개심</font> 보유 시<br/>해당 공격은 <font color=\"blue\">호위 무시</font> 및 피해 <font color=\"red\">+20%</font><br/>해당 스킬로 적 격파 시 쿨타임 <font color=\"red\">-5</font> 및 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸<br/>아닐 경우 <font color=\"blue\">추가 행동</font> <font color=\"red\">1</font>회 (해당 효과는 쿨타임 <font color=\"red\">2</font>)",
+        "Desc": "[패시브]행동 종료 시 자신 및 '<font color=\"blue\">충성 맹세</font>'를 보유한 아군 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font> (<font color=\"blue\">적개심</font> 보유 시 치료량 <font color=\"red\">2</font>배)<br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font><br/>주위 <font color=\"red\">3</font>칸 범위 안에 <font color=\"blue\">충성 맹세</font>를 보유한 아군이 있거나 자신이 <font color=\"blue\">적개심</font> 보유 시<br/>해당 공격은 <font color=\"blue\">호위 무시</font> 및 피해 <font color=\"red\">+20%</font><br/>해당 스킬로 적 격파 시 쿨타임 <font color=\"red\">-5</font> 및 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸<br/>아닐 경우 <font color=\"blue\">추가 행동</font> <font color=\"red\">1</font>회 (해당 효과는 쿨타임 <font color=\"red\">2</font>)",
         "SubSkills": null
       }
     ],

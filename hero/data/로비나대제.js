@@ -64,22 +64,25 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "주위 <font color=\"red\">1</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+4%</font>(최대 <font color=\"red\">+20%</font>).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+1</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
+            "Desc": "주위 <font color=\"red\">1</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+4%</font>(최대 <font color=\"red\">+20%</font>).<br/>행동 종료 전 <font color=\"blue\">배치</font> 사용 가능</b><br/>(<font color=\"blue\">배치</font> 효과는 하기 후술)<br/><font color=\"blue\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+1</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
           },
           {
-            "Desc": "주위 <font color=\"red\">2</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+5%</font>(최대 <font color=\"red\">+25%</font>).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
+            "Desc": "주위 <font color=\"red\">2</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+5%</font>(최대 <font color=\"red\">+25%</font>).<br/>행동 종료 전 <font color=\"blue\">배치</font> 사용 가능</b><br/>(<font color=\"blue\">배치</font> 효과는 하기 후술)<br/><font color=\"blue\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
           },
           {
-            "Desc": "주위 <font color=\"red\">2</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+6%</font>(최대 <font color=\"red\">+30%</font>).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
+            "Desc": "주위 <font color=\"red\">2</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+6%</font>(최대 <font color=\"red\">+30%</font>).<br/>행동 종료 전 <font color=\"blue\">배치</font> 사용 가능</b><br/>(<font color=\"blue\">배치</font> 효과는 하기 후술)<br/><font color=\"blue\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+2</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
           },
           {
-            "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+7%</font>(최대 <font color=\"red\">+35%</font>).<br/>행동 종료 전 <font color=\"purple\">배치</font> 사용 가능</b><br/>(<font color=\"purple\">배치</font> 효과는 하기 후술)<br/><font color=\"purple\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+3</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
+            "Desc": "주위 <font color=\"red\">3</font> 바퀴 범위 내 있는 부대 <font color=\"red\">1</font>명당 피해량 <font color=\"red\">+7%</font>(최대 <font color=\"red\">+35%</font>).<br/>행동 종료 전 <font color=\"blue\">배치</font> 사용 가능</b><br/>(<font color=\"blue\">배치</font> 효과는 하기 후술)<br/><font color=\"blue\">배치</font> 사용 후 자신은 이동력 <font color=\"red\">+3</font> 획득<br/>지속 <font color=\"red\">1</font> 턴"
           }
         ]
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "제왕의 호령",
+      "Stats": "공격 <font color=\"red\">+5%</font><br/>아군 부대 <font color=\"blue\">배치</font> 후 대상 <font color =\"blue\">이동력</font> <font color=\"red\">+2</font> (지속 <font color =\"red\">2</font>턴)"
+    },
     "Equip": {
       "EqpName": "통솔의 검(검)",
       "Stats": "생명 437, 공격 107",
@@ -383,7 +386,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Loviner/0.webp",
-        "Desc": "<font color=\"purple\">배치</font> : <b>행동 종료 전 서로 다른 <font color=\"red\">2</font>개의 다른 아군을 <font color=\"purple\">배치</font><br/><font color=\"purple\">배치</font> 대상은 해당 위치에서 <font color=\"red\">2</font>칸",
+        "Desc": "<font color=\"blue\">배치</font> : <b>행동 종료 전 서로 다른 <font color=\"red\">2</font>개의 다른 아군을 <font color=\"blue\">배치</font><br/><font color=\"blue\">배치</font> 대상은 해당 위치에서 <font color=\"red\">2</font>칸",
         "SubSkills": null,
         "Animation": null
       },

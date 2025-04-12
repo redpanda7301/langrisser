@@ -132,7 +132,10 @@ var data = [
         ]
       }
     ],
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "자유로운 공주",
+      "Stats": "공격 <font color=\"red\">+10%</font><br/>고유 스킬 재행동 발동 시 자신의 버프 지속 시간이 감소하지 않으며,<br/>자신의 모든 스킬 쿨타임 <font color=\"red\">-1</font>턴"
+    },
     "Equip": {
       "EqpName": "1UP(갑옷)",
       "Stats": "생명 509,방어 59",

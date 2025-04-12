@@ -14,7 +14,7 @@ var data = [
       "ChName": "席尔娜",
       "EngName": "Sylrna",
       "JapName": "",
-      "CV": "",
+      "CV": "오자와 아리",
       "Rank": [
         0
       ],
@@ -252,7 +252,7 @@ var data = [
             }
           ],
           "IconImageUrl": "../img/skills/Sylrna/2.webp",
-          "Desc": "전장의 다른 비소환물 아군이 사망 시, 자신의 고유 스킬의 쿨 <font color=\"red\">-1</font>턴 및 가해자에게 <font color=\"blue\">죄의 낙인</font> 부여 (면역 및 해제 불가, 지속 <font color=\"red\">2</font>턴)<br/>자신이 <font color=\"blue\">죄의 낙인</font>을 보유한 적과 전투 시, 목표의 <font color=\"blue\">부활 무효화</font> 및 <font color=\"blue\">생명을 제외한 모든 스탯</font> <font color=\"red\">-20%</font>.<br/>적 격파 시 해당 적에게 격파된 아군의 환영 소환.<br/>(<font color=\"blue\">부활 무효화</font> 효과는 아레나 모드에서만 발동. 환영은 본체의 초기 상태로 소환되며, 어둠 진영으로 간주)<br/><b>실나가 죄의 낙인 스킬을 갖고 있을 경우, 엔야의 환상으로 소환 불가.</b>",
+          "Desc": "전장의 다른 비소환물 아군이 사망 시, 자신의 고유 스킬의 쿨 <font color=\"red\">-1</font>턴 및 가해자에게 <font color=\"blue\">죄의 낙인</font> 부여 (면역 및 해제 불가, 지속 <font color=\"red\">2</font>턴)<br/>자신이 <font color=\"blue\">죄의 낙인</font>을 보유한 적과 전투 시, 목표의 <font color=\"blue\">부활 무효화</font> 및 <font color=\"blue\">생명을 제외한 모든 스탯</font> <font color=\"red\">-20%</font>.<br/>적 격파 시 해당 적에게 격파된 아군의 환영 소환.<br/>(<font color=\"blue\">부활 무효화</font> 효과는 아레나 모드에서만 발동. 환영은 본체의 초기 상태로 소환되며, 어둠 진영으로 간주)<br/><i>실나가 죄의 낙인 스킬을 갖고 있을 경우, 엔야의 환상으로 소환 불가.</i>",
           "SubSkills": null,
           "Animation": null
         },

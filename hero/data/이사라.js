@@ -70,7 +70,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "고압 노킹",
+      "Stats": "공격, 방어 <font color=\"red\">+5%</font><br/>범위 피해 스킬 사거리 및 효과 범위 <font color=\"red\">+1</font>"
+    },
     "Equip": null,
     "Soldiers": [
       "데몬헌터",

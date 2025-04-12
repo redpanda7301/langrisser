@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "이미르/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "이미르/3.webp",
+        "Desc": "한정 판매"
       }
     ],
     "Name": "이미르",
@@ -99,6 +103,9 @@ var data = [
           },
           {
             "ImageUrl": "이미르/2/1.webp"
+          },
+          {
+            "ImageUrl": "이미르/3/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -128,6 +135,9 @@ var data = [
           },
           {
             "ImageUrl": "이미르/2/1.webp"
+          },
+          {
+            "ImageUrl": "이미르/3/1.webp"
           }
         ],
         "AttkRange": 1,
