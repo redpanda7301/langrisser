@@ -282,7 +282,7 @@ var data = [
             "SubSkills": [
                 {
                     "Name": "섭백",
-                    "Cost": "COST 2, 영웅 병종 보병/창병",
+                    "Cost": "COST 2",
                     "Entries": [
                       {
                         "Label": "유형",
@@ -302,11 +302,11 @@ var data = [
                       }
                     ],
                     "IconImageUrl": "../img/skills/Skill_Support.webp",
-                    "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>해당 전투에서 <font color=\"blue\">근접전 패널티를 받지 않음</font><br/>전투 전 적 버프 <font color=\"red\">3</font>개 제거 및 적에게 <font color=\"blue\">패시브 봉인</font> 부여 (지속 <font color=\"red\">2</font>턴, 해제 불가)"
+                    "Desc": "<font color=\"blue\">영웅 병종 보병/창병일 때 사용 가능</font><br/>단일 개체 <font color=\"red\">1.5</font>배 피해<br/>해당 전투에서 <font color=\"blue\">근접전 패널티를 받지 않음</font><br/>전투 전 적 버프 <font color=\"red\">3</font>개 제거 및 적에게 <font color=\"blue\">패시브 봉인</font> 부여 (지속 <font color=\"red\">2</font>턴, 해제 불가)"
                   },
               {
                 "Name": "치열",
-                "Cost": "COST 2, 영웅 병종 궁병/암살",
+                "Cost": "COST 2",
                 "Entries": [
                   {
                     "Label": "유형",
@@ -326,11 +326,11 @@ var data = [
                   }
                 ],
                 "IconImageUrl": "../img/skills/6.webp",
-                "Desc": "호위 무시 단일 개체 <font color=\"red\">1.4</font>배 피해<br/><font color=\"blue\">치명타 확률</font> <font color=\"red\">+30%</font><br/>방어 지형에 있을 경우 해당 공격 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>전투 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재이동</font>"
+                "Desc": "<font color=\"blue\">영웅 병종 궁병/암살일 때 사용 가능</font><br/>호위 무시 단일 개체 <font color=\"red\">1.4</font>배 피해<br/><font color=\"blue\">치명타 확률</font> <font color=\"red\">+30%</font><br/>방어 지형에 있을 경우 해당 공격 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+2</font><br/>전투 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재이동</font>"
               },
               {
                 "Name": "회혼",
-                "Cost": "COST 2, 영웅 병종 수병/승병",
+                "Cost": "COST 2",
                 "Entries": [
                   {
                     "Label": "유형",
@@ -350,11 +350,11 @@ var data = [
                   }
                 ],
                 "IconImageUrl": "../img/skills/23.webp",
-                "Desc": "액티브. 범위 내 부대 생명 회복<br/>회복량은 시전자 <font color=\"blue\">공격력</font> <font color=\"red\">5</font>배<br/>디버프 <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">주는 피해량</font> <font color=\"red\">+15%</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)"
+                "Desc": "<font color=\"blue\">영웅 병종 수병/승병일 때 사용 가능</font><br/>액티브. 범위 내 부대 생명 회복<br/>회복량은 시전자 <font color=\"blue\">공격력</font> <font color=\"red\">5</font>배<br/>디버프 <font color=\"red\">2</font>개 제거 및 <font color=\"blue\">주는 피해량</font> <font color=\"red\">+15%</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)"
               },
               {
                 "Name": "현목",
-                "Cost": "COST 2, 영웅 병종 기병/비병",
+                "Cost": "COST 2",
                 "Entries": [
                   {
                     "Label": "유형",
@@ -374,11 +374,11 @@ var data = [
                   }
                 ],
                 "IconImageUrl": "../img/skills/15.webp",
-                "Desc": "[패시브]<font color=\"blue\">부대 이동 시 지형 제한을 받지 않음</font>. <font color=\"blue\">부대 이동력</font> <font color=\"red\">+2</font><br/>[액티브]범위 내 모든 아군 <font color=\"blue\">이동력</font> <font color=\"red\">+2</font>, <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font>, <font color=\"blue\">이동력 감소 면역</font>, <font color=\"blue\">패시브 봉인 면역</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)"
+                "Desc": "<font color=\"blue\">영웅 병종 기병/비병일 때 사용 가능</font><br/>[패시브]<font color=\"blue\">부대 이동 시 지형 제한을 받지 않음</font>. <font color=\"blue\">부대 이동력</font> <font color=\"red\">+2</font><br/>[액티브]범위 내 모든 아군 <font color=\"blue\">이동력</font> <font color=\"red\">+2</font>, <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font>, <font color=\"blue\">이동력 감소 면역</font>, <font color=\"blue\">패시브 봉인 면역</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)"
               },
               {
                 "Name": "심연",
-                "Cost": "COST 2, 영웅 병종 마법사/마족",
+                "Cost": "COST 2",
                 "Entries": [
                   {
                     "Label": "유형",
@@ -398,11 +398,11 @@ var data = [
                   }
                 ],
                 "IconImageUrl": "../img/skills/Skill_DarkHole.webp",
-                "Desc": "<font color=\"blue\">치명타 확률</font> <font color=\"red\">+50%</font><br/>자신 주위 <font color=\"red\">3</font>칸 범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 <font color=\"blue\">랜덤한 디버프</font> <font color=\"red\">2</font>개 부여<br/>자신과 같은 병종의 적에게 <font color=\"blue\">특효</font>"
+                "Desc": "<font color=\"blue\">영웅 병종 마법사/마족일 때 사용 가능</font><br/><font color=\"blue\">치명타 확률</font> <font color=\"red\">+50%</font><br/>자신 주위 <font color=\"red\">3</font>칸 범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 <font color=\"blue\">랜덤한 디버프</font> <font color=\"red\">2</font>개 부여<br/>자신과 같은 병종의 적에게 <font color=\"blue\">특효</font>"
               },
               {
                 "Name": "섭체",
-                "Cost": "COST 2, 영웅 병종 용/기타 병종",
+                "Cost": "COST 2",
                 "Entries": [
                   {
                     "Label": "유형",
@@ -422,7 +422,7 @@ var data = [
                   }
                 ],
                 "IconImageUrl": "../img/skills/Gazesuccubus/3.webp",
-                "Desc": "단일 개체 <font color=\"red\">1.8</font>배 피해<br/>자신과 다른 병종의 적에게 <font color=\"blue\">특효</font><br/>이번 전투에서 <font color=\"blue\">선제 공격</font><br/>전투 후 피해량 <font color=\"red\">30%</font> 수치 생명 회복 및 <font color=\"blue\">자신 고유 스킬 발동 쿨타임 제거</font>"
+                "Desc": "<font color=\"blue\">영웅 병종 용/기타 병종일 때 사용 가능</font><br/>단일 개체 <font color=\"red\">1.8</font>배 피해<br/>자신과 다른 병종의 적에게 <font color=\"blue\">특효</font><br/>이번 전투에서 <font color=\"blue\">선제 공격</font><br/>전투 후 피해량 <font color=\"red\">30%</font> 수치 생명 회복 및 <font color=\"blue\">자신 고유 스킬 발동 쿨타임 제거</font>"
               }
             ]
           },
