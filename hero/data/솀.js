@@ -252,7 +252,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/skills/Skill_SwordSoul.webp",
-            "Desc": "단일 개체에게 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적 부대의 버프 <font color=\"red\">5</font>개 <font color=\"blue\">제거</font> 및 적 부대에게 '<font color=\"blue\">치료 방해</font>' 부여<br/> 지속 <font color=\"red\">2<br/>턴<br/>해제 불가",
+            "Desc": "단일 개체에게 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적 부대의 버프 <font color=\"red\">5</font>개 <font color=\"blue\">제거</font> 및 적 부대에게 '<font color=\"blue\">치료 방해</font>' 부여<br/> 지속 <font color=\"red\">2</font>턴, 해제 불가",
             "SubSkills": null,
             "Animation": null
           },
