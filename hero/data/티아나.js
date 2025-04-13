@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "티아나/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "티아나/3.webp",
+        "Desc": "서밋아레나 S21 패자스킨"
       }
     ],
     "Name": "티아나",
@@ -102,6 +106,9 @@ var data = [
           },
           {
             "ImageUrl": "티아나/2/1.webp"
+          },
+          {
+            "ImageUrl": "티아나/3/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -131,6 +138,9 @@ var data = [
           },
           {
             "ImageUrl": "티아나/2/1.webp"
+          },
+          {
+            "ImageUrl": "티아나/3/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -314,7 +324,7 @@ var data = [
         "Animation": null
       },
       {
-        "Name": "자유의 검",
+        "Name": "그림자의 검",
         "Cost": "COST 2",
         "Entries": [
           {
@@ -327,7 +337,7 @@ var data = [
           },
           {
             "Label": "사거리",
-            "Value": "자신"
+            "Value": "맵전체"
           },
           {
             "Label": "범위",

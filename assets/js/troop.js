@@ -2465,3 +2465,10 @@ function closeForm59_3() {
 function openForm60_3() {
   document.getElementById("myForm60_3").style.display = "block";
 }
+//SP병종 구분(250413 8프로빌런)
+function openForm25_1_1() {
+  document.getElementById("myForm60_1").style.display = "block";
+}
+function closeForm25_1_1() {
+  document.getElementById("myForm60_1").style.display = "none";
+}

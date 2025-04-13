@@ -32,6 +32,10 @@ var data = [
       {
         "ImageUrl": "티아리스/sp.webp",
         "Desc": "SP 각성"
+      },
+      {
+        "ImageUrl": "티아리스/8.webp",
+        "Desc": "서밋아레나 S22 골드스킨"
       }
     ],
     "Name": "티아리스",
@@ -174,6 +178,9 @@ var data = [
           },
           {
             "ImageUrl": "티아리스/sp/1.webp"
+          },
+          {
+            "ImageUrl": "티아리스/8/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -221,6 +228,9 @@ var data = [
           },
           {
             "ImageUrl": "티아리스/sp/2.webp"
+          },
+          {
+            "ImageUrl": "티아리스/8/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -268,6 +278,9 @@ var data = [
           },
           {
             "ImageUrl": "티아리스/sp/3.webp"
+          },
+          {
+            "ImageUrl": "티아리스/8/1.webp"
           }
         ],
         "AttkRange": 2,

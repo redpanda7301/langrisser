@@ -77,7 +77,7 @@ var data = [
     "SPTalent": null,
     "Second_Awaken": {
       "Name": "광노멸격",
-      "Stats": "공격, 방어 <font color=\"red\">+5%</font><br/><font color =\"blue\">연격</font> 지속 시간 <font color=\"red\">+1</font>턴,<br/>적에게 <font color =\"blue\">연격</font> 부여 시 <font color=\"red\">50%</font>확률로 <font color=\"red\">1</font>개 추가로 부여"
+      "Stats": "공격, 방어 <font color=\"red\">+5%</font><br/><font color =\"blue\">연격</font> 지속 시간 <font color=\"red\">+1</font>턴,<br/>적에게 <font color =\"blue\">연격</font> 부여 시 <font color=\"red\">50%</font> 확률로 <font color=\"red\">1</font>개 추가로 부여"
     },
     "Equip": null,
     "Soldiers": [
