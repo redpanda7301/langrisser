@@ -488,7 +488,7 @@ var data = [
             }
           ],
           "IconImageUrl": "../img/Super/마안의서큐버스.webp",
-          "Desc": "[지휘] 모든 아군의 <font color=\"blue\">상성 효과</font> <font color=\"red\">+10%</font>, 자신이 혼합 부대 적과 전투 시 <font color=\"blue\">호위 무시</font><br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적의 버프 <font color=\"red\">3</font>개를 <font color=\"blue\">핸덤하고 강력한 디버프로 변경</font><br/>상성인 적과 전투 시, <font color=\"blue\">적 부활 무효화</font><br/><font color=\"blue\">적 부활 무효화</font> 효과는 아레나에서만 적용",
+          "Desc": "[지휘] 모든 아군의 <font color=\"blue\">상성 효과</font> <font color=\"red\">+10%</font>, 자신이 혼합 부대 적과 전투 시 <font color=\"blue\">호위 무시</font><br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적의 버프 <font color=\"red\">3</font>개를 <font color=\"blue\">랜덤하고 강력한 디버프로 변경</font><br/>상성인 적과 전투 시, <font color=\"blue\">적 부활 무효화</font><br/><font color=\"blue\">적 부활 무효화</font> 효과는 아레나에서만 적용",
           "SubSkills": null,
           "Animation": "../img/Super/마안의서큐버스_Ani.webp"
         }
