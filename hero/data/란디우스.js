@@ -863,11 +863,11 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "치료"
+            "Value": "액티브"
           },
           {
             "Label": "쿨타임",
-            "Value": "2턴"
+            "Value": "1턴"
           },
           {
             "Label": "사거리",

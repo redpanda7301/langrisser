@@ -24,6 +24,10 @@ var data = [
       {
         "ImageUrl": "루나/6.webp",
         "Desc": "한정판매"
+      },
+      {
+        "ImageUrl": "루나/sp.webp",
+        "Desc": "SP 각성"
       }
     ],
     "Name": "루나",
@@ -41,13 +45,13 @@ var data = [
       "기원"
     ],
     "HP": 10,
-    "SPHP": 0,
+    "SPHP": 20,
     "Attk": 40,
-    "SPAttk": 0,
+    "SPAttk": 40,
     "Def": 10,
-    "SPDef": 0,
+    "SPDef": 10,
     "MagicDef": 40,
-    "SPMagicDef": 0,
+    "SPMagicDef": 30,
     "HowToGet": "영웅 소환",
     "Fetters": [
       {
@@ -76,21 +80,46 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "마방 <font color=\"red\">+10%</font>.<br/> 주위 2칸 내 아군이 받는 마법 피해량 <font color=\"red\">-15%</font>."
+            "Desc": "마방 <font color=\"red\">+10%</font>.<br/> 주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 마법 피해량 <font color=\"red\">-15%</font>."
           },
           {
-            "Desc": "마방 <font color=\"red\">+13%</font>.<br/> 주위 2칸 내 아군이 받는 마법 피해량 <font color=\"red\">-20%</font>."
+            "Desc": "마방 <font color=\"red\">+13%</font>.<br/> 주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 마법 피해량 <font color=\"red\">-20%</font>."
           },
           {
-            "Desc": "마방 <font color=\"red\">+16%</font>.<br/> 주위 2칸 내 아군이 받는 마법 피해량 <font color=\"red\">-25%</font>."
+            "Desc": "마방 <font color=\"red\">+16%</font>.<br/> 주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 마법 피해량 <font color=\"red\">-25%</font>."
           },
           {
-            "Desc": "마방 <font color=\"red\">+20%</font>.<br/> 주위 2칸 내 아군이 받는 마법 피해량 <font color=\"red\">-30%</font>."
+            "Desc": "마방 <font color=\"red\">+20%</font>.<br/> 주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 마법 피해량 <font color=\"red\">-30%</font>."
           }
         ]
       }
     ],
-    "SPTalent": null,
+    "SPTalent": [
+      {
+        "Name": "하얀 달의 보호",
+        "Icon": "Gift_Temp.webp",
+        "Abilities": [
+          {
+            "Desc": "1성"
+          },
+          {
+            "Desc": "2성"
+          },
+          {
+            "Desc": "마방 <font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-10%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font> 효과는 우선 순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
+          },
+          {
+            "Desc": "마방 <font color=\"red\">+15%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-13%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font> 효과는 우선 순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
+          },
+          {
+            "Desc": "마방 <font color=\"red\">+20%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-16%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font> 효과는 우선 순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
+          },
+          {
+            "Desc": "마방 <font color=\"red\">+25%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-20%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font> 효과는 우선 순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
+          }
+        ]
+      }
+    ],
     "Second_Awaken": {
       "Name": "바람을 스치는 습격",
       "Stats": "마방 <font color=\"red\">+5%</font><br/>자신이 <font color=\"blue\">초절 강화 특수 효과</font> 보유 시, 주는 피해량 <font color=\"red\">+15%</font><br/>스킬로 적에게 피해를 입힌 후 해당 스킬 쿨타임 <font color=\"red\">-2</font>"
@@ -111,7 +140,8 @@ var data = [
       "중장 기병",
       "엘프 궁기병",
       "기계 용기사",
-      "무지개 페가수스"
+      "무지개 페가수스",
+      "태양 전투매"
     ],
     "Jobs": [
       {
@@ -135,6 +165,9 @@ var data = [
           },
           {
             "ImageUrl": "루나/6/1.webp"
+          },
+          {
+            "ImageUrl": "루나/sp/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -154,6 +187,50 @@ var data = [
         "SkillRate": 54,
         "HeartFetterBouns1": "생명 70%이하일때 전투중 받는피해 -10%",
         "HeartFetterBouns2": "원거리 공격을 받아 전투진입시 입히는피해 +10%"
+      },
+      {
+        "Name": "달빛 영주",
+        "Icon": "비병SP",
+        "SD": [
+          {
+            "ImageUrl": "루나/1/2.webp"
+          },
+          {
+            "ImageUrl": "루나/2/2.webp"
+          },
+          {
+            "ImageUrl": "루나/3/2.webp"
+          },
+          {
+            "ImageUrl": "루나/4/2.webp"
+          },
+          {
+            "ImageUrl": "루나/5/2.webp"
+          },
+          {
+            "ImageUrl": "루나/6/2.webp"
+          },
+          {
+            "ImageUrl": "루나/sp/2.webp"
+          }
+        ],
+        "AttkRange": 1,
+        "Move": 5,
+        "MoveType": "비행",
+        "HP": 4842,
+        "HPRate": 74,
+        "Attk": 478,
+        "AttkRate": 73,
+        "Int": 315,
+        "IntRate": 48,
+        "Def": 335,
+        "DefRate": 74,
+        "MagicDef": 420,
+        "MagicDefRate": 93,
+        "Skill": 148,
+        "SkillRate": 42,
+        "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "부대가 버프 <font color=\"red\">5</font>개 이상 보유 시<br/>전투 중 입히는 피해량 <font color=\"red\">+10%</font>"
       },
       {
         "Name": "페가수스 마스터",
@@ -176,6 +253,9 @@ var data = [
           },
           {
             "ImageUrl": "루나/6/2.webp"
+          },
+          {
+            "ImageUrl": "루나/sp/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -561,7 +641,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/SuperBuff_Princess1.webp",
-        "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '공주 연맹' 아군의 <br/>공격, 방어 능력치가 크게 상승하고 직접 적을 공격해 피해를 준 후<br/>추가로 [고정 피해]를 줄 수 있다. 피해량은 적의 남은 생명의 15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
+        "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 <font color=\"blue\">공주 연맹</font> 아군의 <br/>공격, 방어 능력치가 크게 상승하고 직접 적을 공격해 피해를 준 후<br/>추가로 [고정 피해]를 줄 수 있다. 피해량은 적의 남은 생명의 15%, 4턴 지속.<br/>(이효과는 다른 초절강화 스킬과 중첩불가)",
         "SubSkills": null,
         "Animation": null
       },
@@ -602,6 +682,58 @@ var data = [
         ],
         "IconImageUrl": "../img/skills/Skill_MassMDefKup.webp",
         "Desc": "범위 내 아군들의 마방<font color=\"Red\">+30%</font>,<br/>'<font color=\"blue\">기절, 강화 방해, 이동력 감소</font> 면역 부여<br/>지속 <font color=\"red\">2</font>행동",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
+        "Name": "SP : 활공하는 달 그림자",
+        "Cost": "COST 1",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "액티브"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "-"
+          },
+          {
+            "Label": "사거리",
+            "Value": "-"
+          },
+          {
+            "Label": "범위",
+            "Value": "-"
+          }
+        ],
+        "IconImageUrl": "../img/skills/sp/루나/Temp.webp",
+        "Desc": "[패시브]<font color=\"green\">달 그림자</font> 지형 위에서 행동 종료 시 <font color=\"blue\">자신이 보유한 버프 지속 시간이 감소하지 않음</font>, 현재 가장 쿨이 긴 스킬 쿨타임 <font color=\"red\">-1</font>턴<br/>[액티브] 지휘 효과 선택 획득 가능 (<font color=\"blue\">공격 지휘</font>, <font color=\"blue\">방어 지휘</font>, <font color=\"blue\">마방 지휘</font> 중 택일)<br/>자신의 <font color=\"blue\">이동력</font> <font color=\"red\">+3</font> (지속 <font color=\"red\">2</font>턴",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
+        "Name": "SP : 달빛 습격",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "물리피해"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "5턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "2칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/skills/sp/루나/Temp.webp",
+        "Desc": "[패시브] 재행동 효과 발동 시 전장의 모든 <font color=\"blue\">공주 연맹</font> 아군의 공격, 방어 능력치가 크게 상승하고 '선공으로 피해를 입힌 후, 자신 영웅 최대 생명 <font color=\"red\">15%</font> 수치의 고정 피해 <font color=\"red\">1</font>회 발생' 효과 부여 (지속 <font color=\"red\">4</font>턴, 이 효과는 다른 초절강화 스킬과 중첩불가)<br/>[물리피해] 단일 개체 <font color=\"red\">1.7</font>배 피해<br/>공격 전 이동 <font color=\"red\">1</font>칸당 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font><br/>전투 후 <font color=\"blue\">달빛</font> 효과 획득<br/><font color=\"blue\">달빛</font> : 인접한 아군이 공격을 받아 전투 진입 시 <font color=\"red\">50%</font> 확률로 발동, <font color=\"blue\">적 부대 사거리 <font color=\"red\">-1</font> (지속 <font color=\"red\">1</font>턴)",
         "SubSkills": null,
         "Animation": null
       },

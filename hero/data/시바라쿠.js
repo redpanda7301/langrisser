@@ -70,7 +70,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "백전불태",
+      "Stats": "공격 <font color=\"red\">+5%</font><br/>스킬을 사용해 적 격파 시, <font color =\"blue\">백전의 깨우침</font> 획득"
+    },
     "Equip": null,
     "Soldiers": [
       "중장 보병",

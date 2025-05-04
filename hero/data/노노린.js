@@ -60,23 +60,28 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "주는 피해량 <font color=\"red\">+15%</font><br/>물에서 행동 종료 시 공격 <font color=\"red\">1</font>배로 생명 회복, 초과 수치는 쉴드로 전환, 해제 불가. (최대 생명 25% 수치를 초과 불가)<br/>행동 종료 시, 주위 <font color=\"red\">5</font>칸 범위 안에 <font color=\"purple\">파도 부르기</font> 시전 가능<br/><font color=\"purple\">파도 부르기</font> : <font color=\"red\">3</font>줄 직선 상의 최대 <font color=\"red\">3</font>칸 범위의 적을 시전자로부터 <font color=\"red\">2</font>칸 밀침, 명중한 지형은 <font color=\"red\">2</font>턴 동안 <font color=\"purple\">만조</font> 효과 획득<br/><font color=\"purple\">만조</font> : 자신과 적이 <font color=\"purple\">만조</font> 위에 있을 경우, 해당 지형은 <font color=\"blue\">물</font>로 간주. 이 스킬로 위치 이동 효과를 발동시켰을 경우, 자신이 보유한 버프 지속시간을 소모하지 않으며 재공격 가능 (쿨타임 <font color=\"red\">4</font>행동)"
+            "Desc": "주는 피해량 <font color=\"red\">+15%</font><br/>물에서 행동 종료 시 공격 <font color=\"red\">1</font>배로 생명 회복, 초과 수치는 쉴드로 전환, 해제 불가. (최대 생명 25% 수치를 초과 불가)<br/>행동 종료 시, 주위 <font color=\"red\">5</font>칸 범위 안에 <font color=\"blue\">파도 부르기</font> 시전 가능<br/><font color=\"blue\">파도 부르기</font> : <font color=\"red\">3</font>줄 직선 상의 최대 <font color=\"red\">3</font>칸 범위의 적을 시전자로부터 <font color=\"red\">2</font>칸 밀침, 명중한 지형은 <font color=\"red\">2</font>턴 동안 <font color=\"green\">만조</font> 효과 획득<br/><font color=\"green\">만조</font> : 자신과 적이 <font color=\"green\">만조</font> 위에 있을 경우, 해당 지형은 <font color=\"blue\">물</font>로 간주. 이 스킬로 위치 이동 효과를 발동시켰을 경우, 자신이 보유한 버프 지속시간을 소모하지 않으며 재공격 가능 (쿨타임 <font color=\"red\">4</font>행동)"
           },
           {
-            "Desc": "주는 피해량 <font color=\"red\">+20%</font><br/>물에서 행동 종료 시 공격 <font color=\"red\">1.5</font>배로 생명 회복, 초과 수치는 쉴드로 전환, 해제 불가. (최대 생명 25% 수치를 초과 불가)<br/>행동 종료 시, 주위 <font color=\"red\">5</font>칸 범위 안에 <font color=\"purple\">파도 부르기</font> 시전 가능<br/><font color=\"purple\">파도 부르기</font> : <font color=\"red\">3</font>줄 직선 상의 최대 <font color=\"red\">3</font>칸 범위의 적을 시전자로부터 <font color=\"red\">2</font>칸 밀침, 명중한 지형은 <font color=\"red\">2</font>턴 동안 <font color=\"purple\">만조</font> 효과 획득<br/><font color=\"purple\">만조</font> : 자신과 적이 <font color=\"purple\">만조</font> 위에 있을 경우, 해당 지형은 <font color=\"blue\">물</font>로 간주. 이 스킬로 위치 이동 효과를 발동시켰을 경우, 자신이 보유한 버프 지속시간을 소모하지 않으며 재공격 가능 (쿨타임 <font color=\"red\">3</font>행동)"
+            "Desc": "주는 피해량 <font color=\"red\">+20%</font><br/>물에서 행동 종료 시 공격 <font color=\"red\">1.5</font>배로 생명 회복, 초과 수치는 쉴드로 전환, 해제 불가. (최대 생명 25% 수치를 초과 불가)<br/>행동 종료 시, 주위 <font color=\"red\">5</font>칸 범위 안에 <font color=\"blue\">파도 부르기</font> 시전 가능<br/><font color=\"blue\">파도 부르기</font> : <font color=\"red\">3</font>줄 직선 상의 최대 <font color=\"red\">3</font>칸 범위의 적을 시전자로부터 <font color=\"red\">2</font>칸 밀침, 명중한 지형은 <font color=\"red\">2</font>턴 동안 <font color=\"green\">만조</font> 효과 획득<br/><font color=\"green\">만조</font> : 자신과 적이 <font color=\"green\">만조</font> 위에 있을 경우, 해당 지형은 <font color=\"blue\">물</font>로 간주. 이 스킬로 위치 이동 효과를 발동시켰을 경우, 자신이 보유한 버프 지속시간을 소모하지 않으며 재공격 가능 (쿨타임 <font color=\"red\">3</font>행동)"
           },
           {
-            "Desc": "주는 피해량 <font color=\"red\">+25%</font><br/>물에서 행동 종료 시 공격 <font color=\"red\">2</font>배로 생명 회복, 초과 수치는 쉴드로 전환, 해제 불가. (최대 생명 25% 수치를 초과 불가)<br/>행동 종료 시, 주위 <font color=\"red\">5</font>칸 범위 안에 <font color=\"purple\">파도 부르기</font> 시전 가능<br/><font color=\"purple\">파도 부르기</font> : <font color=\"red\">3</font>줄 직선 상의 최대 <font color=\"red\">3</font>칸 범위의 적을 시전자로부터 <font color=\"red\">2</font>칸 밀침, 명중한 지형은 <font color=\"red\">2</font>턴 동안 <font color=\"purple\">만조</font> 효과 획득<br/><font color=\"purple\">만조</font> : 자신과 적이 <font color=\"purple\">만조</font> 위에 있을 경우, 해당 지형은 <font color=\"blue\">물</font>로 간주. 이 스킬로 위치 이동 효과를 발동시켰을 경우, 자신이 보유한 버프 지속시간을 소모하지 않으며 재공격 가능 (쿨타임 <font color=\"red\">3</font>행동)"
+            "Desc": "주는 피해량 <font color=\"red\">+25%</font><br/>물에서 행동 종료 시 공격 <font color=\"red\">2</font>배로 생명 회복, 초과 수치는 쉴드로 전환, 해제 불가. (최대 생명 25% 수치를 초과 불가)<br/>행동 종료 시, 주위 <font color=\"red\">5</font>칸 범위 안에 <font color=\"blue\">파도 부르기</font> 시전 가능<br/><font color=\"blue\">파도 부르기</font> : <font color=\"red\">3</font>줄 직선 상의 최대 <font color=\"red\">3</font>칸 범위의 적을 시전자로부터 <font color=\"red\">2</font>칸 밀침, 명중한 지형은 <font color=\"red\">2</font>턴 동안 <font color=\"green\">만조</font> 효과 획득<br/><font color=\"green\">만조</font> : 자신과 적이 <font color=\"green\">만조</font> 위에 있을 경우, 해당 지형은 <font color=\"blue\">물</font>로 간주. 이 스킬로 위치 이동 효과를 발동시켰을 경우, 자신이 보유한 버프 지속시간을 소모하지 않으며 재공격 가능 (쿨타임 <font color=\"red\">3</font>행동)"
           },
           {
-            "Desc": "주는 피해량 <font color=\"red\">+30%</font><br/>물에서 행동 종료 시 공격 <font color=\"red\">2.5</font>배로 생명 회복, 초과 수치는 쉴드로 전환, 해제 불가. (최대 생명 25% 수치를 초과 불가)<br/>행동 종료 시, 주위 <font color=\"red\">5</font>칸 범위 안에 <font color=\"purple\">파도 부르기</font> 시전 가능<br/><font color=\"purple\">파도 부르기</font> : <font color=\"red\">3</font>줄 직선 상의 최대 <font color=\"red\">3</font>칸 범위의 적을 시전자로부터 <font color=\"red\">2</font>칸 밀침, 명중한 지형은 <font color=\"red\">2</font>턴 동안 <font color=\"purple\">만조</font> 효과 획득<br/><font color=\"purple\">만조</font> : 자신과 적이 <font color=\"purple\">만조</font> 위에 있을 경우, 해당 지형은 <font color=\"blue\">물</font>로 간주. 이 스킬로 위치 이동 효과를 발동시켰을 경우, 자신이 보유한 버프 지속시간을 소모하지 않으며 재공격 가능 (쿨타임 <font color=\"red\">2</font>행동)"
+            "Desc": "주는 피해량 <font color=\"red\">+30%</font><br/>물에서 행동 종료 시 공격 <font color=\"red\">2.5</font>배로 생명 회복, 초과 수치는 쉴드로 전환, 해제 불가. (최대 생명 25% 수치를 초과 불가)<br/>행동 종료 시, 주위 <font color=\"red\">5</font>칸 범위 안에 <font color=\"blue\">파도 부르기</font> 시전 가능<br/><font color=\"blue\">파도 부르기</font> : <font color=\"red\">3</font>줄 직선 상의 최대 <font color=\"red\">3</font>칸 범위의 적을 시전자로부터 <font color=\"red\">2</font>칸 밀침, 명중한 지형은 <font color=\"red\">2</font>턴 동안 <font color=\"green\">만조</font> 효과 획득<br/><font color=\"green\">만조</font> : 자신과 적이 <font color=\"green\">만조</font> 위에 있을 경우, 해당 지형은 <font color=\"blue\">물</font>로 간주. 이 스킬로 위치 이동 효과를 발동시켰을 경우, 자신이 보유한 버프 지속시간을 소모하지 않으며 재공격 가능 (쿨타임 <font color=\"red\">2</font>행동)"
           }
         ]
       }
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "파도의 메아리(투구)",
+      "Stats": "생명 437,마방 59",
+      "Icon": "노노린.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/>스킬을 사용하고 행동 종료 시, 주위 <font color=\"red\">1</font>바퀴 범위 내 모든 지형에 <font color=\"green\">만조</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/>자신이 물에 있거나 쉴드 보유 시, 부대가 받는 피해 <font color=\"red\">-10%</font><br/>두 조건 동시 만족 시 받는 피해 <font color=\"red\">-20%</font>"
+    },
     "Soldiers": [
       "그레나디어",
       "중장 창병",
