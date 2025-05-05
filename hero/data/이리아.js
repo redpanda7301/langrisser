@@ -191,7 +191,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "액티브"
+            "Value": "마법피해"
           },
           {
             "Label": "쿨타임",
@@ -199,11 +199,11 @@ var data = [
           },
           {
             "Label": "사거리",
-            "Value": "2칸"
+            "Value": "맵전체"
           },
           {
             "Label": "범위",
-            "Value": "단일"
+            "Value": "5칸"
           }
         ],
         "IconImageUrl": "../img/skills/Ilia/2.webp",

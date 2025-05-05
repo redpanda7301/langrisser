@@ -271,33 +271,7 @@ var data = [
           "Animation": null
         },
         {
-          "Name": "바람 칼날",
-          "Cost": "COST 2",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "물리피해"
-            },
-            {
-              "Label": "쿨타임",
-              "Value": "2턴"
-            },
-            {
-              "Label": "사거리",
-              "Value": "2칸"
-            },
-            {
-              "Label": "범위",
-              "Value": "단일"
-            }
-          ],
-          "IconImageUrl": "../img/skills/0.webp",
-          "Desc": "단일 개체에게 <font color=\"Red\">1.5</font>배의 피해<br/>근접전 병사를 이끌고 있다면 병사도 함께 공격한다.",
-          "SubSkills": null,
-          "Animation": null
-        },
-        {
-          "Name": "힘의 외침",
+          "Name": "에너지 격류",
           "Cost": "COST 2",
           "Entries": [
             {
