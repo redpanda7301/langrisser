@@ -14,7 +14,7 @@ var data = [
       "ChName": "阿布沙伊特",
       "EngName": "Abishai",
       "JapName": "",
-      "CV": "와타나베 아키노",
+      "CV": "와타나베 아케노",
       "Rank": [
         0
       ],
