@@ -60,16 +60,16 @@ var data = [
               "Desc": "2성"
             },
             {
-              "Desc": "주는 피해량 <font color=\"red\">+15%</font><br/><font color=\"blue\">부대가 근접전 패널티를 받지않음</font><br/>행동 종료 시 <font color=\"blue\">꿈의 균열</font>을 1개 소환 가능. 소환 후 남은 이동력만큼 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>자신과 <font color=\"blue\">꿈의 균열</font>의 거리가 <font color=\"red\">2</font>칸 이내일 경우, 적의 일반 공격 및 스킬 목표가 될 수 없으며, 범위 공격 스킬 피해 면역. 해당 범위 안을 이동 시 이동력을 소모하지 않으며, 적 통과 가능 (해당 효과 쿨타임 <font color=\"red\">5</font>턴)<br/><font color=\"blue\">꿈의 균열</font>은 소환시 시전자 스탯의 <font color=\"red\">80%</font>를 계승하며, 다음 턴에 소멸"
+              "Desc": "주는 피해량 <font color=\"red\">+15%</font><br/><font color=\"blue\">부대가 근접전 패널티를 받지않음</font><br/>행동 종료 시 <font color=\"purple\">꿈의 균열</font>을 1개 소환 가능. 소환 후 남은 이동력만큼 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>자신과 <font color=\"purple\">꿈의 균열</font>의 거리가 <font color=\"red\">2</font>칸 이내일 경우, 적의 일반 공격 및 스킬 목표가 될 수 없으며, 범위 공격 스킬 피해 면역. 해당 범위 안을 이동 시 이동력을 소모하지 않으며, 적 통과 가능 (해당 효과 쿨타임 <font color=\"red\">5</font>턴)<br/><font color=\"purple\">꿈의 균열</font>은 소환시 시전자 스탯의 <font color=\"red\">80%</font>를 계승하며, 다음 턴에 소멸"
             },
             {
-              "Desc": "주는 피해량 <font color=\"red\">+20%</font><br/><font color=\"blue\">부대가 근접전 패널티를 받지않음</font><br/>행동 종료 시 <font color=\"blue\">꿈의 균열</font>을 1개 소환 가능. 소환 후 남은 이동력만큼 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>자신과 <font color=\"blue\">꿈의 균열</font>의 거리가 <font color=\"red\">2</font>칸 이내일 경우, 적의 일반 공격 및 스킬 목표가 될 수 없으며, 범위 공격 스킬 피해 면역. 해당 범위 안을 이동 시 이동력을 소모하지 않으며, 적 통과 가능 (해당 효과 쿨타임 <font color=\"red\">4</font>턴)<br/><font color=\"blue\">꿈의 균열</font>은 소환시 시전자 스탯의 <font color=\"red\">80%</font>를 계승하며, 다음 턴에 소멸"
+              "Desc": "주는 피해량 <font color=\"red\">+20%</font><br/><font color=\"blue\">부대가 근접전 패널티를 받지않음</font><br/>행동 종료 시 <font color=\"purple\">꿈의 균열</font>을 1개 소환 가능. 소환 후 남은 이동력만큼 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>자신과 <font color=\"purple\">꿈의 균열</font>의 거리가 <font color=\"red\">2</font>칸 이내일 경우, 적의 일반 공격 및 스킬 목표가 될 수 없으며, 범위 공격 스킬 피해 면역. 해당 범위 안을 이동 시 이동력을 소모하지 않으며, 적 통과 가능 (해당 효과 쿨타임 <font color=\"red\">4</font>턴)<br/><font color=\"purple\">꿈의 균열</font>은 소환시 시전자 스탯의 <font color=\"red\">80%</font>를 계승하며, 다음 턴에 소멸"
             },
             {
-              "Desc": "주는 피해량 <font color=\"red\">+25%</font><br/><font color=\"blue\">부대가 근접전 패널티를 받지않음</font><br/>행동 종료 시 <font color=\"blue\">꿈의 균열</font>을 1개 소환 가능. 소환 후 남은 이동력만큼 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>자신과 <font color=\"blue\">꿈의 균열</font>의 거리가 <font color=\"red\">2</font>칸 이내일 경우, 적의 일반 공격 및 스킬 목표가 될 수 없으며, 범위 공격 스킬 피해 면역. 해당 범위 안을 이동 시 이동력을 소모하지 않으며, 적 통과 가능 (해당 효과 쿨타임 <font color=\"red\">3</font>턴)<br/><font color=\"blue\">꿈의 균열</font>은 소환시 시전자 스탯의 <font color=\"red\">80%</font>를 계승하며, 다음 턴에 소멸"
+              "Desc": "주는 피해량 <font color=\"red\">+25%</font><br/><font color=\"blue\">부대가 근접전 패널티를 받지않음</font><br/>행동 종료 시 <font color=\"purple\">꿈의 균열</font>을 1개 소환 가능. 소환 후 남은 이동력만큼 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>자신과 <font color=\"purple\">꿈의 균열</font>의 거리가 <font color=\"red\">2</font>칸 이내일 경우, 적의 일반 공격 및 스킬 목표가 될 수 없으며, 범위 공격 스킬 피해 면역. 해당 범위 안을 이동 시 이동력을 소모하지 않으며, 적 통과 가능 (해당 효과 쿨타임 <font color=\"red\">3</font>턴)<br/><font color=\"purple\">꿈의 균열</font>은 소환시 시전자 스탯의 <font color=\"red\">80%</font>를 계승하며, 다음 턴에 소멸"
             },
             {
-              "Desc": "주는 피해량 <font color=\"red\">+30%</font><br/><font color=\"blue\">부대가 근접전 패널티를 받지않음</font><br/>행동 종료 시 <font color=\"blue\">꿈의 균열</font>을 1개 소환 가능. 소환 후 남은 이동력만큼 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>자신과 <font color=\"blue\">꿈의 균열</font>의 거리가 <font color=\"red\">2</font>칸 이내일 경우, 적의 일반 공격 및 스킬 목표가 될 수 없으며, 범위 공격 스킬 피해 면역. 해당 범위 안을 이동 시 이동력을 소모하지 않으며, 적 통과 가능 (해당 효과 쿨타임 <font color=\"red\">3</font>턴)<br/><font color=\"blue\">꿈의 균열</font>은 소환시 시전자 스탯의 <font color=\"red\">80%</font>를 계승하며, 다음 턴에 소멸"
+              "Desc": "주는 피해량 <font color=\"red\">+30%</font><br/><font color=\"blue\">부대가 근접전 패널티를 받지않음</font><br/>행동 종료 시 <font color=\"purple\">꿈의 균열</font>을 1개 소환 가능. 소환 후 남은 이동력만큼 <font color=\"blue\">재행동</font> <font color=\"red\">1</font>회<br/>자신과 <font color=\"purple\">꿈의 균열</font>의 거리가 <font color=\"red\">2</font>칸 이내일 경우, 적의 일반 공격 및 스킬 목표가 될 수 없으며, 범위 공격 스킬 피해 면역. 해당 범위 안을 이동 시 이동력을 소모하지 않으며, 적 통과 가능 (해당 효과 쿨타임 <font color=\"red\">3</font>턴)<br/><font color=\"purple\">꿈의 균열</font>은 소환시 시전자 스탯의 <font color=\"red\">80%</font>를 계승하며, 다음 턴에 소멸"
             }
           ]
         }
@@ -186,7 +186,7 @@ var data = [
             }
           ],
           "IconImageUrl": "../img/skills/Sylrna/1.webp",
-          "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군의 <font color=\"blue\">꿈의 균열</font>이 있을 경우, 선공으로 전투 진입 시 적은 <font color=\"blue\">반격 불가</font>,<br/>전투 후 자신의 고유 스킬의 쿨 <font color=\"red\">-1</font>턴",
+          "Desc": "자신 주위 <font color=\"red\">2</font>칸 이내에 아군의 <font color=\"purple\">꿈의 균열</font>이 있을 경우, 선공으로 전투 진입 시 적은 <font color=\"blue\">반격 불가</font>,<br/>전투 후 자신의 고유 스킬의 쿨 <font color=\"red\">-1</font>턴",
           "SubSkills": null,
           "Animation": null
         },,
@@ -330,7 +330,7 @@ var data = [
             }
           ],
           "IconImageUrl": "../img/skills/Sylrna/3.webp",
-          "Desc": "[지원] 액티브, 목표 아군의 모든 스킬 쿨 <font color=\"red\">-3</font>턴 및 시전자 지력 <font color=\"red\">5</font>배 수치 생명 회복, 동시에 <font color=\"blue\">꿈의 가호</font> 효과 부여<br/><font color=\"blue\">꿈의 가호</font>: 아군 <font color=\"blue\">꿈의 균열</font> 주위 <font color=\"red\">2</font>칸 범위 안에 있을 경우, 적의 일반 공격 및 스킬 목표가 될 수 없으며, 범위 공격 스킬 피해 면역 (지속 <font color=\"red\">2</font>턴, 해제 불가)",
+          "Desc": "[지원] 액티브, 목표 아군의 모든 스킬 쿨 <font color=\"red\">-3</font>턴 및 시전자 지력 <font color=\"red\">5</font>배 수치 생명 회복, 동시에 <font color=\"blue\">꿈의 가호</font> 효과 부여<br/><font color=\"blue\">꿈의 가호</font>: 아군 <font color=\"purple\">꿈의 균열</font> 주위 <font color=\"red\">2</font>칸 범위 안에 있을 경우, 적의 일반 공격 및 스킬 목표가 될 수 없으며, 범위 공격 스킬 피해 면역 (지속 <font color=\"red\">2</font>턴, 해제 불가)",
           "SubSkills": null,
           "Animation": null
         },
@@ -356,7 +356,7 @@ var data = [
             }
           ],
           "IconImageUrl": "../img/Super/실나.webp",
-          "Desc": "[패시브] <font color=\"blue\">꿈의 균열</font> 소환 후, 전장의 모든 '어둠의 윤회' 아군의 공격, 방어 능력치가 크게 상승하고 선공으로 입히는 피해량 <font color=\"red\">+15%</font>,<br/>아군 <font color=\"blue\">꿈의 균열</font> 통과 시 <font color=\"red\">1</font>칸 이동력 소모 면제 (지속 <font color=\"red\">4</font>턴)<br/>[마법피해] 단일 개체 <font color=\"red\">1.7</font>배 피해 및 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font>, <font color=\"blue\">호위받을 수 없음, 다른 아군의 스킬 대상이 될 수 없음, 다른 아군의 스킬 효과를 받을 수 없음 (아레나에서만 발동)</font> 효과 부여 (지속 <font color=\"red\">2</font>턴, 해제 불가)<br/>적 주위 <font color=\"red\">2</font>칸 범위 안에 아군 <font color=\"blue\">꿈의 균열</font>이 존재할 경우, 해당 전투는 <font color=\"blue\">호위 무시</font><br/>전투 후, 아군 <font color=\"blue\">꿈의 균열</font> 주위 <font color=\"red\">2</font>칸 범위 내 위치로 텔레포트 가능",
+          "Desc": "[패시브] <font color=\"purple\">꿈의 균열</font> 소환 후, 전장의 모든 '어둠의 윤회' 아군의 공격, 방어 능력치가 크게 상승하고 선공으로 입히는 피해량 <font color=\"red\">+15%</font>,<br/>아군 <font color=\"purple\">꿈의 균열</font> 통과 시 <font color=\"red\">1</font>칸 이동력 소모 면제 (지속 <font color=\"red\">4</font>턴)<br/>[마법피해] 단일 개체 <font color=\"red\">1.7</font>배 피해 및 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font>, <font color=\"blue\">호위받을 수 없음, 다른 아군의 스킬 대상이 될 수 없음, 다른 아군의 스킬 효과를 받을 수 없음 (아레나에서만 발동)</font> 효과 부여 (지속 <font color=\"red\">2</font>턴, 해제 불가)<br/>적 주위 <font color=\"red\">2</font>칸 범위 안에 아군 <font color=\"purple\">꿈의 균열</font>이 존재할 경우, 해당 전투는 <font color=\"blue\">호위 무시</font><br/>전투 후, 아군 <font color=\"purple\">꿈의 균열</font> 주위 <font color=\"red\">2</font>칸 범위 내 위치로 텔레포트 가능",
           "SubSkills": null,
           "Animation": "../img/Super/실나_Ani.webp"
         }
