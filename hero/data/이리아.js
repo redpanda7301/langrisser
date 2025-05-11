@@ -212,32 +212,6 @@ var data = [
         "Animation": null
       },
       {
-        "Name": "빙결",
-        "Cost": "COST 1",
-        "Entries": [
-          {
-            "Label": "유형",
-            "Value": "마법피해"
-          },
-          {
-            "Label": "쿨타임",
-            "Value": "1턴"
-          },
-          {
-            "Label": "사거리",
-            "Value": "2칸"
-          },
-          {
-            "Label": "범위",
-            "Value": "단일"
-          }
-        ],
-        "IconImageUrl": "../img/skills/Skill_IceBolt.webp",
-        "Desc": "단일 개체에게 <font color =\"red\">1.5</font>배의 피해를 준다.<br/>'창병'에게 더 큰 피해를 준다.",
-        "SubSkills": null,
-        "Animation": null
-      },
-      {
         "Name": "윈드 커터",
         "Cost": "COST 1",
         "Entries": [
