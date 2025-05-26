@@ -2,18 +2,18 @@ var data = [
     {
       "Skins": [
         {
-          "ImageUrl": "루크만/1.webp",
+          "ImageUrl": "레아/1.webp",
           "Desc": "기본"
         },
         {
-          "ImageUrl": "루크만/2.webp",
+          "ImageUrl": "레아/2.webp",
           "Desc": "빛의 메아리"
         }
       ],
-      "Name": "루크만",
-      "CV": "토치 히로키",
-      "ChName": "鲁克曼",
-      "EngName": "Lukhmaan",
+      "Name": "레아",
+      "CV": "엔도 아야",
+      "ChName": "蕾雅",
+      "EngName": "Reah",
       "JapName": "",
       "Rank": [
         0
@@ -22,35 +22,35 @@ var data = [
       "Groups": [
         "빛군",
         "전략",
-        "전설"
+        "유성"
       ],
-      "HP": 20,
+      "HP": 30,
       "SPHP": 0,
-      "Attk": 35,
+      "Attk": 30,
       "SPAttk": 0,
-      "Def": 25,
+      "Def": 20,
       "SPDef": 0,
       "MagicDef": 20,
       "SPMagicDef": 0,
       "HowToGet": "영웅 소환",
       "Fetters": [
         {
-          "Condition": "루크만을 출전시켜 시공의 균열 3-6 클리어"
+          "Condition": "레아를 출전시켜 시공의 균열 3-6 클리어"
         },
         {
-          "Condition": "루크만을 출전시켜 시공의 균열 3-1[정예] 클리어"
+          "Condition": "레아를 출전시켜 시공의 균열 3-1[정예] 클리어"
         },
         {
-          "Condition": "시온의 도움을 받아 운명의문4 클리어"
+          "Condition": "호프만의 도움을 받아 운명의문4 클리어"
         },
         {
-          "Condition": "루크만을 광정의 검으로 전직"
+          "Condition": "레아을 광정의 검으로 전직"
         }
       ],
       "HeartFetter": null,
       "Talent": [
         {
-          "TalentName": "수호의 희망",
+          "TalentName": "새벽의 영광",
           "Icon": "Gift_Temp.webp",
           "Abilities": [
             {
@@ -78,73 +78,74 @@ var data = [
       "Second_Awaken": null,
       "Equip": null,
       "Soldiers": [
-        "중장 보병",
-        "발키리",
-        "중장 해골",
-        "광전사",
-        "듀얼리스트",
-        "거대영혼인형",
-        "개조인간",
-        "팔랑크스"
+        "로열 그리폰",
+        "템플러",
+        "가면 메이드",
+        "홀리 페가수스",
+        "기계 용기사",
+        "왕녀 친위대",
+        "아이언 엔젤",
+        "황가 기병",
+        "천사"
       ],
       "Jobs": [
         {
-          "Name": "광정의 검",
+          "Name": "눈부신 금빛 날개",
+          "Icon": "비병",
+          "SD": [
+            {
+              "ImageUrl": "레아/1/1.webp"
+            },
+            {
+              "ImageUrl": "레아/2/1.webp"
+            }
+          ],
+          "AttkRange": 1,
+          "Move": 3,
+          "MoveType": "비행",
+          "HP": 4106,
+          "HPRate": 63,
+          "Attk": 600,
+          "AttkRate": 92,
+          "Int": 220,
+          "IntRate": 33,
+          "Def": 301,
+          "DefRate": 66,
+          "MagicDef": 321,
+          "MagicDefRate": 71,
+          "Skill": 185,
+          "SkillRate": 52,
+          "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
+          "HeartFetterBouns2": "공격 전 이동 <font color=\"red\">1</font>칸당<br/>주는 피해량 <font color=\"red\">+3%</font> (최대 <font color=\"red\">+15%</font>)"
+        },
+        {
+          "Name": "영광의 재상",
           "Icon": "보병",
           "SD": [
             {
-              "ImageUrl": "루크만/1/1.webp"
+              "ImageUrl": "레아/1/2.webp"
             },
             {
-              "ImageUrl": "루크만/2/1.webp"
+              "ImageUrl": "레아/2/2.webp"
             }
           ],
           "AttkRange": 1,
           "Move": 3,
           "MoveType": "보행",
-          "HP": 4733,
-          "HPRate": 72,
-          "Attk": 582,
-          "AttkRate": 89,
-          "Int": 265,
-          "IntRate": 40,
-          "Def": 343,
-          "DefRate": 76,
-          "MagicDef": 292,
-          "MagicDefRate": 64,
-          "Skill": 152,
-          "SkillRate": 43,
-          "HeartFetterBouns1": "부대 체력 <font color=\"red\">70%</font> 미만일 때 전투 진입 시<br/>받는 피해량 <font color=\"red\">-10%</font>",
-          "HeartFetterBouns2": "자신 부대가 보유한 버프가 <font color=\"red\">5</font>개 이상일 시<br/>전투 중 주는 피해량 <font color=\"red\">+10%</font>"
-        },
-        {
-          "Name": "세상을 지키는 천칭",
-          "Icon": "창병",
-          "SD": [
-            {
-              "ImageUrl": "루크만/1/2.webp"
-            },
-            {
-              "ImageUrl": "루크만/2/2.webp"
-            }
-          ],
-          "AttkRange": 1,
-          "Move": 3,
-          "MoveType": "보행",
-          "HP": 4405,
+          "HP": 4411,
           "HPRate": 67,
-          "Attk": 585,
-          "AttkRate": 89,
-          "Int": 265,
-          "IntRate": 40,
-          "Def": 370,
-          "DefRate": 82,
-          "MagicDef": 257,
-          "MagicDefRate": 57,
-          "Skill": 178,
-          "SkillRate": 50,
-          "HeartFetterBouns1": "원거리 공격을 받아 전투 진입 시<br/>받는 피해량 <font color=\"red\">-10%</font>",
-          "HeartFetterBouns2": "부대 체력 <font color=\"red\">70%</font> 미만일 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
+          "Attk": 600,
+          "AttkRate": 92,
+          "Int": 242,
+          "IntRate": 37,
+          "Def": 301,
+          "DefRate": 66,
+          "MagicDef": 286,
+          "MagicDefRate": 63,
+          "Skill": 237,
+          "SkillRate": 67,
+          "HeartFetterBouns1": "근접 공격을 받아 전투 진입 시<br/>받는 물리 피해량 <font color=\"red\">-10%</font>",
+          "HeartFetterBouns2": "주는 범위 피해량 <font color=\"red\">+10%</font>"
         }
       ],
       "SPOpenConditions": null,
@@ -342,10 +343,10 @@ var data = [
               "Value": "직선"
             }
           ],
-          "IconImageUrl": "../img/Super/루크만.webp",
+          "IconImageUrl": "../img/Super/레아.webp",
           "Desc": "[지휘] <font color=\"blue\">동심</font>을 보유한 아군이 다른 <font color=\"blue\">동심</font>을 보유한 아군 통과 시 이동력 소모 없음<br/>[패시브] 주위 <font color=\"red\">3</font>칸 안에 있는 <font color=\"blue\">동심</font>을 보유한 아군 <font color=\"red\">1</font>명당 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적의 버프 <font color=\"red\">5</font>개 해제<br/>주위 <font color=\"red\">3</font>칸 범위 안에 <font color=\"blue\">동심</font>을 보유한 아군 존재 시 <font color=\"blue\">호위 무시</font><br/>적 격파 성공 시 목표 주위 <font color=\"red\">2</font>바퀴 내 적의 모든 공격 스킬 쿨타임 <font color=\"red\">+2</font>턴",
           "SubSkills": null,
-          "Animation": "../img/Super/루크만_Ani.webp"
+          "Animation": "../img/Super/레아_Ani.webp"
         }
       ],
       "Propose": false,
