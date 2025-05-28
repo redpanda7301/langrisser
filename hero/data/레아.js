@@ -60,16 +60,16 @@ var data = [
               "Desc": "2성"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">+10%</font><br/><font color=\"blue\">동심</font>과 <font color=\"blue\">지휘</font> 보유<br/>턴 시작 시 전장에 <font color=\"blue\">동심</font> 을 보유한 아군이 <font color=\"red\">3</font>명 존재할 때까지 가장 가까운 거리에 있는 아군에게 <font color=\"blue\">동심</font> 부여<Br/><font color=\"blue\">동심</font> : <font color=\"blue\">동심</font>의 아군 주위 <font color=\"red\">3</font>칸 범위 안에 있는 <font color=\"blue\">동심</font> 아군 <font color=\"red\">1</font>명당 공격, 지력 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+20%</font>, 면역 및 해제 불가)<br/>행동 종료 시 <font color=\"blue\">동심</font>을 보유한 아군 <font color=\"red\">1</font>명을 선택, 대상을 주변 <font color=\"red\">7</font>칸 범위 안에 있는 <font color=\"blue\">동심</font> 아군 곁으로 <font color=\"blue\">텔레포트</font> 시킬 수 있음 (쿨타임 <font color=\"red\">4</font>턴)<br/>지휘 스킬의 스탯 증가 및 동일한 종류의 지휘 스킬은 중첩 불가"
+              "Desc": "공격, 방어 <font color=\"red\">+10%</font><br/>액티브 스킬 사용 시 <font color=\"blue\">빛</font> 획득<br/><font color=\"blue\">빛</font> : <font color=\"blue\">'침묵' 면역 및 반사</font> (지속 <font color=\"red\">1</font>턴, 해제 불가, 중첩 획득 시마다 <font color=\"blue\">빛</font>의 지속 시간이 리셋되며, 최대 지속 시간 <font color=\"red\">+1</font>턴, 최대 <font color=\"red\">5</font>턴)<br/>스킬로 적을 명중시켜 피해를 줬을 경우 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font><br/><font color=\"blue\">해당 재행동은 보유한 버프의 지속 시간을 소모하지 않음</font> (쿨타임 <font color=\"red\">4</font>턴)"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">+13%</font><br/><font color=\"blue\">동심</font>과 <font color=\"blue\">지휘</font> 보유<br/>턴 시작 시 전장에 <font color=\"blue\">동심</font> 을 보유한 아군이 <font color=\"red\">3</font>명 존재할 때까지 가장 가까운 거리에 있는 아군에게 <font color=\"blue\">동심</font> 부여<Br/><font color=\"blue\">동심</font> : <font color=\"blue\">동심</font>의 아군 주위 <font color=\"red\">3</font>칸 범위 안에 있는 <font color=\"blue\">동심</font> 아군 <font color=\"red\">1</font>명당 공격, 지력 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+20%</font>, 면역 및 해제 불가)<br/>행동 종료 시 <font color=\"blue\">동심</font>을 보유한 아군 <font color=\"red\">1</font>명을 선택, 대상을 주변 <font color=\"red\">7</font>칸 범위 안에 있는 <font color=\"blue\">동심</font> 아군 곁으로 <font color=\"blue\">텔레포트</font> 시킬 수 있음 (쿨타임 <font color=\"red\">3</font>턴)<br/>지휘 스킬의 스탯 증가 및 동일한 종류의 지휘 스킬은 중첩 불가"
+              "Desc": "공격, 방어 <font color=\"red\">+15%</font><br/>액티브 스킬 사용 시 <font color=\"blue\">빛</font> 획득<br/><font color=\"blue\">빛</font> : <font color=\"blue\">'침묵' 면역 및 반사</font> (지속 <font color=\"red\">1</font>턴, 해제 불가, 중첩 획득 시마다 <font color=\"blue\">빛</font>의 지속 시간이 리셋되며, 최대 지속 시간 <font color=\"red\">+1</font>턴, 최대 <font color=\"red\">5</font>턴)<br/>스킬로 적을 명중시켜 피해를 줬을 경우 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font><br/><font color=\"blue\">해당 재행동은 보유한 버프의 지속 시간을 소모하지 않음</font> (쿨타임 <font color=\"red\">3</font>턴)"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">+16%</font><br/><font color=\"blue\">동심</font>과 <font color=\"blue\">지휘</font> 보유<br/>턴 시작 시 전장에 <font color=\"blue\">동심</font> 을 보유한 아군이 <font color=\"red\">3</font>명 존재할 때까지 가장 가까운 거리에 있는 아군에게 <font color=\"blue\">동심</font> 부여<Br/><font color=\"blue\">동심</font> : <font color=\"blue\">동심</font>의 아군 주위 <font color=\"red\">3</font>칸 범위 안에 있는 <font color=\"blue\">동심</font> 아군 <font color=\"red\">1</font>명당 공격, 지력 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+20%</font>, 면역 및 해제 불가)<br/>행동 종료 시 <font color=\"blue\">동심</font>을 보유한 아군 <font color=\"red\">1</font>명을 선택, 대상을 주변 <font color=\"red\">7</font>칸 범위 안에 있는 <font color=\"blue\">동심</font> 아군 곁으로 <font color=\"blue\">텔레포트</font> 시킬 수 있음 (쿨타임 <font color=\"red\">2</font>턴)<br/>지휘 스킬의 스탯 증가 및 동일한 종류의 지휘 스킬은 중첩 불가"
+              "Desc": "공격, 방어 <font color=\"red\">+20%</font><br/>액티브 스킬 사용 시 <font color=\"blue\">빛</font> 획득<br/><font color=\"blue\">빛</font> : <font color=\"blue\">'침묵' 면역 및 반사</font> (지속 <font color=\"red\">1</font>턴, 해제 불가, 중첩 획득 시마다 <font color=\"blue\">빛</font>의 지속 시간이 리셋되며, 최대 지속 시간 <font color=\"red\">+1</font>턴, 최대 <font color=\"red\">5</font>턴)<br/>스킬로 적을 명중시켜 피해를 줬을 경우 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font><br/><font color=\"blue\">해당 재행동은 보유한 버프의 지속 시간을 소모하지 않음</font> (쿨타임 <font color=\"red\">2</font>턴)"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">+20%</font><br/><font color=\"blue\">동심</font>과 <font color=\"blue\">지휘</font> 보유<br/>턴 시작 시 전장에 <font color=\"blue\">동심</font> 을 보유한 아군이 <font color=\"red\">3</font>명 존재할 때까지 가장 가까운 거리에 있는 아군에게 <font color=\"blue\">동심</font> 부여<Br/><font color=\"blue\">동심</font> : <font color=\"blue\">동심</font>의 아군 주위 <font color=\"red\">3</font>칸 범위 안에 있는 <font color=\"blue\">동심</font> 아군 <font color=\"red\">1</font>명당 공격, 지력 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+20%</font>, 면역 및 해제 불가)<br/>행동 종료 시 <font color=\"blue\">동심</font>을 보유한 아군 <font color=\"red\">1</font>명을 선택, 대상을 주변 <font color=\"red\">7</font>칸 범위 안에 있는 <font color=\"blue\">동심</font> 아군 곁으로 <font color=\"blue\">텔레포트</font> 시킬 수 있음 (쿨타임 <font color=\"red\">2</font>턴)<br/>지휘 스킬의 스탯 증가 및 동일한 종류의 지휘 스킬은 중첩 불가"
+              "Desc": "공격, 방어 <font color=\"red\">+25%</font><br/>액티브 스킬 사용 시 <font color=\"blue\">빛</font> 획득<br/><font color=\"blue\">빛</font> : <font color=\"blue\">'침묵' 면역 및 반사</font> (지속 <font color=\"red\">1</font>턴, 해제 불가, 중첩 획득 시마다 <font color=\"blue\">빛</font>의 지속 시간이 리셋되며, 최대 지속 시간 <font color=\"red\">+1</font>턴, 최대 <font color=\"red\">5</font>턴)<br/>스킬로 적을 명중시켜 피해를 줬을 경우 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font><br/><font color=\"blue\">해당 재행동은 보유한 버프의 지속 시간을 소모하지 않음</font> (쿨타임 <font color=\"red\">2</font>턴)"
             }
           ]
         }
@@ -151,7 +151,7 @@ var data = [
       "SPOpenConditions": null,
       "Skills": [
         {
-            "Name": "힘의 외침",
+            "Name": "뇌광",
             "Cost": "COST 2",
             "Entries": [
               {
@@ -160,7 +160,7 @@ var data = [
               },
               {
                 "Label": "쿨타임",
-                "Value": "2턴"
+                "Value": "3턴"
               },
               {
                 "Label": "사거리",
@@ -171,39 +171,13 @@ var data = [
                 "Value": "단일"
               }
             ],
-            "IconImageUrl": "../img/skills/36.webp",
-            "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+            "IconImageUrl": "../img/skills/Skill_FlyCrash.webp",
+            "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/> 이 스킬로 적을 처치 시 스킬 쿨타임 -3.",
             "SubSkills": null,
             "Animation": null
           },
           {
-            "Name": "골짜기 부수기",
-            "Cost": "COST 2",
-            "Entries": [
-              {
-                "Label": "유형",
-                "Value": "물리피해"
-              },
-              {
-                "Label": "쿨타임",
-                "Value": "2턴"
-              },
-              {
-                "Label": "사거리",
-                "Value": "2칸"
-              },
-              {
-                "Label": "범위",
-                "Value": "단일"
-              }
-            ],
-            "IconImageUrl": "../img/skills/Lukhmaan/Temp.webp",
-            "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.5</font>배 피해.<br/>전투 진입 전 적에게 <font color=\"blue\">방어</font> <font color=\"red\">-25%</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/>전투 후 <font color=\"blue\">동심</font>을 가진 아군 <font color=\"blue\">이동력</font> <font color=\"red\">+2</font> (지속 <font color=\"red\">2</font>턴)<br/>근접전 병사 대동 시 함께 공격<br/>해당 전투에서 <font color=\"blue\">근접전 패널티를 받지 않음</font>",
-            "SubSkills": null,
-            "Animation": null
-          },
-          {
-            "Name": "마갑 충전",
+            "Name": "영원한 낮의 맹세",
             "Cost": "COST 1",
             "Entries": [
               {
@@ -223,27 +197,27 @@ var data = [
                 "Value": "단일"
               }
             ],
-            "IconImageUrl": "../img/skills/Lukhmaan/Temp.webp",
-            "Desc": "[패시브] 선공으로 전투 진입 후 <font color=\"blue\">동심</font> 을 보유한 아군을 피해량 <font color=\"red\">20%</font> 수치만큼 회복. 만약 해당 전투로 적 격파 시 상술한 효과와 더불어 대상의 모든 공격 스킬 쿨타임 <font color=\"red\">-2</font>턴<br/>[액티브] 자신에게 <font color=\"blue\">면역</font> 및 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font> 효과를 부여 (지속 <font color=\"red\">2</font>턴)<br/>사용 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font><br/><font color=\"blue\">해당 스킬로 인한 재행동은 보유한 버프의 지속 시간을 소모하지 않음</font>",
+            "IconImageUrl": "../img/skills/Reah/Temp.webp",
+            "Desc": "[액티브] <font color=\"blue\">영원한 낮의 맹세</font> 효과 획득<br/><font color=\"blue\">영원한 낮의 맹세</font> : 선공으로 범위 스킬 사용 시 <font color=\"blue\">스킬 범위</font> <font color=\"red\">+1</font> (지속 <font color=\"red\">2</font>턴, 해제 불가), 자신에게 디버프가 걸려있지 않을 경우 추가 행동, 해당 행동의 이동력은 스킬 사용 시 남은 이동력, <font color=\"blue\">해당 추가 행동은 보유한 버프의 지속 시간을 소모하지 않음</font>",
             "SubSkills": null,
             "Animation": null
           },
           {
-            "Name": "치명",
-            "Cost": "COST 1",
-            "Entries": [
-              {
-                "Label": "유형",
-                "Value": "패시브"
-              }
-            ],
-            "IconImageUrl": "../img/skills/Passive_CriBuf.webp",
-            "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
-            "SubSkills": null,
-            "Animation": null
-          },
+        "Name": "풍압",
+        "Cost": "COST 1",
+        "Entries": [
           {
-            "Name": "검혼",
+            "Label": "유형",
+            "Value": "패시브"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Passive_FlyWind.webp",
+        "Desc": "[패시브]다른 부대에게 피해를 준 후 주위 2칸 내 적에게 0.1배의 광역 피해를 주고<br/>50%의 확률로 각 대상에게 무작위 디버프를 부여한다.",
+        "SubSkills": null,
+        "Animation": null
+      },
+          {
+            "Name": "바람의 분노",
             "Cost": "COST 2",
             "Entries": [
               {
@@ -252,7 +226,33 @@ var data = [
               },
               {
                 "Label": "쿨타임",
-                "Value": "5턴"
+                "Value": "2턴"
+              },
+              {
+                "Label": "사거리",
+                "Value": "자신"
+              },
+              {
+                "Label": "범위",
+                "Value": "1칸"
+              }
+            ],
+            "IconImageUrl": "../img/skills/8.webp",
+            "Desc": "[물리 피해] 주위 1칸 내 모든 적군에게 0.3배 범위 피해를 입힌다.<br/>모든 목표에게 랜덤으로 디버프 시전.",
+            "SubSkills": null,
+            "Animation": null
+          },
+          {
+            "Name": "분뢰",
+            "Cost": "COST 2",
+            "Entries": [
+              {
+                "Label": "유형",
+                "Value": "물리피해"
+              },
+              {
+                "Label": "쿨타임",
+                "Value": "2턴"
               },
               {
                 "Label": "사거리",
@@ -263,8 +263,8 @@ var data = [
                 "Value": "단일"
               }
             ],
-            "IconImageUrl": "../img/skills/Skill_SwordSoul.webp",
-            "Desc": "[물리 피해] 단일 적군을 공격하여 1.8배 피해를 준다.<br/>전투 전 적 부대의 버프 5개 제거 및 적 부대에게 '치료 방해' 부여, 2턴 지속<br/>이 효과는 제거되지 않는다.",
+            "IconImageUrl": "../img/skills/Skill_FlyCrash2.webp",
+            "Desc": "[물리 피해]단일 적 부대를 공격하여 1.5배의 전투 피해를 준다.<br/>전투 전 [바람 타기]획득:생명이 50% 이상인 경우 전투 진입 시 받는 피해량 -15%, 2턴 지속.",
             "SubSkills": null,
             "Animation": null
           },
