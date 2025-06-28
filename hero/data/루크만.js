@@ -125,7 +125,7 @@ var data = [
               "ImageUrl": "루크만/1/2.webp"
             },
             {
-              "ImageUrl": "루크만/2/2.webp"
+              "ImageUrl": "루크만/2/1.webp"
             }
           ],
           "AttkRange": 1,
