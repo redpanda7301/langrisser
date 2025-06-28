@@ -97,7 +97,7 @@ var data = [
     "SPTalent": [
       {
         "Name": "하얀 달의 보호",
-        "Icon": "Gift_Temp.webp",
+        "Icon": "SP_Gift_Luna.webp",
         "Abilities": [
           {
             "Desc": "1성"
@@ -211,7 +211,7 @@ var data = [
             "ImageUrl": "루나/6/2.webp"
           },
           {
-            "ImageUrl": "루나/sp/2.webp"
+            "ImageUrl": "루나/sp/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -706,7 +706,7 @@ var data = [
             "Value": "-"
           }
         ],
-        "IconImageUrl": "../img/skills/sp/루나/Temp.webp",
+        "IconImageUrl": "../img/skills/sp/루나/1.webp",
         "Desc": "[패시브]<font color=\"green\">달 그림자</font> 지형 위에서 행동 종료 시 <font color=\"blue\">자신이 보유한 버프 지속 시간이 감소하지 않음</font>, 현재 가장 쿨이 긴 스킬 쿨타임 <font color=\"red\">-1</font>턴<br/>[액티브] 지휘 효과 선택 획득 가능 (<font color=\"blue\">공격 지휘</font>, <font color=\"blue\">방어 지휘</font>, <font color=\"blue\">마방 지휘</font> 중 택일)<br/>자신의 <font color=\"blue\">이동력</font> <font color=\"red\">+3</font> (지속 <font color=\"red\">2</font>턴)",
         "SubSkills": null,
         "Animation": null
@@ -732,7 +732,7 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/sp/루나/Temp.webp",
+        "IconImageUrl": "../img/skills/sp/루나/2.webp",
         "Desc": "[패시브] 재행동 효과 발동 시 전장의 모든 <font color=\"blue\">공주 연맹</font> 아군의 공격, 방어 능력치가 크게 상승하고 '선공으로 피해를 입힌 후, 자신 영웅 최대 생명 <font color=\"red\">15%</font> 수치의 고정 피해 <font color=\"red\">1</font>회 발생' 효과 부여 (지속 <font color=\"red\">4</font>턴, 이 효과는 다른 초절강화 스킬과 중첩불가)<br/>[물리피해] 단일 개체 <font color=\"red\">1.7</font>배 피해<br/>공격 전 이동 <font color=\"red\">1</font>칸당 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/><font color=\"blue\">근접전 병사 대동 시 병사도 함께 공격</font><br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font><br/>전투 후 <font color=\"blue\">달빛</font> 효과 획득<br/><font color=\"blue\">달빛</font> : 인접한 아군이 공격을 받아 전투 진입 시 <font color=\"red\">50%</font> 확률로 발동, <font color=\"blue\">적 부대 사거리</font> <font color=\"red\">-1</font> (지속 <font color=\"red\">1</font>턴)",
         "SubSkills": null,
         "Animation": null

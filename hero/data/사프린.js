@@ -282,7 +282,7 @@ var data = [
         },
         {
           "Name": "감싸는 마력",
-          "Cost": "COST 2",
+          "Cost": "COST 1",
           "Entries": [
             {
               "Label": "유형",

@@ -339,6 +339,20 @@ var data = [
         "Animation": null
       },
       {
+        "Name": "치명",
+        "Cost": "COST 1",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "패시브"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Passive_CriBuf.webp",
+        "Desc": "[패시브]공격하여 전투 진입 시 공격 <font color=\"red\">+12%</font>.",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
         "Name": "기습",
         "Cost": "COST 1",
         "Entries": [

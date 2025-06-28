@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "아리아/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "아리아/3.webp",
+        "Desc": "한정 판매"
       }
     ],
     "Name": "아리아",
@@ -102,6 +106,9 @@ var data = [
           },
           {
             "ImageUrl": "아리아/2/1.webp"
+          },
+          {
+            "ImageUrl": "아리아/3/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -131,6 +138,9 @@ var data = [
           },
           {
             "ImageUrl": "아리아/2/1.webp"
+          },
+          {
+            "ImageUrl": "아리아/3/1.webp"
           }
         ],
         "AttkRange": 2,

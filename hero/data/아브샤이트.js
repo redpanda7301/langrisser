@@ -51,7 +51,7 @@ var data = [
       "Talent": [
         {
           "TalentName": "광기와 살육의 코어",
-          "Icon": "Gift_Temp.webp",
+          "Icon": "Gift_Abishai.webp",
           "Abilities": [
             {
               "Desc": "1성"
@@ -197,7 +197,7 @@ var data = [
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/Abishai/Temp.webp",
+          "IconImageUrl": "../img/skills/Abishai/1.webp",
           "Desc": "[패시브] 스킬을 사용했으나 <font color=\"blue\">과부하</font>가 없는 상태에서 행동 종료 시, <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸<br/>[액티브] <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font> (지속 <font color=\"red\">2</font>턴), <font color=\"blue\">쉴드</font> 획득<br/><font color=\"blue\">쉴드</font> : <font color=\"blue\">면역</font> 효과, 부대 최대 생명 <font color=\"red\">25%</font> 수치 방어, 해제 불가<br/><font color=\"blue\">과부하</font> 시 해당 스킬을 사용할 경우 다른 스킬 쿨타임 <font color=\"red\">-1</font>턴, 부대 생명 <font color=\"red\">100%</font> 회복, 행동 종료 시 <font color=\"blue\">버프 지속 시간을 소모하지 않으며</font>,<br/><font color=\"blue\">쉴드</font>가 <font color=\"blue\">과부하 쉴드</font>로 변경됨<br/><font color=\"blue\">과부하 쉴드</font> : <font color=\"blue\">면역</font> 효과, 부대 최대 생명 <font color=\"red\">50%</font> 수치 방어, 해제 불가",
           "SubSkills": null,
           "Animation": null
@@ -291,7 +291,7 @@ var data = [
               "Value": "직선"
             }
           ],
-          "IconImageUrl": "../img/skills/Abishai/Temp.webp",
+          "IconImageUrl": "../img/skills/Abishai/2.webp",
           "Desc": "<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 피해<br/>적에게 <font color=\"blue\">장신구 스킬 무효화</font> 효과 부여 (지속 <font color=\"red\">2</font>턴, 해제 불가)<br/>목표가 NPC일 경우, 해당 효과는 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font> 로 대체 (지속 <font color=\"red\">2</font>턴, 해제 불가)<br/><font color=\"blue\">과부하</font> 시 명중한 지형에 <font color=\"green\">에너지 함정</font> 효과 부여<br/><font color=\"green\">에너지 함정</font> : 적이 해당 위치에서 행동 종료 시 시전자의 공격 <font color=\"red\">1</font>배 수치 고정 피해 (지속 <font color=\"red\">2</font>턴)",
           "SubSkills": null,
           "Animation": null

@@ -367,7 +367,7 @@ var data = [
                 }
               ],
               "IconImageUrl": "../img/Super/염룡파멸자_1.webp",
-              "Desc": "[패시브]<font color=\"blue\">받는 고정 피해를 치유로 전환</font>. 전투 후 자신의 모든 공격 스킬 쿨타임 <font color=\"red\">-1</font>턴<br/>[지휘]주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"blue\">재이동 불가</font> 효과 부여. 지휘 범위 안에 이동했을 경우, 이동력 <font color=\"red\">1</font> 추가 소모<br/>[물리피해]단일 개체 <font color=\"red\">1.7</font>배 피해. 전투 전 적의 <font color=\"blue\">모든 장비 스킬 효과 상실</font> (최대 생명 제외, 목표가 NPC일 경우 해당 효과는 <font color=\"blue\">모든 스탯</font> <font color=\"red\">-50%</font>로 대체) 지속 <font color=\"red\">2</font>턴, 해제 불가<br/>전투 후 적이 <font color=\"blue\">상실한 장비 효과 획득</font> (각 부위당 최대 <font color=\"red\">2</font>개, <font color=\"blue\">동일한 장비 효과</font> 및 최대 생명 제외, 목표가 NPC일 경우 해당 효과는 <font color=\"blue\">모든 스탯</font> <font color=\"red\">+30%</font>로 대체), 지속 <font color=\"red\">2</font>턴"
+              "Desc": "[패시브]<font color=\"blue\">받는 고정 피해를 치유로 전환</font>. 전투 후 자신의 모든 공격 스킬 쿨타임 <font color=\"red\">-1</font>턴<br/>[지휘]주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"blue\">재이동 불가</font> 효과 부여. 지휘 범위 밖으로 이동했을 경우, 이동력 <font color=\"red\">1</font> 추가 소모<br/>[물리피해]단일 개체 <font color=\"red\">1.7</font>배 피해. 전투 전 적의 <font color=\"blue\">모든 장비 스킬 효과 상실</font> (최대 생명 제외, 목표가 NPC일 경우 해당 효과는 <font color=\"blue\">모든 스탯</font> <font color=\"red\">-30%</font>로 대체) 지속 <font color=\"red\">2</font>턴, 해제 불가<br/>전투 후 적이 <font color=\"blue\">상실한 장비 효과 획득</font> (각 부위당 최대 <font color=\"red\">2</font>개, <font color=\"blue\">동일한 장비 효과</font> 및 최대 생명 제외, 목표가 NPC일 경우 해당 효과는 <font color=\"blue\">모든 스탯</font> <font color=\"red\">+30%</font>로 대체), 지속 <font color=\"red\">2</font>턴"
             }
           ],
           "Animation": "../img/Super/염룡파멸자_Ani.webp"

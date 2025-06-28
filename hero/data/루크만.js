@@ -51,7 +51,7 @@ var data = [
       "Talent": [
         {
           "TalentName": "수호의 희망",
-          "Icon": "Gift_Temp.webp",
+          "Icon": "Gift_Lukhmaan.webp",
           "Abilities": [
             {
               "Desc": "1성"
@@ -196,7 +196,7 @@ var data = [
                 "Value": "단일"
               }
             ],
-            "IconImageUrl": "../img/skills/Lukhmaan/Temp.webp",
+            "IconImageUrl": "../img/skills/Lukhmaan/1.webp",
             "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.5</font>배 피해.<br/>전투 진입 전 적에게 <font color=\"blue\">방어</font> <font color=\"red\">-25%</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/>전투 후 <font color=\"blue\">동심</font>을 가진 아군 <font color=\"blue\">이동력</font> <font color=\"red\">+2</font> (지속 <font color=\"red\">2</font>턴)<br/>근접전 병사 대동 시 함께 공격<br/>해당 전투에서 <font color=\"blue\">근접전 패널티를 받지 않음</font>",
             "SubSkills": null,
             "Animation": null
@@ -222,7 +222,7 @@ var data = [
                 "Value": "단일"
               }
             ],
-            "IconImageUrl": "../img/skills/Lukhmaan/Temp.webp",
+            "IconImageUrl": "../img/skills/Lukhmaan/2.webp",
             "Desc": "[패시브] 선공으로 전투 진입 후 <font color=\"blue\">동심</font> 을 보유한 아군을 피해량 <font color=\"red\">20%</font> 수치만큼 회복. 만약 해당 전투로 적 격파 시 상술한 효과와 더불어 대상의 모든 공격 스킬 쿨타임 <font color=\"red\">-2</font>턴<br/>[액티브] 자신에게 <font color=\"blue\">면역</font> 및 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font> 효과를 부여 (지속 <font color=\"red\">2</font>턴)<br/>사용 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font><br/><font color=\"blue\">해당 스킬로 인한 재행동은 보유한 버프의 지속 시간을 소모하지 않음</font>",
             "SubSkills": null,
             "Animation": null
