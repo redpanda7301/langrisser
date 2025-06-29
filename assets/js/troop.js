@@ -2465,10 +2465,17 @@ function closeForm59_3() {
 function openForm60_3() {
   document.getElementById("myForm60_3").style.display = "block";
 }
-//SP병종 구분(250413 8프로빌런) -> 수정
+//SP병종 구분(250413 8프로빌런), SP엘프투창병 작업용
 function openForm25_1_1() {
-  document.getElementById("myForm25_1_1").style.display = "block";
+  document.getElementById("myForm60_1").style.display = "block";
 }
 function closeForm25_1_1() {
-  document.getElementById("myForm25_1_1").style.display = "none";
+  document.getElementById("myForm60_1").style.display = "none";
+}
+//SP병종 구분(250413 8프로빌런), SP다크엘프저격수 작업용
+function openForm18_1_1() {
+  document.getElementById("myForm61_1").style.display = "block";
+}
+function closeForm18_1_1() {
+  document.getElementById("myForm61_1").style.display = "none";
 }
