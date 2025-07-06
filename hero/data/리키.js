@@ -79,7 +79,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "영웅 선언",
+      "Stats": "공격, 방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">영웅을 자처하는 자</font> 사용 시 <font color=\"blue\">지휘</font> 효과 획득<br/><font color=\"blue\">지휘</font>: 방어 방향 내의 다른 아군이 원거리 피해를 받은 후, 가해자에게 리키 공격 <font color=\"red\">1</font>배 수치의 고정 피해 발생"
+    },
     "Equip": {
       "EqpName": "진짜 영웅(투구)",
       "Stats": "생명 583,마방 48",

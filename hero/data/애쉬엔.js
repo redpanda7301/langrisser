@@ -80,7 +80,12 @@ var data = [
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "애쉬엔 전용 장비(투구)",
+      "Stats": "생명 437, 마방 59",
+      "Icon": "애쉬엔.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/>통솔 기술 사거리 <font color=\"red\">+1</font> 및 추가 효과 획득<br/><font color=\"blue\">재건</font>: 목표의 디버프 <font color=\"red\">1</font>개 제거<br/><font color=\"blue\">어명</font>: 목표에게 <font color=\"blue\">침묵 면역</font> 부여 (지속 <font color=\"red\">2</font>턴)<br/><font color=\"blue\">질주</font>: 목표에게 <font color=\"blue\">주는 피해량</font> <font color=\"red\">+15%</font> 효과 부여 (지속 <font color=\"red\">1</font>턴)"
+    },
     "Soldiers": [
       "중장 보병",
       "가면 메이드",
@@ -209,7 +214,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/ability/Gift_Eshean.webp",
-        "Desc": "현재 형태에 따라 다른 효과. 형태 변환 후 해당 스킬 쿨 초기화",
+        "Desc": "하기 효과 중 1개를 선택하여 사용 가능",
         "SubSkills": [
           {
             "Name": "재건",

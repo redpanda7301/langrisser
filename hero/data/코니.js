@@ -18,7 +18,7 @@ var data = [
     "ChName": "修杰特",
     "EngName": "Yoa & Conna",
     "JapName": "",
-    "CV": "토요나카 토시유키",
+    "CV": "토요나카 토시유키(요아)<br/>쿠보 유리카(코니)",
     "Rank": [
       0
     ],
@@ -79,7 +79,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "지능형 반복",
+      "Stats": "주는 치명타 피해량 <font color=\"red\">+15%</font><br/><font color=\"blue\">리팩토링</font> 스킬 사용 시 자신의 다른 스킬 쿨 <font color=\"red\">-2</font>턴<br/><font color=\"blue\">요아</font>가 이미 사망했을 경우 재소환"
+    },
     "Equip": {
       "EqpName": "Y형 시각 단말(투구)",
       "Stats": "생명 437,마방 59",

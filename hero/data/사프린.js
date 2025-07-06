@@ -8,6 +8,10 @@ var data = [
         {
           "ImageUrl": "사프린/2.webp",
           "Desc": "빛의 메아리"
+        },
+        {
+          "ImageUrl": "사프린/3.webp",
+          "Desc": "한정 판매"
         }
       ],
       "Name": "사프린",
@@ -98,6 +102,9 @@ var data = [
             },
             {
               "ImageUrl": "사프린/2/1.webp"
+            },
+            {
+              "ImageUrl": "사프린/3/1.webp"
             }
           ],
           "AttkRange": 1,
@@ -127,6 +134,9 @@ var data = [
             },
             {
               "ImageUrl": "사프린/2/1.webp"
+            },
+            {
+              "ImageUrl": "사프린/3/1.webp"
             }
           ],
           "AttkRange": 1,
