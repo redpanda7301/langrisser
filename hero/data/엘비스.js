@@ -51,7 +51,7 @@ var data = [
       "Talent": [
         {
           "TalentName": "망자의 죄악",
-          "Icon": "Gift_Temp.webp",
+          "Icon": "Gift_Elvis.webp",
           "Abilities": [
             {
               "Desc": "1성"
@@ -130,7 +130,7 @@ var data = [
             }
           ],
           "AttkRange": 1,
-          "Move": 3,
+          "Move": 5,
           "MoveType": "비행",
           "HP": 4222,
           "HPRate": 64,

@@ -51,7 +51,7 @@ var data = [
       "Talent": [
         {
           "TalentName": "새벽의 영광",
-          "Icon": "Gift_Temp.webp",
+          "Icon": "Gift_Reah.webp",
           "Abilities": [
             {
               "Desc": "1성"
@@ -101,7 +101,7 @@ var data = [
             }
           ],
           "AttkRange": 1,
-          "Move": 3,
+          "Move": 5,
           "MoveType": "비행",
           "HP": 4106,
           "HPRate": 63,
@@ -197,7 +197,7 @@ var data = [
                 "Value": "단일"
               }
             ],
-            "IconImageUrl": "../img/skills/Reah/Temp.webp",
+            "IconImageUrl": "../img/skills/Reah/1.webp",
             "Desc": "[액티브] <font color=\"blue\">영원한 낮의 맹세</font> 효과 획득<br/><font color=\"blue\">영원한 낮의 맹세</font> : 선공으로 범위 스킬 사용 시 <font color=\"blue\">스킬 범위</font> <font color=\"red\">+1</font> (지속 <font color=\"red\">2</font>턴, 해제 불가), 자신에게 디버프가 걸려있지 않을 경우 추가 행동, 해당 행동의 이동력은 스킬 사용 시 남은 이동력, <font color=\"blue\">해당 추가 행동은 보유한 버프의 지속 시간을 소모하지 않음</font>",
             "SubSkills": null,
             "Animation": null
@@ -269,22 +269,31 @@ var data = [
             "Animation": null
           },
           {
-            "Name": "무기 파괴",
-            "Cost": "COST 1",
-            "Entries": [
-              {
-                "Label": "유형",
-                "Value": "패시브"
-              }
-            ],
-            "IconImageUrl": "../img/skills/Passive_BreakAtk.webp",
-            "Desc": "[패시브]전투 진입전 <font color=\"red\">50%</font> 확률로 적의 공격, 지력  <font color=\"red\">-20%</font>,  <font color=\"red\">1</font>행동지속.",
-            "SubSkills": null,
-            "Animation": null
+        "Name": "어둠을 깨는 검 - 섬",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "물리피해"
           },
           {
-            "Name": "휩쓸기",
-            "Cost": "COST 2",
+            "Label": "쿨타임",
+            "Value": "-"
+          },
+          {
+            "Label": "사거리",
+            "Value": "3칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "직선"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Reah/2.webp",
+        "Desc": "<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.15</font>배 피해 및 <font color=\"blue\">방어구 스킬 무효화 (최대 생명 제외)</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/>목표가 NPC일 경우 해당 효과는 <font color=\"blue\">방어력</font> <font color=\"red\">-25%</font>로 대체 (지속 <font color=\"red\">2</font>턴)<br/>해당 스킬은 사용 후 <font color=\"blue\">어둠을 깨는 검 - 재</font>로 변경",
+        "SubSkills": [
+          {
+            "Name": "어둠을 깨는 검 - 재",
             "Entries": [
               {
                 "Label": "유형",
@@ -292,7 +301,7 @@ var data = [
               },
               {
                 "Label": "쿨타임",
-                "Value": "2턴"
+                "Value": "-"
               },
               {
                 "Label": "사거리",
@@ -303,27 +312,54 @@ var data = [
                 "Value": "직선"
               }
             ],
-            "IconImageUrl": "../img/skills/Polyal/2.webp",
-            "Desc": "<font color=\"red\">3</font>줄 직선상 모든 적에게 <font color=\"red\">0.25</font>배 피해 및 <font color=\"blue\">위치 이동</font> (<font color=\"red\">2</font>칸 밀침)",
-            "SubSkills": null,
-            "Animation": null
+            "IconImageUrl": "../img/skills/Reah/2_1.webp",
+            "Desc": "<font color=\"red\">1</font>줄 직선 상 적에게 <font color=\"red\">0.15</font>배 피해<br/>공격 시 스킬 사거리 가장 먼 곳으로 <font color=\"blue\">텔레포트</font> 후 <font color=\"blue\">검무</font> 사용<br/>해당 스킬은 사용 후 <font color=\"blue\">어둠을 깨는 검 - 섬</font>으로 변경<br/>해당 스킬로 적 명중 시 <font color=\"blue\">빛</font> <font color=\"red\">1</font>개 추가 획득"
+          }
+        ],
+        "Animation": null
+      },
+          {
+        "Name": "증원",
+        "Cost": "COST 1",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "패시브"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Passive_PHeal1.webp",
+        "Desc": "행동 종료 시 자신 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font>.",
+        "SubSkills": null,
+        "Animation": null
+      },
+          {
+        "Name": "바람 칼날",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "물리피해"
           },
           {
-            "Name": "방어 대지원",
-            "Cost": "COST 2",
-            "Entries": [
-              {
-                "Label": "유형",
-                "Value": "패시브"
-              }
-            ],
-            "IconImageUrl": "../img/skills/Passive_MDefUp.webp",
-            "Desc": "[패시브]행동 종료 시 주위 2칸 내 2개 다른 아군 부대의 '받는 피해' -15% 및<br/>면역: '방어,마방 감소','치료 방해', 1턴 지속.",
-            "SubSkills": null,
-            "Animation": null
+            "Label": "쿨타임",
+            "Value": "2턴"
           },
+          {
+            "Label": "사거리",
+            "Value": "2칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/skills/0.webp",
+        "Desc": "단일 개체에게 <font color=\"Red\">1.5</font>배의 피해<br/><font color=\"blue\">근접전 병사를 이끌고 있다면 병사도 함께 공격한다.</font>",
+        "SubSkills": null,
+        "Animation": null
+      },
         {
-          "Name": "섬광의 칼날",
+          "Name": "빛나는 무지개",
           "Cost": "COST 3",
           "Entries": [
             {
@@ -332,19 +368,19 @@ var data = [
             },
             {
               "Label": "쿨타임",
-              "Value": "3턴"
+              "Value": "5턴"
             },
             {
               "Label": "사거리",
-              "Value": "5칸"
+              "Value": "자신"
             },
             {
               "Label": "범위",
-              "Value": "직선"
+              "Value": "1바퀴"
             }
           ],
           "IconImageUrl": "../img/Super/레아.webp",
-          "Desc": "[지휘] <font color=\"blue\">동심</font>을 보유한 아군이 다른 <font color=\"blue\">동심</font>을 보유한 아군 통과 시 이동력 소모 없음<br/>[패시브] 주위 <font color=\"red\">3</font>칸 안에 있는 <font color=\"blue\">동심</font>을 보유한 아군 <font color=\"red\">1</font>명당 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적의 버프 <font color=\"red\">5</font>개 해제<br/>주위 <font color=\"red\">3</font>칸 범위 안에 <font color=\"blue\">동심</font>을 보유한 아군 존재 시 <font color=\"blue\">호위 무시</font><br/>적 격파 성공 시 목표 주위 <font color=\"red\">2</font>바퀴 내 적의 모든 공격 스킬 쿨타임 <font color=\"red\">+2</font>턴",
+          "Desc": "[패시브] <font color=\"blue\">빛</font>을 보유하고 있을 경우, 피격으로 전투 진입 시 <font color=\"blue\">선제 공격</font>, 전투 후 피해량 <font color=\"red\">20%</font> 수치 생명 회복<br/>[물리피해] 주위 <font color=\"red\">1</font>바퀴 범위 안 적에게 <font color=\"red\">0.36</font>배 피해<br/>피해를 입히기 전 <font color=\"blue\">빛</font>의 지속 시간 <font color=\"red\">1</font>턴 당 명중한 목표의 버프 <font color=\"red\">1</font>개 랜덤 강탈 (최대 <font color=\"red\">3</font>개)<br/>(<i>보유한 <font color=\"blue\">빛</font>의</i>)지속 시간이 <font color=\"red\">5</font>턴 이상일 시 자신의 <font color=\"blue\">빛</font>의 최대 지속 시간이 <font color=\"red\">1</font>턴으로 변경되며, <font color=\"blue\">피해를 입힌 후 대상의 생명이 <font color=\"red\">15%</font> 미만인 경우 즉사</font> 효과 획득 (지속 <font color=\"red\">2</font>턴, 해제 불가)<br/>아레나가 아닌 경우 해당 효과는 <font color=\"blue\">적에게 손실된 생명의 20% 수치에 해당하는 면역 불가 <b>고정 피해</b>, 최대 자신의 공격력 <font color=\"red\">5</font>배</font> 효과로 변경",
           "SubSkills": null,
           "Animation": "../img/Super/레아_Ani.webp"
         }
