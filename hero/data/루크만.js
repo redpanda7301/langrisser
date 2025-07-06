@@ -331,15 +331,15 @@ var data = [
             },
             {
               "Label": "쿨타임",
-              "Value": "3턴"
+              "Value": "5턴"
             },
             {
               "Label": "사거리",
-              "Value": "5칸"
+              "Value": "1칸"
             },
             {
               "Label": "범위",
-              "Value": "직선"
+              "Value": "단일"
             }
           ],
           "IconImageUrl": "../img/Super/루크만.webp",
