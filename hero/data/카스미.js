@@ -85,7 +85,7 @@ var data = [
       "Jobs": [
         {
           "Name": "목숨을 빼앗는 천신",
-          "Icon": "보병",
+          "Icon": "암살자",
           "SD": [
             {
               "ImageUrl": "카스미/1/1.webp"

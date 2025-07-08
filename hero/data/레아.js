@@ -44,7 +44,7 @@ var data = [
           "Condition": "호프만의 도움을 받아 운명의문4 클리어"
         },
         {
-          "Condition": "레아를 출전시켜 시공의 균열 3-1[정예] 클리어"
+          "Condition": "눈부신 금빛 날개 전직"
         }
       ],
       "HeartFetter": null,

@@ -81,7 +81,7 @@ var data = [
     "SPTalent": null,
     "Second_Awaken": null,
     "Equip": {
-      "EqpName": "란델 전용 장비(갑옷)",
+      "EqpName": "꿈의 장막(갑옷)",
       "Stats": "생명 583, 방어 54",
       "Icon": "란델.webp",
       "Ability": "마방 <font color=\"red\">+10%</font><br/>행동 종료로 <font color=\"blue\">상자 속 어둠</font> 시전 시, <font color=\"blue\">혼돈의 단편</font>을 추가로 소모하여 그 수와 동일한 수만큼의 아군에게 <font color=\"blue\">상자 속 어둠</font> 시전 가능<br/><font color=\"blue\">혼돈의 단편</font> 스택이 최대치인 상태에서 <font color=\"blue\">혼돈의 단편</font> 획득 시 현재 쿨이 가장 긴 스킬 쿨타임 <font color=\"red\">-1</font>턴"
