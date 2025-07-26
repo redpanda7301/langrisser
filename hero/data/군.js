@@ -14,7 +14,7 @@ var data = [
     "ChName": "古恩",
     "EngName": "Gunn",
     "JapName": "",
-    "CV": "호소야 요시마사 ",
+    "CV": "호소야 요시마사",
     "Rank": [
       0
     ],
