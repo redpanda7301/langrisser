@@ -26,13 +26,13 @@ var data = [
     "Groups": [
       "기원"
     ],
-    "HP": 20,
+    "HP": 10,
     "SPHP": 20,
-    "Attk": 30,
+    "Attk": 35,
     "SPAttk": 30,
     "Def": 15,
     "SPDef": 25,
-    "MagicDef": 25,
+    "MagicDef": 30,
     "SPMagicDef": 25,
     "HowToGet": "영웅 소환, 우정티켓 소환",
     "Fetters": [

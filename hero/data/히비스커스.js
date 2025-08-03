@@ -60,16 +60,16 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "공격, 치명타 확률 <font color=\"red\">+10%</font><br/>행동 종료 시 직선 범위 안의 가장 가까운 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">주시</font> 효과 부여<br/><font color=\"blue\">주시</font>: 스킬 사용 후 <font color=\"blue\">스킬 피해</font> <font color=\"red\">-15%</font>, 면역 및 해제 불가의 <font color=\"blue\">파악</font> 효과 획득. <font color=\"blue\">주시</font>는 면역 및 해제 불가. 획득 후 두 번째 행동이나 발동 후 제거<br/><font color=\"blue\">파악</font>: 히비스커스에게 공격 받을 시 <font color=\"blue\">호위 불가</font> (지속 <font color=\"red\">2턴</font>)"
+            "Desc": "공격, 치명타 확률 <font color=\"red\">+10%</font><br/>행동 종료 시 직선 범위 안의 가장 가까운 적 <font color=\"red\">1</font>명에게 <font color=\"orange\">주시</font> 효과 부여<br/><font color=\"orange\">주시</font>: 스킬 사용 후 <font color=\"blue\">스킬 피해</font> <font color=\"red\">-15%</font>, 면역 및 해제 불가의 <font color=\"orange\">파악</font> 효과 획득. <font color=\"orange\">주시</font>는 면역 및 해제 불가. 획득 후 두 번째 행동이나 발동 후 제거<br/><font color=\"orange\">파악</font>: 히비스커스에게 공격 받을 시 <font color=\"blue\">호위 불가</font> (지속 <font color=\"red\">2턴</font>)"
           },
           {
-            "Desc": "공격, 치명타 확률 <font color=\"red\">+15%</font><br/>행동 종료 시 직선 범위 안의 가장 가까운 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">주시</font> 효과 부여<br/><font color=\"blue\">주시</font>: 스킬 사용 후 <font color=\"blue\">스킬 피해</font> <font color=\"red\">-20%</font>, 면역 및 해제 불가의 <font color=\"blue\">파악</font> 효과 획득. <font color=\"blue\">주시</font>는 면역 및 해제 불가. 획득 후 두 번째 행동이나 발동 후 제거<br/><font color=\"blue\">파악</font>: 히비스커스에게 공격 받을 시 <font color=\"blue\">호위 불가</font> (지속 <font color=\"red\">2턴</font>)"
+            "Desc": "공격, 치명타 확률 <font color=\"red\">+15%</font><br/>행동 종료 시 직선 범위 안의 가장 가까운 적 <font color=\"red\">1</font>명에게 <font color=\"orange\">주시</font> 효과 부여<br/><font color=\"orange\">주시</font>: 스킬 사용 후 <font color=\"blue\">스킬 피해</font> <font color=\"red\">-20%</font>, 면역 및 해제 불가의 <font color=\"orange\">파악</font> 효과 획득. <font color=\"orange\">주시</font>는 면역 및 해제 불가. 획득 후 두 번째 행동이나 발동 후 제거<br/><font color=\"orange\">파악</font>: 히비스커스에게 공격 받을 시 <font color=\"blue\">호위 불가</font> (지속 <font color=\"red\">2턴</font>)"
           },
           {
-            "Desc": "공격, 치명타 확률 <font color=\"red\">+20%</font><br/>행동 종료 시 직선 범위 안의 가장 가까운 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">주시</font> 효과 부여<br/><font color=\"blue\">주시</font>: 스킬 사용 후 <font color=\"blue\">스킬 피해</font> <font color=\"red\">-25%</font>, 면역 및 해제 불가의 <font color=\"blue\">파악</font> 효과 획득. <font color=\"blue\">주시</font>는 면역 및 해제 불가. 획득 후 두 번째 행동이나 발동 후 제거<br/><font color=\"blue\">파악</font>: 히비스커스에게 공격 받을 시 <font color=\"blue\">호위 불가</font> (지속 <font color=\"red\">2턴</font>)"
+            "Desc": "공격, 치명타 확률 <font color=\"red\">+20%</font><br/>행동 종료 시 직선 범위 안의 가장 가까운 적 <font color=\"red\">1</font>명에게 <font color=\"orange\">주시</font> 효과 부여<br/><font color=\"orange\">주시</font>: 스킬 사용 후 <font color=\"blue\">스킬 피해</font> <font color=\"red\">-25%</font>, 면역 및 해제 불가의 <font color=\"orange\">파악</font> 효과 획득. <font color=\"orange\">주시</font>는 면역 및 해제 불가. 획득 후 두 번째 행동이나 발동 후 제거<br/><font color=\"orange\">파악</font>: 히비스커스에게 공격 받을 시 <font color=\"blue\">호위 불가</font> (지속 <font color=\"red\">2턴</font>)"
           },
           {
-            "Desc": "공격, 치명타 확률 <font color=\"red\">+25%</font><br/>행동 종료 시 직선 범위 안의 가장 가까운 적 <font color=\"red\">1</font>명에게 <font color=\"blue\">주시</font> 효과 부여<br/><font color=\"blue\">주시</font>: 스킬 사용 후 <font color=\"blue\">스킬 피해</font> <font color=\"red\">-30%</font>, 면역 및 해제 불가의 <font color=\"blue\">파악</font> 효과 획득. <font color=\"blue\">주시</font>는 면역 및 해제 불가. 획득 후 두 번째 행동이나 발동 후 제거<br/><font color=\"blue\">파악</font>: 히비스커스에게 공격 받을 시 <font color=\"blue\">호위 불가</font> (지속 <font color=\"red\">2턴</font>)"
+            "Desc": "공격, 치명타 확률 <font color=\"red\">+25%</font><br/>행동 종료 시 직선 범위 안의 가장 가까운 적 <font color=\"red\">1</font>명에게 <font color=\"orange\">주시</font> 효과 부여<br/><font color=\"orange\">주시</font>: 스킬 사용 후 <font color=\"blue\">스킬 피해</font> <font color=\"red\">-30%</font>, 면역 및 해제 불가의 <font color=\"orange\">파악</font> 효과 획득. <font color=\"orange\">주시</font>는 면역 및 해제 불가. 획득 후 두 번째 행동이나 발동 후 제거<br/><font color=\"orange\">파악</font>: 히비스커스에게 공격 받을 시 <font color=\"blue\">호위 불가</font> (지속 <font color=\"red\">2턴</font>)"
           }
         ]
       }
@@ -290,7 +290,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Hibiscus/1.webp",
-        "Desc": "[패시브] 턴 시작 시 랜덤한 인접 아군 <font color=\"Red\">2</font>명에게 '행동 종료 시 주위 <font color=\"Red\">2</font>칸 범위 안 <font color=\"blue\">주시</font>를 보유한 적에게 면역 및 해제 불가의 <font color=\"blue\">파악</font> (지속 <font color=\"Red\">2</font>턴) 부여' 효과 부여 (지속 <font color=\"Red\">1</font>턴)<br/>[물리피해] <font color=\"Red\">1</font>줄 직선 상 적에게 <font color=\"Red\">0.2</font>배 피해 및 <font color=\"blue\">주시</font> 부여.<br/>전투 후 <font color=\"Red\">3</font>칸 <font color=\"blue\">재이동</font><br/>자신이 <font color=\"blue\">물</font>에 있을 경우<br/>해당 스킬 사거리 <font color=\"Red\">+2</font>.",
+        "Desc": "[패시브] 턴 시작 시 랜덤한 인접 아군 <font color=\"Red\">2</font>명에게 '행동 종료 시 주위 <font color=\"Red\">2</font>칸 범위 안 <font color=\"orange\">주시</font>를 보유한 적에게 면역 및 해제 불가의 <font color=\"orange\">파악</font> (지속 <font color=\"Red\">2</font>턴) 부여' 효과 부여 (지속 <font color=\"Red\">1</font>턴)<br/>[물리피해] <font color=\"Red\">1</font>줄 직선 상 적에게 <font color=\"Red\">0.2</font>배 피해 및 <font color=\"orange\">주시</font> 부여.<br/>전투 후 <font color=\"Red\">3</font>칸 <font color=\"blue\">재이동</font><br/>자신이 <font color=\"green\">방어 지형</font> 또는 <font color=\"green\">물</font>에 있을 경우<br/>해당 스킬 사거리 <font color=\"Red\">+2</font>.",
         "SubSkills": null,
         "Animation": null
       },
@@ -356,7 +356,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/히비스커스.webp",
-        "Desc": "[패시브] <font color=\"blue\">파악</font>을 보유한 적 <font color=\"Red\">1</font>명마다 <font color=\"blue\">부대 이동력</font> <font color=\"Red\">+2</font>, <font color=\"blue\">사거리</font> <font color=\"Red\">+1</font> (최대 <font color=\"Red\">2</font>중첩)<br/>[물리피해] 직선 범위 안 단일 적에게 <font color=\"Red\">1.6</font>배 피해.<br/>적 격파 성공 시 해당 스킬 쿨 <font color=\"Red\">-2</font>턴.<br/><font color=\"blue\">원거리 병사 대동 시 함께 공격</font>.<br/>공격 후 남은 이동력만큼 <font color=\"blue\">재이동</font>.<br/>적이 <font color=\"blue\">주시</font>나 <font color=\"blue\">파악</font> 보유 시, 해당 전투에서 부대 공격 <font color=\"Red\">+30%</font>.<br/>적이 <font color=\"blue\">파악</font> 보유 시 해당 전투에서 <font color=\"blue\">적 부활 무효화</font>.<br/><font color=\"blue\">적 부활 무효화</font> 효과는 아레나에서만 적용.",
+        "Desc": "[패시브] <font color=\"orange\">파악</font>을 보유한 적 <font color=\"Red\">1</font>명마다 <font color=\"blue\">부대 이동력</font> <font color=\"Red\">+2</font>, <font color=\"blue\">사거리</font> <font color=\"Red\">+1</font> (최대 <font color=\"Red\">2</font>중첩)<br/>[물리피해] 직선 범위 안 단일 적에게 <font color=\"Red\">1.6</font>배 피해.<br/>적 격파 성공 시 해당 스킬 쿨 <font color=\"Red\">-2</font>턴.<br/><font color=\"blue\">원거리 병사 대동 시 함께 공격</font>.<br/>공격 후 남은 이동력만큼 <font color=\"blue\">재이동</font>.<br/>적이 <font color=\"orange\">주시</font>나 <font color=\"orange\">파악</font> 보유 시, 해당 전투에서 부대 공격 <font color=\"Red\">+30%</font>.<br/>적이 <font color=\"orange\">파악</font> 보유 시 해당 전투에서 <font color=\"blue\">적 부활 무효화</font>.<br/><font color=\"blue\">적 부활 무효화</font> 효과는 아레나에서만 적용.",
         "SubSkills": null,
         "Animation": "../img/Super/히비스커스_Ani.webp"
       }
