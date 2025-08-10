@@ -418,7 +418,7 @@ var data = [
                   },
                   {
                     "Label": "범위",
-                    "Value": "2칸"
+                    "Value": "단일"
                   }
                 ],
                 "IconImageUrl": "../img/skills/Gazesuccubus/3.webp",
