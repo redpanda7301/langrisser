@@ -112,8 +112,8 @@
         "MagicDefRate": 77,
         "Skill": 111,
         "SkillRate": 31,
-        "HeartFetterBouns1": "약화 효과가 있는 적과 전투를 할 경우,<br/>받는 피해량 <font color=\"red\">-10%</font>",
-        "HeartFetterBouns2": "광역 범위 피해량 <font color=\"red\">+10%</font>"
+        "HeartFetterBouns1": "약화 효과가 있는 적에게 공격받아 전투 진입 시,<br/>받는 피해량 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "주는 범위 피해량 <font color=\"red\">+10%</font>"
       },
     ],
     "SPOpenConditions": null,
@@ -552,7 +552,7 @@
               }
             ],
             "IconImageUrl": "../img/skills/Lucy/1_3.webp",
-            "Desc": "<font color=\"blue\">스타 드레스 - 양자리 형태</font> 획득 및 <b>자신</b>의 현 스텟 <font color=\"Red\">100%</font>를 계승한 <font color=\"purple\">양자리 아리에스</font> 소환<br/><br/>다른 <font color=\"blue\">스타 드레스</font> 형태와 공존 불가<br/>스킬 사용 후 남은 이동력만큼 <font color=\"blue\">재행동</font><br/><font color=\"blue\">해당 재행동은 보유한 버프 지속시간이 감소하지 않음</font><br/>스킬 사용 후 '<font color=\"blue\">스타 드레스</font>' 스킬은 '<font color=\"blue\">양털 폭탄</font>' 스킬로 변경되며<br/>사용 후 다시 '<font color=\"blue\">스타 드레스</font>'로 변경<br/><br/><font color=\"blue\">스타 드레스 - 양자리 형태</font> : <b>자신</b>과 <font color=\"purple\">성령</font>이 적에게 피해를 입힐 때 랜덤한 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여<br/><font color=\"blue\">스타 드레스 - 양자리 형태</font>는 <font color=\"blue\">면역 및 해제 불가</font>"
+            "Desc": "<font color=\"blue\">스타 드레스 - 양자리 형태</font> 획득 및 <b>자신</b>의 현 스텟 <font color=\"Red\">100%</font>를 계승한 <font color=\"purple\">양자리 아리에스</font> 소환<br/>다른 <font color=\"blue\">스타 드레스</font> 형태와 공존 불가<br/>스킬 사용 후 남은 이동력만큼 <font color=\"blue\">재행동</font><br/><font color=\"blue\">해당 재행동은 보유한 버프 지속시간이 감소하지 않음</font><br/>스킬 사용 후 '<font color=\"blue\">스타 드레스</font>' 스킬은 '<font color=\"blue\">양털 폭탄</font>' 스킬로 변경되며<br/>사용 후 다시 '<font color=\"blue\">스타 드레스</font>'로 변경<br/><br/><font color=\"blue\">스타 드레스 - 양자리 형태</font> : <b>자신</b>과 <font color=\"purple\">성령</font>이 적에게 피해를 입힐 때 랜덤한 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 부여<br/><font color=\"blue\">스타 드레스 - 양자리 형태</font>는 <font color=\"blue\">면역 및 해제 불가</font>"
           },
         ],
         "Animation": null
