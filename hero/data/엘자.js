@@ -114,7 +114,7 @@
         "Skill": 144,
         "SkillRate": 41,
         "HeartFetterBouns1": "선공으로 전투 진입 시<br/>부대가 받는 피해량 <font color=\"red\">-10%</font>",
-        "HeartFetterBouns2": "자신보다 생명력이 낮은 부대와 교전 시<br/>전투 중 주는 피해량 <font color=\"red\">+10%</font>"
+        "HeartFetterBouns2": "자신보다 생명 백분비가 낮은 부대와 교전 시<br/>전투 진입 후 주는 피해량 <font color=\"red\">+10%</font>"
       },
     ],
     "SPOpenConditions": null,

@@ -112,7 +112,7 @@
         "MagicDefRate": 77,
         "Skill": 111,
         "SkillRate": 31,
-        "HeartFetterBouns1": "약화 효과가 있는 적에게 공격받아 전투 진입 시,<br/>받는 피해량 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns1": "디버프를 보유한 부대에게 공격받아 전투 진입 시,<br/>받는 피해량 <font color=\"red\">-10%</font>",
         "HeartFetterBouns2": "주는 범위 피해량 <font color=\"red\">+10%</font>"
       },
     ],

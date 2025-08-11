@@ -56,16 +56,16 @@
             "Desc": "2성"
           },
           {
-            "Desc": "공격 방어 <font color=\"red\">+8%</font>, <b>용</b>과 교전 시 <font color=\"red\">2</font>배<br/><font color=\"blue\">선공</font>으로 전투 진입 혹은 아군이 피격으로 전투 진입 후 자신은 '<font color=\"blue\">감정의 화염</font>' <font color=\"red\">1</font> 스택 획득 <br/>(피해 <font color=\"red\">+5%</font>, 지속 <font color=\"red\">6</font>턴, 최대 <font color=\"red\">6</font>중첩, <font color=\"blue\">해제 불가</font>)<br/><font color=\"blue\">감정의 화염</font> <font color=\"red\">3</font> 스택 보유 시 <font color=\"blue\">선공</font>으로 전투 진입 후 피해량의 <font color=\"red\">+30%</font> 수치만큼 생명 <font color=\"green\">회복</font>"
+            "Desc": "공격, 방어 <font color=\"red\">+8%</font>, <b>용</b>과 교전 시 <font color=\"red\">2</font>배<br/>선공으로 전투 진입 혹은 아군이 피격으로 전투 진입 후 자신은 <font color=\"blue\">감정의 화염</font> <font color=\"red\">1</font> 스택 획득 <br/><font color=\"blue\">감정의 화염</font> : <font color=\"blue\">주는 피해량</font> <font color=\"red\">+5%</font>, 지속 <font color=\"red\">6</font>턴, 최대 <font color=\"red\">6</font>스택까지 중첩, <font color=\"blue\">해제 불가</font><br/><font color=\"blue\">감정의 화염</font> <font color=\"red\">3</font> 스택 보유 시 선공으로 전투 진입 후 피해량의 <font color=\"red\">30%</font> 수치만큼 생명 회복"
           },
           {
-            "Desc": "공격 방어 <font color=\"red\">+12%</font>, <b>용</b>과 교전 시 <font color=\"red\">2</font>배<br/><font color=\"blue\">선공</font>으로 전투 진입 혹은 아군이 피격으로 전투 진입 후 자신은 '<font color=\"blue\">감정의 화염</font>' <font color=\"red\">1</font> 스택 획득 <br/>(피해 <font color=\"red\">+5%</font>, 지속 <font color=\"red\">6</font>턴, 최대 <font color=\"red\">6</font>중첩, <font color=\"blue\">해제 불가</font>)<br/><font color=\"blue\">감정의 화염</font> <font color=\"red\">3</font> 스택 보유 시 <font color=\"blue\">선공</font>으로 전투 진입 후 피해량의 <font color=\"red\">+30%</font> 수치만큼 생명 <font color=\"green\">회복</font>"
+            "Desc": "공격, 방어 <font color=\"red\">+12%</font>, <b>용</b>과 교전 시 <font color=\"red\">2</font>배<br/>선공으로 전투 진입 혹은 아군이 피격으로 전투 진입 후 자신은 <font color=\"blue\">감정의 화염</font> <font color=\"red\">1</font> 스택 획득 <br/><font color=\"blue\">감정의 화염</font> : <font color=\"blue\">주는 피해량</font> <font color=\"red\">+5%</font>, 지속 <font color=\"red\">6</font>턴, 최대 <font color=\"red\">6</font>스택까지 중첩, <font color=\"blue\">해제 불가</font><br/><font color=\"blue\">감정의 화염</font> <font color=\"red\">3</font> 스택 보유 시 선공으로 전투 진입 후 피해량의 <font color=\"red\">30%</font> 수치만큼 생명 회복"
           },
           {
-            "Desc": "공격 방어 <font color=\"red\">+16%</font>, <b>용</b>과 교전 시 <font color=\"red\">2</font>배<br/><font color=\"blue\">선공</font>으로 전투 진입 혹은 아군이 피격으로 전투 진입 후 자신은 '<font color=\"blue\">감정의 화염</font>' <font color=\"red\">1</font> 스택 획득 <br/>(피해 <font color=\"red\">+5%</font>, 지속 <font color=\"red\">6</font>턴, 최대 <font color=\"red\">6</font>중첩, <font color=\"blue\">해제 불가</font>)<br/><font color=\"blue\">감정의 화염</font> <font color=\"red\">3</font> 스택 보유 시 <font color=\"blue\">선공</font>으로 전투 진입 후 피해량의 <font color=\"red\">+30%</font> 수치만큼 생명 <font color=\"green\">회복</font>"
+            "Desc": "공격, 방어 <font color=\"red\">+16%</font>, <b>용</b>과 교전 시 <font color=\"red\">2</font>배<br/>선공으로 전투 진입 혹은 아군이 피격으로 전투 진입 후 자신은 <font color=\"blue\">감정의 화염</font> <font color=\"red\">1</font> 스택 획득 <br/><font color=\"blue\">감정의 화염</font> : <font color=\"blue\">주는 피해량</font> <font color=\"red\">+5%</font>, 지속 <font color=\"red\">6</font>턴, 최대 <font color=\"red\">6</font>스택까지 중첩, <font color=\"blue\">해제 불가</font><br/><font color=\"blue\">감정의 화염</font> <font color=\"red\">3</font> 스택 보유 시 선공으로 전투 진입 후 피해량의 <font color=\"red\">30%</font> 수치만큼 생명 회복"
           },
           {
-            "Desc": "공격 방어 <font color=\"red\">+20%</font>, <b>용</b>과 교전 시 <font color=\"red\">2</font>배<br/><font color=\"blue\">선공</font>으로 전투 진입 혹은 아군이 피격으로 전투 진입 후 자신은 '<font color=\"blue\">감정의 화염</font>' <font color=\"red\">1</font> 스택 획득 <br/>(피해 <font color=\"red\">+5%</font>, 지속 <font color=\"red\">6</font>턴, 최대 <font color=\"red\">6</font>중첩, <font color=\"blue\">해제 불가</font>)<br/><font color=\"blue\">감정의 화염</font> <font color=\"red\">3</font> 스택 보유 시 <font color=\"blue\">선공</font>으로 전투 진입 후 피해량의 <font color=\"red\">+30%</font> 수치만큼 생명 <font color=\"green\">회복</font>"
+            "Desc": "공격, 방어 <font color=\"red\">+20%</font>, <b>용</b>과 교전 시 <font color=\"red\">2</font>배<br/>선공으로 전투 진입 혹은 아군이 피격으로 전투 진입 후 자신은 <font color=\"blue\">감정의 화염</font> <font color=\"red\">1</font> 스택 획득 <br/><font color=\"blue\">감정의 화염</font> : <font color=\"blue\">주는 피해량</font> <font color=\"red\">+5%</font>, 지속 <font color=\"red\">6</font>턴, 최대 <font color=\"red\">6</font>스택까지 중첩, <font color=\"blue\">해제 불가</font><br/><font color=\"blue\">감정의 화염</font> <font color=\"red\">3</font> 스택 보유 시 선공으로 전투 진입 후 피해량의 <font color=\"red\">30%</font> 수치만큼 생명 회복"
           }
         ]
       }
@@ -74,6 +74,8 @@
     "Second_Awaken": null,
     "Equip": null,
     "Soldiers": [
+      "그레나디어",
+      "로열 그리폰",
       "드레고니아 나이트",
       "기계 용기사",
       "사막용병",
@@ -86,54 +88,27 @@
         "Icon": "용족",
         "SD": [
           {
-            "ImageUrl": "나츠/1.webp"
+            "ImageUrl": "나츠/1/1.webp"
           }
         ],
         "AttkRange": 1,
-        "Move": 3,
+        "Move": 4,
         "MoveType": "보행",
         "HP": 4416,
-        "HPRate": 74,
+        "HPRate": 67,
         "Attk": 587,
-        "AttkRate": 88,
+        "AttkRate": 90,
         "Int": 244,
         "IntRate": 37,
-        "Def": 3310,
-        "DefRate": 78,
+        "Def": 310,
+        "DefRate": 68,
         "MagicDef": 271,
-        "MagicDefRate": 67,
+        "MagicDefRate": 60,
         "Skill": 185,
-        "SkillRate": 46,
-        "HeartFetterBouns1": "염룡왕의 후예 : 공격을 받은 후 전투에<br/>진입할 때 받는 물리적 피해가 <font color=\"red\">-10%</font>",
-        "HeartFetterBouns2": "근접 공격을 받아<br/> 전투에 진입할 때 피해량 <font color=\"red\">+10%</font>"
+        "SkillRate": 52,
+        "HeartFetterBouns1": "공격을 받아 전투 진입 시<br/>받는 물리 피해량 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "근접 공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
       },
-    ],
-    "Materials": {
-      "HeartFetter": null,
-      "Fetter": null,
-      "Awaken": null
-    },
-    "ClassUp": [
-      {
-        "ClassTitle": "용병 :",
-        "Tiers": null
-      },
-      {
-        "ClassTitle": "계승자 :",
-        "Tiers": null
-      },
-      {
-        "ClassTitle": "빛의 검 :",
-        "Tiers": null
-      },
-      {
-        "ClassTitle": "검사 :",
-        "Tiers": null
-      },
-      {
-        "ClassTitle": "영웅 :",
-        "Tiers": null
-      }
     ],
     "SPOpenConditions": null,
     "Skills": [
@@ -218,7 +193,7 @@
         "Animation": null
       },
       {
-        "Name": "염룡의 불꽃",
+        "Name": "화룡의 황염",
         "Cost": "COST 1",
         "Entries": [
           {
@@ -239,7 +214,7 @@
           }
         ],
         "IconImageUrl": "../img/skills/Natsu/1.webp",
-        "Desc": "단일 개체 <font color=\"red\">1.4</font>배 피해. 적 격파 시 해당 <font color=\"blue\">스킬</font> 쿨 -<font color=\"red\">1</font>. <br/><font color=\"blue\">감정의 화염</font> <font color=\"red\">3</font> 스택 보유 시 해당 전투에서 적은 <font color=\"blue\">반격 불가</font>.",
+        "Desc": "단일 개체 <font color=\"red\">1.4</font>배 피해<br/>적 격파 시 해당 스킬 쿨타임 <font color=\"red\">-1</font>턴<br/>보유한 <font color=\"blue\">감정의 화염</font>이 <font color=\"red\">3</font> 스택 이상일 경우<br/>해당 전투에서 적은 <font color=\"blue\">반격 불가</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -270,7 +245,7 @@
         "Animation": null
       },
       {
-        "Name": "최종 형태",
+        "Name": "E.N.D. 모드",
         "Cost": "COST 2",
         "Entries": [
           {
@@ -287,11 +262,11 @@
           },
           {
             "Label": "범위",
-            "Value": "자신"
+            "Value": "단일"
           }
         ],
         "IconImageUrl": "../img/skills/Natsu/2.webp",
-        "Desc": "<font color=\"blue\">스킬</font> 사용 시 <font color=\"blue\">최종 형태</font>로 돌입 : 피해 <font color=\"red\">+20%</font>, <font color=\"blue\">병종</font>이 <font color=\"blue\">마물</font>로 변경, 지속 <font color=\"red\">3</font>턴. <br/><font color=\"blue\">선공</font>으로 적 격파 시, <font color=\"blue\">감정의 화염</font> <font color=\"red\">5</font>스택일 경우 <font color=\"blue\">재행동</font> (쿨 <font color=\"red\">2</font>).<br/></br> <font color=\"blue\">최종 형태</font>에서 격파 시키는 적이나 격파 당하는 아군 <font color=\"red\">1</font>명 당 <font color=\"blue\">최종 형태</font> 지속 시간 +<font color=\"red\">1</font></b>턴.<br/> <font color=\"blue\">최종 형태</font> 지속시간이 <font color=\"red\">1</font>턴 증가할 때마다<br/> <font color=\"blue\">선공</font>으로 전투 진입 전 적의 버프 <font color=\"red\">1</font>개 제거, 최대 <font color=\"red\">3</font>개<br/></br><font color=\"blue\">최종 형태</font> 소멸 시, '<font color=\"blue\">용력 고갈</font>' 효과 획득 : <font color=\"blue\">이동력</font> -<font color=\"red\">2</font>, 지속 <font color=\"red\">1</font>턴<br/> <font color=\"blue\">최종 형태</font>는 <font color=\"blue\">면역 및 해제 불가</font><br/> 해당 <font color=\"blue\">스킬</font> 사용 후 턴 종료 시 자신이 보유한 <font color=\"blue\">버프</font> 지속 시간은 감소하지 않음.",
+        "Desc": "액티브 사용 시 <font color=\"blue\">감정의 화염</font> <font color=\"red\">3</font>스택 획득 및 <font color=\"blue\">E.N.D. 모드</font> 진입<br/><font color=\"blue\">E.N.D. 모드</font> : <font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font>, 병종이 <b>마물</b>로 변경 (지속 <font color=\"red\">3</font>턴, <font color=\"blue\">면역 및 해제 불가</font>)<br/>선공으로 적 격파 시, <font color=\"blue\">감정의 화염</font> <font color=\"red\">5</font>스택 이상일 경우 <font color=\"blue\">재행동</font> (쿨타임 <font color=\"red\">2</font>턴)<br/><font color=\"blue\">E.N.D. 모드</font>에서는 격파시키는 적이나 격파 당하는 아군 <font color=\"red\">1</font>명마다 <font color=\"blue\">E.N.D. 모드</font> 지속 시간 <font color=\"red\">+1</font>턴<br/><font color=\"blue\">E.N.D. 모드</font> 지속 시간이 <font color=\"red\">1</font>턴 증가할 때마다, 선공으로 전투 진입 전 적의 버프 <font color=\"red\">1</font>개 제거, 최대 <font color=\"red\">3</font>개 제거<br/><br/>해당 스킬 사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font><br/>행동 종료 시 <font color=\"blue\">보유한 버프 지속 시간을 소모하지 않음</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -342,8 +317,8 @@
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/",
-        "Desc": "[패시브] <font color=\"green\">염룡왕의 영역</font>에 있을 시 받는 피해 -<font color=\"red\">20%</font>, 부대 피해 <font color=\"blue\">스킬 사거리</font> +<font color=\"red\">1</font><br/>단일 개체 <font color=\"red\">1.8</font>배 피해. <font color=\"blue\">감정의 화염</font> <font color=\"red\">4</font> 스택 이상 시, 해당 전투는 <font color=\"blue\">선제 공격</font>.<br/></br> <font color=\"blue\">최종 형태</font> 인 경우, 전투 후 목표 주위 2칸 지형에 <font color=\"green\">염룡왕의 영역</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/></br> <font color=\"green\">염룡왕의 영역</font> : 적이 해당 지형에서 턴 종료 시 시전자의 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font><br/> <b>나츠</b> 로부터 받는 피해 <font color=\"red\">15</font>%, 최대 <font color=\"red\">2</font>중첩, 지속 <font color=\"red\">2</font>턴, <font color=\"blue\">면역 및 해제 불가</font>",
+        "IconImageUrl": "../img/Super/나츠.webp",
+        "Desc": "[패시브] <font color=\"green\">염룡왕의 영역</font>에 있을 시 받는 피해 <font color=\"red\">-20%</font>, <font color=\"blue\">부대 피해 스킬 사거리</font> <font color=\"red\">+1</font><br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해<br><font color=\"blue\">감정의 화염</font> <font color=\"red\">4</font> 스택 이상일 경우, 해당 전투는 <font color=\"blue\">선제 공격</font><br/>자신이 <font color=\"blue\">E.N.D. 모드</font> 인 경우, 전투 후 목표 주위 <font color=\"red\">2</font>칸 범위 지형에 <font color=\"green\">염룡왕의 영역</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/></br><font color=\"green\">염룡왕의 영역</font> : 적이 해당 지형에서 턴 종료 시 시전자의 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font><br/><b>나츠</b>로부터 받는 피해 <font color=\"red\">15%</font>, 최대 <font color=\"red\">2</font>중첩, 지속 <font color=\"red\">2</font>턴, <font color=\"blue\">면역 및 해제 불가</font>",
         "SubSkills": null,
         "Animation": "../img/"
       }
