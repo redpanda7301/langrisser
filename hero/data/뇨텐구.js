@@ -32,7 +32,7 @@ var data = [
       "SPDef": 0,
       "MagicDef": 25,
       "SPMagicDef": 0,
-      "HowToGet": "한정 콜라보 소환",
+      "HowToGet": "영웅 소환 (콜라보)",
       "Fetters": [
         {
           "Condition": "레벨 30달성"
@@ -60,16 +60,16 @@ var data = [
               "Desc": "2성"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">10%</font><br/>방어 지형에서 행동 종료 시, 혹은 해당 턴에서 스킬을 사용한 경우, 자신의 부대 생명 <font color=\"red\">15%</font> 회복 및 <font color=\"blue\">비천의 춤</font> 효과 획득<br/><font color=\"blue\">비천의 춤</font> : <font color=\"blue\">이동력</font> <font color=\"red\">+2</font>, <font color=\"blue\">이동시 적 통과 가능</font>, <font color=\"blue\">받는 피해량</font> <font color=\"red\">-50%</font>, 피격으로 전투 진입해 피해를 입으면 해당 효과 상실 (해당 방식으로 효과 상실 시, 재획득 쿨 <font color=\"red\">1</font>턴)(지속 <font color=\"red\">2</font>턴, <font color=\"blue\">해제 불가</font>)"
+              "Desc": "공격, 방어 <font color=\"red\">+10%</font><br/>방어 지형에서 행동 종료 시, 혹은 해당 턴에서 스킬을 사용한 경우, 자신의 부대 생명 <font color=\"red\">15%</font> 회복 및 <font color=\"blue\">비천의 춤</font> 효과 획득<br/><font color=\"blue\">비천의 춤</font> : <font color=\"blue\">이동력</font> <font color=\"red\">+2</font>, <font color=\"blue\">이동시 적 통과 가능</font>, <font color=\"blue\">받는 피해량</font> <font color=\"red\">-50%</font>, 피격으로 전투 진입해 피해를 입으면 해당 효과 상실 (해당 방식으로 효과 상실 시, 재획득 쿨 <font color=\"red\">1</font>턴)(지속 <font color=\"red\">2</font>턴, <font color=\"blue\">해제 불가</font>)"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">15%</font><br/>방어 지형에서 행동 종료 시, 혹은 해당 턴에서 스킬을 사용한 경우, 자신의 부대 생명 <font color=\"red\">20%</font> 회복 및 <font color=\"blue\">비천의 춤</font> 효과 획득<br/><font color=\"blue\">비천의 춤</font> : <font color=\"blue\">이동력</font> <font color=\"red\">+2</font>, <font color=\"blue\">이동시 적 통과 가능</font>, <font color=\"blue\">받는 피해량</font> <font color=\"red\">-50%</font>, 피격으로 전투 진입해 피해를 입으면 해당 효과 상실 (해당 방식으로 효과 상실 시, 재획득 쿨 <font color=\"red\">1</font>턴)(지속 <font color=\"red\">2</font>턴, <font color=\"blue\">해제 불가</font>)"
+              "Desc": "공격, 방어 <font color=\"red\">+15%</font><br/>방어 지형에서 행동 종료 시, 혹은 해당 턴에서 스킬을 사용한 경우, 자신의 부대 생명 <font color=\"red\">20%</font> 회복 및 <font color=\"blue\">비천의 춤</font> 효과 획득<br/><font color=\"blue\">비천의 춤</font> : <font color=\"blue\">이동력</font> <font color=\"red\">+2</font>, <font color=\"blue\">이동시 적 통과 가능</font>, <font color=\"blue\">받는 피해량</font> <font color=\"red\">-50%</font>, 피격으로 전투 진입해 피해를 입으면 해당 효과 상실 (해당 방식으로 효과 상실 시, 재획득 쿨 <font color=\"red\">1</font>턴)(지속 <font color=\"red\">2</font>턴, <font color=\"blue\">해제 불가</font>)"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">20%</font><br/>방어 지형에서 행동 종료 시, 혹은 해당 턴에서 스킬을 사용한 경우, 자신의 부대 생명 <font color=\"red\">25%</font> 회복 및 <font color=\"blue\">비천의 춤</font> 효과 획득<br/><font color=\"blue\">비천의 춤</font> : <font color=\"blue\">이동력</font> <font color=\"red\">+2</font>, <font color=\"blue\">이동시 적 통과 가능</font>, <font color=\"blue\">받는 피해량</font> <font color=\"red\">-50%</font>, 피격으로 전투 진입해 피해를 입으면 해당 효과 상실 (해당 방식으로 효과 상실 시, 재획득 쿨 <font color=\"red\">1</font>턴)(지속 <font color=\"red\">2</font>턴, <font color=\"blue\">해제 불가</font>)"
+              "Desc": "공격, 방어 <font color=\"red\">+20%</font><br/>방어 지형에서 행동 종료 시, 혹은 해당 턴에서 스킬을 사용한 경우, 자신의 부대 생명 <font color=\"red\">25%</font> 회복 및 <font color=\"blue\">비천의 춤</font> 효과 획득<br/><font color=\"blue\">비천의 춤</font> : <font color=\"blue\">이동력</font> <font color=\"red\">+2</font>, <font color=\"blue\">이동시 적 통과 가능</font>, <font color=\"blue\">받는 피해량</font> <font color=\"red\">-50%</font>, 피격으로 전투 진입해 피해를 입으면 해당 효과 상실 (해당 방식으로 효과 상실 시, 재획득 쿨 <font color=\"red\">1</font>턴)(지속 <font color=\"red\">2</font>턴, <font color=\"blue\">해제 불가</font>)"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">25%</font><br/>방어 지형에서 행동 종료 시, 혹은 해당 턴에서 스킬을 사용한 경우, 자신의 부대 생명 <font color=\"red\">30%</font> 회복 및 <font color=\"blue\">비천의 춤</font> 효과 획득<br/><font color=\"blue\">비천의 춤</font> : <font color=\"blue\">이동력</font> <font color=\"red\">+2</font>, <font color=\"blue\">이동시 적 통과 가능</font>, <font color=\"blue\">받는 피해량</font> <font color=\"red\">-50%</font>, 피격으로 전투 진입해 피해를 입으면 해당 효과 상실 (해당 방식으로 효과 상실 시, 재획득 쿨 <font color=\"red\">1</font>턴)(지속 <font color=\"red\">2</font>턴, <font color=\"blue\">해제 불가</font>)"
+              "Desc": "공격, 방어 <font color=\"red\">+25%</font><br/>방어 지형에서 행동 종료 시, 혹은 해당 턴에서 스킬을 사용한 경우, 자신의 부대 생명 <font color=\"red\">30%</font> 회복 및 <font color=\"blue\">비천의 춤</font> 효과 획득<br/><font color=\"blue\">비천의 춤</font> : <font color=\"blue\">이동력</font> <font color=\"red\">+2</font>, <font color=\"blue\">이동시 적 통과 가능</font>, <font color=\"blue\">받는 피해량</font> <font color=\"red\">-50%</font>, 피격으로 전투 진입해 피해를 입으면 해당 효과 상실 (해당 방식으로 효과 상실 시, 재획득 쿨 <font color=\"red\">1</font>턴)(지속 <font color=\"red\">2</font>턴, <font color=\"blue\">해제 불가</font>)"
             }
           ]
         }

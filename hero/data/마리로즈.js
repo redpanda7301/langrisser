@@ -32,7 +32,7 @@ var data = [
       "SPDef": 0,
       "MagicDef": 10,
       "SPMagicDef": 0,
-      "HowToGet": "한정 콜라보 소환",
+      "HowToGet": "영웅 소환 (콜라보)",
       "Fetters": [
         {
           "Condition": "레벨 30달성"
@@ -60,16 +60,16 @@ var data = [
               "Desc": "2성"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">10%</font><br/>스킬로 공격 후 적에게 <font color=\"blue\">위치 이동</font> 효과 부여 (목표를 <font color=\"red\">3</font>칸 밀치며, 밀쳐지는 경로에 다른 부대나 진입 불가 지형이 있을 경우 다시 <font color=\"blue\">위치 이동</font> 효과가 발동되며 남은 칸수만큼 반대로 튕겨나옴<br/>부대를 위치 이동 시킬때마다 <font color=\"blue\">준비 스텝</font> 획득, 턴 시작 시 제거됨<br/>행동 종료 시, <font color=\"blue\">준비 스텝</font>을 <font color=\"red\">1</font>개 소모해 자신이 보유한 버프 지속시간을 소모하지 않고 추가로 <font color=\"red\">2</font>칸 재행동 가능<br/>해당 재행동 효과는 발동 시킬 때마다 소모하는 준비 스텝의 수가 <font color=\"red\">2</font>배로 되며, 각 턴에 최대 <font color=\"red\">5</font>회 발동"
+              "Desc": "공격, 방어 <font color=\"red\">+10%</font><br/>스킬로 공격 후 적에게 <font color=\"blue\">위치 이동</font> 효과 부여 (목표를 <font color=\"red\">3</font>칸 밀치며, 밀쳐지는 경로에 다른 부대나 진입 불가 지형이 있을 경우 다시 <font color=\"blue\">위치 이동</font> 효과가 발동되며 남은 칸수만큼 반대로 튕겨나옴<br/>부대를 위치 이동 시킬때마다 <font color=\"blue\">준비 스텝</font> 획득, 턴 시작 시 제거됨<br/>행동 종료 시, <font color=\"blue\">준비 스텝</font>을 <font color=\"red\">1</font>개 소모해 자신이 보유한 버프 지속시간을 소모하지 않고 추가로 <font color=\"red\">2</font>칸 재행동 가능<br/>해당 재행동 효과는 발동 시킬 때마다 소모하는 준비 스텝의 수가 <font color=\"red\">2</font>배로 되며, 각 턴에 최대 <font color=\"red\">5</font>회 발동"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">15%</font><br/>스킬로 공격 후 적에게 <font color=\"blue\">위치 이동</font> 효과 부여 (목표를 <font color=\"red\">3</font>칸 밀치며, 밀쳐지는 경로에 다른 부대나 진입 불가 지형이 있을 경우 다시 <font color=\"blue\">위치 이동</font> 효과가 발동되며 남은 칸수만큼 반대로 튕겨나옴<br/>부대를 위치 이동 시킬때마다 <font color=\"blue\">준비 스텝</font> 획득, 턴 시작 시 제거됨<br/>행동 종료 시, <font color=\"blue\">준비 스텝</font>을 <font color=\"red\">1</font>개 소모해 자신이 보유한 버프 지속시간을 소모하지 않고 추가로 <font color=\"red\">2</font>칸 재행동 가능<br/>해당 재행동 효과는 발동 시킬 때마다 소모하는 준비 스텝의 수가 <font color=\"red\">2</font>배로 되며, 각 턴에 최대 <font color=\"red\">5</font>회 발동"
+              "Desc": "공격, 방어 <font color=\"red\">+15%</font><br/>스킬로 공격 후 적에게 <font color=\"blue\">위치 이동</font> 효과 부여 (목표를 <font color=\"red\">3</font>칸 밀치며, 밀쳐지는 경로에 다른 부대나 진입 불가 지형이 있을 경우 다시 <font color=\"blue\">위치 이동</font> 효과가 발동되며 남은 칸수만큼 반대로 튕겨나옴<br/>부대를 위치 이동 시킬때마다 <font color=\"blue\">준비 스텝</font> 획득, 턴 시작 시 제거됨<br/>행동 종료 시, <font color=\"blue\">준비 스텝</font>을 <font color=\"red\">1</font>개 소모해 자신이 보유한 버프 지속시간을 소모하지 않고 추가로 <font color=\"red\">2</font>칸 재행동 가능<br/>해당 재행동 효과는 발동 시킬 때마다 소모하는 준비 스텝의 수가 <font color=\"red\">2</font>배로 되며, 각 턴에 최대 <font color=\"red\">5</font>회 발동"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">20%</font><br/>스킬로 공격 후 적에게 <font color=\"blue\">위치 이동</font> 효과 부여 (목표를 <font color=\"red\">3</font>칸 밀치며, 밀쳐지는 경로에 다른 부대나 진입 불가 지형이 있을 경우 다시 <font color=\"blue\">위치 이동</font> 효과가 발동되며 남은 칸수만큼 반대로 튕겨나옴<br/>부대를 위치 이동 시킬때마다 <font color=\"blue\">준비 스텝</font> 획득, 턴 시작 시 제거됨<br/>행동 종료 시, <font color=\"blue\">준비 스텝</font>을 <font color=\"red\">1</font>개 소모해 자신이 보유한 버프 지속시간을 소모하지 않고 추가로 <font color=\"red\">3</font>칸 재행동 가능<br/>해당 재행동 효과는 발동 시킬 때마다 소모하는 준비 스텝의 수가 <font color=\"red\">2</font>배로 되며, 각 턴에 최대 <font color=\"red\">5</font>회 발동"
+              "Desc": "공격, 방어 <font color=\"red\">+20%</font><br/>스킬로 공격 후 적에게 <font color=\"blue\">위치 이동</font> 효과 부여 (목표를 <font color=\"red\">3</font>칸 밀치며, 밀쳐지는 경로에 다른 부대나 진입 불가 지형이 있을 경우 다시 <font color=\"blue\">위치 이동</font> 효과가 발동되며 남은 칸수만큼 반대로 튕겨나옴<br/>부대를 위치 이동 시킬때마다 <font color=\"blue\">준비 스텝</font> 획득, 턴 시작 시 제거됨<br/>행동 종료 시, <font color=\"blue\">준비 스텝</font>을 <font color=\"red\">1</font>개 소모해 자신이 보유한 버프 지속시간을 소모하지 않고 추가로 <font color=\"red\">3</font>칸 재행동 가능<br/>해당 재행동 효과는 발동 시킬 때마다 소모하는 준비 스텝의 수가 <font color=\"red\">2</font>배로 되며, 각 턴에 최대 <font color=\"red\">5</font>회 발동"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">25%</font><br/>스킬로 공격 후 적에게 <font color=\"blue\">위치 이동</font> 효과 부여 (목표를 <font color=\"red\">3</font>칸 밀치며, 밀쳐지는 경로에 다른 부대나 진입 불가 지형이 있을 경우 다시 <font color=\"blue\">위치 이동</font> 효과가 발동되며 남은 칸수만큼 반대로 튕겨나옴<br/>부대를 위치 이동 시킬때마다 <font color=\"blue\">준비 스텝</font> 획득, 턴 시작 시 제거됨<br/>행동 종료 시, <font color=\"blue\">준비 스텝</font>을 <font color=\"red\">1</font>개 소모해 자신이 보유한 버프 지속시간을 소모하지 않고 추가로 <font color=\"red\">3</font>칸 재행동 가능<br/>해당 재행동 효과는 발동 시킬 때마다 소모하는 준비 스텝의 수가 <font color=\"red\">2</font>배로 되며, 각 턴에 최대 <font color=\"red\">5</font>회 발동"
+              "Desc": "공격, 방어 <font color=\"red\">+25%</font><br/>스킬로 공격 후 적에게 <font color=\"blue\">위치 이동</font> 효과 부여 (목표를 <font color=\"red\">3</font>칸 밀치며, 밀쳐지는 경로에 다른 부대나 진입 불가 지형이 있을 경우 다시 <font color=\"blue\">위치 이동</font> 효과가 발동되며 남은 칸수만큼 반대로 튕겨나옴<br/>부대를 위치 이동 시킬때마다 <font color=\"blue\">준비 스텝</font> 획득, 턴 시작 시 제거됨<br/>행동 종료 시, <font color=\"blue\">준비 스텝</font>을 <font color=\"red\">1</font>개 소모해 자신이 보유한 버프 지속시간을 소모하지 않고 추가로 <font color=\"red\">3</font>칸 재행동 가능<br/>해당 재행동 효과는 발동 시킬 때마다 소모하는 준비 스텝의 수가 <font color=\"red\">2</font>배로 되며, 각 턴에 최대 <font color=\"red\">5</font>회 발동"
             }
           ]
         }

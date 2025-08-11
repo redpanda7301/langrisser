@@ -56,16 +56,16 @@ var data = [
               "Desc": "2성"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">10%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>피해를 입힌 후 적에게 <font color=\"blue\">경직</font> 효과 부여<br/><font color=\"blue\">경직</font> : <font color=\"blue\">호위 불가</font>, <font color=\"blue\">선제 공격 불가</font> (지속 <font color=\"red\">2</font> 턴, 해제 불가)<br/>선공으로 전투 진입 시, 적이 <font color=\"blue\">경직</font> 효과를 보유했을 경우<br/><font color=\"blue\">반격 불가</font> 및 전투 후 적 <font color=\"blue\">기절</font> (지속 <font color=\"red\">1</font>턴)"
+              "Desc": "공격, 방어 <font color=\"red\">+10%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>피해를 입힌 후 적에게 <font color=\"blue\">경직</font> 효과 부여<br/><font color=\"blue\">경직</font> : <font color=\"blue\">호위 불가</font>, <font color=\"blue\">선제 공격 불가</font> (지속 <font color=\"red\">2</font> 턴, 해제 불가)<br/>선공으로 전투 진입 시, 적이 <font color=\"blue\">경직</font> 효과를 보유했을 경우<br/><font color=\"blue\">반격 불가</font> 및 전투 후 적 <font color=\"blue\">기절</font> (지속 <font color=\"red\">1</font>턴)"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">15%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>피해를 입힌 후 적에게 <font color=\"blue\">경직</font> 효과 부여<br/><font color=\"blue\">경직</font> : <font color=\"blue\">호위 불가</font>, <font color=\"blue\">선제 공격 불가</font> (지속 <font color=\"red\">2</font> 턴, 해제 불가)<br/>선공으로 전투 진입 시, 적이 <font color=\"blue\">경직</font> 효과를 보유했을 경우<br/><font color=\"blue\">반격 불가</font> 및 전투 후 적 <font color=\"blue\">기절</font> (지속 <font color=\"red\">1</font>턴)"
+              "Desc": "공격, 방어 <font color=\"red\">+15%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>피해를 입힌 후 적에게 <font color=\"blue\">경직</font> 효과 부여<br/><font color=\"blue\">경직</font> : <font color=\"blue\">호위 불가</font>, <font color=\"blue\">선제 공격 불가</font> (지속 <font color=\"red\">2</font> 턴, 해제 불가)<br/>선공으로 전투 진입 시, 적이 <font color=\"blue\">경직</font> 효과를 보유했을 경우<br/><font color=\"blue\">반격 불가</font> 및 전투 후 적 <font color=\"blue\">기절</font> (지속 <font color=\"red\">1</font>턴)"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">20%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>피해를 입힌 후 적에게 <font color=\"blue\">경직</font> 효과 부여<br/><font color=\"blue\">경직</font> : <font color=\"blue\">호위 불가</font>, <font color=\"blue\">선제 공격 불가</font> (지속 <font color=\"red\">2</font> 턴, 해제 불가)<br/>선공으로 전투 진입 시, 적이 <font color=\"blue\">경직</font> 효과를 보유했을 경우<br/><font color=\"blue\">반격 불가</font> 및 전투 후 적 <font color=\"blue\">기절</font> (지속 <font color=\"red\">1</font>턴)"
+              "Desc": "공격, 방어 <font color=\"red\">+20%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>피해를 입힌 후 적에게 <font color=\"blue\">경직</font> 효과 부여<br/><font color=\"blue\">경직</font> : <font color=\"blue\">호위 불가</font>, <font color=\"blue\">선제 공격 불가</font> (지속 <font color=\"red\">2</font> 턴, 해제 불가)<br/>선공으로 전투 진입 시, 적이 <font color=\"blue\">경직</font> 효과를 보유했을 경우<br/><font color=\"blue\">반격 불가</font> 및 전투 후 적 <font color=\"blue\">기절</font> (지속 <font color=\"red\">1</font>턴)"
             },
             {
-              "Desc": "공격, 방어 <font color=\"red\">25%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>피해를 입힌 후 적에게 <font color=\"blue\">경직</font> 효과 부여<br/><font color=\"blue\">경직</font> : <font color=\"blue\">호위 불가</font>, <font color=\"blue\">선제 공격 불가</font> (지속 <font color=\"red\">2</font> 턴, 해제 불가)<br/>선공으로 전투 진입 시, 적이 <font color=\"blue\">경직</font> 효과를 보유했을 경우<br/><font color=\"blue\">반격 불가</font> 및 전투 후 적 <font color=\"blue\">기절</font> (지속 <font color=\"red\">1</font>턴)"
+              "Desc": "공격, 방어 <font color=\"red\">+25%</font><br/><font color=\"blue\">부대 근접전 패널티 면역</font><br/>피해를 입힌 후 적에게 <font color=\"blue\">경직</font> 효과 부여<br/><font color=\"blue\">경직</font> : <font color=\"blue\">호위 불가</font>, <font color=\"blue\">선제 공격 불가</font> (지속 <font color=\"red\">2</font> 턴, 해제 불가)<br/>선공으로 전투 진입 시, 적이 <font color=\"blue\">경직</font> 효과를 보유했을 경우<br/><font color=\"blue\">반격 불가</font> 및 전투 후 적 <font color=\"blue\">기절</font> (지속 <font color=\"red\">1</font>턴)"
             }
           ]
         }
