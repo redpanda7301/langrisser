@@ -2466,11 +2466,11 @@ function openForm60_3() {
   document.getElementById("myForm60_3").style.display = "block";
 }
 //SP병종 구분(250413 8프로빌런), SP엘프투창병 작업용
-function openFormSP25_1() {
-  document.getElementById("myFormSP25_1").style.display = "block";
+function openFormSP25() {
+  document.getElementById("myFormSP25").style.display = "block";
 }
-function closeFormSP25_1() {
-  document.getElementById("myFormSP25_1").style.display = "none";
+function closeFormSP25() {
+  document.getElementById("myFormSP25").style.display = "none";
 }
 //SP병종 구분(250413 8프로빌런), SP다크엘프저격수 작업용
 function openFormSP18_1() {
@@ -2478,4 +2478,18 @@ function openFormSP18_1() {
 }
 function closeFormSP18_1() {
   document.getElementById("myFormSP18_1").style.display = "none";
+}
+//SP병종 구분(250817 8프로빌런), SP가면메이드 작업용
+function openFormSP18() {
+  document.getElementById("myFormSP18").style.display = "block";
+}
+function closeFormSP18() {
+  document.getElementById("myFormSP18").style.display = "none";
+}
+//SP병종 구분(250817 8프로빌런), SP오크광전사 작업용
+function openFormSP19() {
+  document.getElementById("myFormSP19").style.display = "block";
+}
+function closeFormSP19() {
+  document.getElementById("myFormSP19").style.display = "none";
 }
