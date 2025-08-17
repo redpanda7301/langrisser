@@ -96,6 +96,13 @@ input::-moz-focus-inner {
 		letter-spacing: -1px;
 		margin-bottom: 1em;
 	}
+/* 250817 8프로빌런 작업. SP병사 이름 전용 서식 */
+	.h2_sp {
+		text-transform: none;
+		font-size: 1.6em;
+		letter-spacing: -1px;
+		margin-bottom: 1em;
+	}
 
 	h3, h4 {
 		color: #283121;
