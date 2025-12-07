@@ -238,7 +238,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/skills/Gazesuccubus/4.webp",
-            "Desc": "[패시브]행동 종료 시, 직선 상 가장 가까운 적 영웅이 자신과 동일 병종일 경우 대상에게 '<font color=\"blue\">제어 불가, 임의의 아군이 근접해야 제거</font>' 효과 부여 (지속 <font color=\"red\">1</font>턴, 해제 불가)<br/>아레나가 아닐 경우 해당 효과는 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+30%</font>로 대체<br/>[액티브] <font color=\"red\">1</font>줄 직선상 작에게 <font color=\"red\">0.3</font>배 피해 및 대상에게 <font color=\"blue\">자신의 병종 부여</font> (지속 <font color=\"red\">3</font>턴, 병종 전환은 버프 효과로 취급, 공격을 받아 피해를 입을 경우 지속 시간 <font color=\"red\">1</font>턴 감소)",
+            "Desc": "[패시브]행동 종료 시, 직선 상 가장 가까운 적 영웅이 자신과 동일 병종일 경우 대상에게 '<font color=\"blue\">제어 불가, 임의의 아군이 근접해야 제거</font>' 효과 부여 (지속 <font color=\"red\">1</font>턴, 해제 불가)<br/>아레나가 아닐 경우 해당 효과는 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+30%</font>로 대체<br/>[액티브] <font color=\"red\">1</font>줄 직선상 적에게 <font color=\"red\">0.3</font>배 피해 및 대상에게 <font color=\"blue\">자신의 병종 부여</font> (지속 <font color=\"red\">3</font>턴, 병종 전환은 버프 효과로 취급, 공격을 받아 피해를 입을 경우 지속 시간 <font color=\"red\">1</font>턴 감소)",
             "SubSkills": null,
             "Animation": null
           },

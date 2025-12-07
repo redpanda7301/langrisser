@@ -80,7 +80,7 @@ var data = [
       "EqpName": "녹과 영광(갑옷)",
       "Stats": "생명 437,방어 65",
       "Icon": "호프만.webp",
-      "Ability": "생명, 방어 +5%<br/><font color=\"purple\">왕국의 방패</font>로 <font color=\"blue\">영광의 수호</font> 사용 시, 지휘 효과 획득<br/><font color=\"blue\">지휘</font> : 비행 타입이 아닌 아군이 방어 범위 지형 통과 시, <font color=\"red\">1</font>칸 <font color=\"blue\">이동력 감소 면역 기회</font> 획득<br/>지속 <font color=\"red\">4</font>행동, 해제 불가"
+      "Ability": "생명, 방어 +5%<br/><font color=\"purple\">왕국의 방패</font>로 <font color=\"blue\">영광의 수호</font> 사용 시, <font color=\"red\">2</font>개의 지휘 효과 획득<br/><font color=\"blue\">지휘</font> : 비행 타입이 아닌 아군이 방어 범위 지형 통과 시, <font color=\"red\">1</font>칸 <font color=\"blue\">이동력 감소 면역 기회</font> 획득<br/><font color=\"blue\">지휘</font> : 인접한 <font color=\"red\">3</font>칸 내의 아군의 모든 공격을 대신 받음<br/>(지속 <font color=\"red\">4</font>턴, 해제 불가)"
     },
     "Soldiers": [
       "그레나디어",

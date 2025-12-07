@@ -458,7 +458,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Adankelmo/2.webp",
-        "Desc": "단일 적 부대를 공격해 <font color=\"Red\">1.6</font>배의 피해를 준다<br/>자신 주변 <font color=\"Red\">2</font>칸이내 아군 <font color=\"purple\">포탈</font>이 있을시 피해량 <font color=\"Red\">+20%</font>.<br/>전투 후 가한 피해량 <font color=\"Red\">30%</font>만큼 <font color=\"green\">생명 회복</font>하며<br/><font color=\"Red\">2</font>칸 이내 위치로 <font color=\"blue\">위치이동</font> 가능",
+        "Desc": "단일 적 부대를 공격해 <font color=\"Red\">1.6</font>배의 피해를 준다<br/>자신 주변 <font color=\"Red\">2</font>칸이내 아군 <font color=\"purple\">포탈</font>이 있을시 피해량 <font color=\"Red\">+20%</font>.<br/>전투 후 가한 피해량 <font color=\"Red\">20%</font>만큼 <font color=\"green\">생명 회복</font>하며<br/><font color=\"Red\">2</font>칸 이내 위치로 <font color=\"blue\">위치이동</font> 가능",
         "SubSkills": null,
         "Animation": null
       },

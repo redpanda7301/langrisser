@@ -140,7 +140,7 @@ var data = [
             }
           ],
           "IconImageUrl": "../img/skills/MarieRose/1.webp",
-          "Desc": "[패시브] 턴마다 적을 처음 <font color=\"blue\">위치 이동</font> 시켰으나 성공하지 못했을 경우, 행동 종료 시 직선 <font color=\"red\">3</font>칸 범위 안 임의의 장소로 텔레포트 시키고, 해당 텔레포트는 <font color=\"blue\">위치 이동</font> 효과로 간주<br/>액티브. 자신 최대 생명 <font color=\"red\">30%</font> 회복, 주위 <font color=\"red\">4</font>칸 범위 안에 적이 있을 경우 <font color=\"blue\">준비 스텝</font> <font color=\"red\">1</font>개 획득",
+          "Desc": "[패시브] 턴마다 적을 처음 <font color=\"blue\">위치 이동</font> 시켰으나 성공하지 못했을 경우, <i>자신은</i> 행동 종료 시 직선 <font color=\"red\">3</font>칸 범위 안 임의의 장소로 텔레포트 가능. 해당 텔레포트는 <font color=\"blue\">위치 이동</font> 효과로 간주<br/>액티브. 자신 최대 생명 <font color=\"red\">30%</font> 회복, 주위 <font color=\"red\">4</font>칸 범위 안에 적이 있을 경우 <font color=\"blue\">준비 스텝</font> <font color=\"red\">1</font>개 획득",
           "SubSkills": null,
           "Animation": null
         },
@@ -239,7 +239,7 @@ var data = [
           "Animation": null
         },
           {
-            "Name": "문라이트 스윕",
+            "Name": "오텀널",
             "Cost": "COST 2",
             "Entries": [
               {
@@ -265,7 +265,7 @@ var data = [
             "Animation": null
           },
           {
-            "Name": "피어나는 장미",
+            "Name": "오렌지 라플스",
             "Cost": "COST 2",
             "Entries": [
               {
@@ -291,7 +291,7 @@ var data = [
             "Animation": null
           },
         {
-          "Name": "앵화천무",
+          "Name": "궁그닐",
           "Cost": "COST 3",
           "Entries": [
             {

@@ -44,7 +44,7 @@ var data = [
           "Condition": "솀의 도움을 받아 운명의문4"
         },
         {
-          "Condition": "마카에라를 꿈의 무희로 전직"
+          "Condition": "마카에라를 섬뜩한 빛의 그림자로 전직"
         }
       ],
       "HeartFetter": "",

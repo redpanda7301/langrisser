@@ -135,7 +135,7 @@ var data = [
         "MagicDefRate": 88,
         "Skill": 111,
         "SkillRate": 33,
-        "HeartFetterBouns1": "<b>받는 범위피해량</b><font color=\"red\">-10%</font>",
+        "HeartFetterBouns1": "<b>받는 범위 피해량</b><font color=\"red\">-10%</font>",
         "HeartFetterBouns2": "<b>공격하여 전투 진입시</b><br/>피해 증가량 <font color=\"red\">+10%</font>"
       },
       {
@@ -170,7 +170,7 @@ var data = [
         "MagicDefRate": 93,
         "Skill": 125,
         "SkillRate": 40,
-        "HeartFetterBouns1": "<b>공격받아 전투 진입시</b><br/> 받는 물리량<font color=\"red\">-10%</font>",
+        "HeartFetterBouns1": "<b>공격받아 전투 진입시</b><br/>받는 물리 피해량<font color=\"red\">-10%</font>",
         "HeartFetterBouns2": "<b>부대 생명력이 <font color=\"red\">80%</font> 이상일시</b><br/><b>전투 진입후</b> 주는 피해량 <font color=\"red\">+10%</font>"
       }
     ],
@@ -641,7 +641,7 @@ var data = [
       },
       {
         "Entry": "영웅담1",
-        "Desc": "제멋대로에 변덕이 심한 마족 여성. 꿈의 경계를 마음대로 넘나들고 그림자를 조종할 수 있는 능력을 갖고 있는, <br/>리코리스의 가장 충성스러운 부하이자 동료이기도하다. <br/>매우 아름다운 모습과 마족다운 영혼의 소유자이지만 인간에 대해 호기심이 많으며 내기에 열중하는 모습을 보이기도 한다."
+        "Desc": "제멋대로에 변덕이 심한 마족 여성. 꿈의 경계를 마음대로 넘나들고 그림자를 조종할 수 있는 능력을 갖고 있는, <br/>리코리스의 가장 충성스러운 부하이자 동료이기도하다. <br/>매우 아름다운 모습과 마족다운 영혼의 소유자이지만 인간에 대해 호기심이 많으며 내기에 열중하는 모습을 보이기도 한다.<br/><font color=\"#DC143C\"><size=33><i>「나, 인간이 난처해하는 꼴을 보는 게 너무 좋아...... 특히 우는 얼굴은 최고지.<br/>나도 모르게 귀엽다고 생각하게 된다구~.」 </i>  </size=33></font>"
       },
       {
         "Entry": "영웅담2",

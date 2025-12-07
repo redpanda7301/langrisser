@@ -159,7 +159,7 @@ var data = [
             "Animation": null
           },
           {
-            "Name": "태풍",
+            "Name": "노와키",
             "Cost": "COST 1",
             "Entries": [
               {

@@ -791,7 +791,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Passive_Cut.webp",
-        "Desc": "[패시브]공격하여 피해를 준 후 적 부대에게 한 번 더 추가[고정 피해]를 준다.",
+        "Desc": "[패시브]공격하여 피해를 준 후 적에게 영웅 공격 <font color=\"red\">2</font>배 수치의 <font color=\"blue\">고정 피해</font>를 준다.",
         "SubSkills": null,
         "Animation": null
       },
