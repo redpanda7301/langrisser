@@ -79,13 +79,14 @@ var data = [
       "Equip": null,
       "Soldiers": [
         "중장 보병",
+        "중장 창병",
         "발키리",
-        "중장 해골",
-        "광전사",
-        "듀얼리스트",
-        "거대영혼인형",
-        "개조인간",
-        "팔랑크스"
+        "홀리 페가수스",
+        "사막용병",
+        "기계 용기사",
+        "드레고니아 나이트",
+        "팔랑크스",
+        "다크 센츄리온"
       ],
       "Jobs": [
         {
@@ -197,7 +198,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/skills/Lukhmaan/1.webp",
-            "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.5</font>배 피해.<br/>전투 진입 전 적에게 <font color=\"blue\">방어</font> <font color=\"red\">-25%</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/>전투 후 <font color=\"blue\">동심</font>을 가진 아군 <font color=\"blue\">이동력</font> <font color=\"red\">+2</font> (지속 <font color=\"red\">2</font>턴)<br/>근접전 병사 대동 시 함께 공격<br/>해당 전투에서 <font color=\"blue\">근접전 패널티를 받지 않음</font>",
+            "Desc": "[물리 피해] 단일 개체 <font color=\"red\">1.5</font>배 피해.<br/>전투 진입 전 적에게 <font color=\"blue\">방어</font> <font color=\"red\">-25%</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/>전투 후 <font color=\"blue\">동심</font>을 가진 아군 <font color=\"blue\">이동력</font> <font color=\"red\">+2</font> (지속 <font color=\"red\">2</font>턴)<br/>근접전 병사 대동 시 함께 공격<br/>이 스킬은 <font color=\"blue\">근접전 패널티를 받지 않음</font>",
             "SubSkills": null,
             "Animation": null
           },
