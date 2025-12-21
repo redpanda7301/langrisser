@@ -106,16 +106,16 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "마방 <font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-10%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font> 효과는 우선 순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
+            "Desc": "마방 <font color=\"red\">+10%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-10%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font>는 비교적 높은 지형 우선순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
           },
           {
-            "Desc": "마방 <font color=\"red\">+15%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-13%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font> 효과는 우선 순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
+            "Desc": "마방 <font color=\"red\">+15%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-13%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font>는 비교적 높은 지형 우선순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
           },
           {
-            "Desc": "마방 <font color=\"red\">+20%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-16%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font> 효과는 우선 순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
+            "Desc": "마방 <font color=\"red\">+20%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-16%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font>는 비교적 높은 지형 우선순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
           },
           {
-            "Desc": "마방 <font color=\"red\">+25%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-20%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font> 효과는 우선 순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
+            "Desc": "마방 <font color=\"red\">+25%</font><br/>주위 <font color=\"red\">2</font>칸 범위 내 아군이 받는 원거리 피해량 <font color=\"red\">-20%</font><br/>스킬 사용 후, 자신이 위치한 지형에 <font color=\"green\">달 그림자</font> 효과 부여<br/><font color=\"green\">달 그림자</font> : 해당 지형을 자신이 보유한 모든 지휘 효과의 중심으로 추가 간주<br/><font color=\"green\">달 그림자</font>는 비교적 높은 지형 우선순위를 가짐<br/>지속 <font color=\"red\">2</font>턴"
           }
         ]
       }
@@ -661,7 +661,7 @@ var data = [
       {
         "Name": "6단계 미션",
         "Materials": [],
-        "Desc": "루나를 포함한 파티를 짜서 영원의 신전 - 스퀼라 65레벨 이상 스테이지를 클리어<br/>(수/토)"
+        "Desc": "루나를 포함한 파티를 짜서 영원의 신전 - 스퀼라 65레벨 이상 스테이지 클리어<br/>(수/토)"
       },
       {
         "Name": "",

@@ -36,13 +36,13 @@ var data = [
       "인외"
     ],
     "HP": 40,
-    "SPHP": 0,
+    "SPHP": 30,
     "Attk": 10,
-    "SPAttk": 0,
+    "SPAttk": 30,
     "Def": 10,
-    "SPDef": 0,
+    "SPDef": 10,
     "MagicDef": 40,
-    "SPMagicDef": 0,
+    "SPMagicDef": 30,
     "HowToGet": "영웅 소환",
     "Fetters": [
       {
@@ -85,7 +85,32 @@ var data = [
         ]
       }
     ],
-    "SPTalent": null,
+    "SPTalent": [
+      {
+        "Name": "어둠의 지배자",
+        "Icon": "SP_Gift_Bozel.webp",
+        "Abilities": [
+          {
+            "Desc": "1성"
+          },
+          {
+            "Desc": "2성"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/><font color=\"blue\">부대 병종 상성 무시</font><br/>자신 마방의 <font color=\"red\">1.5</font>배 수치로 지력 대체<br/>스킬 사용 시, 디버프를 <font color=\"red\">4</font>개 이상 보유한 모든 적이 위치한 곳을 <font color=\"blue\">자신 스킬 사거리로 간주 및 공격 시 원거리 병사가 함께 공격</font><br/>적에게 피해를 입힌 후 <font color=\"blue\">랜덤한 디버프 </font><font color=\"red\">1</font><font color=\"blue\">개 부여</font>"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/><font color=\"blue\">부대 병종 상성 무시</font><br/>자신 마방의 <font color=\"red\">1.5</font>배 수치로 지력 대체<br/>스킬 사용 시, 디버프를 <font color=\"red\">4</font>개 이상 보유한 모든 적이 위치한 곳을 <font color=\"blue\">자신 스킬 사거리로 간주 및 공격 시 원거리 병사가 함께 공격</font><br/>적에게 피해를 입힌 후 <font color=\"blue\">랜덤한 디버프 </font><font color=\"red\">1</font><font color=\"blue\">개 부여</font>"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/><font color=\"blue\">부대 병종 상성 무시</font><br/>자신 마방의 <font color=\"red\">1.5</font>배 수치로 지력 대체<br/>스킬 사용 시, 디버프를 <font color=\"red\">3</font>개 이상 보유한 모든 적이 위치한 곳을 <font color=\"blue\">자신 스킬 사거리로 간주 및 공격 시 원거리 병사가 함께 공격</font><br/>적에게 피해를 입힌 후 <font color=\"blue\">랜덤한 디버프 </font><font color=\"red\">1</font><font color=\"blue\">개 부여</font>"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/><font color=\"blue\">부대 병종 상성 무시</font><br/>자신 마방의 <font color=\"red\">1.5</font>배 수치로 지력 대체<br/>스킬 사용 시, 디버프를 <font color=\"red\">3</font>개 이상 보유한 모든 적이 위치한 곳을 <font color=\"blue\">자신 스킬 사거리로 간주 및 공격 시 원거리 병사가 함께 공격</font><br/>적에게 피해를 입힌 후 <font color=\"blue\">랜덤한 디버프 </font><font color=\"red\">1</font><font color=\"blue\">개 부여</font>"
+          }
+        ]
+      }
+    ],
     "Second_Awaken": {
       "Name": "혼돈의 침식",
       "Stats": "방어, 마방 <font color=\"red\">+5%</font><br/><font color=\"red\">2</font>개 이상의 <font color=\"blue\">디버프</font>를 가진 적과 교전 시 방어 마방 추가 <font color=\"red\">+10%</font>"
@@ -106,7 +131,8 @@ var data = [
       "지옥불 사수",
       "중장 해골",
       "늪지마법사",
-      "안개의 유령"
+      "안개의 유령",
+      "스파이더 엘프"
     ],
     "Jobs": [
       {
@@ -127,6 +153,9 @@ var data = [
           },
           {
             "ImageUrl": "보젤/5/1.webp"
+          },
+          {
+            "ImageUrl": "보젤/sp/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -144,8 +173,49 @@ var data = [
         "MagicDefRate": 86,
         "Skill": 88,
         "SkillRate": 25,
-        "HeartFetterBouns1": "'약화효과'가 있는 대상에게 공격받아 전투 진입시 받는피해 -10%",
-        "HeartFetterBouns2": "마법공격을 받아 전투 진입시 입히는피해 +10%"
+        "HeartFetterBouns1": "디버프를 보유한 부대에게 공격 받아 전투 진입 시,<br/>받는 피해량 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "마법 공격을 받아 전투 진입 시,<br/>주는 피해량 <font color=\"red\">+10%</font>"
+      },
+      {
+        "Name": "어둠의 마왕",
+        "Icon": "마물SP",
+        "SD": [
+          {
+            "ImageUrl": "보젤/1/1.webp"
+          },
+          {
+            "ImageUrl": "보젤/2/1.webp"
+          },
+          {
+            "ImageUrl": "보젤/3/1.webp"
+          },
+          {
+            "ImageUrl": "보젤/4/1.webp"
+          },
+          {
+            "ImageUrl": "보젤/5/1.webp"
+          },
+          {
+            "ImageUrl": "보젤/sp/1.webp"
+          }
+        ],
+        "AttkRange": 2,
+        "Move": 3,
+        "MoveType": "비행",
+        "HP": 4925,
+        "HPRate": 75,
+        "Attk": 274,
+        "AttkRate": 42,
+        "Int": 410,
+        "IntRate": 63,
+        "Def": 316,
+        "DefRate": 70,
+        "MagicDef": 411,
+        "MagicDefRate": 91,
+        "Skill": 91,
+        "SkillRate": 26,
+        "HeartFetterBouns1": "피격으로 전투 진입 시,<br/>받는 물리 피해량 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "디버프를 보유한 부대와 전투 시,<br/>주는 피해량 <font color=\"red\">+10%</font>%"
       },
       {
         "Name": "다크 프린스",
@@ -165,6 +235,9 @@ var data = [
           },
           {
             "ImageUrl": "보젤/5/1.webp"
+          },
+          {
+            "ImageUrl": "보젤/sp/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -182,8 +255,8 @@ var data = [
         "MagicDefRate": 84,
         "Skill": 88,
         "SkillRate": 25,
-        "HeartFetterBouns1": "원거리 공격을 받아 전투 진입시 받는 물리피해 -10%",
-        "HeartFetterBouns2": "물리공격을 받아 전투 진입시 입히는피해 +10%"
+        "HeartFetterBouns1": "원거리 공격을 받아 전투 진입 시,<br/>받는 물리 피해량 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "물리 공격을 받아 전투 진입 시,<br/>주는 피해량 <font color=\"red\">+10%</font>"
       }
     ],
     "Materials": {
@@ -406,7 +479,178 @@ var data = [
         ]
       }
     ],
-    "SPOpenConditions": null,
+    "SPOpenConditions": [
+      {
+        "Name": "개방",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/AlterEgo.webp",
+            "Amount": 1
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "1단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank8-8.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank7-4.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank6-4.webp",
+            "Amount": 50
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "1단계 미션",
+        "Materials": [],
+        "Desc": "보젤을 포함한 파티를 짜서 형귀 헬스장 바란(창병) 60레벨 이상 스테이지 클리어<br/>(화/금/일)"
+      },
+      {
+        "Name": "2단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/item/스알열쇠.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/알열쇠.webp",
+            "Amount": 50
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "2단계 미션",
+        "Materials": [],
+        "Desc": "카오스의 축복(갑옷) 레벨 50 달성"
+      },
+      {
+        "Name": "3단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/룬스톤.webp",
+            "Amount": 2
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "3단계 미션",
+        "Materials": [],
+        "Desc": "보젤을 포함한 파티를 짜서 여신의 시련 - 빙룡 아산테 60레벨 이상 스테이지 클리어<br/>(화/금)"
+      },
+      {
+        "Name": "",
+        "Materials": [],
+        "Desc": "어둠의 마왕 전직 가능, 어둠의 지배자(SP 고유기술)스킬 획득, SP 일러스트 획득"
+      },
+      {
+        "Name": "4단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/heart/h3.webp",
+            "Amount": 60
+          },
+          {
+            "MaterialImgUrl": "../img/heart/h3-1.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/heart/x.webp",
+            "Amount": 12
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "4단계 미션",
+        "Materials": [],
+        "Desc": "보젤을 포함한 파티를 짜서 형귀 헬스장 나임(승병) 65레벨 이상 스테이지 클리어<br/>(수/토/일)"
+      },
+      {
+        "Name": "5단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+            "Amount": 5
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "5단계 미션",
+        "Materials": [],
+        "Desc": "보젤을 포함한 파티를 짜서 여신의 시련 - 암룡 티아메트 65레벨 이상 스테이지 클리어<br/>(일)"
+      },
+      {
+        "Name": "6단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+            "Amount": 600
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Rider1.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Rider2.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Rider5.webp",
+            "Amount": 5
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "6단계 미션",
+        "Materials": [],
+        "Desc": "보젤을 포함한 파티를 짜서 영원의 신전 - 리바이엘 65레벨 이상 스테이지 클리어<br/>(화/금)"
+      },
+      {
+        "Name": "",
+        "Materials": [],
+        "Desc": "SP 스탯, SP 스킬 2개 활성화, 스파이더 엘프 고용가능"
+      }
+    ],
     "Skills": [
       {
         "Name": "악몽",
@@ -627,6 +871,58 @@ var data = [
         ],
         "IconImageUrl": "../img/skills/Skill_Teleport.webp",
         "Desc": "망령술사 부대를 1개 소환한다.",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
+        "Name": "SP : 마검의 숨결",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "마법피해"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "2턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "2칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/skills/sp/보젤/Temp.webp",
+        "Desc": "단일 개체 <font color=\"red\">1.6</font>배 피해<br/>전투 전 적이 위치한 지형에 <font color=\"green\">무질서의 그림자</font> 효과 부여<br/><font color=\"green\">무질서의 그림자</font> : 적이 위치한 해당 지형의 방어 효과 <font color=\"red\">-20%</font>, 적이 해당 위치에서 행동 종료 시 <font color=\"blue\">랜덤한 디버프 </font><font color=\"red\">1</font><font color=\"blue\">개 부여</font><br/><font color=\"green\">무질서의 그림자</font>는 비교적 높은 지형 우선순위를 가짐",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
+        "Name": "SP : 혼돈의 물결",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "마법피해"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "5턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "3칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "4칸"
+          }
+        ],
+        "IconImageUrl": "../img/skills/sp/보젤/Temp.webp",
+        "Desc": "범위 내 적에게 <font color=\"red\">0.36</font>배 피해<br/>적의 버프 <font color=\"red\">1</font>개를 랜덤한 디버프로 바꾸고 <font color=\"blue\">혼돈의 원령</font> 효과 부여<br/><font color=\"blue\">혼돈의 원령</font> : 버프 획득 시 해당 버프를 디버프로 변환, 디버프 제거 시 <font color=\"blue\">혼돈의 원령</font>이 나중에 제거됨 (지속 <font color=\"red\">2</font>턴)",
         "SubSkills": null,
         "Animation": null
       },

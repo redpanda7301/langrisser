@@ -277,7 +277,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Rapier/Temp.webp",
-        "Desc": "공격 범위 내 적에게 <font color=\"red\">0.36</font>배 피해<br/>명중한 적을 목표 위치 근처로 <font color=\"blue\">텔레포트</font> 및 목표 위치에 <font color=\"green\">전장의 깃발</font> 효과 부여 (지속 <font color=\"red\">1</font>턴)<br/><font color=\"green\">전장의 깃발</font> : <font color=\"blue\">[지휘]</font>주위 <font color=\"red\">2</font>칸 범위 안 적의 방어 <font color=\"red\">-10%</font><br/>지휘 범위 밖으로 이동 시 칸마다 이동력 <font color=\"red\">1</font> 추가 소모<br/> 지휘 범위 안에서 행동 종료 시 <font color=\"blue\">랜덤한 버프 2개 제거</font><br/><font color=\"orange\">정의의 결전</font> 목표는 우선적으로 목표 중심으로 <font color=\"blue\">텔레포트</font> 되며, 상술 효과를 <font color=\"red\">2</font>배로 적용 받는다<br/><font color=\"green\">전장의 깃발</font> 지형 효과는 비교적 높은 지형 우선순위를 가짐",
+        "Desc": "공격 범위 내 적에게 <font color=\"red\">0.36</font>배 피해<br/>명중한 적을 목표 위치 근처로 <font color=\"blue\">텔레포트</font> 및 목표 위치에 <font color=\"green\">전장의 깃발</font> 효과 부여 (지속 <font color=\"red\">1</font>턴)<br/><font color=\"green\">전장의 깃발</font> : [지휘]주위 <font color=\"red\">2</font>칸 범위 안 적의 방어 <font color=\"red\">-10%</font><br/>지휘 범위 밖으로 이동 시 칸마다 이동력 <font color=\"red\">1</font> 추가 소모<br/> 지휘 범위 안에서 행동 종료 시 <font color=\"blue\">랜덤한 버프 2개 제거</font><br/><font color=\"orange\">정의의 결전</font> 목표는 우선적으로 목표 중심으로 <font color=\"blue\">텔레포트</font> 되며, 상술 효과를 <font color=\"red\">2</font>배로 적용 받는다<br/><font color=\"green\">전장의 깃발</font> 지형 효과는 비교적 높은 지형 우선순위를 가짐",
         "SubSkills": null,
         "Animation": null
       },
