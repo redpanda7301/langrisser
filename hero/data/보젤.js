@@ -20,6 +20,10 @@ var data = [
       {
         "ImageUrl": "보젤/5.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "보젤/sp.webp",
+        "Desc": "SP 각성"
       }
     ],
     "Name": "보젤",
@@ -30,7 +34,7 @@ var data = [
     "Rank": [
       0
     ],
-    "SP": false,
+    "SP": true,
     "Groups": [
       "어둠",
       "인외"
@@ -626,15 +630,15 @@ var data = [
             "Amount": 600
           },
           {
-            "MaterialImgUrl": "../img/stone/StoneA_Rider1.webp",
+            "MaterialImgUrl": "../img/stone/StoneA_Shadow1.webp",
             "Amount": 5
           },
           {
-            "MaterialImgUrl": "../img/stone/StoneA_Rider2.webp",
+            "MaterialImgUrl": "../img/stone/StoneA_Shadow5.webp",
             "Amount": 5
           },
           {
-            "MaterialImgUrl": "../img/stone/StoneA_Rider5.webp",
+            "MaterialImgUrl": "../img/stone/StoneA_Shadow4.webp",
             "Amount": 5
           }
         ],

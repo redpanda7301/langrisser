@@ -38,7 +38,7 @@ var data = [
     "Rank": [
       0
     ],
-    "SP": false,
+    "SP": true,
     "Groups": [
       "공주",
       "전략",

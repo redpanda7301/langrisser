@@ -38,7 +38,7 @@ var data = [
     "Rank": [
       0
     ],
-    "SP": false,
+    "SP": true,
     "Groups": [
       "주인공",
       "전설"
