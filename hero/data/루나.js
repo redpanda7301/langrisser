@@ -497,7 +497,178 @@ var data = [
         ]
       }
     ],
-    "SPOpenConditions": null,
+    "SPOpenConditions": [
+      {
+        "Name": "개방",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/AlterEgo.webp",
+            "Amount": 1
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "1단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank8-7.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank7-7.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank6-6.webp",
+            "Amount": 50
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "1단계 미션",
+        "Materials": [],
+        "Desc": "루나를 포함한 파티를 짜서 형귀 헬스장 나임(승병) 60레벨 이상 스테이지 클리어<br/>(수/토/일)"
+      },
+      {
+        "Name": "2단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/item/스알열쇠.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/알열쇠.webp",
+            "Amount": 50
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "2단계 미션",
+        "Materials": [],
+        "Desc": "바람의 깃털관(투구) 레벨 50 달성"
+      },
+      {
+        "Name": "3단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/룬스톤.webp",
+            "Amount": 2
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "3단계 미션",
+        "Materials": [],
+        "Desc": "루나를 포함한 파티를 짜서 여신의 시련 - 암룡 티아메트 60레벨 이상 스테이지 클리어<br/>(일)"
+      },
+      {
+        "Name": "",
+        "Materials": [],
+        "Desc": "달빛 영주 전직 가능, 하얀 달의 보호(SP 고유기술)스킬 획득, SP 일러스트 획득"
+      },
+      {
+        "Name": "4단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/heart/h3.webp",
+            "Amount": 60
+          },
+          {
+            "MaterialImgUrl": "../img/heart/h3-1.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/heart/x.webp",
+            "Amount": 12
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "4단계 미션",
+        "Materials": [],
+        "Desc": "루나를 포함한 파티를 짜서 형귀 헬스장 나임(승병) 65레벨 이상 스테이지 클리어<br/>(수/토/일)"
+      },
+      {
+        "Name": "5단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+            "Amount": 5
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "5단계 미션",
+        "Materials": [],
+        "Desc": "루나를 포함한 파티를 짜서 여신의 시련 - 뇌룡 카르코사 65레벨 이상 스테이지 클리어<br/>(수/토)"
+      },
+      {
+        "Name": "6단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+            "Amount": 600
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Rider1.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Rider2.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Rider5.webp",
+            "Amount": 5
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "6단계 미션",
+        "Materials": [],
+        "Desc": "루나를 포함한 파티를 짜서 영원의 신전 - 스퀼라 65레벨 이상 스테이지를 클리어<br/>(수/토)"
+      },
+      {
+        "Name": "",
+        "Materials": [],
+        "Desc": "SP 스탯, SP 스킬 2개 활성화, 태양 전투매 고용가능"
+      }
+    ],
     "Skills": [
       {
         "Name": "분뢰",
