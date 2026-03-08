@@ -184,7 +184,7 @@ var data = [
             "Value": "패시브"
           },
         ],
-        "IconImageUrl": "../img/skills/Rapier/Temp.webp",
+        "IconImageUrl": "../img/skills/Rapier/1.webp",
         "Desc": "[패시브] <font color=\"orange\">정의의 결전</font>을 보유한 적과 전투 시, 생명을 제외한 <font color=\"blue\">모든 스탯</font> <font color=\"red\">+15%</font>, 전투 전 자신의 <font color=\"blue\">디버프 제거 및 목표의 해제 가능한 모든 버프 복제</font>",
         "SubSkills": null,
         "Animation": null
@@ -276,7 +276,7 @@ var data = [
             "Value": "3칸"
           }
         ],
-        "IconImageUrl": "../img/skills/Rapier/Temp.webp",
+        "IconImageUrl": "../img/skills/Rapier/2.webp",
         "Desc": "공격 범위 내 적에게 <font color=\"red\">0.36</font>배 피해<br/>명중한 적을 목표 위치 근처로 <font color=\"blue\">텔레포트</font> 및 목표 위치에 <font color=\"green\">전장의 깃발</font> 효과 부여 (지속 <font color=\"red\">1</font>턴)<br/><font color=\"green\">전장의 깃발</font> : [지휘]주위 <font color=\"red\">2</font>칸 범위 안 적의 방어 <font color=\"red\">-10%</font><br/>지휘 범위 밖으로 이동 시 칸마다 이동력 <font color=\"red\">1</font> 추가 소모<br/> 지휘 범위 안에서 행동 종료 시 <font color=\"blue\">랜덤한 버프 2개 제거</font><br/><font color=\"orange\">정의의 결전</font> 목표는 우선적으로 목표 중심으로 <font color=\"blue\">텔레포트</font> 되며, 상술 효과를 <font color=\"red\">2</font>배로 적용 받는다<br/><font color=\"green\">전장의 깃발</font> 지형 효과는 비교적 높은 지형 우선순위를 가짐",
         "SubSkills": null,
         "Animation": null
@@ -354,10 +354,10 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/",
+        "IconImageUrl": "../img/Super/레이피어.webp",
         "Desc": "[패시브] <font color=\"orange\">정의의 결전</font>을 보유한 적을 공격하여 전투 진입 시, 해당 전투 피해 <font color=\"red\">+25%</font><br/>[물리피해]단일 개체 <font color=\"red\">1.8</font>배 피해<br/>목표 주변 <font color=\"red\">3</font>칸 범위 안에 <font color=\"orange\">정의의 결전</font>을 보유한 적이 있을 경우,<br/>해당 적을 <font color=\"blue\">강제로 전투 진입</font> 시키고 없을 경우 해당 전투에서 <font color=\"blue\">받는 피해</font> <font color=\"red\">-25%</font><br/>해당 스킬로 적 격파 후 행동 종료 시 <font color=\"blue\">부대 생명 </font><font color=\"red\">30%</font><font color=\"blue\"> 회복 및 해당 스킬 쿨 </font><font color=\"red\">-4</font><font color=\"blue\">턴</font>, 격파한 적이 <font color=\"orange\">정의의 결전</font>을 보유하고 있었을 경우, 자신이 보유한 제거 가능한 버프 <font color=\"red\">3</font>개를 전장의 다른 '제국의 빛' 진영 아군에게 <font color=\"blue\">복사 및 고유 스킬 쿨 제거</font>",
         "SubSkills": null,
-        "Animation": "../img/"
+        "Animation": "../img/Super/레이피어_Ani.webp"
       }
     ],
     "Propose": false,

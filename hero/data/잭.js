@@ -64,27 +64,30 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+15%</font><br/>행동 종료 시 목표 지점에 항로 표식 설치, 쿨타임<font color=\"red\">3</font><br/><font color=\"purple\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
+            "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+15%</font><br/>행동 종료 시 목표 지점에 <font color=\"green\">항로 표식</font> 설치 (쿨타임 <font color=\"red\">3</font>턴)<br/><font color=\"green\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
           },
           {
-            "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+20%</font><br/>행동 종료 시 목표 지점에 항로 표식 설치, 쿨타임<font color=\"red\">2</font><br/><font color=\"purple\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
+            "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+20%</font><br/>행동 종료 시 목표 지점에 <font color=\"green\">항로 표식</font> 설치 (쿨타임 <font color=\"red\">2</font>턴)<br/><font color=\"green\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
           },
           {
-            "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+25%</font><br/>행동 종료 시 목표 지점에 항로 표식 설치, 쿨타임<font color=\"red\">2</font><br/><font color=\"purple\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
+            "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+25%</font><br/>행동 종료 시 목표 지점에 <font color=\"green\">항로 표식</font> 설치 (쿨타임 <font color=\"red\">2</font>턴)<br/><font color=\"green\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
           },
           {
-            "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+30%</font><br/>행동 종료 시 목표 지점에 항로 표식 설치, 쿨타임<font color=\"red\">1</font><br/><font color=\"purple\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
+            "Desc": "주위 <font color=\"red\">3</font>칸 범위 안에 아군이 있을 경우 공격 <font color=\"red\">+30%</font><br/>행동 종료 시 목표 지점에 <font color=\"green\">항로 표식</font> 설치 (쿨타임 <font color=\"red\">1</font>턴)<br/><font color=\"green\">항로 표식</font> : 해당 지형에 <font color=\"blue\">지휘</font> 효과 부여. <font color=\"red\">2</font>칸 범위 안 모든 아군이 행동 종료 시 생명 <font color=\"red\">15%</font> <font color=\"green\">회복</font><br/>비행 이동이 아닌 아군이 주위 <font color=\"red\">2</font>칸 범위 안 지형 통과 시 <font color=\"red\">1</font>칸의 <font color=\"blue\">이동력 저하 면역</font> 기회 제공<br/>지속 <font color=\"red\">1</font>행동"
           }
         ]
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "은하수 제패",
+      "Stats": "공격 <font color=\"red\">+5%</font><br/>고유 스킬로 부여하는 <font color=\"green\">항로 표식</font>의 <font color=\"blue\">지휘</font> 범위 <font color=\"red\">+1</font> 및 아군이 <font color=\"green\">항로 표식</font> <font color=\"blue\">지휘</font> 범위 안에 있을 경우 현재 위치한 지형을 <font color=\"green\">물</font>로 간주"
+    },
     "Equip": {
       "EqpName": "검은 고양이 함장의 모자(투구)",
       "Stats": "생명 437, 마방 59",
       "Icon": "잭.webp",
-      "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">COST 제한 무시</font><br/><font color=\"purple\">항로 표식</font> <font color=\"blue\">지휘</font> 범위 안 아군이 선공으로 피해를 준 경우<br/>적의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">약탈</font> 및 행동 종료 시 잭에게 무작위 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 부여"
+      "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">COST 제한 무시</font><br/><font color=\"green\">항로 표식</font> <font color=\"blue\">지휘</font> 범위 안 아군이 선공으로 피해를 준 경우<br/>적의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">약탈</font> 및 행동 종료 시 잭에게 무작위 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 부여"
     },
     "Soldiers": [
       "광전사",
@@ -268,7 +271,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Jack/1.webp",
-        "Desc": "[지휘]아군이 <font color=\"purple\">항로 표식</font> <font color=\"blue\">지휘</font> 범위 안에서 행동 종료 시 무작위 버프 <font color=\"red\">1</font>개 부여",
+        "Desc": "[지휘]아군이 <font color=\"green\">항로 표식</font> <font color=\"blue\">지휘</font> 범위 안에서 행동 종료 시 무작위 버프 <font color=\"red\">1</font>개 부여",
         "SubSkills": null,
         "Animation": null
       },
@@ -334,7 +337,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Jack/2.webp",
-        "Desc": "범위 안 모든 아군에게 <font color=\"blue\">공격 지력</font> <font color=\"red\">+20%</font> 효과 부여<br/>지속 4행동<br/>자신이 아군의 <font color=\"purple\">항로 표식</font> 지휘 범위 안에 있을 경우<br/>범위 안에 있는 보행 및 기병 이동 방식의 아군에게 '<font color=\"blue\">물에서는 부대 이동을 수중 이동으로 간주</font>' 효과 부여<br/>지속 <font color=\"red\">4</font>행동",
+        "Desc": "범위 안 모든 아군에게 <font color=\"blue\">공격 지력</font> <font color=\"red\">+20%</font> 효과 부여<br/>지속 4행동<br/>자신이 아군의 <font color=\"green\">항로 표식</font> 지휘 범위 안에 있을 경우<br/>범위 안에 있는 보행 및 기병 이동 방식의 아군에게 '<font color=\"blue\">물에서는 부대 이동을 수중 이동으로 간주</font>' 효과 부여<br/>지속 <font color=\"red\">4</font>행동",
         "SubSkills": null,
         "Animation": null
       },
@@ -360,7 +363,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/잭.webp",
-        "Desc": "[패시브]<font color=\"blue\">물</font>,<font color=\"dark green\">늪</font>, <font color=\"dark blue\">격류</font> 지형에서 방어 <font color=\"red\">+20%</font><br/>단일 개체 <font color=\"red\">1.6</font>배 피해, 전투 전 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">약탈</font><br/>전투 후 자신 부대를 아군의 <font color=\"purple\">항로 표식</font> 주위 <font color=\"red\">2</font>칸 범위 내로 <font color=\"blue\">텔레포트</font><br/>적 격파 시 해당 스킬 쿨타임 <font color=\"red\">-2</font>",
+        "Desc": "[패시브]<font color=\"blue\">물</font>,<font color=\"dark green\">늪</font>, <font color=\"dark blue\">격류</font> 지형에서 방어 <font color=\"red\">+20%</font><br/>단일 개체 <font color=\"red\">1.6</font>배 피해, 전투 전 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">약탈</font><br/>전투 후 자신 부대를 아군의 <font color=\"green\">항로 표식</font> 주위 <font color=\"red\">2</font>칸 범위 내로 <font color=\"blue\">텔레포트</font><br/>적 격파 시 해당 스킬 쿨타임 <font color=\"red\">-2</font>",
         "SubSkills": null,
         "Animation": "../img/Super/잭_Ani.webp"
       }

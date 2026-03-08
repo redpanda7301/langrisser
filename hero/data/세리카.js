@@ -11,7 +11,11 @@ var data = [
       },
       {
         "ImageUrl": "세리카/3.webp",
-        "Desc": "한정판매"
+        "Desc": "한정 판매"
+      },
+      {
+        "ImageUrl": "세리카/4.webp",
+        "Desc": "한정 판매"
       }
     ],
     "Name": "세리카",
@@ -105,6 +109,9 @@ var data = [
           },
           {
             "ImageUrl": "세리카/3/1.webp"
+          },
+          {
+            "ImageUrl": "세리카/4/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -137,6 +144,9 @@ var data = [
           },
           {
             "ImageUrl": "세리카/3/1.webp"
+          },
+          {
+            "ImageUrl": "세리카/4/1.webp"
           }
         ],
         "AttkRange": 2,

@@ -12,6 +12,10 @@ var data = [
       {
         "ImageUrl": "애쉬엔/3.webp",
         "Desc": "한정 판매"
+      },
+      {
+        "ImageUrl": "애쉬엔/4.webp",
+        "Desc": "서밋아레나 S21 패자스킨"
       }
     ],
     "Name": "애쉬엔",
@@ -110,6 +114,9 @@ var data = [
           },
           {
             "ImageUrl": "애쉬엔/3/1.webp"
+          },
+          {
+            "ImageUrl": "애쉬엔/4/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -142,6 +149,9 @@ var data = [
           },
           {
             "ImageUrl": "애쉬엔/3/2.webp"
+          },
+          {
+            "ImageUrl": "애쉬엔/4/2.webp"
           }
         ],
         "AttkRange": 1,

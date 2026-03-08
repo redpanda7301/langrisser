@@ -64,22 +64,25 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "물에서 공격, 방어 <font color=\"red\">+12%</font><br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>행동 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+            "Desc": "물에서 공격, 방어 <font color=\"red\">+12%</font><br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>행동 동안 <font color=\"green\">분류</font> 효과 부여<br/><font color=\"green\">분류</font> : 자신과 적은 해당 지형은 <font color=\"green\">물</font>로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
           },
           {
-            "Desc": "물에서 공격, 방어 <font color=\"red\">+16%</font><br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>행동 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+            "Desc": "물에서 공격, 방어 <font color=\"red\">+16%</font><br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>행동 동안 <font color=\"green\">분류</font> 효과 부여<br/><font color=\"green\">분류</font> : 자신과 적은 해당 지형은 <font color=\"green\">물</font>로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
           },
           {
-            "Desc": "물에서 공격, 방어 <font color=\"red\">+20%</font><br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>행동 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+            "Desc": "물에서 공격, 방어 <font color=\"red\">+20%</font><br/>범위 스킬이 명중한 지형에 <font color=\"red\">1</font>행동 동안 <font color=\"green\">분류</font> 효과 부여<br/><font color=\"green\">분류</font> : 자신과 적은 해당 지형은 <font color=\"green\">물</font>로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
           },
           {
-            "Desc": "물에서 공격, 방어 <font color=\"red\">+25%</font><br/>범위 스킬이 명중한 지형에 <font color=\"red\">2</font>행동 동안 '<font color=\"purple\">분류</font>' 효과 부여<br/><font color=\"purple\">분류</font> : 자신과 적은 해당 지형은 '<font color=\"blue\">물</font>'로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
+            "Desc": "물에서 공격, 방어 <font color=\"red\">+25%</font><br/>범위 스킬이 명중한 지형에 <font color=\"red\">2</font>행동 동안 <font color=\"green\">분류</font> 효과 부여<br/><font color=\"green\">분류</font> : 자신과 적은 해당 지형은 <font color=\"green\">물</font>로 간주<br/>이동 방식이 비행이나 수병 이외의 적 부대가 해당 지형에 위치 시 <br/>추가 이동력 <font color=\"red\">1</font>소모"
           }
         ]
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "노도의 항해",
+      "Stats": "<font color=\"green\">물</font>에 있는 적을 공격 시, <font color=\"blue\">영웅이 주는 피해량</font> <font color=\"red\">+15%</font><br/><font color=\"blue\">파도의 지배자</font> 사용 시 자신이 이미 <font color=\"green\">물</font>에 있는 경우<br/>추가로 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font>"
+    },
     "Equip": {
       "EqpName": "최초의 기계 코어(투구)",
       "Stats": "생명 437,마방 59",
@@ -410,7 +413,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Skill_WaterCrash.webp",
-        "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해를 준다.<br/><font color=\"blue\">물</font>에서 <font color=\"red\">2</font>배의 피해를 준다.",
+        "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해를 준다.<br/><font color=\"green\">물</font>에서 <font color=\"red\">2</font>배의 피해를 준다.",
         "SubSkills": null,
         "Animation": null
       },
@@ -436,7 +439,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/McClaine/1.webp",
-        "Desc": "자신 및 주위 <font color=\"red\">2</font>칸 범위 안 지형에 <font color=\"red\">1</font>행동간 <font color=\"purple\">분류</font> 효과 부여 <br/>사용 후 공격 가능<br/>우군이 <font color=\"blue\">격류</font> 효과가 부여된 진형 통과 시 <font color=\"red\">2</font>칸 이동력 감소 면제<br/>해당 스킬은 보유한 강화 지속 시간을 소모하지 않음",
+        "Desc": "자신 및 주위 <font color=\"red\">2</font>칸 범위 안 지형에 <font color=\"red\">1</font>행동간 <font color=\"green\">분류</font> 효과 부여 <br/>사용 후 공격 가능<br/>우군이 <font color=\"blue\">격류</font> 효과가 부여된 진형 통과 시 <font color=\"red\">2</font>칸 이동력 감소 면제<br/>해당 스킬은 보유한 강화 지속 시간을 소모하지 않음",
         "SubSkills": null,
         "Animation": null
       },
@@ -516,7 +519,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/McClaine/2.webp",
-        "Desc": "<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해<br/>명중 대상이 '<font color=\"blue\">물</font>'에 위치해 있을 경우 <font color=\"red\">25%</font> 확률로 '<font color=\"blue\">빙결</font>' 효과<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"red\">3</font>명 이상 적 명중 시 쿨타임 <font color=\"red\">-3</font>",
+        "Desc": "<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해<br/>명중 대상이 <font color=\"green\">물</font>에 위치해 있을 경우 <font color=\"red\">25%</font> 확률로 '<font color=\"blue\">빙결</font>' 효과<br/>지속 <font color=\"red\">1</font>행동<br/><font color=\"red\">3</font>명 이상 적 명중 시 쿨타임 <font color=\"red\">-3</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -596,7 +599,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/마크렌.webp",
-        "Desc": "[패시브]<font color=\"blue\">물</font>에서 사망 시 생명 <font color=\"Red\">50%</font> 수치로 <font color=\"blue\">부활</font><br/>최대 <font color=\"Red\">1</font>회 발동<br/>[물리 피해]자신 혹은 <font color=\"blue\">물</font>,<font color=\"dark green\">늪</font>, <font color=\"dark blue\">분류</font> 지형에 사용</br>, <br/>주위 <font color=\"red\">1</font>바퀴 범위 적에게 <font color=\"red\">0.1</font>배 피해 <br/> 사용후 해당 스킬은 <font color=\"blue\">세찬 소용돌이</font>로 변경",
+        "Desc": "[패시브]<font color=\"green\">물</font>에서 사망 시 생명 <font color=\"Red\">50%</font> 수치로 <font color=\"blue\">부활</font><br/>최대 <font color=\"Red\">1</font>회 발동<br/>[물리 피해]자신 혹은 <font color=\"green\">물</font>,<font color=\"green\">늪</font>, <font color=\"green\">분류</font> 지형에 사용</br>, <br/>주위 <font color=\"red\">1</font>바퀴 범위 적에게 <font color=\"red\">0.1</font>배 피해 <br/> 사용후 해당 스킬은 <font color=\"blue\">세찬 소용돌이</font>로 변경",
         "SubSkills": [
           {
             "Name": "<b><font color=\"#0070c0\">세찬 소용돌이</font></b>",
@@ -619,7 +622,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/Super/마크렌_1.webp",
-            "Desc": "호위 무시 및 단일 개체에게 <font color=\"red\">1.4</font>피해 <br/>적이 물에 있을 경우 치명타 확률 <font color=\"red\">20%</font><br/>전투 후 '<font color=\"blue\">물</font>'에 있는 모든 적에게 추가 고정 피해 (공격 <font color=\"red\">1</font>배 수치)<br/>사용 후 해당 스킬은 <font color=\"blue\">파도의 지배자</font>로 변경<br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>"
+            "Desc": "호위 무시 및 단일 개체에게 <font color=\"red\">1.4</font>피해 <br/>적이 물에 있을 경우 치명타 확률 <font color=\"red\">20%</font><br/>전투 후 <font color=\"green\">물</font>에 있는 모든 적에게 추가 고정 피해 (공격 <font color=\"red\">1</font>배 수치)<br/>사용 후 해당 스킬은 <font color=\"blue\">파도의 지배자</font>로 변경<br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font>"
           }
         ],
         "Animation": "../img/Super/마크렌_Ani.webp"

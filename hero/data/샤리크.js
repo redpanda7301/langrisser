@@ -126,7 +126,7 @@ var data = [
             "ImageUrl": "샤리크/1/2.webp"
           },
           {
-            "ImageUrl": "샤리크/2/1.webp"
+            "ImageUrl": "샤리크/2/2.webp"
           }
         ],
         "AttkRange": 1,
@@ -197,7 +197,7 @@ var data = [
             "Value": "직선"
           }
         ],
-        "IconImageUrl": "../img/skills/Sharikh/Temp.webp",
+        "IconImageUrl": "../img/skills/Sharikh/2.webp",
         "Desc": "[물리 피해]<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.16</font>배 피해<br/>목표에게 <font color=\"blue\">랜덤한 디버프</font> <font color=\"red\">1</font>개 부여<br/>치명타 발동 시 해당 스킬 쿨 <font color=\"red\">-1</font>턴 및 <font color=\"blue\">재시전</font> (<font color=\"blue\">재시전</font>은 해당 효과의 영향을 받지 않음)<br/>전투 후 시전 전까지 이동했던 거리만큼 <font color=\"blue\">재이동</font> 가능",
         "SubSkills": null,
         "Animation": null
@@ -211,7 +211,7 @@ var data = [
                 "Value": "패시브"
               }
             ],
-            "IconImageUrl": "../img/skills/Sharikh/Temp.webp",
+            "IconImageUrl": "../img/skills/Sharikh/1.webp",
             "Desc": "[패시브]적에게 <font color=\"blue\">고정 피해</font>를 입힌 뒤 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 <font color=\"blue\">빼앗고</font>, <font color=\"blue\">랜덤한 디버프</font> <font color=\"red\">1</font>개 부여",
             "SubSkills": null,
             "Animation": null

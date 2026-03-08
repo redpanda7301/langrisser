@@ -28,6 +28,10 @@ var data = [
       {
         "ImageUrl": "루나/sp.webp",
         "Desc": "SP 각성"
+      },
+      {
+        "ImageUrl": "루나/7.webp",
+        "Desc": "서밋아레나 S23 골드스킨"
       }
     ],
     "Name": "루나",
@@ -168,6 +172,9 @@ var data = [
           },
           {
             "ImageUrl": "루나/sp/1.webp"
+          },
+          {
+            "ImageUrl": "루나/7/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -212,6 +219,9 @@ var data = [
           },
           {
             "ImageUrl": "루나/sp/1.webp"
+          },
+          {
+            "ImageUrl": "루나/7/2.webp"
           }
         ],
         "AttkRange": 1,
@@ -256,6 +266,9 @@ var data = [
           },
           {
             "ImageUrl": "루나/sp/1.webp"
+          },
+          {
+            "ImageUrl": "루나/7/2.webp"
           }
         ],
         "AttkRange": 1,

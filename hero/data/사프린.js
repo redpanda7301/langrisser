@@ -64,23 +64,28 @@ var data = [
               "Desc": "2성"
             },
             {
-              "Desc": "지력 <font color=\"red\">+10%</font><br/><font color=\"purple\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명마다 부대 사거리 <font color=\"red\">+1</font> (최대 <font color=\"red\">+3</font>), 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/>액티브로 스킬 사용 후,행동 종료 시 <font color=\"blue\">조화의 영</font> 소환 (<font color=\"blue\">조화의 영</font>은 현재 스킬 및 스탯 <font color=\"red\">100%</font>를 계승하며 최대 <font color=\"red\">2</font>기 소환)<br/>피해를 입히지 않고 행동 종료 시, 자신의 <font color=\"blue\">조화의 영</font> <font color=\"red\">1</font>기를 회수 가능 및 계승된 스킬의 쿨 제거 가능. 사용 후 <font color=\"blue\">재공격</font> 가능 (<font color=\"blue\">보유한 버프 지속 시간이 감소되지 않으며, 이동 및 조화의 영 소환 불가</font>, 회수 쿨 <font color=\"red\">2</font>턴"
+              "Desc": "지력 <font color=\"red\">+10%</font><br/><font color=\"blue\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명마다 부대 사거리 <font color=\"red\">+1</font> (최대 <font color=\"red\">+3</font>), 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/>액티브로 스킬 사용 후,행동 종료 시 <font color=\"purple\">조화의 영</font> 소환 (<font color=\"purple\">조화의 영</font>은 현재 스킬 및 스탯 <font color=\"red\">100%</font>를 계승하며 최대 <font color=\"red\">2</font>기 소환)<br/>피해를 입히지 않고 행동 종료 시, 자신의 <font color=\"purple\">조화의 영</font> <font color=\"red\">1</font>기를 회수 가능 및 계승된 스킬의 쿨 제거 가능. 사용 후 <font color=\"blue\">재공격</font> 가능 (<font color=\"blue\">보유한 버프 지속 시간이 감소되지 않으며, 이동 및 조화의 영 소환 불가</font>, 회수 쿨 <font color=\"red\">2</font>턴"
             },
             {
-              "Desc": "지력 <font color=\"red\">+13%</font><br/><font color=\"purple\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명마다 부대 사거리 <font color=\"red\">+1</font> (최대 <font color=\"red\">+3</font>), 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/>액티브로 스킬 사용 후,행동 종료 시 <font color=\"blue\">조화의 영</font> 소환 (<font color=\"blue\">조화의 영</font>은 현재 스킬 및 스탯 <font color=\"red\">100%</font>를 계승하며 최대 <font color=\"red\">2</font>기 소환)<br/>피해를 입히지 않고 행동 종료 시, 자신의 <font color=\"blue\">조화의 영</font> <font color=\"red\">1</font>기를 회수 가능 및 계승된 스킬의 쿨 제거 가능. 사용 후 <font color=\"blue\">재공격</font> 가능 (<font color=\"blue\">보유한 버프 지속 시간이 감소되지 않으며, 이동 및 조화의 영 소환 불가</font>, 회수 쿨 <font color=\"red\">2</font>턴"
+              "Desc": "지력 <font color=\"red\">+13%</font><br/><font color=\"blue\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명마다 부대 사거리 <font color=\"red\">+1</font> (최대 <font color=\"red\">+3</font>), 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/>액티브로 스킬 사용 후,행동 종료 시 <font color=\"purple\">조화의 영</font> 소환 (<font color=\"purple\">조화의 영</font>은 현재 스킬 및 스탯 <font color=\"red\">100%</font>를 계승하며 최대 <font color=\"red\">2</font>기 소환)<br/>피해를 입히지 않고 행동 종료 시, 자신의 <font color=\"purple\">조화의 영</font> <font color=\"red\">1</font>기를 회수 가능 및 계승된 스킬의 쿨 제거 가능. 사용 후 <font color=\"blue\">재공격</font> 가능 (<font color=\"blue\">보유한 버프 지속 시간이 감소되지 않으며, 이동 및 조화의 영 소환 불가</font>, 회수 쿨 <font color=\"red\">2</font>턴"
             },
             {
-              "Desc": "지력 <font color=\"red\">+16%</font><br/><font color=\"purple\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명마다 부대 사거리 <font color=\"red\">+1</font> (최대 <font color=\"red\">+3</font>), 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/>액티브로 스킬 사용 후,행동 종료 시 <font color=\"blue\">조화의 영</font> 소환 (<font color=\"blue\">조화의 영</font>은 현재 스킬 및 스탯 <font color=\"red\">100%</font>를 계승하며 최대 <font color=\"red\">2</font>기 소환)<br/>피해를 입히지 않고 행동 종료 시, 자신의 <font color=\"blue\">조화의 영</font> <font color=\"red\">1</font>기를 회수 가능 및 계승된 스킬의 쿨 제거 가능. 사용 후 <font color=\"blue\">재공격</font> 가능 (<font color=\"blue\">보유한 버프 지속 시간이 감소되지 않으며, 이동 및 조화의 영 소환 불가</font>, 회수 쿨 <font color=\"red\">1</font>턴"
+              "Desc": "지력 <font color=\"red\">+16%</font><br/><font color=\"blue\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명마다 부대 사거리 <font color=\"red\">+1</font> (최대 <font color=\"red\">+3</font>), 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/>액티브로 스킬 사용 후,행동 종료 시 <font color=\"purple\">조화의 영</font> 소환 (<font color=\"purple\">조화의 영</font>은 현재 스킬 및 스탯 <font color=\"red\">100%</font>를 계승하며 최대 <font color=\"red\">2</font>기 소환)<br/>피해를 입히지 않고 행동 종료 시, 자신의 <font color=\"purple\">조화의 영</font> <font color=\"red\">1</font>기를 회수 가능 및 계승된 스킬의 쿨 제거 가능. 사용 후 <font color=\"blue\">재공격</font> 가능 (<font color=\"blue\">보유한 버프 지속 시간이 감소되지 않으며, 이동 및 조화의 영 소환 불가</font>, 회수 쿨 <font color=\"red\">1</font>턴"
             },
             {
-              "Desc": "지력 <font color=\"red\">+20%</font><br/><font color=\"purple\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명마다 부대 사거리 <font color=\"red\">+1</font> (최대 <font color=\"red\">+3</font>), 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/>액티브로 스킬 사용 후,행동 종료 시 <font color=\"blue\">조화의 영</font> 소환 (<font color=\"blue\">조화의 영</font>은 현재 스킬 및 스탯 <font color=\"red\">100%</font>를 계승하며 최대 <font color=\"red\">2</font>기 소환)<br/>피해를 입히지 않고 행동 종료 시, 자신의 <font color=\"blue\">조화의 영</font> <font color=\"red\">1</font>기를 회수 가능 및 계승된 스킬의 쿨 제거 가능. 사용 후 <font color=\"blue\">재공격</font> 가능 (<font color=\"blue\">보유한 버프 지속 시간이 감소되지 않으며, 이동 및 조화의 영 소환 불가</font>, 회수 쿨 <font color=\"red\">1</font>턴"
+              "Desc": "지력 <font color=\"red\">+20%</font><br/><font color=\"blue\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명마다 부대 사거리 <font color=\"red\">+1</font> (최대 <font color=\"red\">+3</font>), 주는 피해량 <font color=\"red\">+10%</font> (최대 <font color=\"red\">+30%</font>)<br/>액티브로 스킬 사용 후,행동 종료 시 <font color=\"purple\">조화의 영</font> 소환 (<font color=\"purple\">조화의 영</font>은 현재 스킬 및 스탯 <font color=\"red\">100%</font>를 계승하며 최대 <font color=\"red\">2</font>기 소환)<br/>피해를 입히지 않고 행동 종료 시, 자신의 <font color=\"purple\">조화의 영</font> <font color=\"red\">1</font>기를 회수 가능 및 계승된 스킬의 쿨 제거 가능. 사용 후 <font color=\"blue\">재공격</font> 가능 (<font color=\"blue\">보유한 버프 지속 시간이 감소되지 않으며, 이동 및 조화의 영 소환 불가</font>, 회수 쿨 <font color=\"red\">1</font>턴"
             }
           ]
         }
       ],
       "SPTalent": null,
       "Second_Awaken": null,
-      "Equip": null,
+      "Equip": {
+      "EqpName": "엘프의 새싹(무기)",
+      "Stats": "생명 437,지력 107",
+      "Icon": "사프린.webp",
+      "Ability": "지력 <font color=\"red\">+10%</font><br/><font color=\"purple\">조화의 영</font>이 <font color=\"blue\">적의 평타 및 스킬 타겟이 되지 않음</font> 효과 보유 (적이 인접해서 행동 종료 시, 해당 효과 상실)<br/><i>(<font color=\"purple\">조화의 영</font>은)</i> 주위 <font color=\"red\">3</font>칸 범위 안에 있는 적이 위치한 지형을 <font color=\"green\">초원</font>으로 간주 (<font color=\"blue\">면역 및 해제 불가</font>, 다음 행동 종료 시 해당 효과 제거)<br/><font color=\"purple\">조화의 영</font>이 사프린을 대신해 <font color=\"purple\">조화의 영</font>을 회수 가능"
+    },
       "Soldiers": [
         "마녀",
         "하이엘프",
@@ -234,7 +239,7 @@ var data = [
             }
           ],
           "IconImageUrl": "../img/skills/Safreen/1.webp",
-          "Desc": "단일 개체에게 <font color=\"Red\">1.4</font>배 피해<br/><font color=\"purple\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명당 적 마방 <font color=\"Red\">10%</font> 무시 (최대 <font color=\"Red\">30%</font>)<br/>전투 후 <font color=\"purple\">쉴드</font> 획득<br/><font color=\"purple\">쉴드</font> : 시전자 지력 <font color=\"red\">3</font>배 수치 피해 흡수, 지속 <font color=\"red\">2</font>턴, 해제 불가<br/>병사 대동 시 병사도 함께 공격<br/>해당 스킬은 근접전 페널티를 받지 않음",
+          "Desc": "단일 개체에게 <font color=\"Red\">1.4</font>배 피해<br/><font color=\"blue\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명당 적 마방 <font color=\"Red\">10%</font> 무시 (최대 <font color=\"Red\">30%</font>)<br/>전투 후 <font color=\"purple\">쉴드</font> 획득<br/><font color=\"purple\">쉴드</font> : 시전자 지력 <font color=\"red\">3</font>배 수치 피해 흡수, 지속 <font color=\"red\">2</font>턴, 해제 불가<br/>병사 대동 시 병사도 함께 공격<br/>해당 스킬은 근접전 페널티를 받지 않음",
           "SubSkills": null,
           "Animation": null
         },
@@ -312,7 +317,7 @@ var data = [
             }
           ],
           "IconImageUrl": "../img/skills/Safreen/2.webp",
-          "Desc": "[패시브] 스킬 사용 후 <font color=\"purple\">원소 친화</font>를 보유한 아군과 위치 교환 가능<br/>[액티브] <font color=\"purple\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명에게 <font color=\"purple\">쉴드</font> 부여<br/><font color=\"purple\">쉴드</font> : 시전자 지력 <font color=\"red\">3</font>배 수치 피해 흡수, 지속 <font color=\"red\">2</font>턴, 해제 불가",
+          "Desc": "[패시브] 스킬 사용 후 <font color=\"blue\">원소 친화</font>를 보유한 아군과 위치 교환 가능<br/>[액티브] <font color=\"blue\">원소 친화</font>를 보유한 아군 <font color=\"red\">1</font>명에게 <font color=\"purple\">쉴드</font> 부여<br/><font color=\"purple\">쉴드</font> : 시전자 지력 <font color=\"red\">3</font>배 수치 피해 흡수, 지속 <font color=\"red\">2</font>턴, 해제 불가",
           "SubSkills": null,
           "Animation": null
         },

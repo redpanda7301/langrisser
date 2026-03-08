@@ -24,6 +24,10 @@ var data = [
       {
         "ImageUrl": "보젤/sp.webp",
         "Desc": "SP 각성"
+      },
+      {
+        "ImageUrl": "보젤/6.webp",
+        "Desc": "7주년 페이백"
       }
     ],
     "Name": "보젤",
@@ -160,6 +164,9 @@ var data = [
           },
           {
             "ImageUrl": "보젤/sp/1.webp"
+          },
+          {
+            "ImageUrl": "보젤/6/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -201,6 +208,9 @@ var data = [
           },
           {
             "ImageUrl": "보젤/sp/1.webp"
+          },
+          {
+            "ImageUrl": "보젤/6/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -242,6 +252,9 @@ var data = [
           },
           {
             "ImageUrl": "보젤/sp/1.webp"
+          },
+          {
+            "ImageUrl": "보젤/6/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -899,7 +912,7 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/sp/보젤/Temp.webp",
+        "IconImageUrl": "../img/skills/sp/보젤/1.webp",
         "Desc": "단일 개체 <font color=\"red\">1.6</font>배 피해<br/>전투 전 적이 위치한 지형에 <font color=\"green\">무질서의 그림자</font> 효과 부여<br/><font color=\"green\">무질서의 그림자</font> : 적이 위치한 해당 지형의 방어 효과 <font color=\"red\">-20%</font>, 적이 해당 위치에서 행동 종료 시 <font color=\"blue\">랜덤한 디버프 </font><font color=\"red\">1</font><font color=\"blue\">개 부여</font><br/><font color=\"green\">무질서의 그림자</font>는 비교적 높은 지형 우선순위를 가짐",
         "SubSkills": null,
         "Animation": null
@@ -925,7 +938,7 @@ var data = [
             "Value": "4칸"
           }
         ],
-        "IconImageUrl": "../img/skills/sp/보젤/Temp.webp",
+        "IconImageUrl": "../img/skills/sp/보젤/2.webp",
         "Desc": "범위 내 적에게 <font color=\"red\">0.36</font>배 피해<br/>적의 버프 <font color=\"red\">1</font>개를 랜덤한 디버프로 바꾸고 <font color=\"blue\">혼돈의 원령</font> 효과 부여<br/><font color=\"blue\">혼돈의 원령</font> : 버프 획득 시 해당 버프를 디버프로 변환, 디버프 제거 시 <font color=\"blue\">혼돈의 원령</font>이 나중에 제거됨 (지속 <font color=\"red\">2</font>턴)",
         "SubSkills": null,
         "Animation": null

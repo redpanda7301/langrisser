@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "프레시아/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "프레시아/3.webp",
+        "Desc": "한정 판매"
       }
     ],
     "Name": "프레시아",
@@ -105,6 +109,9 @@ var data = [
           },
           {
             "ImageUrl": "프레시아/2/1.webp"
+          },
+          {
+            "ImageUrl": "프레시아/3/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -134,6 +141,9 @@ var data = [
           },
           {
             "ImageUrl": "프레시아/2/2.webp"
+          },
+          {
+            "ImageUrl": "프레시아/3/1.webp"
           }
         ],
         "AttkRange": 1,
