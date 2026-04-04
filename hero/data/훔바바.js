@@ -357,7 +357,7 @@ var data = [
             }
           ],
           "IconImageUrl": "../img/Super/훔바바.webp",
-          "Desc": "[패시브] 처음 행동 종료 및 해당 스킬을 사용 시, 전장의 모든 <font color=\"blue\">빛의 기원</font> 아군의 공격, 방어 능력치가 크게 상승하고 공격 시 주는 피해량 <font color=\"red\">+15%</font> 및 받는 반격 피해 <font color=\"red\">-20%</font> (지속 <font color=\"red\">4</font>턴, 이 효과는 다른 초절강화 스킬과 중첩 불가)<br/>[마법피해] 자신의 주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.12</font>배 피해 및 <font color=\"blue\">랜덤한 디버프</font> <font color=\"red\">1</font>개 부여<br/>전장에 있는 모든 아군 <font color=\"green\">나비의 영</font> 혹은 <font color=\"orange\">나비의 숨결</font> 이 동시에 해당 스킬 사용하고,<br/>적이 여러 번 명중 당할 경우 스킬 효과가 각각 <font color=\"red\">1</font>배씩 증가.<br/>단일 적 최대 <font color=\"red\">4</font>회까지 피격.<br/>사용 후 자신의 모든 스킬 쿨타임 감소<br/>감소량은 적이 해당 스킬에 추가 명중당한 최대 횟수",
+          "Desc": "[패시브] 처음 행동 종료 및 해당 스킬을 사용 시, 전장의 모든 '빛의 기원' 아군의 공격, 방어 능력치가 크게 상승하고 공격 시 주는 피해량 <font color=\"red\">+15%</font> 및 받는 반격 피해 <font color=\"red\">-20%</font> (지속 <font color=\"red\">4</font>턴, 이 효과는 다른 초절강화 스킬과 중첩 불가)<br/>[마법피해] 자신의 주위 <font color=\"red\">3</font>칸 범위 안 적에게 <font color=\"red\">0.12</font>배 피해 및 <font color=\"blue\">랜덤한 디버프</font> <font color=\"red\">1</font>개 부여<br/>전장에 있는 모든 아군 <font color=\"green\">나비의 영</font> 혹은 <font color=\"orange\">나비의 숨결</font> 이 동시에 해당 스킬 사용하고,<br/>적이 여러 번 명중 당할 경우 스킬 효과가 각각 <font color=\"red\">1</font>배씩 증가.<br/>단일 적 최대 <font color=\"red\">4</font>회까지 피격.<br/>사용 후 자신의 모든 스킬 쿨타임 감소<br/>감소량은 적이 해당 스킬에 추가 명중당한 최대 횟수",
           "SubSkills": null,
           "Animation": "../img/Super/훔바바_Ani.webp"
         }

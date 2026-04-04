@@ -107,6 +107,9 @@ var data = [
           },
           {
             "ImageUrl": "비리아/2/1.webp"
+          },
+          {
+            "ImageUrl": "비리아/3/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -136,6 +139,9 @@ var data = [
           },
           {
             "ImageUrl": "비리아/2/1.webp"
+          },
+          {
+            "ImageUrl": "비리아/3/1.webp"
           }
         ],
         "AttkRange": 2,
