@@ -276,6 +276,20 @@ var data = [
         "Animation": null
       },
       {
+        "Name": "공격 지휘",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "패시브"
+          }
+        ],
+        "IconImageUrl": "../img/skills/2.webp",
+        "Desc": "주위 <font color=\"red\">2</font>칸 내 모든 아군 공격, 지력 <font color=\"red\">+10%</font>.",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
         "Name": "파도 타기",
         "Cost": "COST 2",
         "Entries": [
@@ -321,7 +335,7 @@ var data = [
         "Entries": [
           {
             "Label": "유형",
-            "Value": "지원"
+            "Value": "액티브"
           },
           {
             "Label": "쿨타임",
