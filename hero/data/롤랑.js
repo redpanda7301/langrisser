@@ -372,6 +372,20 @@ var data = [
         "Desc": "<font color=\"red\">1</font>개의 라인에 있는 모든 적군을 공격하여 <font color =\"red\">0.33</font>배 범위 피해를 입힌다.<br/><b>'마물'과 전투 시</b> 더 큰 피해를 입힌다. <font color =\"red\">1</font>개 <font color =\"blue\">버프 제거</font>.",
         "SubSkills": null,
         "Animation": null
+      },
+      {
+        "Name": "방어막 파괴",
+        "Cost": "COST 1",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "패시브"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Passive_BreakMDef2.webp",
+        "Desc": "전투 진입 전 <font color=\"red\">50%</font> 확률로 적의 마방 <font color=\"red\">-25%</font><br/>지속 <font color=\"red\">1</font>행동",
+        "SubSkills": null,
+        "Animation": null
       },      
       {
         "Name": "공격 지휘",
