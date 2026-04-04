@@ -8,6 +8,10 @@ var data = [
         {
           "ImageUrl": "엘비스/2.webp",
           "Desc": "빛의 메아리"
+        },
+        {
+          "ImageUrl": "엘비스/3.webp",
+          "Desc": "한정 판매"
         }
       ],
       "Name": "엘비스",
@@ -98,6 +102,9 @@ var data = [
             },
             {
               "ImageUrl": "엘비스/2/1.webp"
+            },
+            {
+              "ImageUrl": "엘비스/3/1.webp"
             }
           ],
           "AttkRange": 1,
@@ -127,6 +134,9 @@ var data = [
             },
             {
               "ImageUrl": "엘비스/2/2.webp"
+            },
+            {
+              "ImageUrl": "엘비스/3/2.webp"
             }
           ],
           "AttkRange": 1,

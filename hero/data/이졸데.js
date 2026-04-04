@@ -12,6 +12,10 @@ var data = [
       {
         "ImageUrl": "이졸데/3.webp",
         "Desc": "한정 판매"
+      },
+      {
+        "ImageUrl": "이졸데/4.webp",
+        "Desc": "한정 판매"
       }
     ],
     "Name": "이졸데",
@@ -105,6 +109,9 @@ var data = [
           },
           {
             "ImageUrl": "이졸데/3/1.webp"
+          },
+          {
+            "ImageUrl": "이졸데/4/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -137,6 +144,9 @@ var data = [
           },
           {
             "ImageUrl": "이졸데/3/1.webp"
+          },
+          {
+            "ImageUrl": "이졸데/4/1.webp"
           }
         ],
         "AttkRange": 1,

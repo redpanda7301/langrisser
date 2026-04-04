@@ -12,6 +12,10 @@ var data = [
       {
         "ImageUrl": "네미아/3.webp",
         "Desc": "한정 판매"
+      },
+      {
+        "ImageUrl": "네미아/4.webp",
+        "Desc": "한정 판매"
       }
     ],
     "Name": "네미아",
@@ -115,6 +119,9 @@ var data = [
           },
           {
             "ImageUrl": "네미아/3/1.webp"
+          },
+          {
+            "ImageUrl": "네미아/4/1.webp"
           }
         ],
         "AttkRange": 2,
@@ -147,6 +154,9 @@ var data = [
           },
           {
             "ImageUrl": "네미아/3/1.webp"
+          },
+          {
+            "ImageUrl": "네미아/4/1.webp"
           }
         ],
         "AttkRange": 2,

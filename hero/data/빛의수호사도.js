@@ -83,7 +83,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "성스러운 빛의 찬송",
+      "Stats": "<font color=\"blue\">독실한 신자의 빛</font> <i>(각성기)</i> 사용 시 <font color=\"blue\">신관</font> 부대에게 <font color=\"blue\">전투 중 주는 피해량</font> <font color=\"red\">+15%</font> 효과 부여 (해당 효과는 다른 초절 특수 효과와 중첩 불가)<br/><font color=\"blue\">독실한 신자의 빛</font>의 <font color=\"blue\">신관</font>에게 적용되는 모든 효과를 <font color=\"blue\">보병</font> 아군에게도 적용"
+    },
     "Equip": {
       "EqpName": "잿불의 파수(투구)",
       "Stats": "생명 364,마방 65",

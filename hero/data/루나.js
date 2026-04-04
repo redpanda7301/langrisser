@@ -892,7 +892,80 @@ var data = [
         ],
         "IconImageUrl": "../img/skills/sp/루나/1.webp",
         "Desc": "[패시브]<font color=\"green\">달 그림자</font> 지형 위에서 행동 종료 시 <font color=\"blue\">자신이 보유한 버프 지속 시간이 감소하지 않음</font>, 현재 가장 쿨이 긴 스킬 쿨타임 <font color=\"red\">-1</font>턴<br/>[액티브] 지휘 효과 선택 획득 가능 (<font color=\"blue\">공격 지휘</font>, <font color=\"blue\">방어 지휘</font>, <font color=\"blue\">마방 지휘</font> 중 택일)<br/>자신의 <font color=\"blue\">이동력</font> <font color=\"red\">+3</font> (지속 <font color=\"red\">2</font>턴)",
-        "SubSkills": null,
+        "SubSkills": [
+                {
+                    "Name": "공격 지휘",
+                    "Cost": "COST 1",
+                    "Entries": [
+                      {
+                        "Label": "유형",
+                        "Value": "액티브"
+                      },
+                      {
+                        "Label": "쿨타임",
+                        "Value": "1턴"
+                      },
+                      {
+                        "Label": "사거리",
+                        "Value": "자신"
+                      },
+                      {
+                        "Label": "범위",
+                        "Value": "단일"
+                      }
+                    ],
+                    "IconImageUrl": "../img/skills/2.webp",
+                    "Desc": "<font color=\"blue\">공격 지휘</font>를 선택하여 획득<br/><font color=\"blue\">공격 지휘</font> : 범위 <font color=\"red\">2</font>칸 이내의 아군 부대의 공격, 지력 <font color=\"red\">+10%</font> (지속 <font color=\"red\">2</font>턴)<br/>자신의 <font color=\"blue\">이동력</font> <font color=\"red\">+3</font> (지속 <font color=\"red\">2</font>턴)"
+                  },
+              {
+                "Name": "방어 지휘",
+                "Cost": "COST 1",
+                "Entries": [
+                  {
+                        "Label": "유형",
+                        "Value": "액티브"
+                      },
+                      {
+                        "Label": "쿨타임",
+                        "Value": "1턴"
+                      },
+                      {
+                        "Label": "사거리",
+                        "Value": "자신"
+                      },
+                      {
+                        "Label": "범위",
+                        "Value": "단일"
+                      }
+                ],
+                "IconImageUrl": "../img/skills/Passive_AuraDefUp.webp",
+                "Desc": "<font color=\"blue\">방어 지휘</font>를 선택하여 획득<br/><font color=\"blue\">방어 지휘</font> : 범위 <font color=\"red\">2</font>칸 이내의 아군 부대의 방어 <font color=\"red\">+10%</font> (지속 <font color=\"red\">2</font>턴)<br/>자신의 <font color=\"blue\">이동력</font> <font color=\"red\">+3</font> (지속 <font color=\"red\">2</font>턴)"
+              },
+              {
+                "Name": "마방 지휘",
+                "Cost": "COST 1",
+                "Entries": [
+                  {
+                        "Label": "유형",
+                        "Value": "액티브"
+                      },
+                      {
+                        "Label": "쿨타임",
+                        "Value": "1턴"
+                      },
+                      {
+                        "Label": "사거리",
+                        "Value": "자신"
+                      },
+                      {
+                        "Label": "범위",
+                        "Value": "단일"
+                      }
+                ],
+                "IconImageUrl": "../img/skills/Passive_AuraMDefUp.webp",
+                "Desc": "<font color=\"blue\">마방 지휘</font>를 선택하여 획득<br/><font color=\"blue\">마방 지휘</font> : 범위 <font color=\"red\">2</font>칸 이내의 아군 부대의 마법방어 <font color=\"red\">+15%</font> (지속 <font color=\"red\">2</font>턴)<br/>자신의 <font color=\"blue\">이동력</font> <font color=\"red\">+3</font> (지속 <font color=\"red\">2</font>턴)"
+              }
+            ],
         "Animation": null
       },
       {

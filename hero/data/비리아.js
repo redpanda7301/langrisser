@@ -8,6 +8,10 @@ var data = [
       {
         "ImageUrl": "비리아/2.webp",
         "Desc": "빛의 메아리"
+      },
+      {
+        "ImageUrl": "비리아/3.webp",
+        "Desc": "한정 판매"
       }
     ],
     "Name": "비리아",
@@ -60,23 +64,28 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "주는 피해량  <font color=\"red\">+15%</font><br/>공격하지 않고 행동 종료 시, '<font color=\"purple\">주문 준비</font>'를 통해 다음 스킬을 강화 가능<br/>(<font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font>)<br/>그 후 자신이 <font color=\"blue\">보유한 버프의 지속 시간이 감소하지 않으며</font> <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>(<font color=\"purple\">주문 준비</font> 쿨타임 <font color=\"red\">3</font>행동)<br/><font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font> 효과는 하기에 후술<br/>지난 번과는 다른 <font color=\"purple\">주문 준비</font> 후 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>(최대 <font color=\"red\">2</font>)"
+            "Desc": "주는 피해량  <font color=\"red\">+15%</font><br/>공격하지 않고 행동 종료 시, '<font color=\"blue\">주문 준비</font>'를 통해 다음 스킬을 강화 가능<br/>(<font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font>)<br/>그 후 자신이 <font color=\"blue\">보유한 버프의 지속 시간이 감소하지 않으며</font> <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>(<font color=\"blue\">주문 준비</font> 쿨타임 <font color=\"red\">3</font>행동)<br/><font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font> 효과는 하기에 후술<br/>지난 번과는 다른 <font color=\"blue\">주문 준비</font> 후 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>(최대 <font color=\"red\">2</font>)"
           },
           {
-            "Desc": "주는 피해량  <font color=\"red\">+20%</font><br/>공격하지 않고 행동 종료 시, '<font color=\"purple\">주문 준비</font>'를 통해 다음 스킬을 강화 가능<br/>(<font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font>)<br/>그 후 자신이 <font color=\"blue\">보유한 버프의 지속 시간이 감소하지 않으며</font> <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>(<font color=\"purple\">주문 준비</font> 쿨타임 <font color=\"red\">3</font>행동)<br/><font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font> 효과는 하기에 후술<br/>지난 번과는 다른 <font color=\"purple\">주문 준비</font> 후 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>(최대 <font color=\"red\">2</font>)"
+            "Desc": "주는 피해량  <font color=\"red\">+20%</font><br/>공격하지 않고 행동 종료 시, '<font color=\"blue\">주문 준비</font>'를 통해 다음 스킬을 강화 가능<br/>(<font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font>)<br/>그 후 자신이 <font color=\"blue\">보유한 버프의 지속 시간이 감소하지 않으며</font> <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>(<font color=\"blue\">주문 준비</font> 쿨타임 <font color=\"red\">3</font>행동)<br/><font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font> 효과는 하기에 후술<br/>지난 번과는 다른 <font color=\"blue\">주문 준비</font> 후 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>(최대 <font color=\"red\">2</font>)"
           },
           {
-            "Desc": "주는 피해량  <font color=\"red\">+25%</font><br/>공격하지 않고 행동 종료 시, '<font color=\"purple\">주문 준비</font>'를 통해 다음 스킬을 강화 가능<br/>(<font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font>)<br/>그 후 자신이 <font color=\"blue\">보유한 버프의 지속 시간이 감소하지 않으며</font> <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>(<font color=\"purple\">주문 준비</font> 쿨타임 <font color=\"red\">2</font>행동)<br/><font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font> 효과는 하기에 후술<br/>지난 번과는 다른 <font color=\"purple\">주문 준비</font> 후 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>(최대 <font color=\"red\">2</font>)"
+            "Desc": "주는 피해량  <font color=\"red\">+25%</font><br/>공격하지 않고 행동 종료 시, '<font color=\"blue\">주문 준비</font>'를 통해 다음 스킬을 강화 가능<br/>(<font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font>)<br/>그 후 자신이 <font color=\"blue\">보유한 버프의 지속 시간이 감소하지 않으며</font> <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>(<font color=\"blue\">주문 준비</font> 쿨타임 <font color=\"red\">2</font>행동)<br/><font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font> 효과는 하기에 후술<br/>지난 번과는 다른 <font color=\"blue\">주문 준비</font> 후 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>(최대 <font color=\"red\">2</font>)"
           },
           {
-            "Desc": "주는 피해량  <font color=\"red\">+30%</font><br/>공격하지 않고 행동 종료 시, '<font color=\"purple\">주문 준비</font>'를 통해 다음 스킬을 강화 가능<br/>(<font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font>)<br/>그 후 자신이 <font color=\"blue\">보유한 버프의 지속 시간이 감소하지 않으며</font> <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>(<font color=\"purple\">주문 준비</font> 쿨타임 <font color=\"red\">2</font>행동)<br/><font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font> 효과는 하기에 후술<br/>지난 번과는 다른 <font color=\"purple\">주문 준비</font> 후 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>(최대 <font color=\"red\">2</font>)"
+            "Desc": "주는 피해량  <font color=\"red\">+30%</font><br/>공격하지 않고 행동 종료 시, '<font color=\"blue\">주문 준비</font>'를 통해 다음 스킬을 강화 가능<br/>(<font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font>)<br/>그 후 자신이 <font color=\"blue\">보유한 버프의 지속 시간이 감소하지 않으며</font> <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>(<font color=\"blue\">주문 준비</font> 쿨타임 <font color=\"red\">2</font>행동)<br/><font color=\"blue\">멸망 - 피해 집중</font>, <font color=\"blue\">에너지 축적 - 사거리 증가</font>, <font color=\"blue\">촉진 - 쿨 감소</font> 효과는 하기에 후술<br/>지난 번과는 다른 <font color=\"blue\">주문 준비</font> 후 <font color=\"blue\">부대 사거리</font> <font color=\"red\">+1</font><br/>(최대 <font color=\"red\">2</font>)"
           }
         ]
       }
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "군도의 면사포(투구)",
+      "Stats": "생명 364,마방 65",
+      "Icon": "비리아.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/>스킬 코스트 제한 해제<br/><font color=\"blue\">위험 범위</font> 밖에서 <font color=\"blue\">주문 준비</font> 사용 후, 자신의 모든 쿨타임 효과 쿨타임 <font color=\"red\">-1</font>턴"
+    },
     "Soldiers": [
       "마녀",
       "하이엘프",
@@ -256,7 +265,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/skills/Virelia/Gift_Virelia_3.webp",
-            "Desc": "'<font color=\"blue\">촉진</font>' 효과 획득 (스킬로 공격 시 해당 스킬 쿨타임 <font color=\"red\">-3</font>, '<font color=\"purple\">주문 준비</font>' 사용 후, <font color=\"purple\">주문 준비</font> 쿨타임 추가로 <font color=\"red\">+1</font>.<br/>면역 및 해제 불가.<br/>다음 스킬 공격 후까지 지속. 자신이 보유한 버프 지속 시간이 감소하지 않으며 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능)"
+            "Desc": "'<font color=\"blue\">촉진</font>' 효과 획득 (스킬로 공격 시 해당 스킬 쿨타임 <font color=\"red\">-3</font>, '<font color=\"blue\">주문 준비</font>' 사용 후, <font color=\"blue\">주문 준비</font> 쿨타임 추가로 <font color=\"red\">+1</font>.<br/>면역 및 해제 불가.<br/>다음 스킬 공격 후까지 지속. 자신이 보유한 버프 지속 시간이 감소하지 않으며 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font> 가능)"
           }
         ],
         "Animation": null
@@ -309,7 +318,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Virelia/1.webp",
-        "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배 피해.<br/>자신이 보유한 <font color=\"purple\">주문 준비</font> 효과마다 피해 <font color=\"red\">+15%</font><br/>사용 후 자신의 고유기 쿨타임 <font color=\"red\">-1</font>",
+        "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배 피해.<br/>자신이 보유한 <font color=\"blue\">주문 준비</font> 효과마다 피해 <font color=\"red\">+15%</font><br/>사용 후 자신의 고유기 쿨타임 <font color=\"red\">-1</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -453,7 +462,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Virelia/2.webp",
-        "Desc": "피격으로 전투 진입 시, <font color=\"blue\">부대 근접 패널티 무효화</font>.<br/>물리 공격을 받아 사망 시 부대 생명 <font color=\"red\">20%</font>로 <font color=\"blue\">부활</font> 및 무작위 '<font color=\"purple\">주문 준비</font>' 획득<br/>(해당 효과 쿨타임 <font color=\"red\">5</font>, 해당 쿨타임 동안에는 해당 <font color=\"purple\">주문 준비 진행 불가</font>",
+        "Desc": "피격으로 전투 진입 시, <font color=\"blue\">부대 근접 패널티 무효화</font>.<br/>물리 공격을 받아 사망 시 부대 생명 <font color=\"red\">20%</font>로 <font color=\"blue\">부활</font> 및 무작위 '<font color=\"blue\">주문 준비</font>' 획득<br/>(해당 효과 쿨타임 <font color=\"red\">5</font>, 해당 쿨타임 동안에는 해당 <font color=\"purple\">주문 준비 진행 불가</font>",
         "SubSkills": null,
         "Animation": null
       },

@@ -79,12 +79,15 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "눈꽃 날개의 축복",
+      "Stats": "지력 <font color=\"red\">+5%</font><br/>적이 <font color=\"purple\">눈부엉이</font> <font color=\"red\">2</font>칸 범위 안에서 이동력 <font color=\"red\">-1</font> 및 호위 불가와 사망 시 사그니의 모든 스킬 쿨타임 <font color=\"red\">-1</font>턴"
+    },
     "Equip": {
       "EqpName": "눈의 로브(갑옷)",
       "Stats": "생명 583, 방어 54",
       "Icon": "사그니.webp",
-      "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">살을 에는 추위</font> 사용 후, <font color=\"blue\">눈부엉이</font> 이동 횟수 <font color=\"red\">+1</font><br/>주위 <font color=\"red\">6</font>칸 범위 안에 자신이 부른 <font color=\"blue\">눈부엉이</font>가 있을 경우<br/>부활 <font color=\"red\">1</font>회<br/>(최대 <font color=\"red\">1</font>회 발동)"
+      "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">살을 에는 추위</font> 사용 후, <font color=\"purple\">눈부엉이</font> 이동 횟수 <font color=\"red\">+1</font><br/>주위 <font color=\"red\">6</font>칸 범위 안에 자신이 부른 <font color=\"purple\">눈부엉이</font>가 있을 경우<br/>부활 <font color=\"red\">1</font>회<br/>(최대 <font color=\"red\">1</font>회 발동)"
     },
     "Soldiers": [
       "마녀",
@@ -401,10 +404,10 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Sagny/1.webp",
-        "Desc": "범위 내에 한 칸을 선택해 '<font color=\"blue\">눈부엉이</font>'를 풀어 놓는다.<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸 가능<br/><font color=\"blue\">눈부엉이</font>는 <font color=\"red\">1</font> 마리만 존재할 수 있으며<br/>해당 스킬은 보유한 강화 효과의 지속 시간을 소모하지 않는다.<br/>해당 스킬은 사용 후 <font color=\"blue\">눈부엉이 감응</font>으로 변경.",
+        "Desc": "범위 내에 한 칸을 선택해 '<font color=\"purple\">눈부엉이</font>'를 풀어 놓는다.<br/>지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸 가능<br/><font color=\"purple\">눈부엉이</font>는 <font color=\"red\">1</font> 마리만 존재할 수 있으며<br/>해당 스킬은 보유한 강화 효과의 지속 시간을 소모하지 않는다.<br/>해당 스킬은 사용 후 <font color=\"blue\">눈부엉이 감응</font>으로 변경.",
         "SubSkills": [
           {
-            "Name": "<b><font color=\"blue\">눈부엉이 감응</font></b>",
+            "Name": "눈부엉이 감응",
             "Entries": [
               {
                 "Label": "유형",
@@ -412,7 +415,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/skills/Sagny/1_1.webp",
-            "Desc": "[지휘] 눈부엉이 주위 2칸 범위 안 적에게 피격 치명타 확률 <font color=\"red\">+10%</font><br/>[패시브] 스킬 사용 시 눈부엉이 주위 <font color=\"red\">2</font>칸 범위 안 지역을<br/>자신의 <font color=\"blue\">스킬 사거리</font> 및 <font color=\"blue\">원거리 병사와 함께 공격 가능</font>으로 간주한다.<br/>행동 종료 시 <font color=\"blue\">눈부엉이</font>를 선택해 이동 <font color=\"red\">2</font>칸 가능.<br/><font color=\"red\">1</font>회 한정.<br/><font color=\"blue\">눈부엉이</font>가 사라지면 해당 스킬은 <font color=\"blue\">살을 에는 추위</font>로 변경."
+            "Desc": "[지휘] <font color=\"purple\">눈부엉이</font> 주위 2칸 범위 안 적에게 피격 치명타 확률 <font color=\"red\">+10%</font><br/>[패시브] 스킬 사용 시 <font color=\"purple\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안 지역을<br/>자신의 <font color=\"blue\">스킬 사거리</font> 및 <font color=\"blue\">원거리 병사와 함께 공격 가능</font>으로 간주한다.<br/>행동 종료 시 <font color=\"purple\">눈부엉이</font>를 선택해 이동 <font color=\"red\">2</font>칸 가능.<br/><font color=\"red\">1</font>회 한정.<br/><font color=\"purple\">눈부엉이</font>가 사라지면 해당 스킬은 <font color=\"blue\">살을 에는 추위</font>로 변경."
           }
         ],
         "Animation": null
@@ -583,7 +586,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/사그니.webp",
-        "Desc": "[패시브]자신 주위 <font color=\"red\">3</font>칸 범위 안과 <font color=\"blue\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에 동시에 위치한 적과 교전 시 <font color=\"blue\">지력</font> <font color=\"red\">+15%</font><br/>[마법피해] 공격 범위 안 적에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">침묵</font>, <font color=\"blue\">재행동 불가</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>자신에게 '<font color=\"blue\">서리 봉쇄</font>' 효과 부여<br/><font color=\"blue\">서리 봉쇄</font> : 적이 <font color=\"blue\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에서 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>(지력 <font color=\"red\">1.5</font>배 수치)<br/>지속 <font color=\"red\">2</font>행동",
+        "Desc": "[패시브]자신 주위 <font color=\"red\">3</font>칸 범위 안과 <font color=\"purple\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에 동시에 위치한 적과 교전 시 <font color=\"blue\">지력</font> <font color=\"red\">+15%</font><br/>[마법피해] 공격 범위 안 적에게 <font color=\"red\">0.4</font>배 피해 및 <font color=\"blue\">침묵</font>, <font color=\"blue\">재행동 불가</font> 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>자신에게 '<font color=\"blue\">서리 봉쇄</font>' 효과 부여<br/><font color=\"blue\">서리 봉쇄</font> : 적이 <font color=\"purple\">눈부엉이</font> 주위 <font color=\"red\">2</font>칸 범위 안에서 행동 종료 시 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회<br/>(지력 <font color=\"red\">1.5</font>배 수치)<br/>지속 <font color=\"red\">2</font>행동",
         "SubSkills": null,
         "Animation": "../img/Super/사그니_Ani.webp"
       }

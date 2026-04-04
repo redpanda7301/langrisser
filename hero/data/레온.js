@@ -28,6 +28,10 @@ var data = [
       {
         "ImageUrl": "레온/sp.webp",
         "Desc": "SP 각성"
+      },
+      {
+        "ImageUrl": "레온/7.webp",
+        "Desc": "7주년 출석체크 보상"
       }
     ],
     "Name": "레온",
@@ -174,6 +178,9 @@ var data = [
           },
           {
             "ImageUrl": "레온/sp/1.webp"
+          },
+          {
+            "ImageUrl": "레온/7/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -218,6 +225,9 @@ var data = [
           },
           {
             "ImageUrl": "레온/sp/1.webp"
+          },
+          {
+            "ImageUrl": "레온/7/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -262,6 +272,9 @@ var data = [
           },
           {
             "ImageUrl": "레온/sp/1.webp"
+          },
+          {
+            "ImageUrl": "레온/7/1.webp"
           }
         ],
         "AttkRange": 1,
