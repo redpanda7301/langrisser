@@ -50,13 +50,13 @@ var data = [
       "인외"
     ],
     "HP": 20,
-    "SPHP": 0,
+    "SPHP": 25,
     "Attk": 10,
-    "SPAttk": 0,
+    "SPAttk": 15,
     "Def": 30,
-    "SPDef": 0,
+    "SPDef": 35,
     "MagicDef": 35,
-    "SPMagicDef": 0,
+    "SPMagicDef": 25,
     "HowToGet": "기본지급",
     "Fetters": [
       {

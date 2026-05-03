@@ -413,7 +413,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/skills/Brightsummoner/Skill_Brightunicorn_2.webp",
-            "Desc": "다른 아군을 선택<br/>자신이 보유한 모든 해제 가능한 버프 효과를 대상에게 복사 및<br/>목표의 병사를 빛의 유니콘으로 변경<br/>병사는 생명을 제외한 올스탯 <font color=\"red\">+10%</font><br/>부대에 이동력 감소 면역 및 야전 효과 부여,"
+            "Desc": "다른 아군을 선택<br/>자신이 보유한 모든 해제 가능한 버프 효과를 대상에게 복사 및<br/>목표의 병사를 빛의 유니콘으로 변경<br/>병사는 생명을 제외한 올스탯 <font color=\"red\">+10%</font><br/>부대에 이동력 감소 면역 및 야전 효과 부여"
           }
         ]
       },
