@@ -266,7 +266,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Bianca/Skill_Bianca_4.webp",
-        "Desc": "[패시브] 인접 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>주위 <font color=\"red\">2</font>칸 범위 안에 아군이 있을 경우, 사망 시 생명 <font color=\"red\">20%</font> 수치로 <font color=\"blue\">부활</font> (<font color=\"blue\">부활</font> 효과 쿨타임 <font color=\"red\">5</font>턴)<br/>[액티브] <font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 확장 및 <font color=\"blue\">바위 호위</font> 효과 획득<br/><font color=\"blue\">바위 호위</font> : 피격으로 전투 진입 시 <font color=\"blue\">2칸 원거리 공격 반격 가능</font> 및 전투 후 <font color=\"blue\">쉴드</font> 를 획득. <font color=\"blue\">호위</font> 발동 시 받는 피해량 <font color=\"red\">-20%</font> (지속 <font color=\"red\">3</font>턴)<br/><br/><font color=\"blue\">쉴드</font> : 최대 생명 <font color=\"red\">25%</font> 수치의 피해를 막아주며, <font color=\"blue\">피격 시 치명타가 발생하지 않음</font>",
+        "Desc": "[패시브] 인접 아군이 받는 모든 공격 <font color=\"blue\">호위</font><br/>주위 <font color=\"red\">2</font>칸 범위 안에 아군이 있을 경우, 사망 시 생명 <font color=\"red\">20%</font> 수치로 <font color=\"blue\">부활</font> (<font color=\"blue\">부활</font> 효과 쿨타임 <font color=\"red\">5</font>턴)<br/><br/>[액티브] <font color=\"blue\">호위</font> 범위가 <font color=\"red\">2</font>칸으로 확장 및 <font color=\"blue\">바위 호위</font> 효과 획득<br/><font color=\"blue\">바위 호위</font> : 피격으로 전투 진입 시 <font color=\"blue\">2칸 원거리 공격 반격 가능</font> 및 전투 후 <font color=\"blue\">쉴드</font> 를 획득. <font color=\"blue\">호위</font> 발동 시 받는 피해량 <font color=\"red\">-20%</font> (지속 <font color=\"red\">3</font>턴)<br/><br/><font color=\"blue\">쉴드</font> : 최대 생명 <font color=\"red\">25%</font> 수치의 피해를 막아주며, <font color=\"blue\">피격 시 치명타가 발생하지 않음</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -291,8 +291,8 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/Skill_Support.webp",
-        "Desc": "[패시브] 전장의 임의 부대가 사망한 후, 자신은 <font color=\"blue\">용의 불꽃</font> 및 <font color=\"blue\">야전</font> 효과 획득 (지속 <font color=\"red\">2</font>턴)<br/><font color=\"blue\">용의 불꽃</font> : <font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font>, 선공으로 전투 진입 전에 <font color=\"blue\">적의 방어구 효과 무효화 (최대 생명 제외)</font> 부여<br/>목표가 NPC일 경우 해당 효과는 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+25%</font> 로 대체 (지속 <font color=\"red\">2</font>턴)<br/><font color=\"blue\">야전</font>: 이동하는 모든 지형을 평지로 간주<br/>[물리피해] 단일 개체 <font color=\"red\">1.6</font>배 피해 및 <font color=\"blue\">다음에 스킬 피격으로 전투 진입 시 적의 해당 스킬 쿨 -<font color=\"red\">3</font>턴</font> 효과 부여<br/>전투 전에 목표에 인접한 다른 적이 없을 경우, 전투 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸<br/><font color=\"blue\">용의 불꽃</font> 보유 시 <font color=\"blue\">사거리</font> <font color=\"red\">+1</font> 및 <font color=\"blue\">근접전 병사 대동 시 함께 공격</font>",
+        "IconImageUrl": "../img/skills/Bianca/Skill_Bianca_5.webp",
+        "Desc": "[패시브] 전장의 임의 부대가 사망한 후, 자신은 <font color=\"blue\">용의 불꽃</font> 및 <font color=\"blue\">야전</font> 효과 획득 (지속 <font color=\"red\">2</font>턴)<br/><font color=\"blue\">용의 불꽃</font> : <font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font>, 선공으로 전투 진입 전에 <font color=\"blue\">적의 방어구 효과 무효화 (최대 생명 제외)</font> 부여<br/>목표가 NPC일 경우 해당 효과는 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+25%</font> 로 대체 (지속 <font color=\"red\">2</font>턴)<br/><font color=\"blue\">야전</font>: 이동하는 모든 지형을 평지로 간주<br/><br/>[물리피해] 단일 개체 <font color=\"red\">1.6</font>배 피해 및 <font color=\"blue\">다음에 스킬 피격으로 전투 진입 시 적의 해당 스킬 쿨 -<font color=\"red\">3</font>턴</font> 효과 부여<br/>전투 전에 목표에 인접한 다른 적이 없을 경우, 전투 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸<br/><font color=\"blue\">용의 불꽃</font> 보유 시 <font color=\"blue\">사거리</font> <font color=\"red\">+1</font> 및 <font color=\"blue\">근접전 병사 대동 시 함께 공격</font>",
         "SubSkills": null,
         "Animation": null
       },

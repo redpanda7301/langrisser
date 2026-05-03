@@ -83,7 +83,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "모든 문의 열쇠",
+      "Stats": "<font color=\"purple\">포탈</font> 설치 후 <font color=\"orange\">행동 종료시 자신 주변 <font color=\"red\">3</font>칸 이내에 아군의 <font color=\"purple\">포탈</font> 이 <font color=\"red\">2</font>개 이상 있을 경우 <font color=\"blue\">재공격</font> 가능 (발동 후 제거)</font> 효과를 획득 (<font color=\"blue\">해제 불가, 면역 불가</font>)<br/>자신이 아군의 <font color=\"purple\">포탈</font> 위에 있을 경우, <font color=\"blue\">원거리 스킬 사용 시 부대 사거리</font> <font color=\"red\">+2</font>"
+    },
     "Equip": {
       "EqpName": "아득한 수수께끼(갑옷)",
       "Stats": "생명 583, 방어 54",

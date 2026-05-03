@@ -68,23 +68,28 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "공격 방어 <font color=\"red\">+10%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+10%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
+            "Desc": "공격 방어 <font color=\"red\">+10%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"orange\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+10%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"orange\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
           },
           {
-            "Desc": "공격 방어 <font color=\"red\">+15%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+15%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
+            "Desc": "공격 방어 <font color=\"red\">+15%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"orange\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+15%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"orange\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
           },
           {
-            "Desc": "공격 방어 <font color=\"red\">+20%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+20%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
+            "Desc": "공격 방어 <font color=\"red\">+20%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"orange\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+20%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"orange\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
           },
           {
-            "Desc": "공격 방어 <font color=\"red\">+25%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"purple\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+25%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"purple\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
+            "Desc": "공격 방어 <font color=\"red\">+25%</font><br/>'드래곤' 과 교전 시 <font color=\"red\">2</font>배<br/>행동 종료 시, <font color=\"orange\">의지</font> 하나를 선택 가능(스킬정보에 서술)<br/>모든 의지를 보유 시 피해 <font color=\"red\">+25%</font>, 공격 후 <font color=\"blue\">재행동</font><br/><font color=\"orange\">의지</font> 효과는 <b>면역 및 해제 불가</b><br/><font color=\"blue\">재행동</font>은 매턴 <font color=\"red\">1</font>회만 발동 가능"
           }
         ]
       }
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "잊혀진 전설(갑옷)",
+      "Stats": "생명 437,방어 65",
+      "Icon": "이졸데.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"orange\">의지</font>를 획득할 때, 동시에 추가 효과를 획득<br/><font color=\"orange\">고립</font> : 사망 시 <font color=\"blue\">부활</font> (최대 <font color=\"red\">1</font>회 발동)<br/><font color=\"orange\">항쟁</font> : 자신의 모든 스킬 쿨타임 <font color=\"red\">-3</font>턴<br/><font color=\"orange\">존속</font> : 다음에 피해를 입었을 때, <font color=\"red\">1</font>회 <font color=\"blue\">재행동</font>"
+    },
     "Soldiers": [
       "로열 그리폰",
       "용기병",
@@ -219,7 +224,7 @@ var data = [
         "Desc": "턴 종료시 선택하여 사용한다.",
         "SubSkills": [
           {
-            "Name": "<b><font color=\"purple\">고립</font></b>",
+            "Name": "<b><font color=\"orange\">고립</font></b>",
             "Entries": [
               {
                 "Label": "유형",
@@ -234,7 +239,7 @@ var data = [
             "Desc": "<font color=\"blue\">호위 무시 공격</font> 부여"
           },
           {
-            "Name": "<b><font color=\"purple\">항쟁</font></b>",
+            "Name": "<b><font color=\"orange\">항쟁</font></b>",
             "Entries": [
               {
                 "Label": "유형",
@@ -249,7 +254,7 @@ var data = [
             "Desc": "<font color=\"blue\">스킬 피해량</font> <font color=\"red\">+25%</font>"
           },
           {
-            "Name": "<b><font color=\"purple\">존속</font></b>",
+            "Name": "<b><font color=\"orange\">존속</font></b>",
             "Entries": [
               {
                 "Label": "유형",
@@ -380,10 +385,10 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Isolde/2.webp",
-        "Desc": "<font color=\"purple\">의지</font>를 각성 시킨 스킬을 하나 선택, 쿨은 선택한 스킬 쿨을 따라감",
+        "Desc": "<font color=\"orange\">의지</font>를 각성 시킨 스킬을 하나 선택, 쿨은 선택한 스킬 쿨을 따라감",
         "SubSkills": [
           {
-            "Name": "<b><font color=\"purple\">고립</font> - <font color=\"blue\">용혼역인</font></b>",
+            "Name": "<b><font color=\"orange\">고립</font> - <font color=\"blue\">용혼역인</font></b>",
             "Entries": [
               {
                 "Label": "유형",
@@ -406,7 +411,7 @@ var data = [
             "Desc": "단일 개체 <font color=\"red\">1.4</font>배 피해<br/>해당 피해는 <font color=\"blue\">마법 피해로 간주</font><br/><font color=\"blue\">근접전 병사 대동 시 병사 역시 함께 공격</font><br/><font color=\"blue\">해당 스킬은 근접전 패널티를 받지 않음</font><br/>공격 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸"
           },
           {
-            "Name": "<b><font color=\"purple\">항쟁</font> - <font color=\"blue\">용면환계</font></b>",
+            "Name": "<b><font color=\"orange\">항쟁</font> - <font color=\"blue\">용면환계</font></b>",
             "Entries": [
               {
                 "Label": "유형",
@@ -429,7 +434,7 @@ var data = [
             "Desc": "주위 <font color=\"red\">2</font>칸 범위 안 적에게 <font color=\"red\">0.36</font>배 피해 및 '<font color=\"blue\">강화 불가</font>' '<font color=\"blue\">부활 불가</font>' 효과 부여<br/>지속 <font color=\"red\">2</font>행동<br/>(<font color=\"blue\">부활 불가</font>는 아레나에서만 발동)"
           },
           {
-            "Name": "<b><font color=\"purple\">존속</font> - <font color=\"blue\">용우생식</font></b>",
+            "Name": "<b><font color=\"orange\">존속</font> - <font color=\"blue\">용우생식</font></b>",
             "Entries": [
               {
                 "Label": "유형",
@@ -530,7 +535,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/이졸데.webp",
-        "Desc": "[패시브]<font color=\"purple\">고유 스킬</font>로 <font color=\"purple\">의지</font> 획득 및 <font color=\"purple\">고유 스킬</font> <font color=\"blue\">재행동</font> 발동 후<br/>'<font color=\"A0A0A0\">초월영역</font>' 아군 공방 대폭 증가 및 '<font color=\"blue\">근접 공격 시 피해</font> <font color=\"red\">+15%</font>, <font color=\"blue\">받는 반사 피해</font> <font color=\"red\">-30%</font>' 효과 부여<br/>지속 <font color=\"red\">4</font>행동<br/>해당 효과는 다른 초절 강화와 중첩 불가<br/>[액티브] 단일 개체 <font color=\"red\">1.6</font>배 피해. <font color=\"red\">2</font>종류 이상의 <font color=\"purple\">의지</font> 보유 시, 해당 전투에서 적은  <font color=\"blue\">공격 불가</font><br/>전투 후 목표 및 목표 뒤  <font color=\"red\">3</font>줄 직선상  <font color=\"red\">3</font>칸 범위 안 적에게  <font color=\"red\">0.3</font>배 피해<br/>해당 스킬로 적 격파 시, 아직 보유하지 않은  <font color=\"purple\">의지</font>  <font color=\"red\">1</font>종을 무작위 획득.",
+        "Desc": "[패시브]<font color=\"purple\">고유 스킬</font>로 <font color=\"orange\">의지</font> 획득 및 <font color=\"purple\">고유 스킬</font> <font color=\"blue\">재행동</font> 발동 후<br/>'<font color=\"A0A0A0\">초월영역</font>' 아군 공방 대폭 증가 및 '<font color=\"blue\">근접 공격 시 피해</font> <font color=\"red\">+15%</font>, <font color=\"blue\">받는 반사 피해</font> <font color=\"red\">-30%</font>' 효과 부여<br/>지속 <font color=\"red\">4</font>행동<br/>해당 효과는 다른 초절 강화와 중첩 불가<br/>[액티브] 단일 개체 <font color=\"red\">1.6</font>배 피해. <font color=\"red\">2</font>종류 이상의 <font color=\"orange\">의지</font> 보유 시, 해당 전투에서 적은  <font color=\"blue\">공격 불가</font><br/>전투 후 목표 및 목표 뒤  <font color=\"red\">3</font>줄 직선상  <font color=\"red\">3</font>칸 범위 안 적에게  <font color=\"red\">0.3</font>배 피해<br/>해당 스킬로 적 격파 시, 아직 보유하지 않은  <font color=\"orange\">의지</font>  <font color=\"red\">1</font>종을 무작위 획득.",
         "SubSkills": null,
         "Animation": "../img/Super/이졸데_Ani.webp"
       }
