@@ -41,7 +41,7 @@ var data = [
         "Condition": "호프만을 출전시켜 시공의 균열 3-1 [정예] 클리어"
       },
       {
-        "Condition": "방패 검사 원수 전직"
+        "Condition": "호프만을 방패 검사 원수로 전직"
       },
       {
         "Condition": "애쉬엔의 도움을 받아 운명의문5 클리어"
@@ -75,7 +75,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "철벽의 사령관",
+      "Stats": "공격, 방어 <font color=\"red\">+5%</font><br/>주위 <font color=\"red\">3</font>칸 범위 안에 자신이 소환한 <font color=\"purple\">왕국의 방패</font>가 있을 경우, <font color=\"blue\">범위 피해 스킬의 범위</font> <font color=\"red\">+1</font>"
+    },
     "Equip": {
       "EqpName": "녹과 영광(갑옷)",
       "Stats": "생명 437,방어 65",

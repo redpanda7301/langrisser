@@ -64,23 +64,28 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "전투 진입 시 주는 피해량 <font color=\"red\">+15%</font><br/>처음 시작 시 '<font color=\"purple\">성스러운 항쇄</font>' 보유<br/><font color=\"purple\">성스러운 항쇄</font> : 받는 피해  <font color=\"purple\">-15%</font>, <font color=\"blue\">모든 디버프 면역</font><br/>면역 효과 발동 시 '<font color=\"purple\">용솟음치는 분노</font>' 획득, 해제 불가<br/><font color=\"purple\">용솟음치는 분노</font> : 치명타 확률 <font color=\"red\">+15%</font>, 중첩 가능, 해제 불가<br/><font color=\"purple\">용솟음치는 분노</font> <font color=\"red\">4</font>개 이상일 경우, 위험 범위 안에서 행동 종료 시 <font color=\"purple\">성스러운 항쇄</font> 제거<br/>자신이 보유한 버프의 지속 시간이 감소하지 않으며 <font color=\"blue\">재행동</font><br/><font color=\"purple\">성스러운 항쇄</font>가 없을 경우<br/>전투 진입 시 <font color=\"blue\">적의 방어가 마방 이상일 경우 해당 전투는 마법 피해로 간주</font><br/>행동 종료 시 모든 <font color=\"purple\">용솟음치는 분노</font>를 제거하고 <font color=\"purple\">성스러운 항쇄</font> 획득"
+            "Desc": "전투 진입 시 주는 피해량 <font color=\"red\">+15%</font><br/>처음 시작 시 <font color=\"blue\">성스러운 항쇄</font> 보유<br/><font color=\"blue\">성스러운 항쇄</font> : 받는 피해  <font color=\"purple\">-15%</font>, <font color=\"blue\">모든 디버프 면역</font><br/>면역 효과 발동 시 <font color=\"blue\">용솟음치는 분노</font> 획득, 해제 불가<br/><font color=\"blue\">용솟음치는 분노</font> : 치명타 확률 <font color=\"red\">+15%</font>, 중첩 가능, 해제 불가<br/><font color=\"blue\">용솟음치는 분노</font> <font color=\"red\">4</font>개 이상일 경우, 위험 범위 안에서 행동 종료 시 <font color=\"blue\">성스러운 항쇄</font> 제거<br/>자신이 보유한 버프의 지속 시간이 감소하지 않으며 <font color=\"blue\">재행동</font><br/><font color=\"blue\">성스러운 항쇄</font>가 없을 경우<br/>전투 진입 시 <font color=\"blue\">적의 방어가 마방 이상일 경우 해당 전투는 마법 피해로 간주</font><br/>행동 종료 시 모든 <font color=\"blue\">용솟음치는 분노</font>를 제거하고 <font color=\"blue\">성스러운 항쇄</font> 획득"
           },
           {
-            "Desc": "전투 진입 시 주는 피해량 <font color=\"red\">+20%</font><br/>처음 시작 시 '<font color=\"purple\">성스러운 항쇄</font>' 보유<br/><font color=\"purple\">성스러운 항쇄</font> : 받는 피해  <font color=\"purple\">-20%</font>, <font color=\"blue\">모든 디버프 면역</font><br/>면역 효과 발동 시 '<font color=\"purple\">용솟음치는 분노</font>' 획득, 해제 불가<br/><font color=\"purple\">용솟음치는 분노</font> : 치명타 확률 <font color=\"red\">+15%</font>, 중첩 가능, 해제 불가<br/><font color=\"purple\">용솟음치는 분노</font> <font color=\"red\">4</font>개 이상일 경우, 위험 범위 안에서 행동 종료 시 <font color=\"purple\">성스러운 항쇄</font> 제거<br/>자신이 보유한 버프의 지속 시간이 감소하지 않으며 <font color=\"blue\">재행동</font><br/><font color=\"purple\">성스러운 항쇄</font>가 없을 경우<br/>전투 진입 시 <font color=\"blue\">적의 방어가 마방 이상일 경우 해당 전투는 마법 피해로 간주</font><br/>행동 종료 시 모든 <font color=\"purple\">용솟음치는 분노</font>를 제거하고 <font color=\"purple\">성스러운 항쇄</font> 획득"
+            "Desc": "전투 진입 시 주는 피해량 <font color=\"red\">+20%</font><br/>처음 시작 시 <font color=\"blue\">성스러운 항쇄</font> 보유<br/><font color=\"blue\">성스러운 항쇄</font> : 받는 피해  <font color=\"purple\">-20%</font>, <font color=\"blue\">모든 디버프 면역</font><br/>면역 효과 발동 시 <font color=\"blue\">용솟음치는 분노</font> 획득, 해제 불가<br/><font color=\"blue\">용솟음치는 분노</font> : 치명타 확률 <font color=\"red\">+15%</font>, 중첩 가능, 해제 불가<br/><font color=\"blue\">용솟음치는 분노</font> <font color=\"red\">4</font>개 이상일 경우, 위험 범위 안에서 행동 종료 시 <font color=\"blue\">성스러운 항쇄</font> 제거<br/>자신이 보유한 버프의 지속 시간이 감소하지 않으며 <font color=\"blue\">재행동</font><br/><font color=\"blue\">성스러운 항쇄</font>가 없을 경우<br/>전투 진입 시 <font color=\"blue\">적의 방어가 마방 이상일 경우 해당 전투는 마법 피해로 간주</font><br/>행동 종료 시 모든 <font color=\"blue\">용솟음치는 분노</font>를 제거하고 <font color=\"blue\">성스러운 항쇄</font> 획득"
           },
           {
-            "Desc": "전투 진입 시 주는 피해량 <font color=\"red\">+25%</font><br/>처음 시작 시 '<font color=\"purple\">성스러운 항쇄</font>' 보유<br/><font color=\"purple\">성스러운 항쇄</font> : 받는 피해  <font color=\"purple\">-25%</font>, <font color=\"blue\">모든 디버프 면역</font><br/>면역 효과 발동 시 '<font color=\"purple\">용솟음치는 분노</font>' 획득, 해제 불가<br/><font color=\"purple\">용솟음치는 분노</font> : 치명타 확률 <font color=\"red\">+15%</font>, 중첩 가능, 해제 불가<br/><font color=\"purple\">용솟음치는 분노</font> <font color=\"red\">4</font>개 이상일 경우, 위험 범위 안에서 행동 종료 시 <font color=\"purple\">성스러운 항쇄</font> 제거<br/>자신이 보유한 버프의 지속 시간이 감소하지 않으며 <font color=\"blue\">재행동</font><br/><font color=\"purple\">성스러운 항쇄</font>가 없을 경우<br/>전투 진입 시 <font color=\"blue\">적의 방어가 마방 이상일 경우 해당 전투는 마법 피해로 간주</font><br/>행동 종료 시 모든 <font color=\"purple\">용솟음치는 분노</font>를 제거하고 <font color=\"purple\">성스러운 항쇄</font> 획득"
+            "Desc": "전투 진입 시 주는 피해량 <font color=\"red\">+25%</font><br/>처음 시작 시 <font color=\"blue\">성스러운 항쇄</font> 보유<br/><font color=\"blue\">성스러운 항쇄</font> : 받는 피해  <font color=\"purple\">-25%</font>, <font color=\"blue\">모든 디버프 면역</font><br/>면역 효과 발동 시 <font color=\"blue\">용솟음치는 분노</font> 획득, 해제 불가<br/><font color=\"blue\">용솟음치는 분노</font> : 치명타 확률 <font color=\"red\">+15%</font>, 중첩 가능, 해제 불가<br/><font color=\"blue\">용솟음치는 분노</font> <font color=\"red\">4</font>개 이상일 경우, 위험 범위 안에서 행동 종료 시 <font color=\"blue\">성스러운 항쇄</font> 제거<br/>자신이 보유한 버프의 지속 시간이 감소하지 않으며 <font color=\"blue\">재행동</font><br/><font color=\"blue\">성스러운 항쇄</font>가 없을 경우<br/>전투 진입 시 <font color=\"blue\">적의 방어가 마방 이상일 경우 해당 전투는 마법 피해로 간주</font><br/>행동 종료 시 모든 <font color=\"blue\">용솟음치는 분노</font>를 제거하고 <font color=\"blue\">성스러운 항쇄</font> 획득"
           },
           {
-            "Desc": "전투 진입 시 주는 피해량 <font color=\"red\">+30%</font><br/>처음 시작 시 '<font color=\"purple\">성스러운 항쇄</font>' 보유<br/><font color=\"purple\">성스러운 항쇄</font> : 받는 피해  <font color=\"purple\">-30%</font>, <font color=\"blue\">모든 디버프 면역</font><br/>면역 효과 발동 시 '<font color=\"purple\">용솟음치는 분노</font>' 획득, 해제 불가<br/><font color=\"purple\">용솟음치는 분노</font> : 치명타 확률 <font color=\"red\">+15%</font>, 중첩 가능, 해제 불가<br/><font color=\"purple\">용솟음치는 분노</font> <font color=\"red\">4</font>개 이상일 경우, 위험 범위 안에서 행동 종료 시 <font color=\"purple\">성스러운 항쇄</font> 제거<br/>자신이 보유한 버프의 지속 시간이 감소하지 않으며 <font color=\"blue\">재행동</font><br/><font color=\"purple\">성스러운 항쇄</font>가 없을 경우<br/>전투 진입 시 <font color=\"blue\">적의 방어가 마방 이상일 경우 해당 전투는 마법 피해로 간주</font><br/>행동 종료 시 모든 <font color=\"purple\">용솟음치는 분노</font>를 제거하고 <font color=\"purple\">성스러운 항쇄</font> 획득"
+            "Desc": "전투 진입 시 주는 피해량 <font color=\"red\">+30%</font><br/>처음 시작 시 <font color=\"blue\">성스러운 항쇄</font> 보유<br/><font color=\"blue\">성스러운 항쇄</font> : 받는 피해  <font color=\"purple\">-30%</font>, <font color=\"blue\">모든 디버프 면역</font><br/>면역 효과 발동 시 <font color=\"blue\">용솟음치는 분노</font> 획득, 해제 불가<br/><font color=\"blue\">용솟음치는 분노</font> : 치명타 확률 <font color=\"red\">+15%</font>, 중첩 가능, 해제 불가<br/><font color=\"blue\">용솟음치는 분노</font> <font color=\"red\">4</font>개 이상일 경우, 위험 범위 안에서 행동 종료 시 <font color=\"blue\">성스러운 항쇄</font> 제거<br/>자신이 보유한 버프의 지속 시간이 감소하지 않으며 <font color=\"blue\">재행동</font><br/><font color=\"blue\">성스러운 항쇄</font>가 없을 경우<br/>전투 진입 시 <font color=\"blue\">적의 방어가 마방 이상일 경우 해당 전투는 마법 피해로 간주</font><br/>행동 종료 시 모든 <font color=\"blue\">용솟음치는 분노</font>를 제거하고 <font color=\"blue\">성스러운 항쇄</font> 획득"
           }
         ]
       }
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "잃어버린 여명(투구)",
+      "Stats": "생명 583,마방 48",
+      "Icon": "이미르.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/><font color=\"blue\">성스러운 항쇄</font> 보유 시, 피격으로 피해를 입으면 <font color=\"blue\">용솟음치는 분노</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"blue\">성스러운 항쇄</font> 미보유 시, 선공으로 전투 진입 후 디버프가 없는 모든 아군에게 자신의 <font color=\"blue\">용솟음치는 분노</font> 수량에 따라 <font color=\"blue\">랜덤한 버프</font> 부여 (최대 <font color=\"red\">4</font>개)"
+    },
     "Soldiers": [
       "중장 해골",
       "오크 광전사",
@@ -210,7 +215,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Ymir/1.webp",
-        "Desc": "[지휘] 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군이 행동 종료 시 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거<br/><font color=\"blue\">제거</font> 성공 시 해당 스킬 보유자는 <font color=\"purple\">용솟음치는 분노</font> <font color=\"red\">1</font>개 획득<br/>[액티브]부대 최대 생명 <font color=\"red\">30%</font> <font color=\"green\">회복</font> 및 <font color=\"blue\">무작위 버프</font><font color=\"red\">4</font>개와 <font color=\"blue\">디버프</font> 획득<br/>자신이 보유한 <font color=\"purple\">용솟음치는 분노</font> <font color=\"red\">1</font>개당 해당 스킬 쿨타임과 해당 스킬로 얻는 효과 수량 <font color=\"red\">-1</font>",
+        "Desc": "[지휘] 주위 <font color=\"red\">3</font>칸 범위 안 다른 아군이 행동 종료 시 <font color=\"blue\">디버프</font> <font color=\"red\">1</font>개 <font color=\"blue\">제거</font><br/><font color=\"blue\">제거</font> 성공 시 해당 스킬 보유자는 <font color=\"blue\">용솟음치는 분노</font> <font color=\"red\">1</font>개 획득<br/>[액티브]부대 최대 생명 <font color=\"red\">30%</font> 회복 및 <font color=\"blue\">무작위 버프</font> <font color=\"red\">4</font>개와 <font color=\"blue\">디버프</font> 획득<br/>자신이 보유한 <font color=\"blue\">용솟음치는 분노</font> <font color=\"red\">1</font>개당 해당 스킬 쿨타임과 해당 스킬로 얻는 효과 수량 <font color=\"red\">-1</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -330,7 +335,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Ymir/2.webp",
-        "Desc": "단일 개체 <font color =\"red\">1.5</font>배 피해<br/>적이 <font color=\"blue\">디버프</font> 보유 시, 해당 전투에서 부대 공격력 <font color =\"red\">+20%</font><br/>전투 진입 전, 적에게 자신이 보유한 <font color=\"purple\">용솟음치는 분노</font>와 동일한 수량의 <font color=\"blue\">무작위 디버프</font> 부여 (최대 <font color=\"red\">4</font>개)",
+        "Desc": "단일 개체 <font color =\"red\">1.5</font>배 피해<br/>적이 <font color=\"blue\">디버프</font> 보유 시, 해당 전투에서 부대 공격력 <font color =\"red\">+20%</font><br/>전투 진입 전, 적에게 자신이 보유한 <font color=\"blue\">용솟음치는 분노</font>와 동일한 수량의 <font color=\"blue\">무작위 디버프</font> 부여 (최대 <font color=\"red\">4</font>개)",
         "SubSkills": null,
         "Animation": null
       },
@@ -356,7 +361,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/이미르.webp",
-        "Desc": "[패시브] <font color=\"purple\">성스러운 항쇄</font>가 없을 경우 이동력 <font color=\"red\">+2</font>, 행동 종료 시, 보유한 <font color=\"purple\">용솟음치는 분노</font> <font color=\"red\">1</font>개당 부대 생명 <font color=\"red\">10%</font> 회복<br/>[물리 피해]단일 개체 <font color=\"red\">1.7</font>배 피해, 적이 <font color=\"blue\">디버프</font> 보유 시, 해당 전투는 <font color=\"blue\">부활 효과 발동 불가</font><br/>자신이 보유한 <font color=\"purple\">용솟음치는 분노</font> <font color=\"red\">1</font>개당 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 <font color=\"blue\">디버프</font>로 <font color=\"blue\">변환</font>적을 격파하지 못한 경우, 다음 턴 시작 시 <font color=\"purple\">용솟음치는 분노</font> <font color=\"red\">4</font>개 획득<br/>(<font color=\"purple\">성스러운 항쇄</font>가 있을 경우 즉시 획득)<br/>적을 격파했을 경우 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸<br/><b>부활 불가는 아레나에서만 발동</b>",
+        "Desc": "[패시브] <font color=\"blue\">성스러운 항쇄</font>가 없을 경우 이동력 <font color=\"red\">+2</font>, 행동 종료 시, 보유한 <font color=\"blue\">용솟음치는 분노</font> <font color=\"red\">1</font>개당 부대 생명 <font color=\"red\">10%</font> 회복<br/>[물리 피해]단일 개체 <font color=\"red\">1.7</font>배 피해, 적이 <font color=\"blue\">디버프</font> 보유 시, 해당 전투는 <font color=\"blue\">부활 효과 발동 불가</font><br/>자신이 보유한 <font color=\"blue\">용솟음치는 분노</font> <font color=\"red\">1</font>개당 전투 전 적의 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개를 <font color=\"blue\">디버프</font>로 <font color=\"blue\">변환</font>적을 격파하지 못한 경우, 다음 턴 시작 시 <font color=\"blue\">용솟음치는 분노</font> <font color=\"red\">4</font>개 획득<br/>(<font color=\"blue\">성스러운 항쇄</font>가 있을 경우 즉시 획득)<br/>적을 격파했을 경우 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸<br/><b>부활 불가는 아레나에서만 발동</b>",
         "SubSkills": null,
         "Animation": "../img/Super/이미르_Ani.webp"
       }
