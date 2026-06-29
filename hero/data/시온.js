@@ -271,7 +271,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Shion/Skill_Shion_3.webp",
-        "Desc": "범위 내 모든 '<font color=\"red\">시대의 주역</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승한다.<br/><font color=\"blue\">단일 스킬</font> 사용 시 피해량 <font color=\"red\">+12%</font><br/><font color=\"blue\">단일 스킬</font>로 적 격파 시 해당 스킬 쿨타임<font color=\"red\">-1</font><br/>지속 <font color=\"red\">4</font>행동<br/>해당 <font color=\"blue\">초절 강화 특수 효과</font>는 다른 <font color=\"blue\">초절 강화 특수 효과</font>와 중복 불가능",
+        "Desc": "범위 내 모든 '<font color=\"red\">시대의 주역</font>' 아군의 <br/>공격, 방어 능력치가 크게 상승한다.<br/><font color=\"blue\">단일 스킬</font> 사용 시 피해량 <font color=\"red\">+12%</font><br/><font color=\"blue\">단일 스킬</font>로 적을 격파하지 못했을 시 해당 스킬 쿨타임<font color=\"red\">-1</font><br/>지속 <font color=\"red\">4</font>행동<br/>해당 <font color=\"blue\">초절 강화 특수 효과</font>는 다른 <font color=\"blue\">초절 강화 특수 효과</font>와 중복 불가능",
         "SubSkills": null,
         "Animation": null
       },
@@ -389,7 +389,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/시온.webp",
-        "Desc": "[패시브]처음 행동 종료 및 해당 스킬을 사용 시, 전장의 <font color=\"red\">주인공의 빛</font> 진영 아군 공방 대폭 증가 및<br/>전투 중 <font color=\"blue\">주는 피해량</font> <font color=\"red\">+15</font>%<br/><font color=\"blue\">단일 스킬</font>로 적 격파 시 해당 스킬 쿨타임 <font color=\"red\">-1</font>, 지속 <font color=\"red\">4</font>행동<br/>[물리피해]단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font><br/><font color=\"red\">2</font>명 이상의 아군이 <font color=\"red\">사망</font>한 상태라면<br/>전투 전 '<font color=\"blue\">천명</font>' 효과 획득<br/>해당 스킬로 적을 격파하지 못했을 경우 <font color=\"blue\">재행동</font>(쿨타임 <font color=\"red\">2</font>행동)<br/><font color=\"blue\">천명</font> : 선공으로 전투 진입 시 피해 <font color=\"red\">+30</font>% 및 <font color=\"blue\">선제 공격</font><br/>'<font color=\"purple\">왕명</font>' 발동으로 효과 획득 시 <font color=\"blue\">천명</font> 효과 지속 시간 <font color=\"red\">+1</font><br/>지속 <font color=\"red\">2</font>행동<br/>해제 불가.<br/><font color=\"blue\">천명</font>과 <font color=\"purple\">왕명</font>은 동시 부여 불가<br/><font color=\"purple\">왕명</font>효과 부여 받았을 시 <font color=\"blue\">천명</font>으로 대체",
+        "Desc": "[패시브]처음 행동 종료 및 해당 스킬을 사용 시, 전장의 <font color=\"red\">주인공의 빛</font> 진영 아군 공방 대폭 증가 및<br/>전투 중 <font color=\"blue\">주는 피해량</font> <font color=\"red\">+15</font>%<br/><font color=\"blue\">단일 스킬</font>로 적을 격파하지 못했을 시 해당 스킬 쿨타임 <font color=\"red\">-1</font>, 지속 <font color=\"red\">4</font>행동<br/>[물리피해]단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font><br/><font color=\"red\">2</font>명 이상의 아군이 <font color=\"red\">사망</font>한 상태라면<br/>전투 전 '<font color=\"blue\">천명</font>' 효과 획득<br/>해당 스킬로 적을 격파하지 못했을 경우 <font color=\"blue\">재행동</font>(쿨타임 <font color=\"red\">2</font>행동)<br/><font color=\"blue\">천명</font> : 선공으로 전투 진입 시 피해 <font color=\"red\">+30</font>% 및 <font color=\"blue\">선제 공격</font><br/>'<font color=\"purple\">왕명</font>' 발동으로 효과 획득 시 <font color=\"blue\">천명</font> 효과 지속 시간 <font color=\"red\">+1</font><br/>지속 <font color=\"red\">2</font>행동<br/>해제 불가.<br/><font color=\"blue\">천명</font>과 <font color=\"purple\">왕명</font>은 동시 부여 불가<br/><font color=\"purple\">왕명</font>효과 부여 받았을 시 <font color=\"blue\">천명</font>으로 대체",
         "SubSkills": null,
         "Animation": "../img/Super/시온_Ani.webp"
       }

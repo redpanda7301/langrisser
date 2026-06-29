@@ -48,7 +48,7 @@ var data = [
           "Condition": "비리아와 함께 운명의문4"
         },
         {
-          "Condition": "원소 소환사 전직"
+          "Condition": "사프린을 원소 소환사로 전직"
         }
       ],
       "HeartFetter": "생명+750, 방어+50, 마방+50",
