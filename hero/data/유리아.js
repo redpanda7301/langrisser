@@ -28,6 +28,10 @@ var data = [
       {
         "ImageUrl": "유리아/7.webp",
         "Desc": "한정 판매"
+      },
+      {
+        "ImageUrl": "유리아/8.webp",
+        "Desc": "SP 각성"
       }
     ],
     "Name": "유리아",
@@ -38,20 +42,20 @@ var data = [
     "Rank": [
       0
     ],
-    "SP": false,
+    "SP": true,
     "Groups": [
       "빛군",
       "공주",
       "인외"
     ],
     "HP": 15,
-    "SPHP": 0,
+    "SPHP": 20,
     "Attk": 40,
-    "SPAttk": 0,
+    "SPAttk": 40,
     "Def": 10,
-    "SPDef": 0,
+    "SPDef": 15,
     "MagicDef": 35,
-    "SPMagicDef": 0,
+    "SPMagicDef": 25,
     "HowToGet": "영웅 소환",
     "Fetters": [
       {
@@ -94,7 +98,32 @@ var data = [
         ]
       }
     ],
-    "SPTalent": null,
+    "SPTalent": [
+      {
+        "Name": "신성한 화로의 마음",
+        "Icon": "Gift_Temp.webp",
+        "Abilities": [
+          {
+            "Desc": "1성"
+          },
+          {
+            "Desc": "2성"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/><font color=\"blue\">주는 피해량</font> <font color=\"red\">+10%</font><br/>전투 후 입힌 피해량 <font color=\"red\">10%</font> 수치 <font color=\"blue\">생명 회복</font><br/>전투 시작 시 및 위험 범위에서 행동 종료 시 <font color=\"orange\">검의 메아리</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"orange\">검의 메아리</font> : <font color=\"blue\">방어, 마방</font> <font color=\"red\">+5%</font> (최대 <font color=\"red\">10</font>중첩, <font color=\"blue\">면역 및 해제 불가</font>)<br/><br/>행동 종료 시 <font color=\"blue\">신성한 화로의 가호</font>를 발동하여 효과 획득 가능<br/><font color=\"blue\">신성한 화로의 가호</font> : <font color=\"blue\">지력</font> <font color=\"red\">+20%</font> 및 <font color=\"blue\">이동 시 적 통과 가능, 전투 후 <font color=\"orange\">검의 메아리</font> <font color=\"red\">2</font>스택 획득 (지속 <font color=\"red\">3</font>턴, <font color=\"blue\">해제 불가</font>)</font> 효과와 <font color=\"blue\">행동 종료 시 <font color=\"orange\">검의 메아리</font> <font color=\"red\">3</font>개를 제거해 재공격, 발동 후 이 효과 제거</font> 효과를 획득 (<font color=\"blue\">해제 불가</font>) (효과 쿨 <font color=\"red\">4</font>턴)<br/><br/>사망 시 <font color=\"blue\">생명 <font color=\"red\">30%</font>로 부활</font> (시작 시 <font color=\"red\">2</font>스택, 고유 스킬 재행동 발동 시 추가 <font color=\"red\">+1</font>, 최대 <font color=\"red\">3</font>스택)"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/><font color=\"blue\">주는 피해량</font> <font color=\"red\">+15%</font><br/>전투 후 입힌 피해량 <font color=\"red\">15%</font> 수치 <font color=\"blue\">생명 회복</font><br/>전투 시작 시 및 위험 범위에서 행동 종료 시 <font color=\"orange\">검의 메아리</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"orange\">검의 메아리</font> : <font color=\"blue\">방어, 마방</font> <font color=\"red\">+5%</font> (최대 <font color=\"red\">10</font>중첩, <font color=\"blue\">면역 및 해제 불가</font>)<br/><br/>행동 종료 시 <font color=\"blue\">신성한 화로의 가호</font>를 발동하여 효과 획득 가능<br/><font color=\"blue\">신성한 화로의 가호</font> : <font color=\"blue\">지력</font> <font color=\"red\">+20%</font> 및 <font color=\"blue\">이동 시 적 통과 가능, 전투 후 <font color=\"orange\">검의 메아리</font> <font color=\"red\">2</font>스택 획득 (지속 <font color=\"red\">3</font>턴, <font color=\"blue\">해제 불가</font>)</font> 효과와 <font color=\"blue\">행동 종료 시 <font color=\"orange\">검의 메아리</font> <font color=\"red\">3</font>개를 제거해 재공격, 발동 후 이 효과 제거</font> 효과를 획득 (<font color=\"blue\">해제 불가</font>) (효과 쿨 <font color=\"red\">4</font>턴)<br/><br/>사망 시 <font color=\"blue\">생명 <font color=\"red\">30%</font>로 부활</font> (시작 시 <font color=\"red\">2</font>스택, 고유 스킬 재행동 발동 시 추가 <font color=\"red\">+1</font>, 최대 <font color=\"red\">3</font>스택)"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/><font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font><br/>전투 후 입힌 피해량 <font color=\"red\">20%</font> 수치 <font color=\"blue\">생명 회복</font><br/>전투 시작 시 및 위험 범위에서 행동 종료 시 <font color=\"orange\">검의 메아리</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"orange\">검의 메아리</font> : <font color=\"blue\">방어, 마방</font> <font color=\"red\">+5%</font> (최대 <font color=\"red\">10</font>중첩, <font color=\"blue\">면역 및 해제 불가</font>)<br/><br/>행동 종료 시 <font color=\"blue\">신성한 화로의 가호</font>를 발동하여 효과 획득 가능<br/><font color=\"blue\">신성한 화로의 가호</font> : <font color=\"blue\">지력</font> <font color=\"red\">+20%</font> 및 <font color=\"blue\">이동 시 적 통과 가능, 전투 후 <font color=\"orange\">검의 메아리</font> <font color=\"red\">2</font>스택 획득 (지속 <font color=\"red\">3</font>턴, <font color=\"blue\">해제 불가</font>)</font> 효과와 <font color=\"blue\">행동 종료 시 <font color=\"orange\">검의 메아리</font> <font color=\"red\">3</font>개를 제거해 재공격, 발동 후 이 효과 제거</font> 효과를 획득 (<font color=\"blue\">해제 불가</font>) (효과 쿨 <font color=\"red\">4</font>턴)<br/><br/>사망 시 <font color=\"blue\">생명 <font color=\"red\">30%</font>로 부활</font> (시작 시 <font color=\"red\">2</font>스택, 고유 스킬 재행동 발동 시 추가 <font color=\"red\">+1</font>, 최대 <font color=\"red\">3</font>스택)"
+          },
+          {
+            "Desc": "<b>스킬 코스트 제한 해제</b><br/><font color=\"blue\">주는 피해량</font> <font color=\"red\">+30%</font><br/>전투 후 입힌 피해량 <font color=\"red\">30%</font> 수치 <font color=\"blue\">생명 회복</font><br/>전투 시작 시 및 위험 범위에서 행동 종료 시 <font color=\"orange\">검의 메아리</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"orange\">검의 메아리</font> : <font color=\"blue\">방어, 마방</font> <font color=\"red\">+5%</font> (최대 <font color=\"red\">10</font>중첩, <font color=\"blue\">면역 및 해제 불가</font>)<br/><br/>행동 종료 시 <font color=\"blue\">신성한 화로의 가호</font>를 발동하여 효과 획득 가능<br/><font color=\"blue\">신성한 화로의 가호</font> : <font color=\"blue\">지력</font> <font color=\"red\">+20%</font> 및 <font color=\"blue\">이동 시 적 통과 가능, 전투 후 <font color=\"orange\">검의 메아리</font> <font color=\"red\">2</font>스택 획득 (지속 <font color=\"red\">3</font>턴, <font color=\"blue\">해제 불가</font>)</font> 효과와 <font color=\"blue\">행동 종료 시 <font color=\"orange\">검의 메아리</font> <font color=\"red\">3</font>개를 제거해 재공격, 발동 후 이 효과 제거</font> 효과를 획득 (<font color=\"blue\">해제 불가</font>) (효과 쿨 <font color=\"red\">4</font>턴)<br/><br/>사망 시 <font color=\"blue\">생명 <font color=\"red\">30%</font>로 부활</font> (시작 시 <font color=\"red\">2</font>스택, 고유 스킬 재행동 발동 시 추가 <font color=\"red\">+1</font>, 최대 <font color=\"red\">3</font>스택)"
+          }
+        ]
+      }
+    ],
     "Second_Awaken": {
       "Name": "빛의 전진",
       "Stats": "지력 <font color=\"red\">+5%</font><br/>부대 생명 <font color=\"red\">70%</font> 이상 시 이동력 <font color=\"red\">+1</font>"
@@ -115,7 +144,8 @@ var data = [
       "템플러",
       "천상의 수호자",
       "듀얼리스트",
-      "불꽃 카발리에"
+      "불꽃 카발리에",
+      "사막용병"
     ],
     "Jobs": [
       {
@@ -142,6 +172,9 @@ var data = [
           },
           {
             "ImageUrl": "유리아/7/1.webp"
+          },
+          {
+            "ImageUrl": "유리아/8/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -159,8 +192,55 @@ var data = [
         "MagicDefRate": 72,
         "Skill": 175,
         "SkillRate": 50,
-        "HeartFetterBouns1": "생명 비율이 낮은상대와 전투시 받는피해 -10%",
-        "HeartFetterBouns2": "생명 비율이 낮은상대와 전투시 입히는피해 +10%"
+        "HeartFetterBouns1": "생명 비율이 낮은 상대와 전투 시<br/>받는 피해량 <font color=\"red\">-10%</font>%",
+        "HeartFetterBouns2": "생명 비율이 낮은 상대와 전투 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
+      },
+      {
+        "Name": "빛의 성녀",
+        "Icon": "보병",
+        "SD": [
+          {
+            "ImageUrl": "유리아/1/1.webp"
+          },
+          {
+            "ImageUrl": "유리아/2/1.webp"
+          },
+          {
+            "ImageUrl": "유리아/3/1.webp"
+          },
+          {
+            "ImageUrl": "유리아/4/1.webp"
+          },
+          {
+            "ImageUrl": "유리아/5/1.webp"
+          },
+          {
+            "ImageUrl": "유리아/6/1.webp"
+          },
+          {
+            "ImageUrl": "유리아/7/1.webp"
+          },
+          {
+            "ImageUrl": "유리아/8/1.webp"
+          }
+        ],
+        "AttkRange": 1,
+        "Move": 3,
+        "MoveType": "보행",
+        "HP": 4816,
+        "HPRate": 74,
+        "Attk": 251,
+        "AttkRate": 38,
+        "Int": 585,
+        "IntRate": 90,
+        "Def": 320,
+        "DefRate": 71,
+        "MagicDef": 327,
+        "MagicDefRate": 72,
+        "Skill": 168,
+        "SkillRate": 48,
+        "HeartFetterBouns1": "받는 범위 피해량 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "자신 부대보다 체력 비율이 낮은 부대에게 선공할 시<br/>전투 진입 후 주는 피해량<font color=\"red\">+10%</font>"
       },
       {
         "Name": "성검의 공주",
@@ -186,6 +266,9 @@ var data = [
           },
           {
             "ImageUrl": "유리아/7/1.webp"
+          },
+          {
+            "ImageUrl": "유리아/8/1.webp"
           }
         ],
         "AttkRange": 1,
@@ -203,8 +286,8 @@ var data = [
         "MagicDefRate": 74,
         "Skill": 175,
         "SkillRate": 50,
-        "HeartFetterBouns1": "공격하여 전투 진입시 받는피해 -10%",
-        "HeartFetterBouns2": "공격을 받아 전투 진입시 입히는피해 +10%"
+        "HeartFetterBouns1": "공격하여 전투 진입 시<br/>받는 피해 <font color=\"red\">-10%</font>",
+        "HeartFetterBouns2": "공격을 받아 전투 진입 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
       }
     ],
     "Materials": {
@@ -396,7 +479,178 @@ var data = [
         ]
       }
     ],
-    "SPOpenConditions": null,
+    "SPOpenConditions": [
+      {
+        "Name": "개방",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/AlterEgo.webp",
+            "Amount": 1
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "1단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank8-1.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank7-5.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/classup/rank6-6.webp",
+            "Amount": 50
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "1단계 미션",
+        "Materials": [],
+        "Desc": "유리아를 포함한 파티를 짜서 형귀 헬스장 바란(창병) 60레벨 이상 스테이지 클리어<br/>(화/금/일)"
+      },
+      {
+        "Name": "2단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/쓰알열쇠.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/item/스알열쇠.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/알열쇠.webp",
+            "Amount": 50
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "2단계 미션",
+        "Materials": [],
+        "Desc": "여신의 성스러운 옷(갑옷) 레벨 50 달성"
+      },
+      {
+        "Name": "3단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/룬스톤.webp",
+            "Amount": 2
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "3단계 미션",
+        "Materials": [],
+        "Desc": "유리아를 포함한 파티를 짜서 여신의 시련 - 뇌룡 카르코사 60레벨 이상 스테이지 클리어<br/>(수/토)"
+      },
+      {
+        "Name": "",
+        "Materials": [],
+        "Desc": "빛의 성녀 전직 가능, 신성한 화로의 마음(SP 고유기술)스킬 획득, SP 일러스트 획득"
+      },
+      {
+        "Name": "4단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/heart/h2.webp",
+            "Amount": 60
+          },
+          {
+            "MaterialImgUrl": "../img/heart/h2-1.webp",
+            "Amount": 30
+          },
+          {
+            "MaterialImgUrl": "../img/heart/x.webp",
+            "Amount": 12
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "4단계 미션",
+        "Materials": [],
+        "Desc": "유리아를 포함한 파티를 짜서 형귀 헬스장 샘슨(기병) 65레벨 이상 스테이지 클리어<br/>(수/토/일)"
+      },
+      {
+        "Name": "5단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/오락기.webp",
+            "Amount": 40
+          },
+          {
+            "MaterialImgUrl": "../img/item/Awaken_MoonBrillance.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/item/Awaken_Stardust.webp",
+            "Amount": 5
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "5단계 미션",
+        "Materials": [],
+        "Desc": "유리아를 포함한 파티를 짜서 여신의 시련 - 뇌룡 카르코사 65레벨 이상 스테이지 클리어<br/>(수/토)"
+      },
+      {
+        "Name": "6단계 재료",
+        "Materials": [
+          {
+            "MaterialImgUrl": "../img/item/Item_MemoryEssence.webp",
+            "Amount": 600
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Warrior3.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Warrior1.webp",
+            "Amount": 5
+          },
+          {
+            "MaterialImgUrl": "../img/stone/StoneA_Warrior5.webp",
+            "Amount": 5
+          }
+        ],
+        "Desc": ""
+      },
+      {
+        "Name": "6단계 미션",
+        "Materials": [],
+        "Desc": "유리아를 포함한 파티를 짜서 영원의 신전 - 피닉스 65레벨 이상 스테이지 클리어<br/>(일)"
+      },
+      {
+        "Name": "",
+        "Materials": [],
+        "Desc": "SP 스탯, SP 스킬 2개 활성화, 사막용병 고용가능"
+      }
+    ],
     "Skills": [
       {
         "Name": "징벌",
@@ -543,6 +797,58 @@ var data = [
         ],
         "IconImageUrl": "../img/skills/Skill_Pledge.webp",
         "Desc": "[마법 피해] 단일 적 부대에 <font color=\"red\">1.6</font>배의 피해를 준다.<br/>전투 진입 전, 적에게 자신의 지력 <font color=\"red\">2</font>배만큼 '고정 피해'를 주고, <br/>자신의 지력 <font color=\"red\">2</font>배만큼 생명을 회복한다. (<font color=\"red\">2</font>행동 지속)<br/>전투 진입 전, '신의 위엄'을 발동한다.<br/>(신의 위엄: 주위 <font color=\"red\">2</font>칸 내 모든 적 부대의 이동력 <font color=\"red\">-3</font>) 또한 '호위 불가'를 부여한다. (<font color=\"red\">1</font>행동 지속)",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
+        "Name": "SP : 잔광의 각성",
+        "Cost": "COST 1",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "액티브"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "4턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "2칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/skills/sp/유리아/Temp.webp",
+        "Desc": "[패시브] 적 사망 시, 추가로 <font color=\"orange\">검의 메아리</font> <font color=\"red\">1</font>스택 획득<br/><br/>[액티브] 자신을 범위 안 임의의 위치로 <font color=\"blue\">텔레포트</font> 및 지력 <font color=\"red\">2</font>배 수치로 생명을 회복하고,<br/><font color=\"blue\">행동 종료 시 자신 주위 <font color=\"red\">2</font>칸 범위 안 적에게 지력 <font color=\"red\">1</font>배 수치의 고정 피해</font> 효과 획득 (지속 <font color=\"red\">3</font>턴)<br/>사용 후 <font color=\"blue\">자신이 보유한 버프 지속 시간이 감소하지 않고</font> <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font><br/>(고유 스킬 <font color=\"blue\">재행동</font> 발동 시마다 해당 스킬 <font color=\"blue\">사거리</font> <font color=\"red\">+1</font>. 최대 <font color=\"red\">+2</font>)",
+        "SubSkills": null,
+        "Animation": null
+      },
+      {
+        "Name": "SP : 잔광의 각성",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "마법피해"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "1턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "1칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/skills/sp/유리아/Temp.webp",
+        "Desc": "[패시브] 전투 후 가장 생명이 낮은 다른 아군을 입힌 피해량 <font color=\"red\">30%</font> 수치 <font color=\"blue\">생명 회복</font><br/><br/>[마법피해] 단일 개체 <font color=\"red\">1.5</font>배 피해<br/>마물 병종의 적에게 <font color=\"blue\">특효</font><br/><i>(자신이)</i> 디버프를 보유하고 있지 않을 경우, 전투 전 자신과 생명이 가장 낮은 아군에게 <font color=\"blue\">면역</font>, <font color=\"blue\">재생</font>, <font color=\"blue\">받는 피해량</font> <font color=\"red\">-20%</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/>반대의 경우, 자신이 보유한 <font color=\"orange\">검의 메아리</font> 스택과 동등한 숫자의 디버프 제거, 제거한 디버프 <font color=\"red\">1</font>개당 생명 <font color=\"red\">10%</font> <font color=\"blue\">회복</font><br/>전투 후 <font color=\"blue\">찬란하게 타오르는 검의 그림자</font> 효과 획득<br/><br/><font color=\"blue\">면역</font>: 모든 디버프 면역<br/><font color=\"blue\">재생</font>: 매 턴마다 생명 <font color=\"red\">20%</font> <font color=\"blue\">회복</font><br/><font color=\"blue\">찬란하게 타오르는 검의 그림자</font> : 자신 주위 <font color=\"red\">1</font>바퀴 안 적이 행동 종료 시 <font color=\"red\">1</font>턴간 <font color=\"blue\">기절</font>시킴 (지속 <font color=\"red\">2</font>턴)",
         "SubSkills": null,
         "Animation": null
       },

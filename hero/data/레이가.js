@@ -22,7 +22,7 @@ var data = [
     "Groups": [
       "유성",
       "어둠",
-      "빛기"
+      "기원"
     ],
     "HP": 25,
     "SPHP": 0,
@@ -440,7 +440,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/레이가.webp",
-        "Desc": "[패시브] 임의의 <font color=\"orange\">심의</font> 효과 보유 시, <font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font><br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 목표의 <font color=\"blue\">버프 <font color=\"red\">5</font>개 제거</font><br/>자신이 <font color=\"orange\">심의</font> 보유 시 해당 전투에서 적 <font color=\"blue\">반격 불가</font><br/>전투 전 목표에게 <font color=\"blue\">내상</font>이 있을 경우 자신의 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>를 입히고, <i>전투 후, 그 행동에서</i> 방향 및 횟수 제한이 적용되지 않는 <font color=\"blue\">염영섬</font>을 <font color=\"red\">1</font>회 추가로 발동 가능<br/>발동 후, <font color=\"orange\">지수의 뜻</font> 고정 획득",
+        "Desc": "[패시브] 임의의 <font color=\"orange\">심의</font> 효과 보유 시, <font color=\"blue\">주는 피해량</font> <font color=\"red\">+20%</font><br/><br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/>전투 전 목표의 <font color=\"blue\">버프 <font color=\"red\">5</font>개 제거</font><br/>자신이 <font color=\"orange\">심의</font> 보유 시 해당 전투에서 적 <font color=\"blue\">반격 불가</font><br/>전투 전 목표에게 <font color=\"blue\">내상</font>이 있을 경우 자신의 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font>를 입히고, <i>전투 후, 그 행동에서</i> 방향 및 횟수 제한이 적용되지 않는 <font color=\"blue\">염영섬</font>을 <font color=\"red\">1</font>회 추가로 발동 가능<br/>발동 후, <font color=\"orange\">지수의 뜻</font> 고정 획득",
         "SubSkills": null,
         "Animation": "../img/Super/레이가_Ani.webp"
       }
