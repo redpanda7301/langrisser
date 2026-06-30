@@ -192,12 +192,12 @@ var data = [
         "MagicDefRate": 72,
         "Skill": 175,
         "SkillRate": 50,
-        "HeartFetterBouns1": "생명 비율이 낮은 상대와 전투 시<br/>받는 피해량 <font color=\"red\">-10%</font>%",
+        "HeartFetterBouns1": "생명 비율이 낮은 상대와 전투 시<br/>받는 피해량 <font color=\"red\">-10%</font>",
         "HeartFetterBouns2": "생명 비율이 낮은 상대와 전투 시<br/>주는 피해량 <font color=\"red\">+10%</font>"
       },
       {
         "Name": "빛의 성녀",
-        "Icon": "보병",
+        "Icon": "보병SP",
         "SD": [
           {
             "ImageUrl": "유리아/1/1.webp"
