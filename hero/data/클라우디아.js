@@ -78,7 +78,7 @@ var data = [
     "Second_Awaken": null,
     "Equip": null,
     "Soldiers": [
-      "하이 엘프",
+      "하이엘프",
       "마녀",
       "천공 사수",
       "갑판 포병",
@@ -373,7 +373,7 @@ var data = [
           },
         ],
         "IconImageUrl": "../img/Super/클라우디아.webp",
-        "Desc": "[패시브] 선공으로 일반 공격 후 <font color=\"orange\">액션 포인트</font> <font color=\"red\">1</font>스택 획득<br/><br/>[마법피해] 단일 개체 <font color=\"red\">1.2</font>배 피해<br/>자신이 보유한 <font color=\"blue\">선율</font> <font color=\"red\">1</font>개당 <font color=\"blue\">스킬 배율</font> <font color=\"red\">+0.1</font>, <font color=\"blue\">선율 - 개</font>는 <font color=\"blue\">스킬 배율</font> <font color=\"red\">+0.3</font><br/>전투 후 목표에게 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font> 부여 (지속 <font color=\"red\">2</font>턴)<br/>적 격파 후 해당 스킬 쿨 <font color=\"red\">-2</font>턴 및 보유하지 않은 <font color=\"blue\">선율 - 개</font> 효과 획득//<font color=\"blue\">조화의 선율 - 개</font> : 지휘효과, 전장의 모든 아군의 <font color=\"blue\">방어, 마방</font> <font color=\"red\">+15%</font>, <font color=\"blue\">다음에 받는 디버프 <font color=\"red\">1</font>개 면역</font> (매 턴 <font color=\"red\">1</font>번 발동) (지속 <font color=\"red\">4</font>턴)/<font color=\"blue\">소란의 선율 - 개</font> : 지휘효과, 전장의 모든 아군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+15%</font> (지속 <font color=\"red\">4</font>턴)",
+        "Desc": "[패시브] 선공으로 일반 공격 후 <font color=\"orange\">액션 포인트</font> <font color=\"red\">1</font>스택 획득<br/><br/>[마법피해] 단일 개체 <font color=\"red\">1.2</font>배 피해<br/>자신이 보유한 <font color=\"blue\">선율</font> <font color=\"red\">1</font>개당 <font color=\"blue\">스킬 배율</font> <font color=\"red\">+0.1</font>, <font color=\"blue\">선율 - 개</font>는 <font color=\"blue\">스킬 배율</font> <font color=\"red\">+0.3</font><br/>전투 후 목표에게 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font> 부여 (지속 <font color=\"red\">2</font>턴)<br/>적 격파 후 해당 스킬 쿨 <font color=\"red\">-2</font>턴 및 보유하지 않은 <font color=\"blue\">선율 - 개</font> 효과 획득<br/><br/><font color=\"blue\">조화의 선율 - 개</font> : 지휘효과, 전장의 모든 아군의 <font color=\"blue\">방어, 마방</font> <font color=\"red\">+15%</font>, <font color=\"blue\">다음에 받는 디버프 <font color=\"red\">1</font>개 면역</font> (매 턴 <font color=\"red\">1</font>번 발동) (지속 <font color=\"red\">4</font>턴)<br/><font color=\"blue\">소란의 선율 - 개</font> : 지휘효과, 전장의 모든 아군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+15%</font> (지속 <font color=\"red\">4</font>턴)",
         "SubSkills": null,
         "Animation": "../img/Super/클라우디아_Ani.webp"
       }
