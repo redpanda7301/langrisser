@@ -31,7 +31,7 @@
     "HowToGet": "콜라보 이벤트",
     "Fetters": [
       {
-        "Condition": "레벨 30 돌파"
+        "Condition": "나츠의 레벨 30 달성"
       },
       {
         "Condition": "나츠를 출전시켜 시공의 균열[정예] 3-1 클리어"
@@ -40,7 +40,7 @@
         "Condition": "나츠를 출전시켜 아레나 1회 승리"
       },
       {
-        "Condition": "염룡왕의 후예로 전직"
+        "Condition": "나츠를 염룡왕의 후예로 전직"
       }
     ],
     "HeartFetter": "생명+750, 방어+50, 마방+50",

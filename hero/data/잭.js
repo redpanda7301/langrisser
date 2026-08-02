@@ -81,7 +81,7 @@ var data = [
     "SPTalent": null,
     "Second_Awaken": {
       "Name": "은하수 제패",
-      "Stats": "공격 <font color=\"red\">+5%</font><br/>고유 스킬로 부여하는 <font color=\"green\">항로 표식</font>의 <font color=\"blue\">지휘</font> 범위 <font color=\"red\">+1</font> 및 아군이 <font color=\"green\">항로 표식</font> <font color=\"blue\">지휘</font> 범위 안에 있을 경우 현재 위치한 지형을 <font color=\"green\">물</font>로 간주"
+      "Stats": "공격 <font color=\"red\">+5%</font><br/>고유 스킬로 부여하는 <font color=\"green\">항로 표식</font>의 <font color=\"blue\">지휘</font> 범위 <font color=\"red\">+1</font> 및 아군 <font color=\"green\">항로 표식</font> <font color=\"blue\">지휘</font> 범위 안에 있을 경우 현재 위치한 지형을 <font color=\"green\">물</font>로 간주"
     },
     "Equip": {
       "EqpName": "검은 고양이 함장의 모자(투구)",

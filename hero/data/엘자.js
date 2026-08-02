@@ -35,7 +35,7 @@
     "HowToGet": "영웅 소환 (콜라보)",
     "Fetters": [
       {
-        "Condition": "레벨 30 돌파 "
+        "Condition": "엘자의 레벨 30 달성"
       },
       {
         "Condition": "엘자를 출전시켜 시공의 균열 3-1 [정예] 클리어 "
@@ -44,7 +44,7 @@
         "Condition": "엘자를 출전시켜 아레나 1회 승리"
       },
       {
-        "Condition": "7대 마스터 전직 "
+        "Condition": "엘자를 7대 마스터로 전직 "
       }
     ],
     "HeartFetter": "생명+750, 방어+50, 마방+50",

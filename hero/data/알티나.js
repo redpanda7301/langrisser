@@ -75,7 +75,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "전장 해석",
+      "Stats": "지력 <font color=\"red\">+10%</font><br/>스킬로 피해를 입혔을 경우<br/>행동 종료 시, 스킬이 명중한 적의 수만큼 <font color=\"blue\">스킬 쿨타임 감소</font> (최대 <font color=\"red\">-3턴</font>)"
+    },
     "Equip": null,
     "Soldiers": [
       "마법사",

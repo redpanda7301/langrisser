@@ -60,27 +60,30 @@
             "Desc": "2성"
           },
           {
-            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+15%</font><br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">40%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
+            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+15%</font><br/>선공으로 피해를 입힌 후, 적에게 <font color=\"blue\">영혼을 태우는 불길</font> 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">40%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
           },
           {
-            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+20%</font><br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">50%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
+            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+20%</font><br/>선공으로 피해를 입힌 후, 적에게 <font color=\"blue\">영혼을 태우는 불길</font> 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">50%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
           },
           {
-            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+25%</font><br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">60%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
+            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+25%</font><br/>선공으로 피해를 입힌 후, 적에게 <font color=\"blue\">영혼을 태우는 불길</font> 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">60%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
           },
           {
-            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+30%</font><br/>선공으로 피해를 입힌 후, 적에게 '<font color=\"purple\">영혼을 태우는 불길</font>' 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">70%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
+            "Desc": "부대 생명이 높을 수록 피해량 증가. 최대 <font color=\"red\">+30%</font><br/>선공으로 피해를 입힌 후, 적에게 <font color=\"blue\">영혼을 태우는 불길</font> 효과를 <font color=\"red\">3</font>회 부여<br/>매번 부여 확률은 <font color=\"red\">70%</font><br/><font color=\"purple\">영혼을 태우는 불길</font> : 행동 종료 시, 페트리시아 지력 <font color=\"red\">0.7</font>배 수치 <font color=\"blue\">고정 피해</font>, <font color=\"blue\">디버프</font>가 해제될 경우 해당 <font color=\"purple\">영혼을 태우는 불길</font>이 먼저 <font color=\"blue\">해제</font>됨<br/>최대 <font color=\"red\">5</font>중첩<br/>지속 <font color=\"red\">2</font>행동"
           }
         ]
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "혼을 태우는 용의 불꽃",
+      "Stats": "지력 <font color=\"red\">+5%</font><br/><font color=\"blue\">영혼을 태우는 불길</font>을 <font color=\"red\">3</font>스택 이상 보유한 적이 사망할 시,<br/>패트리시아는 그 적 주변 범위 <font color=\"red\">2</font>칸 범위 내 모든 적에게 각각 <font color=\"blue\">영혼을 태우는 불길</font>을 3회 부여 (각 부여 확률 <font color=\"red\">70%</font>)"
+    },
     "Equip": {
       "EqpName": "붉은 숨결(지팡이)",
       "Stats": "생명 437,지력 107",
       "Icon": "페트리시아.webp",
-      "Ability": "지력 <font color=\"red\">+10%</font><br/>자신이 부여한 '<font color=\"purple\">영혼을 태우는 불길</font>' 지속 시간 <font color=\"red\">+1</font><br/>선공으로 피해를 입힌 후 <font color=\"red\">100%</font> 확률로 상대에게 <font color=\"purple\">영혼을 태우는 불길</font> <font color=\"red\">1</font>개 추가 부여"
+      "Ability": "지력 <font color=\"red\">+10%</font><br/>자신이 부여한 <font color=\"blue\">영혼을 태우는 불길</font> 지속 시간 <font color=\"red\">+1</font><br/>선공으로 피해를 입힌 후 <font color=\"red\">100%</font> 확률로 상대에게 <font color=\"purple\">영혼을 태우는 불길</font> <font color=\"red\">1</font>개 추가 부여"
     },
     "Soldiers": [
       "마녀",

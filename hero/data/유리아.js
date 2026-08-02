@@ -101,7 +101,7 @@ var data = [
     "SPTalent": [
       {
         "Name": "신성한 화로의 마음",
-        "Icon": "Gift_Temp.webp",
+        "Icon": "SP_Gift_Yulia.webp",
         "Abilities": [
           {
             "Desc": "1성"
@@ -827,7 +827,7 @@ var data = [
         "Animation": null
       },
       {
-        "Name": "SP : 잔광의 각성",
+        "Name": "SP : 성검의 판결",
         "Cost": "COST 2",
         "Entries": [
           {
@@ -836,7 +836,7 @@ var data = [
           },
           {
             "Label": "쿨타임",
-            "Value": "1턴"
+            "Value": "3턴"
           },
           {
             "Label": "사거리",

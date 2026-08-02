@@ -75,7 +75,10 @@ var data = [
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "성검이 울부짖는 빛",
+      "Stats": "지력 <font color=\"red\">+10%</font><br/>행동 종료 시, 이번 행동 중 적을 격파했을 경우<br/><font color=\"blue\">자신이 보유한 버프 지속 시간이 감소하지 않음</font>"
+    },
     "Equip": {
       "EqpName": "서광의 비밀(갑옷)",
       "Stats": "생명 583, 방어 54",

@@ -51,7 +51,7 @@ var data = [
     "Talent": [
       {
         "TalentName": "응집된 영혼의 춤사위",
-        "Icon": "Gift_Temp.webp",
+        "Icon": "Gift_Sanger.webp",
         "Abilities": [
           {
             "Desc": "1성"

@@ -77,7 +77,7 @@ var data = [
     "SPTalent": null,
     "Second_Awaken": {
       "Name": "자연의 형태",
-      "Stats": "공격 <font color=\"red\">+5%</font><br/>형태 변환 시 <font color=\"blue\">자연의 맹약</font> 쿨타임 감소"
+      "Stats": "공격 <font color=\"red\">+5%</font><br/>형태 변환 시 <font color=\"blue\">자연의 맹약</font> 쿨타임 제거"
     },
     "Equip": {
       "EqpName": "떠돌이 영혼의 머리(투구)",

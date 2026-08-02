@@ -51,7 +51,7 @@ var data = [
     "Talent": [
       {
         "TalentName": "극의무심",
-        "Icon": "Gift_Temp.webp",
+        "Icon": "Gift_Reiga.webp",
         "Abilities": [
           {
             "Desc": "1성"

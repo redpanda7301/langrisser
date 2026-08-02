@@ -76,7 +76,12 @@ var data = [
       ],
       "SPTalent": null,
       "Second_Awaken": null,
-      "Equip": null,
+      "Equip": {
+      "EqpName": "최후의 알현(무기)",
+      "Stats": "공격 96, 기술 53",
+      "Icon": "마카에라.webp",
+      "Ability": "공격 <font color=\"red\">+10%</font><br/>자신 주변 <font color=\"red\">2</font>칸 안에 아군의 <font color=\"green\">숨겨진 칼날</font>이 있을 경우 <font color=\"blue\">스킬 사거리</font> <font color=\"red\">+2</font>, 직선 스킬은 <font color=\"red\">2</font>줄 <font color=\"blue\">직선 추가</font>, 행동 종료 시 모든 스킬 쿨 <font color=\"red\">-1</font>턴 및 스킬로 공격해 전투 진입 시 <font color=\"blue\">근접전 페널티를 받지 않고</font>, <font color=\"blue\">원거리 병사 대동 시 병사도 함께 공격</font>"
+    },
       "Soldiers": [
         "미스트 댄서",
         "다크엘프 저격수",
