@@ -81,7 +81,7 @@ var data = [
       "마녀",
       "하이엘프",
       "어둠의 연금술사",
-      "수정 술사",
+      "수정술사",
       "외날개 화살",
       "황야 답사대",
       "",
@@ -140,7 +140,7 @@ var data = [
                 "Value": "단일"
               }
         ],
-        "IconImageUrl": "../img/skills/Lucy/1.webp",
+        "IconImageUrl": "../img/skills/Ryza/Temp.webp",
         "Desc": "[패시브] <font color=\"blue\">재행동</font> 발동 시, 해당 스킬을 <font color=\"blue\">코어 아이템</font>으로 교체하고, 이하의 스킬 중 하나를 선택해 사용, 사용 후 혹은 행동 종료 시 해당 스킬은 <font color=\"blue\">키 체인지</font>로 교체<br/><font color=\"blue\">아네모 프람</font> : 범위 공격 스킬<br/><font color=\"blue\">폭발가루 성게</font> : 단일 공격 스킬<br/><font color=\"blue\">헤이즈 블레스</font> : 디버프 면역 효과의 지원 스킬<br/><br/>[액티브] 남은 이동력만큼 <font color=\"blue\">재행동</font> 및 <font color=\"blue\">키 체인지</font> 효과 획득<br/><font color=\"blue\">키 체인지</font> : 피해를 입히는 스킬의 쿨타임 <font color=\"red\">-1</font>턴 (지속 <font color=\"red\">2</font>턴, <font color=\"blue\">해제 불가</font>)<br/>사용 후 <font color=\"blue\">자신이 보유한 버프 지속 시간이 감소하지 않음</font>",
         "SubSkills": [
           {
@@ -163,8 +163,8 @@ var data = [
                 "Value": "4칸"
               }
             ],
-            "IconImageUrl": "../img/skills/Lucy/1_1.webp",
-            "Desc": "범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 모든 목표에게 <font color=\"blue\">소각의 불꽃</font> 부여<br/><font color=\"blue\">소각의 불꽃</font> : 행동 종료 시 최대 생명의 <font color=\"red\">10%</font>에 해당하는 고정 피해를 받음 (지속 <font color=\"red\">2</font>턴, <font color=\"blue\">해제 불가</font>)<br/><font color=\"orange\">코어 차지</font> 조건 충족 시 <font color=\"blue\">스킬 범위</font> <font color=\"red\">+1</font> 및 <i>대상의</i> 생명에 반비례해서 <font color=\"blue\">피해량 증가</font> (최대 <font color=\"red\">+30%</font>)"
+            "IconImageUrl": "../img/skills/Ryza/Temp.webp",
+            "Desc": "범위 내 적에게 <font color=\"red\">0.36</font>배 피해 및 모든 목표에게 <font color=\"blue\">소각의 불꽃</font> 부여<br/><font color=\"blue\">소각의 불꽃</font> : 행동 종료 시 최대 생명의 <font color=\"red\">10%</font>에 해당하는 고정 피해를 받음 (지속 <font color=\"red\">2</font>턴, <font color=\"blue\">해제 불가</font>)<br/><font color=\"orange\">코어 차지</font> 조건 충족 시 <font color=\"blue\">스킬 범위</font> <font color=\"red\">+1</font> 및 (<i>대상의</i>) 생명에 반비례해서 <font color=\"blue\">피해량 증가</font> (최대 <font color=\"red\">+30%</font>)"
           },
           {
             "Name": "폭발가루 성게",
@@ -186,7 +186,7 @@ var data = [
                 "Value": "단일"
               }
             ],
-            "IconImageUrl": "../img/skills/Lucy/1_2.webp",
+            "IconImageUrl": "../img/skills/Ryza/Temp.webp",
             "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>전투 진입 전 <font color=\"blue\">지력의 <font color=\"red\">70%</font>를 공격에 추가</font><br/><font color=\"orange\">코어 차지</font> 조건 충족 시 전투 진입 전 목표의 <font color=\"blue\">방어</font> 및 <font color=\"blue\">마방</font> <font color=\"red\">-20%</font> (지속 <font color=\"red\">2</font>턴) 및 전투 후 목표에게 <font color=\"blue\">제어 불가</font> 효과 부여 (지속 <font color=\"red\">1</font>턴, 아레나가 아닐 경우 해당 효과는 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font>로 변경)"
           },
           {
@@ -209,7 +209,7 @@ var data = [
                 "Value": "3칸"
               }
             ],
-            "IconImageUrl": "../img/skills/Lucy/1_3.webp",
+            "IconImageUrl": "../img/skills/Ryza/Temp.webp",
             "Desc": "범위 내 모든 아군 부대에게 <font color=\"blue\">주는 치명타 피해량</font> <font color=\"red\">+20%</font>, <font color=\"blue\">다음에 받는 디버프 <font color=\"red\">1</font>개 면역, 면역 발동 시 <font color=\"red\">80%</font> 확률로 해당 효과 재획득, 매 발동마다 확률 <font color=\"red\">-20%</font></font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/><font color=\"orange\">코어 차지</font> 조건 충족 시 추가로 범위 내 아군 부대의 <font color=\"blue\">이동력</font> <font color=\"red\">+1</font> (지속 <font color=\"red\">2</font>턴)"
           }
         ],
@@ -354,7 +354,7 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/skills/Lucy/3.webp",
+        "IconImageUrl": "../img/skills/Ryza/Temp.webp",
         "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>전투 진입 전 <font color=\"blue\">지력의 <font color=\"red\">70%</font>를 공격에 추가</font><br/>보병 병종의 적에게 <font color=\"blue\">특효</font><br/>전투 후 <font color=\"orange\">코어 차지</font> <font color=\"red\">1</font>스택 획득, 적 격파 시 추가로 <font color=\"orange\">코어 차지</font> <font color=\"red\">1</font>스택 획득<br/><font color=\"orange\">코어 차지</font> 조건 충족 시 해당 스킬 <font color=\"blue\">사거리</font> <font color=\"red\">+1</font>. 원거리 병사 대동 시 함께 공격",
         "SubSkills": null,
         "Animation": null

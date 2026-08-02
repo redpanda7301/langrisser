@@ -81,7 +81,7 @@ var data = [
     "SPTalent": null,
     "Second_Awaken": {
       "Name": "파수의 문",
-      "Stats": "<i>이리스 자신이</i> <font color=\"green\">수호의 열쇠</font> 를 제거 시, 쿨타임이 가장 긴 피해 스킬의 쿨타임 <font color=\"red\">-3</font>턴<br/><font color=\"blue\">전례없는 빛</font> <i>각성기</i> 사용 후, 이번 행동 종료 시, 고유 스킬의 <font color=\"green\">수호의 열쇠</font> 제거 범위가 <font color=\"blue\"><font color=\"red\">1</font>바퀴 범위로 변경</font>"
+      "Stats": "(<i>이리스 자신이</i>) <font color=\"green\">수호의 열쇠</font> 를 제거 시, 쿨타임이 가장 긴 피해 스킬의 쿨타임 <font color=\"red\">-3</font>턴<br/><font color=\"blue\">전례없는 빛</font> (<i>각성기</i>) 사용 후, 이번 행동 종료 시, 고유 스킬의 <font color=\"green\">수호의 열쇠</font> 제거 범위가 <font color=\"blue\"><font color=\"red\">1</font>바퀴 범위로 변경</font>"
     },
     "Equip": {
       "EqpName": "영원한 밤의 열쇠(악세사리)",
