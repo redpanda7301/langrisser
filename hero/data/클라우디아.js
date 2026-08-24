@@ -240,7 +240,7 @@ var data = [
               }
             ],
             "IconImageUrl": "../img/skills/Klaudia/Temp.webp",
-            "Desc": "단일 개체 <font color=\"red\">1.2</font>배 피해<br/>전투 후 <font color=\"blue\">소란의 선율 - 개</font> 획득<br/><font color=\"blue\">소란의 선율 - 개</font> : 지휘효과, 전장의 모든 아군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+15%</font> (지속 <font color=\"red\">4</font>턴)<br/>행동 종료 시, 모든 아군에게 <font color=\"blue\">치명타 확률</font> <font color=\"red\">+10%</font>, <font color=\"blue\">치명타 피해</font> <font color=\"red\">+10%</font> 버프 부여 (지속 <font color=\"red\">2</font>턴)<br/>턴 시작 시 해당 스킬은 <font color=\"blue\">소란의 화살</font>로 대체"
+            "Desc": "단일 개체 <font color=\"red\">1.2</font>배 피해<br/>전투 후 <font color=\"blue\">소란의 선율 - 개</font> 획득<br/><font color=\"blue\">소란의 선율 - 개</font> : 지휘효과, 전장의 모든 아군의 <font color=\"blue\">공격, 지력</font> <font color=\"red\">+15%</font> (지속 <font color=\"red\">4</font>턴)<br/>행동 종료 시, 모든 아군에게 <font color=\"blue\">치명타 확률</font> <font color=\"red\">+10%</font>, <font color=\"blue\">치명타 피해</font> <font color=\"red\">+10%</font> 버프 부여 (지속 <font color=\"red\">4</font>턴)<br/>턴 시작 시 해당 스킬은 <font color=\"blue\">소란의 화살</font>로 대체"
           }
         ],
         "Animation": null
