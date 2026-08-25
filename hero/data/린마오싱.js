@@ -171,7 +171,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Lynn/Temp.webp",
-        "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>목표가 <font color=\"blue\">참회</font> 보유 시 해당 전투에서 <font color=\"blue\">선제 공격</font><br/>적을 격파한 경우, 자신과 가장 가까운 적 <font color=\"red\">2</font>명에게 <font color=\"blue\">참회</font> <font color=\"red\">1</font>스택 부여<br/>적을 격파하지 못한 경우, 목표에게 <font color=\"blue\">참회</font> <font color=\"red\">2</font>스택 부여<br/>전투 후, 자신 부대는 <font color=\"red\">3</font>칸 범위 안 임의의 비어있는 칸으로 <font color=\"blue\">텔레포트</font> 가능",
+        "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>목표가 <font color=\"blue\">참회</font> 보유 시 해당 전투에서 <font color=\"blue\">선제 공격</font><br/>적을 격파한 경우, 자신과 가장 가까운 적 <font color=\"red\">2</font>명에게 <font color=\"blue\">참회</font> <font color=\"red\">1</font>스택 부여<br/>적을 격파하지 못한 경우, 목표에게 <font color=\"blue\">참회</font> <font color=\"red\">2</font>스택 부여<br/>전투 후, 자신 부대는 <font color=\"red\">3</font>칸 범위 안 임의의 비어있는 칸으로 <font color=\"blue\">텔레포트</font> 가능<br/><br/><font color=\"blue\">참회</font>: 린에게 받는 피해량 <font color=\"red\">+10%</font>, <font color=\"blue\">천벌</font> 발동 횟수 <font color=\"red\">+1</font> (최대 <font color=\"red\">2</font>스택)",
         "SubSkills": null,
         "Animation": null
       },
@@ -249,7 +249,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Lynn/Temp.webp",
-        "Desc": "<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해<br/>적에게 <font color=\"blue\">참회</font> <font color=\"red\">1</font>스택과 <font color=\"blue\">공격 스킬 사용 전, 쿨타임 중인 스킬이 있을 경우, 스킬 발동자로부터 천벌 효과를 받음</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)",
+        "Desc": "<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.3</font>배 피해<br/>적에게 <font color=\"blue\">참회</font> <font color=\"red\">1</font>스택과 <font color=\"blue\">공격 스킬 사용 전, 쿨타임 중인 스킬이 있을 경우, 스킬 발동자로부터 천벌 효과를 받음</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/><br/><font color=\"blue\">참회</font>: 린에게 받는 피해량 <font color=\"red\">+10%</font>, <font color=\"blue\">천벌</font> 발동 횟수 <font color=\"red\">+1</font> (최대 <font color=\"red\">2</font>스택)",
         "SubSkills": null,
         "Animation": null
       },
@@ -315,7 +315,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Lynn/Temp.webp",
-        "Desc": "단일 부대에 <font color=\"blue\">비호</font> 부여<br/><font color=\"blue\">비호</font> : 스킬 공격을 받아 전투 진입 전, 적에게 <font color=\"blue\">주는 피해량</font> <font color=\"red\">-30%</font> 효과를 부여하고 (지속 <font color=\"red\">1</font>턴), 전투 후 적의 쿨타임 중인 스킬 <font color=\"red\">1</font>개마다 <font color=\"blue\">참회</font> <font color=\"red\">1</font>스택 부여, 효과 발동 후 제거<br/><br/>스킬 사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font><br/><font color=\"blue\">해당 재행동은 보유한 버프 지속시간을 소모하지 않음</font>",
+        "Desc": "단일 부대에 <font color=\"blue\">비호</font> 부여<br/><font color=\"blue\">비호</font> : 스킬 공격을 받아 전투 진입 전, 적에게 <font color=\"blue\">주는 피해량</font> <font color=\"red\">-30%</font> 효과를 부여하고 (지속 <font color=\"red\">1</font>턴), 전투 후 적의 쿨타임 중인 스킬 <font color=\"red\">1</font>개마다 <font color=\"blue\">참회</font> <font color=\"red\">1</font>스택 부여, 효과 발동 후 제거<br/><br/>스킬 사용 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font><br/><font color=\"blue\">해당 재행동은 보유한 버프 지속시간을 소모하지 않음</font><br/><br/><font color=\"blue\">참회</font>: 린에게 받는 피해량 <font color=\"red\">+10%</font>, <font color=\"blue\">천벌</font> 발동 횟수 <font color=\"red\">+1</font> (최대 <font color=\"red\">2</font>스택)",
         "SubSkills": null,
         "Animation": null
       },

@@ -151,72 +151,6 @@ var data = [
       "SPOpenConditions": null,
       "Skills": [
         {
-          "Name": "바람칼날",
-          "Cost": "COST 2",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "물리피해"
-            },
-            {
-              "Label": "쿨타임",
-              "Value": "2턴"
-            },
-            {
-              "Label": "사거리",
-              "Value": "2칸"
-            },
-            {
-              "Label": "범위",
-              "Value": "단일"
-            }
-          ],
-          "IconImageUrl": "../img/skills/0.webp",
-          "Desc": "단일 개체에게 <font color=\"red\">1.5</font>배의 피해<br/><font color=\"blue\">근접전 병사를 이끌고 있다면 병사도 함께 공격한다.</font>",
-          "SubSkills": null,
-          "Animation": null
-        },
-        {
-          "Name": "폭발 구동",
-          "Cost": "COST 1",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "액티브"
-            },
-            {
-              "Label": "쿨타임",
-              "Value": "2턴"
-            },
-            {
-              "Label": "사거리",
-              "Value": "자신"
-            },
-            {
-              "Label": "범위",
-              "Value": "단일"
-            }
-          ],
-          "IconImageUrl": "../img/skills/Abishai/1.webp",
-          "Desc": "[패시브] 스킬을 사용했으나 <font color=\"blue\">과부하</font>가 없는 상태에서 행동 종료 시, <font color=\"blue\">재행동</font> <font color=\"red\">2</font>칸<br/>[액티브] <font color=\"blue\">공격, 지력</font> <font color=\"red\">+20%</font> (지속 <font color=\"red\">2</font>턴), <font color=\"blue\">쉴드</font> 획득<br/><font color=\"blue\">쉴드</font> : <font color=\"blue\">면역</font> 효과, 부대 최대 생명 <font color=\"red\">25%</font> 수치 방어, 해제 불가<br/><font color=\"blue\">과부하</font> 시 해당 스킬을 사용할 경우 다른 스킬 쿨타임 <font color=\"red\">-1</font>턴, 부대 생명 <font color=\"red\">100%</font> 회복, 행동 종료 시 <font color=\"blue\">버프 지속 시간을 소모하지 않으며</font>,<br/><font color=\"blue\">쉴드</font>가 <font color=\"blue\">과부하 쉴드</font>로 변경됨<br/><font color=\"blue\">과부하 쉴드</font> : <font color=\"blue\">면역</font> 효과, 부대 최대 생명 <font color=\"red\">50%</font> 수치 방어, 해제 불가",
-          "SubSkills": null,
-          "Animation": null
-        },
-        {
-          "Name": "불굴",
-          "Cost": "COST 1",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "패시브"
-            }
-          ],
-          "IconImageUrl": "../img/skills/Skill_NerverDie.webp",
-          "Desc": "사망 시 부활 및 생명 <font color=\"Red\">20%</font> <font color=\"green\">회복</font><br/>최대 <font color=\"Red\">1</font>회",
-          "SubSkills": null,
-          "Animation": null
-        },
-        {
           "Name": "태양 베기",
           "Cost": "COST 2",
           "Entries": [
@@ -243,40 +177,122 @@ var data = [
           "Animation": null
         },
         {
-          "Name": "제압",
-          "Cost": "COST 1",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "패시브"
-            }
-          ],
-          "IconImageUrl": "../img/skills/Passive_AtkBuf1.webp",
-          "Desc": "부대의 남은 생명 비율이 상대보다 높을 경우 전투 중 공격 <font color=\"Red\">+12%</font>.",
-          "SubSkills": null,
-          "Animation": null
-        },
+        "Name": "기습 명령",
+        "Cost": "COST 1",
+        "Entries": [
+          {
+                "Label": "유형",
+                "Value": "액티브"
+              },
+              {
+                "Label": "쿨타임",
+                "Value": "2턴"
+              },
+              {
+                "Label": "사거리",
+                "Value": "자신"
+              },
+              {
+                "Label": "범위",
+                "Value": "단일"
+              }
+        ],
+        "IconImageUrl": "../img/skills/Taj/Temp.webp",
+        "Desc": "[패시브] 행동 종료 시 부대 생명 <font color=\"red\">20%</font> 수치만큼 <font color=\"blue\">회복</font><br/><br/>[액티브] 이하의 스킬 중 하나 사용 가능<br/>이하 스킬 사용 후 남은 이동력만큼 <font color=\"blue\">재행동</font> 가능<br/>해당 <font color=\"blue\">재행동</font>은 <font color=\"blue\">자신이 보유한 버프 지속 시간이 감소하지 않음</font><br/>타지 및 <font color=\"green\">전술 수확</font> 은 동시에 <font color=\"red\">1</font>개 효과만 보유 가능<br/>(해당 스킬 사용 후 행동 종료 시 <font color=\"blue\">교활한 명령</font> 회수 및 배치 불가)",
+        "SubSkills": [
+          {
+            "Name": "의적",
+            "Entries": [
+              {
+                "Label": "유형",
+                "Value": "액티브"
+              },
+              {
+                "Label": "쿨타임",
+                "Value": "2턴"
+              },
+              {
+                "Label": "사거리",
+                "Value": "자신"
+              },
+              {
+                "Label": "범위",
+                "Value": "단일"
+              }
+            ],
+            "IconImageUrl": "../img/skills/Taj/Temp.webp",
+            "Desc": "자신이 <font color=\"green\">전술 수확</font>의 효과로 적의 장비 스킬을 <font color=\"blue\">탈취</font>할 때, 적의 버프 <font color=\"red\">1</font>개 추가 <font color=\"blue\">탈취</font>"
+          },
+          {
+            "Name": "교란",
+            "Entries": [
+              {
+                "Label": "유형",
+                "Value": "액티브"
+              },
+              {
+                "Label": "쿨타임",
+                "Value": "2턴"
+              },
+              {
+                "Label": "사거리",
+                "Value": "자신"
+              },
+              {
+                "Label": "범위",
+                "Value": "단일"
+              }
+            ],
+            "IconImageUrl": "../img/skills/Taj/Temp.webp",
+            "Desc": "이후 자신이 배치하는 <font color=\"green\">전술 수확</font>이 <font color=\"blue\">적이 범위 내에서 스킬 사용 시 <font color=\"red\">50%</font> 확률로 스킬 쿨타임 <font color=\"red\">+1</font>턴</font> 효과 획득 및 모든 아군의 <font color=\"green\">전술 수확</font>이 해당 효과 획득"
+          },
+          {
+            "Name": "속박",
+            "Entries": [
+              {
+                "Label": "유형",
+                "Value": "액티브"
+              },
+              {
+                "Label": "쿨타임",
+                "Value": "2턴"
+              },
+              {
+                "Label": "사거리",
+                "Value": "자신"
+              },
+              {
+                "Label": "범위",
+                "Value": "단일"
+              }
+            ],
+            "IconImageUrl": "../img/skills/Taj/Temp.webp",
+            "Desc": "이후 자신이 배치하는 <font color=\"green\">전술 수확</font>이 <font color=\"blue\">적이 범위 통과 시 이동력 <font color=\"red\">1</font> 추가 소모</font> 효과 획득 및 모든 아군의 <font color=\"green\">전술 수확</font>이 해당 효과 획득"
+          }
+        ],
+        "Animation": null
+      },
         {
-          "Name": "장갑 파괴",
-          "Cost": "COST 1",
-          "Entries": [
-            {
-              "Label": "유형",
-              "Value": "패시브"
-            }
-          ],
-          "IconImageUrl": "../img/skills/Passive_BreakDef.webp",
-          "Desc": "[패시브]전투 진입전 50% 확률로 적의 방어 -20%, 1턴 지속.",
-          "SubSkills": null,
-          "Animation": null
-        },
+        "Name": "심안",
+        "Cost": "COST 1",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "패시브"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Passive_Eye.webp",
+        "Desc": "치명타율 <font color=\"Red\">+15%</font><br/>전투 진입 시 치명타가 발생한다면 전투 후<br/>적 부대의 <font color=\"blue\">패시브 봉인</font><br/>지속 <font color=\"Red\">2</font>행동",
+        "SubSkills": null,
+        "Animation": null
+      },
         {
-          "Name": "에너지 격류",
+          "Name": "평민의 추대",
           "Cost": "COST 2",
           "Entries": [
             {
               "Label": "유형",
-              "Value": "물리피해"
+              "Value": "초절강화"
             },
             {
               "Label": "쿨타임",
@@ -284,20 +300,60 @@ var data = [
             },
             {
               "Label": "사거리",
-              "Value": "3칸"
+              "Value": "자신"
             },
             {
               "Label": "범위",
-              "Value": "직선"
+              "Value": "맵전체"
             }
           ],
-          "IconImageUrl": "../img/skills/Abishai/2.webp",
-          "Desc": "<font color=\"red\">3</font>줄 직선 상 적에게 <font color=\"red\">0.36</font>배 피해<br/>적에게 <font color=\"blue\">장신구 스킬 무효화</font> 효과 부여 (지속 <font color=\"red\">2</font>턴, 해제 불가)<br/>목표가 NPC일 경우, 해당 효과는 <font color=\"blue\">받는 피해량</font> <font color=\"red\">+20%</font> 로 대체 (지속 <font color=\"red\">2</font>턴, 해제 불가)<br/><font color=\"blue\">과부하</font> 시 명중한 지형에 <font color=\"green\">에너지 함정</font> 효과 부여<br/><font color=\"green\">에너지 함정</font> : 적이 해당 위치에서 행동 종료 시 시전자의 공격 <font color=\"red\">1</font>배 수치 고정 피해 (지속 <font color=\"red\">2</font>턴)",
+          "IconImageUrl": "../img/skills/Taj/Temp.webp",
+          "Desc": "[초절강화] 액티브 스킬, 범위 내 모든 '시대의 주역' 아군의 공격, 방어 능력치가 크게 상승하고, 공격하여 전투 진입 시 주는 피해량 <font color=\"red\">+12%</font>, 적이 디버프 보유 시 추가로 <font color=\"red\">+5%</font>.<br/>(지속 <font color=\"red\">4</font>턴, 이 효과는 다른 초절강화 스킬과 중첩 불가)",
           "SubSkills": null,
           "Animation": null
         },
         {
-          "Name": "힘의 외침",
+        "Name": "검혼",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "물리피해"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "5턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "1칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Skill_SwordSoul.webp",
+        "Desc": "[물리 피해] 단일 적군을 공격하여 1.8배 피해를 준다.<br/>전투 전 적 부대의 버프 5개 제거 및 적 부대에게 '치료 방해' 부여, 2턴 지속<br/>이 효과는 제거되지 않는다.",
+        "SubSkills": null,
+        "Animation": null
+      },
+        {
+            "Name": "백스탭",
+            "Cost": "COST 1",
+            "Entries": [
+              {
+                "Label": "유형",
+                "Value": "패시브"
+              }
+            ],
+            "IconImageUrl": "../img/skills/Skill_DorsalThorns.webp",
+            "Desc": "선공으로 전투 진입 시 적 부대 생명이 <font color=\"red\">100%</font>일 경우<br/>전투 전 공격 <font color=\"red\">2</font>배의 <font color=\"blue\">고정 피해</font> <font color=\"red\">1</font>회.",
+            "SubSkills": null,
+            "Animation": null
+          },
+        {
+          "Name": "빛나는 칼날 돌진",
           "Cost": "COST 2",
           "Entries": [
             {
@@ -310,20 +366,46 @@ var data = [
             },
             {
               "Label": "사거리",
-              "Value": "1칸"
+              "Value": "2칸"
             },
             {
               "Label": "범위",
               "Value": "단일"
             }
           ],
-          "IconImageUrl": "../img/skills/36.webp",
-          "Desc": "[물리 피해] 단일 적군을 공격하여 1.3배 피해를 준다.<br/>전투 전 상대 버프 2개 제거.동시에 상대의 공격 및 지력 -20%, 1턴 지속.",
+          "IconImageUrl": "../img/skills/Taj/Temp.webp",
+          "Desc": "단일 개체 <font color=\"red\">1.5</font>배 피해<br/>전투 전 적에게 <font color=\"blue\">받는 치명타 확률 <font color=\"red\">+20%</font></font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/>버프 <font color=\"red\">7</font>개 이상 보유 시, 아군 <font color=\"green\">전술 수확</font> 주변 <font color=\"red\">2</font>칸 범위 안에 있는 적을 선택해 해당 스킬 사용 가능<br/><font color=\"blue\">병사도 함께 공격</font><br/><font color=\"blue\">해당 스킬은 근접전 페널티를 받지 않음</font>",
           "SubSkills": null,
           "Animation": null
         },
         {
-          "Name": "생명박리",
+        "Name": "절섬",
+        "Cost": "COST 2",
+        "Entries": [
+          {
+            "Label": "유형",
+            "Value": "물리피해"
+          },
+          {
+            "Label": "쿨타임",
+            "Value": "3턴"
+          },
+          {
+            "Label": "사거리",
+            "Value": "2칸"
+          },
+          {
+            "Label": "범위",
+            "Value": "단일"
+          }
+        ],
+        "IconImageUrl": "../img/skills/Skill_BladeSuper.webp",
+        "Desc": "단일 개체에게 <font color=\"red\">1.3</font>배 피해 및 <font color=\"blue\">호위 무시</font><br/>전투 전 적 <font color=\"blue\">버프</font> <font color=\"red\">2</font>개 <font color=\"blue\">강탈</font>",
+        "SubSkills": null,
+        "Animation": null
+      },
+        {
+          "Name": "성스러운 검의 기습",
           "Cost": "COST 3",
           "Entries": [
             {
@@ -332,11 +414,11 @@ var data = [
             },
             {
               "Label": "쿨타임",
-              "Value": "4턴"
+              "Value": "5턴"
             },
             {
               "Label": "사거리",
-              "Value": "1칸"
+              "Value": "2칸"
             },
             {
               "Label": "범위",
@@ -344,7 +426,7 @@ var data = [
             }
           ],
           "IconImageUrl": "../img/Super/타지.webp",
-          "Desc": "[패시브] 보유한 <font color=\"blue\">과열</font> <font color=\"red\">1</font>스택마다 받는 피해 <font color=\"red\">-6%</font>, 최대 <font color=\"red\">-30%</font><br/>[액티브] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/><font color=\"blue\">과열</font> <font color=\"red\">1</font>스택마다 목표의 버프 <font color=\"red\">1</font>개 해제<br/><font color=\"blue\">과부하</font> 상태에서 해당 스킬 사용 시 부대 치명타 확률 <font color=\"red\">+100%</font>, 전투 후 피해량 <font color=\"red\">30%</font> 수치로 생명 회복, 목표 격파 시 전투 후 <font color=\"blue\">과부하</font> 해제 (<font color=\"blue\">과부하</font> 해제 효과의 쿨타임 <font color=\"red\">5</font>턴)",
+          "Desc": "[패시브] <font color=\"orange\">교활한 명령</font> 반환 시 <font color=\"blue\">모든 피해 스킬 쿨 <font color=\"red\">-2</font>턴</font>, 처음 행동 종료 및 <font color=\"orange\">교활한 명령</font> 반환 시 전장의 모든 <font color=\"blue\">시대의 주역</font> 아군의 공격, 방어 능력치가 크게 상승하고, 공격하여 전투 진입 시 주는 피해량 <font color=\"red\">+15%</font> 및 전투 전 적의 버프 <font color=\"red\">1</font>개 탈취 효과 부여 (지속 <font color=\"red\">4</font>턴, 이 효과는 다른 초절강화 스킬과 중첩 불가)<br/><br/>[물리피해] 단일 개체 <font color=\"red\">1.8</font>배 피해<br/><font color=\"blue\">해당 스킬은 근접전 페널티를 받지 않음</font><br/><font color=\"blue\">병사도 함께 공격</font><br/>전투 전 적의 버프 <font color=\"red\">4</font>개 탈취<br/>목표 주변 <font color=\"red\">2</font>칸 내에 아군의 <font color=\"green\">전술 수확</font>이 있을 경우 <font color=\"blue\">호위 무시</font><br/>전투 후 <font color=\"blue\">재이동</font> <font color=\"red\">3</font>칸, <font color=\"blue\">재이동</font>으로 아군의 <font color=\"green\">전술 수확</font> 주위 <font color=\"red\">2</font>칸 통과 시 <font color=\"blue\">이동력 소모 없음</font><br/>목표가 <font color=\"blue\">장비 스킬 무효화</font> 보유 시 (목표가 NPC일 경우 임의의 디버프 효과 보유 시) 이번 공격의 <font color=\"blue\">주는 피해량</font> <font color=\"red\">+25%</font> 및 <font color=\"blue\">적의 부활 무효화</font> (<font color=\"blue\">부활 무효화</font>는 아레나에서만 발동)",
           "SubSkills": null,
           "Animation": "../img/Super/타지_Ani.webp"
         }
