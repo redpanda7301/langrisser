@@ -60,27 +60,30 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "지력 <font color=\"red\">+10%</font><br/>행동 종료 시, 자신이 위치한 칸에 '<font color=\"purple\">마법의 빛나는 흔적</font>'을 부여<br/><font color=\"purple\">마법의 빛나는 흔적</font> : [<font color=\"blue\">지휘</font>]. 주위 <font color=\"red\">2</font>칸 범위 안 아군의 공격 지력 <font color=\"red\">+10%</font>, 적 마방 <font color=\"red\">-10%</font><br/>지속 <font color=\"red\">2</font>행동<br/>공격 후, 아군의 '<font color=\"purple\">마법의 빛나는 흔적</font>' <font color=\"red\">1</font>개를 제거하고 그곳으로 <font color=\"blue\">텔레포트</font><br/>(턴에 <font color=\"red\">1</font>회 제한)<br/><font color=\"purple\">마법의 빛나는 흔적</font>은 지형 효과에서 우선한다"
+            "Desc": "지력 <font color=\"red\">+10%</font><br/>행동 종료 시, 자신이 위치한 칸에 '<font color=\"green\">마법의 빛나는 흔적</font>'을 부여<br/><font color=\"green\">마법의 빛나는 흔적</font> : [<font color=\"blue\">지휘</font>]. 주위 <font color=\"red\">2</font>칸 범위 안 아군의 공격 지력 <font color=\"red\">+10%</font>, 적 마방 <font color=\"red\">-10%</font><br/>지속 <font color=\"red\">2</font>행동<br/>공격 후, 아군의 '<font color=\"green\">마법의 빛나는 흔적</font>' <font color=\"red\">1</font>개를 제거하고 그곳으로 <font color=\"blue\">텔레포트</font><br/>(턴에 <font color=\"red\">1</font>회 제한)<br/><font color=\"green\">마법의 빛나는 흔적</font>은 지형 효과에서 우선한다"
           },
           {
-            "Desc": "지력 <font color=\"red\">+13%</font><br/>행동 종료 시, 자신이 위치한 칸에 '<font color=\"purple\">마법의 빛나는 흔적</font>'을 부여<br/><font color=\"purple\">마법의 빛나는 흔적</font> : [<font color=\"blue\">지휘</font>]. 주위 <font color=\"red\">2</font>칸 범위 안 아군의 공격 지력 <font color=\"red\">+10%</font>, 적 마방 <font color=\"red\">-10%</font><br/>지속 <font color=\"red\">2</font>행동<br/>공격 후, 아군의 '<font color=\"purple\">마법의 빛나는 흔적</font>' <font color=\"red\">1</font>개를 제거하고 그곳으로 <font color=\"blue\">텔레포트</font><br/>(턴에 <font color=\"red\">1</font>회 제한)<br/><font color=\"purple\">마법의 빛나는 흔적</font>은 지형 효과에서 우선한다"
+            "Desc": "지력 <font color=\"red\">+13%</font><br/>행동 종료 시, 자신이 위치한 칸에 '<font color=\"green\">마법의 빛나는 흔적</font>'을 부여<br/><font color=\"green\">마법의 빛나는 흔적</font> : [<font color=\"blue\">지휘</font>]. 주위 <font color=\"red\">2</font>칸 범위 안 아군의 공격 지력 <font color=\"red\">+10%</font>, 적 마방 <font color=\"red\">-10%</font><br/>지속 <font color=\"red\">2</font>행동<br/>공격 후, 아군의 '<font color=\"green\">마법의 빛나는 흔적</font>' <font color=\"red\">1</font>개를 제거하고 그곳으로 <font color=\"blue\">텔레포트</font><br/>(턴에 <font color=\"red\">1</font>회 제한)<br/><font color=\"green\">마법의 빛나는 흔적</font>은 지형 효과에서 우선한다"
           },
           {
-            "Desc": "지력 <font color=\"red\">+16%</font><br/>행동 종료 시, 자신이 위치한 칸에 '<font color=\"purple\">마법의 빛나는 흔적</font>'을 부여<br/><font color=\"purple\">마법의 빛나는 흔적</font> : [<font color=\"blue\">지휘</font>]. 주위 <font color=\"red\">2</font>칸 범위 안 아군의 공격 지력 <font color=\"red\">+10%</font>, 적 마방 <font color=\"red\">-10%</font><br/>지속 <font color=\"red\">2</font>행동<br/>공격 후, 아군의 '<font color=\"purple\">마법의 빛나는 흔적</font>' <font color=\"red\">1</font>개를 제거하고 그곳으로 <font color=\"blue\">텔레포트</font><br/>(턴에 <font color=\"red\">1</font>회 제한)<br/><font color=\"purple\">마법의 빛나는 흔적</font>은 지형 효과에서 우선한다"
+            "Desc": "지력 <font color=\"red\">+16%</font><br/>행동 종료 시, 자신이 위치한 칸에 '<font color=\"green\">마법의 빛나는 흔적</font>'을 부여<br/><font color=\"green\">마법의 빛나는 흔적</font> : [<font color=\"blue\">지휘</font>]. 주위 <font color=\"red\">2</font>칸 범위 안 아군의 공격 지력 <font color=\"red\">+10%</font>, 적 마방 <font color=\"red\">-10%</font><br/>지속 <font color=\"red\">2</font>행동<br/>공격 후, 아군의 '<font color=\"green\">마법의 빛나는 흔적</font>' <font color=\"red\">1</font>개를 제거하고 그곳으로 <font color=\"blue\">텔레포트</font><br/>(턴에 <font color=\"red\">1</font>회 제한)<br/><font color=\"green\">마법의 빛나는 흔적</font>은 지형 효과에서 우선한다"
           },
           {
-            "Desc": "지력 <font color=\"red\">+20%</font><br/>행동 종료 시, 자신이 위치한 칸에 '<font color=\"purple\">마법의 빛나는 흔적</font>'을 부여<br/><font color=\"purple\">마법의 빛나는 흔적</font> : [<font color=\"blue\">지휘</font>]. 주위 <font color=\"red\">2</font>칸 범위 안 아군의 공격 지력 <font color=\"red\">+10%</font>, 적 마방 <font color=\"red\">-10%</font><br/>지속 <font color=\"red\">2</font>행동<br/>공격 후, 아군의 '<font color=\"purple\">마법의 빛나는 흔적</font>' <font color=\"red\">1</font>개를 제거하고 그곳으로 <font color=\"blue\">텔레포트</font><br/>(턴에 <font color=\"red\">1</font>회 제한)<br/><font color=\"purple\">마법의 빛나는 흔적</font>은 지형 효과에서 우선한다"
+            "Desc": "지력 <font color=\"red\">+20%</font><br/>행동 종료 시, 자신이 위치한 칸에 '<font color=\"green\">마법의 빛나는 흔적</font>'을 부여<br/><font color=\"green\">마법의 빛나는 흔적</font> : [<font color=\"blue\">지휘</font>]. 주위 <font color=\"red\">2</font>칸 범위 안 아군의 공격 지력 <font color=\"red\">+10%</font>, 적 마방 <font color=\"red\">-10%</font><br/>지속 <font color=\"red\">2</font>행동<br/>공격 후, 아군의 '<font color=\"green\">마법의 빛나는 흔적</font>' <font color=\"red\">1</font>개를 제거하고 그곳으로 <font color=\"blue\">텔레포트</font><br/>(턴에 <font color=\"red\">1</font>회 제한)<br/><font color=\"green\">마법의 빛나는 흔적</font>은 지형 효과에서 우선한다"
           }
         ]
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "마법의 원류",
+      "Stats": "<font color=\"blue\">마법의 깜빡임</font> 스킬 사용 후, <font color=\"blue\">남은 이동력</font> <font color=\"red\">+2</font>칸 <font color=\"blue\">재행동</font> 가능<br/>고유 스킬 효과로 <font color=\"green\">마법의 빛나는 흔적</font> 제거 시 자신의 모든 <font color=\"blue\">스킬 쿨타임</font> <font color=\"red\">-1</font>턴"
+    },
     "Equip": {
       "EqpName": "새벽바람(갑옷)",
       "Stats": "생명 583, 방어 54",
       "Icon": "제이스.webp",
-      "Ability": "생명 <font color=\"red\">+10%</font><br/>피해를 입히고 행동 종료 시, 현재 쿨타임이 가장 짧은 스킬 쿨 <font color=\"red\">-1</font><br/>전장에 있는 <font color=\"purple\">마법의 빛나는 흔적</font> <font color=\"red\">1</font>개당 적 마방 <font color=\"red\">5%</font> 무시 (최대 <font color=\"red\">20%</font>)"
+      "Ability": "생명 <font color=\"red\">+10%</font><br/>피해를 입히고 행동 종료 시, 현재 쿨타임이 가장 짧은 스킬 쿨 <font color=\"red\">-1</font><br/>전장에 있는 <font color=\"green\">마법의 빛나는 흔적</font> <font color=\"red\">1</font>개당 적 마방 <font color=\"red\">5%</font> 무시 (최대 <font color=\"red\">20%</font>)"
     },
     "Soldiers": [
       "마녀",
@@ -347,7 +350,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/Jayce/2.webp",
-        "Desc": "자신이나 방어지형, 혹은 아군의 <font color=\"purple\">마법이 빛나는 흔적</font>에 사용<br/>빈 목표 지점으로 <font color=\"blue\">텔레포트</font> 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font><br/>해당 스킬로 인한 재행동은 버프 지속시간을 소모하지 않음",
+        "Desc": "자신이나 방어지형, 혹은 아군의 <font color=\"green\">마법의 빛나는 흔적</font>에 사용<br/>빈 목표 지점으로 <font color=\"blue\">텔레포트</font> 후 <font color=\"red\">2</font>칸 <font color=\"blue\">재행동</font><br/>해당 스킬로 인한 재행동은 버프 지속시간을 소모하지 않음",
         "SubSkills": null,
         "Animation": null
       },

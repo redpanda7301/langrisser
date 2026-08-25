@@ -68,27 +68,30 @@ var data = [
             "Desc": "2성"
           },
           {
-            "Desc": "병종 상성 무시<br/>전투진입시 피해 증가 <font color=\"red\">+10%</font><br/>전투 시작시 [<font color=\"purple\">검의 영혼의 힘</font>] 효과 획득<br/><font color=\"purple\">검의 영혼의 힘</font> : 공격 <font color=\"red\">+10%</font>, 이동력 <font color=\"red\">+2</font><br/>사망시 <font color=\"purple\">검의 영혼의 힘</font> 효과를 소모하여 생명 <font color=\"Red\">20%</font> 수치로 <font color=\"blue\">부활</font><br/> 매 <font color=\"blue\">부활</font>시 부대 <font color=\"green\">회복량</font>은 절반으로 감소<br/><font color=\"purple\">검의 영혼의 힘</font>은 <b>면역 및 해제불가</b><br/>중첩 불가<br/>적 사망시 해당 위치에 특수효과 [<font color=\"blue\">영혼의 잠재</font>] 생성<br/><font color=\"blue\">영혼의 잠재</font> : 빛과 그림자 검의 영혼 행동 종료시, 자신 주변 <font color=\"red\">1</font>바퀴 이내에 있는 아군의 [<font color=\"blue\">영혼의 잠재</font>] 로 [<font color=\"purple\">검의 영혼의 힘</font>] 충전 가능 <br/>[<font color=\"blue\">영혼의 잠재</font>] 는 다른 지형효과보다 우선도가 높다."
+            "Desc": "병종 상성 무시<br/>전투진입시 피해 증가 <font color=\"red\">+10%</font><br/>전투 시작시 [<font color=\"orange\">검의 영혼의 힘</font>] 효과 획득<br/><font color=\"orange\">검의 영혼의 힘</font> : 공격 <font color=\"red\">+10%</font>, 이동력 <font color=\"red\">+2</font><br/>사망시 <font color=\"orange\">검의 영혼의 힘</font> 효과를 소모하여 생명 <font color=\"Red\">20%</font> 수치로 <font color=\"blue\">부활</font><br/> 매 <font color=\"blue\">부활</font>시 부대 <font color=\"green\">회복량</font>은 절반으로 감소<br/><font color=\"orange\">검의 영혼의 힘</font>은 <b>면역 및 해제불가</b><br/>중첩 불가<br/>적 사망시 해당 위치에 특수효과 [<font color=\"green\">영혼의 잔재</font>] 생성<br/><font color=\"green\">영혼의 잔재</font> : 빛과 그림자 검의 영혼 행동 종료시, 자신 주변 <font color=\"red\">1</font>바퀴 이내에 있는 아군의 [<font color=\"green\">영혼의 잔재</font>] 로 [<font color=\"orange\">검의 영혼의 힘</font>] 충전 가능 <br/>[<font color=\"green\">영혼의 잔재</font>] 는 다른 지형효과보다 우선도가 높다."
           },
           {
-            "Desc": "병종 상성 무시<br/>전투진입시 피해 증가 <font color=\"red\">+15%</font><br/>전투 시작시 [<font color=\"purple\">검의 영혼의 힘</font>] 효과 획득<br/><font color=\"purple\">검의 영혼의 힘</font> : 공격 <font color=\"red\">+10%</font>, 이동력 <font color=\"red\">+2</font><br/>사망시 <font color=\"purple\">검의 영혼의 힘</font> 효과를 소모하여 생명 <font color=\"Red\">30%</font> 수치로 <font color=\"blue\">부활</font><br/> 매 <font color=\"blue\">부활</font>시 부대 <font color=\"green\">회복량</font>은 절반으로 감소<br/><font color=\"purple\">검의 영혼의 힘</font>은 <b>면역 및 해제불가</b><br/>중첩 불가<br/>적 사망시 해당 위치에 특수효과 [<font color=\"blue\">영혼의 잠재</font>] 생성<br/><font color=\"blue\">영혼의 잠재</font> : 빛과 그림자 검의 영혼 행동 종료시, 자신 주변 <font color=\"red\">1</font>바퀴 이내에 있는 아군의 [<font color=\"blue\">영혼의 잠재</font>] 로 [<font color=\"purple\">검의 영혼의 힘</font>] 충전 가능 <br/>[<font color=\"blue\">영혼의 잠재</font>] 는 다른 지형효과보다 우선도가 높다."
+            "Desc": "병종 상성 무시<br/>전투진입시 피해 증가 <font color=\"red\">+15%</font><br/>전투 시작시 [<font color=\"orange\">검의 영혼의 힘</font>] 효과 획득<br/><font color=\"orange\">검의 영혼의 힘</font> : 공격 <font color=\"red\">+10%</font>, 이동력 <font color=\"red\">+2</font><br/>사망시 <font color=\"orange\">검의 영혼의 힘</font> 효과를 소모하여 생명 <font color=\"Red\">30%</font> 수치로 <font color=\"blue\">부활</font><br/> 매 <font color=\"blue\">부활</font>시 부대 <font color=\"green\">회복량</font>은 절반으로 감소<br/><font color=\"orange\">검의 영혼의 힘</font>은 <b>면역 및 해제불가</b><br/>중첩 불가<br/>적 사망시 해당 위치에 특수효과 [<font color=\"green\">영혼의 잔재</font>] 생성<br/><font color=\"green\">영혼의 잔재</font> : 빛과 그림자 검의 영혼 행동 종료시, 자신 주변 <font color=\"red\">1</font>바퀴 이내에 있는 아군의 [<font color=\"green\">영혼의 잔재</font>] 로 [<font color=\"orange\">검의 영혼의 힘</font>] 충전 가능 <br/>[<font color=\"green\">영혼의 잔재</font>] 는 다른 지형효과보다 우선도가 높다."
           },
           {
-            "Desc": "병종 상성 무시<br/>전투진입시 피해 증가 <font color=\"red\">+20%</font><br/>전투 시작시 [<font color=\"purple\">검의 영혼의 힘</font>] 효과 획득<br/><font color=\"purple\">검의 영혼의 힘</font> : 공격 <font color=\"red\">+10%</font>, 이동력 <font color=\"red\">+2</font><br/>사망시 <font color=\"purple\">검의 영혼의 힘</font> 효과를 소모하여 생명 <font color=\"Red\">40%</font> 수치로 <font color=\"blue\">부활</font><br/> 매 <font color=\"blue\">부활</font>시 부대 <font color=\"green\">회복량</font>은 절반으로 감소<br/><font color=\"purple\">검의 영혼의 힘</font>은 <b>면역 및 해제불가</b><br/>중첩 불가<br/>적 사망시 해당 위치에 특수효과 [<font color=\"blue\">영혼의 잠재</font>] 생성<br/><font color=\"blue\">영혼의 잠재</font> : 빛과 그림자 검의 영혼 행동 종료시, 자신 주변 <font color=\"red\">1</font>바퀴 이내에 있는 아군의 [<font color=\"blue\">영혼의 잠재</font>] 로 [<font color=\"purple\">검의 영혼의 힘</font>] 충전 가능 <br/>[<font color=\"blue\">영혼의 잠재</font>] 는 다른 지형효과보다 우선도가 높다."
+            "Desc": "병종 상성 무시<br/>전투진입시 피해 증가 <font color=\"red\">+20%</font><br/>전투 시작시 [<font color=\"orange\">검의 영혼의 힘</font>] 효과 획득<br/><font color=\"orange\">검의 영혼의 힘</font> : 공격 <font color=\"red\">+10%</font>, 이동력 <font color=\"red\">+2</font><br/>사망시 <font color=\"orange\">검의 영혼의 힘</font> 효과를 소모하여 생명 <font color=\"Red\">40%</font> 수치로 <font color=\"blue\">부활</font><br/> 매 <font color=\"blue\">부활</font>시 부대 <font color=\"green\">회복량</font>은 절반으로 감소<br/><font color=\"orange\">검의 영혼의 힘</font>은 <b>면역 및 해제불가</b><br/>중첩 불가<br/>적 사망시 해당 위치에 특수효과 [<font color=\"green\">영혼의 잔재</font>] 생성<br/><font color=\"green\">영혼의 잔재</font> : 빛과 그림자 검의 영혼 행동 종료시, 자신 주변 <font color=\"red\">1</font>바퀴 이내에 있는 아군의 [<font color=\"green\">영혼의 잔재</font>] 로 [<font color=\"orange\">검의 영혼의 힘</font>] 충전 가능 <br/>[<font color=\"green\">영혼의 잔재</font>] 는 다른 지형효과보다 우선도가 높다."
           },
           {
-            "Desc": "병종 상성 무시<br/>전투진입시 피해 증가 <font color=\"red\">+30%</font><br/>전투 시작시 [<font color=\"purple\">검의 영혼의 힘</font>] 효과 획득<br/><font color=\"purple\">검의 영혼의 힘</font> : 공격 <font color=\"red\">+10%</font>, 이동력 <font color=\"red\">+2</font><br/>사망시 <font color=\"purple\">검의 영혼의 힘</font> 효과를 소모하여 생명 <font color=\"Red\">50%</font> 수치로 <font color=\"blue\">부활</font><br/> 매 <font color=\"blue\">부활</font>시 부대 <font color=\"green\">회복량</font>은 절반으로 감소<br/><font color=\"purple\">검의 영혼의 힘</font>은 <b>면역 및 해제불가</b><br/>중첩 불가<br/>적 사망시 해당 위치에 특수효과 [<font color=\"blue\">영혼의 잠재</font>] 생성<br/><font color=\"blue\">영혼의 잠재</font> : 빛과 그림자 검의 영혼 행동 종료시, 자신 주변 <font color=\"red\">1</font>바퀴 이내에 있는 아군의 [<font color=\"blue\">영혼의 잠재</font>] 로 [<font color=\"purple\">검의 영혼의 힘</font>] 충전 가능 <br/>[<font color=\"blue\">영혼의 잠재</font>] 는 다른 지형효과보다 우선도가 높다."
+            "Desc": "병종 상성 무시<br/>전투진입시 피해 증가 <font color=\"red\">+30%</font><br/>전투 시작시 [<font color=\"orange\">검의 영혼의 힘</font>] 효과 획득<br/><font color=\"orange\">검의 영혼의 힘</font> : 공격 <font color=\"red\">+10%</font>, 이동력 <font color=\"red\">+2</font><br/>사망시 <font color=\"orange\">검의 영혼의 힘</font> 효과를 소모하여 생명 <font color=\"Red\">50%</font> 수치로 <font color=\"blue\">부활</font><br/> 매 <font color=\"blue\">부활</font>시 부대 <font color=\"green\">회복량</font>은 절반으로 감소<br/><font color=\"orange\">검의 영혼의 힘</font>은 <b>면역 및 해제불가</b><br/>중첩 불가<br/>적 사망시 해당 위치에 특수효과 [<font color=\"green\">영혼의 잔재</font>] 생성<br/><font color=\"green\">영혼의 잔재</font> : 빛과 그림자 검의 영혼 행동 종료시, 자신 주변 <font color=\"red\">1</font>바퀴 이내에 있는 아군의 [<font color=\"green\">영혼의 잔재</font>] 로 [<font color=\"orange\">검의 영혼의 힘</font>] 충전 가능 <br/>[<font color=\"green\">영혼의 잔재</font>] 는 다른 지형효과보다 우선도가 높다."
           }
         ]
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "마검의 칼끝",
+      "Stats": "공격하여 피해를 입히기 전, 적에게 디버프 <font color=\"red\">1</font>개 부여<br/>행동 종료 시 자신 주위 <font color=\"red\">1</font>바퀴 범위 안에 있는 아군의 <font color=\"green\">영혼의 잔재</font> <font color=\"red\">1</font>개당 자신의 모든 <font color=\"blue\">피해 스킬 쿨타임</font> <font color=\"red\">-1</font>턴, 최대 <font color=\"red\">-3</font>턴"
+    },
     "Equip": {
       "EqpName": "교차하는 소망(갑옷)",
       "Stats": "생명 364, 방어 65",
       "Icon": "빛과그림자검의영혼.webp",
-      "Ability": "생명, 방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">부활</font> 가능한 적과 전투 시, 부대 공방 <font color=\"red\">+10%</font><br/>자신이 <font color=\"blue\">부활</font> 발동 후, 해당 위치에 <font color=\"purple\">영혼의 잔재</font> 생성 (쿨 3)"
+      "Ability": "생명, 방어 <font color=\"red\">+5%</font><br/><font color=\"blue\">부활</font> 가능한 적과 전투 시, 부대 공방 <font color=\"red\">+10%</font><br/>자신이 <font color=\"blue\">부활</font> 발동 후, 해당 위치에 <font color=\"green\">영혼의 잔재</font> 생성 (쿨 <font color=\"red\">3</font>턴)"
     },
     "Soldiers": [
       "중장 보병",
@@ -493,7 +496,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/skills/SwordLightShadow/1.webp",
-        "Desc": "아군 또는 <font color=\"blue\">영혼의 잠재</font>에 <font color=\"blue\">텔레포트</font><br/>자신에게 공격 <font color=\"red\">+20%</font> 부여 및 <font color=\"blue\">디버프 면역</font> 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font>",
+        "Desc": "아군 또는 <font color=\"green\">영혼의 잔재</font>에 <font color=\"blue\">텔레포트</font><br/>자신에게 공격 <font color=\"red\">+20%</font> 부여 및 <font color=\"blue\">디버프 면역</font> 획득<br/> 지속 <font color=\"red\">2</font>행동<br/>사용 후 <font color=\"red\">3</font>칸 <font color=\"blue\">재행동</font>",
         "SubSkills": null,
         "Animation": null
       },
@@ -559,7 +562,7 @@ var data = [
           }
         ],
         "IconImageUrl": "../img/Super/빛과그림자검의영혼.webp",
-        "Desc": "[패시브] 자신에게 <font color=\"purple\">검의 영혼의 힘</font> 이 있는 상태로 행동 종료시<br/> 주위 <font color=\"red\">1</font>바퀴 이내 모든 적군에게 <font color=\"red\">0.1</font>배 <font color=\"blue\">범위 피해</font> 및 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font> <br/>[물리피해] 단일 개체에게 <font color=\"red\">1.8</font>배 피해<br/> 전투 전 적 부대의 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font> 및 [<font color=\"blue\">쇠약</font>] 효과 부여<br/><font color=\"blue\">쇠약</font> : <font color=\"blue\">부활 불가</font><br/>지속 <font color=\"red\">2</font>행동. 해제 불가.<br/><font color=\"purple\">검의 영혼의 힘</font> 효과 보유 시 해당 전투는 <font color=\"blue\">선제 공격</font><br/><b><font color=\"blue\">부활 불가</font> 효과는 아레나에서만 유효</b>",
+        "Desc": "[패시브] 자신에게 <font color=\"orange\">검의 영혼의 힘</font> 이 있는 상태로 행동 종료시<br/> 주위 <font color=\"red\">1</font>바퀴 이내 모든 적군에게 <font color=\"red\">0.1</font>배 <font color=\"blue\">범위 피해</font> 및 부대 생명 <font color=\"red\">20%</font> <font color=\"green\">회복</font> <br/>[물리피해] 단일 개체에게 <font color=\"red\">1.8</font>배 피해<br/> 전투 전 적 부대의 <font color=\"blue\">버프</font> <font color=\"red\">5</font>개 <font color=\"blue\">제거</font> 및 [<font color=\"blue\">쇠약</font>] 효과 부여<br/><font color=\"blue\">쇠약</font> : <font color=\"blue\">부활 불가</font><br/>지속 <font color=\"red\">2</font>행동. 해제 불가.<br/><font color=\"orange\">검의 영혼의 힘</font> 효과 보유 시 해당 전투는 <font color=\"blue\">선제 공격</font><br/><b><font color=\"blue\">부활 불가</font> 효과는 아레나에서만 유효</b>",
         "SubSkills": null,
         "Animation": "../img/Super/빛과그림자검의영혼_Ani.webp"
       }

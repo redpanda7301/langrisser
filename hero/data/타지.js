@@ -198,7 +198,7 @@ var data = [
               }
         ],
         "IconImageUrl": "../img/skills/Taj/Temp.webp",
-        "Desc": "[패시브] 행동 종료 시 부대 생명 <font color=\"red\">20%</font> 수치만큼 <font color=\"blue\">회복</font><br/><br/>[액티브] 이하의 스킬 중 하나 사용 가능<br/>이하 스킬 사용 후 남은 이동력만큼 <font color=\"blue\">재행동</font> 가능<br/>해당 <font color=\"blue\">재행동</font>은 <font color=\"blue\">자신이 보유한 버프 지속 시간이 감소하지 않음</font><br/>타지 및 <font color=\"green\">전술 수확</font> 은 동시에 <font color=\"red\">1</font>개 효과만 보유 가능<br/>(해당 스킬 사용 후 행동 종료 시 <font color=\"blue\">교활한 명령</font> 회수 및 배치 불가)",
+        "Desc": "[패시브] 행동 종료 시 부대 생명 <font color=\"red\">20%</font> 수치만큼 <font color=\"blue\">회복</font><br/><br/>[액티브] 이하의 스킬 중 하나 사용 가능<br/>이하 스킬 사용 후 남은 이동력만큼 <font color=\"blue\">재행동</font> 가능<br/>해당 <font color=\"blue\">재행동</font>은 <font color=\"blue\">자신이 보유한 버프 지속 시간이 감소하지 않음</font><br/>타지 및 <font color=\"green\">전술 수확</font> 은 동시에 <font color=\"red\">1</font>개 효과만 보유 가능<br/>(해당 스킬 사용 후 행동 종료 시 <font color=\"orange\">교활한 명령</font> 회수 및 배치 불가)",
         "SubSkills": [
           {
             "Name": "의적",

@@ -76,7 +76,12 @@ var data = [
     ],
     "SPTalent": null,
     "Second_Awaken": null,
-    "Equip": null,
+    "Equip": {
+      "EqpName": "부러진 날개의 그림자(투구)",
+      "Stats": "생명 437,마방 59",
+      "Icon": "히비스커스.webp",
+      "Ability": "생명 <font color=\"red\">+10%</font><br/>자신이 행동 종료한 상태에서 적이 <font color=\"orange\">파악</font> 효과 획득 시 <font color=\"blue\">재행동</font> (<font color=\"red\">1</font>턴에 <font color=\"red\">1</font>번)<br/><font color=\"orange\">주시</font>를 가진 적이 행동 종료 시, 해당 적과 직선 범위에서 가장 가까운 모든 적에게 <font color=\"orange\">파악</font> 부여"
+    },
     "Soldiers": [
       "하이엘프",
       "마녀",

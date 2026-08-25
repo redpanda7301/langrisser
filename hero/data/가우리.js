@@ -75,7 +75,10 @@
       }
     ],
     "SPTalent": null,
-    "Second_Awaken": null,
+    "Second_Awaken": {
+      "Name": "빛의 용사",
+      "Stats": "보유 버프 수량이 자신 이하인 부대를 공격할 때, <font color=\"blue\">영웅이 적의 방어 <font color=\"red\">10%</font> 무시</font><br/>버프 <font color=\"red\">5</font>개 이상 보유 시 전투 후 생명 <font color=\"red\">20%</font> <font color=\"blue\">회복</font>"
+    },
     "Equip": null,
     "Soldiers": [
       "광전사",
