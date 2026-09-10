@@ -515,8 +515,8 @@ var data = [
         "Animation": null
       },
       {
-        "Name": "비호",
-        "Cost": "수호의 검 (COST 1",
+        "Name": "수호의 검",
+        "Cost": "COST 1",
         "Entries": [
           {
             "Label": "유형",
